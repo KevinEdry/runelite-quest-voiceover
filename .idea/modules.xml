@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/rl-voiceover.iml" filepath="$PROJECT_DIR$/.idea/rl-voiceover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rl-voiceover.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rl-voiceover.main.iml" />
     </modules>
   </component>
 </project>

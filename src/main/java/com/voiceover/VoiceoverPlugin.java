@@ -1,4 +1,4 @@
-package com.example;
+package com.voiceover;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -6,6 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
 import net.runelite.api.GameState;
+import net.runelite.api.events.ChatMessage;
 import net.runelite.api.events.GameStateChanged;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
@@ -14,15 +15,15 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Example"
+	name = "VoiceoverPlugin"
 )
-public class ExamplePlugin extends Plugin
+public class VoiceoverPlugin extends Plugin
 {
 	@Inject
 	private Client client;
 
 	@Inject
-	private ExampleConfig config;
+	private VoiceoverConfig config;
 
 	@Override
 	protected void startUp() throws Exception
@@ -37,6 +38,17 @@ public class ExamplePlugin extends Plugin
 	}
 
 	@Subscribe
+	public void onChatMessage(ChatMessage chatMessage) {
+		if(chatMessage.getType().equals(ChatMessageType.DIALOG)) {
+			MessageUtils message = new MessageUtils(chatMessage.getMessage());
+			System.out.printf("ID: %s | Sender: %s | Message: %s", message.id, message.name, message.text);
+			if(SoundPlayer.soundFileExist(String.format("%s.wav", message.id))) {
+				SoundPlayer.playSound(String.format("%s.wav", message.id));
+			}
+		}
+	}
+
+	@Subscribe
 	public void onGameStateChanged(GameStateChanged gameStateChanged)
 	{
 		if (gameStateChanged.getGameState() == GameState.LOGGED_IN)
@@ -46,8 +58,8 @@ public class ExamplePlugin extends Plugin
 	}
 
 	@Provides
-	ExampleConfig provideConfig(ConfigManager configManager)
+	VoiceoverConfig provideConfig(ConfigManager configManager)
 	{
-		return configManager.getConfig(ExampleConfig.class);
+		return configManager.getConfig(VoiceoverConfig.class);
 	}
 }
