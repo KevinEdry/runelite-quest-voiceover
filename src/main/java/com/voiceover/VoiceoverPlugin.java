@@ -37,6 +37,7 @@ public class VoiceoverPlugin extends Plugin
 		log.info("Example stopped!");
 	}
 
+
 	@Subscribe
 	public void onChatMessage(ChatMessage chatMessage) {
 		if(chatMessage.getType().equals(ChatMessageType.DIALOG)) {
