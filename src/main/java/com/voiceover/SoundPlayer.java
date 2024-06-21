@@ -6,6 +6,8 @@ import java.io.InputStream;
 
 public class SoundPlayer
 {
+    private static Clip clip;
+
     public static boolean soundFileExist(String soundFileName) {
         try (InputStream audioSrc = SoundPlayer.class.getResourceAsStream("/" + soundFileName))
         {
@@ -20,6 +22,7 @@ public class SoundPlayer
 
     public static void playSound(String soundFileName)
     {
+        stopSound();  // Stop any currently playing sound before starting a new one
         try (InputStream audioSrc = SoundPlayer.class.getResourceAsStream("/" + soundFileName))
         {
             if (audioSrc == null)
@@ -30,7 +33,7 @@ public class SoundPlayer
             try (InputStream bufferedIn = new java.io.BufferedInputStream(audioSrc))
             {
                 AudioInputStream audioStream = AudioSystem.getAudioInputStream(bufferedIn);
-                Clip clip = AudioSystem.getClip();
+                clip = AudioSystem.getClip();
                 clip.open(audioStream);
                 clip.start();
             }
@@ -38,6 +41,15 @@ public class SoundPlayer
         catch (UnsupportedAudioFileException | IOException | LineUnavailableException e)
         {
             e.printStackTrace();
+        }
+    }
+
+    public static void stopSound()
+    {
+        if (clip != null && clip.isRunning())
+        {
+            clip.stop();
+            clip.close();
         }
     }
 }
