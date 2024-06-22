@@ -21,9 +21,18 @@ dependencies {
 	testImplementation 'junit:junit:4.12'
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
+
+	//Mp3 player, this is already used by other verified plugins so no need to check (except the hash ofcourse)
+	implementation files("./lib/jaco-mp3-player-0.9.5.jar")
 }
 
-group = 'com.example'
+tasks.register('verifyDependencies') {
+	doLast {
+		println "Run './gradlew --write-verification-metadata sha256' to update the verification metadata."
+	}
+}
+
+group = 'com.voiceover'
 version = '1.0-SNAPSHOT'
 
 tasks.withType(JavaCompile) {

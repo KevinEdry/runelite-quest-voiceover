@@ -28,11 +28,11 @@ public class MessageUtils {
         }
     }
 
-    public MessageUtils(String message) {
+    public MessageUtils(String message, String playerName) {
         String[] messageDeconstruction = message.split("\\|", 2);
-        this.name = messageDeconstruction[0];
+        this.name = messageDeconstruction[0].equals(playerName) ? "Player" : messageDeconstruction[0];
         this.text = messageDeconstruction[1];
-        this.id = this.generateUniqueId(message);
+        this.id = this.generateUniqueId(String.format("%s|%s", this.name, this.text));
     }
 
 }
