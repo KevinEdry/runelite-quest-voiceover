@@ -1,11 +1,11 @@
-package com.voiceover;
+package com.quest.voiceover;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
 @ConfigGroup("voiceover")
-public interface VoiceoverConfig extends Config
+public interface QuestVoiceoverConfig extends Config
 {
 	@ConfigItem(
 		keyName = "greeting",

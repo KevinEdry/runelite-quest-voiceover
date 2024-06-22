@@ -1,4 +1,4 @@
-package com.voiceover;
+package com.quest.voiceover;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -14,15 +14,15 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "VoiceoverPlugin"
+	name = "QuestVoiceoverPlugin"
 )
-public class VoiceoverPlugin extends Plugin
+public class QuestVoiceoverPlugin extends Plugin
 {
 	@Inject
 	private Client client;
 
 	@Inject
-	private VoiceoverConfig config;
+	private QuestVoiceoverConfig config;
 //
 //	@Inject
 //	private ScheduledExecutorService executor;
@@ -84,8 +84,8 @@ public class VoiceoverPlugin extends Plugin
 	}
 
 	@Provides
-	VoiceoverConfig provideConfig(ConfigManager configManager)
+	QuestVoiceoverConfig provideConfig(ConfigManager configManager)
 	{
-		return configManager.getConfig(VoiceoverConfig.class);
+		return configManager.getConfig(QuestVoiceoverConfig.class);
 	}
 }
