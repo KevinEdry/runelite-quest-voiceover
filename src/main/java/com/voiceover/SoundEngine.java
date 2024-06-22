@@ -1,12 +1,15 @@
 package com.voiceover;
 
 import jaco.mp3.player.MP3Player;
+import okhttp3.HttpUrl;
+
 import java.io.File;
 import java.net.URISyntaxException;
 import java.net.URL;
 
 public class SoundEngine {
 
+    private static HttpUrl RAW_GITHUB_SOUND_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/sounds");
     private volatile MP3Player jacoPlayer;
 
     private File getFileFromResource(String fileName) throws URISyntaxException {
@@ -29,15 +32,11 @@ public class SoundEngine {
     public void play(String fileName) throws URISyntaxException {
         stop();
         MP3Player player = getJacoPlayer();
-        File file = this.getFileFromResource(fileName);
 
-        if (file.exists() && file.canRead()) {
-            player.add(file);
-            player.play();
-        }
-        else {
-            System.out.println("File not found");
-        }
+        HttpUrl httpUrl = RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(fileName).build();
+        URL soundUrl = httpUrl.url();
+        player.add(soundUrl);
+        player.play();
     }
 
     public void stop() {
