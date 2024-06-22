@@ -13,7 +13,7 @@ public class HashUtils {
             for (byte b : messageDigest) {
                 hexString.append(String.format("%02x", b));
             }
-            return hexString.toString();
+             return hexString.toString();
         } catch (NoSuchAlgorithmException e) {
             throw new RuntimeException(e);
         }

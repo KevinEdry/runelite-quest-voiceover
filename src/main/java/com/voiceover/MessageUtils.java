@@ -20,8 +20,8 @@ public class MessageUtils {
     public MessageUtils(String message, String playerName) {
         String[] messageArray = message.split("\\|", 2);
         this.name = messageArray[0].equals(playerName) ? PLAYER : messageArray[0];
-        this.text = messageArray[1];
-        this.id = HashUtils.convertToSHA(this.name + "|" + this.text);
+        this.text = messageArray[1].trim();
+        this.id = HashUtils.convertToMD5(this.name + "|" + this.text);
     }
 
 }
