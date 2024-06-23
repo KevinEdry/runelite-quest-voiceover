@@ -33,7 +33,7 @@ public class SoundEngine {
         URL soundUrl = httpUrl.url();
 
         try {
-            player.setVolume(config.volume());
+            player.setVolume(config.mute() ? 0 : config.volume());
             player.addToPlayList(soundUrl);
             player.play();
             soundPlaying = true;

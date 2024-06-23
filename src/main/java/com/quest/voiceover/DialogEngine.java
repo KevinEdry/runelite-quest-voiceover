@@ -57,16 +57,12 @@ public class DialogEngine {
     }
 
     private void addMuteButton(Widget widget) {
-
-
         Widget muteButton = widget.createChild(-1, WidgetType.GRAPHIC);
-
-        //1661 (32 x 32) also viable
-        //1662 (32 x 32)
         int musicSprite = config.mute() ? SpriteID.OPTIONS_MUSIC_DISABLED : SpriteID.OPTIONS_MUSIC_VOLUME;
+
         muteButton.setSpriteId(musicSprite);
-        muteButton.setOriginalWidth(20);
-        muteButton.setOriginalHeight(20);
+        muteButton.setOriginalWidth(32);
+        muteButton.setOriginalHeight(32);
         muteButton.setXPositionMode(WidgetPositionMode.ABSOLUTE_RIGHT);
         muteButton.setOriginalX(10);
         muteButton.setOriginalY(10);
