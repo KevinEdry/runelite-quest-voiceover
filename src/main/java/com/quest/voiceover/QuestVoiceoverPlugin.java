@@ -1,4 +1,4 @@
-package com.voiceover;
+package com.quest.voiceover;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
@@ -13,15 +13,15 @@ import net.runelite.client.plugins.PluginDescriptor;
 
 @Slf4j
 @PluginDescriptor(
-	name = "VoiceoverPlugin"
+	name = "Quest Voiceover Plugin"
 )
-public class VoiceoverPlugin extends Plugin
+public class QuestVoiceoverPlugin extends Plugin
 {
 	@Inject
 	private Client client;
 
 	@Inject
-	private VoiceoverConfig config;
+	private QuestVoiceoverConfig config;
 
 	private String playerName = null;
 	private Boolean dialogOpened = false;
@@ -50,7 +50,6 @@ public class VoiceoverPlugin extends Plugin
 			}
 
 			MessageUtils message = new MessageUtils(chatMessage.getMessage(), this.playerName);
-//			System.out.printf(chatMessage.getMessage());
 			System.out.printf("ID: %s | Sender: %s | Message: %s \n", message.id, message.name, message.text);
 			try{
 				soundEngine.play(String.format("%s.mp3", message.id));
@@ -61,14 +60,6 @@ public class VoiceoverPlugin extends Plugin
 		}
 	}
 
-//	@Subscribe
-//	public void onGameStateChanged(GameStateChanged gameStateChanged)
-//	{
-//		if (gameStateChanged.getGameState() == GameState.LOGGED_IN)
-//		{
-//			client.addChatMessage(ChatMessageType.GAMEMESSAGE, "", "Example says " + config.greeting(), null);
-//		}
-//	}
 
 	@Subscribe
 	public void onMenuOptionClicked(MenuOptionClicked event)
@@ -107,8 +98,8 @@ public class VoiceoverPlugin extends Plugin
 	}
 
 	@Provides
-	VoiceoverConfig provideConfig(ConfigManager configManager)
+	QuestVoiceoverConfig provideConfig(ConfigManager configManager)
 	{
-		return configManager.getConfig(VoiceoverConfig.class);
+		return configManager.getConfig(QuestVoiceoverConfig.class);
 	}
 }

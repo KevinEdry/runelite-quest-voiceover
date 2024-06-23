@@ -1,4 +1,4 @@
-package com.voiceover;
+package com.quest.voiceover;
 
 import jaco.mp3.player.MP3Player;
 import lombok.extern.slf4j.Slf4j;

@@ -32,7 +32,7 @@ tasks.register('verifyDependencies') {
 	}
 }
 
-group = 'com.voiceover'
+group = 'com.quest.voiceover'
 version = '1.0-SNAPSHOT'
 
 tasks.withType(JavaCompile) {

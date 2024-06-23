@@ -1,13 +1,13 @@
-package com.voiceover;
+package com.quest.voiceover;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class VoiceoverPluginTest
+public class QuestVoiceoverPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(VoiceoverPlugin.class);
+		ExternalPluginManager.loadBuiltin(QuestVoiceoverPlugin.class);
 		RuneLite.main(args);
 	}
 }

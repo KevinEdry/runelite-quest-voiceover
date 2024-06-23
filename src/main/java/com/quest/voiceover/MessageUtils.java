@@ -1,10 +1,6 @@
-package com.voiceover;
+package com.quest.voiceover;
 
 import javax.inject.Inject;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Path;
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
 
 public class MessageUtils {
 
