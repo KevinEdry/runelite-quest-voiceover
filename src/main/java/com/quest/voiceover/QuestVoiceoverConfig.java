@@ -1,19 +1,42 @@
 package com.quest.voiceover;
 
-import net.runelite.client.config.Config;
-import net.runelite.client.config.ConfigGroup;
-import net.runelite.client.config.ConfigItem;
+import net.runelite.client.config.*;
 
-@ConfigGroup("voiceover")
+@ConfigGroup("quest.voiceover")
 public interface QuestVoiceoverConfig extends Config
 {
-	@ConfigItem(
-		keyName = "greeting",
-		name = "Welcome Greeting",
-		description = "The message to show to the user when they login"
+	@ConfigSection(
+			name = "General",
+			description = "General settings",
+			position = 20,
+			closedByDefault = false
 	)
-	default String greeting()
+	String generalSettings = "generalSettings";
+
+
+
+	@Range(min = 1, max = 100)
+	@ConfigItem(
+			keyName = "volume",
+			name = "Volume",
+			description = "Volume control for the voiceover sounds.",
+			position = 21,
+			section = generalSettings)
+	default int volume() {
+		return 75;
+	}
+
+
+	@ConfigItem(
+			keyName = "mute",
+			name = "Mute",
+			description = "Mutes the voiceover sound.",
+			section = generalSettings,
+			position = 22
+
+	)
+	default boolean mute()
 	{
-		return "Hello";
+		return false;
 	}
 }

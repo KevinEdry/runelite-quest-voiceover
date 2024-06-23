@@ -7,7 +7,7 @@ public class MessageUtils {
     private static final String PLAYER = "Player";
 
     @Inject
-    private HashUtils hashUtils;
+    private HashUtil hashUtil;
 
     String name;
     String text;
@@ -17,7 +17,7 @@ public class MessageUtils {
         String[] messageArray = message.split("\\|", 2);
         this.name = messageArray[0].equals(playerName) ? PLAYER : messageArray[0];
         this.text = messageArray[1].trim();
-        this.id = HashUtils.convertToMD5(this.name + "|" + this.text);
+        this.id = HashUtil.convertToMD5(this.name + "|" + this.text);
     }
 
 }

@@ -10,10 +10,11 @@ import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
+import net.runelite.client.eventbus.EventBus;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Quest Voiceover Plugin"
+	name = "Quest Voiceover"
 )
 public class QuestVoiceoverPlugin extends Plugin
 {
@@ -23,21 +24,30 @@ public class QuestVoiceoverPlugin extends Plugin
 	@Inject
 	private QuestVoiceoverConfig config;
 
-	private String playerName = null;
-	private Boolean dialogOpened = false;
+	@Inject
+	private EventBus eventBus;
 
 	@Inject
 	private SoundEngine soundEngine;
 
+	@Inject
+	private DialogEngine dialogEngine;
+
+	private String playerName = null;
+
 	@Override
 	protected void startUp() throws Exception
 	{
+		eventBus.register(soundEngine);
+		eventBus.register(dialogEngine);
 		log.info("Quest Voiceover plugin started!");
 	}
 
 	@Override
 	protected void shutDown() throws Exception
 	{
+		eventBus.unregister(soundEngine);
+		eventBus.unregister(dialogEngine);
 		log.info("Quest Voiceover plugin stopped!");
 	}
 
@@ -76,25 +86,17 @@ public class QuestVoiceoverPlugin extends Plugin
 		// Check if the loaded widget is the dialog widget
 		if (event.getGroupId() == WidgetID.DIALOG_NPC_GROUP_ID || event.getGroupId() == WidgetID.DIALOG_PLAYER_GROUP_ID || event.getGroupId() == WidgetID.DIALOG_OPTION_GROUP_ID)
 		{
-			dialogOpened = true;
+			dialogEngine.setDialogOpened(true);
 		}
 	}
 
 	@Subscribe
 	public void onGameTick(GameTick event)
 	{
-		if(dialogOpened && !isAnyDialogOpen()) {
-			dialogOpened = false;
+		if(dialogEngine.getDialogOpened() && !dialogEngine.isDialogOpen()) {
+			dialogEngine.setDialogOpened(false);
 			soundEngine.stop();
 		}
-	}
-
-
-	private boolean isAnyDialogOpen()
-	{
-		return client.getWidget(WidgetID.DIALOG_NPC_GROUP_ID, 0) != null ||
-				client.getWidget(WidgetID.DIALOG_PLAYER_GROUP_ID, 0) != null ||
-				client.getWidget(WidgetID.DIALOG_OPTION_GROUP_ID, 0) != null;
 	}
 
 	@Provides
