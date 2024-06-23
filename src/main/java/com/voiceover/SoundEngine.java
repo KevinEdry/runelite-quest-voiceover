@@ -1,42 +1,33 @@
 package com.voiceover;
 
 import jaco.mp3.player.MP3Player;
+import lombok.extern.slf4j.Slf4j;
 import okhttp3.HttpUrl;
 
 import java.io.File;
 import java.net.URISyntaxException;
 import java.net.URL;
 
+@Slf4j
 public class SoundEngine {
 
-    private static HttpUrl RAW_GITHUB_SOUND_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/sounds");
+    private static final HttpUrl RAW_GITHUB_SOUND_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/sounds");
     private volatile MP3Player jacoPlayer;
-
-    private File getFileFromResource(String fileName) throws URISyntaxException {
-
-        ClassLoader classLoader = getClass().getClassLoader();
-        URL resource = classLoader.getResource(fileName);
-        if (resource == null) {
-            throw new IllegalArgumentException("file not found! " + fileName);
-        } else {
-
-            // failed if files have whitespaces or special characters
-            //return new File(resource.getFile());
-
-            return new File(resource.toURI());
-        }
-
-    }
-
 
     public void play(String fileName) throws URISyntaxException {
         stop();
-        MP3Player player = getJacoPlayer();
 
+        MP3Player player = getJacoPlayer();
         HttpUrl httpUrl = RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(fileName).build();
         URL soundUrl = httpUrl.url();
-        player.add(soundUrl);
-        player.play();
+
+        try {
+            player.add(soundUrl);
+            player.play();
+        } catch (Exception e) {
+            stop();
+            log.warn("Sound file {}, doesn't exist.", fileName);
+        }
     }
 
     public void stop() {
