@@ -7,6 +7,8 @@ We want to add support to most (if not all) quests in the game, but this will be
 
 ![Discord Banner 2](https://discord.com/api/guilds/1254623476086472758/widget.png?style=banner2)
 
+https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e26a-4a0f-9d7e-36af3b157a88
+
 ## Supported Quests
 While not all the voices are acted in the best way, with our cli tooling, we are hoping to cover most of the quests in the game asap, this is our progress so far:
 - [x] Cook's Assistant
