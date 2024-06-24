@@ -7,8 +7,6 @@ We want to add support to most (if not all) quests in the game, but this will be
 
 ![Discord Banner 2](https://discord.com/api/guilds/1254623476086472758/widget.png?style=banner2)
 
-<hr>
-
 ## Supported Quests
 While not all the voices are acted in the best way, with our cli tooling, we are hoping to cover most of the quests in the game asap, this is our progress so far:
 - [x] Cook's Assistant
@@ -24,8 +22,6 @@ While not all the voices are acted in the best way, with our cli tooling, we are
 If you want to see this plugin support other quests you can either:
 1. Fork this repo and use the `voiceover_cli` to generate the sounds and contribute.
 2. Send us a message in our discord server.
-
-<hr>
 
 ## Generating Voiceovers
 In this repository contains the tools to contribute!
@@ -66,7 +62,6 @@ python cli-main.py
 
 This tool will automatically scrape the Old School Runescape Wiki for the available quest transcripts and characters and will ask you to assign a voice for each one based on the voices you created in step 1.
 <br> After the voices are done generating, fork the `sounds` branch, and add the files to the root directory before  creating a pull request.
-<hr>
 
 ## Acknowledgements
 Huge thanks to the following runelite plugin repositories for helping out with code snippets and implementation.
@@ -74,4 +69,4 @@ Huge thanks to the following runelite plugin repositories for helping out with c
 - [C Engineer: Completed](https://runelite.net/plugin-hub/show/c-engineer-completed) - Thanks for helping with the streaming functionality of the voiceover files.
 - [VoiceOver for World of Warcraft](https://github.com/mrthinger/wow-voiceover) - Thanks for the initial inspiration for this project.
 
-I also can't stress enough how **instrumental** and helpful the Runelite developers discord community were to this project.
+I also can't stress enough how **instrumental** and helpful the Runelite developers discord community and the OSRS Wiki community were to this project.
