@@ -60,8 +60,9 @@ python cli-main.py
 ```
 
 3. An interactive cli tool should open for you to generate the sounds, read through the instructions and generate the transcript voiceover!
+
+![Interactive CLI](https://i.imgur.com/DZR3zZT.gif)
 <br>
-![Interactive CLI](https://i.imgur.com/VqbQYT2.png)
 
 This tool will automatically scrape the Old School Runescape Wiki for the available quest transcripts and characters and will ask you to assign a voice for each one based on the voices you created in step 1.
 <br> After the voices are done generating, fork the `sounds` branch, and add the files to the root directory before  creating a pull request.
