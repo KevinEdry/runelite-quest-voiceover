@@ -22,8 +22,11 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 
-	//Mp3 player, this is already used by other verified plugins so no need to check (except the hash ofcourse)
+	// Mp3 player, this is already used by other verified plugins so no need to check (except the hash ofcourse)
 	implementation files("./lib/jaco-mp3-player-0.9.5.jar")
+
+	// SQLite-JDBC is required to index and find the correct sound bite for each dialog line.
+	implementation files("./lib/sqlite-jdbc-3.46.0.0.jar")
 }
 
 tasks.register('verifyDependencies') {

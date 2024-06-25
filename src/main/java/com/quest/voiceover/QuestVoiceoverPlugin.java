@@ -3,18 +3,23 @@ package com.quest.voiceover;
 import com.google.inject.Provides;
 import javax.inject.Inject;
 import lombok.extern.slf4j.Slf4j;
+import net.runelite.client.eventbus.Subscribe;
+import net.runelite.client.plugins.PluginDescriptor;
+
+import com.quest.voiceover.database.*;
 import net.runelite.api.*;
 import net.runelite.api.events.*;
 import net.runelite.api.widgets.InterfaceID;
 import net.runelite.api.widgets.Widget;
-import net.runelite.client.callback.ClientThread;
 import net.runelite.client.config.ConfigManager;
-import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
-import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.eventbus.EventBus;
+import okhttp3.OkHttpClient;
 
-import java.net.URL;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.concurrent.ScheduledExecutorService;
 
 @Slf4j
 @PluginDescriptor(
@@ -26,10 +31,7 @@ public class QuestVoiceoverPlugin extends Plugin
 	private Client client;
 
 	@Inject
-	private QuestVoiceoverConfig config;
-
-	@Inject
-	private ClientThread clientThread;
+	private DatabaseManager databaseManager;
 
 	@Inject
 	private EventBus eventBus;
@@ -41,19 +43,21 @@ public class QuestVoiceoverPlugin extends Plugin
 	private DialogEngine dialogEngine;
 
 	@Inject
-	private HttpUtils httpUtils;
+	private OkHttpClient okHttpClient;
+
+	@Inject
+	private ScheduledExecutorService executor;
 
 	private String playerName = null;
-
-	// This is the only way (that I could think of) for me to reference the message from the `onWidgetLoaded`.
-	private String currentSoundFileName = null;
-
+	private Boolean isQuestDialog = false;
 
 	@Override
 	protected void startUp() throws Exception
 	{
 		eventBus.register(soundEngine);
 		log.info("Quest Voiceover plugin started!");
+
+		executor.submit(() -> DatabaseFileManager.prepareDatabaseSource(okHttpClient));
 	}
 
 	@Override
@@ -65,21 +69,38 @@ public class QuestVoiceoverPlugin extends Plugin
 
 	@Subscribe
 	public void onChatMessage(ChatMessage chatMessage) {
-		if(chatMessage.getType().equals(ChatMessageType.DIALOG)) {
-			if(this.playerName == null) {
+		if (chatMessage.getType().equals(ChatMessageType.DIALOG)) {
+			if (this.playerName == null) {
 				this.playerName = this.client.getLocalPlayer().getName();
 			}
 
 			MessageUtils message = new MessageUtils(chatMessage.getMessage(), this.playerName);
-			System.out.printf("ID: %s | Sender: %s | Message: %s \n", message.id, message.name, message.text);
 
-			String fileName = String.format("%s.mp3", message.id);
-			currentSoundFileName = fileName;
+			try {
+				PreparedStatement statement = databaseManager.prepareStatement("SELECT quest, uri FROM dialogs WHERE character = ? AND text MATCH ?");
+				statement.setString(1, message.name);
+				statement.setString(2, message.text);
 
-            soundEngine.play(fileName);
-        }
+				ResultSet resultSet = statement.executeQuery();
+
+				String fileName = resultSet.getString("uri");
+				String questName = resultSet.getString("quest");
+
+				if(fileName != null || questName != null) {
+					isQuestDialog = true;
+					soundEngine.play(fileName);
+				}
+				else {
+					isQuestDialog = false;
+					log.warn("Sound URI could not be found!");
+				}
+
+			} catch (SQLException e) {
+				isQuestDialog = false;
+				log.error("Encountered an SQL error", e);
+			}
+		}
 	}
-
 
 	@Subscribe
 	public void onMenuOptionClicked(MenuOptionClicked event)
@@ -97,20 +118,9 @@ public class QuestVoiceoverPlugin extends Plugin
 		if (widgetLoaded.getGroupId() == InterfaceID.DIALOG_NPC || widgetLoaded.getGroupId() == InterfaceID.DIALOG_PLAYER || widgetLoaded.getGroupId() == InterfaceID.DIALOG_OPTION)
 		{
 			dialogEngine.setDialogOpened(true);
-			if(dialogEngine.isPlayerOrNpcDialogOpen()) {
-				new Thread( new Runnable() {
-					@Override
-					public void run() {
-						URL soundFileURL = HttpUtils.RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(currentSoundFileName).build().url();
-						if(httpUtils.isUrlReachable(soundFileURL)) {
-							Widget dialogWidget = dialogEngine.getPlayerOrNpcWidget();
-
-							clientThread.invokeLater(()-> {
-								dialogEngine.addMuteButton(dialogWidget);
-							});
-						}
-					}
-				}).start();
+			if(dialogEngine.isPlayerOrNpcDialogOpen() && isQuestDialog) {
+				Widget dialogWidget = dialogEngine.getPlayerOrNpcWidget();
+				dialogEngine.addMuteButton(dialogWidget);
 			}
 		}
 	}

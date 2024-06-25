@@ -17,17 +17,16 @@ public class SoundEngine {
     @Inject
     private QuestVoiceoverConfig config;
 
-    @Inject
-    private HttpUtils httpUtils;
-
     private volatile MP3Player player;
     private Boolean soundPlaying = false;
+    public static final HttpUrl RAW_GITHUB_SOUND_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/database");
+
 
     public void play(String fileName) {
         stop();
         MP3Player player = getPlayer();
 
-        HttpUrl httpUrl = HttpUtils.RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(fileName).build();
+        HttpUrl httpUrl = RAW_GITHUB_SOUND_BRANCH_URL.newBuilder().addPathSegment(fileName).build();
         URL soundUrl = httpUrl.url();
 
         player.setVolume(config.mute() ? 0 : config.volume());

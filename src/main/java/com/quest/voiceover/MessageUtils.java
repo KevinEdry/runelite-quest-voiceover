@@ -19,5 +19,4 @@ public class MessageUtils {
         this.text = messageArray[1].trim();
         this.id = HashUtil.convertToMD5(this.name + "|" + this.text);
     }
-
 }
