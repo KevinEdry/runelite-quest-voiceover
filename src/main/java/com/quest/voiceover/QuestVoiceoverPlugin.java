@@ -5,12 +5,16 @@ import javax.inject.Inject;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.*;
 import net.runelite.api.events.*;
-import net.runelite.api.widgets.WidgetID;
+import net.runelite.api.widgets.InterfaceID;
+import net.runelite.api.widgets.Widget;
+import net.runelite.client.callback.ClientThread;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.eventbus.EventBus;
+
+import java.net.URL;
 
 @Slf4j
 @PluginDescriptor(
@@ -25,6 +29,9 @@ public class QuestVoiceoverPlugin extends Plugin
 	private QuestVoiceoverConfig config;
 
 	@Inject
+	private ClientThread clientThread;
+
+	@Inject
 	private EventBus eventBus;
 
 	@Inject
@@ -33,13 +40,19 @@ public class QuestVoiceoverPlugin extends Plugin
 	@Inject
 	private DialogEngine dialogEngine;
 
+	@Inject
+	private HttpUtils httpUtils;
+
 	private String playerName = null;
+
+	// This is the only way (that I could think of) for me to reference the message from the `onWidgetLoaded`.
+	private String currentSoundFileName = null;
+
 
 	@Override
 	protected void startUp() throws Exception
 	{
 		eventBus.register(soundEngine);
-		eventBus.register(dialogEngine);
 		log.info("Quest Voiceover plugin started!");
 	}
 
@@ -47,10 +60,8 @@ public class QuestVoiceoverPlugin extends Plugin
 	protected void shutDown() throws Exception
 	{
 		eventBus.unregister(soundEngine);
-		eventBus.unregister(dialogEngine);
 		log.info("Quest Voiceover plugin stopped!");
 	}
-
 
 	@Subscribe
 	public void onChatMessage(ChatMessage chatMessage) {
@@ -61,13 +72,12 @@ public class QuestVoiceoverPlugin extends Plugin
 
 			MessageUtils message = new MessageUtils(chatMessage.getMessage(), this.playerName);
 			System.out.printf("ID: %s | Sender: %s | Message: %s \n", message.id, message.name, message.text);
-			try{
-				soundEngine.play(String.format("%s.mp3", message.id));
-			}
-			catch(Exception e){
-				e.printStackTrace();
-			}
-		}
+
+			String fileName = String.format("%s.mp3", message.id);
+			currentSoundFileName = fileName;
+
+            soundEngine.play(fileName);
+        }
 	}
 
 
@@ -81,12 +91,35 @@ public class QuestVoiceoverPlugin extends Plugin
 	}
 
 	@Subscribe
-	public void onWidgetLoaded(WidgetLoaded event)
+	public void onWidgetLoaded(WidgetLoaded widgetLoaded)
 	{
 		// Check if the loaded widget is the dialog widget
-		if (event.getGroupId() == WidgetID.DIALOG_NPC_GROUP_ID || event.getGroupId() == WidgetID.DIALOG_PLAYER_GROUP_ID || event.getGroupId() == WidgetID.DIALOG_OPTION_GROUP_ID)
+		if (widgetLoaded.getGroupId() == InterfaceID.DIALOG_NPC || widgetLoaded.getGroupId() == InterfaceID.DIALOG_PLAYER || widgetLoaded.getGroupId() == InterfaceID.DIALOG_OPTION)
 		{
 			dialogEngine.setDialogOpened(true);
+			if(dialogEngine.isPlayerOrNpcDialogOpen()) {
+				new Thread( new Runnable() {
+					@Override
+					public void run() {
+						URL soundFileURL = HttpUtils.RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(currentSoundFileName).build().url();
+						if(httpUtils.isUrlReachable(soundFileURL)) {
+							Widget dialogWidget = dialogEngine.getPlayerOrNpcWidget();
+
+							clientThread.invokeLater(()-> {
+								dialogEngine.addMuteButton(dialogWidget);
+							});
+						}
+					}
+				}).start();
+			}
+		}
+	}
+
+	@Subscribe
+	public void onWidgetClosed(WidgetClosed widgetClosed) {
+		if (widgetClosed.getGroupId() == InterfaceID.DIALOG_NPC || widgetClosed.getGroupId() == InterfaceID.DIALOG_PLAYER || widgetClosed.getGroupId() == InterfaceID.DIALOG_OPTION)
+		{
+			dialogEngine.setDialogOpened(false);
 		}
 	}
 

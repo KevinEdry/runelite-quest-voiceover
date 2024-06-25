@@ -2,16 +2,12 @@ package com.quest.voiceover;
 
 import jaco.mp3.player.MP3Player;
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.api.Client;
 import net.runelite.api.events.GameTick;
-import net.runelite.api.widgets.Widget;
-import net.runelite.api.widgets.WidgetID;
 import net.runelite.client.eventbus.Subscribe;
 
 import okhttp3.HttpUrl;
 import javax.inject.Inject;
 import javax.inject.Singleton;
-import java.net.URISyntaxException;
 import java.net.URL;
 
 @Slf4j
@@ -21,62 +17,61 @@ public class SoundEngine {
     @Inject
     private QuestVoiceoverConfig config;
 
-    private static final HttpUrl RAW_GITHUB_SOUND_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/sounds");
-    private volatile MP3Player jacoPlayer;
+    @Inject
+    private HttpUtils httpUtils;
+
+    private volatile MP3Player player;
     private Boolean soundPlaying = false;
 
-    public void play(String fileName) throws URISyntaxException {
+    public void play(String fileName) {
         stop();
+        MP3Player player = getPlayer();
 
-        MP3Player player = getJacoPlayer();
-        HttpUrl httpUrl = RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(fileName).build();
+        HttpUrl httpUrl = HttpUtils.RAW_GITHUB_SOUND_URL.newBuilder().addPathSegment(fileName).build();
         URL soundUrl = httpUrl.url();
 
-        try {
-            player.setVolume(config.mute() ? 0 : config.volume());
-            player.addToPlayList(soundUrl);
-            player.play();
-            soundPlaying = true;
-        } catch (Exception e) {
-            stop();
-            log.warn("Sound file {}, doesn't exist.", fileName);
-        }
+        player.setVolume(config.mute() ? 0 : config.volume());
+        player.addToPlayList(soundUrl);
+
+        player.play();
+        soundPlaying = true;
     }
 
     public void stop() {
         soundPlaying = false;
-        if (jacoPlayer != null) {
-            jacoPlayer.stop();
-            jacoPlayer.getPlayList().clear();
+        if (player != null) {
+            player.getPlayList().clear();
+            player.stop();
         }
     }
 
     public void setVolume(int volume) {
-         getJacoPlayer().setVolume(volume);
+         getPlayer().setVolume(volume);
     }
 
-    private MP3Player getJacoPlayer() {
-        MP3Player player = this.jacoPlayer;
+    public Boolean isSoundPlaying() {
+        return player.isPlaying();
+    }
+
+    private MP3Player getPlayer() {
+        MP3Player player = this.player;
         if (player == null) {
             synchronized (this) {
-                player = this.jacoPlayer;
+                player = this.player;
                 if (player == null) {
-                    player = this.jacoPlayer = new MP3Player();
+                    player = this.player = new MP3Player();
                 }
             }
         }
         return player;
     }
 
-    private void onSoundStopped() {
-        soundPlaying = false;
-    }
-
     @Subscribe
-    public void onGameTick(GameTick event)
+    private void onGameTick(GameTick event)
     {
-        if(this.jacoPlayer.isStopped() && soundPlaying) {
-            onSoundStopped();
+        if(this.player.isStopped() && soundPlaying) {
+            // Detects when a sound have stopped playing.
+            soundPlaying = false;
         }
     }
 }
