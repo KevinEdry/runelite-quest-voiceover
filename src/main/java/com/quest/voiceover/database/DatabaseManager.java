@@ -1,7 +1,6 @@
 package com.quest.voiceover.database;
 
 import lombok.extern.slf4j.Slf4j;
-import okhttp3.HttpUrl;
 
 import javax.inject.Singleton;
 
