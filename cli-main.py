@@ -3,6 +3,7 @@ from prompt_toolkit.shortcuts import checkboxlist_dialog, radiolist_dialog, yes_
 import voiceover_cli.wiki_utils as wiki_utils
 from voiceover_cli.elevenlabs import ElevenlabsSDK
 from tqdm import tqdm
+import voiceover_cli.database as database
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -34,14 +35,24 @@ def prompt_user():
                 f"See: https://elevenlabs.io/docs/workspace/overview#managing-api-keys",
             password=True
         ).run()
-        if api_key_input == None: return
+        if api_key_input is None: return
 
         with open('../osrs-voiceover-generator/.env', 'w') as env_file:
             env_file.write(f'ELEVENLABS_API_KEY={api_key_input}')
         load_dotenv()
+
+
+    quest_characters_array = wiki_utils.get_quest_characters(quest["link"])
+    selected_characters = checkboxlist_dialog(
+        title="Choose Quest Characters",
+        text="Choose which characters do you want to generate voice lines for.",
+        values=[(item, item) for item in quest_characters_array],
+        default_values=quest_characters_array
+    ).run()
+    if selected_characters is None or len(selected_characters) == 0: return;
         
     # Scrape the OSRS Wiki for the quest transcripts themselves.
-    quest_transcript_dict: wiki_utils.QuestTranscript = wiki_utils.get_transcript(quest['link']);
+    quest_transcript_dict: wiki_utils.QuestTranscript = wiki_utils.get_transcript(quest['link'], selected_characters);
     quest_transcript = quest_transcript_dict['transcript']
 
     # We need this to provide the original lines order as context when Elevenlabs generates voiceovers.
@@ -81,19 +92,30 @@ def prompt_user():
             f'{confirmation_dialog_info}\n'
             f'By pressing YES you will start the voiceover generation!'
     ).run() 
-    if confirmed == None: return
+    if confirmed is None or confirmed is False: return
 
     # Show progressbar while generating voicelines with Elevenlabs.
-    for idx, (character, line) in enumerate(tqdm(flatten_quest_transcript, desc=f"Generating {quest['title'].replace("Transcript:", "")} Voiceover")):
+    progress = tqdm(flatten_quest_transcript, desc=f"Generating {quest['title'].replace("Transcript:", "")} Voiceover")
+    for idx, (character, line) in enumerate(progress):
+        progress.write(f'[{idx+1}] Current Line: {line}')
 
         previous_line = flatten_quest_transcript[idx-1][1] if idx > 0 else None
         next_line = flatten_quest_transcript[idx-1][1] if idx < len(flatten_quest_transcript)-1 else None
         
-        elevenlabs.generate(character=character, 
-                            voice_id=character_voices_dict[character], 
-                            line=line,
-                            next_line=next_line,
-                            previous_line=previous_line)
+        try:
+            connection = database.create_connection()
+            database.init_virtual_table(connection=connection)
+
+            file_name = elevenlabs.generate(character=character, 
+                                voice_id=character_voices_dict[character], 
+                                line=line,
+                                next_line=next_line,
+                                previous_line=previous_line)
+            if file_name is None: return
+
+            database.insert_quest_voiceover(connection=connection, quest=quest['title'].replace("Transcript:", ""), character=character, text=line, file_name=file_name)
+        except Exception as e:
+            print(f"Error generating voice-over for line '{line}': {e}")
         
     
 prompt_user()
