@@ -19,7 +19,7 @@ public class SoundEngine {
 
     private volatile MP3Player player;
     private Boolean soundPlaying = false;
-    public static final HttpUrl RAW_GITHUB_SOUND_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/database");
+    public static final HttpUrl RAW_GITHUB_SOUND_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/sounds");
 
 
     public void play(String fileName) {

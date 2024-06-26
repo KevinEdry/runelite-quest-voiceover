@@ -41,6 +41,21 @@ public class DialogEngine {
                 client.getWidget(InterfaceID.DIALOG_PLAYER, 0) != null;
     }
 
+    public void addQuestNameText(Widget widget, String questName) {
+        Widget questNameText = widget.createChild(-1, WidgetType.TEXT);
+
+        questNameText.setText("Quest: " + questName);
+        questNameText.setFontId(494);
+        questNameText.setTextColor(0xFFFFFF);
+        questNameText.setTextShadowed(true);
+        questNameText.setXPositionMode(WidgetPositionMode.ABSOLUTE_LEFT);
+        questNameText.setOriginalX(10);
+        questNameText.setOriginalY(5);
+        questNameText.setOriginalHeight(20);
+        questNameText.setOriginalWidth(200);
+        questNameText.revalidate();
+    }
+
     public void addMuteButton(Widget widget) {
         Widget muteButton = widget.createChild(-1, WidgetType.GRAPHIC);
         int musicSprite = config.mute() ? SpriteID.OPTIONS_MUSIC_DISABLED : SpriteID.OPTIONS_MUSIC_VOLUME;
@@ -49,8 +64,8 @@ public class DialogEngine {
         muteButton.setOriginalWidth(32);
         muteButton.setOriginalHeight(32);
         muteButton.setXPositionMode(WidgetPositionMode.ABSOLUTE_RIGHT);
-        muteButton.setOriginalX(10);
-        muteButton.setOriginalY(10);
+        muteButton.setOriginalX(5);
+        muteButton.setOriginalY(5);
         muteButton.setHasListener(true);
         muteButton.setAction(1, TOGGLE_MUTE);
         muteButton.setOnOpListener((JavaScriptCallback) e -> this.toggleMute(muteButton));

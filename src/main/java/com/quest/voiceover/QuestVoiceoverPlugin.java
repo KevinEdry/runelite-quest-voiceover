@@ -50,6 +50,7 @@ public class QuestVoiceoverPlugin extends Plugin
 
 	private String playerName = null;
 	private Boolean isQuestDialog = false;
+	private String questName = null;
 
 	@Override
 	protected void startUp() throws Exception
@@ -65,6 +66,8 @@ public class QuestVoiceoverPlugin extends Plugin
 	{
 		eventBus.unregister(soundEngine);
 		log.info("Quest Voiceover plugin stopped!");
+
+		databaseManager.closeConnection();
 	}
 
 	@Subscribe
@@ -78,13 +81,15 @@ public class QuestVoiceoverPlugin extends Plugin
 
 			try {
 				PreparedStatement statement = databaseManager.prepareStatement("SELECT quest, uri FROM dialogs WHERE character = ? AND text MATCH ?");
-				statement.setString(1, message.name);
-				statement.setString(2, message.text);
+				statement.setString(1, message.name.replace("'", "''"));
+				statement.setString(2, message.text.replace("'", "''"));
 
 				ResultSet resultSet = statement.executeQuery();
 
 				String fileName = resultSet.getString("uri");
 				String questName = resultSet.getString("quest");
+
+				this.questName = questName;
 
 				if(fileName != null || questName != null) {
 					isQuestDialog = true;
@@ -92,7 +97,7 @@ public class QuestVoiceoverPlugin extends Plugin
 				}
 				else {
 					isQuestDialog = false;
-					log.warn("Sound URI could not be found!");
+					log.warn("Sound URI could not be found for line: {}", message.text);
 				}
 
 			} catch (SQLException e) {
@@ -121,6 +126,9 @@ public class QuestVoiceoverPlugin extends Plugin
 			if(dialogEngine.isPlayerOrNpcDialogOpen() && isQuestDialog) {
 				Widget dialogWidget = dialogEngine.getPlayerOrNpcWidget();
 				dialogEngine.addMuteButton(dialogWidget);
+				if(questName != null) {
+					dialogEngine.addQuestNameText(dialogWidget, this.questName);
+				}
 			}
 		}
 	}

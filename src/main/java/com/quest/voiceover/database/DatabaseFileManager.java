@@ -26,7 +26,7 @@ public class DatabaseFileManager {
     private static final Path DOWNLOAD_DIR = Path.of(RuneLite.RUNELITE_DIR.getPath(), "quest-voiceover-database");
     private static final String DELETE_WARNING_FILENAME = "_EXTRA_FILES_WILL_BE_DELETED_BUT_FOLDERS_WILL_REMAIN";
     private static final Path DELETE_WARNING_FILE = DOWNLOAD_DIR.resolve(DELETE_WARNING_FILENAME);
-    public static final HttpUrl RAW_GITHUB_DATABASE_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/rl-voiceover/raw/database");
+    public static final HttpUrl RAW_GITHUB_DATABASE_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/database");
 
 
     public static String getDatabaseSourcePath(DatabaseSource databaseSource) throws FileNotFoundException {
@@ -34,6 +34,7 @@ public class DatabaseFileManager {
     }
 
     public static void prepareDatabaseSource(OkHttpClient okHttpClient) {
+        log.info(DOWNLOAD_DIR.toString());
         ensureDownloadDirectoryExists();
         deleteUndesiredFilesIgnoringFolders();
         downloadNotYetPresentDatabaseSource(okHttpClient);

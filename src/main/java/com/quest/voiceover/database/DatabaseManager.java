@@ -22,14 +22,18 @@ public class DatabaseManager {
         return getDatabaseConnection().prepareStatement(query);
     }
 
+    public void closeConnection() throws SQLException {
+        connection.close();
+    }
+
     private Connection getDatabaseConnection() {
         if (connection == null) {
             try {
-//                String databaseSourceUrl = DatabaseFileManager.getDatabaseSourcePath(DatabaseSource.DATABASE_VERSION);
-                connection = DriverManager.getConnection(SQL_PATH_PREFIX + "quest_voiceover_v1.db");
+                String databaseSourceUrl = DatabaseFileManager.getDatabaseSourcePath(DatabaseSource.DATABASE_VERSION);
+                connection = DriverManager.getConnection(SQL_PATH_PREFIX + databaseSourceUrl);
                 log.info("Quest Voiceover plugin established connection to database.");
-//            } catch (FileNotFoundException e) {
-//                log.error("Could not get database source path.", e);
+            } catch (FileNotFoundException e) {
+                log.error("Could not get database source path.", e);
             } catch (SQLException e) {
                 log.error("Could not connect to database.", e);
             }
