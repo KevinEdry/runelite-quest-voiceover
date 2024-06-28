@@ -26,10 +26,7 @@ dependencies {
 	implementation files("./lib/jaco-mp3-player-0.9.5.jar")
 
 	// SQLite-JDBC is required to index and find the correct sound bite for each dialog line.
-	implementation files("./lib/sqlite-jdbc-3.36.0.2.jar")
-
-	// The latest version of xerial/sqlite-jdbc requires increasing the max plugin size to ~15mb, until then, this is commented.
-	//implementation files("./lib/sqlite-jdbc-3.46.0.0.jar")
+	testImplementation group:'org.xerial', name:'sqlite-jdbc', version:'3.+'
 }
 
 tasks.register('verifyDependencies') {
