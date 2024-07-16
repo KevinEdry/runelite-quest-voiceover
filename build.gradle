@@ -26,7 +26,7 @@ dependencies {
 	implementation files("./lib/jaco-mp3-player-0.9.5.jar")
 
 	// SQLite-JDBC is required to index and find the correct sound bite for each dialog line.
-	implementation('org.xerial:sqlite-jdbc:3.+')
+	implementation('org.xerial:sqlite-jdbc:3.46.0.0')
 }
 
 group = 'com.quest.voiceover'
