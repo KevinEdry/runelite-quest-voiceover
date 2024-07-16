@@ -79,27 +79,29 @@ public class QuestVoiceoverPlugin extends Plugin
 
 			MessageUtils message = new MessageUtils(chatMessage.getMessage(), this.playerName);
 
-			try {
-				PreparedStatement statement = databaseManager.prepareStatement("SELECT quest, uri FROM dialogs WHERE character = ? AND text MATCH ?");
+			try (PreparedStatement statement = databaseManager.prepareStatement("SELECT quest, uri FROM dialogs WHERE character = ? AND text MATCH ?")) {
 				statement.setString(1, message.name.replace("'", "''"));
 				statement.setString(2, message.text.replace("'", "''"));
 
-				ResultSet resultSet = statement.executeQuery();
+				try (ResultSet resultSet = statement.executeQuery()) {
+					if (resultSet.next()) {
+						String fileName = resultSet.getString("uri");
+						String questName = resultSet.getString("quest");
 
-				String fileName = resultSet.getString("uri");
-				String questName = resultSet.getString("quest");
+						this.questName = questName;
 
-				this.questName = questName;
-
-				if(fileName != null || questName != null) {
-					isQuestDialog = true;
-					soundEngine.play(fileName);
+						if (fileName != null || questName != null) {
+							isQuestDialog = true;
+							soundEngine.play(fileName);
+						} else {
+							isQuestDialog = false;
+							log.warn("Sound URI could not be found for line: {}", message.text);
+						}
+					} else {
+						isQuestDialog = false;
+						log.warn("No matching dialog found for line: {}", message.text);
+					}
 				}
-				else {
-					isQuestDialog = false;
-					log.warn("Sound URI could not be found for line: {}", message.text);
-				}
-
 			} catch (SQLException e) {
 				isQuestDialog = false;
 				log.error("Encountered an SQL error", e);
