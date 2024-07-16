@@ -26,13 +26,7 @@ dependencies {
 	implementation files("./lib/jaco-mp3-player-0.9.5.jar")
 
 	// SQLite-JDBC is required to index and find the correct sound bite for each dialog line.
-	implementation group:'org.xerial', name:'sqlite-jdbc', version:'3.+'
-}
-
-tasks.register('verifyDependencies') {
-	doLast {
-		println "Run './gradlew --write-verification-metadata sha256' to update the verification metadata."
-	}
+	implementation('org.xerial:sqlite-jdbc:3.+')
 }
 
 group = 'com.quest.voiceover'
