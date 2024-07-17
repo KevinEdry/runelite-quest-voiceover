@@ -17,7 +17,7 @@ import java.nio.file.StandardOpenOption;
 @Slf4j
 public class DatabaseVersionManager {
 
-    private static final String resourceName = "quest_voiceover_v1.db";
+    private static final String resourceName = "quest_voiceover.db";
 
     private static final HttpUrl RAW_GITHUB_DATABASE_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/database");
     private static final Path DOWNLOAD_DIR = Path.of(RuneLite.RUNELITE_DIR.getPath(), "quest-voiceover-database");
