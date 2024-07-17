@@ -13,6 +13,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.util.Arrays;
+import java.util.Objects;
 import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -28,7 +29,6 @@ public class DatabaseFileManager {
     private static final Path DELETE_WARNING_FILE = DOWNLOAD_DIR.resolve(DELETE_WARNING_FILENAME);
     public static final HttpUrl RAW_GITHUB_DATABASE_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/database");
 
-
     public static String getDatabaseSourcePath(DatabaseSource databaseSource) throws FileNotFoundException {
         return Path.of(DOWNLOAD_DIR.resolve(databaseSource.getResourceName()).toUri()).toString();
     }
@@ -37,7 +37,7 @@ public class DatabaseFileManager {
         log.info(DOWNLOAD_DIR.toString());
         ensureDownloadDirectoryExists();
         deleteUndesiredFilesIgnoringFolders();
-        downloadNotYetPresentDatabaseSource(okHttpClient);
+        downloadOrUpdateDatabaseSources(okHttpClient);
     }
 
     private static void ensureDownloadDirectoryExists() {
@@ -70,33 +70,63 @@ public class DatabaseFileManager {
         }
     }
 
-    private static void downloadNotYetPresentDatabaseSource(OkHttpClient okHttpClient) {
-        getFilesToDownload()
-                .forEach(filename -> downloadFilename(okHttpClient, filename));
+    private static void downloadOrUpdateDatabaseSources(OkHttpClient okHttpClient) {
+        getUpdatedDatabase()
+                .forEach(databaseSource -> downloadOrUpdateFile(okHttpClient, databaseSource.getResourceName()));
     }
 
-    private static void downloadFilename(OkHttpClient okHttpClient, String filename) {
+    private static void downloadOrUpdateFile(OkHttpClient okHttpClient, String filename) {
         if (RAW_GITHUB_DATABASE_BRANCH_URL == null) {
-            // Hush intellij, it's okay, the potential NPE can't hurt you now
             log.error("Quest Voiceover plugin could not download database source due to an unexpected null RAW_GITHUB value");
             return;
         }
         HttpUrl databaseUrl = RAW_GITHUB_DATABASE_BRANCH_URL.newBuilder().addPathSegment(filename).build();
-        Request request = new Request.Builder().url(databaseUrl).build();
-        try (Response res = okHttpClient.newCall(request).execute()) {
-            if (res.body() != null)
-                Files.copy(new BufferedInputStream(res.body().byteStream()), DOWNLOAD_DIR.resolve(filename), StandardCopyOption.REPLACE_EXISTING);
+
+        try {
+            Path localFile = DOWNLOAD_DIR.resolve(filename);
+            long localFileSize = Files.exists(localFile) ? Files.size(localFile) : -1;
+
+            // Perform HEAD request to get file size
+            Request headRequest = new Request.Builder().url(databaseUrl).head().build();
+            try (Response headResponse = okHttpClient.newCall(headRequest).execute()) {
+                if (!headResponse.isSuccessful()) {
+                    log.error("Failed to get file metadata: {}", filename);
+                    return;
+                }
+
+                long remoteFileSize = headResponse.header("Content-Length") != null
+                        ? Long.parseLong(Objects.requireNonNull(headResponse.header("Content-Length")))
+                        : -1;
+
+                log.info("remote file size: {}", remoteFileSize);
+                log.info("local file size: {}", localFileSize);
+                if (localFileSize == -1 || localFileSize != remoteFileSize) {
+                    if (localFileSize == -1) {
+                        log.info("Downloading new file: {}", filename);
+                    } else {
+                        log.info("Updating file due to size difference: {}", filename);
+                    }
+
+                    // Perform GET request to download the file
+                    Request getRequest = new Request.Builder().url(databaseUrl).build();
+                    try (Response getResponse = okHttpClient.newCall(getRequest).execute()) {
+                        if (!getResponse.isSuccessful()) {
+                            log.error("Failed to download file: {}", filename);
+                            return;
+                        }
+
+                        assert getResponse.body() != null;
+                        try (InputStream in = getResponse.body().byteStream()) {
+                            Files.copy(in, localFile, StandardCopyOption.REPLACE_EXISTING);
+                        }
+                    }
+                } else {
+                    log.info("File is up to date: {}", filename);
+                }
+            }
         } catch (IOException e) {
-            log.error("Quest Voiceover plugin could not download database source.", e);
+            log.error("Quest Voiceover plugin could not download or update database source: {}", filename, e);
         }
-    }
-
-    private static Stream<String> getFilesToDownload() {
-        Set<String> filesAlreadyPresent = getFilesPresent();
-
-        return getUpdatedDatabase()
-                .map(DatabaseSource::getResourceName)
-                .filter(not(filesAlreadyPresent::contains));
     }
 
     private static Set<String> getFilesPresent() {
