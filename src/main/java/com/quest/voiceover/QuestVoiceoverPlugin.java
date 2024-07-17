@@ -58,7 +58,7 @@ public class QuestVoiceoverPlugin extends Plugin
 		eventBus.register(soundEngine);
 		log.info("Quest Voiceover plugin started!");
 
-		executor.submit(() -> DatabaseFileManager.prepareDatabaseSource(okHttpClient));
+		executor.submit(() -> DatabaseVersionManager.prepareDatabaseSource(okHttpClient));
 	}
 
 	@Override

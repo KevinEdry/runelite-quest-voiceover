@@ -28,7 +28,7 @@ public class DatabaseManager {
         if (connection == null) {
             try {
                 Class.forName("org.sqlite.JDBC");
-                String databaseSourceUrl = DatabaseFileManager.getDatabaseSourcePath(DatabaseSource.DATABASE_VERSION);
+                String databaseSourceUrl = DatabaseVersionManager.getDatabasePath();
                 connection = DriverManager.getConnection(SQL_PATH_PREFIX + databaseSourceUrl);
                 log.info("Quest Voiceover plugin established connection to database.");
             } catch (FileNotFoundException e) {
