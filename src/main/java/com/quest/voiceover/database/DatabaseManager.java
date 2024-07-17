@@ -24,6 +24,10 @@ public class DatabaseManager {
         connection.close();
     }
 
+    public void initializeConnection(){
+        getDatabaseConnection();
+    }
+
     private Connection getDatabaseConnection() {
         if (connection == null) {
             try {
