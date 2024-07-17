@@ -20,19 +20,19 @@ public class DatabaseVersionManager {
     private static final String resourceName = "quest_voiceover.db";
 
     private static final HttpUrl RAW_GITHUB_DATABASE_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/database");
-    private static final Path DOWNLOAD_DIR = Path.of(RuneLite.RUNELITE_DIR.getPath(), "quest-voiceover-database");
+    private static final Path DOWNLOAD_DIR = Path.of(RuneLite.RUNELITE_DIR.getPath(), "quest-voiceover");
 
     private static final String VERSION_FILENAME = ".version";
 
     private static final Path VERSION_FILE = DOWNLOAD_DIR.resolve(VERSION_FILENAME);
 
-    public static HttpUrl getResourceDownloadUrl() {
-        assert RAW_GITHUB_DATABASE_BRANCH_URL != null;
-        return RAW_GITHUB_DATABASE_BRANCH_URL.newBuilder().addPathSegment(resourceName).build();
-    }
-
     public static Path getResourcePath() {
         return DOWNLOAD_DIR.resolve(resourceName);
+    }
+
+    private static HttpUrl getResourceDownloadUrl() {
+        assert RAW_GITHUB_DATABASE_BRANCH_URL != null;
+        return RAW_GITHUB_DATABASE_BRANCH_URL.newBuilder().addPathSegment(resourceName).build();
     }
 
     private static void setResourceVersion(String version) {
@@ -128,7 +128,7 @@ public class DatabaseVersionManager {
                             updateDatabaseSource(in, remoteEtag);
                         }
 
-                        log.info("Database successfully updated!");
+                        log.info("Database updated successfully!");
                     }
                 }
             }
