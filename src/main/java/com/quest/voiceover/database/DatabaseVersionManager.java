@@ -44,7 +44,6 @@ public class DatabaseVersionManager {
                     StandardOpenOption.WRITE,
                     StandardOpenOption.TRUNCATE_EXISTING);
 
-            log.info("Database version updated to: {}", version);
         } catch (IOException e) {
             log.error("Failed to save database version.", e);
         }
