@@ -4,7 +4,6 @@ from sqlite3 import Connection
 import voiceover_cli.utils as utils
 
 #! This needs to be changed each time we are updating the DB.
-DATABASE_VERSION = "v1"
 
 DATABASE_NAME = "quest_voiceover"
 OUTPUT_DIR = "output_db"
@@ -12,7 +11,7 @@ OUTPUT_DIR = "output_db"
 def create_connection() -> Connection:
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
-    return sqlite3.connect(f"{OUTPUT_DIR}/{DATABASE_NAME}_{DATABASE_VERSION}.db")
+    return sqlite3.connect(f"{OUTPUT_DIR}/{DATABASE_NAME}.db")
 
 def init_virtual_table(connection: Connection) -> None:
     cursor = connection.cursor()
