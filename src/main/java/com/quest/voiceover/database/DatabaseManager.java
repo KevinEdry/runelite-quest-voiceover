@@ -1,7 +1,6 @@
 package com.quest.voiceover.database;
 
 import lombok.extern.slf4j.Slf4j;
-
 import javax.inject.Singleton;
 
 import java.io.FileNotFoundException;
@@ -28,6 +27,7 @@ public class DatabaseManager {
     private Connection getDatabaseConnection() {
         if (connection == null) {
             try {
+                Class.forName("org.sqlite.JDBC");
                 String databaseSourceUrl = DatabaseFileManager.getDatabaseSourcePath(DatabaseSource.DATABASE_VERSION);
                 connection = DriverManager.getConnection(SQL_PATH_PREFIX + databaseSourceUrl);
                 log.info("Quest Voiceover plugin established connection to database.");
@@ -35,6 +35,9 @@ public class DatabaseManager {
                 log.error("Could not get database source path.", e);
             } catch (SQLException e) {
                 log.error("Could not connect to database.", e);
+            } catch (ClassNotFoundException e) {
+                log.error("Could not load database driver.", e);
+                throw new RuntimeException(e);
             }
         }
         return connection;

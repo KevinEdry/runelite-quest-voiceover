@@ -68,7 +68,7 @@ public class SoundEngine {
     @Subscribe
     private void onGameTick(GameTick event)
     {
-        if(this.player.isStopped() && soundPlaying) {
+        if(this.player != null && this.player.isStopped() && soundPlaying) {
             // Detects when a sound have stopped playing.
             soundPlaying = false;
         }
