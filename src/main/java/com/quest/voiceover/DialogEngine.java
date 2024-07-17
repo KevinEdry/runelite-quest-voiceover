@@ -22,9 +22,6 @@ public class DialogEngine {
     @Inject
     private SoundEngine soundEngine;
 
-    @Getter @Setter
-    private Boolean dialogOpened = false;
-
     private static final String TOGGLE_MUTE = "Toggle mute ";
     private static final String PLUGIN_GROUP = "quest.voiceover";
 

@@ -3,6 +3,7 @@ package com.quest.voiceover;
 import com.google.inject.Provides;
 import javax.inject.Inject;
 import lombok.extern.slf4j.Slf4j;
+import net.runelite.api.coords.WorldPoint;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.PluginDescriptor;
 
@@ -93,17 +94,12 @@ public class QuestVoiceoverPlugin extends Plugin
 						if (fileName != null || questName != null) {
 							isQuestDialog = true;
 							soundEngine.play(fileName);
-						} else {
-							isQuestDialog = false;
-							log.warn("Sound URI could not be found for line: {}", message.text);
+							return;
 						}
-					} else {
-						isQuestDialog = false;
-						log.warn("No matching dialog found for line: {}", message.text);
 					}
 				}
-			} catch (SQLException e) {
 				isQuestDialog = false;
+			} catch (SQLException e) {
 				log.error("Encountered an SQL error", e);
 			}
 		}
@@ -112,7 +108,7 @@ public class QuestVoiceoverPlugin extends Plugin
 	@Subscribe
 	public void onMenuOptionClicked(MenuOptionClicked event)
 	{
-		if (event.getMenuOption().equals("Continue") && event.getMenuTarget().contains("Dialog"))
+		if (event.getMenuOption().equals("Continue"))
 		{
 			soundEngine.stop();
 		}
@@ -124,7 +120,6 @@ public class QuestVoiceoverPlugin extends Plugin
 		// Check if the loaded widget is the dialog widget
 		if (widgetLoaded.getGroupId() == InterfaceID.DIALOG_NPC || widgetLoaded.getGroupId() == InterfaceID.DIALOG_PLAYER || widgetLoaded.getGroupId() == InterfaceID.DIALOG_OPTION)
 		{
-			dialogEngine.setDialogOpened(true);
 			if(dialogEngine.isPlayerOrNpcDialogOpen() && isQuestDialog) {
 				Widget dialogWidget = dialogEngine.getPlayerOrNpcWidget();
 				dialogEngine.addMuteButton(dialogWidget);
@@ -136,18 +131,12 @@ public class QuestVoiceoverPlugin extends Plugin
 	}
 
 	@Subscribe
-	public void onWidgetClosed(WidgetClosed widgetClosed) {
-		if (widgetClosed.getGroupId() == InterfaceID.DIALOG_NPC || widgetClosed.getGroupId() == InterfaceID.DIALOG_PLAYER || widgetClosed.getGroupId() == InterfaceID.DIALOG_OPTION)
-		{
-			dialogEngine.setDialogOpened(false);
-		}
-	}
-
-	@Subscribe
-	public void onGameTick(GameTick event)
+	public void onWidgetClosed(WidgetClosed widgetClosed)
 	{
-		if(dialogEngine.getDialogOpened() && !dialogEngine.isDialogOpen()) {
-			dialogEngine.setDialogOpened(false);
+		if (widgetClosed.getGroupId() == InterfaceID.DIALOG_NPC ||
+				widgetClosed.getGroupId() == InterfaceID.DIALOG_PLAYER ||
+				widgetClosed.getGroupId() == InterfaceID.DIALOG_OPTION)
+		{
 			soundEngine.stop();
 		}
 	}

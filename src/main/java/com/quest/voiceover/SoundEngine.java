@@ -2,6 +2,7 @@ package com.quest.voiceover;
 
 import jaco.mp3.player.MP3Player;
 import lombok.extern.slf4j.Slf4j;
+import net.runelite.api.Client;
 import net.runelite.api.events.GameTick;
 import net.runelite.client.eventbus.Subscribe;
 
@@ -9,6 +10,8 @@ import okhttp3.HttpUrl;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 import java.net.URL;
+import java.time.Instant;
+import java.time.Duration;
 
 @Slf4j
 @Singleton
@@ -17,15 +20,20 @@ public class SoundEngine {
     @Inject
     private QuestVoiceoverConfig config;
 
+    @Inject
+    private Client client;
+
     private volatile MP3Player player;
-    private Boolean soundPlaying = false;
+    private volatile boolean soundPlaying = false;
+    private int playbackStartTime = 0;
+    private static final int PLAYBACK_GRACE_PERIOD = 1; // Adjust as needed
     public static final HttpUrl RAW_GITHUB_SOUND_BRANCH_URL = HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/sounds");
 
-
     public void play(String fileName) {
-        stop();
+        stopPlayback();
         MP3Player player = getPlayer();
 
+        assert RAW_GITHUB_SOUND_BRANCH_URL != null;
         HttpUrl httpUrl = RAW_GITHUB_SOUND_BRANCH_URL.newBuilder().addPathSegment(fileName).build();
         URL soundUrl = httpUrl.url();
 
@@ -34,22 +42,29 @@ public class SoundEngine {
 
         player.play();
         soundPlaying = true;
+        playbackStartTime = client.getTickCount();
     }
 
     public void stop() {
-        soundPlaying = false;
-        if (player != null) {
+        if (client.getTickCount() > playbackStartTime + PLAYBACK_GRACE_PERIOD ) {
+            stopPlayback();
+        }
+    }
+
+    private void stopPlayback() {
+        if( player != null && !player.getPlayList().isEmpty() && player.isPlaying() ) {
+            soundPlaying = false;
             player.getPlayList().clear();
             player.stop();
         }
     }
 
     public void setVolume(int volume) {
-         getPlayer().setVolume(volume);
+        getPlayer().setVolume(volume);
     }
 
-    public Boolean isSoundPlaying() {
-        return player.isPlaying();
+    public boolean isSoundPlaying() {
+        return player != null && player.isPlaying();
     }
 
     private MP3Player getPlayer() {
