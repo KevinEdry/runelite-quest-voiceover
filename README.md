@@ -15,7 +15,7 @@ While not all the voices are acted in the best way, with our cli tooling, we are
 - [x] Sheep Shearer
 - [x] Misthalin Mystery
 - [x] Prince Ali Rescue
-- [ ] The Restless Ghost
+- [x] The Restless Ghost
 - [ ] Rune Mysteries
 - [ ] Imp Catcher
 - [ ] Witch's Potion
