@@ -16,8 +16,9 @@ While not all the voices are acted in the best way, with our cli tooling, we are
 - [x] Misthalin Mystery
 - [x] Prince Ali Rescue
 - [x] The Restless Ghost
-- [ ] Rune Mysteries
+- [x] Rune Mysteries
 - [ ] Imp Catcher
+- [ ] Spirits of the Elid
 - [ ] Witch's Potion
 - [ ] Gertrude's Cat
 
