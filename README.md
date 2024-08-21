@@ -5,7 +5,9 @@ This plugin aims to provide voice over acting to the brilliant quest writing in 
 <br>
 We want to add support to most (if not all) quests in the game, but this will be an ongoing process to do right, if you want to help us out, feel free to join the discord and message us, lets see this through.
 
-![[Discord Banner 2](https://discord.gg/tkr6tEbXJr)](https://discord.com/api/guilds/1254623476086472758/widget.png?style=banner2)
+<a href="https://discord.gg/tkr6tEbXJr"> 
+   <img src="https://discord.com/api/guilds/1254623476086472758/widget.png?style=banner2" alt="Discord Banner 2"/>
+</a>
 
 https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e26a-4a0f-9d7e-36af3b157a88
 
