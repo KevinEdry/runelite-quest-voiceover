@@ -22,7 +22,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 
-	implementation files("libs/jaco-mp3-player-0.9.5.jar")
+	implementation 'net.runelite:jaco-mp3-player:0.10.2-rl1'
 	implementation 'org.xerial:sqlite-jdbc:3.46.0.0'
 }
 
