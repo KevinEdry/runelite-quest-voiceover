@@ -27,8 +27,16 @@ While not all the voices are acted in the best way, with our cli tooling, we are
 - [x] Imp Catcher
 - [x] Pandemonium
 - [x] Shades of Mort'ton
-- [ ] Witch's Potion
-- [ ] Gertrude's Cat
+- [x] Children of the Sun
+- [x] Dwarf Cannon
+- [x] Gertrude's Cat
+- [x] Tree Gnome Village
+- [x] Witch's House
+- [ ] Black Knights' Fortress
+- [ ] Clock Tower
+- [ ] Demon Slayer
+- [ ] Doric's Quest
+- [ ] Ernest the Chicken
 
 If you want to see this plugin support other quests you can either:
 1. Fork this repo and use the `voiceover_cli` to generate the sounds and contribute.

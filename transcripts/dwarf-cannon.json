@@ -1,0 +1,516 @@
+{
+  "branch": "quest/dwarf-cannon",
+  "quest_name": "Dwarf Cannon",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Guthix be praised, the cavalry has arrived! Hero, how would you like to be made an honorary member of the Black Guard?"
+    },
+    {
+      "character": "Player",
+      "line": "The Black Guard? What's that?"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Hawhaw! 'What's that' asks, what a sense of humour! The Black Guard is the finest regiment in the dwarven army. Only the best of the best are allowed to join it and then they receive months of rigorous training."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "However, we are currently in need of a hero, so for a limited time only I'm offering you, a human, a chance to join this prestigious regiment. What do you say?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, I'd be honoured to join."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That's the spirit! Now trooper, we have no time to waste - the goblins are attacking from the forests to the South. There are so many of them, they are overwhelming my men and breaking through our"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "perimeter defences; could you please try to fix the stockade by replacing the broken rails with these new ones?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, sounds easy enough..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "You'll need this hammer too."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Report back to me once you've fixed the railings."
+    },
+    {
+      "character": "Player",
+      "line": "Yes Sir, Captain!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, I'm too busy mining."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Well best make the most of it while you can, if the goblins over-run us they'll descend on the mines like a plague of locusts!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not going to be able to fix this without a new railing. Lawgof should have some spare ones."
+    },
+    {
+      "character": "Player",
+      "line": "Oooch!"
+    },
+    {
+      "character": "Player",
+      "line": "Ow!"
+    },
+    {
+      "character": "Player",
+      "line": "Urrrgh!"
+    },
+    {
+      "character": "Player",
+      "line": "Gah!"
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed all these railings now."
+    },
+    {
+      "character": "Player",
+      "line": "That's better, the goblins won't get past this piece of fencing now."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Hello, trooper, how are you doing with those railings?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm getting there."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "The goblins are still getting in, so there must still be some broken railings."
+    },
+    {
+      "character": "Player",
+      "line": "But I'm out of railings..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That's okay, we've got plenty, here you go."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "There's no room in your backpack, so I can't give you anymore."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll find them soon enough."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Well done, trooper! The goblins seems to have stopped getting in. I think you've done the job!"
+    },
+    {
+      "character": "Player",
+      "line": "Great, I'll be getting on then."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "What? I'll have you jailed for desertion!"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Besides, I have another commission for you. Just before the goblins over-ran us we lost contact with our watch tower to the South, that's why the goblins managed to catch us unawares. I'd like you to perform"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "a covert operation into enemy territory, to check up on the guards we have stationed there."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "They should have reported in by now ..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see what I can find out."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Excellent! I have two men there, the dwarf-in-charge is called Gilob, find him and tell him that I'll send him a relief guard just as soon as we mop up these remaining goblins."
+    },
+    {
+      "character": "Player",
+      "line": "Hello"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Hello, any news from the watchman?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Well, as quick as you can then."
+    },
+    {
+      "character": "Player",
+      "line": "What? Carrying one set of Dwarf remains is enough..."
+    },
+    {
+      "character": "Player",
+      "line": "I had better take these remains."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Have you been to the watch tower yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I went up but there was no one there."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That's strange, Gilob would never leave his post... His son was also with him, something doesn't smell right. Can you return and look for clues?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, I'll do what I can."
+    },
+    {
+      "character": "Player",
+      "line": "I have some terrible news for you Captain, the goblins over ran the tower, your guards fought well but were overwhelmed."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "I can't believe it, Gilob was the finest lieutenant I had! We'll give him a fitting funeral, but what of his command? His son, Lollk, was with him. Did you find his body too?"
+    },
+    {
+      "character": "Player",
+      "line": "No, there was only one body there, I searched pretty well."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "The goblins must have taken him. Please traveler, seek out the goblins' hideout and return the lad to us. They always attack from the South-east, so they must be based down there."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see if I can find their hideout."
+    },
+    {
+      "character": "Lollk",
+      "line": "Thank the heavens, you saved me! I thought I'd be goblin lunch for sure!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you okay?"
+    },
+    {
+      "character": "Lollk",
+      "line": "I think so, I'd better run off home."
+    },
+    {
+      "character": "Player",
+      "line": "That's right, you get going, I'll catch up."
+    },
+    {
+      "character": "Lollk",
+      "line": "Thanks again, brave adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, has Lollk returned yet?"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "He has, and I thank you from the bottom of my heart - without you he'd be a goblin barbecue!"
+    },
+    {
+      "character": "Player",
+      "line": "Always a pleasure to help."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "In that case could I ask one more favour of you..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "When the goblins attacked us some of them managed to slip past my guards and sabotage our cannon. I don't have anybody who understands how it works, could you have a look at it and see if you could get it working for"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "us, please?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see what I can do."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Thank you, take this toolkit, you'll need it..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "You don't have room to take this, report back to me when you do."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Report back to me if you manage to fix it."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I've done enough for today."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Fair enough, didn't think you'd be able to help anyway, not much chance for a human to be able to fix it when the best dwarven engineers have failed."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I'd better fix it with the toolkit I was given."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "How are you doing in there, trooper? We've been trying our best with that thing, but I just haven't got the patience."
+    },
+    {
+      "character": "Player",
+      "line": "It's not an easy job, but I'm getting there."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Good stuff, let me know if you have any luck. If we manage to get that thing working, those goblins will be no trouble at all."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I lost the toolkit..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That was silly... never mind, I can give you another, but you'll have to free up some space in your backpack first."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That was silly... never mind, here you go."
+    },
+    {
+      "character": "Player",
+      "line": "This should work nicely now that I've fixed it."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "What do you think you're doing, trooper! Did I give you orders to move that cannon? No! Well then don't!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Hello there trooper, how's things?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I think I've done it, take a look..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That's fantastic, well done!"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Well I don't believe it, it seems to be working perfectly! I seem to have underestimated you, trooper!"
+    },
+    {
+      "character": "Player",
+      "line": "Not bad for an adventurer eh?"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Not bad at all, your effort is appreciated, my friend. Now, if I could figure what the thing uses as ammo..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "The Black Guard forgot to send instructions. I know I said that was the last favour, but..."
+    },
+    {
+      "character": "Player",
+      "line": "What now?"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "I can't leave this post, could you go to the Black Guard base and find out what this thing actually shoots?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I've really done enough."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Fair enough, fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "Okay then, just for you!"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "That's great, we were lucky you came along when you did. The base is located just South of the Ice Mountain."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "You'll need to speak to Nulodion, the Dwarf Cannon engineer. He's the Weapons Development Chief for the Black Guard, so if anyone knows how to fire this thing, it'll be him."
+    },
+    {
+      "character": "Player",
+      "line": "Hi again."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Hello trooper, any word from the Cannon Engineer?"
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "The Black Guard camp is South of the Ice Mountain, the quicker we can get some ammo for this thing the quicker those Goblins will leave us be."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get to it."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Nulodion",
+      "line": "Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Captain Lawgof sent me. He's having trouble with his cannon."
+    },
+    {
+      "character": "Nulodion",
+      "line": "Of course, we forgot to send the ammo mould!"
+    },
+    {
+      "character": "Player",
+      "line": "It fires mould?"
+    },
+    {
+      "character": "Nulodion",
+      "line": "Don't be silly - the ammo's made by using a mould. Here, take these to him. The instructions explain everything."
+    },
+    {
+      "character": "Nulodion",
+      "line": "You can't take these things unless you free up some space in your inventory. I suggest you visit a bank and then come back to talk to me."
+    },
+    {
+      "character": "Player",
+      "line": "That's great, thanks."
+    },
+    {
+      "character": "Nulodion",
+      "line": "Thank you, adventurer. The Dwarf Black Guard will remember this."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the notes."
+    },
+    {
+      "character": "Nulodion",
+      "line": "Here, take these..."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the cannonball mould."
+    },
+    {
+      "character": "Nulodion",
+      "line": "Deary me, you are trouble. Here, take this one."
+    },
+    {
+      "character": "Nulodion",
+      "line": "So has the Captain figured out how to work the cannon yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, but I'm sure he will."
+    },
+    {
+      "character": "Nulodion",
+      "line": "If you can get those items to him it'll be a great help."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have spoken to him."
+    },
+    {
+      "character": "Player",
+      "line": "He gave me some items to give you... but I seem to have lost something."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "If you could go back and get another, I'd appreciate it."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay then."
+    },
+    {
+      "character": "Player",
+      "line": "He gave me an ammo mould and some notes to give to you..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Aah, of course, we make the ammo! This is great, now we will be able to defend ourselves. I don't know how to thank you..."
+    },
+    {
+      "character": "Player",
+      "line": "You could give me a cannon..."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "Hah! You'd be lucky, those things are worth a fortune."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "I'll tell you what though, I'll write to the Cannon Engineer requesting him to sell you one. He controls production of the cannons."
+    },
+    {
+      "character": "Captain Lawgof",
+      "line": "He won't be able to give you one, but for the right price, I'm sure he'll sell one to you."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm... sounds interesting, I might take you up on that."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Captain Lawgof",
+      "description": "Middle-aged male dwarf, Scottish accent, gruff and commanding military tone. Captain of the Dwarven Black Guard, frustrated but determined leader who takes his duty seriously and shows genuine gratitude when helped."
+    },
+    {
+      "name": "Nulodion",
+      "description": "Adult male dwarf, Scottish accent, practical and knowledgeable engineer's voice. Weapons Development Chief for the Black Guard, professional and helpful but slightly absent-minded about sending proper instructions."
+    },
+    {
+      "name": "Lollk",
+      "description": "Young male dwarf child, Scottish accent, lighter and higher-pitched youthful voice. Son of Gilob, scared but relieved after being rescued, the only beardless male dwarf suggesting he is very young."
+    }
+  ]
+}
