@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.2.0...v1.2.1) (2025-12-20)
+
+
+### Bug Fixes
+
+* add missing lwjgl-bom module checksum to verification metadata ([#40](https://github.com/KevinEdry/runelite-quest-voiceover/issues/40)) ([00ff7b7](https://github.com/KevinEdry/runelite-quest-voiceover/commit/00ff7b7e82e234068b6fa8723641c1e9622000a4))
+
 ## [1.2.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.1.1...v1.2.0) (2025-12-20)
 
 
