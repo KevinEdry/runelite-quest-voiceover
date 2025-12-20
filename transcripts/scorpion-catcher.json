@@ -1,0 +1,62 @@
+{
+  "branch": "quest/scorpion-catcher",
+  "quest_name": "Scorpion Catcher",
+  "lines": [
+    { "character": "Thormac", "line": "Hello I am Thormac the sorcerer." },
+    { "character": "Player", "line": "Do you need anything?" },
+    { "character": "Thormac", "line": "Not right now, but thank you for offering." },
+    { "character": "Thormac", "line": "Hello I am Thormac the sorcerer. I don't suppose you could be of assistance to me?" },
+    { "character": "Player", "line": "What do you need assistance with?" },
+    { "character": "Thormac", "line": "I've lost my pet scorpions. They're lesser Kharid scorpions, a very rare breed." },
+    { "character": "Thormac", "line": "I left their cage door open, now I don't know where they've gone." },
+    { "character": "Thormac", "line": "There's three of them, and they're quick little beasties. They're all over Gielinor." },
+    { "character": "Player", "line": "How would I go about catching them?" },
+    { "character": "Thormac", "line": "Well I have a scorpion cage here which you can use to catch them in." },
+    { "character": "Thormac", "line": "If you go up to the village of Seers, to the North of here, one of them will be able to tell you where the scorpions are now." },
+    { "character": "Player", "line": "Okay, I will do it then." },
+    { "character": "Player", "line": "I'm not interested." },
+    { "character": "Thormac", "line": "Blast! I suppose I'll have to find someone else then." },
+    { "character": "Player", "line": "I'm a little busy." },
+    { "character": "Thormac", "line": "Fair enough." },
+    { "character": "Thormac", "line": "How goes your quest?" },
+    { "character": "Player", "line": "I've not caught all the scorpions yet." },
+    { "character": "Thormac", "line": "Well remember to go speak to the Seers, North of here, if you need any help." },
+    { "character": "Seer", "line": "Many greetings." },
+    { "character": "Player", "line": "I need to locate some scorpions." },
+    { "character": "Seer", "line": "Well you have come to the right place. I am a master of animal detection." },
+    { "character": "Seer", "line": "Do you need to locate any particular scorpion? Scorpions are a creature somewhat in abundance." },
+    { "character": "Player", "line": "I'm looking for some lesser Kharid scorpions. They belong to Thormac the Sorcerer." },
+    { "character": "Seer", "line": "Let me look into my looking glass." },
+    { "character": "Seer", "line": "I can see a scorpion that you seek. It would appear to be near some nasty spiders. I can see two coffins there as well." },
+    { "character": "Seer", "line": "The scorpion seems to be going through some crack in the wall. It's gone into some sort of secret room." },
+    { "character": "Seer", "line": "Well see if you can find that scorpion then, and I'll try and get you some information on the others." },
+    { "character": "Player", "line": "Where did you say that scorpion was again?" },
+    { "character": "Player", "line": "I've retrieved the scorpion from near the spiders." },
+    { "character": "Seer", "line": "Well, I've checked my looking glass. There seems to be a kharid scorpion in a little village in the east, surrounded by lots of uncivilised-looking warriors. Some kind of merchant there seems to have picked it up." },
+    { "character": "Seer", "line": "That's all I can tell you about that scorpion." },
+    { "character": "Player", "line": "Any more scorpions?" },
+    { "character": "Seer", "line": "It's good that you should ask. I have information on the last scorpion for you." },
+    { "character": "Seer", "line": "It seems to be in some sort of upstairs room. There seems to be some sort of brown clothing lying on a table." },
+    { "character": "Peksa", "line": "Are you interested in buying or selling a helmet?" },
+    { "character": "Player", "line": "I've heard you have a small scorpion in your possession." },
+    { "character": "Peksa", "line": "Now how could you know about that, I wonder? Mind you, I don't have it anymore." },
+    { "character": "Peksa", "line": "I gave it as a present to my brother Ivor when I visited our outpost northwest of Camelot." },
+    { "character": "Peksa", "line": "Well, actually I hid it in his bed so it would nip him. It was a bit of a surprise gift." },
+    { "character": "Player", "line": "I have retrieved all your scorpions." },
+    { "character": "Thormac", "line": "Aha, my little scorpions home at last!" }
+  ],
+  "characters": [
+    {
+      "name": "Thormac",
+      "description": "Middle-aged male, British accent, scholarly and slightly eccentric tone. A sorcerer who lives in a tower south of Seers' Village, knowledgeable about magic but careless with his pet scorpions."
+    },
+    {
+      "name": "Seer",
+      "description": "Elderly male, mystical and ethereal British accent, calm and knowing tone. One of the original settlers of Seers' Village with the ability to see visions through a looking glass."
+    },
+    {
+      "name": "Peksa",
+      "description": "Adult male, gruff Nordic accent, straightforward and practical tone. A barbarian helmet merchant with a mischievous streak, enjoys pranking his brother Ivor."
+    }
+  ]
+}
