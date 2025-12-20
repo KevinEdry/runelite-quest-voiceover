@@ -11,7 +11,7 @@ OUTPUT_DIR = "output_db"
 def create_connection() -> Connection:
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
-    return sqlite3.connect(f"{OUTPUT_DIR}/{DATABASE_NAME}.db")
+    return sqlite3.connect(f"{OUTPUT_DIR}/{DATABASE_NAME}.db", check_same_thread=False)
 
 def init_virtual_table(connection: Connection) -> None:
     cursor = connection.cursor()
