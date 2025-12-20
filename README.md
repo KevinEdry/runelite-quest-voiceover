@@ -33,23 +33,23 @@ While not all the voices are acted in the best way, with our cli tooling, we are
 - [x] Tree Gnome Village
 - [x] Waterfall Quest
 - [x] Witch's House
-- [ ] Black Knights' Fortress
-- [ ] Clock Tower
-- [ ] Doric's Quest
-- [ ] Dragon Slayer I
-- [ ] Ernest the Chicken
-- [ ] Jungle Potion
-- [ ] Lost City
-- [ ] Monk's Friend
-- [ ] Romeo and Juliet
-- [ ] Scorpion Catcher
-- [ ] The Depths of Despair
-- [ ] The Knight's Sword
-- [ ] The Tourist Trap
-- [ ] Tribal Totem
-- [ ] Tutorial Island
-- [ ] Vampyre Slayer
-- [ ] Witch's Potion
+- [x] Black Knights' Fortress
+- [x] Clock Tower
+- [x] Doric's Quest
+- [x] Dragon Slayer I
+- [x] Ernest the Chicken
+- [x] Jungle Potion
+- [x] Lost City
+- [x] Monk's Friend
+- [x] Romeo and Juliet
+- [x] Scorpion Catcher
+- [x] The Depths of Despair
+- [x] The Knight's Sword
+- [x] The Tourist Trap
+- [x] Tribal Totem
+- [x] Tutorial Island
+- [x] Vampyre Slayer
+- [x] Witch's Potion
 
 If you want to see this plugin support other quests you can either:
 1. Fork this repo and use the `voiceover_cli` to generate the sounds and contribute.
