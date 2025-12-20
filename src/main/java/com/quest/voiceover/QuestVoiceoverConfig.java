@@ -39,4 +39,16 @@ public interface QuestVoiceoverConfig extends Config
 	{
 		return false;
 	}
+
+	@ConfigItem(
+			keyName = "showVoicedIndicator",
+			name = "Show [Voiced] Indicator",
+			description = "Shows [Voiced] prefix next to quests with voice acting in the quest list.",
+			section = generalSettings,
+			position = 23
+	)
+	default boolean showVoicedIndicator()
+	{
+		return true;
+	}
 }
