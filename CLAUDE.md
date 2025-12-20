@@ -36,9 +36,12 @@ pixi shell               # Activate virtual environment (optional)
 - Use early returns to reduce nesting
 
 ### File Organization
-- **Localized code**: Feature-specific logic goes in `features/` folder
+- **Localized code**: Feature-specific logic goes in `features/` folder (flat structure, no subdirectories)
 - **Shared code**: Reusable infrastructure goes in `modules/` folder
 - **Utilities**: Generic helpers go in `utility/` folder (outside modules)
+
+### Git Commits
+- Never use AI attestation in commits (no robot emoji, no "Generated with Claude", no Co-Authored-By AI lines)
 
 ## Architecture
 
@@ -58,11 +61,9 @@ com/quest/voiceover/
 │   └── dialog/
 │       └── DialogManager.java     # Dialog widget manipulation
 │
-├── features/                       # Business logic
-│   ├── voiceover/
-│   │   └── VoiceoverHandler.java  # Plays voiceovers on dialog
-│   └── questlist/
-│       └── QuestListIndicatorManager.java  # Quest list [Voiced] indicators
+├── features/                       # Business logic (flat structure)
+│   ├── VoiceoverHandler.java      # Plays voiceovers on dialog
+│   └── QuestListIndicatorHandler.java  # Quest list [Voiced] indicators
 │
 └── utility/                        # Shared utilities
     ├── HashUtil.java              # MD5/SHA hashing
