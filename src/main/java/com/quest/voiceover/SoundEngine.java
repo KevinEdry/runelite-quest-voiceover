@@ -38,7 +38,7 @@ public class SoundEngine {
         URL soundUrl = httpUrl.url();
 
         player.setVolume(config.mute() ? 0 : config.volume());
-        player.addToPlayList(soundUrl);
+        player.add(soundUrl);
 
         player.play();
         soundPlaying = true;
@@ -52,9 +52,9 @@ public class SoundEngine {
     }
 
     private void stopPlayback() {
-        if( player != null && !player.getPlayList().isEmpty() && player.isPlaying() ) {
+        if( player != null && player.isPlaying() ) {
             soundPlaying = false;
-            player.getPlayList().clear();
+            player.clearPlayList();
             player.stop();
         }
     }
