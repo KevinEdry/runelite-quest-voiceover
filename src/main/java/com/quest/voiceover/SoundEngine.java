@@ -52,10 +52,12 @@ public class SoundEngine {
     }
 
     private void stopPlayback() {
-        if( player != null && player.isPlaying() ) {
+        if (player != null) {
             soundPlaying = false;
             player.clearPlayList();
-            player.stop();
+            if (player.isPlaying()) {
+                player.stop();
+            }
         }
     }
 
