@@ -32,6 +32,7 @@ Extract dialogue and character data from an OSRS Wiki quest transcript page.
    - Create an ElevenLabs voice description in this format: age, gender, accent, tone, personality
    - Keep descriptions to 1-2 sentences, max 500 characters
    - Base the description on the character's lore, appearance, and role in the game
+   - **Never use the word "child"** in descriptions (ElevenLabs blocks it) - use alternatives like "young", "youthful", or specific ages instead
 
 6. **Generate a branch name** for GitHub:
    - Format: `quest/{quest-name-lowercase-hyphenated}`
