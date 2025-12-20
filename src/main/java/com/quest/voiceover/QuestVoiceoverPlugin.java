@@ -1,152 +1,135 @@
 package com.quest.voiceover;
 
 import com.google.inject.Provides;
-import javax.inject.Inject;
+import com.quest.voiceover.features.questlist.QuestListIndicatorManager;
+import com.quest.voiceover.features.voiceover.VoiceoverHandler;
+import com.quest.voiceover.modules.audio.SoundEngine;
+import com.quest.voiceover.modules.database.DatabaseManager;
+import com.quest.voiceover.modules.database.DatabaseVersionManager;
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.api.coords.WorldPoint;
-import net.runelite.client.eventbus.Subscribe;
-import net.runelite.client.plugins.PluginDescriptor;
-
-import com.quest.voiceover.database.*;
-import net.runelite.api.*;
+import net.runelite.api.ChatMessageType;
+import net.runelite.api.Client;
 import net.runelite.api.events.*;
 import net.runelite.api.widgets.InterfaceID;
-import net.runelite.api.widgets.Widget;
 import net.runelite.client.config.ConfigManager;
-import net.runelite.client.plugins.Plugin;
 import net.runelite.client.eventbus.EventBus;
+import net.runelite.client.eventbus.Subscribe;
+import net.runelite.client.plugins.Plugin;
+import net.runelite.client.plugins.PluginDescriptor;
 import okhttp3.OkHttpClient;
 
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-import java.sql.SQLException;
+import javax.inject.Inject;
 import java.util.concurrent.ScheduledExecutorService;
 
 @Slf4j
-@PluginDescriptor(
-	name = "Quest Voiceover"
-)
-public class QuestVoiceoverPlugin extends Plugin
-{
-	@Inject
-	private Client client;
+@PluginDescriptor(name = "Quest Voiceover")
+public class QuestVoiceoverPlugin extends Plugin {
 
-	@Inject
-	private DatabaseManager databaseManager;
+    @Inject
+    private Client client;
 
-	@Inject
-	private EventBus eventBus;
+    @Inject
+    private EventBus eventBus;
 
-	@Inject
-	private SoundEngine soundEngine;
+    @Inject
+    private OkHttpClient okHttpClient;
 
-	@Inject
-	private DialogEngine dialogEngine;
+    @Inject
+    private ScheduledExecutorService executor;
 
-	@Inject
-	private OkHttpClient okHttpClient;
+    @Inject
+    private DatabaseManager databaseManager;
 
-	@Inject
-	private ScheduledExecutorService executor;
+    @Inject
+    private SoundEngine soundEngine;
 
-	private String playerName = null;
-	private Boolean isQuestDialog = false;
-	private String questName = null;
+    @Inject
+    private VoiceoverHandler voiceoverHandler;
 
-	@Override
-	protected void startUp() throws Exception
-	{
-		eventBus.register(soundEngine);
-		log.info("Quest Voiceover plugin started!");
+    @Inject
+    private QuestListIndicatorManager questListIndicatorManager;
 
-		executor.submit(() -> {
-			DatabaseVersionManager.prepareDatabaseSource(okHttpClient);
-			this.databaseManager.initializeConnection();
-		});
-	}
+    private String playerName;
 
-	@Override
-	protected void shutDown() throws Exception
-	{
-		eventBus.unregister(soundEngine);
-		log.info("Quest Voiceover plugin stopped!");
+    @Override
+    protected void startUp() {
+        eventBus.register(soundEngine);
+        executor.submit(this::initializeDatabase);
+        log.info("Quest Voiceover plugin started");
+    }
 
-		databaseManager.closeConnection();
-	}
+    @Override
+    protected void shutDown() throws Exception {
+        eventBus.unregister(soundEngine);
+        databaseManager.closeConnection();
+        log.info("Quest Voiceover plugin stopped");
+    }
 
-	@Subscribe
-	public void onChatMessage(ChatMessage chatMessage) {
-		if (chatMessage.getType().equals(ChatMessageType.DIALOG)) {
-			if (this.playerName == null) {
-				this.playerName = this.client.getLocalPlayer().getName();
-			}
+    @Subscribe
+    public void onChatMessage(ChatMessage event) {
+        if (event.getType() != ChatMessageType.DIALOG) {
+            return;
+        }
 
-			MessageUtils message = new MessageUtils(chatMessage.getMessage(), this.playerName);
+        initializePlayerNameIfNeeded();
+        voiceoverHandler.handleDialogMessage(event.getMessage(), playerName);
+    }
 
-			try (PreparedStatement statement = databaseManager.prepareStatement("SELECT quest, uri FROM dialogs WHERE character = ? AND text MATCH ?")) {
-				statement.setString(1, message.name.replace("'", "''"));
-				statement.setString(2, message.text.replace("'", "''"));
+    @Subscribe
+    public void onMenuOptionClicked(MenuOptionClicked event) {
+        if (event.getMenuOption().equals("Continue")) {
+            voiceoverHandler.stopVoiceover();
+        }
+    }
 
-				try (ResultSet resultSet = statement.executeQuery()) {
-					if (resultSet.next()) {
-						String fileName = resultSet.getString("uri");
-						String questName = resultSet.getString("quest");
+    @Subscribe
+    public void onWidgetLoaded(WidgetLoaded event) {
+        if (isDialogWidget(event.getGroupId())) {
+            voiceoverHandler.handleDialogOpened();
+        }
 
-						this.questName = questName;
+        if (event.getGroupId() == InterfaceID.QUEST_LIST) {
+            questListIndicatorManager.onQuestListOpened();
+        }
+    }
 
-						if (fileName != null || questName != null) {
-							isQuestDialog = true;
-							soundEngine.play(fileName);
-							return;
-						}
-					}
-				}
-				isQuestDialog = false;
-			} catch (SQLException e) {
-				log.error("Encountered an SQL error", e);
-			}
-		}
-	}
+    @Subscribe
+    public void onWidgetClosed(WidgetClosed event) {
+        if (isDialogWidget(event.getGroupId())) {
+            voiceoverHandler.stopVoiceover();
+        }
 
-	@Subscribe
-	public void onMenuOptionClicked(MenuOptionClicked event)
-	{
-		if (event.getMenuOption().equals("Continue"))
-		{
-			soundEngine.stop();
-		}
-	}
+        if (event.getGroupId() == InterfaceID.QUEST_LIST) {
+            questListIndicatorManager.onQuestListClosed();
+        }
+    }
 
-	@Subscribe
-	public void onWidgetLoaded(WidgetLoaded widgetLoaded)
-	{
-		// Check if the loaded widget is the dialog widget
-		if (widgetLoaded.getGroupId() == InterfaceID.DIALOG_NPC || widgetLoaded.getGroupId() == InterfaceID.DIALOG_PLAYER || widgetLoaded.getGroupId() == InterfaceID.DIALOG_OPTION)
-		{
-			if(dialogEngine.isPlayerOrNpcDialogOpen() && isQuestDialog) {
-				Widget dialogWidget = dialogEngine.getPlayerOrNpcWidget();
-				dialogEngine.addMuteButton(dialogWidget);
-				if(questName != null) {
-					dialogEngine.addQuestNameText(dialogWidget, this.questName);
-				}
-			}
-		}
-	}
+    @Subscribe
+    public void onGameTick(GameTick event) {
+        questListIndicatorManager.onGameTick();
+    }
 
-	@Subscribe
-	public void onWidgetClosed(WidgetClosed widgetClosed)
-	{
-		if (widgetClosed.getGroupId() == InterfaceID.DIALOG_NPC ||
-				widgetClosed.getGroupId() == InterfaceID.DIALOG_PLAYER ||
-				widgetClosed.getGroupId() == InterfaceID.DIALOG_OPTION)
-		{
-			soundEngine.stop();
-		}
-	}
+    @Provides
+    QuestVoiceoverConfig provideConfig(ConfigManager configManager) {
+        return configManager.getConfig(QuestVoiceoverConfig.class);
+    }
 
-	@Provides
-	QuestVoiceoverConfig provideConfig(ConfigManager configManager)
-	{
-		return configManager.getConfig(QuestVoiceoverConfig.class);
-	}
+    private void initializeDatabase() {
+        DatabaseVersionManager.prepareDatabaseSource(okHttpClient);
+        databaseManager.initializeConnection();
+        questListIndicatorManager.setVoicedQuests(databaseManager.getVoicedQuests());
+        log.info("Database initialized");
+    }
+
+    private void initializePlayerNameIfNeeded() {
+        if (playerName == null) {
+            playerName = client.getLocalPlayer().getName();
+        }
+    }
+
+    private boolean isDialogWidget(int groupId) {
+        return groupId == InterfaceID.DIALOG_NPC
+            || groupId == InterfaceID.DIALOG_PLAYER
+            || groupId == InterfaceID.DIALOG_OPTION;
+    }
 }

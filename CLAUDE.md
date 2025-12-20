@@ -25,16 +25,49 @@ pixi run cli             # Run interactive CLI to generate voiceovers
 pixi shell               # Activate virtual environment (optional)
 ```
 
+## Code Style
+
+### General Principles
+- Main plugin file should only contain event handlers - delegate all logic to specialized managers
+- Good separation of concerns - each class has a single responsibility
+- Readable code with descriptive method and variable names
+- Descriptive conditions - extract complex conditionals into well-named methods
+- No "what" or "how" comments - only "why" comments when the reasoning isn't obvious
+- Use early returns to reduce nesting
+
+### File Organization
+- **Localized code**: Feature-specific logic goes in `features/` folder
+- **Shared code**: Reusable infrastructure goes in `modules/` folder
+- **Utilities**: Generic helpers go in `utility/` folder (outside modules)
+
 ## Architecture
 
 ### Java Plugin (`src/main/java/com/quest/voiceover/`)
-- **QuestVoiceoverPlugin.java** - Main plugin entry point. Subscribes to RuneLite events (`ChatMessage`, `MenuOptionClicked`, `WidgetLoaded/Closed`) to detect quest dialogs and trigger audio playback
-- **SoundEngine.java** - Handles MP3 streaming from GitHub's `sounds` branch using the Jaco MP3 player library
-- **DialogEngine.java** - Manages dialog UI widgets (mute button, quest name display)
-- **DatabaseManager.java** - SQLite connection management for the dialog lookup database
-- **DatabaseVersionManager.java** - Downloads and version-controls the database from GitHub's `database` branch
-- **MessageUtils.java** - Parses chat messages to extract character name and dialog text
-- **HashUtil.java** - MD5 hashing for audio file naming
+
+```
+com/quest/voiceover/
+├── QuestVoiceoverPlugin.java      # Event handlers only
+├── QuestVoiceoverConfig.java      # Plugin configuration
+│
+├── modules/                        # Shared infrastructure
+│   ├── audio/
+│   │   └── SoundEngine.java       # MP3 playback
+│   ├── database/
+│   │   ├── DatabaseManager.java   # SQLite connection & queries
+│   │   └── DatabaseVersionManager.java  # Database download/versioning
+│   └── dialog/
+│       └── DialogManager.java     # Dialog widget manipulation
+│
+├── features/                       # Business logic
+│   ├── voiceover/
+│   │   └── VoiceoverHandler.java  # Plays voiceovers on dialog
+│   └── questlist/
+│       └── QuestListIndicatorManager.java  # Quest list [Voiced] indicators
+│
+└── utility/                        # Shared utilities
+    ├── HashUtil.java              # MD5/SHA hashing
+    └── MessageParser.java         # Dialog message parsing
+```
 
 ### Python CLI (`voiceover_cli/`)
 - **wiki_utils.py** - Scrapes OSRS Wiki for quest transcripts and character lists
