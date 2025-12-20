@@ -22,7 +22,11 @@ While not all the voices are acted in the best way, with our cli tooling, we are
 - [x] The Restless Ghost
 - [x] Rune Mysteries
 - [x] Spirits of the Elid
-- [ ] Imp Catcher
+- [x] Current Affairs
+- [x] Ghosts Ahoy
+- [x] Imp Catcher
+- [x] Pandemonium
+- [x] Shades of Mort'ton
 - [ ] Witch's Potion
 - [ ] Gertrude's Cat
 
@@ -36,20 +40,15 @@ In this repository contains the tools to contribute!
 This can be done by using our `voiceover_cli` tool to generate all the sound bites automatically for a given quest.
 
 ### Requirements
-- Python 3.8+
-- Poetry - https://python-poetry.org/docs/
+- Pixi - https://pixi.sh/
 - Elevenlabs Account - https://elevenlabs.io/app
 
-### installation
-1. Make a python virtual environment with poetry.
+### Installation
+1. Install the required packages.
 ```bash
-poetry shell
+pixi install
 ```
-2. Install the required packages.
-```bash
-poetry install
-```
-3. Copy the .env.example file to .env and fill in your ElevenLabs API Key (You can skip this step if you want to CLI to automate it).
+2. Copy the .env.example file to .env and fill in your ElevenLabs API Key (You can skip this step if you want the CLI to automate it).
 ```bash
 cp .env.example .env
 ```
@@ -59,7 +58,7 @@ cp .env.example .env
    **Note: To keep the voice actors consistent, the player dialog lines will always be voiced by the default `Chris` voice!**
 2. To use the interactive cli tool, run the following command:
 ```bash
-python cli-main.py
+pixi run cli
 ```
 
 3. An interactive cli tool should open for you to generate the sounds, read through the instructions and generate the transcript voiceover!
