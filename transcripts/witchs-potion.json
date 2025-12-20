@@ -1,0 +1,53 @@
+{
+  "branch": "quest/witchs-potion",
+  "quest_name": "Witch's Potion",
+  "lines": [
+    { "character": "Hetty", "line": "What could you want with an old woman like me?" },
+    { "character": "Player", "line": "I am in search of a quest." },
+    { "character": "Hetty", "line": "Hmmm... Maybe I can think of something for you." },
+    { "character": "Hetty", "line": "Would you like to become more proficient in the dark arts?" },
+    { "character": "Player", "line": "Yes, help me become one with my darker side." },
+    { "character": "Hetty", "line": "Okay, I'm going to make a potion to help bring out your darker self." },
+    { "character": "Hetty", "line": "You will need certain ingredients." },
+    { "character": "Player", "line": "What do I need?" },
+    { "character": "Hetty", "line": "You need an eye of newt, a rat's tail, an onion... Oh and a piece of burnt meat." },
+    { "character": "Player", "line": "Great, I'll go and get them." },
+    { "character": "Player", "line": "No, I have my principles and honour." },
+    { "character": "Hetty", "line": "Suit yourself, but you're missing out." },
+    { "character": "Player", "line": "I've heard that you are a witch." },
+    { "character": "Hetty", "line": "Yes it does seem to be getting fairly common knowledge." },
+    { "character": "Hetty", "line": "I fear I may be getting a visit from the witch hunters of Falador before long." },
+    { "character": "Player", "line": "Goodbye." },
+    { "character": "Player", "line": "I've been looking for those ingredients." },
+    { "character": "Hetty", "line": "So what have you found so far?" },
+    { "character": "Player", "line": "I'm afraid I don't have any of them yet." },
+    { "character": "Hetty", "line": "Well I can't make the potion without them! Remember... You need an eye of newt, a rat's tail, an onion, and a piece of burnt meat. Off you go dear!" },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I don't have any burnt meat, I don't have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I don't have a rat's tail, I have the burnt meat, I don't have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I don't have a rat's tail, I don't have any burnt meat, I have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I don't have a rat's tail, I don't have any burnt meat, I don't have an onion, and I have the eye of newt, yum!" },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I have the burnt meat, I don't have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I don't have any burnt meat, I have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I don't have any burnt meat, I don't have an onion, and I have the eye of newt, yum!" },
+    { "character": "Player", "line": "I don't have a rat's tail, I have the burnt meat, I have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I don't have a rat's tail, I have the burnt meat, I don't have an onion, and I have the eye of newt, yum!" },
+    { "character": "Player", "line": "I don't have a rat's tail, I don't have any burnt meat, I have an onion, and I have the eye of newt, yum!" },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I have the burnt meat, I have an onion, and I don't have an eye of newt." },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I have the burnt meat, I don't have an onion, and I have the eye of newt, yum!" },
+    { "character": "Player", "line": "I have the rat's tail (ewww), I don't have any burnt meat, I have an onion, and I have the eye of newt, yum!" },
+    { "character": "Player", "line": "I don't have a rat's tail, I have the burnt meat, I have an onion, and I have the eye of newt, yum!" },
+    { "character": "Hetty", "line": "Great, but I'll need the other ingredients as well." },
+    { "character": "Player", "line": "In fact I have everything!" },
+    { "character": "Hetty", "line": "Excellent, can I have them then?" },
+    { "character": "Player", "line": "Well, is it ready?" },
+    { "character": "Hetty", "line": "Ok, now drink from the cauldron." },
+    { "character": "Hetty", "line": "Well are you going to drink the potion or not?" },
+    { "character": "Player", "line": "Yes, I will." }
+  ],
+  "characters": [
+    {
+      "name": "Hetty",
+      "description": "Elderly female, British accent, raspy and mysterious tone, a reclusive witch living in Rimmington who dabbles in the dark arts and takes pride in her craft while remaining wary of witch hunters."
+    }
+  ]
+}
