@@ -16,7 +16,7 @@ Extract dialogue and character data from an OSRS Wiki quest transcript page.
    - Skip item descriptions and examine text
    - Skip stage directions (text in parentheses describing actions)
    - Skip section headers and navigation elements
-   - Keep dialogue lines intact - do not split lines that appear together in the wiki
+   - **NEVER merge lines together** - each `<b>Speaker:</b>` tag on the wiki represents exactly one dialogue box as shown in-game, preserve this 1:1 mapping
    - Deduplicate exact repeated lines (same speaker + same text)
 
 4. **Resolve dynamic text:**
