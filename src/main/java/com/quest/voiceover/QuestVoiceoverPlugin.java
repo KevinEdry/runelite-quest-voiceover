@@ -1,8 +1,8 @@
 package com.quest.voiceover;
 
 import com.google.inject.Provides;
-import com.quest.voiceover.features.questlist.QuestListIndicatorManager;
-import com.quest.voiceover.features.voiceover.VoiceoverHandler;
+import com.quest.voiceover.features.QuestListIndicatorHandler;
+import com.quest.voiceover.features.VoiceoverHandler;
 import com.quest.voiceover.modules.audio.SoundEngine;
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.database.DatabaseVersionManager;
@@ -47,7 +47,7 @@ public class QuestVoiceoverPlugin extends Plugin {
     private VoiceoverHandler voiceoverHandler;
 
     @Inject
-    private QuestListIndicatorManager questListIndicatorManager;
+    private QuestListIndicatorHandler questListIndicatorHandler;
 
     private String playerName;
 
@@ -89,7 +89,7 @@ public class QuestVoiceoverPlugin extends Plugin {
         }
 
         if (event.getGroupId() == InterfaceID.QUEST_LIST) {
-            questListIndicatorManager.onQuestListOpened();
+            questListIndicatorHandler.onQuestListOpened();
         }
     }
 
@@ -100,13 +100,13 @@ public class QuestVoiceoverPlugin extends Plugin {
         }
 
         if (event.getGroupId() == InterfaceID.QUEST_LIST) {
-            questListIndicatorManager.onQuestListClosed();
+            questListIndicatorHandler.onQuestListClosed();
         }
     }
 
     @Subscribe
     public void onGameTick(GameTick event) {
-        questListIndicatorManager.onGameTick();
+        questListIndicatorHandler.onGameTick();
     }
 
     @Provides
@@ -117,7 +117,7 @@ public class QuestVoiceoverPlugin extends Plugin {
     private void initializeDatabase() {
         DatabaseVersionManager.prepareDatabaseSource(okHttpClient);
         databaseManager.initializeConnection();
-        questListIndicatorManager.setVoicedQuests(databaseManager.getVoicedQuests());
+        questListIndicatorHandler.setVoicedQuests(databaseManager.getVoicedQuests());
         log.info("Database initialized");
     }
 

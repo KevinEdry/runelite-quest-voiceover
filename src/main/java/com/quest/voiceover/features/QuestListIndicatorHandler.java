@@ -1,4 +1,4 @@
-package com.quest.voiceover.features.questlist;
+package com.quest.voiceover.features;
 
 import net.runelite.api.Client;
 import net.runelite.api.widgets.InterfaceID;
@@ -10,7 +10,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 @Singleton
-public class QuestListIndicatorManager {
+public class QuestListIndicatorHandler {
 
     private static final int QUEST_LIST_CONTAINER_COMPONENT = 7;
     private static final int WIDGET_TYPE_TEXT = 4;

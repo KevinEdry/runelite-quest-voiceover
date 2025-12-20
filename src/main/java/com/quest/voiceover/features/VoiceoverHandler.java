@@ -1,4 +1,4 @@
-package com.quest.voiceover.features.voiceover;
+package com.quest.voiceover.features;
 
 import com.quest.voiceover.modules.audio.SoundEngine;
 import com.quest.voiceover.modules.database.DatabaseManager;
