@@ -1,0 +1,1196 @@
+{
+  "branch": "quest/dragon-slayer-i",
+  "quest_name": "Dragon Slayer I",
+  "lines": [
+    {
+      "character": "Guildmaster",
+      "line": "Greetings!"
+    },
+    {
+      "character": "Player",
+      "line": "What is this place?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "This is the Champions' Guild. Only adventurers who have proved themselves worthy by gaining influence from quests are allowed in here."
+    },
+    {
+      "character": "Player",
+      "line": "Can I have a quest?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Aha!"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Yes! A mighty and perilous quest fit only for the most powerful champions! And, at the end of it, you will earn the right to wear the legendary rune platebody!"
+    },
+    {
+      "character": "Player",
+      "line": "So, what is this quest?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "You'll have to speak to Oziach, the maker of rune armour. He sets the quests that champions must complete in order to wear it."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Oziach lives in a hut, by the cliffs to the west of Edgeville. He can be a little...odd...sometimes, though."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'll give it a miss."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "You're already on a quest for me, if I recall correctly. Have you talked to Oziach yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Well, he's the only one who can grant you the right to wear rune platemail. He lives in a hut, by the cliffs west of Edgeville."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll go and talk to him."
+    },
+    {
+      "character": "Oziach",
+      "line": "Aye, 'tis a fair day my friend."
+    },
+    {
+      "character": "Player",
+      "line": "Can you sell me a rune platebody?"
+    },
+    {
+      "character": "Oziach",
+      "line": "So, how does thee know I 'ave some?"
+    },
+    {
+      "character": "Player",
+      "line": "The Guildmaster of the Champions' Guild told me."
+    },
+    {
+      "character": "Oziach",
+      "line": "Yes, I suppose he would, wouldn't he? He's always sending you fancy-pants 'heroes' up to bother me. Telling me I'll give them a quest or sommat like that."
+    },
+    {
+      "character": "Oziach",
+      "line": "Well, I'm not going to let just anyone wear my rune platemail. It's only for heroes. So, leave me alone."
+    },
+    {
+      "character": "Player",
+      "line": "I thought you were going to give me a quest."
+    },
+    {
+      "character": "Oziach",
+      "line": "*Sigh*"
+    },
+    {
+      "character": "Oziach",
+      "line": "All right, I'll give ye a quest. I'll let ye wear my rune platemail if ye..."
+    },
+    {
+      "character": "Oziach",
+      "line": "Slay the dragon of Crandor!"
+    },
+    {
+      "character": "Player",
+      "line": "A dragon, that sounds like fun!"
+    },
+    {
+      "character": "Oziach",
+      "line": "Hah, yes, you are a typical reckless adventurer, aren't you? Now go kill the dragon and get out of my face."
+    },
+    {
+      "character": "Player",
+      "line": "But how can I defeat the dragon?"
+    },
+    {
+      "character": "Oziach",
+      "line": "Go talk to the Guildmaster in the Champions' Guild. He'll help ye out if yer so keen on doing a quest. I'm not going to be handholding any adventurers."
+    },
+    {
+      "character": "Player",
+      "line": "I may be a champion, but I don't think I'm up to dragon-killing yet."
+    },
+    {
+      "character": "Oziach",
+      "line": "Yes, I can understand that. Yer a coward."
+    },
+    {
+      "character": "Player",
+      "line": "That's a pity, I'm not a hero."
+    },
+    {
+      "character": "Oziach",
+      "line": "Aye, I ken tell!"
+    },
+    {
+      "character": "Player",
+      "line": "I am a master detective."
+    },
+    {
+      "character": "Oziach",
+      "line": "Well, however you found out about it, I'm not going to let just anyone wear my rune platemail. It's only for heroes. So leave me alone."
+    },
+    {
+      "character": "Oziach",
+      "line": "Have ye slayed that dragon yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... no."
+    },
+    {
+      "character": "Oziach",
+      "line": "Be off with ye then."
+    },
+    {
+      "character": "Player",
+      "line": "I talked to Oziach and he gave me a quest."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Oh? What did he tell you to do?"
+    },
+    {
+      "character": "Player",
+      "line": "Defeat the dragon of Crandor."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "The dragon of Crandor?"
+    },
+    {
+      "character": "Player",
+      "line": "Um, yes..."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Goodness, he hasn't given you an easy job, has he?"
+    },
+    {
+      "character": "Player",
+      "line": "What's so special about this dragon?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Thirty years ago, Crandor was a thriving community with a great tradition of mages and adventurers. Many Crandorians even earned the right to be part of the Champions' Guild!"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "One of their adventurers went too far, however. He descended into the volcano in the centre of Crandor and woke the dragon Elvarg."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "He must have fought valiantly against the dragon because they say that, to this day, she has a scar down her side,"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "but the dragon still won the fight. She emerged and laid waste to the whole of Crandor with her fire breath!"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Some refugees managed to escape in fishing boats. They landed on the coast, north of Rimmington, and set up camp but the dragon followed them and burned the camp to the ground."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Out of all the people of Crandor there were only three survivors: a trio of wizards who used magic to escape. Their names were Thalzar, Lozar and Melzar."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "If you're serious about taking on Elvarg, first you'll need to get to Crandor, and to my knowledge, the only way to do that is by sea."
+    },
+    {
+      "character": "Player",
+      "line": "So I just sail over there? Seems easy enough."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "If only that were true. The island is surrounded by dangerous underwater reefs. You'll need a map to guide you through them and a ship capable of doing so."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "And then of course there's the dragon herself. Once you reach Crandor, you'll need some kind of protection against her breath."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find a map to Crandor?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "After what happened, people were afraid of enraging the dragon. Most maps to the island were destroyed, but I have heard that one survived. It was held by Melzar, Thalzar and Lozar."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "However, the three apparently split the map into three pieces, which each of them taking one piece."
+    },
+    {
+      "character": "Player",
+      "line": "Where is Melzar's map piece?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Melzar built a castle on the site of the Crandorian refugee camp, north of Rimmington. He's locked himself in there and no one's seen him for years."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "The inside of his castle is like a maze, and is populated by undead monsters. Maybe, if you could get all the way through the maze, you could find his piece of the map."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Adventurers sometimes go in there to prove themselves, so I can give you this key to Melzar's Maze."
+    },
+    {
+      "character": "Player",
+      "line": "Where is Thalzar's map piece?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Thalzar was the most paranoid of the three wizards. He hid his map piece and took the secret of its location to his grave."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "I don't think you'd be able to find out where it is by ordinary means. You'll need to talk to the Oracle on Ice Mountain."
+    },
+    {
+      "character": "Player",
+      "line": "Where is Lozar's map piece?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "A few weeks ago, I'd have told you to speak to Lozar herself, in her house across the river from Lumbridge."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Unfortunately, goblin raiders killed her and stole everything. One of the goblins from the Goblin Village probably has the map piece now."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of ship do I need?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Quite a specific one I'm afraid. Even with a map, very few ships will be able to navigate the reefs around the island. You're going to need one of Crandorian design."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "If there's still one in existence, it's probably in Port Sarim. However, a ship will also need a captain, and I'm not sure where you'd find one willing to sail to Crandor!"
+    },
+    {
+      "character": "Player",
+      "line": "Could I not just captain it myself? I have some experience in that area."
+    },
+    {
+      "character": "Guildmaster",
+      "line": "I suppose you could, but given you have a dragon to be dealing with, I'd suggest getting someone else to worry about the captaining for you."
+    },
+    {
+      "character": "Player",
+      "line": "How can I protect myself from the dragon's breath?"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "That part shouldn't be too difficult, actually. I believe the Duke of Lumbridge has a special shield in his armoury that is enchanted against dragon's breath."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll get going!"
+    },
+    {
+      "character": "Player",
+      "line": "About my quest to kill the dragon..."
+    },
+    {
+      "character": "Melzar the Mad",
+      "line": "By the power of custard!"
+    },
+    {
+      "character": "Melzar the Mad",
+      "line": "Feel the wrath of my feet!"
+    },
+    {
+      "character": "Melzar the Mad",
+      "line": "Let me drink my tea in peace."
+    },
+    {
+      "character": "Melzar the Mad",
+      "line": "Leave me alone, I need to feed my pet rock."
+    },
+    {
+      "character": "Player",
+      "line": "I seek a piece of the map to the island of Crandor."
+    },
+    {
+      "character": "Oracle",
+      "line": "The map's behind a door below, but entering is rather tough. This is what you need to know: You must use the following stuff."
+    },
+    {
+      "character": "Oracle",
+      "line": "First, a drink used by a mage. Next, some worm string, changed to sheet. Then, a small crustacean cage. Last, a bowl that's not seen heat."
+    },
+    {
+      "character": "Player",
+      "line": "I've heard that one of your number has got hold of part of a map."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Aha, that'd be Wormbrain."
+    },
+    {
+      "character": "Player",
+      "line": "Where would he be?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Wormbrain steals too much. He got caught. Now he lives in Port Sarim town jail."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Whut you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I believe you've got piece of a map that I need."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "So? Why should I be giving it to you? What you do for Wormbrain?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not going to do anything for you. Forget it."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Be dat way then."
+    },
+    {
+      "character": "Player",
+      "line": "I'll let you live. I could just kill you."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Ha! Me in here and you out dere. You not get map piece."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I could pay you for the map piece. Say, 500 coins?"
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Me not stoopid, it worth at least 10,000 coins!"
+    },
+    {
+      "character": "Player",
+      "line": "You must be joking! Forget it."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Fine, you not get map piece."
+    },
+    {
+      "character": "Player",
+      "line": "Alright then, 10,000 coins it is."
+    },
+    {
+      "character": "Player",
+      "line": "Oops, I don't have enough on me."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Comes back when you has enough."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Fank you very much! Now me can bribe da guards, hehehe."
+    },
+    {
+      "character": "Player",
+      "line": "Where did you get the map piece from?"
+    },
+    {
+      "character": "Wormbrain",
+      "line": "We rob house of stupid wizard. She very old, not put up much fight at all. Hahaha!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... Hahaha."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Her house full of pictures of a city on island and old pictures of people. Me not recognise island."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Me find map piece. Me not know what it is, but it in locked box so me figure it important."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "But, by the time me get box open, other goblins gone. Then me not run fast enough and guards catch me."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "But now you want map piece so must be special! What you do for me to get it?"
+    },
+    {
+      "character": "Player",
+      "line": "What are you in for?"
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Me not sure. Me pick some stuff up and take it away."
+    },
+    {
+      "character": "Player",
+      "line": "Well, did the stuff belong to you?"
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Umm...no."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that would be why then."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Oh, right."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, thought this was a zoo."
+    },
+    {
+      "character": "Wormbrain",
+      "line": "Ow!"
+    },
+    {
+      "character": "Klarense",
+      "line": "Hey, stay off my ship! That's private property!"
+    },
+    {
+      "character": "Klarense",
+      "line": "Hello there! Interested in buying this fine ship? I'm sure I can offer her to you for a much better price than any of those shipwrights ask for!"
+    },
+    {
+      "character": "Player",
+      "line": "A much better price? What's the catch?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Well, she's not quite seaworthy right now..."
+    },
+    {
+      "character": "Player",
+      "line": "Not seaworthy? Why would I want to buy her then?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Because this isn't just any ship! This is the Lady Lumbridge, one of the last Crandorian ships! Despite her size, she's one of the most agile ship around!"
+    },
+    {
+      "character": "Player",
+      "line": "Except she's not seaworthy..."
+    },
+    {
+      "character": "Klarense",
+      "line": "No, but a bit of work will quickly sort that out!"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to buy her."
+    },
+    {
+      "character": "Klarense",
+      "line": "Of course! I'm sure the work needed to do on it wouldn't be too expensive."
+    },
+    {
+      "character": "Klarense",
+      "line": "How does 2,000 gold sound? I'll even throw in my cabin boy, Jenkins, for free! He'll swab the decks and splice the mainsails for you!"
+    },
+    {
+      "character": "Player",
+      "line": "Yep, sounds good."
+    },
+    {
+      "character": "Player",
+      "line": "...except I don't have that kind of money on me..."
+    },
+    {
+      "character": "Klarense",
+      "line": "Okey-dokey! She's all yours!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not paying that much for a broken boat!"
+    },
+    {
+      "character": "Klarense",
+      "line": "That's fair enough, I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "Why is she damaged?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Oh, there was no particular accident, just years of wear and tear. It's been a long time since Crandor was destroyed and she's had several owners since then. Unfortunately, not all of them looked after her."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll pass."
+    },
+    {
+      "character": "Klarense",
+      "line": "Hello, captain! Here to inspect your new ship? Just a little work and she'll be seaworthy again."
+    },
+    {
+      "character": "Player",
+      "line": "So, what needs fixing on this ship?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Well, the big gaping hole in the hold is the problem. You'll need a few wooden planks hammered in with steel nails to fix it."
+    },
+    {
+      "character": "Klarense",
+      "line": "I dunno. It looks fine to me."
+    },
+    {
+      "character": "Player",
+      "line": "But you said it needed fix-"
+    },
+    {
+      "character": "Klarense",
+      "line": "Yes, but that was before you fixed it!"
+    },
+    {
+      "character": "Player",
+      "line": "So would you like to sail this ship to Crandor for me?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Crandor? You're joking, right?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Ha ha ha!"
+    },
+    {
+      "character": "Klarense",
+      "line": "Crandor's not something we sailors joke about. You can't sail from here to Catherby, or Entrana, or Ardougne without going past that accursed island."
+    },
+    {
+      "character": "Klarense",
+      "line": "You can't get close to it because of the reefs, but you can always see it."
+    },
+    {
+      "character": "Klarense",
+      "line": "Sometimes you can see a dark shape in the sky, circling the island. That's when you have to sail on as quick as you can and pray it's not hungry. Every year, more ships are lost to that dragon."
+    },
+    {
+      "character": "Player",
+      "line": "No. I want to go to Crandor."
+    },
+    {
+      "character": "Klarense",
+      "line": "Then you must be crazy."
+    },
+    {
+      "character": "Klarense",
+      "line": "That island is surrounded by reefs that would rip this ship to shreds. Even if you found a map, you'd need an experienced captain to stand a chance of getting through"
+    },
+    {
+      "character": "Klarense",
+      "line": "and, even if I could get to it, there's no way I'm going any closer to that dragon than I have to. They say it can destroy whole ships with one bite."
+    },
+    {
+      "character": "Player",
+      "line": "What are you going to do now you don't have a ship?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Oh, I'll be fine. I've got work as Port Sarim's first lifeguard!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I board the ship now?"
+    },
+    {
+      "character": "Klarense",
+      "line": "Sure thing, she's all yours."
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "Ahoy! What d'ye think of yer ship then?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready to go back on shore."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to inspect her some more."
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "Aye."
+    },
+    {
+      "character": "Player",
+      "line": "Can you sail this ship to Crandor?"
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "Not me, sir! I'm just an 'umble cabin boy. You'll need a proper cap'n."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find a captain?"
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "The cap'ns round 'ere seem to be a mite scared of Crandor. I ask 'em why and they just say it was afore my time,"
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "but there is one cap'n I reckon might 'elp. I 'eard there's a retired 'un who lives in Draynor Village who's so desperate to sail again 'e'd take any job."
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "I can't remember 'is name, but 'e lives in Draynor Village an' makes rope."
+    },
+    {
+      "character": "Ahab",
+      "line": "Arrr, matey!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me get to Crandor Island?"
+    },
+    {
+      "character": "Ahab",
+      "line": "Arrr, matey, ye canna be serious! That be the home of Elvarg the Dragon!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's right. I 've got to go there and kill the dragon for this quest I'm doing."
+    },
+    {
+      "character": "Ahab",
+      "line": "I canna help ye. And right sorry I be to see a fine young laddie like yerself go off to yer doom."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, but I'll be fine!"
+    },
+    {
+      "character": "Ahab",
+      "line": "Arrr..."
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Arrr, matey!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Crandor Island, ye say?"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Arrr, keep yeself away from that accursed place if ye values yer skin!"
+    },
+    {
+      "character": "Player",
+      "line": "So that's a 'No', then?"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Aye, that it be."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anyone who would take me there?"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "No, I don't know many idiots. Except for young Ben there."
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "Arrr, get away with ye, ye scurvy scallywag!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks anyway."
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "Arrr, matey!"
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "Arrr, ye may be wanting to go to Crandor Island now, but if ye gets there, ye'll be a-wantin' to get off it again quickly enough!"
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "Aye, laddie, that it is."
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "There's only one sailor alive daft enough to go there. Old Ned, the ropemaker in Draynor Village. I can't think of any other fools just now. Except for old Jack Seagull there."
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Arrr, who are ye calling old?"
+    },
+    {
+      "character": "Seaman Lorris",
+      "line": "Hello there. Do you want to go on a trip to Karamja? We can take you to Musa Point for only 30 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather go to Crandor."
+    },
+    {
+      "character": "Seaman Lorris",
+      "line": "Crandor? No chance! You may have a death wish, but we don't!"
+    },
+    {
+      "character": "Trader Stan",
+      "line": "Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I would like to charter a ship."
+    },
+    {
+      "character": "Trader Stan",
+      "line": "Certainly sir. Where would you like to go?"
+    },
+    {
+      "character": "Trader Stan",
+      "line": "Crandor? Are you crazy? No charter ship would take you to that island. You'd need to use your own ship, but even then, you'd need a miracle to find a safe route there!"
+    },
+    {
+      "character": "Ned",
+      "line": "Why, hello there, lad. Me friends call me Ned. I was a man of the sea, but it's past me now. Could I be making or selling you some rope?"
+    },
+    {
+      "character": "Player",
+      "line": "You're a sailor? Could you take me to the island of Crandor?"
+    },
+    {
+      "character": "Ned",
+      "line": "Well, I was a sailor. I've not been able to get work at sea these days, though. They say I'm too old."
+    },
+    {
+      "character": "Ned",
+      "line": "Sorry, where was it you said you wanted to go?"
+    },
+    {
+      "character": "Player",
+      "line": "To the island of Crandor."
+    },
+    {
+      "character": "Ned",
+      "line": "Crandor?"
+    },
+    {
+      "character": "Ned",
+      "line": "But... It would be a chance to sail a ship once more. I'd sail anywhere if it was a chance to sail again."
+    },
+    {
+      "character": "Ned",
+      "line": "Then again, no captain in his right mind would sail to that island..."
+    },
+    {
+      "character": "Ned",
+      "line": "Ah, you only live once! I'll do it!"
+    },
+    {
+      "character": "Ned",
+      "line": "So, where's your ship?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I don't actually have a ship yet."
+    },
+    {
+      "character": "Ned",
+      "line": "Ah, well. Let me know when you do. The place to look would be Port Sarim."
+    },
+    {
+      "character": "Player",
+      "line": "It's the Lady Lumbridge, in Port Sarim."
+    },
+    {
+      "character": "Ned",
+      "line": "That old pile of junk? Last I heard, she wasn't seaworthy."
+    },
+    {
+      "character": "Player",
+      "line": "I fixed her up!"
+    },
+    {
+      "character": "Ned",
+      "line": "You did? Excellent!"
+    },
+    {
+      "character": "Ned",
+      "line": "Just show me the map and we can get ready to go!"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go."
+    },
+    {
+      "character": "Ned",
+      "line": "Excellent! I'll meet you at the ship, then."
+    },
+    {
+      "character": "Player",
+      "line": "Uh...yeah...about that. I don't actually have a map on me."
+    },
+    {
+      "character": "Ned",
+      "line": "You'd better go find it, then. I'm not going to go sailing off without a map to show me where to head!"
+    },
+    {
+      "character": "Ned",
+      "line": "Hello again, lad. Something I can help you with? Want to buy some rope perhaps?"
+    },
+    {
+      "character": "Player",
+      "line": "Will you take me to Crandor now, then?"
+    },
+    {
+      "character": "Ned",
+      "line": "I said I would and old Ned is a man of his word!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, good point. I'd better go and fix her up."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Greetings. Welcome to my castle."
+    },
+    {
+      "character": "Player",
+      "line": "I seek a shield that will protect me from dragonbreath."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "A knight going on a dragon quest, hmm? What dragon do you intend to slay?"
+    },
+    {
+      "character": "Player",
+      "line": "Elvarg, the dragon of Crandor island!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Elvarg? Are you sure?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Well, you're a braver man than I!"
+    },
+    {
+      "character": "Player",
+      "line": "Why is everyone so scared of this dragon?"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Back in my father's day, Crandor was an important city-state. Politically, it was as important as Falador or Varrock and its ships traded with every port."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "But, one day when I was little, all contact was lost. The trading ships and the diplomatic envoys just stopped coming."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I remember my father being very scared. He posted lookouts on the roof to warn if the dragon was approaching. All the city rulers were worried that Elvarg would devastate the whole continent."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better leave that dragon alone."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "That's a relief. I would hate to see such a promising adventurer cut down in his prime."
+    },
+    {
+      "character": "Player",
+      "line": "So, are you going to give me the shield or not?"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "If you really think you're up to it then perhaps you are the one who can kill this dragon."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Take care out there. If you kill it..."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "If you kill it, for Saradomin's sake make sure it's really dead!"
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Very wise. There are some monsters that are best left alone."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, no dragon in particular. I just feel like killing a dragon."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I don't have an infinite supply of these shields, you know. I'll only give one for a truly worthy cause."
+    },
+    {
+      "character": "Ned",
+      "line": "I said I would and old Ned is a man of his word! I'll meet you on board the Lady Lumbridge in Port Sarim."
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Arr, Jim lad!"
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "It's Jenkins, cap'n!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Arr, Jenkins lad!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Shiver me timbers!"
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "Aye aye, cap'n!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Splice the mainsail!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Swab the deck!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Weigh the anchor!"
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "It's too heavy, cap'n!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Ah, it's good to be on board a ship again! No matter how long I live on land, a ship will always seem better. Are you ready to depart?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, let's go!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm not quite ready yet."
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Well, you go do whatever you need to do. I'll wait here for you until you're ready."
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Ah, it's good to feel the salt spray on my face once again!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "And this is a mighty fine ship. She don't look much, but she handles like a dream."
+    },
+    {
+      "character": "Player",
+      "line": "How much longer until we reach Crandor?"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Not long now! According to the chart, we'd be able to see Crandor if it wasn't for those clouds on the horizon."
+    },
+    {
+      "character": "Cabin boy Jenkins",
+      "line": "Looks like there's a storm coming up, cap'n. Soon we won't be able to see anything!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Oh, well. The weather had been so good up until now."
+    },
+    {
+      "character": "Player",
+      "line": "Did you see that?"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "See what?"
+    },
+    {
+      "character": "Player",
+      "line": "I thought I saw something up above us."
+    },
+    {
+      "character": "Captain Ned",
+      "line": "It's the dragon!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "We're going to sink!"
+    },
+    {
+      "character": "Player",
+      "line": "Look! Land ahead!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "We're going to crash!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Now I see why all the other captains said I'd be mad to go near Crandor. It looks like we're stranded."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry about that. I found a secret passage in the dragon's lair that leads off the island!"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "Oh, that's good. I'll be able to get back to Draynor somehow,"
+    },
+    {
+      "character": "Captain Ned",
+      "line": "if I can sneak past all the skeletons and demons on this island!"
+    },
+    {
+      "character": "Klarense",
+      "line": "Wow! You sure are lucky! Seems the Lady Lumbridge just washed right up into the dock by herself!"
+    },
+    {
+      "character": "Klarense",
+      "line": "She's pretty badly damaged, though..."
+    },
+    {
+      "character": "Player",
+      "line": "I killed the dragon!"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "Really? That's amazing!"
+    },
+    {
+      "character": "Guildmaster",
+      "line": "You are a true hero. There's no way that Oziach can refuse to sell you rune platemail now. You should tell him at once!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have!"
+    },
+    {
+      "character": "Player",
+      "line": "I have its head here."
+    },
+    {
+      "character": "Oziach",
+      "line": "You actually did it?"
+    },
+    {
+      "character": "Oziach",
+      "line": "I underestimated ye, adventurer. I apologise."
+    },
+    {
+      "character": "Oziach",
+      "line": "Yer a true hero, and I'd be happy to sell ye rune platebodies."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Guildmaster",
+      "description": "Middle-aged male, British accent, distinguished and formal tone. A professional administrator of the Champions' Guild who speaks with quiet authority and a touch of gravitas when discussing quests and legendary tales."
+    },
+    {
+      "name": "Oziach",
+      "description": "Middle-aged male, thick Northern English/Scottish accent, gruff and dismissive tone. A strange hermit and rune armor seller who speaks with old-fashioned dialect, using 'ye' and 'thee', and is initially hostile to visitors."
+    },
+    {
+      "name": "Melzar the Mad",
+      "description": "Middle-aged male, erratic and unhinged tone with unpredictable pitch changes. A wizard driven insane by grief, speaking in non-sequiturs about custard, feet, tea, and pet rocks."
+    },
+    {
+      "name": "Oracle",
+      "description": "Ageless female, mystical and ethereal British accent, calm and cryptic tone. A prophetess who speaks exclusively in rhyming riddles with an otherworldly, detached quality."
+    },
+    {
+      "name": "General Bentnoze",
+      "description": "Adult male goblin, rough and guttural voice with broken English. A stubborn goblin military leader who speaks in simple, direct sentences with crude pronunciation."
+    },
+    {
+      "name": "Wormbrain",
+      "description": "Adult male goblin, dim-witted and rough voice with heavily broken English. A simple-minded criminal goblin who speaks with poor grammar, using 'me' instead of 'I' and dropping words."
+    },
+    {
+      "name": "Klarense",
+      "description": "Young adult male, casual working-class British accent, slightly evasive salesman tone. A young sailor who tries to make deals sound better than they are with a laid-back but opportunistic demeanor."
+    },
+    {
+      "name": "Cabin boy Jenkins",
+      "description": "Teenage male, enthusiastic Cockney accent, eager and dutiful tone. A humble cabin boy who drops his 'h' sounds and uses nautical slang, speaking with youthful energy and respect."
+    },
+    {
+      "name": "Ahab",
+      "description": "Elderly male, gravelly pirate accent with melancholic undertones. A weathered, one-legged drunk sailor who uses heavy pirate vernacular like 'arrr' and 'matey', tinged with sadness."
+    },
+    {
+      "name": "Jack Seagull",
+      "description": "Middle-aged male, rough pirate accent, gruff and direct tone. A salty, unwashed seafarer who speaks in traditional pirate speech patterns with a no-nonsense attitude."
+    },
+    {
+      "name": "Longbow Ben",
+      "description": "Middle-aged male, weathered pirate accent, mysterious and slightly eccentric tone. A survivor with a dark past who speaks in pirate vernacular with hints of hardened wisdom."
+    },
+    {
+      "name": "Seaman Lorris",
+      "description": "Young adult male, standard British accent, professional and matter-of-fact tone. A working sailor who speaks plainly about travel arrangements without much personality."
+    },
+    {
+      "name": "Trader Stan",
+      "description": "Middle-aged male, polished British accent, smooth and professional businessman tone. A well-dressed charter ship operator who speaks with commercial politeness and slight condescension."
+    },
+    {
+      "name": "Ned",
+      "description": "Elderly male, warm British working-class accent, friendly but wistful tone. An old retired sailor who addresses others affectionately as 'lad' or 'lass' and speaks with nostalgia for his sailing days."
+    },
+    {
+      "name": "Captain Ned",
+      "description": "Elderly male, excited British working-class accent, jovial and commanding tone. Ned transformed by returning to sea, speaking with renewed vigor and using enthusiastic nautical commands."
+    },
+    {
+      "name": "Duke Horacio",
+      "description": "Middle-aged male, refined aristocratic British accent, formal and dignified tone. The noble ruler of Lumbridge who speaks with measured authority and genuine concern for adventurers."
+    }
+  ]
+}

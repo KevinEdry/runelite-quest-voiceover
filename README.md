@@ -15,28 +15,41 @@ https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e
 
 ## Supported Quests
 While not all the voices are acted in the best way, with our cli tooling, we are hoping to cover most of the quests in the game asap, this is our progress so far:
-- [x] Cook's Assistant
-- [x] Sheep Shearer
-- [x] Misthalin Mystery
-- [x] Prince Ali Rescue
-- [x] The Restless Ghost
-- [x] Rune Mysteries
-- [x] Spirits of the Elid
-- [x] Current Affairs
-- [x] Ghosts Ahoy
-- [x] Imp Catcher
-- [x] Pandemonium
-- [x] Shades of Mort'ton
 - [x] Children of the Sun
+- [x] Cook's Assistant
+- [x] Current Affairs
 - [x] Dwarf Cannon
 - [x] Gertrude's Cat
+- [x] Ghosts Ahoy
+- [x] Imp Catcher
+- [x] Misthalin Mystery
+- [x] Pandemonium
+- [x] Prince Ali Rescue
+- [x] Rune Mysteries
+- [x] Shades of Mort'ton
+- [x] Sheep Shearer
+- [x] Spirits of the Elid
+- [x] The Restless Ghost
 - [x] Tree Gnome Village
+- [x] Waterfall Quest
 - [x] Witch's House
 - [ ] Black Knights' Fortress
 - [ ] Clock Tower
-- [ ] Demon Slayer
 - [ ] Doric's Quest
+- [ ] Dragon Slayer I
 - [ ] Ernest the Chicken
+- [ ] Jungle Potion
+- [ ] Lost City
+- [ ] Monk's Friend
+- [ ] Romeo and Juliet
+- [ ] Scorpion Catcher
+- [ ] The Depths of Despair
+- [ ] The Knight's Sword
+- [ ] The Tourist Trap
+- [ ] Tribal Totem
+- [ ] Tutorial Island
+- [ ] Vampyre Slayer
+- [ ] Witch's Potion
 
 If you want to see this plugin support other quests you can either:
 1. Fork this repo and use the `voiceover_cli` to generate the sounds and contribute.
