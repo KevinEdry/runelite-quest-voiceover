@@ -28,6 +28,14 @@ public class DatabaseVersionManager {
     private static final Path VERSION_FILE = DOWNLOAD_DIR.resolve(VERSION_FILENAME);
     private static final Path DATABASE_FILE = DOWNLOAD_DIR.resolve(DATABASE_FILENAME);
 
+    public static String getDatabaseVersion() {
+        String version = readVersionFile();
+        if (version.isEmpty()) {
+            return "Unknown";
+        }
+        return version.replace("\"", "").substring(0, 7);
+    }
+
     public static void prepareDatabaseSource(OkHttpClient okHttpClient) {
         ensureDownloadDirectoryExists();
         downloadOrUpdateDatabase(okHttpClient);
