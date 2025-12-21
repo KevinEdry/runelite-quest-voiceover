@@ -25,12 +25,6 @@ public class VoiceoverHandler {
     private static final String EXACT_QUERY =
         "SELECT quest, uri, text FROM dialogs WHERE character = ? AND text = ? LIMIT 1";
 
-    private static final String FTS_QUERY =
-        "SELECT quest, uri, text FROM dialogs WHERE character = ? AND text MATCH ? " +
-        "UNION ALL " +
-        "SELECT quest, uri, text FROM dialogs WHERE character = ? AND text LIKE ? " +
-        "LIMIT 1";
-
     private static final String LEVENSHTEIN_QUERY =
         "SELECT quest, uri, text, levenshtein_similarity(text, ?) AS similarity " +
         "FROM dialogs WHERE character = ? " +
@@ -150,8 +144,7 @@ public class VoiceoverHandler {
     /**
      * Query stages (in order of speed/accuracy tradeoff):
      * 1. Exact match - fastest, handles most cases where wiki text matches game text
-     * 2. FTS + LIKE prefix - handles partial matches and minor punctuation differences
-     * 3. Levenshtein similarity - handles word substitutions (e.g., "called" vs "named")
+     * 2. Levenshtein similarity - handles word substitutions (e.g., "called" vs "named")
      *    where wiki transcript differs from actual in-game text
      */
     private void playVoiceoverIfAvailable(String characterName, String dialogText) {
@@ -159,11 +152,6 @@ public class VoiceoverHandler {
         String escapedText = escapeQuotes(dialogText);
 
         if (tryExactQuery(escapedCharacter, escapedText, characterName, dialogText)) {
-            return;
-        }
-
-        String prefixSearch = escapedText.substring(0, Math.min(50, escapedText.length())) + "%";
-        if (tryFtsQuery(escapedCharacter, escapedText, prefixSearch, characterName, dialogText)) {
             return;
         }
 
@@ -188,24 +176,6 @@ public class VoiceoverHandler {
             }
         } catch (SQLException e) {
             log.error("Database query failed (exact)", e);
-        }
-        return false;
-    }
-
-    private boolean tryFtsQuery(String escapedCharacter, String escapedText, String prefixSearch, String characterName, String dialogText) {
-        try (PreparedStatement statement = databaseManager.prepareStatement(FTS_QUERY)) {
-            statement.setString(1, escapedCharacter);
-            statement.setString(2, escapedText);
-            statement.setString(3, escapedCharacter);
-            statement.setString(4, prefixSearch);
-
-            try (ResultSet resultSet = statement.executeQuery()) {
-                if (resultSet.next()) {
-                    return playVoiceoverFromResult(resultSet, characterName, dialogText);
-                }
-            }
-        } catch (SQLException e) {
-            log.error("Database query failed (FTS)", e);
         }
         return false;
     }
