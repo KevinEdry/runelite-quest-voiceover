@@ -116,13 +116,8 @@ public class QuestVoiceoverPlugin extends Plugin {
         boolean playerMoving = isPlayerMoving();
         boolean dialogOpen = dialogManager.isPlayerOrNpcDialogOpen();
 
-        if (audioPlaying) {
-            log.info("GameTick check - audioPlaying: {}, playerMoving: {}, dialogOpen: {}",
-                audioPlaying, playerMoving, dialogOpen);
-        }
-
         if (audioPlaying && !dialogOpen) {
-            log.info("Stopping voiceover - dialog closed");
+            log.debug("Stopping voiceover - dialog closed");
             soundEngine.stopImmediately();
         }
     }

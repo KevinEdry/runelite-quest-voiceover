@@ -19,17 +19,21 @@ import java.sql.SQLException;
 @Singleton
 public class VoiceoverHandler {
 
-    private static final String VOICEOVER_QUERY_WITH_QUEST =
-        "SELECT quest, uri FROM dialogs WHERE quest = ? AND character = ? AND text MATCH ? " +
-        "UNION ALL " +
-        "SELECT quest, uri FROM dialogs WHERE quest = ? AND character = ? AND text LIKE ? " +
-        "LIMIT 1";
+    private static final double LEVENSHTEIN_THRESHOLD = 0.85;
 
-    private static final String VOICEOVER_QUERY =
+    private static final String EXACT_QUERY =
+        "SELECT quest, uri FROM dialogs WHERE character = ? AND text = ? LIMIT 1";
+
+    private static final String FTS_QUERY =
         "SELECT quest, uri FROM dialogs WHERE character = ? AND text MATCH ? " +
         "UNION ALL " +
         "SELECT quest, uri FROM dialogs WHERE character = ? AND text LIKE ? " +
         "LIMIT 1";
+
+    private static final String LEVENSHTEIN_QUERY =
+        "SELECT quest, uri, levenshtein_similarity(text, ?) AS similarity " +
+        "FROM dialogs WHERE character = ? AND similarity >= ? " +
+        "ORDER BY similarity DESC LIMIT 1";
 
     @Inject
     private ClientThread clientThread;
@@ -64,18 +68,15 @@ public class VoiceoverHandler {
             String cleanedWidgetText = cleanWidgetText(widgetText, playerName);
 
             if (cleanedWidgetText.startsWith(chatText) || chatText.startsWith(cleanedWidgetText)) {
-                log.info("Using widget text (length: {}) - matches chat message", cleanedWidgetText.length());
                 playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
             } else {
-                log.info("Widget text doesn't match chat message, scheduling retry. Widget: '{}...', Chat: '{}...'",
-                    cleanedWidgetText.substring(0, Math.min(30, cleanedWidgetText.length())),
-                    chatText.substring(0, Math.min(30, chatText.length())));
+                log.debug("Widget text mismatch, scheduling retry");
                 pendingCharacter = chatCharacter;
                 pendingPlayerName = playerName;
                 clientThread.invokeLater(this::retryWithWidget);
             }
         } else {
-            log.info("Widget text not available, scheduling retry");
+            log.debug("Widget not available, scheduling retry");
             pendingCharacter = chatCharacter;
             pendingPlayerName = playerName;
             clientThread.invokeLater(this::retryWithWidget);
@@ -92,10 +93,9 @@ public class VoiceoverHandler {
 
         if (widgetText != null && widgetCharacter != null) {
             String cleanedWidgetText = cleanWidgetText(widgetText, pendingPlayerName);
-            log.info("Retry successful - using widget text (length: {})", cleanedWidgetText.length());
             playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
         } else {
-            log.warn("Retry failed - widget still not available");
+            log.debug("Widget retry failed");
         }
 
         pendingCharacter = null;
@@ -141,48 +141,53 @@ public class VoiceoverHandler {
         soundEngine.stop();
     }
 
+    /**
+     * Query stages (in order of speed/accuracy tradeoff):
+     * 1. Exact match - fastest, handles most cases where wiki text matches game text
+     * 2. FTS + LIKE prefix - handles partial matches and minor punctuation differences
+     * 3. Levenshtein similarity - handles word substitutions (e.g., "called" vs "named")
+     *    where wiki transcript differs from actual in-game text
+     */
     private void playVoiceoverIfAvailable(String characterName, String dialogText) {
         String escapedCharacter = escapeQuotes(characterName);
         String escapedText = escapeQuotes(dialogText);
+
+        if (tryExactQuery(escapedCharacter, escapedText, characterName)) {
+            return;
+        }
+
         String prefixSearch = escapedText.substring(0, Math.min(50, escapedText.length())) + "%";
-        log.info("Querying database - character: '{}', text: '{}', prefix: '{}', currentQuest: '{}'",
-            escapedCharacter, escapedText, prefixSearch, currentQuestName);
-
-        if (currentQuestName != null && tryQueryWithQuest(escapedCharacter, escapedText, prefixSearch, characterName)) {
+        if (tryFtsQuery(escapedCharacter, escapedText, prefixSearch, characterName)) {
             return;
         }
 
-        if (tryQueryWithoutQuest(escapedCharacter, escapedText, prefixSearch, characterName)) {
+        if (tryLevenshteinQuery(escapedCharacter, escapedText, characterName)) {
             return;
         }
 
-        log.info("No voiceover found for character '{}': {}", characterName, dialogText);
+        log.debug("No voiceover found for {} - '{}'", characterName, dialogText);
         activeVoiceover = false;
     }
 
-    private boolean tryQueryWithQuest(String escapedCharacter, String escapedText, String prefixSearch, String characterName) {
-        try (PreparedStatement statement = databaseManager.prepareStatement(VOICEOVER_QUERY_WITH_QUEST)) {
-            statement.setString(1, currentQuestName);
-            statement.setString(2, escapedCharacter);
-            statement.setString(3, escapedText);
-            statement.setString(4, currentQuestName);
-            statement.setString(5, escapedCharacter);
-            statement.setString(6, prefixSearch);
+    private boolean tryExactQuery(String escapedCharacter, String escapedText, String characterName) {
+        try (PreparedStatement statement = databaseManager.prepareStatement(EXACT_QUERY)) {
+            statement.setString(1, escapedCharacter);
+            statement.setString(2, escapedText);
 
             try (ResultSet resultSet = statement.executeQuery()) {
                 if (resultSet.next()) {
+                    log.debug("Match type: exact");
                     return playVoiceoverFromResult(resultSet, characterName);
                 }
             }
         } catch (SQLException e) {
-            log.error("Failed to query voiceover database with quest filter", e);
+            log.error("Database query failed (exact)", e);
         }
-        log.info("No match in current quest '{}', trying all quests", currentQuestName);
         return false;
     }
 
-    private boolean tryQueryWithoutQuest(String escapedCharacter, String escapedText, String prefixSearch, String characterName) {
-        try (PreparedStatement statement = databaseManager.prepareStatement(VOICEOVER_QUERY)) {
+    private boolean tryFtsQuery(String escapedCharacter, String escapedText, String prefixSearch, String characterName) {
+        try (PreparedStatement statement = databaseManager.prepareStatement(FTS_QUERY)) {
             statement.setString(1, escapedCharacter);
             statement.setString(2, escapedText);
             statement.setString(3, escapedCharacter);
@@ -194,7 +199,26 @@ public class VoiceoverHandler {
                 }
             }
         } catch (SQLException e) {
-            log.error("Failed to query voiceover database", e);
+            log.error("Database query failed (FTS)", e);
+        }
+        return false;
+    }
+
+    private boolean tryLevenshteinQuery(String escapedCharacter, String escapedText, String characterName) {
+        try (PreparedStatement statement = databaseManager.prepareStatement(LEVENSHTEIN_QUERY)) {
+            statement.setString(1, escapedText);
+            statement.setString(2, escapedCharacter);
+            statement.setDouble(3, LEVENSHTEIN_THRESHOLD);
+
+            try (ResultSet resultSet = statement.executeQuery()) {
+                if (resultSet.next()) {
+                    double similarity = resultSet.getDouble("similarity");
+                    log.debug("Match type: levenshtein ({}%)", String.format("%.1f", similarity * 100));
+                    return playVoiceoverFromResult(resultSet, characterName);
+                }
+            }
+        } catch (SQLException e) {
+            log.error("Database query failed (Levenshtein)", e);
         }
         return false;
     }
@@ -202,8 +226,7 @@ public class VoiceoverHandler {
     private boolean playVoiceoverFromResult(ResultSet resultSet, String characterName) throws SQLException {
         String audioUri = resultSet.getString("uri");
         currentQuestName = resultSet.getString("quest");
-        log.info("Found voiceover - quest: '{}', uri: '{}', character: '{}'",
-            currentQuestName, audioUri, characterName);
+        log.info("Playing voiceover: {} - {}", characterName, currentQuestName);
 
         if (audioUri != null || currentQuestName != null) {
             activeVoiceover = true;
