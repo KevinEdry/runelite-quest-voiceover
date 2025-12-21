@@ -21,6 +21,14 @@ public class DatabaseManager {
         getConnection();
     }
 
+    public boolean isConnected() {
+        try {
+            return connection != null && !connection.isClosed();
+        } catch (SQLException e) {
+            return false;
+        }
+    }
+
     public void closeConnection() throws SQLException {
         if (connection != null) {
             connection.close();
