@@ -20,7 +20,7 @@ import java.sql.SQLException;
 @Singleton
 public class VoiceoverHandler {
 
-    private static final double LEVENSHTEIN_THRESHOLD = 0.85;
+    private static final double LEVENSHTEIN_THRESHOLD = 0.70;
 
     private static final String EXACT_QUERY =
         "SELECT quest, uri, text FROM dialogs WHERE character = ? AND text = ? LIMIT 1";
