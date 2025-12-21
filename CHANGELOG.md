@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.4.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.3.0...v1.4.0) (2025-12-21)
+
+
+### Features
+
+* add X Marks the Spot quest transcript ([41969a9](https://github.com/KevinEdry/runelite-quest-voiceover/commit/41969a964b1275da9e704f45abb2726fa0130ff2))
+* **config:** reorganize settings into Quest Dialog and Quest List sections ([7cf9243](https://github.com/KevinEdry/runelite-quest-voiceover/commit/7cf92438a78aabae2db70f3d8494baa3ecc48a3c))
+* **database:** add getDatabaseVersion method to DatabaseVersionManager ([955a854](https://github.com/KevinEdry/runelite-quest-voiceover/commit/955a854b14b7ad4238e7a137aa63b2859e97838d))
+* **database:** add isConnected method to DatabaseManager ([6a5caa6](https://github.com/KevinEdry/runelite-quest-voiceover/commit/6a5caa6b82270560388baa06f08cfe585a98d235))
+* **dialog:** respect config toggles for mute button and quest name ([1a2b8ce](https://github.com/KevinEdry/runelite-quest-voiceover/commit/1a2b8ce4c41e27238b1bae3ed02abd67d13ece70))
+* **logging:** change 'no voiceover found' log from debug to info ([a8a8713](https://github.com/KevinEdry/runelite-quest-voiceover/commit/a8a8713233963e71b33f1c2babdf1a3323fbea92))
+* **logging:** include dialog text and matched text in voiceover logs ([abb729b](https://github.com/KevinEdry/runelite-quest-voiceover/commit/abb729b240ba0664704ec4efc1c18c6a6c7baf2f))
+* **logging:** log Levenshtein matches below threshold with best match ([a62e920](https://github.com/KevinEdry/runelite-quest-voiceover/commit/a62e9204ebefd45a50c9abad52ed98791fae1360))
+* **ui:** add info panel with plugin stats and quick links ([ab4bda1](https://github.com/KevinEdry/runelite-quest-voiceover/commit/ab4bda145873856e9f4990b545cdf0330b66f2d7))
+
+
+### Bug Fixes
+
+* **matching:** lower Levenshtein threshold from 85% to 70% ([6aee813](https://github.com/KevinEdry/runelite-quest-voiceover/commit/6aee8133a54d08f92e172e80ad9fa081c7ca5a26))
+* **matching:** remove FTS query that caused incorrect matches ([b6274f2](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b6274f2afdc653d7a164d37f873ae78674ecf668))
+
 ## [1.3.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.2.1...v1.3.0) (2025-12-21)
 
 
