@@ -1,0 +1,87 @@
+name: Issue Report
+description: Report an issue with a quest or specific dialog
+title: "[Issue] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to report issues with voiced quests or specific dialog lines.
+
+  - type: input
+    id: quest-name
+    attributes:
+      label: Quest Name
+      description: Which quest does this issue occur in?
+      placeholder: "e.g., X Marks the Spot"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Issue Type
+      description: What kind of issue are you experiencing?
+      options:
+        - Wrong voice line plays
+        - Voice line missing
+        - Audio doesn't play
+        - Audio quality issue
+        - Pronunciation error
+        - Dialog mismatch
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: character-name
+    attributes:
+      label: Character Name
+      description: Which character is affected? (if applicable)
+      placeholder: "e.g., Veos"
+    validations:
+      required: false
+
+  - type: textarea
+    id: dialog-text
+    attributes:
+      label: Dialog Text
+      description: The exact or approximate dialog text where the issue occurs
+      placeholder: "Paste the dialog text here..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue in detail
+      placeholder: "When I talk to Veos during step 3, the wrong voice line plays..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Start quest X
+        2. Talk to character Y
+        3. Select dialog option Z
+    validations:
+      required: false
+
+  - type: textarea
+    id: runelite-logs
+    attributes:
+      label: RuneLite Logs
+      description: |
+        Paste relevant logs from RuneLite. You can find logs at:
+        - Windows: `%USERPROFILE%\.runelite\logs\`
+        - macOS: `~/.runelite/logs/`
+        - Linux: `~/.runelite/logs/`
+      placeholder: "Paste relevant log entries here..."
+      render: text
+    validations:
+      required: false

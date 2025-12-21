@@ -1,0 +1,37 @@
+name: Quest Request
+description: Request a quest to be added with voice acting
+title: "[Quest Request] "
+labels: ["quest-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for requesting a quest! Please provide the quest transcript link from the OSRS Wiki.
+
+        You can find quest transcripts at: https://oldschool.runescape.wiki/w/Category:Quest_transcript
+
+  - type: input
+    id: quest-name
+    attributes:
+      label: Quest Name
+      description: The exact name of the quest as it appears in-game
+      placeholder: "e.g., Cook's Assistant"
+    validations:
+      required: true
+
+  - type: input
+    id: transcript-link
+    attributes:
+      label: Quest Transcript Link
+      description: Link to the OSRS Wiki quest transcript page
+      placeholder: "https://oldschool.runescape.wiki/w/Transcript:Cook%27s_Assistant"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other information that might be helpful (voice suggestions, priority, etc.)
+    validations:
+      required: false
