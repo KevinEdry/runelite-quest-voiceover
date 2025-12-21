@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.2.1...v1.3.0) (2025-12-21)
+
+
+### Features
+
+* improve dialog text matching with widget text and Levenshtein fallback ([#43](https://github.com/KevinEdry/runelite-quest-voiceover/issues/43)) ([c3143e9](https://github.com/KevinEdry/runelite-quest-voiceover/commit/c3143e9fb4dab380ce02dccd13339458c0f6decb))
+
 ## [1.2.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.2.0...v1.2.1) (2025-12-20)
 
 
