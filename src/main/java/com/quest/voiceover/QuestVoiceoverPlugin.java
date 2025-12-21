@@ -17,9 +17,15 @@ import net.runelite.client.eventbus.EventBus;
 import net.runelite.client.eventbus.Subscribe;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
+import net.runelite.client.ui.ClientToolbar;
+import net.runelite.client.ui.NavigationButton;
+import net.runelite.client.util.ImageUtil;
 import okhttp3.OkHttpClient;
 
 import javax.inject.Inject;
+import javax.swing.*;
+import java.awt.image.BufferedImage;
+import java.util.Set;
 import java.util.concurrent.ScheduledExecutorService;
 
 @Slf4j
@@ -53,11 +59,27 @@ public class QuestVoiceoverPlugin extends Plugin {
     @Inject
     private DialogManager dialogManager;
 
+    @Inject
+    private ClientToolbar clientToolbar;
+
+    private QuestVoiceoverPanel panel;
+    private NavigationButton navigationButton;
     private String playerName;
 
     @Override
     protected void startUp() {
         eventBus.register(soundEngine);
+
+        panel = new QuestVoiceoverPanel();
+        final BufferedImage icon = ImageUtil.loadImageResource(getClass(), "icon.png");
+        navigationButton = NavigationButton.builder()
+            .tooltip("Quest Voiceover")
+            .icon(icon)
+            .priority(10)
+            .panel(panel)
+            .build();
+        clientToolbar.addNavigation(navigationButton);
+
         executor.submit(this::initializeDatabase);
         log.info("Quest Voiceover plugin started");
     }
@@ -66,6 +88,7 @@ public class QuestVoiceoverPlugin extends Plugin {
     protected void shutDown() throws Exception {
         eventBus.unregister(soundEngine);
         databaseManager.closeConnection();
+        clientToolbar.removeNavigation(navigationButton);
         log.info("Quest Voiceover plugin stopped");
     }
 
@@ -140,7 +163,9 @@ public class QuestVoiceoverPlugin extends Plugin {
     private void initializeDatabase() {
         DatabaseVersionManager.prepareDatabaseSource(okHttpClient);
         databaseManager.initializeConnection();
-        questListIndicatorHandler.setVoicedQuests(databaseManager.getVoicedQuests());
+        Set<String> voicedQuests = databaseManager.getVoicedQuests();
+        questListIndicatorHandler.setVoicedQuests(voicedQuests);
+        SwingUtilities.invokeLater(() -> panel.updateInfo(databaseManager, voicedQuests));
         log.info("Database initialized");
     }
 
