@@ -1,5 +1,6 @@
 package com.quest.voiceover.features;
 
+import com.quest.voiceover.QuestVoiceoverConfig;
 import com.quest.voiceover.modules.audio.SoundEngine;
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.dialog.DialogManager;
@@ -46,6 +47,9 @@ public class VoiceoverHandler {
 
     @Inject
     private DialogManager dialogManager;
+
+    @Inject
+    private QuestVoiceoverConfig config;
 
     @Getter
     private boolean activeVoiceover;
@@ -129,9 +133,11 @@ public class VoiceoverHandler {
             return;
         }
 
-        dialogManager.addMuteButton(dialogWidget);
+        if (config.showMuteButton()) {
+            dialogManager.addMuteButton(dialogWidget);
+        }
 
-        if (currentQuestName != null) {
+        if (config.showQuestName() && currentQuestName != null) {
             dialogManager.addQuestNameLabel(dialogWidget, currentQuestName);
         }
     }
