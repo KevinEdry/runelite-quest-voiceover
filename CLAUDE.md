@@ -30,7 +30,7 @@ pixi shell               # Activate virtual environment (optional)
 ### General Principles
 - Main plugin file should only contain event handlers - delegate all logic to specialized managers
 - Good separation of concerns - each class has a single responsibility
-- Readable code with descriptive method and variable names
+- Readable code with descriptive method and variable names - avoid abbreviations (e.g., use `source` not `s1`, `previousRow` not `prevRow`)
 - Descriptive conditions - extract complex conditionals into well-named methods
 - No "what" or "how" comments - only "why" comments when the reasoning isn't obvious
 - Use early returns to reduce nesting

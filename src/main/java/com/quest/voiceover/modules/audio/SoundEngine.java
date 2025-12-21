@@ -33,31 +33,47 @@ public class SoundEngine {
     public void play(String fileName) {
         stopPlayback();
 
+        if (fileName == null || fileName.isEmpty()) {
+            log.warn("Attempted to play null or empty fileName");
+            return;
+        }
+
         URL soundUrl = buildSoundUrl(fileName);
         MP3Player currentPlayer = getOrCreatePlayer();
 
-        currentPlayer.setVolume(config.mute() ? 0 : config.volume());
+        int volume = config.mute() ? 0 : config.volume();
+        currentPlayer.setVolume(volume);
         currentPlayer.add(soundUrl);
         currentPlayer.play();
 
         soundPlaying = true;
         playbackStartTick = client.getTickCount();
+        log.debug("Playing audio: {}", fileName);
     }
 
     public void stop() {
-        boolean pastGracePeriod = client.getTickCount() > playbackStartTick + PLAYBACK_GRACE_PERIOD_TICKS;
+        int currentTick = client.getTickCount();
+        boolean pastGracePeriod = currentTick > playbackStartTick + PLAYBACK_GRACE_PERIOD_TICKS;
         if (pastGracePeriod) {
             stopPlayback();
         }
+    }
+
+    public void stopImmediately() {
+        stopPlayback();
     }
 
     public void setVolume(int volume) {
         getOrCreatePlayer().setVolume(volume);
     }
 
+    public boolean isPlaying() {
+        return soundPlaying && player != null && !player.isStopped();
+    }
+
     @Subscribe
     public void onGameTick(GameTick event) {
-        if (player != null && player.isStopped() && soundPlaying) {
+        if (player != null && soundPlaying && player.isStopped()) {
             soundPlaying = false;
         }
     }
@@ -67,10 +83,11 @@ public class SoundEngine {
             return;
         }
 
+        boolean wasPlaying = player.isPlaying();
         soundPlaying = false;
         player.clearPlayList();
 
-        if (player.isPlaying()) {
+        if (wasPlaying) {
             player.stop();
         }
     }
