@@ -33,7 +33,7 @@ public class VoiceoverHandler {
 
     private static final String LEVENSHTEIN_QUERY =
         "SELECT quest, uri, text, levenshtein_similarity(text, ?) AS similarity " +
-        "FROM dialogs WHERE character = ? AND similarity >= ? " +
+        "FROM dialogs WHERE character = ? " +
         "ORDER BY similarity DESC LIMIT 1";
 
     @Inject
@@ -214,13 +214,17 @@ public class VoiceoverHandler {
         try (PreparedStatement statement = databaseManager.prepareStatement(LEVENSHTEIN_QUERY)) {
             statement.setString(1, escapedText);
             statement.setString(2, escapedCharacter);
-            statement.setDouble(3, LEVENSHTEIN_THRESHOLD);
 
             try (ResultSet resultSet = statement.executeQuery()) {
                 if (resultSet.next()) {
                     double similarity = resultSet.getDouble("similarity");
-                    log.debug("Match type: levenshtein ({}%)", String.format("%.1f", similarity * 100));
-                    return playVoiceoverFromResult(resultSet, characterName, dialogText);
+                    if (similarity >= LEVENSHTEIN_THRESHOLD) {
+                        log.debug("Match type: levenshtein ({}%)", String.format("%.1f", similarity * 100));
+                        return playVoiceoverFromResult(resultSet, characterName, dialogText);
+                    }
+                    String bestMatchText = resultSet.getString("text");
+                    log.info("Levenshtein match below threshold ({}%) for {} - '{}' best match: '{}'",
+                        String.format("%.1f", similarity * 100), characterName, dialogText, bestMatchText);
                 }
             }
         } catch (SQLException e) {
