@@ -33,3 +33,14 @@ tasks.withType(JavaCompile) {
 	options.encoding = 'UTF-8'
 	options.release.set(11)
 }
+
+task generateVersionProperties {
+	def propertiesFile = file("$buildDir/resources/main/com/quest/voiceover/version.properties")
+	outputs.file(propertiesFile)
+	doLast {
+		propertiesFile.parentFile.mkdirs()
+		propertiesFile.text = "version=${project.version}"
+	}
+}
+
+processResources.dependsOn generateVersionProperties
