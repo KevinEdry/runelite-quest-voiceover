@@ -1,5 +1,6 @@
 package com.quest.voiceover.modules.database;
 
+import com.quest.voiceover.modules.database.functions.LevenshteinFunction;
 import lombok.extern.slf4j.Slf4j;
 
 import javax.inject.Singleton;
@@ -55,6 +56,7 @@ public class DatabaseManager {
             Class.forName("org.sqlite.JDBC");
             String databasePath = DatabaseVersionManager.getDatabasePath();
             connection = DriverManager.getConnection(SQL_PATH_PREFIX + databasePath);
+            LevenshteinFunction.register(connection);
             log.info("Established connection to voiceover database");
         } catch (FileNotFoundException e) {
             log.error("Database file not found", e);
