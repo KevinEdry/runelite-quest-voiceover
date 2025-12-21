@@ -171,7 +171,7 @@ public class VoiceoverHandler {
             return;
         }
 
-        log.debug("No voiceover found for {} - '{}'", characterName, dialogText);
+        log.info("No voiceover found for {} - '{}'", characterName, dialogText);
         activeVoiceover = false;
     }
 
