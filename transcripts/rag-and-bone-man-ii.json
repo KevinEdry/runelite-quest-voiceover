@@ -1,0 +1,44 @@
+{
+  "branch": "quest/rag-and-bone-man-ii",
+  "quest_name": "Rag and Bone Man II",
+  "lines": [
+    { "character": "Player", "line": "So how is the sorting going?" },
+    { "character": "Odd Old Man", "line": "Err..." },
+    { "character": "Odd Old Man", "line": "It's going well, especially now I have all the bones I need." },
+    { "character": "Odd Old Man", "line": "There are still a few bits and pieces I wouldn't mind, but that's the way things go." },
+    { "character": "Player", "line": "Well if I see any bones I think you might like I'll bring them over." },
+    { "character": "Odd Old Man", "line": "Cheers, we, err, that is myself and the museum staff, really appreciate it." },
+    { "character": "Player", "line": "I have some bones for you." },
+    { "character": "Odd Old Man", "line": "Great! Let me take a look at them." },
+    { "character": "Odd Old Man", "line": "Wonderful! I'll put this with the rest." },
+    { "character": "Player", "line": "No problem. I'll be back if I find some more." },
+    { "character": "Odd Old Man", "line": "Great! Just clean them up in the pot-boiler and hand them over." },
+    { "character": "Odd Old Man", "line": "That...that covers all the bones I was searching for!" },
+    { "character": "Player", "line": "Well I'm glad to have furthered the cause of the museum." },
+    { "character": "Player", "line": "I just hope everyone will enjoy the finished displays." },
+    { "character": "Odd Old Man", "line": "Yes, I'm sure EVERYONE will get a chance to enjoy my work." },
+    { "character": "Odd Old Man", "line": "Hahahahahahahahahaha!" },
+    { "character": "Odd Old Man", "line": "Bwahahahahahahahahahahaha!" },
+    { "character": "Odd Old Man", "line": "MWUHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!" },
+    { "character": "Odd Old Man", "line": "Sorry." },
+    { "character": "Odd Old Man", "line": "Well anyway, I have a few items I've put together in my spare time if you want one." },
+    { "character": "Odd Old Man", "line": "I have a ram skull helm or a snazzy bonesack like mine." },
+    { "character": "Odd Old Man", "line": "Which would you like?" },
+    { "character": "Player", "line": "The helm." },
+    { "character": "Odd Old Man", "line": "Good choice!" },
+    { "character": "Odd Old Man", "line": "Come and see me if you lose that one, I have plenty more!" },
+    { "character": "Player", "line": "The bonesack." },
+    { "character": "Odd Old Man", "line": "Well chosen, I knew you had taste!" },
+    { "character": "Player", "line": "Can I have both?" },
+    { "character": "Odd Old Man", "line": "I... Well... I do have many of each. I suppose it wouldn't be a problem." },
+    { "character": "Odd Old Man", "line": "Well, as much as I'd like to toss them into the dirt and all, I think it's best if you came back later with an empty backpack." },
+    { "character": "Odd Old Man", "line": "I do think they go well together, actually." },
+    { "character": "Odd Old Man", "line": "Come and see me if you lose either one, I have plenty more!" }
+  ],
+  "characters": [
+    {
+      "name": "Odd Old Man",
+      "description": "Elderly male, British accent, nervous and evasive tone, constantly pausing with 'err' and 'umm'. Claims to be an archaeologist but seems to be hiding something, often consulting his mysterious bone sack for guidance."
+    }
+  ]
+}
