@@ -6,6 +6,7 @@ import com.quest.voiceover.features.VoiceoverHandler;
 import com.quest.voiceover.modules.audio.SoundEngine;
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.database.DatabaseVersionManager;
+import com.quest.voiceover.modules.dialog.DialogManager;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
@@ -48,6 +49,9 @@ public class QuestVoiceoverPlugin extends Plugin {
 
     @Inject
     private QuestListIndicatorHandler questListIndicatorHandler;
+
+    @Inject
+    private DialogManager dialogManager;
 
     private String playerName;
 
@@ -107,6 +111,30 @@ public class QuestVoiceoverPlugin extends Plugin {
     @Subscribe
     public void onGameTick(GameTick event) {
         questListIndicatorHandler.onGameTick();
+
+        boolean audioPlaying = soundEngine.isPlaying();
+        boolean playerMoving = isPlayerMoving();
+        boolean dialogOpen = dialogManager.isPlayerOrNpcDialogOpen();
+
+        if (audioPlaying) {
+            log.info("GameTick check - audioPlaying: {}, playerMoving: {}, dialogOpen: {}",
+                audioPlaying, playerMoving, dialogOpen);
+        }
+
+        if (audioPlaying && !dialogOpen) {
+            log.info("Stopping voiceover - dialog closed");
+            soundEngine.stopImmediately();
+        }
+    }
+
+    private boolean isPlayerMoving() {
+        var player = client.getLocalPlayer();
+        if (player == null) {
+            return false;
+        }
+        int poseAnimation = player.getPoseAnimation();
+        int idleAnimation = player.getIdlePoseAnimation();
+        return poseAnimation != idleAnimation || client.getLocalDestinationLocation() != null;
     }
 
     @Provides

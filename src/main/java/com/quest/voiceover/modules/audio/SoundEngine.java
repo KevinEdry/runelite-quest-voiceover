@@ -31,47 +31,88 @@ public class SoundEngine {
     private int playbackStartTick;
 
     public void play(String fileName) {
+        log.info("play() called with fileName: '{}'", fileName);
         stopPlayback();
 
-        URL soundUrl = buildSoundUrl(fileName);
-        MP3Player currentPlayer = getOrCreatePlayer();
+        if (fileName == null || fileName.isEmpty()) {
+            log.warn("Attempted to play null or empty fileName");
+            return;
+        }
 
-        currentPlayer.setVolume(config.mute() ? 0 : config.volume());
+        URL soundUrl = buildSoundUrl(fileName);
+        log.info("Built sound URL: {}", soundUrl);
+
+        MP3Player currentPlayer = getOrCreatePlayer();
+        log.info("Got MP3Player instance - isPlaying: {}, isStopped: {}, isPaused: {}",
+            currentPlayer.isPlaying(), currentPlayer.isStopped(), currentPlayer.isPaused());
+
+        int volume = config.mute() ? 0 : config.volume();
+        log.info("Setting volume to {} (muted: {})", volume, config.mute());
+
+        currentPlayer.setVolume(volume);
+        log.info("Adding URL to player playlist: {}", soundUrl);
         currentPlayer.add(soundUrl);
+        log.info("Calling player.play() - initiating download/stream from: {}", soundUrl);
         currentPlayer.play();
+
+        log.info("After play() - isPlaying: {}, isStopped: {}, isPaused: {}",
+            currentPlayer.isPlaying(), currentPlayer.isStopped(), currentPlayer.isPaused());
 
         soundPlaying = true;
         playbackStartTick = client.getTickCount();
+        log.info("Playback initiated at tick {} for file: {}", playbackStartTick, fileName);
     }
 
     public void stop() {
-        boolean pastGracePeriod = client.getTickCount() > playbackStartTick + PLAYBACK_GRACE_PERIOD_TICKS;
+        int currentTick = client.getTickCount();
+        boolean pastGracePeriod = currentTick > playbackStartTick + PLAYBACK_GRACE_PERIOD_TICKS;
+        log.info("stop() called - currentTick: {}, playbackStartTick: {}, pastGracePeriod: {}",
+            currentTick, playbackStartTick, pastGracePeriod);
         if (pastGracePeriod) {
             stopPlayback();
         }
+    }
+
+    public void stopImmediately() {
+        log.info("stopImmediately() called - forcing stop");
+        stopPlayback();
     }
 
     public void setVolume(int volume) {
         getOrCreatePlayer().setVolume(volume);
     }
 
+    public boolean isPlaying() {
+        return soundPlaying && player != null && !player.isStopped();
+    }
+
     @Subscribe
     public void onGameTick(GameTick event) {
-        if (player != null && player.isStopped() && soundPlaying) {
-            soundPlaying = false;
+        if (player != null && soundPlaying) {
+            log.info("onGameTick - player state: isPlaying={}, isStopped={}, isPaused={}, soundPlaying={}",
+                player.isPlaying(), player.isStopped(), player.isPaused(), soundPlaying);
+            if (player.isStopped()) {
+                log.info("onGameTick - player stopped, setting soundPlaying=false");
+                soundPlaying = false;
+            }
         }
     }
 
     private void stopPlayback() {
         if (player == null) {
+            log.info("stopPlayback() - player is null, nothing to stop");
             return;
         }
+
+        boolean wasPlaying = player.isPlaying();
+        log.info("stopPlayback() - wasPlaying: {}, soundPlaying: {}", wasPlaying, soundPlaying);
 
         soundPlaying = false;
         player.clearPlayList();
 
-        if (player.isPlaying()) {
+        if (wasPlaying) {
             player.stop();
+            log.info("stopPlayback() - player stopped");
         }
     }
 
@@ -86,7 +127,9 @@ public class SoundEngine {
         if (player == null) {
             synchronized (this) {
                 if (player == null) {
+                    log.info("Creating new MP3Player instance");
                     player = new MP3Player();
+                    log.info("MP3Player created successfully");
                 }
             }
         }

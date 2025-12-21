@@ -18,6 +18,10 @@ public class DialogManager {
     private static final int FONT_ID = 494;
     private static final int TEXT_COLOR_WHITE = 0xFFFFFF;
 
+    private static final int DIALOG_NPC_TEXT_CHILD = 6;
+    private static final int DIALOG_NPC_NAME_CHILD = 4;
+    private static final int DIALOG_PLAYER_TEXT_CHILD = 6;
+
     @Inject
     private Client client;
 
@@ -31,7 +35,13 @@ public class DialogManager {
     private SoundEngine soundEngine;
 
     public boolean isPlayerOrNpcDialogOpen() {
-        return getPlayerDialogWidget() != null || getNpcDialogWidget() != null;
+        Widget playerWidget = getPlayerDialogWidget();
+        if (playerWidget != null && !playerWidget.isHidden()) {
+            return true;
+        }
+
+        Widget npcWidget = getNpcDialogWidget();
+        return npcWidget != null && !npcWidget.isHidden();
     }
 
     public Widget getActiveDialogWidget() {
@@ -71,6 +81,34 @@ public class DialogManager {
         muteButton.setAction(1, TOGGLE_MUTE_ACTION);
         muteButton.setOnOpListener((JavaScriptCallback) e -> toggleMute(muteButton));
         muteButton.revalidate();
+    }
+
+    public String getDialogText() {
+        Widget npcTextWidget = client.getWidget(InterfaceID.DIALOG_NPC, DIALOG_NPC_TEXT_CHILD);
+        if (npcTextWidget != null) {
+            return npcTextWidget.getText();
+        }
+
+        Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER, DIALOG_PLAYER_TEXT_CHILD);
+        if (playerTextWidget != null) {
+            return playerTextWidget.getText();
+        }
+
+        return null;
+    }
+
+    public String getDialogCharacterName(String playerName) {
+        Widget npcNameWidget = client.getWidget(InterfaceID.DIALOG_NPC, DIALOG_NPC_NAME_CHILD);
+        if (npcNameWidget != null) {
+            return npcNameWidget.getText();
+        }
+
+        Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER, DIALOG_PLAYER_TEXT_CHILD);
+        if (playerTextWidget != null) {
+            return "Player";
+        }
+
+        return null;
     }
 
     private Widget getPlayerDialogWidget() {
