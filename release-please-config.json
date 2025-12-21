@@ -4,6 +4,13 @@
       "release-type": "simple",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
+      "include-paths": [
+        "src",
+        "build.gradle",
+        "settings.gradle",
+        "gradle",
+        "runelite-plugin.properties"
+      ],
       "extra-files": [
         {
           "type": "generic",
