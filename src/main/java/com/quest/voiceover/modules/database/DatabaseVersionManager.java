@@ -117,14 +117,16 @@ public class DatabaseVersionManager {
     }
 
     private static String readVersionFile() {
+        if (!Files.exists(VERSION_FILE)) {
+            return "";
+        }
+
         try {
-            if (Files.exists(VERSION_FILE)) {
-                return Files.readString(VERSION_FILE).trim();
-            }
+            return Files.readString(VERSION_FILE).trim();
         } catch (IOException e) {
             log.error("Failed to read version file", e);
+            return "";
         }
-        return "";
     }
 
     private static void writeVersionFile(String version) {
