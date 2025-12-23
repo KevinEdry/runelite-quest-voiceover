@@ -4,7 +4,9 @@ import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class HashUtil {
+public final class HashUtility {
+
+    private HashUtility() {}
 
     public static String toMD5(String input) {
         return hash(input, "MD5");
