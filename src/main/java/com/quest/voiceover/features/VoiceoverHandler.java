@@ -4,7 +4,7 @@ import com.quest.voiceover.QuestVoiceoverConfig;
 import com.quest.voiceover.modules.audio.SoundEngine;
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.dialog.DialogManager;
-import com.quest.voiceover.utility.MessageParser;
+import com.quest.voiceover.utility.MessageUtility;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.widgets.Widget;
@@ -55,15 +55,15 @@ public class VoiceoverHandler {
     private String pendingPlayerName;
 
     public void handleDialogMessage(String rawMessage, String playerName) {
-        MessageParser chatMessage = new MessageParser(rawMessage, playerName);
-        String chatText = chatMessage.getDialogText();
-        String chatCharacter = chatMessage.getCharacterName();
+        MessageUtility.ParsedMessage chatMessage = MessageUtility.parseRawMessage(rawMessage, playerName);
+        String chatText = chatMessage.dialogText();
+        String chatCharacter = chatMessage.characterName();
 
         String widgetText = dialogManager.getDialogText();
         String widgetCharacter = dialogManager.getDialogCharacterName(playerName);
 
         if (widgetText != null && widgetCharacter != null) {
-            String cleanedWidgetText = cleanWidgetText(widgetText, playerName);
+            String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, playerName);
 
             if (cleanedWidgetText.startsWith(chatText) || chatText.startsWith(cleanedWidgetText)) {
                 playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
@@ -90,7 +90,7 @@ public class VoiceoverHandler {
         String widgetCharacter = dialogManager.getDialogCharacterName(pendingPlayerName);
 
         if (widgetText != null && widgetCharacter != null) {
-            String cleanedWidgetText = cleanWidgetText(widgetText, pendingPlayerName);
+            String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, pendingPlayerName);
             playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
         } else {
             log.debug("Widget retry failed");
@@ -98,20 +98,6 @@ public class VoiceoverHandler {
 
         pendingCharacter = null;
         pendingPlayerName = null;
-    }
-
-    private String cleanWidgetText(String text, String playerName) {
-        String cleaned = text
-            .replaceAll("<br>", " ")
-            .replaceAll("<col=[^>]*>", "")
-            .replaceAll("</col>", "")
-            .trim();
-
-        if (playerName != null && !playerName.isEmpty()) {
-            cleaned = cleaned.replace(playerName, "");
-        }
-
-        return cleaned;
     }
 
     public void handleDialogOpened() {
