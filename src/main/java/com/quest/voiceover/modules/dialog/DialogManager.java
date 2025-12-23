@@ -97,7 +97,7 @@ public class DialogManager {
         return null;
     }
 
-    public String getDialogCharacterName(String playerName) {
+    public String getDialogCharacterName() {
         Widget npcNameWidget = client.getWidget(InterfaceID.DIALOG_NPC, DIALOG_NPC_NAME_CHILD);
         if (npcNameWidget != null) {
             return npcNameWidget.getText();

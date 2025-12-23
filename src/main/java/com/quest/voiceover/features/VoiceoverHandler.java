@@ -60,7 +60,7 @@ public class VoiceoverHandler {
         String chatCharacter = chatMessage.characterName();
 
         String widgetText = dialogManager.getDialogText();
-        String widgetCharacter = dialogManager.getDialogCharacterName(playerName);
+        String widgetCharacter = dialogManager.getDialogCharacterName();
 
         if (widgetText != null && widgetCharacter != null) {
             String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, playerName);
@@ -87,7 +87,7 @@ public class VoiceoverHandler {
         }
 
         String widgetText = dialogManager.getDialogText();
-        String widgetCharacter = dialogManager.getDialogCharacterName(pendingPlayerName);
+        String widgetCharacter = dialogManager.getDialogCharacterName();
 
         if (widgetText != null && widgetCharacter != null) {
             String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, pendingPlayerName);
