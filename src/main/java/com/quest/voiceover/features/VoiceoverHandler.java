@@ -54,6 +54,12 @@ public class VoiceoverHandler {
     private String pendingCharacter;
     private String pendingPlayerName;
 
+    /**
+     * Chat messages serve as a reliable trigger event, while the dialog widget provides
+     * the complete text. Widget-only detection is unreliable because there's no single
+     * "dialog changed" event and widget population timing is unpredictable. The chat
+     * message signals "dialog happened", then we fetch the full content from the widget.
+     */
     public void handleDialogMessage(String rawMessage, String playerName) {
         MessageUtility.ParsedMessage chatMessage = MessageUtility.parseRawMessage(rawMessage, playerName);
         String chatText = chatMessage.dialogText();
