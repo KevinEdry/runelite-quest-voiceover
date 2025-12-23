@@ -68,23 +68,28 @@ public class VoiceoverHandler {
         String widgetText = dialogManager.getDialogText();
         String widgetCharacter = dialogManager.getDialogCharacterName();
 
-        if (widgetText != null && widgetCharacter != null) {
-            String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, playerName);
-
-            if (cleanedWidgetText.startsWith(chatText) || chatText.startsWith(cleanedWidgetText)) {
-                playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
-            } else {
-                log.debug("Widget text mismatch, scheduling retry");
-                pendingCharacter = chatCharacter;
-                pendingPlayerName = playerName;
-                clientThread.invokeLater(this::retryWithWidget);
-            }
-        } else {
+        if (widgetText == null || widgetCharacter == null) {
             log.debug("Widget not available, scheduling retry");
-            pendingCharacter = chatCharacter;
-            pendingPlayerName = playerName;
-            clientThread.invokeLater(this::retryWithWidget);
+            scheduleRetry(chatCharacter, playerName);
+            return;
         }
+
+        String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, playerName);
+        boolean textMatches = cleanedWidgetText.startsWith(chatText) || chatText.startsWith(cleanedWidgetText);
+
+        if (!textMatches) {
+            log.debug("Widget text mismatch, scheduling retry");
+            scheduleRetry(chatCharacter, playerName);
+            return;
+        }
+
+        playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
+    }
+
+    private void scheduleRetry(String character, String playerName) {
+        pendingCharacter = character;
+        pendingPlayerName = playerName;
+        clientThread.invokeLater(this::retryWithWidget);
     }
 
     private void retryWithWidget() {
@@ -95,13 +100,18 @@ public class VoiceoverHandler {
         String widgetText = dialogManager.getDialogText();
         String widgetCharacter = dialogManager.getDialogCharacterName();
 
-        if (widgetText != null && widgetCharacter != null) {
-            String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, pendingPlayerName);
-            playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
-        } else {
+        if (widgetText == null || widgetCharacter == null) {
             log.debug("Widget retry failed");
+            clearPendingState();
+            return;
         }
 
+        String cleanedWidgetText = MessageUtility.cleanWidgetText(widgetText, pendingPlayerName);
+        playVoiceoverIfAvailable(widgetCharacter, cleanedWidgetText);
+        clearPendingState();
+    }
+
+    private void clearPendingState() {
         pendingCharacter = null;
         pendingPlayerName = null;
     }
@@ -178,16 +188,20 @@ public class VoiceoverHandler {
             statement.setString(2, escapedCharacter);
 
             try (ResultSet resultSet = statement.executeQuery()) {
-                if (resultSet.next()) {
-                    double similarity = resultSet.getDouble("similarity");
-                    if (similarity >= LEVENSHTEIN_THRESHOLD) {
-                        log.debug("Match type: levenshtein ({}%)", String.format("%.1f", similarity * 100));
-                        return playVoiceoverFromResult(resultSet, characterName, dialogText);
-                    }
+                if (!resultSet.next()) {
+                    return false;
+                }
+
+                double similarity = resultSet.getDouble("similarity");
+                if (similarity < LEVENSHTEIN_THRESHOLD) {
                     String bestMatchText = resultSet.getString("text");
                     log.info("Levenshtein match below threshold ({}%) for {} - '{}' best match: '{}'",
                         String.format("%.1f", similarity * 100), characterName, dialogText, bestMatchText);
+                    return false;
                 }
+
+                log.debug("Match type: levenshtein ({}%)", String.format("%.1f", similarity * 100));
+                return playVoiceoverFromResult(resultSet, characterName, dialogText);
             }
         } catch (SQLException e) {
             log.error("Database query failed (Levenshtein)", e);
@@ -201,13 +215,14 @@ public class VoiceoverHandler {
         String matchedText = resultSet.getString("text");
         log.info("Playing voiceover: {} - {} - '{}' matched: '{}'", characterName, currentQuestName, dialogText, matchedText);
 
-        if (audioUri != null || currentQuestName != null) {
-            activeVoiceover = true;
-            soundEngine.play(audioUri);
-            addDialogOverlay();
-            return true;
+        if (audioUri == null && currentQuestName == null) {
+            return false;
         }
-        return false;
+
+        activeVoiceover = true;
+        soundEngine.play(audioUri);
+        addDialogOverlay();
+        return true;
     }
 
     private String escapeQuotes(String input) {

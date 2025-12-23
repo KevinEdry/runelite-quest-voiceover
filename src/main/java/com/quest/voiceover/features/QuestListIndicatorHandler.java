@@ -51,12 +51,14 @@ public class QuestListIndicatorHandler {
 
         ticksSinceOpened++;
 
-        if (ticksSinceOpened >= TICKS_BEFORE_ADDING_INDICATORS) {
-            if (config.showVoicedIndicator()) {
-                updateVoiceIndicators();
-            } else {
-                removeVoiceIndicators();
-            }
+        if (ticksSinceOpened < TICKS_BEFORE_ADDING_INDICATORS) {
+            return;
+        }
+
+        if (config.showVoicedIndicator()) {
+            updateVoiceIndicators();
+        } else {
+            removeVoiceIndicators();
         }
     }
 
