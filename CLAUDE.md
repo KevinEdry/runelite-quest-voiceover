@@ -65,9 +65,9 @@ com/quest/voiceover/
 │   ├── VoiceoverHandler.java      # Plays voiceovers on dialog
 │   └── QuestListIndicatorHandler.java  # Quest list [Voiced] indicators
 │
-└── utility/                        # Shared utilities
-    ├── HashUtil.java              # MD5/SHA hashing
-    └── MessageParser.java         # Dialog message parsing
+└── utility/                        # Shared utilities (stateless pure functions)
+    ├── HashUtility.java           # MD5/SHA hashing
+    └── MessageUtility.java        # Dialog message parsing and cleaning
 ```
 
 ### Python CLI (`voiceover_cli/`)
