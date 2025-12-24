@@ -1,7 +1,7 @@
 package com.quest.voiceover.features;
 
 import com.quest.voiceover.QuestVoiceoverConfig;
-import com.quest.voiceover.modules.audio.SoundEngine;
+import com.quest.voiceover.modules.audio.AudioManager;
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.dialog.DialogManager;
 import com.quest.voiceover.utility.MessageUtility;
@@ -37,7 +37,7 @@ public class VoiceoverHandler {
     private DatabaseManager databaseManager;
 
     @Inject
-    private SoundEngine soundEngine;
+    private AudioManager audioManager;
 
     @Inject
     private DialogManager dialogManager;
@@ -140,7 +140,7 @@ public class VoiceoverHandler {
 
     public void stopVoiceover() {
         activeVoiceover = false;
-        soundEngine.stop();
+        audioManager.stop();
     }
 
     /**
@@ -220,7 +220,7 @@ public class VoiceoverHandler {
         }
 
         activeVoiceover = true;
-        soundEngine.play(audioUri);
+        audioManager.play(audioUri);
         addDialogOverlay();
         return true;
     }
