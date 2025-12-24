@@ -3,7 +3,8 @@ package com.quest.voiceover;
 import com.google.inject.Provides;
 import com.quest.voiceover.features.QuestListIndicatorHandler;
 import com.quest.voiceover.features.VoiceoverHandler;
-import com.quest.voiceover.modules.audio.SoundEngine;
+import com.quest.voiceover.modules.audio.AudioDuckingManager;
+import com.quest.voiceover.modules.audio.AudioManager;
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.database.DatabaseVersionManager;
 import com.quest.voiceover.modules.dialog.DialogManager;
@@ -48,7 +49,10 @@ public class QuestVoiceoverPlugin extends Plugin {
     private DatabaseManager databaseManager;
 
     @Inject
-    private SoundEngine soundEngine;
+    private AudioManager audioManager;
+
+    @Inject
+    private AudioDuckingManager audioDuckingManager;
 
     @Inject
     private VoiceoverHandler voiceoverHandler;
@@ -68,7 +72,7 @@ public class QuestVoiceoverPlugin extends Plugin {
 
     @Override
     protected void startUp() {
-        eventBus.register(soundEngine);
+        eventBus.register(audioManager);
 
         panel = new QuestVoiceoverPanel();
         final BufferedImage icon = ImageUtil.loadImageResource(getClass(), "icon.png");
@@ -86,7 +90,8 @@ public class QuestVoiceoverPlugin extends Plugin {
 
     @Override
     protected void shutDown() throws Exception {
-        eventBus.unregister(soundEngine);
+        eventBus.unregister(audioManager);
+        audioDuckingManager.restore();
         databaseManager.closeConnection();
         clientToolbar.removeNavigation(navigationButton);
         log.info("Quest Voiceover plugin stopped");
@@ -135,13 +140,13 @@ public class QuestVoiceoverPlugin extends Plugin {
     public void onGameTick(GameTick event) {
         questListIndicatorHandler.onGameTick();
 
-        boolean audioPlaying = soundEngine.isPlaying();
+        boolean audioPlaying = audioManager.isPlaying();
         boolean playerMoving = isPlayerMoving();
         boolean dialogOpen = dialogManager.isPlayerOrNpcDialogOpen();
 
         if (audioPlaying && !dialogOpen) {
             log.debug("Stopping voiceover - dialog closed");
-            soundEngine.stopImmediately();
+            audioManager.stopImmediately();
         }
     }
 
