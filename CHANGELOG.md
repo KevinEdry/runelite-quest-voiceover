@@ -1,5 +1,52 @@
 # Changelog
 
+## [1.6.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.5.0...v1.6.0) (2025-12-24)
+
+
+### Features
+
+* add audio ducking config options ([f8f4405](https://github.com/KevinEdry/runelite-quest-voiceover/commit/f8f440588146d037fb3d7080cda03e9b86f95dae))
+* add AudioChannelsManager for game volume control ([d553f2d](https://github.com/KevinEdry/runelite-quest-voiceover/commit/d553f2d24806d6983f40a34f0b0ee2374b2805bd))
+* add AudioDuckingManager for game audio ducking ([0230bf0](https://github.com/KevinEdry/runelite-quest-voiceover/commit/0230bf00a0574721e7c09917d8110cd09815bc2b))
+* add publish-plugin Claude command ([a5f72c9](https://github.com/KevinEdry/runelite-quest-voiceover/commit/a5f72c9d23c619bc401b720ef18ef2a873545c89))
+* add quest list voice indicators and refactor codebase ([#13](https://github.com/KevinEdry/runelite-quest-voiceover/issues/13)) ([6e9f0e3](https://github.com/KevinEdry/runelite-quest-voiceover/commit/6e9f0e32a294f91f65071e70887adfd138294cbd))
+* add quest transcript JSON files ([643bffd](https://github.com/KevinEdry/runelite-quest-voiceover/commit/643bffd29337645a9bcfc6c1dda8b626ead48e07))
+* add quest transcripts and update documentation ([f26e00d](https://github.com/KevinEdry/runelite-quest-voiceover/commit/f26e00d172f70ef766500b57d6f5535a404d071c))
+* add quest transcripts for 13 quests ([f0eec83](https://github.com/KevinEdry/runelite-quest-voiceover/commit/f0eec83733d578c2d42000956c7f052886d36b68))
+* add Skippy and the Mogres transcript ([bd0fbee](https://github.com/KevinEdry/runelite-quest-voiceover/commit/bd0fbee8fa67d553c03441f98c2fe4eb90521a40))
+* add Tutorial Island transcript and update command docs ([42a62ee](https://github.com/KevinEdry/runelite-quest-voiceover/commit/42a62ee246b3e37acbdd1bb2aa655a9620729153))
+* add X Marks the Spot quest transcript ([eee1340](https://github.com/KevinEdry/runelite-quest-voiceover/commit/eee13405493aef263bd368b579c0a686d755e1d5))
+* **config:** reorganize settings into Quest Dialog and Quest List sections ([02f003e](https://github.com/KevinEdry/runelite-quest-voiceover/commit/02f003eb156b1866eba4113c2aa8d74c51bc86ef))
+* **database:** add getDatabaseVersion method to DatabaseVersionManager ([99fbf17](https://github.com/KevinEdry/runelite-quest-voiceover/commit/99fbf1731efc89c07ebc70ba3be54c80d0909735))
+* **database:** add isConnected method to DatabaseManager ([eec834b](https://github.com/KevinEdry/runelite-quest-voiceover/commit/eec834be5519480d70b88d75b7c0081fb8f7e58c))
+* **dialog:** respect config toggles for mute button and quest name ([8f419c3](https://github.com/KevinEdry/runelite-quest-voiceover/commit/8f419c3e5e851a2155c8fdfb4d3a2b16940fe517))
+* improve dialog text matching with widget text and Levenshtein fallback ([#43](https://github.com/KevinEdry/runelite-quest-voiceover/issues/43)) ([86d515d](https://github.com/KevinEdry/runelite-quest-voiceover/commit/86d515df22c9ac23af489a383215213be6967024))
+* **logging:** change 'no voiceover found' log from debug to info ([bff49a3](https://github.com/KevinEdry/runelite-quest-voiceover/commit/bff49a33a2d460fe48e31698613ddb3a5f6d880a))
+* **logging:** include dialog text and matched text in voiceover logs ([b9b65d9](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b9b65d9f35ac2ff46e1ba7b3212a3567fa5d1fcb))
+* **logging:** log Levenshtein matches below threshold with best match ([d23217f](https://github.com/KevinEdry/runelite-quest-voiceover/commit/d23217f39190faeb9d03c3863425251ae2b0c69e))
+* **ui:** add info panel with plugin stats and quick links ([20b3080](https://github.com/KevinEdry/runelite-quest-voiceover/commit/20b3080d259fa902cf761b7f2ddb285ba08f48f4))
+
+
+### Bug Fixes
+
+* add missing lwjgl-bom module checksum to verification metadata ([#40](https://github.com/KevinEdry/runelite-quest-voiceover/issues/40)) ([ce89b59](https://github.com/KevinEdry/runelite-quest-voiceover/commit/ce89b594df43c0ed8b721c98b83ba6597f64fcac))
+* Clear audio playlist regardless of playback state ([#12](https://github.com/KevinEdry/runelite-quest-voiceover/issues/12)) ([22a91a4](https://github.com/KevinEdry/runelite-quest-voiceover/commit/22a91a481f6adc309757249d5b9871feed4539a0))
+* enable multi-threaded SQLite access ([7f63087](https://github.com/KevinEdry/runelite-quest-voiceover/commit/7f63087aaf4d4f19d023f678606d96ac645a06b6))
+* **matching:** lower Levenshtein threshold from 85% to 70% ([509d9b7](https://github.com/KevinEdry/runelite-quest-voiceover/commit/509d9b75833fd42b97e672d6f80109d6fb6c26ae))
+* **matching:** remove FTS query that caused incorrect matches ([9d57417](https://github.com/KevinEdry/runelite-quest-voiceover/commit/9d57417804b7c29842a4025d588f6db571cb171e))
+* stop audio when no voiceover found for dialog ([e25b0a9](https://github.com/KevinEdry/runelite-quest-voiceover/commit/e25b0a90b5b64222f98b404bfebd732d40ecbaa3))
+
+
+### Code Refactoring
+
+* apply early return pattern to reduce nesting ([9c89050](https://github.com/KevinEdry/runelite-quest-voiceover/commit/9c89050eb62bddcf42dc02b4009a9ac4327fe5e8))
+* remove unused playerName param from getDialogCharacterName ([3507679](https://github.com/KevinEdry/runelite-quest-voiceover/commit/35076790fe4823b315a617c44c33de91ae748f49))
+* rename HashUtil to HashUtility ([599af5d](https://github.com/KevinEdry/runelite-quest-voiceover/commit/599af5d8a46141ab4a5fc9aef60f5df1f3856e2b))
+* rename MessageParser to MessageUtility with stateless design ([541a5e2](https://github.com/KevinEdry/runelite-quest-voiceover/commit/541a5e2b33007372073be999d4c96670dc23a449))
+* rename SoundEngine to AudioManager ([b0db370](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b0db370b9a9906af62e0d61f4e28e91b71534a50))
+* update plugin to use AudioManager and AudioDuckingManager ([201cea3](https://github.com/KevinEdry/runelite-quest-voiceover/commit/201cea37de8447600c5feb263090e12e2c8a47c2))
+* update VoiceoverHandler to use AudioManager ([de000b3](https://github.com/KevinEdry/runelite-quest-voiceover/commit/de000b317b8bc2772316d143f1c702a8161ae184))
+
 ## [1.5.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.4.0...v1.5.0) (2025-12-24)
 
 
