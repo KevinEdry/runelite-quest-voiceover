@@ -2,6 +2,8 @@ package com.quest.voiceover.modules.dialog;
 
 import com.quest.voiceover.QuestVoiceoverConfig;
 import com.quest.voiceover.modules.audio.AudioManager;
+import com.quest.voiceover.utility.ColorUtility;
+import com.quest.voiceover.Constants;
 import net.runelite.api.Client;
 import net.runelite.api.SpriteID;
 import net.runelite.api.widgets.*;
@@ -14,9 +16,7 @@ import javax.inject.Singleton;
 public class DialogManager {
 
     private static final String TOGGLE_MUTE_ACTION = "Toggle mute ";
-    private static final String PLUGIN_CONFIG_GROUP = "quest.voiceover";
     private static final int FONT_ID = 494;
-    private static final int TEXT_COLOR_WHITE = 0xFFFFFF;
 
     private static final int DIALOG_NPC_TEXT_CHILD = 6;
     private static final int DIALOG_NPC_NAME_CHILD = 4;
@@ -58,7 +58,7 @@ public class DialogManager {
 
         label.setText("Quest: " + questName);
         label.setFontId(FONT_ID);
-        label.setTextColor(TEXT_COLOR_WHITE);
+        label.setTextColor(ColorUtility.WHITE);
         label.setTextShadowed(true);
         label.setXPositionMode(WidgetPositionMode.ABSOLUTE_LEFT);
         label.setOriginalX(10);
@@ -97,6 +97,26 @@ public class DialogManager {
         return null;
     }
 
+    public void setDialogText(String text) {
+        try {
+            Widget npcTextWidget = client.getWidget(InterfaceID.DIALOG_NPC, DIALOG_NPC_TEXT_CHILD);
+            Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER, DIALOG_PLAYER_TEXT_CHILD);
+
+            boolean npcVisible = npcTextWidget != null && !npcTextWidget.isHidden();
+            boolean playerVisible = playerTextWidget != null && !playerTextWidget.isHidden();
+
+            if (npcVisible) {
+                npcTextWidget.setText(text);
+                return;
+            }
+
+            if (playerVisible) {
+                playerTextWidget.setText(text);
+            }
+        } catch (NullPointerException ignored) {
+        }
+    }
+
     public String getDialogCharacterName() {
         Widget npcNameWidget = client.getWidget(InterfaceID.DIALOG_NPC, DIALOG_NPC_NAME_CHILD);
         if (npcNameWidget != null) {
@@ -120,7 +140,7 @@ public class DialogManager {
     }
 
     private void toggleMute(Widget muteButton) {
-        configManager.setConfiguration(PLUGIN_CONFIG_GROUP, "mute", !config.mute());
+        configManager.setConfiguration(Constants.PLUGIN_CONFIG_GROUP, "mute", !config.mute());
         audioManager.setVolume(config.mute() ? 0 : config.volume());
         muteButton.setSpriteId(getMuteSpriteId());
         muteButton.revalidate();
