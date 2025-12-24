@@ -54,6 +54,31 @@ public interface QuestVoiceoverConfig extends Config
 	}
 
 	@ConfigItem(
+			keyName = "audioDucking",
+			name = "Audio Ducking",
+			description = "Lowers game audio while voiceover plays.",
+			section = generalSettings,
+			position = 13
+	)
+	default boolean audioDucking()
+	{
+		return true;
+	}
+
+	@Range(min = 0, max = 100)
+	@ConfigItem(
+			keyName = "audioDuckingAmount",
+			name = "Ducking Amount",
+			description = "How much to lower game audio (0 = mute, 100 = no change).",
+			section = generalSettings,
+			position = 14
+	)
+	default int audioDuckingAmount()
+	{
+		return 25;
+	}
+
+	@ConfigItem(
 			keyName = "showMuteButton",
 			name = "Toggle Mute Button",
 			description = "Shows the mute button on the quest dialog.",
@@ -70,7 +95,7 @@ public interface QuestVoiceoverConfig extends Config
 			name = "Toggle Quest Name",
 			description = "Shows the quest name on the quest dialog.",
 			section = questDialogSettings,
-			position = 22
+			position = 23
 	)
 	default boolean showQuestName()
 	{
