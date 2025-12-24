@@ -1,8 +1,8 @@
 package com.quest.voiceover.utility;
 
-public final class MessageUtility {
+import com.quest.voiceover.Constants;
 
-    private static final String PLAYER_NAME_PLACEHOLDER = "Player";
+public final class MessageUtility {
 
     private MessageUtility() {}
 
@@ -41,11 +41,7 @@ public final class MessageUtility {
     }
 
     public static String cleanWidgetText(String text, String playerName) {
-        String cleaned = text
-            .replaceAll("<br>", " ")
-            .replaceAll("<col=[^>]*>", "")
-            .replaceAll("</col>", "")
-            .trim();
+        String cleaned = TextUtility.cleanForMatching(text);
 
         if (playerName != null && !playerName.isEmpty()) {
             cleaned = cleaned.replace(playerName, "");
@@ -55,6 +51,6 @@ public final class MessageUtility {
     }
 
     private static String normalizeCharacterName(String name, String playerName) {
-        return name.equals(playerName) ? PLAYER_NAME_PLACEHOLDER : name;
+        return name.equals(playerName) ? Constants.PLAYER_NAME_PLACEHOLDER : name;
     }
 }
