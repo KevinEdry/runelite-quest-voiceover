@@ -163,6 +163,7 @@ public class VoiceoverHandler {
 
         log.info("No voiceover found for {} - '{}'", characterName, dialogText);
         activeVoiceover = false;
+        audioManager.stopImmediately();
     }
 
     private boolean tryExactQuery(String escapedCharacter, String escapedText, String characterName, String dialogText) {
