@@ -1,7 +1,7 @@
 package com.quest.voiceover.modules.dialog;
 
 import com.quest.voiceover.QuestVoiceoverConfig;
-import com.quest.voiceover.modules.audio.SoundEngine;
+import com.quest.voiceover.modules.audio.AudioManager;
 import net.runelite.api.Client;
 import net.runelite.api.SpriteID;
 import net.runelite.api.widgets.*;
@@ -32,7 +32,7 @@ public class DialogManager {
     private ConfigManager configManager;
 
     @Inject
-    private SoundEngine soundEngine;
+    private AudioManager audioManager;
 
     public boolean isPlayerOrNpcDialogOpen() {
         Widget playerWidget = getPlayerDialogWidget();
@@ -121,7 +121,7 @@ public class DialogManager {
 
     private void toggleMute(Widget muteButton) {
         configManager.setConfiguration(PLUGIN_CONFIG_GROUP, "mute", !config.mute());
-        soundEngine.setVolume(config.mute() ? 0 : config.volume());
+        audioManager.setVolume(config.mute() ? 0 : config.volume());
         muteButton.setSpriteId(getMuteSpriteId());
         muteButton.revalidate();
     }
