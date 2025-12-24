@@ -14,7 +14,7 @@ import java.net.URL;
 
 @Slf4j
 @Singleton
-public class SoundEngine {
+public class AudioManager {
 
     private static final HttpUrl RAW_GITHUB_SOUND_BRANCH_URL =
         HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/sounds");
@@ -25,6 +25,9 @@ public class SoundEngine {
 
     @Inject
     private Client client;
+
+    @Inject
+    private AudioDuckingManager audioDuckingManager;
 
     private volatile MP3Player player;
     private volatile boolean soundPlaying;
@@ -46,6 +49,7 @@ public class SoundEngine {
         currentPlayer.add(soundUrl);
         currentPlayer.play();
 
+        audioDuckingManager.duck();
         soundPlaying = true;
         playbackStartTick = client.getTickCount();
         log.debug("Playing audio: {}", fileName);
@@ -75,6 +79,7 @@ public class SoundEngine {
     public void onGameTick(GameTick event) {
         if (player != null && soundPlaying && player.isStopped()) {
             soundPlaying = false;
+            audioDuckingManager.restore();
         }
     }
 
@@ -89,6 +94,7 @@ public class SoundEngine {
 
         if (wasPlaying) {
             player.stop();
+            audioDuckingManager.restore();
         }
     }
 
