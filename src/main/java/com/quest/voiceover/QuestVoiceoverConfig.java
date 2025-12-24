@@ -103,6 +103,31 @@ public interface QuestVoiceoverConfig extends Config
 	}
 
 	@ConfigItem(
+			keyName = "speechHighlighting",
+			name = "Speech Highlighting",
+			description = "Highlights dialog text word-by-word as it is spoken.",
+			section = questDialogSettings,
+			position = 24
+	)
+	default boolean speechHighlighting()
+	{
+		return false;
+	}
+
+	@Alpha
+	@ConfigItem(
+			keyName = "speechHighlightColor",
+			name = "Speech Highlight Color",
+			description = "Color used to highlight words that have been spoken.",
+			section = questDialogSettings,
+			position = 25
+	)
+	default java.awt.Color speechHighlightColor()
+	{
+		return new java.awt.Color(0, 255, 0);
+	}
+
+	@ConfigItem(
 			keyName = "showVoicedIndicator",
 			name = "Toggle Voiced Quest Indicator",
 			description = "Shows [Voiced] prefix next to quests with voice acting in the quest list.",
