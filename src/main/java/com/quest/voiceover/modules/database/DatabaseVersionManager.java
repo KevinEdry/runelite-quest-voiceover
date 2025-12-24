@@ -1,5 +1,6 @@
 package com.quest.voiceover.modules.database;
 
+import com.quest.voiceover.Constants;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.client.RuneLite;
 import okhttp3.HttpUrl;
@@ -18,9 +19,6 @@ public class DatabaseVersionManager {
 
     private static final String DATABASE_FILENAME = "quest_voiceover.db";
     private static final String VERSION_FILENAME = ".version";
-
-    private static final HttpUrl RAW_GITHUB_DATABASE_URL =
-        HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/database");
 
     private static final Path DOWNLOAD_DIR =
         Path.of(RuneLite.RUNELITE_DIR.getPath(), "quest-voiceover");
@@ -111,7 +109,7 @@ public class DatabaseVersionManager {
     }
 
     private static HttpUrl buildDownloadUrl() {
-        return RAW_GITHUB_DATABASE_URL.newBuilder()
+        return Constants.RAW_GITHUB_DATABASE_BRANCH_URL.newBuilder()
             .addPathSegment(DATABASE_FILENAME)
             .build();
     }
