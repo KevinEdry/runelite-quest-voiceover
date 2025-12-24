@@ -1,12 +1,12 @@
 package com.quest.voiceover.modules.audio;
 
 import com.quest.voiceover.QuestVoiceoverConfig;
+import com.quest.voiceover.Constants;
 import jaco.mp3.player.MP3Player;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
 import net.runelite.api.events.GameTick;
 import net.runelite.client.eventbus.Subscribe;
-import okhttp3.HttpUrl;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
@@ -16,8 +16,6 @@ import java.net.URL;
 @Singleton
 public class AudioManager {
 
-    private static final HttpUrl RAW_GITHUB_SOUND_BRANCH_URL =
-        HttpUrl.parse("https://github.com/KevinEdry/runelite-quest-voiceover/raw/sounds");
     private static final int PLAYBACK_GRACE_PERIOD_TICKS = 1;
 
     @Inject
@@ -99,7 +97,7 @@ public class AudioManager {
     }
 
     private URL buildSoundUrl(String fileName) {
-        return RAW_GITHUB_SOUND_BRANCH_URL.newBuilder()
+        return Constants.RAW_GITHUB_SOUND_BRANCH_URL.newBuilder()
             .addPathSegment(fileName)
             .build()
             .url();
