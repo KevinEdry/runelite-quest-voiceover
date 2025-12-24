@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.5.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.4.0...v1.5.0) (2025-12-24)
+
+
+### Features
+
+* add audio ducking config options ([dc812d2](https://github.com/KevinEdry/runelite-quest-voiceover/commit/dc812d286922111f7e1154bff89d6ab93dca3977))
+* add AudioChannelsManager for game volume control ([6ea1540](https://github.com/KevinEdry/runelite-quest-voiceover/commit/6ea1540c3041d588e41b76d8a6536a1febb1d1d4))
+* add AudioDuckingManager for game audio ducking ([a4a9273](https://github.com/KevinEdry/runelite-quest-voiceover/commit/a4a927367596985b2d914c05e8f9e17b02ba98d8))
+* add quest transcripts for 13 quests ([0fb3142](https://github.com/KevinEdry/runelite-quest-voiceover/commit/0fb3142c9aa2ef30dc98ffaa6895b76e64a45731))
+* add Skippy and the Mogres transcript ([b105411](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b1054110d00610664e524bfc57e82ab6b55b491f))
+
+
+### Bug Fixes
+
+* stop audio when no voiceover found for dialog ([f204975](https://github.com/KevinEdry/runelite-quest-voiceover/commit/f204975486ca4d02ae8bbae48449e70edc22fea7))
+
+
+### Code Refactoring
+
+* apply early return pattern to reduce nesting ([1ac36dc](https://github.com/KevinEdry/runelite-quest-voiceover/commit/1ac36dc5eda04084e9ce4909d63510cd7c6671dd))
+* remove unused playerName param from getDialogCharacterName ([06e9b30](https://github.com/KevinEdry/runelite-quest-voiceover/commit/06e9b30852245e31ccc16cfd34cc9b325d9a21d1))
+* rename HashUtil to HashUtility ([3ae1e81](https://github.com/KevinEdry/runelite-quest-voiceover/commit/3ae1e81eec50fbca47e2fa3fde166cccbc1c26b1))
+* rename MessageParser to MessageUtility with stateless design ([ee9d0df](https://github.com/KevinEdry/runelite-quest-voiceover/commit/ee9d0df973ecf7c713e495cde3cd53cefd5def6c))
+* rename SoundEngine to AudioManager ([68393e6](https://github.com/KevinEdry/runelite-quest-voiceover/commit/68393e604463cef3c5426a4719609a0b658b541d))
+* update plugin to use AudioManager and AudioDuckingManager ([b5b655b](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b5b655b89d419056f58e9bb3febacd5ece363c45))
+* update VoiceoverHandler to use AudioManager ([f7714a9](https://github.com/KevinEdry/runelite-quest-voiceover/commit/f7714a9ca0cbf962ebc01eac1ea7da90d024c042))
+
 ## [1.4.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.3.0...v1.4.0) (2025-12-21)
 
 
