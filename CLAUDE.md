@@ -54,7 +54,9 @@ com/quest/voiceover/
 │
 ├── modules/                        # Shared infrastructure
 │   ├── audio/
-│   │   └── SoundEngine.java       # MP3 playback
+│   │   ├── AudioManager.java         # MP3 playback
+│   │   ├── AudioDuckingManager.java  # Game audio ducking during voiceover
+│   │   └── AudioChannelsManager.java # Game volume control (percentage/absolute conversion)
 │   ├── database/
 │   │   ├── DatabaseManager.java   # SQLite connection & queries
 │   │   └── DatabaseVersionManager.java  # Database download/versioning
