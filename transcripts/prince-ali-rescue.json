@@ -1,0 +1,920 @@
+{
+  "branch": "quest/prince-ali-rescue",
+  "quest_name": "Prince Ali Rescue",
+  "lines": [
+    {
+      "character": "Chancellor Hassan",
+      "line": "Greetings! I am Hassan, Chancellor to the Emir of Al Kharid."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can help you with?"
+    },
+    {
+      "character": "Chancellor Hassan",
+      "line": "Well... we do currently have a very urgent issue we need to resolve, and I suppose you look like someone who knows how to get a job done. Are you definitely interested in helping?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Chancellor Hassan",
+      "line": "You'll find our Spymaster, Osman, just outside the palace. Go to him and tell him I sent you. He will fill you in on the details of our problem."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll get to it."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I've changed my mind."
+    },
+    {
+      "character": "Chancellor Hassan",
+      "line": "I see. Well you know where to find me if you do wish to help us."
+    },
+    {
+      "character": "Chancellor Hassan",
+      "line": "Hello again. Have you spoken to Osman yet? He should be just outside the palace."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll go and see him."
+    },
+    {
+      "character": "Chancellor Hassan",
+      "line": "Hello again. I hear you have agreed to help rescue Prince Ali. On behalf of the Emir, I will have a reward ready for you upon your success."
+    },
+    {
+      "character": "Player",
+      "line": "Osman? I was told by the Chancellor to come and speak to you. Apparently you have an issue that I can help with."
+    },
+    {
+      "character": "Osman",
+      "line": "That would be an apt description. However, I find you to be an interesting choice by the Chancellor. Why has he chosen to trust you with this task over one of our own?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... I just asked if he needed help and he said yes."
+    },
+    {
+      "character": "Osman",
+      "line": "That man is far too trusting at a time when we must take extra care. However, if he has made his decision, I will not question it. Still, you should know that I will be keeping a close eye on you."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. So what is this issue?"
+    },
+    {
+      "character": "Osman",
+      "line": "Prince Ali, heir to the Emir of Al Kharid, has been taken. My spies have already discovered where he is being held, but we need someone to make the rescue."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm sure I can manage that. How do I go about rescuing him?"
+    },
+    {
+      "character": "Osman",
+      "line": "The Prince has been taken by a group of bandits led by the self-proclaimed 'Lady' Keli. They are holding him in the abandoned jail just east of Draynor Village."
+    },
+    {
+      "character": "Osman",
+      "line": "According to our information, Keli is the only one able to freely move around the area. For you to get the Prince out, you will need to disguise him as her. She will of course need dealing with first."
+    },
+    {
+      "character": "Player",
+      "line": "Why can't I just go in and kill her and her bandits?"
+    },
+    {
+      "character": "Osman",
+      "line": "And endanger the life of the Prince in the process? No. There will be no unnecessary risks. We need to do this with as little bloodshed as possible."
+    },
+    {
+      "character": "Player",
+      "line": "You make a fair point. Do you know what Keli looks like?"
+    },
+    {
+      "character": "Osman",
+      "line": "She has blonde hair and wears pink clothes. My daughter, Leela, one of my spies, is currently in Draynor Village keeping an eye on the jail. I'm sure she can help you with the specifics."
+    },
+    {
+      "character": "Osman",
+      "line": "Before you go, there is one more thing. You'll need a key to get the Prince out of his cell. Keli has the only one. You could steal it, but that seems like a risk we should avoid."
+    },
+    {
+      "character": "Player",
+      "line": "But if she has the only copy, and I can't just steal it, how do I get the key?"
+    },
+    {
+      "character": "Osman",
+      "line": "If you bring me an imprint of the key along with a bronze bar, I can have a copy made for you. You should be able to make an imprint of the key using some soft clay."
+    },
+    {
+      "character": "Osman",
+      "line": "Of course, you'll need to find a way to get Keli to show you the key without causing suspicion. I'm sure Leela can help you with that."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like I should head on over to Draynor Village and see Leela then."
+    },
+    {
+      "character": "Osman",
+      "line": "Indeed. Do you have any further questions before you go?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know why they've taken the Prince?"
+    },
+    {
+      "character": "Osman",
+      "line": "No, but we have our theories."
+    },
+    {
+      "character": "Player",
+      "line": "Care to share them?"
+    },
+    {
+      "character": "Osman",
+      "line": "No. You have not yet proven yourself enough to be trusted with that information."
+    },
+    {
+      "character": "Osman",
+      "line": "Now, do you have any further questions?"
+    },
+    {
+      "character": "Player",
+      "line": "Where abouts in Draynor is Leela?"
+    },
+    {
+      "character": "Osman",
+      "line": "She will be somewhere near the abandoned jail that the bandits are using. It's just east of the village."
+    },
+    {
+      "character": "Osman",
+      "line": "Do you have any further questions?"
+    },
+    {
+      "character": "Player",
+      "line": "No. I think I know everything I need to."
+    },
+    {
+      "character": "Osman",
+      "line": "Then you should get going."
+    },
+    {
+      "character": "Osman",
+      "line": "You again. How are things going in Draynor?"
+    },
+    {
+      "character": "Player",
+      "line": "I have an imprint of the key."
+    },
+    {
+      "character": "Osman",
+      "line": "Good. Bring me a bronze bar, and I'll get a copy made."
+    },
+    {
+      "character": "Osman",
+      "line": "I'll use this to have a copy of the key made. I'll send it to Leela once it's ready."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on gathering all the items I need."
+    },
+    {
+      "character": "Osman",
+      "line": "Well if you need help, just talk to Leela."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get going."
+    },
+    {
+      "character": "Player",
+      "line": "You must be Leela. Your father sent me to help rescue Prince Ali."
+    },
+    {
+      "character": "Leela",
+      "line": "Yes, he sent word ahead that you'd be coming. Are you aware of the plan?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to obtain a copy of the key to the Prince's cell, create a disguise for him that makes him look like Keli and then break him out of the jail."
+    },
+    {
+      "character": "Leela",
+      "line": "I'd say that's a good summary. Now, do you have any questions for me about any part of the plan?"
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas for the key?"
+    },
+    {
+      "character": "Leela",
+      "line": "Keli keeps it on her at all times, on a chain around her neck. If you can convince her to show it to you, you might be able to use some soft clay to take an imprint."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't sound easy."
+    },
+    {
+      "character": "Leela",
+      "line": "My suggestion is that you pretend to be interested in joining her bandits. From there, you should be able to steer the conversation towards the key."
+    },
+    {
+      "character": "Leela",
+      "line": "Once you have the imprint, take it to my father along with a bronze bar. He'll then be able to make us a copy."
+    },
+    {
+      "character": "Player",
+      "line": "I already have the imprint!"
+    },
+    {
+      "character": "Leela",
+      "line": "Then you should take it to my father along with a bronze bar. He'll then be able to make us a copy."
+    },
+    {
+      "character": "Leela",
+      "line": "Do you have any other questions about the plan?"
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas for the disguise?"
+    },
+    {
+      "character": "Leela",
+      "line": "To make the Prince look like Keli, you'll need a blonde wig and a pink skirt. You'll also want some skin paste to hide the black eye he got when they captured him."
+    },
+    {
+      "character": "Leela",
+      "line": "There's an old sailor in the village who makes rope. Perhaps he could make you a wig. Don't forget to dye it once you have one."
+    },
+    {
+      "character": "Leela",
+      "line": "For the skin paste, there's a local witch who's apparently an expert on all sorts of potions. I'm sure she could make you some. I hear she also sells dye, if you need some for the wig."
+    },
+    {
+      "character": "Leela",
+      "line": "Finally there's the skirt. I imagine you could just buy one from any clothes shop. Thessalia's Fine Clothes in Varrock is probably the closest."
+    },
+    {
+      "character": "Player",
+      "line": "Don't think so. I'll go and prepare."
+    },
+    {
+      "character": "Leela",
+      "line": "You're back. Do you have everything needed yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll go and prepare."
+    },
+    {
+      "character": "Ned",
+      "line": "Why, hello there,. Me friends call me Ned. I was a man of the sea, but it's past me now. Could I be making or selling you some rope?"
+    },
+    {
+      "character": "Player",
+      "line": "Could you make other things apart from rope?"
+    },
+    {
+      "character": "Ned",
+      "line": "I'm sure I can. What are you thinking of?"
+    },
+    {
+      "character": "Player",
+      "line": "Could you knit me a sweater?"
+    },
+    {
+      "character": "Ned",
+      "line": "Do I look like a member of a sewing circle? Be off wi' you. I have fought monsters that would turn your hair blue."
+    },
+    {
+      "character": "Ned",
+      "line": "I don't need to be laughed at just 'cos I'm getting a bit old."
+    },
+    {
+      "character": "Player",
+      "line": "How about some sort of wig?"
+    },
+    {
+      "character": "Ned",
+      "line": "Well... that's an interesting thought. Yes, I think I could do something. Give me three balls of wool and I might be able to do it."
+    },
+    {
+      "character": "Player",
+      "line": "Great, I will get some. I think a wig would be useful."
+    },
+    {
+      "character": "Player",
+      "line": "I have them here. Please make me a wig."
+    },
+    {
+      "character": "Ned",
+      "line": "Okay, I'll have a go."
+    },
+    {
+      "character": "Ned",
+      "line": "Here you go. How's that for a quick effort? Not bad I think!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Ned. There's more to you than meets the eye."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't need one right now."
+    },
+    {
+      "character": "Ned",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "Could you repair the arrow holes in the back of my shirt?"
+    },
+    {
+      "character": "Ned",
+      "line": "Ah yes, it's a tough world these days. There's a few brave enough to attack from ten metres away."
+    },
+    {
+      "character": "Ned",
+      "line": "There you go, good as new."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Ned. Maybe next time they will attack me face to face."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't need anything."
+    },
+    {
+      "character": "Aggie",
+      "line": "What can I help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you make skin paste?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Why, it's one of my most popular potions! Lots of people around here like to pretty their faces up a bit. I can make it for you if you get me what's needed."
+    },
+    {
+      "character": "Player",
+      "line": "What do you need?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Well dearie, you need a base for the paste. That's a mix of ash, flour and water. Then you need redberries to colour it as you want. Bring me those four items and I will make you some."
+    },
+    {
+      "character": "Aggie",
+      "line": "Yes I can. I see you already have the ingredients. Would you like me to mix some for you now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please. Mix me some skin paste."
+    },
+    {
+      "character": "Aggie",
+      "line": "That should be simple. Hand the things to Aggie then."
+    },
+    {
+      "character": "Aggie",
+      "line": "Tourniquet, Fenderbaum, Tottenham, Marshmallow, Marblearch."
+    },
+    {
+      "character": "Aggie",
+      "line": "There you go dearie. That will make you look good at the Varrock dances."
+    },
+    {
+      "character": "Player",
+      "line": "No thank you. I don't need any skin paste right now."
+    },
+    {
+      "character": "Aggie",
+      "line": "Okay dearie, that's always your choice."
+    },
+    {
+      "character": "Player",
+      "line": "Are you the famous Lady Keli? Leader of the toughest gang of bandits around?"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Yes, I am Keli. You've heard of me then?"
+    },
+    {
+      "character": "Player",
+      "line": "Heard of you? You're famous in Gielinor!"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "That's very kind of you to say. Reputations are not easily earned. I have managed to succeed where many fail."
+    },
+    {
+      "character": "Player",
+      "line": "What's your latest plan then?"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Why do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I was actually hoping to join your group."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Join us? Interesting... I suppose you do look the type."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "You'll of course need to properly prove yourself before we let you join us. However, what I can tell you is that we currently have a very valuable prisoner. If all goes well, he will make us very rich."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, I see. You must have been very skillful."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "To catch him? Oh yes. We had to grab him without his bodyguards noticing. It was a stroke of genius. Mostly my doing, of course."
+    },
+    {
+      "character": "Player",
+      "line": "How do you know someone won't try to free him?"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "There is no way to release him. The only key to his cell is on a chain around my neck, and the locksmith who made it died very suddenly."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "There isn't another key like this in the world."
+    },
+    {
+      "character": "Player",
+      "line": "Could I see the key please?"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Why?"
+    },
+    {
+      "character": "Player",
+      "line": "It will be something I can tell my grandchildren, when you are even more famous than you are now."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Well I suppose there's no harm in letting you see it. After all, you have no hope of stealing it."
+    },
+    {
+      "character": "Player",
+      "line": "Could I touch the key for a moment please?"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Well... only for a moment then."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you so much! You are too kind."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "You are welcome, but run along now. I will need some time to consider your request to join us."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I'd better go now."
+    },
+    {
+      "character": "Player",
+      "line": "That is a good way to keep secrets."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "It is the best way I know. Dead men tell no tales."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'll be off. Good luck."
+    },
+    {
+      "character": "Player",
+      "line": "Well good luck with it."
+    },
+    {
+      "character": "Player",
+      "line": "You must have trained a lot for this work."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "I have used a sword since I was a girl. My first kill was before I was even six years old."
+    },
+    {
+      "character": "Player",
+      "line": "I shouldn't disturb someone as tough as you."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Yes, I am very busy. Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "I've heard rumours that you kill people."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "There's always someone ready to spread rumours. I hear all sort of ridiculous things these days."
+    },
+    {
+      "character": "Player",
+      "line": "No, I've never really heard of you."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "You must be new around here then. Everyone knows of Lady Keli and her prowess with a sword."
+    },
+    {
+      "character": "Player",
+      "line": "No, still doesn't ring a bell."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Well, you know of me now. You should also know that I will wring your neck if you don't show some respect."
+    },
+    {
+      "character": "Player",
+      "line": "I don't show respect to killers and hoodlums."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "You should, you really should. I am wealthy enough to place a bounty on your head, or I could just remove your head myself. Luckily, I am too busy to deal with the likes of you, so clear off!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I have heard of you. You're famous in Gielinor!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again!"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Oh, it's you. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I was hoping we could talk more about your prisoner."
+    },
+    {
+      "character": "Lady Keli",
+      "line": "Until you join us, I can say little. What I can tell you is that he is very valuable. If all goes well, he will make us very rich."
+    },
+    {
+      "character": "Player",
+      "line": "Hi. Who are you guarding here?"
+    },
+    {
+      "character": "Joe",
+      "line": "Can't say. It's all very secret. You should get out of here. I am not supposed to talk while I guard."
+    },
+    {
+      "character": "Player",
+      "line": "I do indeed."
+    },
+    {
+      "character": "Leela",
+      "line": "Good work. Now, before breaking the Prince out, you'll need to find a way to deal with his personal guard. He's talkative, so try to find a weakness. Remember, we don't want any unneeded violence."
+    },
+    {
+      "character": "Player",
+      "line": "Alright. I'll go have a chat to this guard."
+    },
+    {
+      "character": "Leela",
+      "line": "Before you go, my father sent this for you."
+    },
+    {
+      "character": "Leela",
+      "line": "You're back. How are things going?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I lost that key you gave me."
+    },
+    {
+      "character": "Leela",
+      "line": "Well that was foolish. I can sort you out with another, but it will cost you 15 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I haven't got that much."
+    },
+    {
+      "character": "Leela",
+      "line": "Then come back to me when you do."
+    },
+    {
+      "character": "Player",
+      "line": "Here, I have 15 coins."
+    },
+    {
+      "character": "Leela",
+      "line": "Now, how are things going with that guard?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't spoken to him yet."
+    },
+    {
+      "character": "Leela",
+      "line": "Well you'd better get on it then. We need him out of the way."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Joe",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I have some beer here. Fancy one?"
+    },
+    {
+      "character": "Joe",
+      "line": "Ah, that would be lovely. Only one though, just to wet my throat."
+    },
+    {
+      "character": "Player",
+      "line": "Of course. It must be tough being here without a drink."
+    },
+    {
+      "character": "Joe",
+      "line": "That was perfect! I can't thank you enough."
+    },
+    {
+      "character": "Player",
+      "line": "How are you? Still okay? Not too drunk?"
+    },
+    {
+      "character": "Joe",
+      "line": "No, I don't get drunk from only one drink. I reckon I'd need at least two more for that. Still, thanks for the beer."
+    },
+    {
+      "character": "Player",
+      "line": "Would you care for another beer, my friend?"
+    },
+    {
+      "character": "Joe",
+      "line": "I'd better not. I don't want to be drunk on duty."
+    },
+    {
+      "character": "Player",
+      "line": "Here, just keep these for later. I hate to see a thirsty guard."
+    },
+    {
+      "character": "Joe",
+      "line": "Franksh! That wash jusht what I need to shtay on guard. No more beersh, I don't want to get drunk."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the life of a guard."
+    },
+    {
+      "character": "Joe",
+      "line": "Well, the hours are good, but most of those hours are a drag."
+    },
+    {
+      "character": "Joe",
+      "line": "Sometimes I wonder if I should have spent more time learning when I was a young boy. Maybe I wouldn't be here now, scared of Keli."
+    },
+    {
+      "character": "Player",
+      "line": "What did you want to be when you were a boy?"
+    },
+    {
+      "character": "Joe",
+      "line": "Well, I loved to sit by the lake, with my toes in the water. I'd shoot the fish with my bow and arrow."
+    },
+    {
+      "character": "Player",
+      "line": "That's a strange hobby for a boy."
+    },
+    {
+      "character": "Joe",
+      "line": "It kept us from goblin hunting, which was what most boys did."
+    },
+    {
+      "character": "Joe",
+      "line": "Hang on... Why do you ask? What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, chill out. I won't cause you trouble."
+    },
+    {
+      "character": "Joe",
+      "line": "Sorry, it's hard to relax when I'm on duty. Stress of the job, and all."
+    },
+    {
+      "character": "Player",
+      "line": "So why do you do it?"
+    },
+    {
+      "character": "Joe",
+      "line": "There's good money in it, and some of the shouting I rather like."
+    },
+    {
+      "character": "Joe",
+      "line": "RESISTANCE IS USELESS!"
+    },
+    {
+      "character": "Player",
+      "line": "So what do you buy with your great wages?"
+    },
+    {
+      "character": "Joe",
+      "line": "Really, after working here, there's only time for a drink or three. All us guards go to the same pub and drink ourselves stupid."
+    },
+    {
+      "character": "Joe",
+      "line": "It's what I enjoy these days. I can't resist the sight of a really cold beer."
+    },
+    {
+      "character": "Player",
+      "line": "Would you be interested in making a little more money?"
+    },
+    {
+      "character": "Joe",
+      "line": "What? Are you trying to bribe me? I may not be a great guard, but I am loyal. How dare you try to bribe me!"
+    },
+    {
+      "character": "Player",
+      "line": "No, no, you've got the wrong idea, totally. I just wondered if you wanted some part-time bodyguard work."
+    },
+    {
+      "character": "Joe",
+      "line": "Oh... sorry. No, I don't need money. As long as you were not offering me a bribe."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better go."
+    },
+    {
+      "character": "Joe",
+      "line": "Thanks, I appreciate that. Talking on duty can be punished by having your mouth stitched up. These are tough people, make no mistake."
+    },
+    {
+      "character": "Joe",
+      "line": "Halt! Who goes there?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello friend. I'm just here to rescue the Prince, if thats okay?"
+    },
+    {
+      "character": "Joe",
+      "line": "Thatsh a funny joke. You are lucky I'm shober. Go in peace, friend."
+    },
+    {
+      "character": "Leela",
+      "line": "You're back. How are things going with that guard?"
+    },
+    {
+      "character": "Player",
+      "line": "I could attack him."
+    },
+    {
+      "character": "Leela",
+      "line": "I don't think that's a good idea. Any violence could put the Prince at risk."
+    },
+    {
+      "character": "Player",
+      "line": "I'll keep thinking."
+    },
+    {
+      "character": "Player",
+      "line": "I might be able to get him drunk."
+    },
+    {
+      "character": "Leela",
+      "line": "Yes, that could work. I'd imagine three beers would do it. Why don't you give it a try?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could bribe him to leave."
+    },
+    {
+      "character": "Leela",
+      "line": "It would take a lot of gold to convince him to betray Keli. She's not known to be kind to those she believes to be traitors. Perhaps there's something else you could try."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure yet."
+    },
+    {
+      "character": "Leela",
+      "line": "You should try talking to him. He might give away some sort of weakness."
+    },
+    {
+      "character": "Player",
+      "line": "He's been dealt with."
+    },
+    {
+      "character": "Leela",
+      "line": "Great! I think that means we're ready. Go in and use some rope to tie Keli up. Once she's dealt with, use the key to free the Prince. Don't forget to give him his disguise so the guards outside don't spot him."
+    },
+    {
+      "character": "Player",
+      "line": "(missing greeting)! I'm here to tie you up!"
+    },
+    {
+      "character": "Lady Keli",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "Prince Ali? I'm here to rescue you."
+    },
+    {
+      "character": "Prince Ali",
+      "line": "Oh thank goodness! What's your plan?"
+    },
+    {
+      "character": "Player",
+      "line": "I've already dealt with Lady Keli and the guard. I'm going to get you a disguise so the guards outside don't spot you leaving. I'll be back once I have it."
+    },
+    {
+      "character": "Player",
+      "line": "Take this disguise. You can use it to get past the guards outside."
+    },
+    {
+      "character": "Prince Ali",
+      "line": "Thank you, my friend. I must leave you now, but my father will pay you well for this."
+    },
+    {
+      "character": "Leela",
+      "line": "You did it! Prince Ali is now safe again. You should head back to Al Kharid. I expect you will be well rewarded for your work."
+    },
+    {
+      "character": "Osman",
+      "line": "Prince Ali is safe once more. Chancellor Hassan has your payment."
+    },
+    {
+      "character": "Prince Ali",
+      "line": "Good to see you, friend. I am forever in your debt for what you did, as is all of Al Kharid."
+    },
+    {
+      "character": "Prince Ali",
+      "line": "I know my father is very grateful as well. If he were in better health, he would have thanked you personally. However, at his age, it is best that he spends his time resting."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just happy to have helped. All the best."
+    },
+    {
+      "character": "Chancellor Hassan",
+      "line": "Prince Ali is home safe. You have the eternal gratitude of the Emir for rescuing his son. Please, take this payment as a thank you."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aggie",
+      "description": "Middle-aged female, British accent, mischievous and slightly raspy tone, an eccentric village witch who speaks with dry humor and playful confidence."
+    },
+    {
+      "name": "Chancellor Hassan",
+      "description": "Middle-aged male, Middle Eastern accent, formal and measured tone, a dignified chancellor who speaks with authority and diplomatic composure."
+    },
+    {
+      "name": "Joe",
+      "description": "Adult male, British accent, slow and slightly dim-witted tone, a talkative but simple-minded guard who enjoys chatting and drinking beer."
+    },
+    {
+      "name": "Lady Keli",
+      "description": "Young adult female, British accent, haughty and imperious tone, a vain bandit leader who craves praise and speaks with arrogant confidence."
+    },
+    {
+      "name": "Leela",
+      "description": "Young adult female, Middle Eastern accent, calm and professional tone, a competent spy who speaks with quiet confidence and strategic precision."
+    },
+    {
+      "name": "Ned",
+      "description": "Elderly male, British accent with a seafaring lilt, gruff but friendly tone, a retired sailor who speaks with weathered wisdom and occasional humor."
+    },
+    {
+      "name": "Osman",
+      "description": "Middle-aged male, Middle Eastern accent, low and measured tone, a shrewd spymaster who speaks with calculated caution and subtle menace."
+    },
+    {
+      "name": "Prince Ali",
+      "description": "Young adult male, Middle Eastern accent, refined and grateful tone, a young prince who speaks with noble bearing despite his dire circumstances."
+    }
+  ]
+}

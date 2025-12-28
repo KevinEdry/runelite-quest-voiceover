@@ -1,0 +1,220 @@
+{
+  "branch": "quest/in-search-of-knowledge",
+  "quest_name": "In Search of Knowledge",
+  "lines": [
+    {
+      "character": "Brother Aimeri",
+      "line": "Nilsal, traveller. I was injured while exploring down here. Could you spare me some cooked fish, meat or vegetables?"
+    },
+    {
+      "character": "Player",
+      "line": "It just so happens that I have some with me!"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Oh, please hand it over if you can spare it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid that I don't have any of that type of food with me."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Oh, well if you return with any I would greatly appreciate it."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "No thanks. I would rather eat fish, meat or vegetables."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Thanks for helping me. Is there anything you'd like to know about this temple? If you find anything in here, show it to me and I'll tell you what I know about it."
+    },
+    {
+      "character": "Player",
+      "line": "What is this place?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "This place probably had a name at some point but it has long since been forgotten. The Arceuus librarians refer to this place as the Forthos Dungeon."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "It is rumoured that this place used to be of religious significance to druidic followers of both Ralos and Ranul."
+    },
+    {
+      "character": "Player",
+      "line": "Who are Ralos and Ranul?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "According to religious texts, Ralos is the god of the sun and Ranul, his brother, is the god of the moon."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "If you find any artifacts or relics from within this temple, I would be very interested in seeing them."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I find. Although, I've never heard of Ralos and Ranul."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "You need only to look up and see their greatness above you when you return to the surface."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "My name is Brother Aimeri, I am a travelling monk from the distant land of Varlamore on a journey to uncover the secrets of this temple."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "I worship Ralos, a common practice where I am from. However, I found out that our order may have originated from this temple. If you find anything of interest, please let me know."
+    },
+    {
+      "character": "Player",
+      "line": "I'll keep my eyes open."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "You have my gratitude. Any information you do find would also be of interest to the Arceuus Library. I hope we can uncover the secrets of this place for the greater good."
+    },
+    {
+      "character": "Player",
+      "line": "The greater good."
+    },
+    {
+      "character": "Player",
+      "line": "How did you get injured?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "I found out about this place from Logosia in the Arceuus Library. I came to investigate but was ambushed by the spiders in the room to the north."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "I'm a scholar not a fighter. I didn't have time to think through my options so I did what came naturally and ran away."
+    },
+    {
+      "character": "Player",
+      "line": "Why didn't you decide to run back the way you came from instead of running further into the dungeon where there could be more dangerous creatures?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "See, the problem with that... Is that it is an excellent idea I wish I had thought of at the time."
+    },
+    {
+      "character": "Player",
+      "line": "You've been trapped here for a while! No wonder you were hungry!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm fine, thanks."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Oh, very interesting. This page appears to be taken from a religious script which speaks of Ralos."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "This is very sad. To see such religious scripts desecrated, it's blasphemy!"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps the script still exists?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Yes, yes! I hope so. I would expect a temple of this nature to have a library of sorts within it. Maybe the original is somewhere within it."
+    },
+    {
+      "character": "Player",
+      "line": "I'll have a look for it. Thanks for your help!"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Oh, very interesting. This page appears to be taken from a religious script which speaks of Ranul."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Oh, very interesting. This page appears to be taken from a historical script about the temple itself."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "This is very sad. To see such information desecrated in this way."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Amazing! This is exactly what I was looking for. This tome contains information about the religion of Ralos."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Oh, it appears that there are some pages missing from it. The missing information could prove valuable."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you think the missing pages are?"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "This Temple has been abandoned for some time. Maybe the creatures within have destroyed the tome while looking for food. You may have to kill them to recover the pages."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for your help!"
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "The book seems to be intact! I'm sure Logosia in the Arceuus Library to the north would find this information valuable."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Amazing! This is exactly what I was looking for. This tome contains information about the religion of Ranul."
+    },
+    {
+      "character": "Brother Aimeri",
+      "line": "Amazing! This is exactly what I was looking for. This tome contains information about the temple itself."
+    },
+    {
+      "character": "Logosia",
+      "line": "I have not seen this before. Your donation to the library is appreciated."
+    },
+    {
+      "character": "Player",
+      "line": "You can have this tome which I discovered aswell."
+    },
+    {
+      "character": "Player",
+      "line": "You can have these tomes which I discovered aswell."
+    },
+    {
+      "character": "Logosia",
+      "line": "Your contributions to the library have been noticed. We would like to reward you for your assistance."
+    },
+    {
+      "character": "Logosia",
+      "line": "If you find any spare pages for these books I would be willing to give you 1,000 gold for each one. Duplicate sources of information are always useful."
+    },
+    {
+      "character": "Player",
+      "line": "I'll keep an eye out."
+    },
+    {
+      "character": "Logosia",
+      "line": "Enough talk now, Shhhh!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Brother Aimeri",
+      "description": "Middle-aged male, warm Mediterranean accent, earnest and scholarly tone. A travelling monk from Varlamore who worships Ralos the sun god, intellectually curious and grateful for assistance."
+    },
+    {
+      "name": "Logosia",
+      "description": "Middle-aged female, refined British accent, prim and dismissive tone. The chief librarian of the Arceuus Library who values silence above all else, speaking with clipped formality and minimal warmth."
+    }
+  ]
+}

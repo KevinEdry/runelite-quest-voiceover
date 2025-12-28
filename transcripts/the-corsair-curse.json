@@ -1,0 +1,1112 @@
+{
+  "branch": "quest/the-corsair-curse",
+  "quest_name": "The Corsair Curse",
+  "lines": [
+    {
+      "character": "Captain Tock",
+      "line": "Ahoy, young. Might ye be able to help me, perhaps? I be in a spot of bother."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "I be the Corsair Captain! Captain of the Corsairs of Corsair Cove! My gallant band of corsairs are famed in song and story among all seafarers."
+    },
+    {
+      "character": "Player",
+      "line": "I've never heard of you."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr... well, ye can boast of yer ignorance if ye likes, but it don't make ye sound smarter."
+    },
+    {
+      "character": "Player",
+      "line": "..."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Well, as I were saying, young, I be in a spot of bother, and I thought ye might be able to help."
+    },
+    {
+      "character": "Player",
+      "line": "That's very interesting; do tell me more."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of help do you need?"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "It be about my crew. They be a lazy bunch at times, but they be stout in the heart and strong in the arm, and they don't deserve what's happened to them..."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "It be a curse! A curse has been laid upon my crew! That's the only thing it can be."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "So I need a young such as yerself to find a way to lift the curse. Will ye help me?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, I'll try to help with your curse."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr! Thanks, young. And a worthy ye must surely be, brave in the heart and stiff in the spine."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Now, I've a ship moored west of Rimmington. Come and meet me on board, and we'll set off to Corsair Cove."
+    },
+    {
+      "character": "Player",
+      "line": "West of Rimmington, you say? Okay, I'll meet you on board your ship there."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm not available."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr. Some other time, perhaps..."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, ye've found my ship - good. I used to command a much larger vessel, sailing the seas with my crew of Corsairs, but now we be settled in Corsair Cove."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "My Corsairs be a good crew, but this curse has laid them low, all except me. Sickly, they be. Too weak to stand. Ye'll see fer yerself soon enough."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "There be four of 'em afflicted by the curse - Gnocci, Ithoi, Arsen and young Colin. All taken to their beds, a- mewlin' and a-pukin' like so many babbies."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "I've another crewman, Francois, but he be away on a mission. I hope he be spared!"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Now be ye ready to voyage to Corsair Cove to help 'em? I can sail ye back here any time ye likes."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'm ready go to Corsair Cove."
+    },
+    {
+      "character": "Player",
+      "line": "Not just now, thanks."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "That's fair enough, young, but perhaps ye'll return to help me soon..."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Urgh!"
+    },
+    {
+      "character": "Player",
+      "line": "I hear you've been cursed."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "I think so. That navigator, Ithoi, always warned us that this kind of thing could happen, but I didn't think it could possibly be real. But now this has happened, and I think it's my fault."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "You should maybe see what Ithoi thinks. He's been cursed too, so I guess he'll be in his hut, off to the south-west, near the shore."
+    },
+    {
+      "character": "Player",
+      "line": "Urgh to you too, with candy sprinkles on."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "A sympathetic soul you are. I'm in real pain here."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I hear you've been cursed."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I'm sorry! Tell her I'm sorry! Then maybe she'll make the pain stop..."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Yes, that's what it must be. Ithoi, the navigator, always told us to beware of curses. You should talk to him - he really knows about these things."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Ithoi lives in the hut to the south-west, nearest to the sea."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps you can tell me about it another time."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I'll be here. I'm not going anywhere while I feel so sick."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "My stomach!"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Yes, I think She did this to us. I should have left Her alone. Ithoi told us to beware of this kind of thing."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Ithoi's been cursed too. You can probably find him in his hut, south-west from here."
+    },
+    {
+      "character": "Player",
+      "line": "My lower intestine!"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "... look, I'm in a lot of pain here. We're not playing Name Your Favourite Body Part."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr, we be cursed, we be CURSED! It be a curse upon us!"
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Aye? D'ye think so? Really? Am I not a picture of health an' beauty?"
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "YES - WE'VE BEEN CURSED!"
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "I've sailed the seas all my life. I sailed the seas as a man, like I sailed 'em as a boy."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "I even sailed the seas during that tricky phase in between, when ye'r not quite a man yet, but ye'r not really a boy anymore. But I don't want to talk about that bit."
+    },
+    {
+      "character": "Player",
+      "line": "Um..."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "The point I'm makin' is that I know the seas like I know the palm of my hand. I've been to strange lands an' seen things that'll make yer juices turn in yer veins."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "I've seen dancing fish-women, monkey-kings, huge men in turbans from the far West selling treasure maps - you name it, an' I've seen it."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "There be more things in the world than ye dreams of in yer fancy book-learnin'! An' most of 'em be hostile. Could be any number of things brought this curse upon us. Demons, evil spirits, anything!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, it doesn't sound like you know what's behind the curse. Thanks."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll leave you to get on with it."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "... arrr."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Have ye any idea about how to lift the curse?"
+    },
+    {
+      "character": "Player",
+      "line": "I've spoken to some of your crew."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr! Make sure ye speaks to 'em all. They'll be in their huts, over to the west. Four of them, there are - Gnocci, Ithoi, Arsen and young Colin."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "I think so. That navigator, Ithoi, always warned us that this kind of thing could happen."
+    },
+    {
+      "character": "Player",
+      "line": "I've met him. He definitely thinks it's a curse, but wasn't able to say exactly what caused it."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "I'm afraid it may be all my fault."
+    },
+    {
+      "character": "Player",
+      "line": "Oh?"
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Captain Tock had me exploring some caves, west of the cove. I'm a thief, see, like my brother Francois, and the Captain thought I could sneak past the monsters without being noticed."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Well, I climbed down the vines, and found a big cave filled with terrifying ogres!"
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "I'd hoped I could use my amazing Thieving skills to avoid them seeing me, but I was out of luck. By the time I'd finished clambering down the ladder, they'd spotted me."
+    },
+    {
+      "character": "Player",
+      "line": "So you were trying to explore that ogre cave, and the ogres saw you?"
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Yes. I quickly grabbed some loot, so I wouldn't have to face the Captain empty-handed, and fled up the ladder before the ogres could kill me!"
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "But a couple of days later we all fell ill. I think what I stole must have been some kind of sacred relic, and the shamans in the cave have cursed us for stealing it."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Maybe you could get the relic back from the Captain, and return it to the ogres? And tell them I'm very sorry. Then perhaps they'll lift the curse."
+    },
+    {
+      "character": "Player",
+      "line": "I see."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Have you got that relic back from Captain Tock? Maybe if you return it to the ogres, they'll lift the curse."
+    },
+    {
+      "character": "Player",
+      "line": "Nope, I've not done that."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Oh dear."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Please take it back to the ogres for me, and tell them I'm sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Arsen says he gave you a sacred ogre relic."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, that he did. I'd sent him to explore the caves west of the cove, an' he brings me back a bone lump, saying he stole it from the ogre chief."
+    },
+    {
+      "character": "Player",
+      "line": "He thinks the ogres have cursed you all because he stole one of their sacred relics, and he wants me to take it back to them now."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, I've no use fer the silly thing. If it'll get the curse lifted, ye can take it right to that ogre chief an' give it back."
+    },
+    {
+      "character": "Chief Tess",
+      "line": "What you want, skinny creature?"
+    },
+    {
+      "character": "Player",
+      "line": "A man called Arsen told me he'd visited your cave."
+    },
+    {
+      "character": "Chief Tess",
+      "line": "Yah, skinny man climb down vine the other day. Little man, big idiot! Hahahaha..."
+    },
+    {
+      "character": "Player",
+      "line": "He says he's very sorry..."
+    },
+    {
+      "character": "Chief Tess",
+      "line": "He very silly!"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I should come back another time."
+    },
+    {
+      "character": "Player",
+      "line": "I've come to return what Arsen stole."
+    },
+    {
+      "character": "Chief Tess",
+      "line": "Arsen says he's very sorry for stealing from you. Here it is..."
+    },
+    {
+      "character": "Chief Tess",
+      "line": "Yah, dat little man is big idiot. Climbed down vine, grabbed tooth-pick off Tess and ran away like scared kebbit."
+    },
+    {
+      "character": "Player",
+      "line": "You're saying this is a tooth-pick? Not a sacred relic of the ogres? Did your shamans curse the Corsairs for stealing it?"
+    },
+    {
+      "character": "Chief Tess",
+      "line": "Dis is tooth-pick. Tess got plenty more. If skinny idiot man want Tess' old tooth-pick, maybe he sick in his head. But Tess not having shamans curse anyone."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Well, I guess Arsen will be pleased to hear he didn't bring the curse upon the Corsairs."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Have you returned the sacred relic to the ogres? Will they forgive me and lift the curse?"
+    },
+    {
+      "character": "Player",
+      "line": "Their chief, Tess, says that wasn't a sacred relic at all. It was her tooth-pick."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Are you telling me the ogres cursed us all because I stole their chief's tooth-pick?"
+    },
+    {
+      "character": "Player",
+      "line": "She didn't care - she's got lots of tooth-picks, and she just thought you were some kind of weirdo when you stole one. They never cursed you at all."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Oh. That's a relief, I guess. Um... thank you for your help. But I do wonder where the curse really came from."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not done investigating yet."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Yes, that's what it must be. Ithoi, the navigator, always told us to beware of curses."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "This is all my fault. But I didn't mean to upset her. I just thought we could be friends. Now I must have upset her, and she's cursed us all!"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Ithoi always told us that bad things happen to sailors who get involved with mermaids, but I didn't believe him. I should have listened! But I'll tell you what happened..."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I was using Ithoi's telescope..."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Such a beautiful night!"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "What lands lie beyond the dim horizon, I wonder..."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Eh?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "What was that? I'd better have another look."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Is that what I think it is?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "It's so dark out there, but I think...... yes, I'm quite sure..."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "... yes, it's a mermaid! She's beautiful!"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Hello?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Can you hear me?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "You're the most lovely person I've ever seen!"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I can see you moving your arms, but it's very dark. Are you waving to me?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "*kiss*"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Oh, no, I think she's gone away. Did I put her off?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Maybe she doesn't like strangers shouting about her appearance and blowing kisses at her. That might have been rude of me."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I hope she's not angry. Ithoi says mermaids can be dangerous."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Perhaps you can find the mermaid and tell her I'm very sorry I was rude to her. Then maybe she'll lift the curse."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Have you found the mermaid yet? Will she forgive me?"
+    },
+    {
+      "character": "Player",
+      "line": "Where did you find this mermaid?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I was using Ithoi's telescope to look out at the sea, imagining the strange lands and fantastic creatures Ithoi's always telling us he's seen, and I saw her."
+    },
+    {
+      "character": "Player",
+      "line": "Nope, I've not seen any mermaids round here."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Oh dear, oh dear. Maybe we'll be cursed forever!"
+    },
+    {
+      "character": "Player",
+      "line": "Let's see if I can find that mermaid he saw..."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't look anything like a mermaid. That's an ogre!"
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't look anything like a mermaid. That's Bugs, the son of that chompy hunter, Rantz!"
+    },
+    {
+      "character": "Player",
+      "line": "I've seen enough of that ogre already. Colin might be relieved to hear it wasn't a mermaid."
+    },
+    {
+      "character": "Player",
+      "line": "I've looked through that telescope myself. That wasn't a mermaid. That was a wet ogre."
+    },
+    {
+      "character": "Player",
+      "line": "He's definitely not a mermaid."
+    },
+    {
+      "character": "Player",
+      "line": "I've met that ogre before. He lives with his dad in the Feldip Hills. He's definitely not a mermaid."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Oh. Oh, I see. Okay... I guess that means I didn't upset a mermaid after all. So the curse isn't my fault! Thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "How are you feeling?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "I still feel awful. But I'm glad you've proven it wasn't my fault that we got cursed. I hope you can work out what brought it on us."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be on the case."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "It's all my fault, I know it is. I've awoken Her, and now She's done this to us!"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you talking about?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "I'll explain... See, I'm the cook, and I have to find the food as well as cooking it..."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "I was fishing..."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Let's see what I can find for the boys tonight."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "C'mon little lobsters, come to Gnocci!"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Obby-lobby obby-lobby oi oi oi!"
+    },
+    {
+      "character": "Player",
+      "line": "'obby-lobby' - what?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "It's a traditional lobster-fishing chant handed down by my ancestors. Don't interrupt."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "C'mon little lobsters. We don't want to keep the Captain waiting! He'll get angry with me again."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Ooh, what's this? This isn't a lobster."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Looks more like a child's toy. But - no, it can't be..."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Is it moving?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "She's moving! SHE'S POSSESSED! HELP!"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "I buried Her in the sand, by that tree, to the west. But I still feel Her eyes staring into my soul. Please find Her, and kill the demon inside!"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Have you tried to destroy Her yet? Her eyes, those terrible eyes!"
+    },
+    {
+      "character": "Player",
+      "line": "Where did you say this happened?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "On the beach, to the west of the cove. Near a big tree. I buried Her in the sand, but I can still feel her eyes staring into my soul. Please find Her, and kill the demon inside!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I've not."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Oh dear, I feel terrible. Please help us soon."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, he said he buried the possessed doll in the sand..."
+    },
+    {
+      "character": "Player",
+      "line": "That's not possessed. That sounds more like clockwork."
+    },
+    {
+      "character": "Player",
+      "line": "That's not possessed. That sounds more like clockwork. In fact I've got the Crafting level to make those."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, it sounds scary."
+    },
+    {
+      "character": "Player",
+      "line": "Well, sort of. That doll wasn't possessed at all. It was a clockwork toy. They're supposed to move."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Clockwork? Oh, that would explain how it moved. Ahem. Well, I suppose the curse didn't come from Her."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "I hope you can find the real cause soon."
+    },
+    {
+      "character": "Player",
+      "line": "Still trying."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Ye be back? Tell me, do those scurvy Corsairs take the curse seriously?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been hearing about what might have caused it..."
+    },
+    {
+      "character": "Player",
+      "line": "Colin thought he upset a mermaid, and she might have cursed you all in revenge."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr! That'll teach him to meddle with such folk. Colin should stick to what he's good at."
+    },
+    {
+      "character": "Player",
+      "line": "Gnocci fished a doll out of the water, and he thought it might have been possessed by an evil spirit."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr chuckie chuckie chuckie! That'll teach him to play with dolls at his age. Dolls can be frightening."
+    },
+    {
+      "character": "Player",
+      "line": "Arsen stole what he thought was a sacred relic from the ogre cave, and he said their shamans might have cursed you in revenge."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr! Ogre women be powerful, an' Arsen be a fool."
+    },
+    {
+      "character": "Player",
+      "line": "I'll carry on trying to solve the curse."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr! Off ye goes..."
+    },
+    {
+      "character": "Player",
+      "line": "They all have different theories about the curse."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, that be likely enough. Ithoi tells me there be many things in this world that can bring a curse upon an unwary seafarer."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Ye can maybe solve the problem fer each victim, an' see if it lifts the curse."
+    },
+    {
+      "character": "Player",
+      "line": "I've ruled out all the Corsairs' theories..."
+    },
+    {
+      "character": "Player",
+      "line": "Cabin-boy Colin thought he'd upset a mermaid, but there wasn't a mermaid, just a wet ogre."
+    },
+    {
+      "character": "Player",
+      "line": "Arsen the Thief thought he'd upset the ogre shamans by stealing a sacred ogre relic, but it was just a tooth-pick, and the ogres didn't care."
+    },
+    {
+      "character": "Player",
+      "line": "Ithoi the Navigator said there were lots of things that could bring a curse on a crew, and this could be any of them."
+    },
+    {
+      "character": "Player",
+      "line": "And Gnocci the Cook thought he'd awoken a demon in a possessed doll, but it wasn't possessed at all. It was clockwork."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, any sufficiently advanced technology be indistinguishable from demonic possession, that it be."
+    },
+    {
+      "character": "Player",
+      "line": "So what do I do now?"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, I don't rightly know. It began when I'd gone away for a parlay with Ithoi; we came back ter find the crew all a-pukin' up their dinner. Then Ithoi felt ill too, though he'd not eaten with 'em, so it can't be the food."
+    },
+    {
+      "character": "Player",
+      "line": "I see. You're saying it began after they'd all eaten, but Ithoi felt ill even though he'd not had any of the food."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, that be right."
+    },
+    {
+      "character": "Player",
+      "line": "That meal must have been interesting..."
+    },
+    {
+      "character": "Player",
+      "line": "Can I give up and go home?"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "If ye wants a ride back to Rimmington, I'll take ye there any time, but I do hope ye can help my poor crew."
+    },
+    {
+      "character": "Player",
+      "line": "You said it began after they'd all eaten."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr. I'd gone away for a parlay with Ithoi; we came back ter find the crew all a-pukin' up their dinner. Then Ithoi felt ill too, though he'd not eaten with 'em, so it can't be the food."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Ye be back? Have ye been investigatin' the curse?"
+    },
+    {
+      "character": "Player",
+      "line": "I hear it happened straight after dinner."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr! That be wrong! I were away for a parlay with Captain Tock, an' I didn't eat that dinner at all. The Captain can tell ye so himself."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "So it must be a curse. A CURSE!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still looking into it."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Have you solved the curse yet?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Hey, don't go blaming the cook just because the curse began after dinner. I didn't even cook that meal. I'd been too scared of the possessed doll..."
+    },
+    {
+      "character": "Player",
+      "line": "You mean the clockwork doll?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "It's an easy mistake to make!"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Anyway I didn't dare try to fish after that, and Ithoi volunteered to do all the fishing and cooking instead, before he went off for his parlay with Captain Tock."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Anyway, Ithoi got sick without even eating it, so it can't be the food."
+    },
+    {
+      "character": "Player",
+      "line": "I hear the Captain's thinking of firing Ithoi."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "I don't see why that's got anything to do with the curse."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps not."
+    },
+    {
+      "character": "Player",
+      "line": "So you say Ithoi prepared that meal?"
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Yes, he volunteered to do all the fishing and cooking for me, even though he knew he'd miss dinner for his parlay with Captain Tock. Ithoi's a good soul."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Have you found out how we all got cursed?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "That's right. Gnocci had cooked us some swordfish. It didn't taste as good as his usual cooking, but I didn't complain. The Captain doesn't like complainers."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Then we all started feeling sick and clammy. That was when the Captain and Ithoi came back from their parlay, and Ithoi looked sick too."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Well, I suppose we don't need a navigator these days, and he's not very good at anything else. But I don't see why that's got anything to do with the curse."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Do you know how we all got cursed?"
+    },
+    {
+      "character": "Player",
+      "line": "I hear Ithoi cooked the meal you ate that night."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "I suppose Ithoi's trying to be extra helpful at the moment. Don't tell anyone, but Ithoi might not be in our crew much longer."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "My brother, Francois, says the Captain will make him second-in-command if he completes his mission. That's Ithoi's rank, but we don't need a navigator now we've settled here, and he can't do much else."
+    },
+    {
+      "character": "Player",
+      "line": "What is the mission Francois is doing?"
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "That's a secret."
+    },
+    {
+      "character": "Player",
+      "line": "I hear you're thinking of firing Ithoi."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr, maybe I am, but I'm sure that be nothing to do wi' the curse. Ithoi's afflicted by it too."
+    },
+    {
+      "character": "Player",
+      "line": "I hear you cooked the meal they ate before getting sick."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr? And what if I did? Can't an old sailor help his crew without interfering young land-lubbers making accusations?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe because the Captain's thinking of firing you - Arsen heard it from his brother. The Corsairs don't need a navigator anymore."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Arrr! Too clever ye be... I heard the Captain might kick me off the crew, so I poisoned the dinner, an' acted sick too. Now they think they're cursed, so they'll want me around, wi' my knowledge o' such things!"
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "But they all think I'm sick, so they'll never believe I'm behind it. Hahaha!"
+    },
+    {
+      "character": "Player",
+      "line": "We'll see what they have to say about that!"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe you're just a nasty person."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Bah! Ye can't even think of a reason why I'd want to poison the crew, so don't bother me with yer accusations."
+    },
+    {
+      "character": "Player",
+      "line": "I don't know your reason."
+    },
+    {
+      "character": "Player",
+      "line": "Ithoi admits poisoning you all and faking the curse."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "If Ithoi's been afflicted by the curse as badly as I have, he might be half out of his mind with pain. I'm sure he doesn't know what he's saying."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Have you solved the curse yet?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "That can't be right - he looks as sick as the rest of us. Maybe he's delerious and doesn't know what he's saying."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "He's had a lot to worry about, with losing his place on the crew, and now he's sick from the curse too. He must have gone mad and started babbling."
+    },
+    {
+      "character": "Player",
+      "line": "Ithoi admits he poisoned the crew! He's faked this whole curse!"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "That can't be! Ithoi's sick, an' he may be babbling madness from his fevered brain. Ye'll have to prove he's not really sick."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "What d'ye want now?"
+    },
+    {
+      "character": "Player",
+      "line": "I know you've faked the curse."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "The Corsairs all think I'm sick too, even though I never ate the food. An' ye'll never make me prove that I'm healthy - I ain't gettin' up! So they'll keep believing in the curse."
+    },
+    {
+      "character": "Player",
+      "line": "I bet I can prove you're well enough to get up."
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "Ye'll never make me get up! I ain't afraid of cold, nor of wet, nor of anythin' ye can do in here."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back."
+    },
+    {
+      "character": "Player",
+      "line": "Um... nothing, really."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I should try to get more information out of him before trying to make his hut catch fire."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I guess that proves he's well enough to get up! And apparently he knows some magic too."
+    },
+    {
+      "character": "Player",
+      "line": "I saw you running around! You're not sick!"
+    },
+    {
+      "character": "Ithoi the Navigator",
+      "line": "So long as that old fool, Tock, believes it's a curse, I've nothing to fear from ye flapping yer mouth."
+    },
+    {
+      "character": "Player",
+      "line": "We'll see what the Captain has to say about that."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Can you tell me what's going on now?"
+    },
+    {
+      "character": "Player",
+      "line": "Ithoi's faked the curse. I've seen him running around, healthy."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "Make sure he gets what's coming to him. No-one poisons my crew!"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "So what's going on now?"
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "It sounds like there isn't a curse after all! Maybe I'll recover soon from whatever he did to me."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "What's happening now?"
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "Give him what he deserves!"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "So what's happening now?"
+    },
+    {
+      "character": "Player",
+      "line": "I've seen Ithoi running around. He's not sick at all."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Arrr! So he was never sick at all! An' here's me been feeling sorry for him. A trickster he be indeed! Kill him fer me."
+    },
+    {
+      "character": "Player",
+      "line": "Why don't you kill him yourself?"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "A captain shouldn't leave his ship in a time of crisis. Rule of the sea, that is. Even if the crisis ain't exactly on the ship."
+    },
+    {
+      "character": "Player",
+      "line": "I don't believe in capital punishment."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "I do."
+    },
+    {
+      "character": "Player",
+      "line": "Ithoi faked the curse, and I've killed him."
+    },
+    {
+      "character": "Gnocci the Cook",
+      "line": "You think you know a guy, and then he does a thing like this! Oh well, I hope I recover soon from whatever he did to me."
+    },
+    {
+      "character": "Player",
+      "line": "Not much."
+    },
+    {
+      "character": "Cabin Boy Colin",
+      "line": "Who'd have thought Ithoi would do such a thing? I guess if there isn't really a curse, I'll get better soon. In fact I feel better already."
+    },
+    {
+      "character": "Arsen the Thief",
+      "line": "I really didn't think he was like that. Still, if there isn't really a curse, I suppose we'll just get better from whatever he did to us. I don't feel so bad now."
+    },
+    {
+      "character": "Player",
+      "line": "I've killed Ithoi for poisoning your crew."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Thank ye fer dealing with that serpent. I suppose the rest of my crew will feel better now ye've proven there be no curse on them."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Most of them deleterious effects probably be psychosomatic anyway, arrr!"
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Anyways, ye've been a mighty help, young. Ye be brave in the heart, strong in the arm and full in the bowels, an' I be grateful to ye."
+    },
+    {
+      "character": "Captain Tock",
+      "line": "Tell ye what, I'll have a word with Yusuf, in the bank. Ye've earned the right to use his services. An' thanks again, very much."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Arsen the Thief",
+      "description": "Adult male, French-accented English, bumbling and defensive tone. An incompetent thief who is both bad at his job and morally questionable, making excuses for his blunders with nervous deflection."
+    },
+    {
+      "name": "Cabin Boy Colin",
+      "description": "Young male, eager British accent, earnest and naive tone. A junior sailor with romantic notions and gullible nature, enthusiastic despite his inexperience and prone to misinterpreting situations."
+    },
+    {
+      "name": "Captain Tock",
+      "description": "Middle-aged male, hearty pirate accent, commanding and theatrical tone. A dashing corsair leader who speaks with nautical flair and surprising wit, using pirate vernacular with confident authority."
+    },
+    {
+      "name": "Chief Tess",
+      "description": "Adult female, deep gravelly voice, authoritative and strategic tone. An ogre chieftain with ambitions of expansion, speaking with the measured confidence of a seasoned leader."
+    },
+    {
+      "name": "Gnocci the Cook",
+      "description": "Adult male, cheerful British working-class accent, good-natured and bumbling tone. A ship's cook who makes easy mistakes but remains lighthearted, prone to accidental mishaps while fishing."
+    },
+    {
+      "name": "Ithoi the Navigator",
+      "description": "Adult male, cunning pirate accent, deceptive and self-serving tone. A treacherous mage who speaks with false concern while secretly plotting, desperate to maintain his position on the crew."
+    }
+  ]
+}

@@ -1,0 +1,1236 @@
+{
+  "branch": "quest/plague-city",
+  "quest_name": "Plague City",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello old man."
+    },
+    {
+      "character": "Edmond",
+      "line": "Sorry, I can't stop to talk..."
+    },
+    {
+      "character": "Player",
+      "line": "Why, what's wrong?"
+    },
+    {
+      "character": "Edmond",
+      "line": "I've got to find my daughter. I pray that she is still alive..."
+    },
+    {
+      "character": "Player",
+      "line": "What's happened to her?"
+    },
+    {
+      "character": "Edmond",
+      "line": "Elena's a healer. Three weeks ago she managed to cross the wall into West Ardougne. No one's allowed to cross the wall in case they spread the plague."
+    },
+    {
+      "character": "Player",
+      "line": "Plague?"
+    },
+    {
+      "character": "Edmond",
+      "line": "Not that long ago, West Ardougne was hit by a deadly plague. They had the wall built to try and keep it contained. No one is allowed to enter the city now apart from the mourners."
+    },
+    {
+      "character": "Edmond",
+      "line": "They say the plague is a horrible way to go... That's why Elena felt she had to go help. She said she'd be gone for a few days but we've heard nothing since."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could help find her?"
+    },
+    {
+      "character": "Edmond",
+      "line": "Really, would you? I've been working on a plan to get into West Ardougne, but I'm too old and tired to carry it through. But you on the other hand, you should have no problem."
+    },
+    {
+      "character": "Player",
+      "line": "Where should I start?"
+    },
+    {
+      "character": "Edmond",
+      "line": "If you're going into West Ardougne you'll need protection from the plague. My wife made a special gas mask for Elena with dwellberries rubbed into it."
+    },
+    {
+      "character": "Edmond",
+      "line": "They help to repel the plague apparently. We need some more though..."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find these dwellberries?"
+    },
+    {
+      "character": "Edmond",
+      "line": "The only place I know of is McGrubor's Wood, just west of Seers' Village. The berries are bright blue so they're easy to spot."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll go and get some."
+    },
+    {
+      "character": "Edmond",
+      "line": "The foresters keep a close eye on it, but there is a back way in."
+    },
+    {
+      "character": "Player",
+      "line": "On second thoughts, I'd better not."
+    },
+    {
+      "character": "Edmond",
+      "line": "Well if you hear anything about Elena please tell me."
+    },
+    {
+      "character": "Player",
+      "line": "I will. Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "Well, good luck finding her."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Edmond."
+    },
+    {
+      "character": "Edmond",
+      "line": "Have you got the dwellberries yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I'm afraid not."
+    },
+    {
+      "character": "Edmond",
+      "line": "You'll probably find them in McGrubor's Wood, just west of Seers' Village. The berries are bright blue so they're easy to spot."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Edmond has asked me to help find your daughter."
+    },
+    {
+      "character": "Alrena",
+      "line": "Yes he told me. I've begun making your special gas mask, but I need some dwellberries to finish it."
+    },
+    {
+      "character": "Player",
+      "line": "I'll try to get some."
+    },
+    {
+      "character": "Alrena",
+      "line": "The best place to look is in McGrubor's Wood, just west of Seers' Village."
+    },
+    {
+      "character": "Player",
+      "line": "Yes I've got some here."
+    },
+    {
+      "character": "Edmond",
+      "line": "Take them to my wife Alrena, she's inside."
+    },
+    {
+      "character": "Alrena",
+      "line": "There we go, all done. While in West Ardougne you must wear this at all times, or you could catch the plague."
+    },
+    {
+      "character": "Alrena",
+      "line": "I'll make a spare mask for you in case you lose that one. I'll hide it in the cupboard in case the mourners come looking."
+    },
+    {
+      "character": "Alrena",
+      "line": "Hello darling, I think Edmond had a good idea of how to get into West Ardougne, you should hear his idea."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll go and see him now."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Edmond, I've got the gas mask now."
+    },
+    {
+      "character": "Edmond",
+      "line": "Good stuff, now for the digging. Beneath us are the Ardougne sewers. I've done some research, and I reckon you can use them to enter West Ardougne."
+    },
+    {
+      "character": "Edmond",
+      "line": "I've already tried digging down to them but the soil is rock hard. You'll need to pour on several buckets of water to soften it up. I reckon four buckets should do it."
+    },
+    {
+      "character": "Edmond",
+      "line": "How's it going?"
+    },
+    {
+      "character": "Player",
+      "line": "I still need to pour four more buckets of water on the soil."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Alrena."
+    },
+    {
+      "character": "Alrena",
+      "line": "Hello darling, how's that tunnel coming along?"
+    },
+    {
+      "character": "Player",
+      "line": "I just need to soften the soil and then we'll start digging."
+    },
+    {
+      "character": "Alrena",
+      "line": "Well I'm sure you're quicker than Edmond."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Mourner",
+      "line": "What are you up to?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Mourner",
+      "line": "You and that Edmond fella, you're looking very suspicious."
+    },
+    {
+      "character": "Player",
+      "line": "We're just gardening. Have you heard any news about West Ardougne?"
+    },
+    {
+      "character": "Mourner",
+      "line": "Just the usual, everyone's sick or dying. I'm furious at King Tyras for bringing this plague to our lands."
+    },
+    {
+      "character": "Player",
+      "line": "I still need to pour three more buckets of water on the soil."
+    },
+    {
+      "character": "Player",
+      "line": "I just need to soften the soil a little more and then we'll start digging."
+    },
+    {
+      "character": "Player",
+      "line": "I still need to pour two more buckets of water on the soil."
+    },
+    {
+      "character": "Player",
+      "line": "I still need to pour one more bucket of water on the soil."
+    },
+    {
+      "character": "Player",
+      "line": "I've soaked the soil with water."
+    },
+    {
+      "character": "Edmond",
+      "line": "That's great, it should be soft enough to dig through now. There should be a spade nearby that you can use."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again Alrena."
+    },
+    {
+      "character": "Alrena",
+      "line": "How's the tunnel going?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm getting there."
+    },
+    {
+      "character": "Alrena",
+      "line": "One of the mourners has been sniffing around asking questions about you and Edmond, you should keep an eye out for him."
+    },
+    {
+      "character": "Alrena",
+      "line": "Also, don't forget about that spare gas mask if you need it. It's hidden in the cupboard."
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks Alrena!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks for the warning."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Mourner",
+      "line": "What are you up to with old man Edmond?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, we've just been chatting."
+    },
+    {
+      "character": "Mourner",
+      "line": "What about his daughter?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, you know about that then?"
+    },
+    {
+      "character": "Mourner",
+      "line": "We know about everything that goes on in Ardougne. We have to if we are to contain the plague."
+    },
+    {
+      "character": "Player",
+      "line": "Have you see his daughter recently?"
+    },
+    {
+      "character": "Mourner",
+      "line": "I imagine she's caught the plague. Either way she won't be allowed out of West Ardougne, the risk is too great."
+    },
+    {
+      "character": "Edmond",
+      "line": "I think it's the pipe to the south that comes up in West Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "Alright I'll check it out."
+    },
+    {
+      "character": "Alrena",
+      "line": "Hi, have you managed to get through to West Ardougne?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, but I should be going soon."
+    },
+    {
+      "character": "Alrena",
+      "line": "Make sure you wear your mask while you're over there! I can't think of a worse way to die."
+    },
+    {
+      "character": "Alrena",
+      "line": "Don't forget, I've got a spare one hidden in the cupboard if you need it."
+    },
+    {
+      "character": "Mourner",
+      "line": "Been digging have we?"
+    },
+    {
+      "character": "Mourner",
+      "line": "Your hands are covered in mud."
+    },
+    {
+      "character": "Player",
+      "line": "Oh that..."
+    },
+    {
+      "character": "Mourner",
+      "line": "Funny, you don't look like the gardening type."
+    },
+    {
+      "character": "Player",
+      "line": "Oh no, I love gardening! It's my favorite pastime."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "Mourner",
+      "line": "I don't trust you."
+    },
+    {
+      "character": "Player",
+      "line": "You don't have to."
+    },
+    {
+      "character": "Mourner",
+      "line": "If I find you attempting to cross the wall I'll make sure you never return."
+    },
+    {
+      "character": "Edmond",
+      "line": "I can't let you enter the city without your gas mask on."
+    },
+    {
+      "character": "Player",
+      "line": "Edmond, I can't get through to West Ardougne! There's an iron grill blocking my way, I can't pull it off alone."
+    },
+    {
+      "character": "Edmond",
+      "line": "If you get some rope you could tie to the grill, then we could both pull it at the same time."
+    },
+    {
+      "character": "Player",
+      "line": "I've tied a rope to the grill over there, will you help me pull it off?"
+    },
+    {
+      "character": "Edmond",
+      "line": "Alright, let's get to it..."
+    },
+    {
+      "character": "Player",
+      "line": "1... 2... 3... Pull!"
+    },
+    {
+      "character": "Edmond",
+      "line": "Once you're in the city look for a man called Jethick. He's an old friend of the family. Hopefully he can help you."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, thanks I will."
+    },
+    {
+      "character": "Edmond",
+      "line": "Have you found Elena yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, it's a big city over there."
+    },
+    {
+      "character": "Edmond",
+      "line": "I hope it's not too late."
+    },
+    {
+      "character": "Alrena",
+      "line": "Hello, any word on Elena?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet I'm afraid."
+    },
+    {
+      "character": "Alrena",
+      "line": "Is there anything else I can do to help?"
+    },
+    {
+      "character": "Player",
+      "line": "It's alright, I'll get her back soon."
+    },
+    {
+      "character": "Alrena",
+      "line": "That's the spirit, dear. Don't forget that there's a spare gas mask in the cupboard if you need one."
+    },
+    {
+      "character": "Alrena",
+      "line": "That's the spirit, dear."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, how's it going?"
+    },
+    {
+      "character": "Woman",
+      "line": "Bah, those mourners... they're meant to be helping us, but I think they're doing more harm here than good. They won't even let me send a letter out to my family."
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen a lady called Elena around here?"
+    },
+    {
+      "character": "Woman",
+      "line": "Yes, I've seen her. Very helpful person."
+    },
+    {
+      "character": "Woman",
+      "line": "Not for the last few days though... I thought maybe she'd gone home."
+    },
+    {
+      "character": "Player",
+      "line": "You should stand up to them more."
+    },
+    {
+      "character": "Woman",
+      "line": "Oh I'm not one to cause a fuss."
+    },
+    {
+      "character": "Woman",
+      "line": "Life is tough."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, living in a plague city must be hard."
+    },
+    {
+      "character": "Woman",
+      "line": "Plague? Pah, that's no excuse for the treatment we've received. It's obvious pretty quickly if someone has the plague."
+    },
+    {
+      "character": "Woman",
+      "line": "I'm thinking about making a break for it. I'm perfectly healthy, not gonna infect anyone."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry to hear that."
+    },
+    {
+      "character": "Woman",
+      "line": "Well, ain't much either you or me can do about it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a lady called Elena."
+    },
+    {
+      "character": "Woman",
+      "line": "I've not heard of her. Old Jethick knows a lot of people, maybe he'll know where you can find her."
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Woman",
+      "line": "We don't have good days here anymore. Curse King Tyras."
+    },
+    {
+      "character": "Player",
+      "line": "Oh okay, bad day then."
+    },
+    {
+      "character": "Player",
+      "line": "Why, what has he done?"
+    },
+    {
+      "character": "Woman",
+      "line": "His army curses our city with this plague then wanders off again, leaving us to clear up the pieces."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a woman called Elena."
+    },
+    {
+      "character": "Woman",
+      "line": "Not heard of her."
+    },
+    {
+      "character": "Woman",
+      "line": "An outsider! Can you get me out of this hell hole?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, that's not what I'm here to do."
+    },
+    {
+      "character": "Man",
+      "line": "We don't have good days here anymore. Curse King Tyras."
+    },
+    {
+      "character": "Man",
+      "line": "His army curses our city with this plague then wanders off again, leaving us to clear up the pieces."
+    },
+    {
+      "character": "Man",
+      "line": "Not heard of her."
+    },
+    {
+      "character": "Mourner",
+      "line": "Hmmm, how did you get over here? You're not one of this rabble. Ah well, you'll have to stay. Can't risk you going back now."
+    },
+    {
+      "character": "Player",
+      "line": "So what's a mourner?"
+    },
+    {
+      "character": "Mourner",
+      "line": "We're working for King Lathas of East Ardougne. He has tasked us with containing the accursed plague sweeping West Ardougne."
+    },
+    {
+      "character": "Mourner",
+      "line": "We also do our best to ease these people's suffering. We're nicknamed mourners because we spend a lot of time at plague victim funerals, no one else is allowed to risk attending."
+    },
+    {
+      "character": "Mourner",
+      "line": "It's a demanding job, and we get little thanks from the people here."
+    },
+    {
+      "character": "Player",
+      "line": "I haven't got the plague though..."
+    },
+    {
+      "character": "Mourner",
+      "line": "Can't risk you being a carrier. That protective clothing you have isn't regulation issue. It won't meet safety standards."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a woman named Elena."
+    },
+    {
+      "character": "Mourner",
+      "line": "Ah yes, I've heard of her. A healer I believe. She must be mad coming over here voluntarily."
+    },
+    {
+      "character": "Mourner",
+      "line": "I hear rumours she has probably caught the plague now. Very tragic, a stupid waste of life."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "Go away. We don't want any."
+    },
+    {
+      "character": "Jethick",
+      "line": "Hello, I don't recognise you. We don't get many newcomers around here."
+    },
+    {
+      "character": "Player",
+      "line": "How come?"
+    },
+    {
+      "character": "Jethick",
+      "line": "The plague of course. Not many people want to come to a place like this and the few that do normally get stopped by the mourners."
+    },
+    {
+      "character": "Jethick",
+      "line": "All you'll find here now are the dead and the dying. Even our own king has abandoned us."
+    },
+    {
+      "character": "Player",
+      "line": "Your king?"
+    },
+    {
+      "character": "Jethick",
+      "line": "Yes, King Tyras of West Ardougne. He's the brother of King Lathas, the ruler of East Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "So where is the king?"
+    },
+    {
+      "character": "Jethick",
+      "line": "Well he's always been a bit of an explorer. He's led multiple expeditions into the uncharted lands to the west."
+    },
+    {
+      "character": "Jethick",
+      "line": "The plague first started when he came back from one of these expeditions. More than a few suspect that some of his men caught it out there and brought it back with them."
+    },
+    {
+      "character": "Jethick",
+      "line": "The king didn't care though. He just left on another expedition to the west. He hasn't been seen since. He left the city warder Bravek in charge but he's no better."
+    },
+    {
+      "character": "Jethick",
+      "line": "Anyway, you clearly didn't come here to talk about kings. So tell me, what brings you to West Ardougne?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a woman from East Ardougne called Elena."
+    },
+    {
+      "character": "Jethick",
+      "line": "East Ardougnian women are easier to find in East Ardougne. Not many would come to West Ardougne to find one. Although the name is familiar, what does she look like?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... brown hair... in her twenties..."
+    },
+    {
+      "character": "Jethick",
+      "line": "Hmmm, that doesn't narrow it down a huge amount... I'll need to know more than that, or see a picture?"
+    },
+    {
+      "character": "Clerk",
+      "line": "Hello, welcome to the Civic Office of West Ardougne. How can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Who is through that door?"
+    },
+    {
+      "character": "Clerk",
+      "line": "The city warder Bravek is in there."
+    },
+    {
+      "character": "Player",
+      "line": "Can I go in?"
+    },
+    {
+      "character": "Clerk",
+      "line": "He has asked not to be disturbed."
+    },
+    {
+      "character": "Clerk",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just looking thanks."
+    },
+    {
+      "character": "Clerk",
+      "line": "Sorry, I don't have time to talk. Bravek needs lots of help running the city."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have a picture of Elena?"
+    },
+    {
+      "character": "Edmond",
+      "line": "There should be a picture of Elena in the house. Please find her quickly, I hope it's not too late."
+    },
+    {
+      "character": "Alrena",
+      "line": "Yes. There should be one in the house somewhere. Let me know if you need anything else."
+    },
+    {
+      "character": "Jethick",
+      "line": "Hello. We don't get many newcomers around here."
+    },
+    {
+      "character": "Jethick",
+      "line": "Ah yes. She came over here to help the plague victims. I think she is staying over with the Rehnison family."
+    },
+    {
+      "character": "Jethick",
+      "line": "They live in the small timbered building at the far north side of town. I've not seen her around here in a while, mind."
+    },
+    {
+      "character": "Jethick",
+      "line": "I don't suppose you could run me a little errand while you're over there? I borrowed this book from them, can you return it?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll return it for you."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't have time for that."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a friend of Jethick's, I have come to return a book he borrowed."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "Oh... Why didn't you say, come in then."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "Thanks, I've been missing that."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I hear a woman called Elena is staying here."
+    },
+    {
+      "character": "Martha Rehnison",
+      "line": "Yes she was staying here, but slightly over a week ago she was getting ready to go back. However she never managed to leave."
+    },
+    {
+      "character": "Martha Rehnison",
+      "line": "My daughter Milli was playing near the west wall when she saw some shadowy figures jump out and grab her. Milli is upstairs if you wish to speak to her."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "Yes she was staying here, but slightly over a week ago she was getting ready to go back. However she never managed to leave."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "My daughter Milli was playing near the west wall when she saw some shadowy figures jump out and grab her. Milli is upstairs if you wish to speak to her."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Your parents say you saw what happened to Elena..."
+    },
+    {
+      "character": "Milli Rehnison",
+      "line": "*sniff* Yes I was near the south east corner when I saw Elena walking by. I was about to run to greet her when some men jumped out. They shoved a sack over her head and dragged her into a building."
+    },
+    {
+      "character": "Player",
+      "line": "Which building?"
+    },
+    {
+      "character": "Milli Rehnison",
+      "line": "It was the boarded up building with no windows in the south east corner of West Ardougne."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "Any luck finding Elena yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet..."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "I wish you luck, she did a lot for us."
+    },
+    {
+      "character": "Martha Rehnison",
+      "line": "Any luck finding Elena yet?"
+    },
+    {
+      "character": "Martha Rehnison",
+      "line": "I wish you luck, she did a lot for us."
+    },
+    {
+      "character": "Mourner",
+      "line": "I'd stand away from there. That black cross means that house has been touched by the plague."
+    },
+    {
+      "character": "Player",
+      "line": "But I think a kidnap victim is in here."
+    },
+    {
+      "character": "Mourner",
+      "line": "Sounds unlikely, even kidnappers wouldn't go in there. Even if someone is in there, they're probably dead by now."
+    },
+    {
+      "character": "Player",
+      "line": "Good point."
+    },
+    {
+      "character": "Player",
+      "line": "I want to check anyway."
+    },
+    {
+      "character": "Mourner",
+      "line": "You don't have clearance to go in there."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get clearance?"
+    },
+    {
+      "character": "Mourner",
+      "line": "Well you'd need to apply to the head mourner, or I suppose Bravek the city warder."
+    },
+    {
+      "character": "Mourner",
+      "line": "I wouldn't get your hopes up though."
+    },
+    {
+      "character": "Player",
+      "line": "I fear not a mere plague."
+    },
+    {
+      "character": "Mourner",
+      "line": "That's irrelevant. You don't have clearance to go in there."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the warning."
+    },
+    {
+      "character": "Milli Rehnison",
+      "line": "Have you found Elena yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm still looking."
+    },
+    {
+      "character": "Milli Rehnison",
+      "line": "I hope you find her. She was nice."
+    },
+    {
+      "character": "Head Mourner",
+      "line": "How did you get into West Ardougne? Ah well you'll have to stay, can't risk you spreading the plague outside."
+    },
+    {
+      "character": "Player",
+      "line": "I need clearance to enter a plague house. It's in the south east corner of West Ardougne."
+    },
+    {
+      "character": "Head Mourner",
+      "line": "You must be nuts, absolutely not!"
+    },
+    {
+      "character": "Player",
+      "line": "There's a kidnap victim inside!"
+    },
+    {
+      "character": "Head Mourner",
+      "line": "Well they're as good as dead then, no point in trying to save them."
+    },
+    {
+      "character": "Player",
+      "line": "I've got a gas mask though..."
+    },
+    {
+      "character": "Head Mourner",
+      "line": "It's not regulation. Anyway you're not properly trained to deal with the plague."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get trained?"
+    },
+    {
+      "character": "Head Mourner",
+      "line": "It requires a strict 18 months of training."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that sort of time."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm utterly crazy."
+    },
+    {
+      "character": "Head Mourner",
+      "line": "You're wasting my time, I have a lot of work to do!"
+    },
+    {
+      "character": "Bravek",
+      "line": "Go away, I'm busy! I'm... Umm... In a meeting!"
+    },
+    {
+      "character": "Player",
+      "line": "I need permission to enter a plague house."
+    },
+    {
+      "character": "Clerk",
+      "line": "Rather you than me! The mourners normally deal with that stuff, you should speak to them. Their headquarters are right near the city gate."
+    },
+    {
+      "character": "Player",
+      "line": "I'll try asking them then."
+    },
+    {
+      "character": "Player",
+      "line": "Surely you don't let them run everything for you?"
+    },
+    {
+      "character": "Clerk",
+      "line": "Well, they do know what they're doing here. If they did start doing something badly Bravek, the city warder, would have the power to override them. I can't see that happening though."
+    },
+    {
+      "character": "Player",
+      "line": "Can I speak to Bravek anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "This is urgent though! Someone's been kidnapped!"
+    },
+    {
+      "character": "Clerk",
+      "line": "I'll see what I can do I suppose."
+    },
+    {
+      "character": "Clerk",
+      "line": "Mr Bravek, there's someone here who really needs to speak to you."
+    },
+    {
+      "character": "Bravek",
+      "line": "I suppose they can come in then. If they keep it short."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll leave him alone."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know when he will be available?"
+    },
+    {
+      "character": "Clerk",
+      "line": "Oh I don't know, an hour or so maybe."
+    },
+    {
+      "character": "Clerk",
+      "line": "Bravek will see you now but keep it short!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I won't take much of his time."
+    },
+    {
+      "character": "Bravek",
+      "line": "My head hurts! I'll speak to you another day..."
+    },
+    {
+      "character": "Player",
+      "line": "This is really important though!"
+    },
+    {
+      "character": "Bravek",
+      "line": "I can't possibly speak to you with my head spinning like this... I went a bit heavy on the drink again last night. Curse my herbalist, she made the best hang over cures. Darn inconvenient of her catching the plague."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "You shouldn't drink so much then!"
+    },
+    {
+      "character": "Bravek",
+      "line": "Well positions of responsibility are hard, I need something to take my mind off things... Especially with the problems this place has."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think drink is the solution."
+    },
+    {
+      "character": "Bravek",
+      "line": "I don't feel well enough to have a philosophical discussion about it right now. My head hurts."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know what's in the cure?"
+    },
+    {
+      "character": "Bravek",
+      "line": "Hmmm let me think... Ouch! Thinking isn't clever. Ah here, she did scribble it down for me."
+    },
+    {
+      "character": "Bravek",
+      "line": "Uurgh! My head still hurts too much to think straight. Oh for one of Trudi's hangover cures!"
+    },
+    {
+      "character": "Player",
+      "line": "Try this."
+    },
+    {
+      "character": "Bravek",
+      "line": "Ooh that's much better! Thanks, that's the clearest my head has felt in a month. Ah now, what was it you wanted me to do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to rescue a kidnap victim called Elena. She's being held in a plague house, I need permission to enter."
+    },
+    {
+      "character": "Bravek",
+      "line": "Well the mourners deal with that sort of thing..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll go speak to them."
+    },
+    {
+      "character": "Player",
+      "line": "Is that all anyone says around here?"
+    },
+    {
+      "character": "Bravek",
+      "line": "Well, they know best about plague issues."
+    },
+    {
+      "character": "Player",
+      "line": "Don't you want to take an interest in it at all?"
+    },
+    {
+      "character": "Bravek",
+      "line": "Nope, I don't wish to take a deep interest in plagues. That stuff is too scary for me!"
+    },
+    {
+      "character": "Player",
+      "line": "I see why people say you're a weak leader."
+    },
+    {
+      "character": "Bravek",
+      "line": "Bah, people always criticise their leaders but delegating is the only way to lead. I delegate all plague issues to the mourners."
+    },
+    {
+      "character": "Player",
+      "line": "This whole city is a plague issue!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll talk to the mourners."
+    },
+    {
+      "character": "Player",
+      "line": "They won't listen to me!"
+    },
+    {
+      "character": "Player",
+      "line": "They say I'm not properly equipped to go in the house, though I do have a very effective gas mask."
+    },
+    {
+      "character": "Bravek",
+      "line": "Hmmm, well I guess they're not taking the issue of a kidnapping seriously enough. They do go a bit far sometimes."
+    },
+    {
+      "character": "Bravek",
+      "line": "I've heard of Elena, she has helped us a lot... Okay, I'll give you this warrant to enter the house."
+    },
+    {
+      "character": "Bravek",
+      "line": "Thanks again for the hangover cure."
+    },
+    {
+      "character": "Bravek",
+      "line": "Ah now what was it you wanted me to do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to rescue Elena. She's now a kidnap victim! She's being held in a plague house, I need permission to enter."
+    },
+    {
+      "character": "Player",
+      "line": "Not a problem, happy to help out."
+    },
+    {
+      "character": "Bravek",
+      "line": "I'm just having a little drop of whisky, then I'll feel really good."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Player",
+      "line": "I have a warrant from Bravek to enter here."
+    },
+    {
+      "character": "Mourner",
+      "line": "This is highly irregular. Please wait..."
+    },
+    {
+      "character": "Mourner",
+      "line": "Hey... I've got someone here with a warrant from Bravek, what should we do?"
+    },
+    {
+      "character": "Mourner",
+      "line": "Well you can't let them in..."
+    },
+    {
+      "character": "Elena",
+      "line": "Hey get me out of here please!"
+    },
+    {
+      "character": "Player",
+      "line": "I would do but I don't have a key."
+    },
+    {
+      "character": "Elena",
+      "line": "I think there may be one around somewhere. I'm sure I heard them stashing it somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Have you caught the plague?"
+    },
+    {
+      "character": "Elena",
+      "line": "No, I have none of the symptoms."
+    },
+    {
+      "character": "Player",
+      "line": "Strange, I was told this house was plague infected."
+    },
+    {
+      "character": "Elena",
+      "line": "I suppose that was a cover up by the kidnappers."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll look for it."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, you're free to go! Your kidnappers don't seem to be about right now."
+    },
+    {
+      "character": "Elena",
+      "line": "Thank you, being kidnapped was so inconvenient. I was on my way back to East Ardougne with some samples, I want to see if I can diagnose a cure for this plague."
+    },
+    {
+      "character": "Player",
+      "line": "Well you can leave via the manhole in the middle of the city."
+    },
+    {
+      "character": "Elena",
+      "line": "Go and see my father, I'll make sure he adequately rewards you. Now I'd better leave while I still can."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "Yes, she is safe at home now."
+    },
+    {
+      "character": "Ted Rehnison",
+      "line": "That's good to hear, she helped us a lot."
+    },
+    {
+      "character": "Martha Rehnison",
+      "line": "That's good to hear, she helped us a lot."
+    },
+    {
+      "character": "Alrena",
+      "line": "Thank you for rescuing my daughter! Elena has told me of your bravery in entering a house that could have been plague infected. I can't thank you enough!"
+    },
+    {
+      "character": "Edmond",
+      "line": "Thank you, thank you! Elena beat you back by minutes. Now I said I'd give you a reward. What can I give you as a reward I wonder? Here take this magic scroll, I have little use for it but it may help you."
+    },
+    {
+      "character": "Edmond",
+      "line": "Now I'd recommend you go and see Elena. She'll want to thank you herself. She lives in the house opposite ours."
+    },
+    {
+      "character": "Edmond",
+      "line": "Ah hello. Thank you again for rescuing my daughter."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any more of those scrolls?"
+    },
+    {
+      "character": "Edmond",
+      "line": "Yes, here you go."
+    },
+    {
+      "character": "Player",
+      "line": "No problem."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Edmond",
+      "description": "Elderly male, British accent, warm but worried tone, a devoted father desperate to find his missing daughter Elena, speaks with urgency and gratitude."
+    },
+    {
+      "name": "Alrena",
+      "description": "Middle-aged female, British accent, gentle and caring tone, a concerned mother who is resourceful and helpful, often addresses others as 'darling' or 'dear'."
+    },
+    {
+      "name": "Jethick",
+      "description": "Elderly male, British accent, cynical and weary tone, a jaded West Ardougne resident who has seen better days, speaks with dry skepticism about the state of the city."
+    },
+    {
+      "name": "Mourner",
+      "description": "Adult male elf, mysterious and authoritative tone, a sinister figure disguised as a plague healer who speaks with cold efficiency and thinly veiled threats."
+    },
+    {
+      "name": "Ted Rehnison",
+      "description": "Middle-aged male, British accent, gruff and protective tone, head of a poor West Ardougne family, initially suspicious of strangers but grateful to those who help."
+    },
+    {
+      "name": "Martha Rehnison",
+      "description": "Middle-aged female, British accent, tired but kind tone, a hardworking mother struggling to keep her family safe in plague-stricken West Ardougne."
+    },
+    {
+      "name": "Milli Rehnison",
+      "description": "Young female around 10 years old, British accent, soft and timid voice, an innocent girl traumatized by witnessing Elena's kidnapping, speaks with sadness."
+    },
+    {
+      "name": "Clerk",
+      "description": "Adult male, British accent, formal and bureaucratic tone, an overworked administrator who follows rules strictly but can be persuaded in emergencies."
+    },
+    {
+      "name": "Bravek",
+      "description": "Middle-aged male, British accent, slurred and apathetic tone, the incompetent and perpetually hungover city warder who avoids responsibility whenever possible."
+    },
+    {
+      "name": "Elena",
+      "description": "Young adult female in her twenties, British accent, intelligent and determined tone, a skilled healer and biochemist who remains composed despite being kidnapped."
+    },
+    {
+      "name": "Head Mourner",
+      "description": "Adult male elf, British accent, dismissive and arrogant tone, a deceptive leader who uses bureaucracy as a weapon and shows no compassion for others."
+    },
+    {
+      "name": "Woman",
+      "description": "Adult female, British accent, weary and downtrodden tone, a desperate West Ardougne resident suffering under mourner rule, speaks with resignation about her plight."
+    },
+    {
+      "name": "Man",
+      "description": "Adult male, British accent, bitter and exhausted tone, a citizen of plague-ridden West Ardougne who blames King Tyras for the city's suffering."
+    }
+  ]
+}

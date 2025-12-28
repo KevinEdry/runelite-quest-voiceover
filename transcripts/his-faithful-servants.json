@@ -1,0 +1,192 @@
+{
+  "branch": "quest/his-faithful-servants",
+  "quest_name": "His Faithful Servants",
+  "lines": [
+    {
+      "character": "Strange Old Man",
+      "line": "It's time."
+    },
+    {
+      "character": "Player",
+      "line": "Time for what?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Time to dig. To dig, dig, dig. But no normal dig. We now have new purpose!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean? What purpose?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "The brothers six! Dutiful servants of Saradomin... At least, that's what they'd tell you! Ha! Not so. Not so."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "They made a pact you see! Strength in life for servitude in death."
+    },
+    {
+      "character": "Player",
+      "line": "Servitude?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Yes! They guard it for him! That was their purpose, but that time is up now. He wants it back! You can get it! You can dig!"
+    },
+    {
+      "character": "Player",
+      "line": "You want me to bring you something?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "The icon! He needs it now! You must dig, dig, dig. Slay the brothers six! It's okay, it won't hurt them... much. The icon will be in the chest!"
+    },
+    {
+      "character": "Player",
+      "line": "Right... So you want me to go and kill the six brothers and bring you back an icon?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Yes! Do this! Do this! Maybe little prize for you if you do. But first you must dig! Dig, dig, dig!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about the brothers?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "The brothers? His faithful servants! Book tell you more! Take it! I don't even want it!"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "The brothers? His faithful servants! Book tell you more! Read it! Read it!"
+    },
+    {
+      "character": "Player",
+      "line": "I wanted to ask you about warnings."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Currently when I'm trying to go plundering the catacombs here, my mind is plagued by several inconvenient warnings about the dangers below."
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering, do you know of a way to condense these warnings into a single one?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for having those mental warnings I was having condensed into a single one, but I miss having them seperated."
+    },
+    {
+      "character": "Player",
+      "line": "Is there any chance you'd be willing to change it back for me?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "AAAAAAAAARRRRRRGGGGGHHHHHHHH!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm guessing that was a yes? In that case, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back soon."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Icon?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have it yet."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Slow! No slow! Only fast! Fast dig! Dig, dig, dig!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it here."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "At last! Quick! Give it!"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "You did it! Now for me."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "It's all little bits now."
+    },
+    {
+      "character": "Player",
+      "line": "What? But why? I thought you needed it!"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Yes! Needed it for him, but not to keep! His friend asked him to protect it, but he made a new plan, a better plan!"
+    },
+    {
+      "character": "Player",
+      "line": "What are you on about?"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "The old plan is gone. We're not doing it that way. His friend won't be happy, but it was for the best!"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Now we're doing it his way..."
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Anyway, job well done! Still more digging though. Always dig. Dig, dig, dig!"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "Oh, and don't forget your prize! He made it very clear you had to have a prize!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks... I guess."
+    },
+    {
+      "character": "Player",
+      "line": "Why did you destroy the icon? I though you needed it!"
+    },
+    {
+      "character": "Strange Old Man",
+      "line": "This is for you. Take it! Take it!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I'll leave you to it then..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Strange Old Man",
+      "description": "Elderly male, British accent, frantic and rambling tone. A peculiar, unhinged hermit obsessed with digging, speaking in fragmented sentences with manic energy and cryptic references to dark powers."
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "branch": "quest/prying-times",
+  "quest_name": "Prying Times",
+  "lines": [
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Yarr! What will it be?"
+    },
+    {
+      "character": "Player",
+      "line": "Got any work that needs doing here?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Well, it just so happens that I'm looking for a rough, tough, piratical type for an adventure on the high seas!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "And I'm happy to say..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "... it isn't you!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "... it is you!"
+    },
+    {
+      "character": "Player",
+      "line": "Great! So what do you need?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Hoist your mast, because there's some pirate looty just begging to be uncovered in a far off land! Thanks to me, you could be one of the privileged few to get your hands on it!"
+    },
+    {
+      "character": "Player",
+      "line": "Looty? You mean treasure?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Yarr!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I can't say no to a bit of treasure. What do I need to do?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Shiver me timbers! There is a crate full of high value goods just sitting at the port of Sarim!"
+    },
+    {
+      "character": "Player",
+      "line": "Port Sarim? I thought you said far off land?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aye! The far off land of Sarim!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... but surely if this is pirate treasure, someone would have noticed... Port Sarim is a busy place."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Luckily for us, a cunning Jolly Roger of a pirate has disguised it to look like a normal crate of cargo!"
+    },
+    {
+      "character": "Player",
+      "line": "Hang on... is this actually just a normal cargo delivery? You know there's a notice board on the docks for that sort of thing..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Normal?! Normal?! What kind of scallywag are you? There's nothing normal about a valuable crate of precious plundered pirate looty!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Besides, you've already said you'll do it, and pirates never go back on their word."
+    },
+    {
+      "character": "Player",
+      "line": "I'm fairly certain they do, but fine. I'll go collect this crate for you."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Me hearty goes out to you! Once you have the looty, just leave it with the port master here. Now, give me your log and I'll write out the details."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I don't have it on me."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Well, go get it sailor! Heave to!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Bit of a problem, I'm afraid! It seems your log is already full! You should get some of this work done before you take on my critical pirate task!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Now, get to it, sailor! Heave to and ballast your grog!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I've changed my mind. Maybe another time."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Shiver me timbers!"
+    },
+    {
+      "character": "Player",
+      "line": "About that job you wanted doing..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aye! Hoist your mast, because there's some pirate looty just begging to be uncovered in a far off land! Thanks to me, you could be one of the privileged few to get your hands on it!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aye! You need to collect the pirate looty from the port of Sarim! Once you have it, just leave it with the port master here. Now, give me your log and I'll write out the details."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aye! You need to collect the pirate looty from the port of Sarim! Once you have it, just leave it with the port master here. Heave to, sailor!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aye! I see you have the pirate looty! You need to leave it with the port master. Heave to, sailor!"
+    },
+    {
+      "character": "Port master",
+      "line": "Thanks, sailor. I'll get that all sorted out."
+    },
+    {
+      "character": "Player",
+      "line": "I delivered that cargo for you."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Shiver me timbers! That was fast!"
+    },
+    {
+      "character": "Player",
+      "line": "So could I have some 'looty' now?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Blistering barnacles! You thought that was it? You are too funny, fellow sailor!"
+    },
+    {
+      "character": "Player",
+      "line": "I get the feeling you're about to ask me to do something else..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aye! This is no ordinary crate,. This is a pirate crate! Only a special key can open it for us!"
+    },
+    {
+      "character": "Player",
+      "line": "But it is an ordinary crate, Steve. There was even a label on it addressed to you."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "I hope you're not trying to call Squawking Steve Beanie a liar?! That crate is pirate looty, and anything suggesting otherwise is clearly a plot by my rival pirate captains!"
+    },
+    {
+      "character": "Player",
+      "line": "Right... So what's this special key then?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "It is something very few can forge! I suspect we will require the help of a master scallywag smith!"
+    },
+    {
+      "character": "Player",
+      "line": "Is it essential that they be a scallywag as well as a smith? If not, I know of a dwarf near Mudskipper Point who might be able to help us."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "A dwarf? Yarr! That's an acceptable compromise! Ready your port side and go see this dwarf!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll grab a redberry pie and go visit Thurgo..."
+    },
+    {
+      "character": "Player",
+      "line": "About that crate that needs opening..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Do you have our special key yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Then ready your port side and go see that dwarf!"
+    },
+    {
+      "character": "Player",
+      "line": "I need some help with a 'special key'."
+    },
+    {
+      "character": "Thurgo",
+      "line": "A key? What for?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, truth be told, I'm not sure it's really a key that I need. I just need something that can open a crate."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Ah, well a crowbar should do that. It's a simple tool."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me make one?"
+    },
+    {
+      "character": "Thurgo",
+      "line": "I can indeed. We'll need a hammer, a steel bar, and of course, a redberry pie."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have all of that I'm afraid..."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Well, come back when you do."
+    },
+    {
+      "character": "Thurgo",
+      "line": "That should do nicely."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! I should probably see what Steve makes of this."
+    },
+    {
+      "character": "Player",
+      "line": "So, can you help me make a crowbar?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me make another crowbar?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Stop! We aren't ready to open that yet!"
+    },
+    {
+      "character": "Player",
+      "line": "I made that 'special key' you needed."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Aha! There she crows! This is perfect!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad you approve. Shall I use it to crack this crate open?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Wait!"
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "An artifact of this power needs a test before we try it on our precious looty!"
+    },
+    {
+      "character": "Player",
+      "line": "Fine. What should I test it on?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "I noticed a crate of grog floating around by the north westmost island of the Pandemonium. Cast off your keel and sail your vessel over there."
+    },
+    {
+      "character": "Player",
+      "line": "And then?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Well, you open it with your new key and sample the contents, of course."
+    },
+    {
+      "character": "Player",
+      "line": "Why would I even want to do that? How do you even know it's drinkable?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "I'm a true pirate, so I know good grog when I see it. As for why, no sailor has truly experienced the sea until they have drunk everything it has to offer."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "In fact, you should keep a log of it all. I know I do!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... this doesn't seem very healthy, but fine."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Yarr! That's the spirit!"
+    },
+    {
+      "character": "Player",
+      "line": "About that crate..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Have you sampled that grog yet, sailor?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. Where can I find it again?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "I saw it floating around by the north westmost island of the Pandemonium. Cast off your keel and sail your vessel over there."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "This doesn't look like grog..."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Well, then get to it, you scallywag! Make sure you do it on your vessel as well. It's important to feel that sea air while trying a new drink."
+    },
+    {
+      "character": "Drink troll",
+      "line": "Drinkies be mine! Leave dem drinkies!"
+    },
+    {
+      "character": "Player",
+      "line": "I have. Did you know that troll was going to jump out and attack me? I had the fright of my life!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Ah, blistering barnacles! I did forget to mention that does sometimes happen."
+    },
+    {
+      "character": "Player",
+      "line": "Of course it does. Right, no more wasting time. I'm assuming that's the crate next to you? I'm opening it."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Of course! You are the captain after all, my first mate!"
+    },
+    {
+      "character": "Player",
+      "line": "Let's get this crate open."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Go ahead! You are the captain after all, my first mate!"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Your looty, sailor! Take as many as you like."
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Now, with your new looty in hand, you're ready to take on the seas like never before! Soon you'll be as great a sailor as me! Speaking of which, you're not still using that raft, are you?"
+    },
+    {
+      "character": "Player",
+      "line": "Why do you ask?"
+    },
+    {
+      "character": "Squawking' Steve Beanie",
+      "line": "Well, I think it's about time you sort yourself out with an upgrade! You should check in with Jim. I'm sure he'll have something fitting. Now, avast!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Drink troll",
+      "description": "Deep gravelly male voice, primitive and aggressive tone, speaks in broken English with possessive fury about drinks."
+    },
+    {
+      "name": "Port master",
+      "description": "Middle-aged male, British accent, professional and efficient tone, a straightforward dock worker who handles cargo logistics."
+    },
+    {
+      "name": "Squawking' Steve Beanie",
+      "description": "Middle-aged male, theatrical exaggerated pirate accent, flamboyant and eccentric personality, a wannabe pirate pub owner who takes his role far too seriously."
+    },
+    {
+      "name": "Thurgo",
+      "description": "Elderly male, Scottish dwarf accent, gruff and reserved tone, the last of the Imcando dwarves who is a master smith with a fondness for redberry pie."
+    }
+  ]
+}

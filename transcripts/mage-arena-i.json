@@ -1,0 +1,300 @@
+{
+  "branch": "quest/mage-arena-i",
+  "quest_name": "Mage Arena I",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there. What is this place?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Do not waste my time with trivial questions. I am the Great Kolodion, master of battle magic. I have an arena to run."
+    },
+    {
+      "character": "Player",
+      "line": "Can I enter?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Hah! A wizard of your level? Don't be absurd."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're not allowed in there. Come downstairs if you want to enter my arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I am the great Kolodion, master of battle magic, and this is my battle arena. Top wizards travel from all over Gielinor to fight here."
+    },
+    {
+      "character": "Player",
+      "line": "Can I fight here?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "My arena is open to any high level wizard, but this is no game. Many wizards fall in this arena, never to rise again. The strongest mages have been destroyed."
+    },
+    {
+      "character": "Kolodion",
+      "line": "If you're sure you want in?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes indeedy."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Good, good. You have a healthy sense of competition."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Remember, traveller - in my arena, hand-to-hand combat is useless. Your strength will diminish as you enter the arena, but the spells you can learn are amongst the most powerful in all of Gielinor."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Before I can accept you in, we must duel."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let's fight."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I must first check that you are up to scratch."
+    },
+    {
+      "character": "Player",
+      "line": "You don't need to worry about that."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Not just any magician can enter - only the most powerful and most feared. Before you can use the power of this arena, you must prove yourself against me."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Player",
+      "line": "No I don't."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Your loss."
+    },
+    {
+      "character": "Player",
+      "line": "What's the point of that?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "We learn how to use our magic to its fullest and how to channel the forces of the cosmos into our world..."
+    },
+    {
+      "character": "Kolodion",
+      "line": "But mainly, I just like blasting people into dust."
+    },
+    {
+      "character": "Player",
+      "line": "That's barbaric!"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Nope, it's magic. But I know what you mean. So do you want to join us?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Well done, young adventurer; you truly are a worthy battle mage."
+    },
+    {
+      "character": "Player",
+      "line": "What now?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Step into the magic pool. It will take you to a chamber. There, you must decide which god you will represent in the arena."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, Kolodion."
+    },
+    {
+      "character": "Kolodion",
+      "line": "That's what I'm here for."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Kolodion."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Hello, young mage. You're a tough one."
+    },
+    {
+      "character": "Player",
+      "line": "Hello my friend, Kolodion sent me down."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Sssshhh... the gods are talking. I can hear their whispers."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Can you hear them adventurer, they're calling you."
+    },
+    {
+      "character": "Player",
+      "line": "Erm... ok!"
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Go chant at the statue of the god you most wish to represent in this world, you will be rewarded."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Once you are done, come back to me. I shall supply you with a mage staff ready for battle."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Hello adventurer, have you made your choice?"
+    },
+    {
+      "character": "Player",
+      "line": "I have."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Good, good, I hope you have chosen well. Have you been rewarded with a cape from your chosen god?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I don't have it with me."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Once you have your cape come back to me, and I shall supply you with a mage staff ready for battle."
+    },
+    {
+      "character": "Chamber guardian",
+      "line": "Good, good, I hope you have chosen well. I will now present you with a magic staff. This, along with the cape awarded to you by your chosen god, are all the weapons and armour you will need here."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Hey there, how are you? Are you enjoying the bloodshed?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I've had enough for now."
+    },
+    {
+      "character": "Kolodion",
+      "line": "A shame. You're a good battle mage. I hope to see you soon."
+    },
+    {
+      "character": "Player",
+      "line": "How can I use my new spells outside of the arena?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Experience, my friend, experience. Once you've used the spell enough times in the arena, you'll be able to use them in the rest of Gielinor."
+    },
+    {
+      "character": "Player",
+      "line": "Good stuff."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Not so good for the citizens; they won't stand a chance."
+    },
+    {
+      "character": "Player",
+      "line": "How am I doing so far?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to train with the strike spell inside the arena before you can use it outside."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have completed over half of the training needed to use the strike spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You are almost ready to use the strike spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're experienced enough to use the strike spell anywhere."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to train with the claw spell inside the arena before you can use it outside."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have completed over half of the training needed to use the claw spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You are almost ready to use the claw spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're experienced enough to use the claw spell anywhere."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to train with the flame spell inside the arena before you can use it outside."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have completed over half of the training needed to use the flame spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You are almost ready to use the flame spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're experienced enough to use the flame spell anywhere."
+    },
+    {
+      "character": "Player",
+      "line": "Are there any more challenges available?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to learn how to cast all god spells outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I've made a note of the spells you still need to learn in your journal."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have indeed shown potential,."
+    },
+    {
+      "character": "Kolodion",
+      "line": "However, a wizard of your level wouldn't stand a chance."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I am one of the most powerful mages in existence. But even my power has limitations. There are some beings however that have power exceeding even my own."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Chamber guardian",
+      "description": "Middle-aged male, hushed British accent, reverent and mystical tone. A pale guardian who speaks in whispers about the gods, devoted to his sacred duty in the underground chamber."
+    },
+    {
+      "name": "Kolodion",
+      "description": "Male, commanding British accent, arrogant and theatrical tone. A powerful shape-shifting battle mage who takes great pride in running his arena, dismissive of lesser wizards but respectful of proven skill."
+    }
+  ]
+}

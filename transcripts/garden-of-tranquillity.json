@@ -1,0 +1,1912 @@
+{
+  "branch": "quest/garden-of-tranquillity",
+  "quest_name": "Garden of Tranquillity",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "What's going on here? I see a lot of farming patches with nothing growing in them."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "No, one has just had them installed. One has had the most marvellous idea to bring renewed happiness to one's own dearest husband."
+    },
+    {
+      "character": "Player",
+      "line": "One? I'm not sure I understand you-"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh dear - the common classes, oh how they fill one with intolerable levels of exasperation, I swear to be most true."
+    },
+    {
+      "character": "Player",
+      "line": "Ri-ight... if you say so, my lady. I'll be off then, if you don't mind-"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, be off with you, before I call the guards."
+    },
+    {
+      "character": "Player",
+      "line": "No problem, sorry to have bothered you."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Peasant - WAIT!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you speaking to me?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Who else would I be speaking to, you funny little fool? Of course you."
+    },
+    {
+      "character": "Player",
+      "line": "Well for a moment there I thought there was a dog around here somewhere..."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh yes, sarcasm - how amusing. No, no, peasant - I have a question to ask of you, and you are required to answer."
+    },
+    {
+      "character": "Player",
+      "line": "Well, seeing as you put it so nicely..."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Do you know of anyone who might have some degree of horticultural experience?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Well, hurry off then. You are of no use to me."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh, marvellous! Peasant, I hereby order you to assist me with a little project I have planned."
+    },
+    {
+      "character": "Player",
+      "line": "You'll have to ask me nicely first."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh, what I have to deal with these days - to think this is what being a Queen has become. Very well then: would you... good sir help me with a little project of mine?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh dear, what a pathetic creature you are. One would give you a list, but you do not appear to have room enough to carry it."
+    },
+    {
+      "character": "Player",
+      "line": "I would be happy to help someone who is so in touch with the people."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Ah, more sarcasm - wonderful. Well, it is nice to have a master of the fine art of gardening to assist me; in the absence of any such person, I gladly accept your service."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure if that's a compliment or not. Anyway, what would you like me to do, and what do I get out of it?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "To answer your first question, you have noticed the new farming patches that we have had installed around us. We wish to grow many varied and exotic plants in them, to bring happiness back to my husband."
+    },
+    {
+      "character": "Player",
+      "line": "King Roald?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "The very same, and that's 'His Most Royal Majesty' to you. Now we come to the plants that one wishes you to grow in these patches. I would tell you all at once, but I fear that your small mind would not cope."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'm sure. So tell me Queeny, how do I know which plants I am to get for you?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "I have given you a list of the items that I need in each patch. One is sure that you will know how to use the list with each patch to find out what needs to go in each one. There is one more thing, though."
+    },
+    {
+      "character": "Player",
+      "line": "One listens with bated breath..."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Obtaining the seeds may prove difficult if you go about it by hacking and slashing everything that moves. No, to gather these items you will need to employ a finer tactic; the art of persuasion."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "You must go at once and converse with the wise old man who is said to dwell in Draynor Village; he may guide you in mastering this delicate and sophisticated ability."
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather jump off the docks at Port Sarim."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Well don't allow one to delay you - it is probably the most constructive thing you could do with your life, to be honest."
+    },
+    {
+      "character": "Player",
+      "line": "Can I have another list?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Take better care with this one."
+    },
+    {
+      "character": "Player",
+      "line": "How am I supposed to move statues all the way here?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "You use the dormant object that lies between your ears, that's how. A statue may be far too heavy to carry, but simplicity itself to push."
+    },
+    {
+      "character": "Player",
+      "line": "Push?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes peasant, push. One would give you something to help with this task, but you do not appear to have room enough to carry it."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes peasant, push. Here - take this trolley. You can use it to push the statues here."
+    },
+    {
+      "character": "Player",
+      "line": "What I am supposed to be getting again?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Haven't you got that list I gave you?"
+    },
+    {
+      "character": "Player",
+      "line": "Err... no... I seem to have lost it."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh dear, what a pathetic creature you are. One would give you another list, but you do not appear to have room enough to carry it."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh dear, what a pathetic creature you are. Here, have another one."
+    },
+    {
+      "character": "Player",
+      "line": "Will these patches need much in the way of watering?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Well, you are supposed to be the gardener here, but I would say not. One had the soil imported from an extremely fertile area at great cost - watering should not be necessary one would have thought."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Very good peasant, thank you for showing one that, but one has given you a job to do. Do it."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "I want you to place a statue of Saradomin there."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "I want you to place a statue of a Misthalin king there."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "I want you to grow yellow orchids there."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "I want you to grow pink orchids there."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Greetings,."
+    },
+    {
+      "character": "Player",
+      "line": "Queen Ellamaria has sent me to seek your guidance."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Ellamaria? Well, if you're in her service my guidance is this: do the fastest run that you can off the shortest pier you can find."
+    },
+    {
+      "character": "Player",
+      "line": "You know Queen Ellamaria?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Oh yes, we go way back, long before she married that fool the King of Varrock. She wasn't always royal you know."
+    },
+    {
+      "character": "Player",
+      "line": "Really?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "No, in her youth she was a barmaid at the Blue Moon inn. All that fancy talk, that's just for show. No, the Ellamaria I knew was as common as muck, until she lucked onto good King Roald."
+    },
+    {
+      "character": "Player",
+      "line": "I'll certainly look at her in a different light when I return to Varrock."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "So what sort of guidance has Little-Miss-Hoity-Toity sent you to seek?"
+    },
+    {
+      "character": "Player",
+      "line": "I am supposed to gain some knowledge of diplomacy and persuasion from you."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "That is an area that - luckily for you, young - I have studied. Have you heard of the diplomat known as Charos?"
+    },
+    {
+      "character": "Player",
+      "line": "Charos? I must say the name rings a bell..."
+    },
+    {
+      "character": "Player",
+      "line": "Charos..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I remember! Once, during my travels to Morytania, I came upon an item of magical jewellery called the Ring of Charos."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "You have found the Ring of Charos?!? Tell me - do you still have it in your possession?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm wearing it at the moment. Is it important, then?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it in my bag. Is it important, then?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it stored somewhere. Is it important, then?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Important?!? This ring possesses hidden power beyond belief! Go and get it, and I will tell you its secrets."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm afraid that I lost it at some point."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Lost the Ring of Charos?!? That is indeed a disastrous turn of events. This ring that you have so casually thrown away possesses hidden power beyond belief."
+    },
+    {
+      "character": "Player",
+      "line": "How can I re-obtain the Ring of Charos?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "If everything I have heard about Charos's ring is true, it will not stay lost forever. Where did you originally find it?"
+    },
+    {
+      "character": "Player",
+      "line": "I... um... 'borrowed' it from a rather shady character called Fenkenstrain."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "In order to find the ring it may be wise to return to Fenkenstrain - he may have found a way to regain it. If you manage to reobtain the ring, return to me and I will reveal its secrets to you."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Charos rose to power under the rule of Lord Drakan of Morytania, his only living servant. The Vampyre Lord suffered the existence of Charos because of the talents that this sophisticated diplomat had to offer."
+    },
+    {
+      "character": "Player",
+      "line": "The art of persuasion?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Indeed. Charos had many uses - spy, assassin, negotiator - because he could convince anyone to do his wishes. These talents were in some part Charos's own, but greatly enhanced by the ring that he fashioned."
+    },
+    {
+      "character": "Player",
+      "line": "The Ring of Charos."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Exactly. One who wears the ring must possess some innate ability of their own, which the ring enhances so that the wearer can convince all but the most strong- minded to do their bidding."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to Charos? And why did Fenkenstrain have the ring?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Charos had a castle built on the northern coast of Morytania, where he dwelt for many years in service to Drakan. None really know what became of him, but some say that he became too certain of his abilities,"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "and turned them on his master. This would have been his ultimate downfall, for the ring's power would have had little or no effect upon Drakan."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Fenkenstrain probably found the ring many years later, buried somewhere within the depths of Charos's castle."
+    },
+    {
+      "character": "Player",
+      "line": "So what you are telling me is that nobody really knows what happened to Charos? That he could still be alive? And if he is still alive..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "...he would naturally come looking for the ring that is his by right. But I don't believe that you should worry about that - it has been many years since his disappearance, and the likelyhood is that he is dead."
+    },
+    {
+      "character": "Player",
+      "line": "Still - it doesn't inspire me with much confidence."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I could activate the power within this ring for you, but for me to do that I must know that you will use it wisely. To do that I must ask you a few questions, to see how good a diplomat you can be."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, go ahead..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I've answered your questions - what's the verdict?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Mmmm, it was close but.."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "... but I'm afraid that you don't seem to have the aptitude. To you, the Ring of Charos is but a worthless trinket."
+    },
+    {
+      "character": "Player",
+      "line": "I can't believe that - can I have another go?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well, if you think it will do any good... here goes then-"
+    },
+    {
+      "character": "Player",
+      "line": "Oh well, that's that I suppose."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Now look, don't start making me feel sorry for you..."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm just a dull-headed moron, you're right about that."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I didn't say that - look, if you want another try, come back and speak to me again."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "... Congratulations! You have clearly got what it takes to use the Ring of Charos. Wait a moment,..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "The Ring of Charos has now been opened to you,. You may use its power to charm the weak-minded, but it will only work whilst you are wearing it."
+    },
+    {
+      "character": "Player",
+      "line": "I think you wanted to give me a thousand coins..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Ha ha! I thought you might try that!! But remember, - the power of the Ring of Charos will not work with everybody, especially not a wise old bird like me!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for your help, wise old man."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Funny, I thought you would take the chance to test the power of the ring on me! No matter - leave me be now, I have important surveillance duties to carry out."
+    },
+    {
+      "character": "Player",
+      "line": "I have returned to you with the Ring of Charos. Now will you reveal its 'hidden power beyond belief'?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I don't see it on you - do you have it in your bag?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, no - I've stored it somewhere."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well go and get it then, and I will tell you its secrets."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "The Ring of Charos? What's that?"
+    },
+    {
+      "character": "Player",
+      "line": "I thought you told me to-"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Just joking, - good good, I will now tell you what this ring is capable of."
+    },
+    {
+      "character": "Player",
+      "line": "Can I retake the diplomacy test?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Do you have the ring with you?"
+    },
+    {
+      "character": "Player",
+      "line": "I have it stored in the bank. Should I go and get it then?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, yes get it and return back to me."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any delphinium seeds to spare?"
+    },
+    {
+      "character": "Elstan",
+      "line": "I do have delphinium seeds, yes - but to spare, I'm not so sure. You don't look like that much of a gardener to me."
+    },
+    {
+      "character": "Player",
+      "line": "I'll have you know I'm a pretty good farmer, actually!"
+    },
+    {
+      "character": "Player",
+      "line": "That is why I have come to an expert for advice."
+    },
+    {
+      "character": "Elstan",
+      "line": "Ah, now that I like the sound of. So people are saying I'm an expert, then?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I just said that to get you to give me some seeds."
+    },
+    {
+      "character": "Elstan",
+      "line": "Really?!? Well, give me any more of that kind of talk and I'll give you something to remember me by, and I'll tell you now that it ain't seeds!!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, carry on - milk it for all it's worth."
+    },
+    {
+      "character": "Elstan",
+      "line": "What?!? Any more of that talk and it'll be curtains for you, mate!"
+    },
+    {
+      "character": "Player",
+      "line": "Not just AN expert, Elstan - they say you are THE expert."
+    },
+    {
+      "character": "Elstan",
+      "line": "I can't say that I'm surprised, really - I do seem to have the golden touch with the old gardening lark. Only just the other day I managed to grow a - I'm not boring you, am I?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, please stop right now."
+    },
+    {
+      "character": "Elstan",
+      "line": "As a matter of fact I will! I'm not wasting my time on the likes of you!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh no, I love listening to gardening stories..."
+    },
+    {
+      "character": "Elstan",
+      "line": "You do! That's the first person I've ever met has said that! Well, don't you worry mate, I've got millions of 'em!"
+    },
+    {
+      "character": "Player",
+      "line": "Somebody kill me now."
+    },
+    {
+      "character": "Player",
+      "line": "Millions? Ah, just what I wanted to hear..."
+    },
+    {
+      "character": "Elstan",
+      "line": "Ah, but there's plenty of time for stories. You wanted delphinium seeds, did you say?"
+    },
+    {
+      "character": "Player",
+      "line": "Er.. what... er..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, delphinium seeds!"
+    },
+    {
+      "character": "Elstan",
+      "line": "As I'm in an especially good mood I think I will let you have some. But you have to do something for me first."
+    },
+    {
+      "character": "Player",
+      "line": "And what's that?"
+    },
+    {
+      "character": "Elstan",
+      "line": "I need some marigolds to give to Lyra, one of my fellow gardeners over in Morytania. She's a bit mysterious, and has some - well - sinister ways to be sure, but she's just my type."
+    },
+    {
+      "character": "Player",
+      "line": "So, a bunch of marigolds then?"
+    },
+    {
+      "character": "Elstan",
+      "line": "Yes, and while I'm at it I can see how good a gardener you are. Grow those marigolds in this flower patch here from seed to flower, pick them and give them to me, and I'll give you some delphinium seeds."
+    },
+    {
+      "character": "Player",
+      "line": "I have those marigolds for you."
+    },
+    {
+      "character": "Elstan",
+      "line": "Ah, fantastic - Lyra will surely be mine now! Here you go mate, here's those delphinium seeds you were after. Yes, here you go – I hope they grow for you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll grow you some marigolds."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't have time to do that."
+    },
+    {
+      "character": "Elstan",
+      "line": "Have it your own way, mate. No seeds for you then."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure you don't just want to give me the seeds now?"
+    },
+    {
+      "character": "Elstan",
+      "line": "Strange - there's this funny buzzing in my head that says that I should - but I don't think I will. I need those marigolds for Lyra."
+    },
+    {
+      "character": "Elstan",
+      "line": "Hang on, I didn't see you growing any marigolds! I want them grown here, in this patch."
+    },
+    {
+      "character": "Player",
+      "line": "But they'll be no different to any other marigolds!"
+    },
+    {
+      "character": "Elstan",
+      "line": "Do you want those seeds or not?"
+    },
+    {
+      "character": "Player",
+      "line": "If you're going to be like that, it'll take more than flowers to make Lyra want to date you."
+    },
+    {
+      "character": "Elstan",
+      "line": "Ah, fantastic - Lyra will surely be mine now! Here you go mate, here's those delphinium seeds you were after."
+    },
+    {
+      "character": "Elstan",
+      "line": "Yes, here you go - I hope they grow for you."
+    },
+    {
+      "character": "Player",
+      "line": "What did I agree to do for delphinium seeds?"
+    },
+    {
+      "character": "Elstan",
+      "line": "I need some marigolds so that I can woo Lyra. Grow them from seed to flower in this flower patch here, pick them and give them to me, and I'll give you some delphinium seeds."
+    },
+    {
+      "character": "Elstan",
+      "line": "I can't believe you're asking me to do that! I asked you to grow some marigolds for me, not for me to look after them for you! No, I won't look after them!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have some more delphinium seeds?"
+    },
+    {
+      "character": "Elstan",
+      "line": "I would give you some, but you don't appear to have room to carry them."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any orchid seeds to spare?"
+    },
+    {
+      "character": "Lyra",
+      "line": "Please, do not bother me - I have problems to attend to."
+    },
+    {
+      "character": "Player",
+      "line": "Oh sorry, I didn't mean to take up your valuable time."
+    },
+    {
+      "character": "Player",
+      "line": "If you tell me your problems, I may be able to help you."
+    },
+    {
+      "character": "Lyra",
+      "line": "As you ask so nicely I will relate my problems to you, but I very much doubt that you may help me at all."
+    },
+    {
+      "character": "Player",
+      "line": "Try me."
+    },
+    {
+      "character": "Lyra",
+      "line": "You must think it strange that a girl such as myself would choose to ply her trade in a place such as this, this darkest of lands."
+    },
+    {
+      "character": "Player",
+      "line": "No, not really - you fit in here a treat."
+    },
+    {
+      "character": "Lyra",
+      "line": "Then begone simple fool and halt your churlish tongue. There are things about me that would leave you with nightmares for the rest of your life."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I was wondering about that."
+    },
+    {
+      "character": "Lyra",
+      "line": "My mother, Alice, tends to our farming shop in yonder farmhouse, while I tend to this small allotment. Passing trade has quite literally died off in recent years, and with it our income."
+    },
+    {
+      "character": "Player",
+      "line": "I can only say one thing to you - move."
+    },
+    {
+      "character": "Lyra",
+      "line": "And leave behind all that we possess?!? Never!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Times must be very hard for you."
+    },
+    {
+      "character": "Lyra",
+      "line": "It is but the smallest of our worries. We get by, we survive, on the miserable harvests that I grow here. The price of our survival is what pains me, as it is a price I have paid with the souls of others."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, it all makes sense now - you're a psychopath."
+    },
+    {
+      "character": "Lyra",
+      "line": "If your time is so pressing then leave me be and go about your business!"
+    },
+    {
+      "character": "Player",
+      "line": "And what is the nature of this fee that you pay?"
+    },
+    {
+      "character": "Lyra",
+      "line": "Mother and I must pay a tithe of blood to the vampyres. Father would have protected us, but he is no longer with us, although his presence still walks among us in the fields. We pay with the blood of others."
+    },
+    {
+      "character": "Player",
+      "line": "Er, can I withdraw my offer of help now?"
+    },
+    {
+      "character": "Player",
+      "line": "If not yours, then whose blood are you offering?"
+    },
+    {
+      "character": "Lyra",
+      "line": "Sometimes I travel to market fairs in distant lands, and I use my feminine arts to lure young farmers back to this land; then the vampyres come for them and I see them no more."
+    },
+    {
+      "character": "Player",
+      "line": "Something tells me that you actually enjoy it, really."
+    },
+    {
+      "character": "Lyra",
+      "line": "I would not talk so if I were you - I know a secret call that will bring the vampyres here right now, and then you may live only long enough to feel regret for your impertinence."
+    },
+    {
+      "character": "Player",
+      "line": "How can you deal with so much guilt?"
+    },
+    {
+      "character": "Lyra",
+      "line": "Please - ask me no more. You said that you were looking for some orchid seeds? I do have some as a matter of fact, and you may as well have them because they do not grow well in this grim land."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, can I have them then..."
+    },
+    {
+      "character": "Lyra",
+      "line": "You must pass a test first. These are no ordinary flowers, and no ordinary farmer can grow them. You must grow onions here in one of these patches, and when they are fully grown I will give you the seeds."
+    },
+    {
+      "character": "Player",
+      "line": "That's a deal – I'll grow a patch of onions for you."
+    },
+    {
+      "character": "Lyra",
+      "line": "Speak to me when they are fully grown. You need not pick them for me, I will be able to assess your skills by simply watching you."
+    },
+    {
+      "character": "Player",
+      "line": "I think not – I've loitered too long in this land."
+    },
+    {
+      "character": "Lyra",
+      "line": "Yes, I agree - far too long."
+    },
+    {
+      "character": "Player",
+      "line": "Oh for Saradomin's sake, just give me the seeds!"
+    },
+    {
+      "character": "Lyra",
+      "line": "This feeling in my head - it is so strange - and it is a feeling I have felt before, although I cannot explain it. If you are trying to use some unnatural power over me, you have failed."
+    },
+    {
+      "character": "Player",
+      "line": "What did you ask me to do?"
+    },
+    {
+      "character": "Lyra",
+      "line": "I need you to grow some onions in one of these vegetable patches, from seed until they are fully grown - then I will give you some orchid seeds."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I've grown those onions like you asked."
+    },
+    {
+      "character": "Lyra",
+      "line": "Yes, you have demonstrated that you have some moderate skills as a farmer, but I fear that you would not have the space to carry them."
+    },
+    {
+      "character": "Lyra",
+      "line": "Yes, you have demonstrated that you have some moderate skills as a farmer. Take these seeds, and do with them what you will."
+    },
+    {
+      "character": "Lyra",
+      "line": "I can't believe you're asking me to do that! I asked you to grow some onions for me, not for me to look after them for you! No, I won't look after them!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have some more orchid seeds?"
+    },
+    {
+      "character": "Lyra",
+      "line": "I would give you some orchid seeds, but I fear that you would not have the space to carry them."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any snowdrop seeds to spare?"
+    },
+    {
+      "character": "Kragen",
+      "line": "No I don't, as it happens. Sorry."
+    },
+    {
+      "character": "Player",
+      "line": "But I was told that you did!"
+    },
+    {
+      "character": "Kragen",
+      "line": "Well, you were told wrong then!"
+    },
+    {
+      "character": "Kragen",
+      "line": "Goodbye!!"
+    },
+    {
+      "character": "Player",
+      "line": "You seem to be a little irritable, my friend."
+    },
+    {
+      "character": "Kragen",
+      "line": "Oh, you think so?!? And what concern is it of yours?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not concerned, I just want you to give me some snowdrop seeds."
+    },
+    {
+      "character": "Kragen",
+      "line": "Is that right?!? Well, I do actually have some snowdrop seeds, but you would be the last person I would give them to."
+    },
+    {
+      "character": "Player",
+      "line": "I don't like to see a fellow human being so upset."
+    },
+    {
+      "character": "Kragen",
+      "line": "I must say, you don't often meet people who show concern the way you have done."
+    },
+    {
+      "character": "Player",
+      "line": "I can't take it anymore - just give me the seeds."
+    },
+    {
+      "character": "Kragen",
+      "line": "And to think I listened to you! I was right after all - there is no kindness between human beings anymore."
+    },
+    {
+      "character": "Player",
+      "line": "So what ails you, my friend?"
+    },
+    {
+      "character": "Kragen",
+      "line": "All these people, asking me to look after their crops! And no-one ever asking me how I feel, or if there's something they can do for me!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh stop whining, it's not like you do it for free."
+    },
+    {
+      "character": "Player",
+      "line": "Well, is there anything I can do for you?"
+    },
+    {
+      "character": "Kragen",
+      "line": "Oh, that's very kind of you! And there I was, thinking of giving it all up and heading off across the seas to find my fortune!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't let me stop you, there are plenty of ships missing cabin boys."
+    },
+    {
+      "character": "Kragen",
+      "line": "If you carry on speaking to me like that I might just put this spade to good use, and I'm not talking about digging!"
+    },
+    {
+      "character": "Player",
+      "line": "So what can I do for you?"
+    },
+    {
+      "character": "Kragen",
+      "line": "I'd like just for once for somebody to grow something for me. Just something simple; some vegetables would be nice."
+    },
+    {
+      "character": "Player",
+      "line": "How about some potatoes?"
+    },
+    {
+      "character": "Kragen",
+      "line": "Nah, there's a whole field of them over to the west. I don't have any particular use for onions, so how about cabbages, then?"
+    },
+    {
+      "character": "Player",
+      "line": "Cabbages? Sounds good to me. Where do you want me to grow them?"
+    },
+    {
+      "character": "Kragen",
+      "line": "Oh, in one of these allotments here. Plant them from seed, and when they're ready for harvesting let me know, I'll give you your seeds."
+    },
+    {
+      "character": "Player",
+      "line": "That's a deal - I'll let you know when your cabbages are ready."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not wasting my time growing cabbages."
+    },
+    {
+      "character": "Kragen",
+      "line": "And I'm not wasting my seeds on an upstart like you!"
+    },
+    {
+      "character": "Player",
+      "line": "Aarrrrrghhhh! I hate cabbages!!!! Give me the seeds!!!!!"
+    },
+    {
+      "character": "Kragen",
+      "line": "Give... you... the..."
+    },
+    {
+      "character": "Kragen",
+      "line": "... yes I should..."
+    },
+    {
+      "character": "Kragen",
+      "line": "... no I won't..."
+    },
+    {
+      "character": "Kragen",
+      "line": "Not after speaking to me like that you upstart!!! Is it a deal or not?!?"
+    },
+    {
+      "character": "Kragen",
+      "line": "You said that you would grow me some cabbages in one of these allotments. When they're ready for harvest come and talk to me, and I'll give you those snowdrop seeds that you're after."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I've grown those cabbages like you asked."
+    },
+    {
+      "character": "Kragen",
+      "line": "Yes, I saw - what fine farming prowess! Nobody has ever done anything like that for me before; here you go, these are the seeds you were after I believe."
+    },
+    {
+      "character": "Kragen",
+      "line": "I would give you some, but you don't appear to have room to carry them."
+    },
+    {
+      "character": "Kragen",
+      "line": "Yes, here you go - I hope they grow for you."
+    },
+    {
+      "character": "Kragen",
+      "line": "I can't believe you're asking me to do that! I asked you to grow some cabbages for me, not for me to look after them for you! No, I won't look after them!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have some more snowdrop seeds?"
+    },
+    {
+      "character": "Bernald",
+      "line": "Do you know anything about grapevine diseases?"
+    },
+    {
+      "character": "Player",
+      "line": "I might - what's the problem?"
+    },
+    {
+      "character": "Bernald",
+      "line": "You see those grapevines over there?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. They don't look too happy at the moment."
+    },
+    {
+      "character": "Bernald",
+      "line": "They've come down with some strange disease that I've never encountered before. I've tried everything with them, but nothing seems to work. If it carries on like this I will lose all this year's crops."
+    },
+    {
+      "character": "Player",
+      "line": "I could probably help you with that, but I'd need something in return."
+    },
+    {
+      "character": "Bernald",
+      "line": "Anything, you just need to ask!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'd like a supply of Burthorpe Vine seeds."
+    },
+    {
+      "character": "Bernald",
+      "line": "I'm afraid I can't do that."
+    },
+    {
+      "character": "Player",
+      "line": "I thought you said anything!"
+    },
+    {
+      "character": "Bernald",
+      "line": "I'm afraid that is the one thing I cannot give you. Burthorpe Vine has been bred over many years and many past generations of my family. I could never give away something so special."
+    },
+    {
+      "character": "Player",
+      "line": "But it is the only way that these vines will be cured."
+    },
+    {
+      "character": "Bernald",
+      "line": "Hmm, you may be right. If I lose these crops what use are more seeds to me, when I have gone out of business? Very well then, this is the deal - cure my vines and I will give you some Burthorpe Vine seeds."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, it seems like a lot of hard work for nothing."
+    },
+    {
+      "character": "Bernald",
+      "line": "I wouldn't call my livelihood 'nothing' if I were you. Very well, I shall find someone else to assist me."
+    },
+    {
+      "character": "Bernald",
+      "line": "Plant cure not doing the trick, eh?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand - it's worked with everything else."
+    },
+    {
+      "character": "Bernald",
+      "line": "That grapevine disease must be much stronger than the usual. You'll need something a bit more potent to cut out that infection."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know of any stronger cures?"
+    },
+    {
+      "character": "Bernald",
+      "line": "No, I don't - but I know of a man who might. Not far from here there's a druid gardener who goes by the name of Alain. He's an expert on things like this, so they tell me."
+    },
+    {
+      "character": "Player",
+      "line": "Why didn't you just go and ask him yourself?"
+    },
+    {
+      "character": "Bernald",
+      "line": "These vines are very precious indeed. I could not hazard the risk that someone would steal my grapes while I was away - they may be diseased, but they still contain Burthorpe Vine seeds."
+    },
+    {
+      "character": "Player",
+      "line": "I need to ask you about strong plant cures."
+    },
+    {
+      "character": "Alain",
+      "line": "Well, you have come to the right person, then - I researched exotic plant diseases as part of my druidic training. What is the affliction that you need to cure?"
+    },
+    {
+      "character": "Player",
+      "line": "Bernald up in Burthorpe has got some seriously diseased grapevines. I tried plant cure on them, but it didn't seem to have any positive effect."
+    },
+    {
+      "character": "Alain",
+      "line": "Ah, so is this the famous Burthorpe Vine?"
+    },
+    {
+      "character": "Player",
+      "line": "The very one."
+    },
+    {
+      "character": "Alain",
+      "line": "I'm afraid that my researches did not extend to Burthorpe Vine. Bernald and his ancestors have always closely guarded their heritage, that vine. In fact, I'm surprised that he has involved you."
+    },
+    {
+      "character": "Player",
+      "line": "Er, I did have some... assistance there."
+    },
+    {
+      "character": "Alain",
+      "line": "I see. Well, if it involves some unnatural power I would rather not know. I prefer the use of power that can be brought forth from the plants around us."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure there's nothing you can suggest?"
+    },
+    {
+      "character": "Alain",
+      "line": "Well..."
+    },
+    {
+      "character": "Alain",
+      "line": "There is one thing you could try. One of the most potent cures I have discovered involves using the natural power held within a very special mineral, but it is a very closely guarded secret."
+    },
+    {
+      "character": "Player",
+      "line": "Do you mean the rune essence?"
+    },
+    {
+      "character": "Alain",
+      "line": "You know of that?!? Then I can do no further harm here. You can make a potent plant cure by mixing some crumbled rune essence into a normal plant cure. This may possibly cure Bernald's vines."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you Alain, I will try it out immediately!"
+    },
+    {
+      "character": "Player",
+      "line": "You're hiding something from me."
+    },
+    {
+      "character": "Alain",
+      "line": "This is the power you are abusing!! I feel it now - it emanates from the ring you wear, a festering fountain of corruption that appalls my very soul!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry. I forgot that it only works on the weak- minded."
+    },
+    {
+      "character": "Alain",
+      "line": "You, are the one who must be weak- minded, if you consider using such a dreadful weapon. Beware - it may one day be your downfall."
+    },
+    {
+      "character": "Bernald",
+      "line": "Have you spoken to Alain yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. He has given me some knowledge so that I can make a more potent plant cure."
+    },
+    {
+      "character": "Bernald",
+      "line": "Let's hope that it does the job, then."
+    },
+    {
+      "character": "Bernald",
+      "line": "My vines are cured! You have worked a wonder here, ! Here, you can have those seeds like I promised."
+    },
+    {
+      "character": "Bernald",
+      "line": "I would give you some, but you don't appear to have room to carry them."
+    },
+    {
+      "character": "Bernald",
+      "line": "Yes, here you go - I hope they grow for you."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any more Burthorpe Vine seeds?"
+    },
+    {
+      "character": "Bernald",
+      "line": "What did you do with the ones I gave you?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm..."
+    },
+    {
+      "character": "Player",
+      "line": "How are your grapes coming along?"
+    },
+    {
+      "character": "Bernald",
+      "line": "Marvellously, thanks to your help, !"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know how I could grow a White Tree?"
+    },
+    {
+      "character": "Dantaera",
+      "line": "There are no more White Trees left in the world - they have all been chopped down, and their beauty has forever left this world."
+    },
+    {
+      "character": "Player",
+      "line": "Then my quest is over - I cannot grow a White Tree."
+    },
+    {
+      "character": "Dantaera",
+      "line": "Even if there were a White Tree somewhere I would not tell you, for as soon as it would grow then it would be slaughtered in its prime. Man's hunger for fire is greater than his admiration of beauty."
+    },
+    {
+      "character": "Player",
+      "line": "I think that there is something that you are not telling me."
+    },
+    {
+      "character": "Dantaera",
+      "line": "Am I so transparent? You have seen through me; there is something I would rather not tell you."
+    },
+    {
+      "character": "Player",
+      "line": "You need to chill out and stop taking yourself so seriously."
+    },
+    {
+      "character": "Dantaera",
+      "line": "Leave me in peace then, if you are so unable to understand my grief."
+    },
+    {
+      "character": "Player",
+      "line": "A secret is a dreadful burden to have to keep to yourself."
+    },
+    {
+      "character": "Dantaera",
+      "line": "It is not hard to keep this secret - to give it away would cause me great sorrow."
+    },
+    {
+      "character": "Player",
+      "line": "I don't see how. Tell me your secret, and I will keep it as well as you have done."
+    },
+    {
+      "character": "Dantaera",
+      "line": "Very well - I feel deep trust in you for some reason. It is the White Tree, last survivor of a race of Trees that have disappeared from our landscape. Once they covered the land; now there is only one."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to them?"
+    },
+    {
+      "character": "Dantaera",
+      "line": "Man desired the wood of the White Tree, because of its wood of pure white. Need I tell you more?"
+    },
+    {
+      "character": "Player",
+      "line": "I can fill in the rest. So where is the remaining White Tree?"
+    },
+    {
+      "character": "Dantaera",
+      "line": "She stands atop Ice Mountain, alone and sorrowful; and, I fear, that she is dying."
+    },
+    {
+      "character": "Player",
+      "line": "If I took a cutting from... her... then I could grow another one."
+    },
+    {
+      "character": "Dantaera",
+      "line": "Yes, but she only has life enough to produce one shoot. Cut this shoot, and she will die, last of her kind gone forever. If you failed to grow this shoot, there would be no more White Trees."
+    },
+    {
+      "character": "Player",
+      "line": "You should get out a bit more and quit worrying about trees."
+    },
+    {
+      "character": "Dantaera",
+      "line": "No, I am afraid I cannot do that. She is the last White Tree, and I am the last to care about her. I will not let her pass away alone and unloved."
+    },
+    {
+      "character": "Player",
+      "line": "Unless you allow me to do this she will die anyway."
+    },
+    {
+      "character": "Dantaera",
+      "line": "I know, but I try not to think about that. You speak truly - she does not have much time left."
+    },
+    {
+      "character": "Player",
+      "line": "Then will you allow me to take this cutting?"
+    },
+    {
+      "character": "Dantaera",
+      "line": "Do so with my blessing. I wish you good fortune,. Go now, and save the beauty of the White Tree."
+    },
+    {
+      "character": "Player",
+      "line": "Here is the shoot that Dantaera spoke of. Everything she told me is true – this tree will die once I cut this shoot. Well, here goes..."
+    },
+    {
+      "character": "Player",
+      "line": "I have already cut the shoot from the White Tree. I should quickly grow a new tree in Queen Ellamaria's garden."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, luckily there is another shoot here that I can cut. Better not lose this one..."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost the cutting from the White Tree."
+    },
+    {
+      "character": "Dantaera",
+      "line": "I do not believe what I am hearing, after everything you said to me before!"
+    },
+    {
+      "character": "Player",
+      "line": "Er, yes I know... sorry..."
+    },
+    {
+      "character": "Dantaera",
+      "line": "Maybe - just maybe - there might be another shoot somewhere on the Tree that you can take as a cutting. Go and havea look, before she dies without offspring!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have some rosebush seeds, please?"
+    },
+    {
+      "character": "Brother Althric",
+      "line": "No, I think not. These bushes are my pride and joy, and I will not give them away so cheaply."
+    },
+    {
+      "character": "Player",
+      "line": "These are the most beautiful rosebushes I've ever seen."
+    },
+    {
+      "character": "Brother Althric",
+      "line": "Nice of you to say so, but I sense the use of some unnatural power underneath your fine words. You are concealing something of great evil, an evil that cannot touch someone of my purity."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... no, that's not true..."
+    },
+    {
+      "character": "Brother Althric",
+      "line": "Nonsense, you reek of this evil power! I suggest that you throw whatever dark talisman it is that you are using down the Edgeville well, and never think of it again! Either that or just simply destroy it!"
+    },
+    {
+      "character": "Player",
+      "line": "Fish in a well? There can't be anything down there except water!! Perhaps I should try some place where I might expect to find fish - a fishing spot maybe?"
+    },
+    {
+      "character": "Player",
+      "line": "Very nice rosebushes you have here."
+    },
+    {
+      "character": "Brother Althric",
+      "line": "Yes, it has taken me many long hours in this garden to bring them to this state of near-perfection."
+    },
+    {
+      "character": "Brother Althric",
+      "line": "Are you messing about with my rosebushes again?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... no... I was just admiring them."
+    },
+    {
+      "character": "Brother Althric",
+      "line": "Ah, I sense that you speak so without the use of the evil power you carried before. That is good. As you have taken the road back towards the light, you may take any seeds that you wish."
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "So what are you doing this weekend?"
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "This weekend?"
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "You haven't been here long I take it."
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "Do you know the life expectancy of a Falador guard?"
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "No..."
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "About thirty seconds, I reckon."
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "Thirty seconds???"
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "They didn't tell me that when I signed up!!!"
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "Any second now someone is going to try and kill us, for no apparent reason, completely unprovoked."
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "But why, Bob???"
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "What have we ever done to them?"
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "I don't know, Billy."
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "But I'm not wasting my final seconds worrying about it."
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "Uh-oh, someone's coming..."
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "Bob???"
+    },
+    {
+      "character": "Bob, another guard of Falador",
+      "line": "Steady, Billy - remember you are a guard of Falador."
+    },
+    {
+      "character": "Billy, a guard of Falador",
+      "line": "But..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm supposed to be getting a statue of a KING from Lumbridge. I'm no expert, but that looks like a QUEEN to me."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, very good peasant, you've got the seed; but it's delphiniums that one wishes, not seeds. Plant it in the delphinium patch, and let it grow."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, very good peasant, you've got the seed; but it's orchids that one wishes, not seeds. Plant it in the orchid patch, and let it grow."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, very good peasant, you've got the seed; but it's Burthorpe vine that one wishes, not seeds. Plant it in the Burthorpe vine patch, and let it grow."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, very good peasant, you've got the seed; but it's a rosebush that one wishes, not seeds. Plant it in the rosebush patch, and let it grow."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, very good peasant, you've got the seed; but it's snowdrops that one wishes, not seeds. Plant it in the snowdrop patch, and let it grow."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Hey, why are you digging that up? Leave it alone!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry, didn't mean to..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I think that's everything..."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "One finds that hard to believe. Out of my way, let me see for myself."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "One was right not to trust your word, common as it is. The garden is not yet complete."
+    },
+    {
+      "character": "Player",
+      "line": "Really? What haven't I finished yet?"
+    },
+    {
+      "character": "Ellamaria",
+      "line": "I see that the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "Also, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "Thirdly, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "Oh look, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "To add to that, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "And what a surprise, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "Oh you are doing so well, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "To add insult to injury, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "And finally, the finished growing."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "One suggest you learn a little patience. These plants should not take long to grow - these patches have been filled with extremely fertile soil that was very expensive to import."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "Oh yes, very nice, if a little yobbish. Rollie will be so pleased–"
+    },
+    {
+      "character": "Player",
+      "line": "Rollie?!?"
+    },
+    {
+      "character": "Ellamaria",
+      "line": "You will address my husband by his proper title!!!!! Speaking of whom, I think it is time that we brought him to see his new garden. And when one says we, one means you."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, you want me to go and get Roald – sorry... King Roald... and bring him here. Fair enough, wait here then, I'll be back in a mo."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "So are you going to get Rollie then?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't spoken to Roll... King Roald... yet."
+    },
+    {
+      "character": "Ellamaria",
+      "line": "Well hurry along peasant. This garden will be such a wonderful surprise!"
+    },
+    {
+      "character": "Player",
+      "line": "Greetings, your majesty."
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes, citizen. Do you need something?"
+    },
+    {
+      "character": "Player",
+      "line": "Would you like to follow me for a minute?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Follow you?!? I am the King! I am the followed, not the follower!!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, if you can't be bothered then neither can I."
+    },
+    {
+      "character": "King Roald",
+      "line": "Suit yourself."
+    },
+    {
+      "character": "Player",
+      "line": "No, you suit yourself."
+    },
+    {
+      "character": "King Roald",
+      "line": "You're quite argumentative for a peasant."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not the one who's arguing, you are."
+    },
+    {
+      "character": "King Roald",
+      "line": "Then why do you keep answering me back?"
+    },
+    {
+      "character": "Player",
+      "line": "No, you're answering me back."
+    },
+    {
+      "character": "Player",
+      "line": "Well, stop talking and I'll stop answering."
+    },
+    {
+      "character": "King Roald",
+      "line": "No, you stop talking."
+    },
+    {
+      "character": "Player",
+      "line": "I have stopped talking."
+    },
+    {
+      "character": "King Roald",
+      "line": "No you haven't, you're doing it now."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm just answering what you're saying."
+    },
+    {
+      "character": "King Roald",
+      "line": "Okay, so if I don't say anything, you won't answer me back."
+    },
+    {
+      "character": "Player",
+      "line": "Suits me."
+    },
+    {
+      "character": "King Roald",
+      "line": "Go on, then."
+    },
+    {
+      "character": "Player",
+      "line": "No, you first."
+    },
+    {
+      "character": "King Roald",
+      "line": "See, that's better."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, much better."
+    },
+    {
+      "character": "King Roald",
+      "line": "What were you saying about me following you somewhere?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't remember, it was such a long time ago."
+    },
+    {
+      "character": "King Roald",
+      "line": "Ah, that's a shame - I could have done with a breath of fresh air."
+    },
+    {
+      "character": "Player",
+      "line": "Oh well."
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes, never mind."
+    },
+    {
+      "character": "Player",
+      "line": "See you around."
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes, see you later."
+    },
+    {
+      "character": "King Roald",
+      "line": "I thought you were going."
+    },
+    {
+      "character": "Player",
+      "line": "I was until you spoke to me again."
+    },
+    {
+      "character": "King Roald",
+      "line": "I'm sorry, I'll stop speaking to you then."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, your majesty - please forgive me."
+    },
+    {
+      "character": "King Roald",
+      "line": "Forgiveness is something that cannot be earned so easily. And I'm certainly not following you off on some wild goose chase when I have important matters of state to attend to."
+    },
+    {
+      "character": "Player",
+      "line": "That's it - I've had it with royalty."
+    },
+    {
+      "character": "King Roald",
+      "line": "And I've had enough of peasantry! Get out of my castle!"
+    },
+    {
+      "character": "Player",
+      "line": "The Queen asked me to bring you."
+    },
+    {
+      "character": "King Roald",
+      "line": "Ellie?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Now that's a different matter. Lead on, peasant - let's see what my darling wife has been up to now."
+    },
+    {
+      "character": "King Roald",
+      "line": "You will have to excuse me then. I am very busy as I have a kingdom to run!"
+    },
+    {
+      "character": "King Roald",
+      "line": "This is murder on my hay fever you know..."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Ah, Rollie my love!"
+    },
+    {
+      "character": "King Roald",
+      "line": "What have you been up to now, pumpkin?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Behold your new garden!!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Have you been spending my money again?"
+    },
+    {
+      "character": "Player",
+      "line": "Here's some orchids from Morytania."
+    },
+    {
+      "character": "King Roald",
+      "line": "Orchids bring me out in a rash."
+    },
+    {
+      "character": "Player",
+      "line": "Vines from Burthorpe!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Oh great, let's hope they don't eat into the walls."
+    },
+    {
+      "character": "Player",
+      "line": "Snowdrops from Ardougne!"
+    },
+    {
+      "character": "King Roald",
+      "line": "What a boring colour."
+    },
+    {
+      "character": "Player",
+      "line": "The last surviving White Tree!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Should make a nice table and chairs."
+    },
+    {
+      "character": "Player",
+      "line": "Delphiniums from Falador!"
+    },
+    {
+      "character": "King Roald",
+      "line": "I hate delphiniums."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Rollie?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes pumpkin?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "One has gone to great pains to provide you with this beautiful garden!"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "YOU CAN SHOW ONE A LITTLE GRATITUDE!!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually I think I did most of-"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "SILENCE!!"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Well? Are you going to thank one, Rollie?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Pumpkin I-"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "SPEAK UP, I CAN'T HEAR YOU!!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Thank you very much my darling."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Much better. Now get back to the castle and rule our kingdom."
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes pumpkin."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Excuse my husband, he can be so rude sometimes."
+    },
+    {
+      "character": "Player",
+      "line": "Only sometimes?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Are you being rude again... ?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Yes, and that's all he deserves! Here you go, your help here has proved invaluable."
+    },
+    {
+      "character": "Player",
+      "line": "What's the supercompost potion for?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Oh, let one see peasant - perhaps it is a potion for making supercompost?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I didn't mean that-"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "You wish to know how to use it? Pour it on some normal compost and it will transform into supercompost. You can do this with a bucket of compost, although it is possibly wiser to use it on a full compost bin."
+    },
+    {
+      "character": "Player",
+      "line": "Can I use this garden for my own farming?"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "What, you want to dig up the plants that took one so long to grow? Don't be ridiculous, you silly little fool."
+    },
+    {
+      "character": "Player",
+      "line": "All right then, sorry I asked."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Impertinent peasant! Oh, if you promise to leave one alone then feel free to pick fruit from the White Tree. One is told that they are a great natural energy restorative."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Alain",
+      "description": "Middle-aged male, calm British accent, practical and reliable tone. A druid gardener who speaks with steady professionalism, knowledgeable about tree cultivation and resistant to flattery."
+    },
+    {
+      "name": "Bernald",
+      "description": "Middle-aged male, worried British accent, anxious and earnest tone. A vintner distressed about his dying grape vines, speaking with the urgency of someone whose livelihood depends on finding a cure."
+    },
+    {
+      "name": "Billy, a guard of Falador",
+      "description": "Adult male, gruff British accent, dutiful and formal tone. A Falador guard who takes his post seriously while engaging in friendly banter with his partner."
+    },
+    {
+      "name": "Bob, another guard of Falador",
+      "description": "Adult male, casual British accent, relaxed and chatty tone. A Falador guard who enjoys conversation while on duty, providing a friendly contrast to typical military stiffness."
+    },
+    {
+      "name": "Brother Althric",
+      "description": "Middle-aged male, gentle British accent, calm and reverent tone. A holy monk who tends the monastery garden with spiritual devotion, speaking with measured patience and quiet authority."
+    },
+    {
+      "name": "Dantaera",
+      "description": "Adult female, pleasant British accent, helpful and professional tone. A practical Catherby farmer who offers crop-watching services with friendly efficiency."
+    },
+    {
+      "name": "Ellamaria",
+      "description": "Adult female, sharp British accent, imperious and condescending tone. A queen of peasant origins who overcompensates with haughty superiority, quick-tempered and demanding of commoners."
+    },
+    {
+      "name": "Elstan",
+      "description": "Middle-aged male, warm British accent, friendly and knowledgeable tone. A Falador gardener with romantic inclinations, speaking with patient expertise about farming matters."
+    },
+    {
+      "name": "King Roald",
+      "description": "Middle-aged male, regal British accent, authoritative and straightforward tone. A stable monarch who speaks with educated formality, occasionally showing frustration but generally maintaining composure."
+    },
+    {
+      "name": "Kragen",
+      "description": "Middle-aged male, plain British accent, practical and businesslike tone. An Ardougne farmer focused on his trade, speaking with the no-nonsense manner of a working professional."
+    },
+    {
+      "name": "Lyra",
+      "description": "Adult female, sweet British accent, helpful but secretive tone. A farmer who appears friendly and nurturing on the surface while harboring darker secrets about her family's dealings."
+    },
+    {
+      "name": "Queen Ellamaria",
+      "description": "Adult female, sharp British accent, imperious and condescending tone. A queen of peasant origins who overcompensates with haughty superiority, quick-tempered and demanding of commoners."
+    },
+    {
+      "name": "Wise Old Man",
+      "description": "Elderly male, distinguished British accent, wise yet cunning tone. A legendary sage with a mischievous streak, speaking with the gravitas of experience and occasional dry humor."
+    }
+  ]
+}

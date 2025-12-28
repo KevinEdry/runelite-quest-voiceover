@@ -1,0 +1,808 @@
+{
+  "branch": "quest/the-ascent-of-arceuus",
+  "quest_name": "The Ascent of Arceuus",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "What happened here?"
+    },
+    {
+      "character": "Mori",
+      "line": "She's... she's dead... Thana..."
+    },
+    {
+      "character": "Player",
+      "line": "What can I do to help?"
+    },
+    {
+      "character": "Mori",
+      "line": "I... Thank you for the offer. You can't help though. She's gone."
+    },
+    {
+      "character": "Mori",
+      "line": "I... I don't know..."
+    },
+    {
+      "character": "Player",
+      "line": "Right. Let's start with what actually happened. Take a moment to collect yourself and then tell me everything."
+    },
+    {
+      "character": "Mori",
+      "line": "Okay... Thank you..."
+    },
+    {
+      "character": "Mori",
+      "line": "I'm Mori... I was going to the Library with my friend, Thana. Suddenly, I felt a strange power all through me and then... she... she..."
+    },
+    {
+      "character": "Mori",
+      "line": "...she just died!"
+    },
+    {
+      "character": "Player",
+      "line": "Just like that? Was she ill?"
+    },
+    {
+      "character": "Mori",
+      "line": "The people of Arceuus don't get ill. We're immortal. We have been for a thousand years, ever since the Ascent of Arceuus. This shouldn't happen... This can't happen..."
+    },
+    {
+      "character": "Player",
+      "line": "The Ascent of Arceuus?"
+    },
+    {
+      "character": "Mori",
+      "line": "Yes... A long time ago, our leader, Trobin Arceuus, used the Dark Altar to discover the secret of immortality. He came to us and let us share in this secret."
+    },
+    {
+      "character": "Mori",
+      "line": "The events of that day became known as the Ascent of Arceuus."
+    },
+    {
+      "character": "Mori",
+      "line": "But something's gone wrong... Thana is dead and I don't know why!"
+    },
+    {
+      "character": "Player",
+      "line": "We should let someone know about this."
+    },
+    {
+      "character": "Mori",
+      "line": "You... You're right. We should let the Kourend Council know. Could you help? I don't want to leave her."
+    },
+    {
+      "character": "Player",
+      "line": "Of course I'll help."
+    },
+    {
+      "character": "Mori",
+      "line": "Thank you... Could you head to Kourend Castle and let Councillor Andrews know what's happened? He's in charge of the council."
+    },
+    {
+      "character": "Player",
+      "line": "Will do. I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I have something else to do."
+    },
+    {
+      "character": "Mori",
+      "line": "Oh... Okay..."
+    },
+    {
+      "character": "Player",
+      "line": "I shouldn't get involved."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Mori",
+      "line": "Hello. Have you spoken to Councillor Andrews yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Mori",
+      "line": "Please hurry. You'll find him in Kourend Castle."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Councillor Andrews",
+      "line": "Good day to you."
+    },
+    {
+      "character": "Player",
+      "line": "There's been a death in Arceuus."
+    },
+    {
+      "character": "Councillor Andrews",
+      "line": "A death? Well that doesn't seem right. The people of Arceuus don't just die. They can't."
+    },
+    {
+      "character": "Player",
+      "line": "I've seen it with my own eyes. A citizen of Arceuus has fallen. What should we do?"
+    },
+    {
+      "character": "Councillor Andrews",
+      "line": "Well I don't really know what we can do. The Arceuus family have chosen to keep their knowledge secret from the rest of us. We have no expertise in this area."
+    },
+    {
+      "character": "Player",
+      "line": "So you'll do nothing?"
+    },
+    {
+      "character": "Councillor Andrews",
+      "line": "If I could do something, I would. However, I'm afraid this is out of our hands."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I suppose I'd better tell Mori."
+    },
+    {
+      "character": "Councillor Andrews",
+      "line": "I'm sorry, but as I already told you, we can't help."
+    },
+    {
+      "character": "Player",
+      "line": "I have. The council won't be helping I'm afraid."
+    },
+    {
+      "character": "Mori",
+      "line": "Oh... I shouldn't be surprised I guess... The council only care about helping themselves."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like you don't like the council much."
+    },
+    {
+      "character": "Mori",
+      "line": "The council are supposed to rule Kourend, but they never do anything for the people. They shouldn't even exist anyway. They were only meant to rule until the last king's daughter came of age."
+    },
+    {
+      "character": "Player",
+      "line": "So what happened?"
+    },
+    {
+      "character": "Mori",
+      "line": "The council declared her unfit for rule not long after the king died. She disappeared soon after and no one knows what became of her. Now the council are the permanent rulers of Kourend."
+    },
+    {
+      "character": "Mori",
+      "line": "It was a waste of time even going to them. They were never going to care about Thana."
+    },
+    {
+      "character": "Player",
+      "line": "What should we do now?"
+    },
+    {
+      "character": "Mori",
+      "line": "Well... if the Council won't help us, maybe Lord Arceuus will. He doesn't show his face in public much these days but he can't ignore the death of one of his own."
+    },
+    {
+      "character": "Player",
+      "line": "Good idea. Where can I find him?"
+    },
+    {
+      "character": "Mori",
+      "line": "He'll be in the Tower of Magic, north west of here."
+    },
+    {
+      "character": "Mori",
+      "line": "Hello. Have you spoken to Lord Arceuus yet?"
+    },
+    {
+      "character": "Mori",
+      "line": "Please don't take too long. You'll find Lord Arceuus in the Tower of Magic."
+    },
+    {
+      "character": "Player",
+      "line": "I need to speak to Lord Arceuus."
+    },
+    {
+      "character": "Tower Mage",
+      "line": "We're currently facing an issue in the Tower of Magic. No one may enter until the issue is resolved."
+    },
+    {
+      "character": "Player",
+      "line": "But it's important, there's been a death in Arceuus."
+    },
+    {
+      "character": "Tower Mage",
+      "line": "A death? This isn't good. The death you speak of may be connected to the issue we are currently facing. You'd better go in."
+    },
+    {
+      "character": "Tower Mage",
+      "line": "Somebody deal with these souls!"
+    },
+    {
+      "character": "Tower Mage",
+      "line": "Clear off!"
+    },
+    {
+      "character": "Tower Mage",
+      "line": "Get out of it!"
+    },
+    {
+      "character": "Tower Mage",
+      "line": "Somebody deal with this!"
+    },
+    {
+      "character": "Tower Mage",
+      "line": "Someone sort out these souls!"
+    },
+    {
+      "character": "Tower Mage",
+      "line": "We need to deal with these souls!"
+    },
+    {
+      "character": "Tower Mage",
+      "line": "Thank you for helping with those souls. You should head upstairs and speak with Asteros Arceuus. He might be able to fill you in on what's happening here."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Thank you for helping us out with those souls. As you can see, we're facing quite the crisis."
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand. What's going on?"
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "I'm afraid we don't quite know ourselves yet. A short while ago, our instruments detected fluctuations in power from the Dark Altar."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Before we could do anything, we all felt a strange loss of power, as if the Altar had failed altogether."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "My father was quick to act, using himself as a conduit to channel what little power the Altar had left."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "It seems the loss in power had an interesting impact on our experiments though. Some trapped souls that we were working to free were suddenly released."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Alas, whatever happened seemed to cause them great pain, making them to go feral. They are now at peace though, thanks to you."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm afraid I have some bad news which is likely related to this. A citizen of Arceuus has died."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "A death? No! My father acted as fast as he could, but it sounds like he was not fast enough. This is a dark day for Arceuus."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Tell me, who has fallen?"
+    },
+    {
+      "character": "Player",
+      "line": "Thana. Mori is with her next to the pond."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Dear Thana, you did not deserve this fate. Thank you for bringing this terrible news to us. I will make sure someone is sent out to take care of Thana and Mori."
+    },
+    {
+      "character": "Player",
+      "line": "I still don't understand how this happened."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Ever since the Ascent of Arceuus, our people have been kept alive by the Dark Altar. Its power sustains our bodies in the same way yours is sustained by food and drink."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Without the power of the Dark Altar, there's nothing to keep our people alive. The loss in power from the Altar will be what killed Thana."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "The Altar is currently giving out a fraction of the power it normally would. The only thing keeping us alive is my father. His strength won't last forever though."
+    },
+    {
+      "character": "Player",
+      "line": "So what do we do?"
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "If we can't find and fix whatever has caused this loss of power, our people are surely doomed. Now that those souls have been dealt with, we can perform tests both here and at the Altar to try and find the problem."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Time is not on our side though, and I fear we won't be fast enough."
+    },
+    {
+      "character": "Player",
+      "line": "Can I help?"
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Well... There is a secret known only to a few of us. At any other time, I would never dream of telling an outsider."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "But our people's lives are in danger and you may well be the only one who can save us."
+    },
+    {
+      "character": "Player",
+      "line": "What is this secret?"
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "It's believed by most that the knowledge of immortality was discovered by my father. The truth is, the discovery was not his."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "To the west of here, lies the sulphur volcano of Mount Karuulm. Within live the Tasakaal, three ancient beings with power over life and death. They granted my father the knowledge that led to the Ascent of Arceuus."
+    },
+    {
+      "character": "Player",
+      "line": "And you think they can help us?"
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Their knowledge of the Dark Altar far exceeds ours. If anyone can help us, it's them. Ideally I'd send one of our own, but I have no one to spare. You are the only one who can help us."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better not waste any time then."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Thank you friend. You'll find Mount Karuulm on the other side of Lovakengj. Please hurry."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Please hurry to Mount Karuulm. The Tasakaal may be the only ones who can save us. You'll find the volcano on the other side of Lovakengj."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Human."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Leave us."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Your presence is not desired."
+    },
+    {
+      "character": "Player",
+      "line": "But I need your help! I was sent by Asteros Arceuus, son of Lord Trobin Arceuus."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Arceuus."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "We know that name."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "The name of a liar."
+    },
+    {
+      "character": "Player",
+      "line": "Liar?"
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "They came to us. Two of them."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "The brother and the husband."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Her time was running out. They wanted to give her more."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "We granted them knowledge. To give her more time."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "But they misused it. And the world suffered."
+    },
+    {
+      "character": "Player",
+      "line": "This knowledge? You mean immortality?"
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "In a way. But it was not meant for that."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Time was what it was meant for. But time still runs out."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "They put an end to time. They endangered the balance."
+    },
+    {
+      "character": "Player",
+      "line": "What balance?"
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "For every death, there must be life."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "For every life, there must be death."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "This balance is what we serve."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "For without balance, the world burns."
+    },
+    {
+      "character": "Player",
+      "line": "You're very confusing, you know that right?"
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Perhaps."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Perhaps our knowledge is beyond your understanding."
+    },
+    {
+      "character": "Player",
+      "line": "Well thankfully I didn't come here for knowledge. I came here for help. The Dark Altar is failing and the people of Arceuus are in danger. I need you to help me find the cause."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "The people of Arceuus have had their time."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "This will restore balance."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Why should we help them?"
+    },
+    {
+      "character": "Player",
+      "line": "*sigh* It can never be easy can it."
+    },
+    {
+      "character": "Player",
+      "line": "Fine. If you help me save the people of Arceuus, then I will help you."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "You assume we need help."
+    },
+    {
+      "character": "Player",
+      "line": "I've done this enough times to know that everyone wants something, even the masters of life and death."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Interesting. Maybe the human is not as stupid as it looks."
+    },
+    {
+      "character": "Player",
+      "line": "Well I've been known to have my moments."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Very well human."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "We admit, the Arceuus people do have their uses."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Their work with souls has been useful in helping to maintain the balance."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "We will help them. But first, you will serve us."
+    },
+    {
+      "character": "Player",
+      "line": "Excellent. What do you need from me?"
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "To the south lies a battlefront."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "There is a grave there. Within it lies a soul, trapped inside a corpse."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Free this soul. In return, we will provide our help."
+    },
+    {
+      "character": "Player",
+      "line": "So you just want me to kill a zombie?"
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "A zombie is soulless. An empty shell, reanimated by magic."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "This is a soul. Trapped in this world, when it should have long departed."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Its existence is an affront to the balance."
+    },
+    {
+      "character": "Player",
+      "line": "Seems pretty simple."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Which is why it falls to you."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Consider it a test."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "If you pass."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "We may have further use for you."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. Very well. I'll go and free this soul."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "The human returns."
+    },
+    {
+      "character": "Player",
+      "line": "What did you want me to do again?"
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Free the trapped soul."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "You'll find it in a grave."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "By the battlefront to the south."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "The human returns."
+    },
+    {
+      "character": "Player",
+      "line": "I've dealt with the trapped soul."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "You have done well."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "The balance has been restored."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "And now we shall help you."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "While you were busy, so were we."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "We have found the cause of your problem."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "You said the Altar was failing."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "This is not correct."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "The Altar is fine, but its power has been redirected."
+    },
+    {
+      "character": "Player",
+      "line": "Redirected where?"
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "To a construct, built by a mortal."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Right next to the Altar."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "Find it. Destroy it."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "And Arceuus will be saved."
+    },
+    {
+      "character": "Player",
+      "line": "So I just have to go to the Dark Altar, find this device and then destroy it. Sounds easy enough."
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Then you have what you need."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "You can leave us."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Go and save your people."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to be doing again?"
+    },
+    {
+      "character": "Kaal-Ket-Jor",
+      "line": "Go to the Dark Altar."
+    },
+    {
+      "character": "Kaal-Mej-San",
+      "line": "Find and destroy the construct."
+    },
+    {
+      "character": "Kaal-Xil-Dar",
+      "line": "And Arceuus will be saved."
+    },
+    {
+      "character": "Player",
+      "line": "There. That's the device destroyed. The people of Arceuus should be safe now. I'd better go to the Tower of Magic and check."
+    },
+    {
+      "character": "Asteros Arceuus",
+      "line": "Whatever you did, it seems to have worked. Everything is back to normal. You should talk to my father, he'll want to thank you."
+    },
+    {
+      "character": "Player",
+      "line": "Lord Arceuus?"
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "You're the one that saved our people. On behalf of all of Arceuus, I thank you."
+    },
+    {
+      "character": "Player",
+      "line": "So everything is okay now?"
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "It seems so. A short while ago I felt the power of the Dark Altar return to normal levels. I was safely able to stop my ritual and let the Altar work on its own again."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "Now tell me, what was the cause of this and how did you stop it?"
+    },
+    {
+      "character": "Player",
+      "line": "Your son recommended that I speak to the Tasakaal. They had me perform a task for them but after that they agreed to help. They didn't seem to like you much though."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "Well that's no surprise. The Tasakaal seem to feel that only they deserve immortality. It's rather hypocritical of them. It clearly didn't stop them helping you though."
+    },
+    {
+      "character": "Player",
+      "line": "They were reluctant, but they admitted that the people of Arceuus were useful to them."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "Such is their way. They act superior to us, but the reality is they'll work with anyone if they think it will further their aims."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "So how did they help you?"
+    },
+    {
+      "character": "Player",
+      "line": "They found out that the power of the Altar was being redirected into a device hidden nearby. I found the device and destroyed it."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "A device? What was it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure, but the Tasakaal said it was made by a mortal."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "The Tasakaal view everyone who isn't one of them as a mere mortal, even those of us who have also achieved immortality. That doesn't narrow down the options very much."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "This is most concerning though. If someone deliberately sabotaged the Altar, who knows what else they might do. I'll have someone recover the remains of this device. Maybe we can work out where it came from."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "For now though, I'd like to once again thank you for your help. Today was a dark day for our people but without you it would have been our end. Please accept these gifts. They are the least you deserve."
+    },
+    {
+      "character": "Lord Trobin Arceuus",
+      "line": "Now, can I help you further?"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Asteros Arceuus",
+      "description": "Young adult male, British accent, composed and scholarly tone, son of Lord Arceuus who takes his duties seriously and shows genuine concern for his people during crisis."
+    },
+    {
+      "name": "Councillor Andrews",
+      "description": "Middle-aged male, British accent, authoritative and dismissive tone, a corrupt politician who feigns helplessness while secretly plotting against the realm."
+    },
+    {
+      "name": "Kaal-Ket-Jor",
+      "description": "Ancient genderless being, deep resonant voice with deliberate pacing, speaks in short cryptic sentences as an immortal guardian of life and death's balance."
+    },
+    {
+      "name": "Kaal-Mej-San",
+      "description": "Ancient genderless being, deep resonant voice with deliberate pacing, speaks in short cryptic sentences as an immortal guardian who views mortals with detached superiority."
+    },
+    {
+      "name": "Kaal-Xil-Dar",
+      "description": "Ancient genderless being, deep resonant voice with deliberate pacing, speaks in short cryptic sentences as an immortal observer concerned only with cosmic balance."
+    },
+    {
+      "name": "Lord Trobin Arceuus",
+      "description": "Elderly male, refined British accent, wise and measured tone, an ancient immortal lord who has led his house for over a thousand years with quiet authority."
+    },
+    {
+      "name": "Mori",
+      "description": "Young adult female, British accent, soft and grief-stricken voice, an immortal citizen of Arceuus devastated by her friend's sudden death."
+    },
+    {
+      "name": "Tower Mage",
+      "description": "Adult male, British accent, urgent and stressed tone, a mage of the Arceuus Tower struggling to maintain order during the soul crisis."
+    }
+  ]
+}

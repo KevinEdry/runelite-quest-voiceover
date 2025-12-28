@@ -1,0 +1,264 @@
+{
+  "branch": "quest/mage-arena-ii",
+  "quest_name": "Mage Arena II",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello, Kolodion."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Hey there, how are you? Are you enjoying the bloodshed?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I've had enough for now."
+    },
+    {
+      "character": "Kolodion",
+      "line": "A shame. You're a good battle mage. I hope to see you soon."
+    },
+    {
+      "character": "Player",
+      "line": "How can I use my new spells outside of the arena?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Experience, my friend, experience. Once you've used the spell enough times in the arena, you'll be able to use them in the rest of Gielinor."
+    },
+    {
+      "character": "Player",
+      "line": "Good stuff."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Not so good for the citizens; they won't stand a chance."
+    },
+    {
+      "character": "Player",
+      "line": "How am I doing so far?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to train with the strike spell inside the arena before you can use it outside."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have completed over half of the training needed to use the strike spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You are almost ready to use the strike spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're experienced enough to use the strike spell anywhere."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to train with the claw spell inside the arena before you can use it outside."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have completed over half of the training needed to use the claw spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You are almost ready to use the claw spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're experienced enough to use the claw spell anywhere."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to train with the flame spell inside the arena before you can use it outside."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have completed over half of the training needed to use the flame spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You are almost ready to use the flame spell outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You're experienced enough to use the flame spell anywhere."
+    },
+    {
+      "character": "Player",
+      "line": "Are there any more challenges available?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "You still need to learn how to cast all god spells outside of the arena."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I've made a note of the spells you still need to learn in your journal."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You have indeed shown potential,."
+    },
+    {
+      "character": "Kolodion",
+      "line": "However, a wizard of your level wouldn't stand a chance."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I am one of the most powerful mages in existence. But even my power has limitations. There are some beings however that have power exceeding even my own."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I have detected three life forces within the Wilderness, each of them giving out a strange magical power, one unlike any I have ever felt before."
+    },
+    {
+      "character": "Kolodion",
+      "line": "If we could harness the power of these beings, I could imbue your god cape with that power, greatly increasing its potential."
+    },
+    {
+      "character": "Player",
+      "line": "Great, I've been waiting for an improvement!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you need me to do?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "I will need you to kill these three beings and bring me their remains. Even in death, their power should be great enough for me to harness it for our own uses."
+    },
+    {
+      "character": "Player",
+      "line": "Where am I supposed to find these beings?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "Here, take this enchanted symbol of the gods. It will guide you to the creatures."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Bring me the remains of all three magical beings. Do this and I will imbue their combined power into a single god cape of your choice."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You'll need to free up an inventory space before we continue."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I see... If you ever change your mind, you know where to find me."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find these beings?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "They can all be found in the Wilderness. The enchanted symbol can track their unique magical energies, leading you to their exact locations."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Be warned though, the symbol will take a blood sacrifice every time it's used."
+    },
+    {
+      "character": "Player",
+      "line": "Any advice on fighting the beings?"
+    },
+    {
+      "character": "Kolodion",
+      "line": "They can't be harmed by normal magic, melee or ranged attacks, you will need to use the god combat spell corresponding to the creature you are fighting."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about these beings."
+    },
+    {
+      "character": "Kolodion",
+      "line": "One is a justiciar. According to legend, the justiciars were the elite of Saradomin's forces. Some worked alone, operating as assassins behind enemy lines. Others led entire armies in Saradomin's name."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I couldn't tell you why this one wanders the Wilderness, but I suspect he has good reason."
+    },
+    {
+      "character": "Kolodion",
+      "line": "The second is a Demon of Zamorak. From what I can tell, he is completely mad. He roams the Wilderness, killing all who he comes across without mercy. Even his own kind do not escape his fury."
+    },
+    {
+      "character": "Kolodion",
+      "line": "He's known to battle the justiciar quite regularly, perhaps they are old enemies."
+    },
+    {
+      "character": "Kolodion",
+      "line": "The final being is a Guthixian Ent. Like most followers of Guthix, he will avoid combat if possible. Make no mistake though, he is deadly when threatened."
+    },
+    {
+      "character": "Kolodion",
+      "line": "He seems to take great interest in the other two creatures. Maybe he is trying to keep a balance between them."
+    },
+    {
+      "character": "Kolodion",
+      "line": "All three of them give off a unique magical energy, one unlike any I have ever felt before. The fact that the three of them are so different, yet possess powers so similar, is very odd indeed."
+    },
+    {
+      "character": "Kolodion",
+      "line": "I'd be very interested in learning more about the source of their power."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, bye."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Farewell,."
+    },
+    {
+      "character": "Player",
+      "line": "I've got the remains of the Saradominist justiciar."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Excellent work, but we aren't finished yet."
+    },
+    {
+      "character": "Player",
+      "line": "I've got the remains of the Guthixian Ent."
+    },
+    {
+      "character": "Player",
+      "line": "I've got the remains of the Zamorakian Demon."
+    },
+    {
+      "character": "Kolodion",
+      "line": "Excellent work, now you just need to hand me the god cape you wish to have imbued with great power."
+    },
+    {
+      "character": "Kolodion",
+      "line": "If you would like me to imbue any more capes, just bring me the remains of the respective creature."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You'll have to bring me the Guthix creature's remains to imbue this cape."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You'll have to bring me the Saradomin creature's remains to imbue this cape."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You'll have to bring me the Zamorak creature's remains to imbue this cape."
+    },
+    {
+      "character": "Kolodion",
+      "line": "You may currently have a Saradomin cape, a Guthix cape and a Zamorak cape imbued, just hand over the cape when you're ready."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Kolodion",
+      "description": "Male, commanding British accent, arrogant and theatrical tone. A powerful shape-shifting battle mage who takes great pride in running his arena, dismissive of lesser wizards but respectful of proven skill."
+    }
+  ]
+}

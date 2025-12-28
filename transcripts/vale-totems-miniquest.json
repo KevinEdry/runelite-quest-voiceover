@@ -1,0 +1,336 @@
+{
+  "branch": "quest/vale-totems-miniquest",
+  "quest_name": "Vale Totems (miniquest)",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Oh, sorry! I was lost in thought. You gave me quite the start!"
+    },
+    {
+      "character": "Player",
+      "line": "Does something have you preoccupied?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Yes! It's these ents you see! I'd never seen anything like them until I came here. Look, here comes one now..."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... It's like some sort of ritual."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Exactly! These totems are dotted all around here. They seem to be very important to the ents, but I don't know why."
+    },
+    {
+      "character": "Player",
+      "line": "Have you asked around?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Yes, but the locals didn't really give me much to go on. All they told me is that the ents, totems and spirits are all part of the natural cycle here in the valley."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Well, why don't we take a closer look at this totem?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Good idea. If nothing else, it will be useful to document the carvings on it. Come, let's have a look..."
+    },
+    {
+      "character": "Player",
+      "line": "It's a beautiful totem."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Indeed! Look at this bit!"
+    },
+    {
+      "character": "Isadora",
+      "line": "Uh oh! The funny man broke the totem!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Oh... There's a child."
+    },
+    {
+      "character": "Isadora",
+      "line": "Excuse me? I have a name! I'm Isadora, and you're the funny man who gets confused by the ents! I've been watching you."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Well, actually my name is Ranulph, not funny man..."
+    },
+    {
+      "character": "Isadora",
+      "line": "Funny man Ranulph broke the totem! Ents won't be happy with you!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Hmm... I think the child's assessment is correct. The ents probably won't be happy about what we've done."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure 'we' is the right word..."
+    },
+    {
+      "character": "Isadora",
+      "line": "It's okay, funny man. The totems always end up breaking. The ents get sad for a while, but if you fix them, they end up all happy again!"
+    },
+    {
+      "character": "Player",
+      "line": "So we need to fix the totem. How?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Let's see... First, we'll need some lumber to rebuild the pole. I reckon one set of logs will do it."
+    },
+    {
+      "character": "Player",
+      "line": "Any specific type?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "It looks like it was made from oak, so presumably oak logs should be enough. However, I do wonder if using better wood would help it survive the elements better..."
+    },
+    {
+      "character": "Player",
+      "line": "Or survive interference from... you know... us."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Hmm... The pole is only going to be the beginning though. We're going to need to carve it... I really should have made more notes on the carvings..."
+    },
+    {
+      "character": "Isadora",
+      "line": "Notes? Notes are boring! I know how to carve them! Daddy showed me!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I guess you can consult with Isadora on how to carve the totem. While you do that, I'll get to work on rebuilding the pole."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, sorry to have disturbed you then."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Not a problem."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. If you don't mind me saying, you seem quite preoccupied."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Did you see what that ent did?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Any luck getting that totem rebuilt?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Isadora",
+      "line": "Hurry up! You don't want the ents to stay sad, do you?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "I reckon you'll just need one set of logs. Oak logs should be enough, but I do wonder if using better wood would help it survive the elements better..."
+    },
+    {
+      "character": "Ranulph",
+      "line": "That's a good start."
+    },
+    {
+      "character": "Player",
+      "line": "What's next?"
+    },
+    {
+      "character": "Isadora",
+      "line": "Now you need to carve the animals!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Yes, according to Isadora, the carvings that were on the totem represented the animal spirits around it. However, the animals were disturbed when the totem fell. Some left, but new ones arrived."
+    },
+    {
+      "character": "Player",
+      "line": "Meaning?"
+    },
+    {
+      "character": "Isadora",
+      "line": "Meaning you need to carve the right ones, silly."
+    },
+    {
+      "character": "Ranulph",
+      "line": "The right ones being the animals that are currently in this area."
+    },
+    {
+      "character": "Player",
+      "line": "I supposed that makes sense. I'll give it a go."
+    },
+    {
+      "character": "Isadora",
+      "line": "Have you carved the animals yet?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Don't forget, you'll need to make carvings of the animal spirits that are currently in this area."
+    },
+    {
+      "character": "Isadora",
+      "line": "But you won't be able to do it without a knife! Make some space and I'll give you one!"
+    },
+    {
+      "character": "Isadora",
+      "line": "But you won't be able to do it without a knife! Here!"
+    },
+    {
+      "character": "Isadora",
+      "line": "That's not right!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Remember, you need to make carvings of the animal spirits that are currently in this area."
+    },
+    {
+      "character": "Ranulph",
+      "line": "You've quite the hand at carving, my friend."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Now, the finishing touches. Apparently, the ents appreciate it when wooden items are returned to the forest."
+    },
+    {
+      "character": "Isadora",
+      "line": "Yes! You need to help them finish the cycle!"
+    },
+    {
+      "character": "Player",
+      "line": "Cycle?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "The cycle of life, death and decay, I suppose."
+    },
+    {
+      "character": "Isadora",
+      "line": "Funny man Ranulph is learning!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay then. So wooden items? You mean things like bows and shields?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Exactly! Try decorating the totem with those kinds of items. I reckon four should do. Oh, and be sure to use the same wood you used for the totem itself."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back once I've done that."
+    },
+    {
+      "character": "Ranulph",
+      "line": "How's the decorating of that totem going?"
+    },
+    {
+      "character": "Isadora",
+      "line": "You need to use the wooden things. Bows! Shields!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "What Isadora said basically. I reckon four should do. Oh, and be sure to use the same wood you used for the totem itself."
+    },
+    {
+      "character": "Player",
+      "line": "There we go! I's say that's the totem finished!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Look at that! I think it looks even better than it did before!"
+    },
+    {
+      "character": "Isadora",
+      "line": "You did a good job! Now we have to see if you've made the ents happy again!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "I couldn't have imagined a better outcome! Not only have the ents accepted our new totem, but they've also left something behind!"
+    },
+    {
+      "character": "Isadora",
+      "line": "It's a gift! The ents are happy again! They're saying thank you for helping! Go on, take it!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Well, this is definitely the most 'dialogue' I've had with the ents. Isadora here has been a great help as well!"
+    },
+    {
+      "character": "Isadora",
+      "line": "Thanks, funny man Ranulph. You're not so bad yourself!"
+    },
+    {
+      "character": "Player",
+      "line": "So what now?"
+    },
+    {
+      "character": "Ranulph",
+      "line": "It seems the ents are very appreciative of those who maintain their totems. Given you seem to have a knack for it, you might want to keep helping them. They have plenty of other totem sites in the valley."
+    },
+    {
+      "character": "Isadora",
+      "line": "Yes! The ents like it when you help! They'll give you more gifts!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "As for me, I'm going to keep studying them. I've learnt so much today, both from Isadora and from the ents themselves. I've already documented it all, but I'm sure there's more to discover!"
+    },
+    {
+      "character": "Ranulph",
+      "line": "Speaking of which, here, take a notebook for yourself. I've left a copy of my notes in it, but you can also use it to document your own findings."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Be sure to check in once in a while to compare findings. I'll happily trade items I find around the valley in exchange for your research assistance!"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds great, thanks!"
+    },
+    {
+      "character": "Isadora",
+      "line": "Goddbye, other funny person. You did great!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, Isadora."
+    },
+    {
+      "character": "Ranulph",
+      "line": "Until next time, friend."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Isadora",
+      "description": "Young girl around 8-10 years old, bright and playful Mediterranean accent, enthusiastic and slightly mischievous tone, an inquisitive local who loves teasing adults and knows all about the ents and totems."
+    },
+    {
+      "name": "Ranulph",
+      "description": "Middle-aged male, thoughtful British accent, scholarly and contemplative tone, a researcher fascinated by the ents who gets easily distracted by his observations and notes."
+    }
+  ]
+}

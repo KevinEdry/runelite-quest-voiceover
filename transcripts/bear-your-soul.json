@@ -1,0 +1,104 @@
+{
+  "branch": "quest/bear-your-soul",
+  "quest_name": "Bear Your Soul",
+  "lines": [
+    {
+      "character": "Aretha",
+      "line": "Respect the souls, traveller."
+    },
+    {
+      "character": "Player",
+      "line": "I've been reading your book: 'The Journey of Souls'"
+    },
+    {
+      "character": "Aretha",
+      "line": "Let me guess, traveller... did you come to ask me where the soul bearer was buried? Every mortal who reads my book seems to want to get their hands on it."
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Aretha",
+      "line": "Mortals are so predictable. This is the kind of thinking that led that adventurer to break into the Guardian's cave and damage the soul bearer in the first place."
+    },
+    {
+      "character": "Aretha",
+      "line": "It occurs to me, though, that even if you dig it up, the artefact is damaged. Although the Elders of Arceuus never had the knowledge to repair it, there is one who may be able to help."
+    },
+    {
+      "character": "Aretha",
+      "line": "I speak of the Key Master, he who watches over the cave of the three-headed Guardian of the River. He has been there for countless years, and will have absorbed power from the River in that time."
+    },
+    {
+      "character": "Aretha",
+      "line": "Now, we buried the artefact in the crypt of the Arceuus church. As I have revealed this secret to you, you will no longer be affected by the spells that prevent unwary explorers from stumbling across it."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! I'll be off now."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't want your smelly soul bearer."
+    },
+    {
+      "character": "Aretha",
+      "line": "Hmmph! So what do you want? I trust you will respect the souls while you are in this hallowed place."
+    },
+    {
+      "character": "Player",
+      "line": "About the soul bearer again... I've dug it up, but it's damaged."
+    },
+    {
+      "character": "Aretha",
+      "line": "This should be of no surprise to you, adventurer, if you paid attention to my book. Indeed, I even spoke of this matter when I first told you where the artefact was buried."
+    },
+    {
+      "character": "Aretha",
+      "line": "Although the Elders of Arceuus never had the knowledge to repair it, I told you of one who may be able to help."
+    },
+    {
+      "character": "Aretha",
+      "line": "I spoke of the Key Master, he who watches over the cave of the three-headed Guardian of the River. He has been there for countless years, and will have absorbed power from the River in that time."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, I see."
+    },
+    {
+      "character": "Player",
+      "line": "Aretha said you might be able to repair the soul bearer for me."
+    },
+    {
+      "character": "Key Master",
+      "line": "The soul bearer! You have the soul bearer! The voices speak of it often. It is from this place, yet it is not of this place."
+    },
+    {
+      "character": "Player",
+      "line": "Will you repair it?"
+    },
+    {
+      "character": "Key Master",
+      "line": "The voices tell me I can. They speak to me!"
+    },
+    {
+      "character": "Key Master",
+      "line": "The voices say you must use it wisely."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I will."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aretha",
+      "description": "Middle-aged female, warm and soulful voice with British accent, wise and patient tone, a mystical spirit who guards the Soul Altar and speaks with calm authority about spiritual matters."
+    },
+    {
+      "name": "Key Master",
+      "description": "Older male, raspy and weary British accent, speaks with haunted resignation, a cursed blind man who hears voices and has accepted his fate as guardian of Cerberus' lair."
+    }
+  ]
+}

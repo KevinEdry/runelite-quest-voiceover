@@ -1,0 +1,180 @@
+{
+  "branch": "quest/lost-lover",
+  "quest_name": "Lost Lover",
+  "lines": [
+    {
+      "character": "Fabia",
+      "line": "I can't belive Xilo hasn't shown up."
+    },
+    {
+      "character": "Player",
+      "line": "Were you expecting to meet someone here?"
+    },
+    {
+      "character": "Fabia",
+      "line": "My... friend, Xilo. I told her to meet me by the magic trees of the rainforest. We don't often have a chance to meet without a crowd of people around."
+    },
+    {
+      "character": "Player",
+      "line": "Why? Is she not particularly local to you?"
+    },
+    {
+      "character": "Fabia",
+      "line": "Unfortunately not. I'm from Aldarin, but she lives in Tal Teklan. It usually takes a special event being hosted for us both to be in the same place."
+    },
+    {
+      "character": "Player",
+      "line": "So you never really get any privacy?"
+    },
+    {
+      "character": "Fabia",
+      "line": "Privacy? Are you insinuating something?"
+    },
+    {
+      "character": "Player",
+      "line": "Not at all. Sorry if it seemed like I was."
+    },
+    {
+      "character": "Fabia",
+      "line": "It's okay... Sorry... I just miss her."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think she's just running a little late?"
+    },
+    {
+      "character": "Fabia",
+      "line": "It's possible."
+    },
+    {
+      "character": "Player",
+      "line": "Could she maybe have considered another tree magical?"
+    },
+    {
+      "character": "Fabia",
+      "line": "I suppose she may be where we first met... but this is where we shared our first... you know..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'll keep my fingers crossed for you. I'm sure you'll be able to find one another soon!"
+    },
+    {
+      "character": "Fabia",
+      "line": "Thank you, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on... I think I might have met this Xilo."
+    },
+    {
+      "character": "Fabia",
+      "line": "You have? Where is she?"
+    },
+    {
+      "character": "Player",
+      "line": "By a tree to the north of here."
+    },
+    {
+      "character": "Fabia",
+      "line": "Oh, Xilo! She's gone to where we first met instead! Thank you, iknami. I'll head over there at once!"
+    },
+    {
+      "character": "Xilo",
+      "line": "I can't believe she's done this."
+    },
+    {
+      "character": "Player",
+      "line": "Who's done this?"
+    },
+    {
+      "character": "Xilo",
+      "line": "Fabia! She asked me to meet her, and I quote, 'by the special tree'. You may notice that she isn't here! I've been waiting for hours!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you think she might just be delayed?"
+    },
+    {
+      "character": "Xilo",
+      "line": "I know her too well. She wouldn't be delayed coming to see me."
+    },
+    {
+      "character": "Player",
+      "line": "Could you be at the wrong special tree?"
+    },
+    {
+      "character": "Xilo",
+      "line": "No! This is the one, singular, special tree!"
+    },
+    {
+      "character": "Player",
+      "line": "Humour me for just a moment. What if, amongst this entire rainforest, there's a second very similar tree?"
+    },
+    {
+      "character": "Xilo",
+      "line": "And Fabia would find herself at the wrong tree in this scenario?"
+    },
+    {
+      "character": "Player",
+      "line": "Or maybe it's you who is at the wrong one?"
+    },
+    {
+      "character": "Xilo",
+      "line": "No, absolutely not! I know where to meet Fabia and I wouldn't miss any opportunity to do so!"
+    },
+    {
+      "character": "Xilo",
+      "line": "This was the tree where we first met. It was a lovely day! A botanical tour of the rainforest, but the only thing I found myself looking at was her..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm sure the two of you will find each other soon. However, I do suspect that might happen sooner if you considered looking by some other trees..."
+    },
+    {
+      "character": "Xilo",
+      "line": "Hmm... I'll think about it, but for now, I'll wait here a while longer."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on... I think I might have met this Fabia."
+    },
+    {
+      "character": "Xilo",
+      "line": "You have? Where is she?"
+    },
+    {
+      "character": "Player",
+      "line": "South of here, by some magic trees."
+    },
+    {
+      "character": "Xilo",
+      "line": "The magic trees? Of course! How could I have been so stupid! Thank you, iknami. I'll head over right away!"
+    },
+    {
+      "character": "Xilo",
+      "line": "Hello again, iknami! Thank you for helping us find each other!"
+    },
+    {
+      "character": "Fabia",
+      "line": "To think we were waiting by different trees! It was so silly of us!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm happy to see you together again. Now, I'm sure you have a lot of catching up to do. I'll leave you to it."
+    },
+    {
+      "character": "Xilo",
+      "line": "Timoiva, iknami!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Fabia",
+      "description": "Young adult female, warm Mediterranean accent, gentle and wistful tone, a romantic woman from Aldarin who is longing and slightly melancholic while waiting for her beloved."
+    },
+    {
+      "name": "Xilo",
+      "description": "Young adult female, lively Mediterranean accent, passionate and spirited tone, an impatient romantic from Tal Teklan who is frustrated but deeply devoted to the one she loves."
+    }
+  ]
+}

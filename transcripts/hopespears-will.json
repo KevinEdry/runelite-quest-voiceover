@@ -1,0 +1,280 @@
+{
+  "branch": "quest/hopespears-will",
+  "quest_name": "Hopespear's Will",
+  "lines": [
+    {
+      "character": "Ghost",
+      "line": "Woooo... Woooooo..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Ghost",
+      "line": "You see me? You understand me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Who are you?"
+    },
+    {
+      "character": "Ghost",
+      "line": "Me Hopespear of Narogoshuun tribe. Who you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm."
+    },
+    {
+      "character": "Ghost",
+      "line": "You not goblin. What you want here?"
+    },
+    {
+      "character": "Player",
+      "line": "Why are you here?"
+    },
+    {
+      "character": "Ghost",
+      "line": "Me dead, but me not go. Long ago, me have vision of Big High War God. Me chosen prophet of Big High War God."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me think, when me die, Big High War God take me to reward in Yu'biusk. Every day great battle, every night great victory with feasting."
+    },
+    {
+      "character": "Ghost",
+      "line": "Big High War God not come, but me have faith. Someday Big High War God come for me, take me to him. Until then me hang on, not let go into death."
+    },
+    {
+      "character": "Player",
+      "line": "I visited Yu'biusk."
+    },
+    {
+      "character": "Ghost",
+      "line": "You go to Yu'biusk? What you see?"
+    },
+    {
+      "character": "Player",
+      "line": "It was a wasteland."
+    },
+    {
+      "character": "Ghost",
+      "line": "Wasteland? No goblins fighting glorious battles?"
+    },
+    {
+      "character": "Player",
+      "line": "No one. It was all empty."
+    },
+    {
+      "character": "Ghost",
+      "line": "You lie!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not lying. It's what I saw."
+    },
+    {
+      "character": "Ghost",
+      "line": "Even so... Yu'biusk is place of Big High War God. Land of Goblins. It where goblins should go."
+    },
+    {
+      "character": "Ghost",
+      "line": "Will you do me favour?"
+    },
+    {
+      "character": "Player",
+      "line": "What favour?"
+    },
+    {
+      "character": "Ghost",
+      "line": "High priests in this tomb, when they die they believe they go to Yu'biusk. But their spirits still here."
+    },
+    {
+      "character": "Ghost",
+      "line": "If you can go to Yu'biusk, you can take their bones and bury them there. Will you do this for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Ghost",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "How can I get the bones? When I defeated them before, the high priests just spoke to me and then went back into the ground."
+    },
+    {
+      "character": "Ghost",
+      "line": "Normally, undead goblin high priests cannot be destroyed, but there is ancient goblin combat ritual."
+    },
+    {
+      "character": "Ghost",
+      "line": "You must defeat high priests without using any weapons, armour or spells. Once you have bones, take them to Yu'biusk and bury them there."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do that."
+    },
+    {
+      "character": "Ghost",
+      "line": "Thank you, human."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me should know better than to ask human to do favour for dead goblin."
+    },
+    {
+      "character": "Player",
+      "line": "It was everything you hope for."
+    },
+    {
+      "character": "Ghost",
+      "line": "Thank you! I know Big High War God still care for us! I wait for him here. Someday he take me to Yu'biusk to live with him."
+    },
+    {
+      "character": "Ghost",
+      "line": "In meantime, will you do me favour?"
+    },
+    {
+      "character": "Player",
+      "line": "I should go."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the Big High War God."
+    },
+    {
+      "character": "Ghost",
+      "line": "Big High War God greatest of all gods! He take puny goblins from Yu'biusk and make them mighty warriors for great war of gods!"
+    },
+    {
+      "character": "Ghost",
+      "line": "When gods go to war, goblin soldiers so good that Big High War God sell tribes to fight for different gods. Big High War God fight with other gods, sometimes for one, sometimes another."
+    },
+    {
+      "character": "Ghost",
+      "line": "Other gods fight for their own reasons, but Big High War God fight for war itself!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about yourself."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me chosen prophet of Big High War God. Before I have prophecy, goblin tribes fight one another very much."
+    },
+    {
+      "character": "Ghost",
+      "line": "Long ago we fight other people: beardy-short-people, pointy-hat-short-people, tall people with keen blades. Other people build cities with walls, and we not able to attack them any more."
+    },
+    {
+      "character": "Ghost",
+      "line": "There not enough food for all tribes, so tribes with no food attack tribes who have food. Goblin war last many many years. Finally all tribes meet at this place, where temple is now."
+    },
+    {
+      "character": "Ghost",
+      "line": "It rain many days. But rain not stop goblins. Goblin feet churn up ground with rain and goblin blood. All ground turn to mud. That why it called Battle of Plain of Mud."
+    },
+    {
+      "character": "Ghost",
+      "line": "Battle last many days. Both sides same size, none win, none lose. Goblin bodies everywhere. Many dead."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me not important general, not mighty sergeant. Me just normal goblin. But one night, me have dream."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me see throne of Big High War God. He shine with light so bright me cannot see him, but me hear his voice."
+    },
+    {
+      "character": "Ghost",
+      "line": "He say, 'Stop the fighting!' He say, 'Fighting good, but not if all my followers die! You must not fight one another so much you all die!'"
+    },
+    {
+      "character": "Ghost",
+      "line": "Then he say, 'Today I cannot lead you, but some day I will send Chosen Commander to lead you.'"
+    },
+    {
+      "character": "Ghost",
+      "line": "I see Chosen Commander in dream. He wear shining armour and stand at front of army of goblins. Behind Chosen Commander, goblins stretch to horizon. Many goblins, too many to count."
+    },
+    {
+      "character": "Ghost",
+      "line": "I see banners of every tribe. Banners of all tribes, even Dorgesh tribe."
+    },
+    {
+      "character": "Ghost",
+      "line": "Other races, they run away from mighty goblin army! Chosen Commander make goblins build siege machines and they break down walls of cities. Then goblins march in and kill everyone!"
+    },
+    {
+      "character": "Ghost",
+      "line": "And when all dead, Big High War God himself appear and sit on great throne of bronze and rule over all, with Chosen Commander beside him."
+    },
+    {
+      "character": "Ghost",
+      "line": "Then I wake from dream. I know it true vision from Big High War God. I run to general of my tribe, and he call other generals for emergency meeting."
+    },
+    {
+      "character": "Ghost",
+      "line": "I tell all generals what I see. They decide to stop fighting so goblins not all die. By this time, so many had died that there enough food for all."
+    },
+    {
+      "character": "Ghost",
+      "line": "Then generals set goblins to work building temple on site of battle. It sink into mud, so they turn it into underground temple, and keep it secret from others."
+    },
+    {
+      "character": "Ghost",
+      "line": "Goblins write my vision down in goblin holy book, along with history of goblins and commandments of Big High War God."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about the Chosen Commander."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me not know much more. In vision, Chosen Commander wear heavy armour and big helmet that cover face. Me not know what he look like. I see him give orders, but he far away so me not hear his voice."
+    },
+    {
+      "character": "Ghost",
+      "line": "Me think Chosen Commander will be great goblin general, but Big High War God chose me to have vision, not great general, so Chosen Commander could be anyone."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing. I should go."
+    },
+    {
+      "character": "Ghost",
+      "line": "You take bones to Yu'biusk yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Ghost",
+      "line": "You please do this for me, human. Remember, you must defeat high priests without using any weapons, armour or spells."
+    },
+    {
+      "character": "Player",
+      "line": "I did."
+    },
+    {
+      "character": "Ghost",
+      "line": "Thank you. Not many humans like you. Now goblin high priests can rest."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ghost",
+      "description": "Ancient male goblin ghost, raspy ethereal voice with simple broken speech patterns, reverent and wise tone, a faithful prophet who speaks humbly about his visions of the Big High War God."
+    }
+  ]
+}

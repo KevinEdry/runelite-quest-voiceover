@@ -1,0 +1,172 @@
+{
+  "branch": "quest/knight-waves",
+  "quest_name": "Knight Waves",
+  "lines": [
+    {
+      "character": "Squire",
+      "line": "Greetings, brave knight!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello. What's through that door?"
+    },
+    {
+      "character": "Squire",
+      "line": "That door leads to the training ground for the Knights of the Round Table."
+    },
+    {
+      "character": "Player",
+      "line": "Can I go in there?"
+    },
+    {
+      "character": "Squire",
+      "line": "Of course, my lord. But I must tell you the rules first. Would you like to hear them now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Squire",
+      "line": "The training ground is a melee combat area only. Merlin has cast a spell over the grounds to prevent anyone using Prayer, Ranged or Magic."
+    },
+    {
+      "character": "Squire",
+      "line": "Upon entering the grounds, you will fight each of the Round Table Knights in turn. Each knight is more skilled than the last, but all have different attack styles that can be exploited. There are eight knights in all, and"
+    },
+    {
+      "character": "Squire",
+      "line": "each will do damage not only to your hitpoints, but also your combat stats. If you should die in the grounds, Merlin will teleport you back here. You will not lose any of your items."
+    },
+    {
+      "character": "Squire",
+      "line": "If you feel you cannot complete the battle, you may exit the training grounds. However, if you exit or die, you will have to start over with the first knight the next time you enter."
+    },
+    {
+      "character": "Squire",
+      "line": "If you are a great warrior and defeat Sir Lancelot, mightiest of all knights, you will receive great rewards. Two new prayers will become available to you and your respawn point will be set to Camelot, as well as 20,000"
+    },
+    {
+      "character": "Squire",
+      "line": "XP in to each of your combat stats."
+    },
+    {
+      "character": "Squire",
+      "line": "If you do not want your respawn set to Camelot, Merlin can change it for you."
+    },
+    {
+      "character": "Squire",
+      "line": "Would you like me to repeat any of that for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the training ground."
+    },
+    {
+      "character": "Squire",
+      "line": "Only melee combat is allowed within the training grounds. Merlin will prevent the use of Prayer, Ranged and Magic."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Squire",
+      "line": "These grounds are for only the best knights of the land. It is not just testing your combat ability, but your honour and your chivalry. You must face your enemy head on, honourably and bravely."
+    },
+    {
+      "character": "Squire",
+      "line": "Be watchful of your stats, as the Knights can do damage to your combat stats as well as your hitpoints."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about dying or leaving the grounds."
+    },
+    {
+      "character": "Squire",
+      "line": "As these are only training grounds, we keep our knights safe. If you should die, you will be teleported back to here and all of your items will be safe."
+    },
+    {
+      "character": "Squire",
+      "line": "However, leaving the training grounds, in anyway, will mean you will have to start from the beginning the next time you enter. These grounds do not favour cowards."
+    },
+    {
+      "character": "Player",
+      "line": "I have to start again? What do you mean?"
+    },
+    {
+      "character": "Squire",
+      "line": "You fight each knight of the Round Table, starting with Sir Bedivere and finishing with Sir Lancelot. Leaving means you will have to begin fighting Sir Bedivere again and work your way back up."
+    },
+    {
+      "character": "Player",
+      "line": "What if I log out during the fights?"
+    },
+    {
+      "character": "Squire",
+      "line": "If you log out during a fight, upon logging back in you will fight the knight you were fighting when you logged out."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the rewards."
+    },
+    {
+      "character": "Squire",
+      "line": "King Arthur believes in rewarding his knights for their chivalry. Having proven yourself in combat against his knights, and in your services rendered to Camelot, you will be rewarded with two new prayers, and a new"
+    },
+    {
+      "character": "Squire",
+      "line": "respawn at Camelot, as well as 20,000 XP in to each of your combat stats."
+    },
+    {
+      "character": "Player",
+      "line": "What do the new prayers do?"
+    },
+    {
+      "character": "Squire",
+      "line": "Ah, patience is a virtue in knights, my lord. Fight in the training ground and earn your reward to find out!"
+    },
+    {
+      "character": "Player",
+      "line": "Then tell me about the respawn - how will it work?"
+    },
+    {
+      "character": "Squire",
+      "line": "Ah, Merlin has offered, as a reward for your help, to let your respawn in the safety of Camelot, should you befall misfortune elsewhere in the world. Should you wish to change your respawn back to Lumbridge, simply"
+    },
+    {
+      "character": "Squire",
+      "line": "speak to Merlin."
+    },
+    {
+      "character": "Player",
+      "line": "No, thank you."
+    },
+    {
+      "character": "Squire",
+      "line": "Good day, my lord. Is there anything I can do for you?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Well done, young adventurer. You truly are a worthy knight."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Merlin",
+      "line": "Excuse me for rushing off like this, but I must get back to my workroom."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Merlin",
+      "description": "Elderly male, wise and cultured British accent, authoritative yet warm tone with occasional dry wit, a powerful wizard who serves as advisor to the Knights of the Round Table."
+    },
+    {
+      "name": "Squire",
+      "description": "Young adult male, polite and formal British accent, respectful and earnest tone, a courteous servant who takes pride in explaining the training ground rules to visiting knights."
+    }
+  ]
+}

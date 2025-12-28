@@ -1,0 +1,460 @@
+{
+  "branch": "quest/enter-the-abyss",
+  "quest_name": "Enter the Abyss",
+  "lines": [
+    {
+      "character": "Mage of Zamorak",
+      "line": "If you want to talk, this isn't the place for it. Meet me in Varrock's Chaos Temple, by the rune shop. Unless you're here to buy something?"
+    },
+    {
+      "character": "Player",
+      "line": "Let's see what you're selling."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll go."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I already told you to meet me in Varrock's Chaos Temple, by the rune shop. Unless you're here to buy something?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Ah, you again. The Wilderness is hardly the appropriate place for a conversation now, is it? What was it you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "Err... I didn't really want anything."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "So why did you approach me?"
+    },
+    {
+      "character": "Player",
+      "line": "I was just wondering why you sell runes in the Wilderness?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Well I can't go doing it in the middle of Varrock, can I? In case you hadn't noticed, I'm a servant of Zamorak. The Saradominists have made sure that people like me are not welcome in these parts."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you get your runes from?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Well we craft them of course."
+    },
+    {
+      "character": "Player",
+      "line": "We?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "My associates and I. Despite the best attempts of the Saradominists, there's still more of us around than they'd like."
+    },
+    {
+      "character": "Player",
+      "line": "I can't imagine they like you crafting runes much. Do they not try and stop you?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Ha! I'm sure they'd love to, but we have methods of runecrafting that they can only dream of!"
+    },
+    {
+      "character": "Player",
+      "line": "Care to share?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Why would I? You are not a member of our institute. How do I know you won't just go and share all of our secrets with those Saradominist fools in the Order of Wizards."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could make it worth your while?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "How? What do you have to offer?"
+    },
+    {
+      "character": "Player",
+      "line": "Well what is it you want?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Until recently, our runecrafting secrets allowed us to produce runes at a far superior rate compared to the inept Order of Wizards, but something has changed."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "From what we can gather, they've somehow rediscovered how to access the lost Rune Essence Mine."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, well I know all about that. I was actually the one to help them do it!"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You did what? You helped the Order of Wizards?"
+    },
+    {
+      "character": "Player",
+      "line": "Err..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but I can still help you as well."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "So you're a mercenary with no allegiance? Not the type I like working with, but if you have knowledge of the Rune Essence Mine, I seemingly have little choice."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Alright, if you help us access the Rune Essence Mine, we will share our runecrafting secrets with you in return."
+    },
+    {
+      "character": "Player",
+      "line": "I did it so that I could then steal their secrets."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You did? Perhaps I underestimated you."
+    },
+    {
+      "character": "Player",
+      "line": "Deal."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Good. Now, all I need from you is the spell that will teleport me to the Rune Essence Mine."
+    },
+    {
+      "character": "Player",
+      "line": "Err... I don't actually know the spell."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "What? Then how do you get there."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, well the people who do know the spell just teleport me there directly."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Hmm... I see. That makes this slightly more complex, but no matter. You can still help us."
+    },
+    {
+      "character": "Player",
+      "line": "How?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I'll give you a scrying orb with a standard cypher spell cast upon it. The orb will absorb mystical energies that it is exposed to."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "If you teleport to the Rune Essence Mine from three different locations, the orb will absorb the energies of the spell and allow us to reverse-engineer the magic behind it."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Do you know of three different people who can teleport you there?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Well if not, I'm sure one of those fools in the Order of Wizards can tell you. Now, here's the orb."
+    },
+    {
+      "character": "Player",
+      "line": "No deal."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Fine. I will find another way."
+    },
+    {
+      "character": "Player",
+      "line": "I need to think about it."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I will be here once you have decided."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I just remembered that I have to take my pet rat for a walk."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "Yup! Got to go!"
+    },
+    {
+      "character": "Player",
+      "line": "But I'm a loyal servant of Zamorak as well!"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Even if you speak the truth, it takes more than just being a follower of Zamorak to gain the secrets of the institute. You would need to offer something in return."
+    },
+    {
+      "character": "Player",
+      "line": "Like what?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You did what? You helped the Order of Wizards? I thought you claimed to be a servant of Zamorak?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, fine. I don't really serve Zamorak."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Then give me one good reason why I shouldn't have you teleported into the depths of a volcano!"
+    },
+    {
+      "character": "Player",
+      "line": "Because I can still help you."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You would help both sides for your own gain? I suppose as a Zamorakian, I can respect that, even if I don't like it."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll leave. Just don't go teleporting me anywhere."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Be glad that I am merciful! Now go!"
+    },
+    {
+      "character": "Player",
+      "line": "You're right. I'm a faithful follower of Saradomin."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Then you have no place here! Leave, before I make you!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm not interested."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Then you should be gone, for I am very busy."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting. Thanks for the information."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You again. Have you considered my offer? If you help us access the Rune Essence Mine, we will share our runecrafting secrets with you in return."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You again. Have you managed to use that scrying orb to obtain the information I need?"
+    },
+    {
+      "character": "Player",
+      "line": "I lost it. Could I have another?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Fool! Take this, and don't lose it this time!"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You must carry it with you and teleport to the Rune Essence Mine from three different locations. Return to me once you have done so."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but it's in my bank."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Well it is of no use there. Bring it to me."
+    },
+    {
+      "character": "Player",
+      "line": "Here you go."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Right, let's take a look at this orb..."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Yes, this will do nicely. Once again, the Zamorak Magical Institute has overcome the Order of Wizards!"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You have done well. Now, time for us to uphold our end of the bargin."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "The reason we are able to craft so many runes is because we do not visit the runic altars in the traditional way. Instead, we have found a way to teleport to them directly."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Via another plane known as the Abyss. It is a complex place that cannot be easily explained, but I will share our research notes with you so you may better understand it."
+    },
+    {
+      "character": "Player",
+      "line": "So can I use the Abyss?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Yes. Visit me in the Wilderness whenever you wish to be teleported there. Just be careful, for it is a dangerous place. Still, I'm sure you'll agree that the risk is worth the reward."
+    },
+    {
+      "character": "Player",
+      "line": "How is it dangerous?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "There are creatures there that will hunt and attack any visitors on sight. The magic we use for teleporting there can also be a bit... unstable."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Just don't expect to be using any prayers in there."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Anyway, you may also have this pouch as well. I'm sure you will find it useful. Now, we're done here."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about the Abyss?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "It is a hard place to describe. We often refer to it as another plane, but that isn't quite accurate. If anything, it is more like a plane that sits between all other planes."
+    },
+    {
+      "character": "Player",
+      "line": "Right... And what does it have to do with runecrafting?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "In truth, nothing at all. However, it has everything to do with teleportation. You see, time and space work differently in the Abyss."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "For example, you can travel to the Abyss, walk a few steps and then exit, only to find yourself somewhere completely different from where you entered. You might even find yourself on a different plane."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You can also enter the Abyss and spend days there, but on your return, only moments have passed."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "This is why the Abyss is so useful. It can be used as an effective hub for teleportation. In fact, all teleportation that we know of uses the Abyss, you just don't realise it."
+    },
+    {
+      "character": "Player",
+      "line": "Wait... So when I teleport, I'm actually travelling through the Abyss?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "In some ways, I suppose you are. Whenever you use a teleport spell, that spell is actually travelling through the Abyss and using it to link two places together."
+    },
+    {
+      "character": "Player",
+      "line": "So did you discover the Abyss?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "No. Knowledge of the Abyss has existed for a long time, hence it being used for teleportation. However, we believe we may be the first to have properly gained access in centuries."
+    },
+    {
+      "character": "Player",
+      "line": "How did you manage it?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "By complete accident. One of our initiates was performing a routine teleportation experiment when something went wrong. Instead of ending up at their destination, they found themselves in the Abyss."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Now, did you want something else?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about your group?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I suppose you have proven yourself trustworthy. We are a group of mages in service to Zamorak. Our group is called the Zamorak Magical Institute, or Z.M.I. for short."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Few actually know of us. Saradominist groups like the Order of Wizards hold sway over these lands, so we are forced to work in the shadows. However, make no mistake, our power far exceeds theirs."
+    },
+    {
+      "character": "Player",
+      "line": "You don't seem to like the Order of Wizards very much."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "And why would we? Did you know that the Order of Wizards wasn't always a Saradominist group? Once they allowed mages of all faiths to study with them, but they became greedy."
+    },
+    {
+      "character": "Player",
+      "line": "What happened?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "They started to desire more control. They banned Zamorakian wizards from certain areas of study, claiming them to be too dangerous. In reality, they just wanted that knowledge for themselves."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "It all went wrong for them, of course. A Zamorakian wizard made a great breakthrough in teleportation magic, but the Saradominists stole his research."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "They used it to perform a ritual, but their lack of understanding caused it to go wrong. The entire Wizards' Tower burnt down. Many were killed, and years of research was destroyed."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Naturally, they blamed the Zamorakians. Claimed we intentionally burnt the tower down. After the tower was rebuilt, we were banished from the Order of Wizards and forced underground."
+    },
+    {
+      "character": "Player",
+      "line": "And that's how the Z.M.I. was formed?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Exactly."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better be off."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Mage of Zamorak",
+      "description": "Middle-aged male, British accent, calm and calculating tone. A devoted Zamorakian mage who speaks with quiet authority and thinly veiled contempt for Saradominists, secretive yet practical in his dealings."
+    }
+  ]
+}

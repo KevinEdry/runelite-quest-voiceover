@@ -1,0 +1,792 @@
+{
+  "branch": "quest/the-generals-shadow",
+  "quest_name": "The General's Shadow",
+  "lines": [
+    {
+      "character": "General Khazard",
+      "line": "Wooooo whooo wooo. Whoot!"
+    },
+    {
+      "character": "Player",
+      "line": "You tell 'em."
+    },
+    {
+      "character": "General Khazard",
+      "line": "You can see into the Shadow Realm and yet you are not of it. Oh well, you will be of no use."
+    },
+    {
+      "character": "Player",
+      "line": "Huh? What do you mean I am not of it?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Your form is still solid. To be of the Shadow Realm you must be less opaque."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, General."
+    },
+    {
+      "character": "General Khazard",
+      "line": "What? You are not dead and yet you walk and talk in the Shadow Realm. Explain yourself."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a being of great power and experience. I can see and speak to ghosts. For my assistance they clothed me in their garb. Can I offer you assistance, General?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "This intrigues me. How do you know me? You look familiar but I can't place it."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, well, you don't really have eyes, so how can you tell?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "There are ways to see that you humans cannot grasp."
+    },
+    {
+      "character": "Player",
+      "line": "Oh."
+    },
+    {
+      "character": "General Khazard",
+      "line": "It doesn't matter anyway. You are not of the blood and I cannot trust you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a very trustworthy person."
+    },
+    {
+      "character": "General Khazard",
+      "line": "That is not something I can take your word on."
+    },
+    {
+      "character": "Player",
+      "line": "So who's word would you take?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Hmm... There is one person's word I would believe. If you visited the Sin Seer, and she judged you trustworthy, then I would have use for you."
+    },
+    {
+      "character": "Player",
+      "line": "Where would I find her?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Well, considering I told you she was a seer, of sorts, I would imagine you would find her in Seers' Village. It is to the south of here, not far."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Go and see her, return with her report and I will see if I have use for you. You will be well rewarded."
+    },
+    {
+      "character": "Player",
+      "line": "Okay! That sounds reasonable. Sin Seer, huh? How do you know someone like her?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "It's a long story, and I do not have the time to tell it."
+    },
+    {
+      "character": "Player",
+      "line": "I just have one of those faces."
+    },
+    {
+      "character": "General Khazard",
+      "line": "True, I never can tell you humans apart. You're all ugly creatures, anyway."
+    },
+    {
+      "character": "Player",
+      "line": "Hey!"
+    },
+    {
+      "character": "Player",
+      "line": "Err, what was I supposed to do again?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "You goldfish! Go find the Sin Seer - she will determine if you are trustworthy. She lives in Seers' Village to the south of here."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for the Sin Seer."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Are you another one of those 'holier than thou' fools wanting to redeem themselves?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, no actually, I'm trying to join a really evil guy's team."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Really? Finally, something worthwhile."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "It was fun messing with those devotees the first few times but, after a while, condemning people to an eternity of damnation gets a bit dull."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "So, whom are you trying to hook up with? Dark priest? Warlord? Penguin?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, I want to prove to General Khazard I'm trustworthy."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Oh, that old fart? Is he still around? Humph. I dunno if I can be bothered."
+    },
+    {
+      "character": "Player",
+      "line": "What if I pay you for the trouble - would you then? I can't imagine you make much money, seeing people's sins and all."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Oh, there's money in it. I just don't get invited to many parties."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "You got me all excited about evil plots, and now it's just a matter of trust. I really can't be bothered to strain myself on that account."
+    },
+    {
+      "character": "Player",
+      "line": "Fine, you don't actually have to see my sins, just pronounce me to be trustworthy. I'll pay you and be on my way."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "He'll know it's a lie. But I do need the cash, so I'll do it. Gimme 40 gold coins and you'll be as trustworthy as a newborn."
+    },
+    {
+      "character": "Player",
+      "line": "Here's the money."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Sorry, you don't have enough money."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Fine. I declare you trustworthy, if you consider bribing a seer a trustworthy transaction."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Give this note to Khazard, it will prove you have been to see me."
+    },
+    {
+      "character": "Player",
+      "line": "PLEASE! I want to know what he's up to."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Ooooh, you're going to learn of his plans and stab him in the back?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Fine, give me 40 gold coins and I'll take a look at your sins."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "You have done many great deeds...but many terrible deeds. Sometimes you do them by accident, but are still sins. No, I would not trust you to walk my dog."
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Whatcha lookin' at chicken legs? Don't you have a General you should speak to?"
+    },
+    {
+      "character": "Sin Seer",
+      "line": "You already have one. Get on with you!"
+    },
+    {
+      "character": "Sin Seer",
+      "line": "Here ya go. Take more care of it this time."
+    },
+    {
+      "character": "Player",
+      "line": "I have been to the Sin Seer. She has made her verdict."
+    },
+    {
+      "character": "General Khazard",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, and I seem to have misplaced the note she gave me."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Well, you'd best go get another one! Be off with you!"
+    },
+    {
+      "character": "Player",
+      "line": "She said to give you this note to prove I went to see her."
+    },
+    {
+      "character": "General Khazard",
+      "line": "The note says you have committed many sins and atrocities in your life. I'm impressed; I will use you."
+    },
+    {
+      "character": "General Khazard",
+      "line": "It has been a long time since I have left my home in the south. I have lost track of what is going on in the world, but now it is imperative that I know."
+    },
+    {
+      "character": "General Khazard",
+      "line": "So, I sent out four scouts to gather information for me. I brought them to walk like me in the Shadow Realm, so they would be safe from my enemies."
+    },
+    {
+      "character": "General Khazard",
+      "line": "I sent them on four missions. One was to go to the land of the gnomes and explore their holdings. One was to go to a jungle to the south. One was to explore where the White Knights rule. And one to the place that"
+    },
+    {
+      "character": "General Khazard",
+      "line": "I once called home - a place of great heat."
+    },
+    {
+      "character": "General Khazard",
+      "line": "I am going to entrust you with a very important message, which you must deliver to each one of them."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Tell them: The planets are nearing alignment; we will meet in the place of half light and ice soon. Beware of the others, for though they are weak and few, they are cunning."
+    },
+    {
+      "character": "Player",
+      "line": "You can trust me to do it, sir!"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Do you make progress in finding my scouts?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't found any. Where were they headed?"
+    },
+    {
+      "character": "Player",
+      "line": "I've found, but they're kind of hard to find. Where were they headed again?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "One was to go to a jungle to the south."
+    },
+    {
+      "character": "General Khazard",
+      "line": "One was to go to the land of the gnomes and explore their holdings."
+    },
+    {
+      "character": "General Khazard",
+      "line": "One was to explore where the White Knights rule."
+    },
+    {
+      "character": "General Khazard",
+      "line": "One was to go to a place of great heat."
+    },
+    {
+      "character": "General Khazard",
+      "line": "If I knew more of their locations I would go myself. Now go and finish the job."
+    },
+    {
+      "character": "Scout",
+      "line": "I am on a mission. I cannot spare time to speak to you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Scout",
+      "line": "Spy! I shall kill you!"
+    },
+    {
+      "character": "Player",
+      "line": "Eek!"
+    },
+    {
+      "character": "Scout",
+      "line": "You can see into the Shadow Realm, but you are not of it. I cannot trust you."
+    },
+    {
+      "character": "Player",
+      "line": "I am not of it? What Shadow Realm? Hello? He's not listening."
+    },
+    {
+      "character": "Scout",
+      "line": "Begone, you filthy human. I spare no words for you."
+    },
+    {
+      "character": "Player",
+      "line": "All you had to say was: 'Please, come back some other time.'"
+    },
+    {
+      "character": "Scout",
+      "line": "A mere mortal can see into the Shadow Realm? The General will want to know of this."
+    },
+    {
+      "character": "Player",
+      "line": "General who? Hello? How rude, he's not listening."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there! General Khazard sent me."
+    },
+    {
+      "character": "Scout",
+      "line": "You must be a great mage to be able to see me, human."
+    },
+    {
+      "character": "Player",
+      "line": "So, are you a ghost?"
+    },
+    {
+      "character": "Scout",
+      "line": "Nothing so morbid. I am a scout for Khazard, and I move more easily through the land unseen. There are enemies everywhere."
+    },
+    {
+      "character": "Player",
+      "line": "If you're not a ghost, why do I need an Amulet of Ghostspeak to talk to you?"
+    },
+    {
+      "character": "Scout",
+      "line": "Those who walk fully in the Shadow Realm become warped by it and speak as ghosts do. That is why I cannot speak to you unless you wear the amulet."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Well, here's your message."
+    },
+    {
+      "character": "Player",
+      "line": "Khazard says: 'The planets are nearing alignment; we will meet in the place of half light and ice soon. Beware of the others, for though they are weak and few, they are cunning.'"
+    },
+    {
+      "character": "Scout",
+      "line": "Thank you, messenger."
+    },
+    {
+      "character": "Player",
+      "line": "So, how's your mission going?"
+    },
+    {
+      "character": "Scout",
+      "line": "There is nothing pleasant about this land. The animals are vile, the temperature is unbearable and the plant life is often more dangerous than the animals."
+    },
+    {
+      "character": "Scout",
+      "line": "There were some strange occurrences in Tai Bwo Wannai. The people fled their village because their gods were angry with them, or the like, but now they have returned. I must investigate why."
+    },
+    {
+      "character": "Scout",
+      "line": "Shilo Village was overrun with the undead, but someone of great ability has brought the situation under control."
+    },
+    {
+      "character": "Player",
+      "line": "Well, there's always something interesting going on here."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea where the other scouts are?"
+    },
+    {
+      "character": "Scout",
+      "line": "I am a scout, not a spy. I do not keep track of them."
+    },
+    {
+      "character": "Scout",
+      "line": "I was told to go south, so here I am. I know one was to investigate the gnomes. I believe one headed towards Asgarnia. Another was told to go to a place of great heat, but that they would have to sneak through a pass."
+    },
+    {
+      "character": "Scout",
+      "line": "What news, skinbag?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, no need to be rude."
+    },
+    {
+      "character": "Scout",
+      "line": "Your smell disgusts me, so make it quick."
+    },
+    {
+      "character": "Scout",
+      "line": "I'll be glad when all this is over. The General will be strong again and we will push back this tide of filth that is humanity."
+    },
+    {
+      "character": "Player",
+      "line": "Oi! I am one of the filth, I mean, humans! Besides, we were here first."
+    },
+    {
+      "character": "Scout",
+      "line": "Haa, haa, haa. Oh, you naive mortals. There were many here before you. The last time the General went north, all this land belonged to the elves. Do not think so highly of your race."
+    },
+    {
+      "character": "Player",
+      "line": "Discovered anything interesting on your travels?"
+    },
+    {
+      "character": "Scout",
+      "line": "As I passed through Ardougne, I overheard some news. The plague in the west grows worse. King Lathas's popularity continues to increase as he tries to combat it. I suspect there is more to be learned, but my"
+    },
+    {
+      "character": "Scout",
+      "line": "mission is to observe gnomes, not humans."
+    },
+    {
+      "character": "Scout",
+      "line": "As I passed through Ardougne, I overheard some news. The plague in the west was revealed to be a hoax. King Lathas was executed and a new king now rules in his place. I suspect there is more to be learned, but my"
+    },
+    {
+      "character": "Scout",
+      "line": "I have heard that the cultists, who think they are so well hidden in the sewers, have succeeded in their ritual."
+    },
+    {
+      "character": "Scout",
+      "line": "I have heard that the cultists, who think they are so well hidden in the sewers, have failed in their ritual."
+    },
+    {
+      "character": "Scout",
+      "line": "I head to the land of the gnomes; rumours say it is peaceful right now."
+    },
+    {
+      "character": "Scout",
+      "line": "But I hear Glough has lost his position as advisor."
+    },
+    {
+      "character": "Scout",
+      "line": "That is all I have heard."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still looking for some of the other scouts. Any suggestions?"
+    },
+    {
+      "character": "Scout",
+      "line": "I was ordered west. One was told to seek out the warmth of the jungles. The other two headed east: one in search of deserts, the other in search of knights."
+    },
+    {
+      "character": "Scout",
+      "line": "Finally, news! What message does he send?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, it was something about planets."
+    },
+    {
+      "character": "Scout",
+      "line": "Well, spit it out! I can't wait here all day."
+    },
+    {
+      "character": "Scout",
+      "line": "Good. I long for the slaughter. These local squabbles and politics bore me. I wonder if the others have begun to move as well?"
+    },
+    {
+      "character": "Player",
+      "line": "The other what? Who are you slaughtering?"
+    },
+    {
+      "character": "Scout",
+      "line": "Ah, not for your ears, messenger!"
+    },
+    {
+      "character": "Player",
+      "line": "So how's your mission going. Enjoying the Draynor woods?"
+    },
+    {
+      "character": "Scout",
+      "line": "The villagers still live in fear of the Count of Draynor Manor, so all is as it should be."
+    },
+    {
+      "character": "Scout",
+      "line": "There is talk in the village that the Count of Draynor Manor has been slain by some meddling adventurer. I will need to enter the manor to verify this."
+    },
+    {
+      "character": "Scout",
+      "line": "Other than that, nothing of interest."
+    },
+    {
+      "character": "Player",
+      "line": "Have you been in touch with any of the other scouts?"
+    },
+    {
+      "character": "Scout",
+      "line": "I'm too busy scouting to be in touch. One headed this direction with me seeking the place of heat and sand, another sought a place of moisture and growth and the last sought gnomes."
+    },
+    {
+      "character": "Scout",
+      "line": "Gah! Don't sneak up on me!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, sorry."
+    },
+    {
+      "character": "Scout",
+      "line": "I think I can see my heart pounding!"
+    },
+    {
+      "character": "Player",
+      "line": "You're pretty jumpy for a scout. I thought you'd be made of sterner stuff."
+    },
+    {
+      "character": "Scout",
+      "line": "What is it you want exactly?"
+    },
+    {
+      "character": "Player",
+      "line": "I bring a message from the General!"
+    },
+    {
+      "character": "Scout",
+      "line": "Oh good, I long for the cold. This place is so hot! The General has told me much of his time spent here and I can see why he left."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, did the General live here?"
+    },
+    {
+      "character": "Scout",
+      "line": "Long ago, yes. But not by choice. His evil lord and master forced him and his kind to reside here."
+    },
+    {
+      "character": "Player",
+      "line": "Khazard with a master? Hard to believe. Who was it?"
+    },
+    {
+      "character": "Scout",
+      "line": "I think I have said too much already."
+    },
+    {
+      "character": "Player",
+      "line": "So what have you discovered on your travels through the desert?"
+    },
+    {
+      "character": "Scout",
+      "line": "The fighting in the desert has come to a stop. However, there is still much distrust between Menaphos and Al Kharid. It seems like it would be possible to reignite the war if needed."
+    },
+    {
+      "character": "Scout",
+      "line": "I have heard whisperings in the bandit camp that the prisoner of Jaldraocht is now free."
+    },
+    {
+      "character": "Scout",
+      "line": "I followed one called Lazim. He let slip that he had discovered the buried temple. Now the two others who were there are on the move. The General may find there are new players at the ritual this time."
+    },
+    {
+      "character": "Player",
+      "line": "The desert seems to be a hotbed of information. Do you want me to relay any of this to the General?"
+    },
+    {
+      "character": "Scout",
+      "line": "Not at this time. I must investigate further."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea where I can find the other scouts?"
+    },
+    {
+      "character": "Scout",
+      "line": "Hmm, I left one of them near a haunted wood - the trees kept trying to hit us. One scout headed for the jungle and the other for the gnomes."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've found all of you now."
+    },
+    {
+      "character": "Scout",
+      "line": "How do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "The General sent me to find his four scouts, and now I've found all of you and delivered his message."
+    },
+    {
+      "character": "Scout",
+      "line": "You have served the General well. I hope he rewards you. How did you come to his service?"
+    },
+    {
+      "character": "Player",
+      "line": "He was surprised to see someone like me in the Shadow Realm and I offered to give him assistance if he needed it."
+    },
+    {
+      "character": "Scout",
+      "line": "You did not know of him before that? I am surprised he would speak to someone who did not know of his greatness."
+    },
+    {
+      "character": "Player",
+      "line": "Greatness? He's crazy. He kidnapped innocent people and butchered them in his arena. Not to mention sicking that dog on people. Killing it was the best thing I ever...heard about."
+    },
+    {
+      "character": "Scout",
+      "line": "Indeed? Strange you would serve a man you feel that way about, but I will not doubt the General's judgement. You'd best go back to the General and report. I have a message you could take him."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let 'er rip."
+    },
+    {
+      "character": "Scout",
+      "line": "I have nothing to rip, but the message is 'We of the blood are still loyal. Pavlov is the messenger.'"
+    },
+    {
+      "character": "Player",
+      "line": "Right, I'll remember that. Anything else?"
+    },
+    {
+      "character": "Scout",
+      "line": "No, you may go."
+    },
+    {
+      "character": "Player",
+      "line": "So, what was I supposed to do now?"
+    },
+    {
+      "character": "Scout",
+      "line": "You must speak to General Khazard to obtain your 'well-earned' reward."
+    },
+    {
+      "character": "Player",
+      "line": "I did it, sir! I found all of the scouts and delivered your message. The last one said I should report back to you."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Oh, and what did he say that for?"
+    },
+    {
+      "character": "Player",
+      "line": "He said to tell you, 'We of the blood are still loyal. Pavlov is the messenger.'"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Ah. Interesting. Well, you have served your purpose. Now to award you with something appropriate."
+    },
+    {
+      "character": "General Khazard",
+      "line": "There is a cave near where the fish-men gather. Go to the east branch of this cave and seek out one who lives in the Shadow Realm. He will reward you well."
+    },
+    {
+      "character": "Player",
+      "line": "Right! Fish-men. Cave. Ghost. Thanks, General!"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Wait! Take this, it is the key to your reward."
+    },
+    {
+      "character": "General Khazard",
+      "line": "You do not have enough space for it. Speak to me again when you do."
+    },
+    {
+      "character": "Player",
+      "line": "Ugh, well, at least it's not another hand."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Ah, you have dealt with severed limbs before?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a long story."
+    },
+    {
+      "character": "Player",
+      "line": "Ugh! A leg? That's revolting!"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Don't worry if you lose it, I can always get more to replace it."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, sir. Where was my reward again?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "There is a cave near where the fish-men gather. Go there and seek out one who lives in the Shadow Realm. He will reward you well."
+    },
+    {
+      "character": "Player",
+      "line": "I lost the key to my reward."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Incompetent fool!"
+    },
+    {
+      "character": "General Khazard",
+      "line": "You already have one. What use could you have for two?"
+    },
+    {
+      "character": "General Khazard",
+      "line": "Here, take another. They are easy to come by."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "The General said I would find my reward near where the fish-men gather. I don't know what he means!"
+    },
+    {
+      "character": "Scout",
+      "line": "The General is a bit...cliché. Fish-men are fishermen. Now, away with you!"
+    },
+    {
+      "character": "Player",
+      "line": "What the...! It's Bouncer, Khazard's hell hound."
+    },
+    {
+      "character": "Player",
+      "line": "Khazard tricked me! This is no reward, he's trying to get me killed...AGAIN!"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, I'd better not go in without the leg, I mean key. Khazard said I wouldn't get my reward without it."
+    },
+    {
+      "character": "Player",
+      "line": "Away, darn spot!"
+    },
+    {
+      "character": "Player",
+      "line": "Your dog attacked me. AGAIN!"
+    },
+    {
+      "character": "General Khazard",
+      "line": "He was angry that you killed him. Quite natural, really."
+    },
+    {
+      "character": "General Khazard",
+      "line": "Now get out of here, you filthy skinbag. I will not waste my time on you."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Scout",
+      "line": "I can't speak to you; I must continue on my mission."
+    }
+  ],
+  "characters": [
+    {
+      "name": "General Khazard",
+      "description": "Ancient male Mahjarrat, deep and commanding voice with supernatural resonance, arrogant and ruthless tone befitting a tyrannical general who views humans as beneath him."
+    },
+    {
+      "name": "Scout",
+      "description": "Male ghost warrior, ethereal and hollow voice with a contemptuous tone, a loyal soldier of Khazard who despises humans and speaks with cold military precision."
+    },
+    {
+      "name": "Sin Seer",
+      "description": "Middle-aged female, British accent, eccentric and dramatic tone, a slightly unhinged seer who speaks in theatrical exclamations and delivers harsh truths bluntly."
+    }
+  ]
+}
