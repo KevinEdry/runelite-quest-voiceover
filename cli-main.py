@@ -104,7 +104,7 @@ def prompt_user():
         
         try:
             connection = database.create_connection()
-            database.init_virtual_table(connection=connection)
+            database.init_table(connection=connection)
 
             file_name = elevenlabs.generate(character=character, 
                                 voice_id=character_voices_dict[character], 

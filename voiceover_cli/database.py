@@ -13,18 +13,18 @@ def create_connection() -> Connection:
         os.makedirs(OUTPUT_DIR)
     return sqlite3.connect(f"{OUTPUT_DIR}/{DATABASE_NAME}.db", check_same_thread=False)
 
-def init_virtual_table(connection: Connection) -> None:
+def init_table(connection: Connection) -> None:
     cursor = connection.cursor()
-    query = '''
-        CREATE VIRTUAL TABLE IF NOT EXISTS dialogs USING fts4(
-            quest TEXT NOT NULL UNINDEXED,
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS dialogs (
+            quest TEXT NOT NULL,
             character TEXT NOT NULL,
             text TEXT NOT NULL,
-            uri TEXT NOT NULL UNINDEXED
+            uri TEXT NOT NULL
         )
-    '''
-
-    cursor.execute(query)
+    ''')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_dialogs_character ON dialogs(character)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_dialogs_character_text ON dialogs(character, text)')
     connection.commit()
 
 def insert_quest_voiceover(connection: Connection,quest: str, character: str, text: str, file_name: str) -> None:

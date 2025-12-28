@@ -75,7 +75,7 @@ com/quest/voiceover/
 ### Python CLI (`voiceover_cli/`)
 - **wiki_utils.py** - Scrapes OSRS Wiki for quest transcripts and character lists
 - **elevenlabs.py** - ElevenLabs SDK wrapper for voice generation
-- **database.py** - SQLite FTS4 virtual table management for dialog lookups
+- **database.py** - SQLite table management for dialog lookups
 - **utils.py** - Utility functions (MD5 hashing, text processing)
 
 ### Git Branch Structure (Unconventional)
@@ -95,15 +95,17 @@ Audio files use MD5 hash of `{character}|{dialog_text}` as filename (e.g., `a1b2
 ## Database Schema
 
 ```sql
-CREATE VIRTUAL TABLE dialogs USING fts4(
-    quest TEXT NOT NULL UNINDEXED,
+CREATE TABLE dialogs (
+    quest TEXT NOT NULL,
     character TEXT NOT NULL,
     text TEXT NOT NULL,
-    uri TEXT NOT NULL UNINDEXED
-)
+    uri TEXT NOT NULL
+);
+CREATE INDEX idx_dialogs_character ON dialogs(character);
+CREATE INDEX idx_dialogs_character_text ON dialogs(character, text);
 ```
 
-FTS4 enables fast full-text search matching of in-game dialog text to audio files.
+Dialog lookups use exact match and Levenshtein similarity fallback for fuzzy matching.
 
 ## Contributing Voice Lines
 

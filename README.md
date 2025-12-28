@@ -34,7 +34,7 @@ https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e
 
 ### Smart Dialog Matching
 - **Fuzzy Text Matching** - Handles dialog variations using Levenshtein distance algorithm
-- **Fast Lookups** - SQLite FTS4 database for instant dialog-to-audio matching
+- **Fast Lookups** - SQLite database with indexed queries for instant dialog-to-audio matching
 
 ## Installation
 

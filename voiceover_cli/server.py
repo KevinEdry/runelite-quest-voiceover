@@ -16,7 +16,7 @@ class DialogEntry(BaseModel):
 def startup():
     global connection
     connection = db.create_connection()
-    db.init_virtual_table(connection)
+    db.init_table(connection)
 
 @app.on_event("shutdown")
 def shutdown():
