@@ -1,11 +1,9 @@
 ![](https://runelite.net/img/logo.png)
 # Quest Voiceover
-This plugin aims to provide voice over acting to the brilliant quest writing in Old School Runescape as a Runelite plugin.
-<br>
-<br>
-We want to add support to most (if not all) quests in the game, but this will be an ongoing process to do right, if you want to help us out, feel free to join the discord and message us, lets see this through.
 
-<a href="https://discord.gg/tkr6tEbXJr" target="_blank"> 
+A RuneLite plugin that adds AI-generated voice acting to Old School RuneScape quest dialogues. Experience quests the way they were meant to be heard.
+
+<a href="https://discord.gg/tkr6tEbXJr" target="_blank">
    <img src="https://discord.com/api/guilds/1254623476086472758/widget.png?style=banner2" alt="Discord Banner 2"/>
 </a>
 
@@ -13,87 +11,115 @@ We want to add support to most (if not all) quests in the game, but this will be
 
 https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e26a-4a0f-9d7e-36af3b157a88
 
+## Features
+
+### Voice Acting
+- **AI-Generated Voices** - Natural-sounding character voices powered by ElevenLabs
+- **Automatic Playback** - Voiceovers play automatically when quest dialogs open
+- **Streamed Audio** - MP3 files stream directly from GitHub, no large downloads required
+
+### Audio Controls
+- **Adjustable Volume** - Set voiceover volume independently (1-100%)
+- **Audio Ducking** - Game music and sound effects automatically lower while voices play
+- **Configurable Ducking** - Control how much game audio reduces (0-100%)
+- **Quick Mute Button** - Toggle voiceovers directly from the dialog interface
+
+### Speech Highlighting
+- **Word-by-Word Highlighting** - Dialog text highlights in sync with the spoken audio
+- **Customizable Color** - Choose your preferred highlight color
+
+### Quest List Integration
+- **[Voiced] Indicator** - See which quests have voice acting directly in the quest list
+- **Quest Coverage Stats** - View voiced quest statistics in the plugin panel
+
+### Smart Dialog Matching
+- **Fuzzy Text Matching** - Handles dialog variations using Levenshtein distance algorithm
+- **Fast Lookups** - SQLite FTS4 database for instant dialog-to-audio matching
+
+## Installation
+
+Search for **"Quest Voiceover"** in the RuneLite Plugin Hub.
+
 ## Supported Quests
-While not all the voices are acted in the best way, with our cli tooling, we are hoping to cover most of the quests in the game asap, this is our progress so far:
-- [x] Children of the Sun
-- [x] Cook's Assistant
-- [x] Current Affairs
-- [x] Dwarf Cannon
-- [x] Gertrude's Cat
-- [x] Ghosts Ahoy
-- [x] Imp Catcher
-- [x] Misthalin Mystery
-- [x] Pandemonium
-- [x] Prince Ali Rescue
-- [x] Rune Mysteries
-- [x] Shades of Mort'ton
-- [x] Sheep Shearer
-- [x] Spirits of the Elid
-- [x] The Restless Ghost
-- [x] Tree Gnome Village
-- [x] Waterfall Quest
-- [x] Witch's House
-- [x] Black Knights' Fortress
-- [x] Clock Tower
-- [x] Doric's Quest
-- [x] Dragon Slayer I
-- [x] Ernest the Chicken
-- [x] Jungle Potion
-- [x] Lost City
-- [x] Monk's Friend
-- [x] Romeo and Juliet
-- [x] Scorpion Catcher
-- [x] The Depths of Despair
-- [x] The Knight's Sword
-- [x] The Tourist Trap
-- [x] Tribal Totem
-- [x] Tutorial Island
-- [x] Vampyre Slayer
-- [x] Witch's Potion
 
-If you want to see this plugin support other quests you can either:
-1. Fork this repo and use the `voiceover_cli` to generate the sounds and contribute.
-2. Send us a message in our discord server.
+Currently **35 quests** are fully voiced, including Tutorial Island, Dragon Slayer I, Waterfall Quest, Lost City, The Restless Ghost, and many more.
 
-## Generating Voiceovers
-In this repository contains the tools to contribute!
-<br>
-This can be done by using our `voiceover_cli` tool to generate all the sound bites automatically for a given quest.
+<details>
+<summary>View full quest list</summary>
+
+- Children of the Sun
+- Cook's Assistant
+- Current Affairs
+- Dwarf Cannon
+- Gertrude's Cat
+- Ghosts Ahoy
+- Imp Catcher
+- Misthalin Mystery
+- Pandemonium
+- Prince Ali Rescue
+- Rune Mysteries
+- Shades of Mort'ton
+- Sheep Shearer
+- Spirits of the Elid
+- The Restless Ghost
+- Tree Gnome Village
+- Waterfall Quest
+- Witch's House
+- Black Knights' Fortress
+- Clock Tower
+- Doric's Quest
+- Dragon Slayer I
+- Ernest the Chicken
+- Jungle Potion
+- Lost City
+- Monk's Friend
+- Romeo and Juliet
+- Scorpion Catcher
+- The Depths of Despair
+- The Knight's Sword
+- The Tourist Trap
+- Tribal Totem
+- Tutorial Island
+- Vampyre Slayer
+- Witch's Potion
+
+</details>
+
+## Contributing
+
+Want to help voice more quests? The repository includes a CLI tool that automates voice generation using ElevenLabs.
+
+<details>
+<summary>View contribution guide</summary>
 
 ### Requirements
-- Pixi - https://pixi.sh/
-- Elevenlabs Account - https://elevenlabs.io/app
+- [Pixi](https://pixi.sh/)
+- [ElevenLabs Account](https://elevenlabs.io/app)
 
-### Installation
-1. Install the required packages.
+### Setup
 ```bash
 pixi install
-```
-2. Copy the .env.example file to .env and fill in your ElevenLabs API Key (You can skip this step if you want the CLI to automate it).
-```bash
-cp .env.example .env
+cp .env.example .env  # Add your ElevenLabs API key
 ```
 
 ### Usage
-1. In Elevenlabs, create a voice for each specific character in the quest, you can do this by searching for a suitable voice from their voice library or making your own. <br>
-   **Note: To keep the voice actors consistent, the player dialog lines will always be voiced by the default `Chris` voice!**
-2. To use the interactive cli tool, run the following command:
 ```bash
 pixi run cli
 ```
 
-3. An interactive cli tool should open for you to generate the sounds, read through the instructions and generate the transcript voiceover!
+The interactive CLI will scrape quest transcripts from the OSRS Wiki and guide you through assigning voices to each character.
 
 ![Interactive CLI](https://i.imgur.com/DZR3zZT.gif)
-<br>
 
-This tool will automatically scrape the Old School Runescape Wiki for the available quest transcripts and characters and will ask you to assign a voice for each one based on the voices you created in step 1.
-<br> After the voices are done generating, fork the `sounds` branch, and add the files to the root directory before  creating a pull request.
+**Note:** Player dialog lines use the default `Chris` voice for consistency across all quests.
+
+</details>
 
 ## Acknowledgements
-Huge thanks to the following runelite plugin repositories for helping out with code snippets and implementation.
-- [Text to speech](https://github.com/techgaud/TTS) - Thanks for helping with the Jaco library implementation
-- [C Engineer: Completed](https://runelite.net/plugin-hub/show/c-engineer-completed) - Thanks for helping with the streaming functionality of the voiceover files.
-- [VoiceOver for World of Warcraft](https://github.com/mrthinger/wow-voiceover) - Thanks for the initial inspiration for this project.
 
-I also can't stress enough how **instrumental** and helpful the Runelite developers discord community and the OSRS Wiki community were to this project.
+Thanks to these projects for inspiration and code snippets:
+- [Text to Speech](https://github.com/techgaud/TTS) - Jaco library implementation
+- [C Engineer: Completed](https://runelite.net/plugin-hub/show/c-engineer-completed) - Streaming functionality
+- [VoiceOver for World of Warcraft](https://github.com/mrthinger/wow-voiceover) - Original inspiration
+
+Special thanks to the RuneLite Discord community and OSRS Wiki contributors.

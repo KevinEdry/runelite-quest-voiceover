@@ -6,44 +6,47 @@ Extract dialogue and character data from an OSRS Wiki quest transcript page.
 
 ## Instructions
 
-1. **Fetch the wiki page** at the provided URL using a curl get request
+### Step 1: Run the extraction script
 
-2. **Extract the quest name** from the page title (remove "Transcript:" prefix)
+Run the Python script to extract dialogue lines:
 
-3. **Extract all dialogue lines** with their speaker names:
-   - Include the "Player" as a valid speaker
-   - Skip menu options (player choices shown as clickable options)
-   - Skip item descriptions and examine text
-   - Skip stage directions (text in parentheses describing actions)
-   - Skip section headers and navigation elements
-   - **NEVER merge lines together** - each `<b>Speaker:</b>` tag on the wiki represents exactly one dialogue box as shown in-game, preserve this 1:1 mapping
-   - Deduplicate exact repeated lines (same speaker + same text)
+```bash
+pixi run python3 scripts/extract_transcript.py "$ARGUMENTS"
+```
 
-4. **Resolve dynamic text:**
-   - Remove bracketed variables like `[1-19]`, `[item]`, `[number]`, `[Player name]`
-   - Keep the sentence grammatically correct after removal
-   - Examples:
-     - "I need [1-19] more eggs" → "I need more eggs"
-     - "Hello [Player name], welcome!" → "Hello, welcome!"
-     - "Bring me [number] items" → "Bring me items"
+This will:
+- Fetch the wiki page and parse the HTML
+- Extract the quest name from the page title
+- Extract all dialogue lines with speaker names (skipping menu options, stage directions, etc.)
+- Resolve dynamic text (remove `[Player name]`, `[1-19]`, etc.)
+- Deduplicate identical lines
+- Generate the branch name (`quest/quest-name-slug`)
+- Save JSON to `transcripts/{quest-name-slug}.json`
 
-5. **Extract unique characters** (exclude "Player"):
-   - For each character, search the OSRS Wiki for more information about them
-   - Create an ElevenLabs voice description in this format: age, gender, accent, tone, personality
-   - Keep descriptions to 1-2 sentences, max 500 characters
-   - Base the description on the character's lore, appearance, and role in the game
-   - **Never use the word "child"** in descriptions (ElevenLabs blocks it) - use alternatives like "young", "youthful", or specific ages instead
+### Step 2: Read the generated JSON
 
-6. **Generate a branch name** for GitHub:
-   - Format: `quest/{quest-name-lowercase-hyphenated}`
-   - Example: "Cook's Assistant" → `quest/cooks-assistant`
+Read the generated transcript file to get the list of characters that need descriptions.
 
-7. **Output a JSON file** saved to `transcripts/{quest-name-slug}.json` with this structure:
+### Step 3: Add character descriptions
 
-8. **Validation** verify transcript lines:
-   - Read the json we just generated and count the amount of "lines".
-   - Compare that with the wiki page to make sure the amount is correct.
+For each character in the `characters` array (excluding "Player"):
 
+1. **Search the OSRS Wiki** for information about the character
+2. **Create an ElevenLabs voice description** with this format: age, gender, accent, tone, personality
+3. **Keep descriptions to 1-2 sentences**, max 500 characters
+4. **Base the description** on the character's lore, appearance, and role in the game
+5. **Never use the word "child"** in descriptions (ElevenLabs blocks it) - use alternatives like "young", "youthful", or specific ages instead
+
+Example description:
+```
+"Middle-aged male, British accent, gruff and impatient tone, a hardworking cook who takes pride in his work but is easily stressed."
+```
+
+### Step 4: Update the JSON file
+
+Add the `description` field to each character in the JSON file.
+
+Final JSON structure:
 ```json
 {
   "branch": "quest/quest-name",
@@ -61,9 +64,14 @@ Extract dialogue and character data from an OSRS Wiki quest transcript page.
 }
 ```
 
+### Step 5: Validation
+
+1. Count the number of `lines` in the generated JSON
+2. Compare with the wiki page speaker count to verify extraction accuracy
+3. Ensure all characters have descriptions
+
 ## Important Notes
 
 - Dialogue lines should preserve the original punctuation and formatting
 - Character descriptions should be suitable for ElevenLabs voice generation
 - If a character has little lore, make reasonable inferences based on their role and dialogue
-- Create the `transcripts` directory if it doesn't exist
