@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.7.0...v1.8.0) (2025-12-28)
+
+
+### Features
+
+* add quest transcript extraction script and transcripts ([fecbf76](https://github.com/KevinEdry/runelite-quest-voiceover/commit/fecbf76732354d24f8d74cbbab027fcdb6ff4f84))
+
 ## [1.7.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.6.0...v1.7.0) (2025-12-24)
 
 
