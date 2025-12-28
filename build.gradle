@@ -27,7 +27,7 @@ dependencies {
 }
 
 group = 'com.quest.voiceover'
-version = '1.8.0' // x-release-please-version
+version = '1.8.1' // x-release-please-version
 
 tasks.withType(JavaCompile) {
 	options.encoding = 'UTF-8'

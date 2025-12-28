@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.8.0...v1.8.1) (2025-12-28)
+
+
+### Code Refactoring
+
+* migrate database schema from FTS4 to regular table with indexes ([2941542](https://github.com/KevinEdry/runelite-quest-voiceover/commit/2941542b503c951c0e9b67b019a4b0bcba07c441))
+
 ## [1.8.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.7.0...v1.8.0) (2025-12-28)
 
 
