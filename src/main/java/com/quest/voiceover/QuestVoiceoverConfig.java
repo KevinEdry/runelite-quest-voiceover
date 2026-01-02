@@ -79,6 +79,18 @@ public interface QuestVoiceoverConfig extends Config
 	}
 
 	@ConfigItem(
+			keyName = "audioQueuing",
+			name = "Audio Queuing",
+			description = "Queue voiceovers instead of interrupting. Unfinished lines continue playing when advancing dialog.",
+			section = generalSettings,
+			position = 15
+	)
+	default boolean audioQueuing()
+	{
+		return false;
+	}
+
+	@ConfigItem(
 			keyName = "showMuteButton",
 			name = "Toggle Mute Button",
 			description = "Shows the mute button on the quest dialog.",

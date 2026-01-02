@@ -38,9 +38,9 @@ public class AudioDuckingManager {
         originalAreaEffectVolume = audioChannelsManager.getAreaEffectVolume();
 
         int duckPercent = config.audioDuckingAmount();
-        int duckedMusic = Math.max(1, originalMusicVolume * duckPercent / 100);
-        int duckedSound = Math.max(1, originalSoundEffectVolume * duckPercent / 100);
-        int duckedArea = Math.max(1, originalAreaEffectVolume * duckPercent / 100);
+        int duckedMusic = Math.min(originalMusicVolume, originalMusicVolume * duckPercent / 100);
+        int duckedSound = Math.min(originalSoundEffectVolume, originalSoundEffectVolume * duckPercent / 100);
+        int duckedArea = Math.min(originalAreaEffectVolume, originalAreaEffectVolume * duckPercent / 100);
 
         audioChannelsManager.setAllVolumes(duckedMusic, duckedSound, duckedArea);
         isDucked = true;
