@@ -11,6 +11,17 @@
         "gradle",
         "runelite-plugin.properties"
       ],
+      "exclude-paths": [
+        "transcripts",
+        "scripts",
+        "voiceover_cli",
+        "output_db",
+        "output_voiceover",
+        ".claude",
+        "CLAUDE.md",
+        "pixi.toml",
+        "pixi.lock"
+      ],
       "extra-files": [
         {
           "type": "generic",
