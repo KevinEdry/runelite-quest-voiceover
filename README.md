@@ -1,7 +1,7 @@
 ![](https://runelite.net/img/logo.png)
 # Quest Voiceover
 
-A RuneLite plugin that adds AI-generated voice acting to Old School RuneScape quest dialogues. Experience quests the way they were meant to be heard.
+A RuneLite plugin that adds ElevenLabs voice acting to Old School RuneScape quest dialogues. Experience quests the way they were meant to be heard.
 
 <a href="https://discord.gg/tkr6tEbXJr" target="_blank">
    <img src="https://discord.com/api/guilds/1254623476086472758/widget.png?style=banner2" alt="Discord Banner 2"/>
@@ -14,7 +14,7 @@ https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e
 ## Features
 
 ### Voice Acting
-- **AI-Generated Voices** - Natural-sounding character voices powered by ElevenLabs
+- **ElevenLabs Voices** - Natural-sounding character voices
 - **Automatic Playback** - Voiceovers play automatically when quest dialogs open
 - **Streamed Audio** - MP3 files stream directly from GitHub, no large downloads required
 
@@ -22,6 +22,7 @@ https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e
 - **Adjustable Volume** - Set voiceover volume independently (1-100%)
 - **Audio Ducking** - Game music and sound effects automatically lower while voices play
 - **Configurable Ducking** - Control how much game audio reduces (0-100%)
+- **Audio Queueing** - Unfinished lines continue playing when advancing dialog instead of interrupting
 - **Quick Mute Button** - Toggle voiceovers directly from the dialog interface
 
 ### Speech Highlighting
@@ -39,51 +40,6 @@ https://github.com/KevinEdry/runelite-quest-voiceover/assets/42734162/3ecd069a-e
 ## Installation
 
 Search for **"Quest Voiceover"** in the RuneLite Plugin Hub.
-
-## Supported Quests
-
-Currently **35 quests** are fully voiced, including Tutorial Island, Dragon Slayer I, Waterfall Quest, Lost City, The Restless Ghost, and many more.
-
-<details>
-<summary>View full quest list</summary>
-
-- Children of the Sun
-- Cook's Assistant
-- Current Affairs
-- Dwarf Cannon
-- Gertrude's Cat
-- Ghosts Ahoy
-- Imp Catcher
-- Misthalin Mystery
-- Pandemonium
-- Prince Ali Rescue
-- Rune Mysteries
-- Shades of Mort'ton
-- Sheep Shearer
-- Spirits of the Elid
-- The Restless Ghost
-- Tree Gnome Village
-- Waterfall Quest
-- Witch's House
-- Black Knights' Fortress
-- Clock Tower
-- Doric's Quest
-- Dragon Slayer I
-- Ernest the Chicken
-- Jungle Potion
-- Lost City
-- Monk's Friend
-- Romeo and Juliet
-- Scorpion Catcher
-- The Depths of Despair
-- The Knight's Sword
-- The Tourist Trap
-- Tribal Totem
-- Tutorial Island
-- Vampyre Slayer
-- Witch's Potion
-
-</details>
 
 ## Contributing
 
