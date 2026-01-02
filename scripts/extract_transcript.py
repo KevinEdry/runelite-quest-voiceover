@@ -119,7 +119,12 @@ def is_valid_speaker_tag(bold_text: str) -> bool:
 
 
 def extract_character_name(speaker_text: str) -> str:
-    return speaker_text[:-1].strip()
+    name = speaker_text[:-1].strip()
+    if name.lower() == "[player name]":
+        return "Player"
+    if name.startswith("[") and name.endswith("]"):
+        return name[1:-1]
+    return name
 
 
 def is_menu_option_element(list_item) -> bool:
@@ -195,6 +200,9 @@ def extract_dialogue_lines(html: str) -> list[dict]:
 
         dialogue = resolve_dynamic_text(dialogue)
         if not dialogue:
+            continue
+
+        if re.match(r"^\.{2,}$", dialogue):
             continue
 
         deduplication_key = (character, dialogue)
