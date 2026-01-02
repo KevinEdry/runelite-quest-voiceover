@@ -33,11 +33,12 @@ public class CloseControl implements OverlayControl {
 
     @Override
     public boolean handleClick(int x, int y) {
-        if (bounds != null && bounds.contains(x, y)) {
-            audioManager.stopAll();
-            return true;
+        if (bounds == null || !bounds.contains(x, y)) {
+            return false;
         }
-        return false;
+
+        audioManager.stopAll();
+        return true;
     }
 
     @Override

@@ -32,15 +32,16 @@ public class PlayPauseControl implements OverlayControl {
 
     @Override
     public boolean handleClick(int x, int y) {
-        if (bounds != null && bounds.contains(x, y)) {
-            if (audioManager.isPaused()) {
-                audioManager.resume();
-            } else {
-                audioManager.pause();
-            }
-            return true;
+        if (bounds == null || !bounds.contains(x, y)) {
+            return false;
         }
-        return false;
+
+        if (audioManager.isPaused()) {
+            audioManager.resume();
+        } else {
+            audioManager.pause();
+        }
+        return true;
     }
 
     @Override

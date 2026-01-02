@@ -45,12 +45,13 @@ public class MuteControl implements OverlayControl {
 
     @Override
     public boolean handleClick(int x, int y) {
-        if (bounds != null && bounds.contains(x, y)) {
-            configManager.setConfiguration(Constants.PLUGIN_CONFIG_GROUP, "mute", !config.mute());
-            audioManager.setVolume(config.mute() ? 0 : config.volume());
-            return true;
+        if (bounds == null || !bounds.contains(x, y)) {
+            return false;
         }
-        return false;
+
+        configManager.setConfiguration(Constants.PLUGIN_CONFIG_GROUP, "mute", !config.mute());
+        audioManager.setVolume(config.mute() ? 0 : config.volume());
+        return true;
     }
 
     @Override
