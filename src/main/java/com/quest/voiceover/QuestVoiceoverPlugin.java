@@ -2,6 +2,8 @@ package com.quest.voiceover;
 
 import com.google.inject.Provides;
 import com.quest.voiceover.features.QuestListIndicatorHandler;
+import com.quest.voiceover.features.voiceover.overlay.VoiceoverOverlayHandler;
+import com.quest.voiceover.features.voiceover.overlay.VoiceoverOverlayMouseListener;
 import com.quest.voiceover.features.VoiceoverHandler;
 import com.quest.voiceover.modules.audio.AudioDuckingManager;
 import com.quest.voiceover.modules.audio.AudioManager;
@@ -14,12 +16,13 @@ import net.runelite.api.Client;
 import net.runelite.api.events.*;
 import net.runelite.api.widgets.InterfaceID;
 import net.runelite.client.config.ConfigManager;
-import net.runelite.client.eventbus.EventBus;
 import net.runelite.client.eventbus.Subscribe;
+import net.runelite.client.input.MouseManager;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.ClientToolbar;
 import net.runelite.client.ui.NavigationButton;
+import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.util.ImageUtil;
 import okhttp3.OkHttpClient;
 
@@ -35,9 +38,6 @@ public class QuestVoiceoverPlugin extends Plugin {
 
     @Inject
     private Client client;
-
-    @Inject
-    private EventBus eventBus;
 
     @Inject
     private OkHttpClient okHttpClient;
@@ -66,14 +66,25 @@ public class QuestVoiceoverPlugin extends Plugin {
     @Inject
     private ClientToolbar clientToolbar;
 
+    @Inject
+    private OverlayManager overlayManager;
+
+    @Inject
+    private MouseManager mouseManager;
+
+    @Inject
+    private VoiceoverOverlayHandler voiceoverOverlay;
+
+    @Inject
+    private QuestVoiceoverConfig config;
+
     private QuestVoiceoverPanel panel;
     private NavigationButton navigationButton;
     private String playerName;
+    private VoiceoverOverlayMouseListener voiceoverMouseListener;
 
     @Override
     protected void startUp() {
-        eventBus.register(audioManager);
-
         panel = new QuestVoiceoverPanel();
         final BufferedImage icon = ImageUtil.loadImageResource(getClass(), "icon.png");
         navigationButton = NavigationButton.builder()
@@ -84,16 +95,21 @@ public class QuestVoiceoverPlugin extends Plugin {
             .build();
         clientToolbar.addNavigation(navigationButton);
 
+        overlayManager.add(voiceoverOverlay);
+        voiceoverMouseListener = new VoiceoverOverlayMouseListener(voiceoverOverlay);
+        mouseManager.registerMouseListener(voiceoverMouseListener);
+
         executor.submit(this::initializeDatabase);
         log.info("Quest Voiceover plugin started");
     }
 
     @Override
     protected void shutDown() throws Exception {
-        eventBus.unregister(audioManager);
         audioDuckingManager.restore();
         databaseManager.closeConnection();
         clientToolbar.removeNavigation(navigationButton);
+        overlayManager.remove(voiceoverOverlay);
+        mouseManager.unregisterMouseListener(voiceoverMouseListener);
         log.info("Quest Voiceover plugin stopped");
     }
 
@@ -141,7 +157,6 @@ public class QuestVoiceoverPlugin extends Plugin {
         questListIndicatorHandler.onGameTick();
 
         boolean audioPlaying = audioManager.isPlaying();
-        boolean playerMoving = isPlayerMoving();
         boolean dialogOpen = dialogManager.isPlayerOrNpcDialogOpen();
 
         if (audioPlaying && !dialogOpen) {
