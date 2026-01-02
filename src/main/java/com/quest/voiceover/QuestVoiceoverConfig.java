@@ -14,12 +14,12 @@ public interface QuestVoiceoverConfig extends Config
 	String generalSettings = "generalSettings";
 
 	@ConfigSection(
-			name = "Quest Dialog",
-			description = "Settings for the quest dialog overlay",
+			name = "Speech Highlighting",
+			description = "Settings for speech highlighting",
 			position = 20,
 			closedByDefault = false
 	)
-	String questDialogSettings = "questDialogSettings";
+	String speechHighlightingSettings = "speechHighlightingSettings";
 
 	@ConfigSection(
 			name = "Quest List",
@@ -87,30 +87,6 @@ public interface QuestVoiceoverConfig extends Config
 	)
 	default boolean audioQueuing()
 	{
-		return false;
-	}
-
-	@ConfigItem(
-			keyName = "showMuteButton",
-			name = "Toggle Mute Button",
-			description = "Shows the mute button on the quest dialog.",
-			section = questDialogSettings,
-			position = 21
-	)
-	default boolean showMuteButton()
-	{
-		return true;
-	}
-
-	@ConfigItem(
-			keyName = "showQuestName",
-			name = "Toggle Quest Name",
-			description = "Shows the quest name on the quest dialog.",
-			section = questDialogSettings,
-			position = 23
-	)
-	default boolean showQuestName()
-	{
 		return true;
 	}
 
@@ -118,8 +94,8 @@ public interface QuestVoiceoverConfig extends Config
 			keyName = "speechHighlighting",
 			name = "Speech Highlighting",
 			description = "Highlights dialog text word-by-word as it is spoken.",
-			section = questDialogSettings,
-			position = 24
+			section = speechHighlightingSettings,
+			position = 21
 	)
 	default boolean speechHighlighting()
 	{
@@ -131,12 +107,12 @@ public interface QuestVoiceoverConfig extends Config
 			keyName = "speechHighlightColor",
 			name = "Speech Highlight Color",
 			description = "Color used to highlight words that have been spoken.",
-			section = questDialogSettings,
-			position = 25
+			section = speechHighlightingSettings,
+			position = 22
 	)
 	default java.awt.Color speechHighlightColor()
 	{
-		return new java.awt.Color(0, 255, 0);
+		return new java.awt.Color(0xFF0054BA, true);
 	}
 
 	@ConfigItem(
