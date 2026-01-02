@@ -226,7 +226,7 @@ public class VoiceoverHandler {
         }
 
         activeVoiceover = true;
-        audioManager.play(audioUri);
+        audioManager.play(audioUri, currentQuestName, characterName);
         addDialogOverlay();
         dialogSpeechHighlightHandler.startAsync(audioUri, originalText);
         return true;

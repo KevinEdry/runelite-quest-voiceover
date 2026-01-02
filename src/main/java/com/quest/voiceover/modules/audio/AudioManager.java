@@ -27,18 +27,30 @@ public class AudioManager {
     @Inject
     private AudioDuckingManager audioDuckingManager;
 
+    @Inject
+    private AudioQueueManager audioQueueManager;
+
     private volatile MP3Player player;
     private volatile boolean soundPlaying;
     private int playbackStartTick;
 
-    public void play(String fileName) {
-        stopPlayback();
-
+    public void play(String fileName, String questName, String characterName) {
         if (fileName == null || fileName.isEmpty()) {
             log.warn("Attempted to play null or empty fileName");
             return;
         }
 
+        if (config.audioQueuing() && isPlaying()) {
+            audioQueueManager.add(fileName, questName, characterName);
+            return;
+        }
+
+        stopPlayback();
+        audioQueueManager.setCurrentlyPlaying(fileName, questName, characterName);
+        playFile(fileName);
+    }
+
+    private void playFile(String fileName) {
         URL soundUrl = buildSoundUrl(fileName);
         MP3Player currentPlayer = getOrCreatePlayer();
 
@@ -50,10 +62,13 @@ public class AudioManager {
         audioDuckingManager.duck();
         soundPlaying = true;
         playbackStartTick = client.getTickCount();
-        log.debug("Playing audio: {}", fileName);
+        log.info("Playing audio: {}", fileName);
     }
 
     public void stop() {
+        if (config.audioQueuing()) {
+            return;
+        }
         int currentTick = client.getTickCount();
         boolean pastGracePeriod = currentTick > playbackStartTick + PLAYBACK_GRACE_PERIOD_TICKS;
         if (pastGracePeriod) {
@@ -62,6 +77,9 @@ public class AudioManager {
     }
 
     public void stopImmediately() {
+        if (config.audioQueuing()) {
+            return;
+        }
         stopPlayback();
     }
 
@@ -70,18 +88,32 @@ public class AudioManager {
     }
 
     public boolean isPlaying() {
-        return soundPlaying && player != null && !player.isStopped();
+        if (!soundPlaying || player == null) {
+            return false;
+        }
+        return !player.isStopped() || !audioQueueManager.isEmpty();
     }
 
     @Subscribe
     public void onGameTick(GameTick event) {
-        if (player != null && soundPlaying && player.isStopped()) {
+        if (player == null || !soundPlaying || !player.isStopped()) {
+            return;
+        }
+
+        QueuedAudio next = audioQueueManager.poll();
+        if (next != null) {
+            log.info("Playing next from queue: {}", next.getFileName());
+            player.clearPlayList();
+            playFile(next.getFileName());
+        } else {
             soundPlaying = false;
             audioDuckingManager.restore();
         }
     }
 
     private void stopPlayback() {
+        audioQueueManager.clear();
+
         if (player == null) {
             return;
         }
