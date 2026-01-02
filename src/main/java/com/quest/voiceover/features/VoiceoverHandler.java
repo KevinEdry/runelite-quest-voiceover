@@ -123,25 +123,6 @@ public class VoiceoverHandler {
     }
 
     public void handleDialogOpened() {
-        if (!dialogManager.isPlayerOrNpcDialogOpen() || !activeVoiceover) {
-            return;
-        }
-        addDialogOverlay();
-    }
-
-    private void addDialogOverlay() {
-        Widget dialogWidget = dialogManager.getActiveDialogWidget();
-        if (dialogWidget == null) {
-            return;
-        }
-
-        if (config.showMuteButton()) {
-            dialogManager.addMuteButton(dialogWidget);
-        }
-
-        if (config.showQuestName() && currentQuestName != null) {
-            dialogManager.addQuestNameLabel(dialogWidget, currentQuestName);
-        }
     }
 
     public void stopVoiceover() {
@@ -227,7 +208,6 @@ public class VoiceoverHandler {
 
         activeVoiceover = true;
         audioManager.play(audioUri, currentQuestName, characterName);
-        addDialogOverlay();
         dialogSpeechHighlightHandler.startAsync(audioUri, originalText);
         return true;
     }
