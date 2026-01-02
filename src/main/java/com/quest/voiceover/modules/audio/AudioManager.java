@@ -1,16 +1,11 @@
 package com.quest.voiceover.modules.audio;
 
 import com.quest.voiceover.QuestVoiceoverConfig;
-import com.quest.voiceover.Constants;
-import jaco.mp3.player.MP3Player;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
-import net.runelite.api.events.GameTick;
-import net.runelite.client.eventbus.Subscribe;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
-import java.net.URL;
 
 @Slf4j
 @Singleton
@@ -30,9 +25,14 @@ public class AudioManager {
     @Inject
     private AudioQueueManager audioQueueManager;
 
-    private volatile MP3Player player;
-    private volatile boolean soundPlaying;
+    private AudioPlayerManager audioPlayer;
     private int playbackStartTick;
+
+    private void initializePlayerIfNeeded() {
+        if (audioPlayer == null) {
+            audioPlayer = new AudioPlayerManager(this::onPlaybackComplete);
+        }
+    }
 
     public void play(String fileName, String questName, String characterName) {
         if (fileName == null || fileName.isEmpty()) {
@@ -40,39 +40,55 @@ public class AudioManager {
             return;
         }
 
+        initializePlayerIfNeeded();
+
         if (config.audioQueuing() && isPlaying()) {
             audioQueueManager.add(fileName, questName, characterName);
             return;
         }
 
-        stopPlayback();
+        audioQueueManager.clear();
         audioQueueManager.setCurrentlyPlaying(fileName, questName, characterName);
-        playFile(fileName);
+
+        playbackStartTick = client.getTickCount();
+        audioDuckingManager.duck();
+
+        applyVolume();
+        audioPlayer.play(fileName);
     }
 
-    private void playFile(String fileName) {
-        URL soundUrl = buildSoundUrl(fileName);
-        MP3Player currentPlayer = getOrCreatePlayer();
+    public void pause() {
+        initializePlayerIfNeeded();
+        audioPlayer.pause();
+        log.info("Audio paused");
+    }
 
-        int volume = config.mute() ? 0 : config.volume();
-        currentPlayer.setVolume(volume);
-        currentPlayer.add(soundUrl);
-        currentPlayer.play();
+    public void resume() {
+        initializePlayerIfNeeded();
+        audioPlayer.resume();
+        log.info("Audio resumed");
+    }
 
-        audioDuckingManager.duck();
-        soundPlaying = true;
-        playbackStartTick = client.getTickCount();
-        log.info("Playing audio: {}", fileName);
+    public boolean isPaused() {
+        return audioPlayer != null && audioPlayer.isPaused();
+    }
+
+    public void setVolume(int volume) {
+        if (audioPlayer == null) {
+            return;
+        }
+        audioPlayer.setVolume(volume);
     }
 
     public void stop() {
         if (config.audioQueuing()) {
             return;
         }
+
         int currentTick = client.getTickCount();
         boolean pastGracePeriod = currentTick > playbackStartTick + PLAYBACK_GRACE_PERIOD_TICKS;
         if (pastGracePeriod) {
-            stopPlayback();
+            stopAll();
         }
     }
 
@@ -80,69 +96,57 @@ public class AudioManager {
         if (config.audioQueuing()) {
             return;
         }
-        stopPlayback();
+        stopAll();
     }
 
-    public void setVolume(int volume) {
-        getOrCreatePlayer().setVolume(volume);
-    }
+    public void stopAll() {
+        audioQueueManager.clear();
 
-    public boolean isPlaying() {
-        if (!soundPlaying || player == null) {
-            return false;
+        if (audioPlayer != null) {
+            audioPlayer.stop();
         }
-        return !player.isStopped() || !audioQueueManager.isEmpty();
+
+        audioDuckingManager.restore();
     }
 
-    @Subscribe
-    public void onGameTick(GameTick event) {
-        if (player == null || !soundPlaying || !player.isStopped()) {
+    public void skipToNext() {
+        if (!isPlaying()) {
             return;
         }
 
         QueuedAudio next = audioQueueManager.poll();
-        if (next != null) {
-            log.info("Playing next from queue: {}", next.getFileName());
-            player.clearPlayList();
-            playFile(next.getFileName());
-        } else {
-            soundPlaying = false;
-            audioDuckingManager.restore();
-        }
-    }
-
-    private void stopPlayback() {
-        audioQueueManager.clear();
-
-        if (player == null) {
+        if (next == null) {
+            stopAll();
             return;
         }
 
-        boolean wasPlaying = player.isPlaying();
-        soundPlaying = false;
-        player.clearPlayList();
+        log.info("Skipping to next: {}", next.getFileName());
+        audioQueueManager.setCurrentlyPlaying(next.getFileName(), next.getQuestName(), next.getCharacterName());
+        applyVolume();
+        audioPlayer.play(next.getFileName());
+    }
 
-        if (wasPlaying) {
-            player.stop();
+    public boolean isPlaying() {
+        boolean playerActive = audioPlayer != null && audioPlayer.isPlaying();
+        boolean hasQueue = !audioQueueManager.isEmpty();
+        return playerActive || hasQueue;
+    }
+
+    private void onPlaybackComplete() {
+        QueuedAudio next = audioQueueManager.poll();
+        if (next == null) {
             audioDuckingManager.restore();
+            return;
         }
+
+        log.info("Playing next from queue: {}", next.getFileName());
+        audioQueueManager.setCurrentlyPlaying(next.getFileName(), next.getQuestName(), next.getCharacterName());
+        applyVolume();
+        audioPlayer.play(next.getFileName());
     }
 
-    private URL buildSoundUrl(String fileName) {
-        return Constants.RAW_GITHUB_SOUND_BRANCH_URL.newBuilder()
-            .addPathSegment(fileName)
-            .build()
-            .url();
-    }
-
-    private MP3Player getOrCreatePlayer() {
-        if (player == null) {
-            synchronized (this) {
-                if (player == null) {
-                    player = new MP3Player();
-                }
-            }
-        }
-        return player;
+    private void applyVolume() {
+        int volume = config.mute() ? 0 : config.volume();
+        audioPlayer.setVolume(volume);
     }
 }

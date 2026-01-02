@@ -110,13 +110,14 @@ public class AudioPlayerManager {
                 return;
             }
 
-            if (player.isStopped()) {
-                playing = false;
-                if (onPlaybackComplete != null) {
-                    onPlaybackComplete.run();
-                }
-            } else {
+            if (!player.isStopped()) {
                 scheduleStoppedCheck();
+                return;
+            }
+
+            playing = false;
+            if (onPlaybackComplete != null) {
+                onPlaybackComplete.run();
             }
         }, STOPPED_CHECK_INTERVAL_MS, TimeUnit.MILLISECONDS);
     }
@@ -129,11 +130,13 @@ public class AudioPlayerManager {
     }
 
     private MP3Player getOrCreatePlayer() {
-        if (player == null) {
-            synchronized (this) {
-                if (player == null) {
-                    player = new MP3Player();
-                }
+        if (player != null) {
+            return player;
+        }
+
+        synchronized (this) {
+            if (player == null) {
+                player = new MP3Player();
             }
         }
         return player;
