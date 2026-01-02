@@ -1,0 +1,2164 @@
+{
+  "branch": "quest/darkness-of-hallowvale",
+  "quest_name": "Darkness of Hallowvale",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "So what now?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well I'd say our mission to establish a new hideout has been a great success. All thanks to you, of course."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. How's things?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Very good. I'd say our mission to establish a new hideout has been a great success. All thanks to you, of course."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "With the hideout sorted, we can now start focusing on the vampyres again. We're looking to re-establish contact with the Sanguinesti region."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I also want to look into a diplomatic mission into Misthalin. The support of the king would be very helpful in our fight against Drakan."
+    },
+    {
+      "character": "Player",
+      "line": "Is there something I can do to help out?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well, we could use some help with scouting a route into the Sanguinesti region. Are you interested in learning more details?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Please tell me more."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There should be another group of Myreque working in the Sanguinesti region. We need to re-establish contact with them. To do that, we need a route into the region."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get into the Sanguinesti region?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The entire region is surrounded by a wall that you'll find impossible to get over."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "That said, you might be able to find a way around the wall at the point where it meets the sea. Perhaps there's something in Burgh de Rott that could help you."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Once you're in, try and establish contact with the Myreque there. I'm sure they'll have sympathisers amongst the citizens. Someone should be able to point you in the right direction."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "One last thing to be aware of is the vyrewatch. They're powerful vampyres that patrol the entire region. We haven't found any way of killing them. Even the Rod of Ivandis does nothing!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me about the Sanguinesti region?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "It's a large region to the east of here. The southern part is a city called Meiyerditch. Humans live there in ghettos and are regularly tithed by the vampyres."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The northern part is the vampyre capital of Darkmeyer. It is from his castle there that Lowerniel Drakan rules over all of Morytania."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about the Sanguinesti Myreque?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Certainly. The Myreque, or at least the resistance that has now become the Myreque, originated in the region. Previously there was nothing."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "It was many years ago that a small group, led by a man called Safalaan Hallow, managed to escape from the ghettos of Meiyerditch."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "They got information out about what was happening and helped to organise the resistance, which today is called the Myreque."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The name was given to us by the locals, who named us after the place where we hid in Mort Myre."
+    },
+    {
+      "character": "Player",
+      "line": "Err, no thanks."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Very well. We'll be here if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "What will you do here in Burgh de Rott?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Oh, the usual. Keep a low profile and keep an eye on what the vampyres are up to. There's also plenty of research to do with all the new information you've found for us."
+    },
+    {
+      "character": "Player",
+      "line": "Why re-establish contact with the Sanguinesti region?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The region is where the heaviest blood tithing takes place. It's also home to some of the more senior members of vampyre society, including Lowerniel Drakan himself."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Assuming the vampyres haven't put an end to them, there should be another group of Myreque operating in the region. We will need their support in the fight against the vampyres."
+    },
+    {
+      "character": "Player",
+      "line": "Why ask Misthalin for some help?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We can't hope to fight the power of the vampyres alone. We'll need help from Misthalin by the bucket-load if we're to stand a chance against them."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met, friend."
+    },
+    {
+      "character": "Player",
+      "line": "Hey. What do I need to do again?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We need you to find a way into the Sanguinesti region. Once you're in, you need to try and make contact with any members of the Sanguinesti order of the Myreque."
+    },
+    {
+      "character": "Player",
+      "line": "Hello?"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Get lost, food sack!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Get out of my face, meat sack, I don't 'play' with my food."
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Go about your business, meat sack, before I perforate you real good!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "I want a word with you!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Stand where you are!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Halt! Halt, I say!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Slurp! You look positively delicious - let me help you lose a bit of weight! Either I get a bite or you can be my combat practice; which is it to be, meat sack?"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Hmm, you look like a tasty specimen - in fact I'm quite peckish right now. You can either give me a bite or I'll use you for combat practice; what do you say?"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Ooh, a meat sack... I could just do with a snack. What's it to be: do I use you for combat practice or do I get a bite?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, have a bite."
+    },
+    {
+      "character": "Player",
+      "line": "Give me your best shot, you evil bloodsucker!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Impressive. Not many of you have the spine for it these days!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, look over there!"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "What? What? Where?"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Ha! I'm not falling for that! Prepare to be tithed..."
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Hey, food sack, what's the rush? I was talking to you!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, what were you saying?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey again. I've made my way into the Sanguinesti region, I think!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good news. Presumably you took precautions not to be followed?"
+    },
+    {
+      "character": "Player",
+      "line": "Err... Well anyway, I have some questions."
+    },
+    {
+      "character": "Player",
+      "line": "What did you want me to do again?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Now that you've made your way into the Sanguinesti region, we need you to try and make contact with the Myreque there."
+    },
+    {
+      "character": "Player",
+      "line": "How should I do that?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You may need to ask some of the citizens, but try to be discreet! Remember to avoid the vyrewatch at all costs!"
+    },
+    {
+      "character": "Player",
+      "line": "Any tips you can give to help out a bit?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You may get lost while in the city. It might be worth your while to invest in some teleportation devices to get yourself out."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... It looks like this section of the wall has been tampered with."
+    },
+    {
+      "character": "Child",
+      "line": "He-he-hello?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I wondered if I could have a chat."
+    },
+    {
+      "character": "Child",
+      "line": "Well, I guess so."
+    },
+    {
+      "character": "Child",
+      "line": "Argghghhh!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, don't be scared, I just want to talk to you."
+    },
+    {
+      "character": "Child",
+      "line": "Leave me alone!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry but I need to ask a couple of questions."
+    },
+    {
+      "character": "Child",
+      "line": "Get off me! I haven't got anything!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, calm down, I'm not going to hurt you. I just want to ask a few questions."
+    },
+    {
+      "character": "Player",
+      "line": "What do you do here?"
+    },
+    {
+      "character": "Child",
+      "line": "I'm not supposed to talk to strangers, and you sure are strange..."
+    },
+    {
+      "character": "Child",
+      "line": "Nuffin'! I wasn't doin' nuffin'!"
+    },
+    {
+      "character": "Child",
+      "line": "I 'elp wiv building fings an' da wall. But mainly I is hiding from da vyresies. I don't like dem vyresies."
+    },
+    {
+      "character": "Child",
+      "line": "I was playin', but den da flapsies came so I was hidin'. Don't want da flapsies to bit me."
+    },
+    {
+      "character": "Player",
+      "line": "I'm lost, can you help me?"
+    },
+    {
+      "character": "Child",
+      "line": "Urm, well I fink we're in sector one. Not sure what else to say. I'm only a kid ya know!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know about the Myreque?"
+    },
+    {
+      "character": "Child",
+      "line": "Err, me dad says I'm not allowed to talk about that. Do you have any sweets?"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, but please can you answer my questions?"
+    },
+    {
+      "character": "Player",
+      "line": "(whisper) Do you know about the Myreque?"
+    },
+    {
+      "character": "Child",
+      "line": "Err, no! I'm not allowed to say any thingies about dem; but they're the good 'uns what can help us."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "He-he-hello?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Well, I guess so."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Argghghhh!"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Leave me alone!"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Get off me! I haven't got anything!"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "I'm barely surviving..."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "When I'm not being drained of blood, the vyrewatch force me to repair the walls."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "When I'm not being drained of blood I'm fixing up the ghetto."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "I just try to make a living the best way I can. You haven't got some food have you?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Like everyone else, I just survive here. Just try to keep alive till after the next blood tithe. That's when they feed us."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Why do you wanna know?"
+    },
+    {
+      "character": "Player",
+      "line": "Just curious, that's all."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "I dunno. I don't know if I can trust you..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm lost... Can you help me?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Well, you're in sector one, but if you were hoping for any other help then I'm very sorry. I find it hard enough to help myself."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Life's so very hard here. Before too long they'll be wanting to have another blood tithing and then I'll feel just awful again."
+    },
+    {
+      "character": "Player",
+      "line": "What's a blood tithing?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "You must be new here, else you'd know for sure. It's where we have to give a blood tithe to the vampyres. They do it on a weekly basis, a different sector each week so they don't kill us all off."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "It's probably best not to talk about that, friend."
+    },
+    {
+      "character": "Player",
+      "line": "I need to make contact with them. Please don't worry - I'm on their side."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "As are we all, but I really can't talk about them. It's not a subject easily broached here."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Yes... but I really can't talk about them."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Yep, that's where we are at the moment. This place, Meiyerditch, is just one large ghetto."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "The city is sectioned off so that the vampyres can collect blood tithes on a rotational basis. That way they don't kill us all off in one go."
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about the vampyres?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "They're monsters, I know that much. I've never known anything else, but I have a feeling it might be nice to not have to live in fear the whole time. Worrying if I'm going to make the next blood tithe quota."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "I know that the juveniles are the lowest form of the vampyres. Apparently they were human once, converted by the vampyres."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Then you have juvinates. They're initiated juveniles who've had some training and are starting to get some powers."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "After that you have the vyres. They're nasty... really nasty."
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about Drakan?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Drakan? Which one: Ranis or Vanescula?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I was referring to the main Drakan, you know, the overlord of Morytania."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Hmm, nothing has been seen of him for many years now. Some people say they occasionally see Ranis or Vanescula flying about, but it's not too often."
+    },
+    {
+      "character": "Player",
+      "line": "What is there to do around here?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "To do? Around here? Survive! Eke out an existence and just live for another day, that's it really."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "The juvinates organise work crews to mine the daeyalt, fix the walls, the castles and so on. If we refuse to do the work, they put us on double tithes and you can't do that for long before you dry up."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "If you want to escape, there's only one way. Anyone who survives in the theatre gets to leave. It's pointless though. No one survives."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can do to help?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "It's very nice of you to offer, my friend, but I shouldn't expect that you could do anything. The vampyres are just too powerful to overcome."
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "They say this place once had a Saradominist Queen. Even she could not withstand the vampyres. Anyone who has challenged their power in the past has come undone."
+    },
+    {
+      "character": "Player",
+      "line": "I really need to meet the Myreque. If you can't talk to me about them, maybe you know someone who will?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "I understand, but you may not like what you find. Go and talk to Old Man Ral. He might help you. He lives in the centre of sector one."
+    },
+    {
+      "character": "Player",
+      "line": "Can you introduce me to Old Man Ral?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "Well, I don't need to do that. Just tell him that a friend has recommended you to him. It makes him feel important."
+    },
+    {
+      "character": "Player",
+      "line": "How can Old Man Ral help me?"
+    },
+    {
+      "character": "Meiyerditch citizen",
+      "line": "He should be able to give you some background information on this place and perhaps put you in touch with people of the same way of thinking as yourself... Hope that helps. See you around."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph!"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! What do I know about anything? I know nothing of you!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about the Myreque?"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! A simple man only knows simple truths, and what I know is my own business. I share that which is precious only to those who consider it valuable. Nothing will I share with those who are unknown to me."
+    },
+    {
+      "character": "Player",
+      "line": "I just want to help, what should I do?"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! I am a simple man, what little do I know? In esteem, must a man be held, before he feels his efforts are truly appreciated?"
+    },
+    {
+      "character": "Player",
+      "line": "You're answering every question with a question!"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Am I?"
+    },
+    {
+      "character": "Player",
+      "line": "Someone said you could help me."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! People say things they do not mean - many times this has been true."
+    },
+    {
+      "character": "Player",
+      "line": "It's true. They said that you were very well informed. In fact they had a name for you!"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Oh yes, what was it?"
+    },
+    {
+      "character": "Player",
+      "line": "Old Man Ral, he's a very good pal."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Nope, that's not me they're talking about, must be someone else."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm sure they gave you a name, but it might have been something else."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Okay then, what was it?"
+    },
+    {
+      "character": "Player",
+      "line": "Old Man Ral, the nefarious rascal."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Nope, doesn't sound like me, you sure you've not got me confused with someone else?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm pretty sure they directed me to you. What was that name they used to describe you?"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Yes indeed, what was the name?"
+    },
+    {
+      "character": "Player",
+      "line": "Old Man Ral, the Meiyerditch snitch."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! A snitch! Are you trying to insult me? Get out! Go on!"
+    },
+    {
+      "character": "Player",
+      "line": "No, no, sorry, I do apologise. I'm sure that was someone else. My mistake entirely!"
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! So no one actually referred you to me at all then?"
+    },
+    {
+      "character": "Player",
+      "line": "No they did, and they referred to you as..."
+    },
+    {
+      "character": "Player",
+      "line": "Old Man Ral, the sage of Sanguinesti."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! Sage of Sanguinesti, eh?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes, saying you were the local font of knowledge."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph! So that's what they call me now is it?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, yes. All the time. And only in the most respectful way."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmmm. Sage of Sanguinesti. Has a nice ring to it. Yes, that sounds like they were referring to me. What else did they say about me?"
+    },
+    {
+      "character": "Player",
+      "line": "They said that you might be able to help me find some people... Some hidden people..."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmmmph. That depends. Did they hide themselves or did someone else hide them?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, hopefully they hid themselves. I need to make contact with the Myreque."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph. Myreque, eh? Well, it'll take a lot to find them. It's not an easy route up to sector three, but that's where they are. You'll need to follow the symbols in order to get there."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "And now you should leave. I have little tolerance for people and talking to you has tired me out."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks very much."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry to bother you."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I have any reason to go down there."
+    },
+    {
+      "character": "Player",
+      "line": "Hey. You're with the Myreque aren't you?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Who are you? What are you doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm. I'm a friend of the Myreque. I've come to help!"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Oh, and I'm just supposed to believe you am I?"
+    },
+    {
+      "character": "Player",
+      "line": "It's true. I was sent by Veliaf. We've just moved base from the Hollows to Burgh de Rott."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Veliaf? Is he still alive? Amazing! Well, you make a convincing story, so I guess I'll have to believe you, for now."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "So anyway, I'm Vertida, one of the Myreque here. What brings you to this miserable place?"
+    },
+    {
+      "character": "Player",
+      "line": "I was asked to make contact with the Myreque here."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "> Well, it seems like you've done that! I'll tell you what I'll do. I'll write you out a message to give to Veliaf as proof that the Sanguinesti order of the Myreque still exists."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "There you go."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you do here?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I'm the second in command of the Myreque here in Meiyerditch. The others are all out on missions right now."
+    },
+    {
+      "character": "Player",
+      "line": "Have you always lived here?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Not always. I was originally from Lumbridge, perhaps much like yourself. I ended up here when I was captured by the vampyres while exploring Mort Myre. That was a long time ago."
+    },
+    {
+      "character": "Player",
+      "line": "How have you survived this long?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I found Safalaan, the leader of this group. Together we escaped from Meiyerditch and formed the Myreque out in Mort Myre."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "We eventually came back here though. We knew we couldn't leave the people here to the vampyres."
+    },
+    {
+      "character": "Player",
+      "line": "What should I do now?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "That's really up to you. That said, I imagine you'll probably want to get back to where you came from and deliver that message I gave you."
+    },
+    {
+      "character": "Player",
+      "line": "Hey again. How are you?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Good, thanks!"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "That's really up to you. Why are you here anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Veliaf."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met, friend. What news?"
+    },
+    {
+      "character": "Player",
+      "line": "I have met with the Sanguinesti Myreque!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Really? I can't believe it!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! They gave me a message to give to you but I don't have it on me at the moment."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well, please bring it to me when you can. I'd be very interested to hear what they have to say."
+    },
+    {
+      "character": "Player",
+      "line": "I have a message for you from the Sanguinesti Myreque!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Great! Please let me see it."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Hmm, sounds like they're struggling just as much as we are. At least they still live though."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I need some time to consider how we can best support the Sanguinesti Myreque. In the meantime, I have a new task for you."
+    },
+    {
+      "character": "Player",
+      "line": "What do you want me to do?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I've had word from Drezel that there's something strange going on at Paterdomus. Head up there and see what support you can offer."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Once you're done, press onwards to Varrock and seek an audience with King Roald. Express the desperate nature of the situation here and beg him to send troops."
+    },
+    {
+      "character": "Player",
+      "line": "Hey there. What should I do now?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Myreque prevail! What can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the Myreque?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Well, I've been with them for years now. We have multiple groups in Morytania but I only really know about those of us based here."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "To be honest, things haven't been great for us. Our leader, Safalaan, keeps us going. We'd be nowhere without him."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a bit lost... Can you help?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I'd like to help, I really would, but I can't leave the base right now. The others are all out on missions so someone needs to keep watch here."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Greetings, your majesty."
+    },
+    {
+      "character": "Player",
+      "line": "I must speak with you on a matter of grave importance."
+    },
+    {
+      "character": "King Roald",
+      "line": "I'm very sorry, but I'm currently rather busy. Apparently old Drezel is having a bit of bother near Paterdomus and I have to try and sort someone out to go and visit him."
+    },
+    {
+      "character": "King Roald",
+      "line": "I don't suppose you would fancy popping in and seeing him, would you?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, Veliaf asked me to pay him a visit, actually. I guess I could go and meet with him."
+    },
+    {
+      "character": "King Roald",
+      "line": "That would be very good indeed. Your king commends you!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Drezel. Veliaf sent me. Apparently there have been some strange goings on which you need me to investigate."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, that's a bit odd isn't it? Because in Morytania, strange is the order of the day. I'd have been more surprised if there had been reports of things getting back to normal!"
+    },
+    {
+      "character": "Drezel",
+      "line": "I'm glad you're keeping your sense of humour. It will help you to maintain mental clarity while dealing with the tasks you've been given."
+    },
+    {
+      "character": "Player",
+      "line": "Well there's no shortage of tasks for me. Once I'm done here I have to go and speak to King Roald, or rather, Roald. We've been on first name terms for quite a while now. Funny that, eh?"
+    },
+    {
+      "character": "Player",
+      "line": "To think, a lowly adventurer like me having friends like you and the king. Still, at least I haven't lost my common touch."
+    },
+    {
+      "character": "Player",
+      "line": "But anyway, what do you need from me?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Ivan mentioned that he heard some strange noises recently out in front of the temple. Could you have a look and make sure there's nothing funny going on?"
+    },
+    {
+      "character": "Player",
+      "line": "When and where were these noises heard?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Ivan said he heard them throughout the day, but usually when things were very quiet. We both looked around near the temple but we didn't find anything."
+    },
+    {
+      "character": "Drezel",
+      "line": "We were both a bit nervous about going any further west than the steps."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think the noises could have come from beyond the steps? I mean, from further west?"
+    },
+    {
+      "character": "Drezel",
+      "line": "It's certainly possible and more than likely. I'd be grateful if you could extend your search as wide as you can."
+    },
+    {
+      "character": "Player",
+      "line": "Did you hear the noises as well?"
+    },
+    {
+      "character": "Drezel",
+      "line": "I must confess, I have heard some strange things around here recently. Like hushed voices."
+    },
+    {
+      "character": "Player",
+      "line": "So, maybe Ivan was whispering to you?"
+    },
+    {
+      "character": "Drezel",
+      "line": "They didn't sound human!"
+    },
+    {
+      "character": "Player",
+      "line": "Right! That's different! What did they sound like?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Very gruff. almost animal-like in fact."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm, never fear, is here! I'll work this out Drezel, don't you worry!"
+    },
+    {
+      "character": "Player",
+      "line": "Has anyone seen or reported anything unusual?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Unfortunately, they have. Several people have gone missing from the local limestone mining area."
+    },
+    {
+      "character": "Drezel",
+      "line": "Other locals have reported seeing shadowy figures in the Silvaria pass. Could just be an enterprising, though perhaps ruthless, bunch of brigands. If it is, simply give them a taste of Misthalin law and order."
+    },
+    {
+      "character": "Player",
+      "line": "And if it turns out to be more than that?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Well then, my friend, I will pray that Saradomin's blessings be upon you and that he guides your actions and keeps you safe from harm."
+    },
+    {
+      "character": "Player",
+      "line": "How incredibly reassuring!"
+    },
+    {
+      "character": "Drezel",
+      "line": "Don't take that tone with me! Saradomin's powers are not to be underestimated."
+    },
+    {
+      "character": "Player",
+      "line": "How is Ivan? Is he okay?"
+    },
+    {
+      "character": "Drezel",
+      "line": "He's as well as can be expected considering the circumstances. He's a very confused young man at the moment what with the shadowy events that started his life."
+    },
+    {
+      "character": "Drezel",
+      "line": "Both his parents died in the Sanguinesti region, though he still holds hope that they may be found alive."
+    },
+    {
+      "character": "Drezel",
+      "line": "The death of Sani has really affected him as well. Like him, she was an orphan. They had a lot in common."
+    },
+    {
+      "character": "Player",
+      "line": "It's all so tragic. I wish there was something I could do for him."
+    },
+    {
+      "character": "Drezel",
+      "line": "Well, you brought him here, which was very brave. He's very grateful to you. It's remarkable, really. He has this inner calmness that I find so very affecting."
+    },
+    {
+      "character": "Drezel",
+      "line": "His studies go well and he has Saradomin's blessings, it's clear to see. I would see him as a worthy successor as protector of Paterdomus. When all of his teachings are done, naturally."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, will do."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, Drezel, what did you want me to do again?"
+    },
+    {
+      "character": "Player",
+      "line": "Ouch! My poor head!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You've returned already?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. And I have some news!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "I was attacked near the temple! On the other side of the Salve!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Attacked by who?"
+    },
+    {
+      "character": "Player",
+      "line": "By beasts! From Morytania, I believe. Perhaps werewolves."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The vampyres must be behind this! Did you speak with Roald yet? We need his support if we are to end this suffering."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I'm afraid. I thought you would want to know about the werewolves as soon as possible."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "It's good of you to return with this information, but we need to know Roald's answer before we can make any further plans."
+    },
+    {
+      "character": "Drezel",
+      "line": "Hello,. Did you find anything out nearby?"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps a bit too much!"
+    },
+    {
+      "character": "Drezel",
+      "line": "How do you mean, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I was attacked from behind!"
+    },
+    {
+      "character": "Drezel",
+      "line": "Did you see the assailants?"
+    },
+    {
+      "character": "Player",
+      "line": "Not clearly, but I believe they could have been werewolves."
+    },
+    {
+      "character": "Drezel",
+      "line": "This is terrible, terrible news! They have found a way to get across the Salve!"
+    },
+    {
+      "character": "Player",
+      "line": "I know, it's very worrying."
+    },
+    {
+      "character": "Drezel",
+      "line": "I must make immediate preparations and meet with other members of my order. You must hurry directly to King Roald and impart this information to him."
+    },
+    {
+      "character": "Drezel",
+      "line": "Here, take these runes. They should help you to return to Varrock faster."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, I'll make my way to Varrock and bid you good luck."
+    },
+    {
+      "character": "Drezel",
+      "line": "Likewise,."
+    },
+    {
+      "character": "Drezel",
+      "line": "Hello,. Have you been to Varrock yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, sorry. What should I do again?"
+    },
+    {
+      "character": "Drezel",
+      "line": "You need to warn King Roald about possible incursions into Misthalin from Morytania."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, quite right. Thanks for reminding me."
+    },
+    {
+      "character": "King Roald",
+      "line": "Certainly. What seems to be the problem?"
+    },
+    {
+      "character": "Player",
+      "line": "I've witnessed a great many terrible things happening in Morytania, some of which could be happening in Misthalin before long!"
+    },
+    {
+      "character": "King Roald",
+      "line": "This sounds pretty grave, please go on."
+    },
+    {
+      "character": "Player",
+      "line": "I have been helping a collection of brave freedom fighters called the Myreque for some time now. They've been fighting against the vampyres and their ruler, Lowerniel Drakan."
+    },
+    {
+      "character": "King Roald",
+      "line": "We're all too aware of Drakan and his vampyres. What risk do they pose to Misthalin though?"
+    },
+    {
+      "character": "Player",
+      "line": "In Morytania, Drakan and his kin farm humans for their blood! People, my lord, like your own loyal subjects!"
+    },
+    {
+      "character": "Player",
+      "line": "It's not just the citizens of Morytania at risk though. It seems that werewolves have been kidnapping people from this side of the Salve to be used as blood tithes for the vampyres!"
+    },
+    {
+      "character": "King Roald",
+      "line": "This is awful! Yes, yes of course, we must do something!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "I would beg my lord not to give in so easily to his very compassionate nature. We know not if these people are loyal Saradomin supporters, my liege."
+    },
+    {
+      "character": "King Roald",
+      "line": "Oh yes, we need to consider that as well. You're right of course, Aeonisig. Do you know if these people follow Saradomin?"
+    },
+    {
+      "character": "Player",
+      "line": "I am not certain, but surely this isn't the issue? They are in dire need..."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "As are many, my young friend. Is the king meant to leave Misthalin unguarded on the whim of some errant adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "But you don't understand! It's not just about the people of Morytania. Like I say, there were werewolves in Misthalin!"
+    },
+    {
+      "character": "King Roald",
+      "line": "I dare say you gave fight and slaughtered the foul beasts where they stood!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sad to say that I did not. I had no chance. I was knocked unconscious before I could properly react. Please, Misthalin must come to the aid of the people of Morytania."
+    },
+    {
+      "character": "Player",
+      "line": "The Myreque cannot fight this battle against the vampyres by themselves!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes, yes! I will ready my army and prepare to enter Morytania via Paterdomus. Morytania has for too long threatened the borders of Misthalin."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "My lord, this course of action will lead to very severe consequences! Your interference in Morytania will likely upset the balance and could send the world into another cataclysmic God War."
+    },
+    {
+      "character": "King Roald",
+      "line": "But Drakan has invaded Misthalin! I must respond!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "There is no proof that Drakan has invaded Misthalin, my lord!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes there is! I saw it with my own eyes!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Being knocked out by agents unknown does not constitute evidence. In fact, it's something that the most inexperienced of local folk could accomplish!"
+    },
+    {
+      "character": "King Roald",
+      "line": "But I can't just stand here and do nothing, Aeonisig! I must try to help if I can."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "I am afraid with the Guthixian edicts regarding religious balance, there is little else we can do."
+    },
+    {
+      "character": "Player",
+      "line": "Guthixian edicts?"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Indeed. They were put in place by Guthix himself at the end of the God Wars. At least, so his followers claim. All of us must abide by them, lest the world fall into ruin again."
+    },
+    {
+      "character": "King Roald",
+      "line": "What a load of tosh!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "An apt description, my lord. The edicts are likely to be little more than propaganda created by the followers of Guthix."
+    },
+    {
+      "character": "King Roald",
+      "line": "Well then what's the issue?"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "The edicts need closer study before we can be sure."
+    },
+    {
+      "character": "King Roald",
+      "line": "But that will take ages, we need to act now!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "As you say, it will take some time. We now pay the price for our lack of foresight in letting Guthixian edicts restrict the might of Saradomin's will."
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes, yes, but we can start to make amends for that now, can't we?"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Yes sire, there are some papers to sign, but essentially we can start work on this right away."
+    },
+    {
+      "character": "Player",
+      "line": "Signing papers! Is that the sum of the aid that Misthalin can provide to Morytania?"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Hold your disrespectful tongue! How dare you address the king in that way? We should throw you in the stocks!"
+    },
+    {
+      "character": "King Roald",
+      "line": "I am sorry, but Aeonisig is my advisor, and what he says, while it pains me, is the truth. However, I will enact a mercenary protocol."
+    },
+    {
+      "character": "King Roald",
+      "line": "This will allow all able-bodied men to fight in the defence of Misthalin for glory and spoils. You will find that many sword arms from Misthalin should soon join the resistance force."
+    },
+    {
+      "character": "King Roald",
+      "line": "In the meantime, we will look into the Guthixian edicts and find a way to rid ourselves of Drakan for good."
+    },
+    {
+      "character": "King Roald",
+      "line": "That is for you to decide, but I would assume that you'd want to report back to your comrades in Morytania."
+    },
+    {
+      "character": "King Roald",
+      "line": "If they're relying on support from Misthalin, you'll need to let them know that it might take some time before that happens."
+    },
+    {
+      "character": "Player",
+      "line": "So I came all this way for nothing?"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Is it nothing then to have an audience with the king? Your lack of respect astonishes me. How you have survived so long with such disgraceful manners is nothing short of a miracle!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry. I had just hoped for so much more."
+    },
+    {
+      "character": "King Roald",
+      "line": "Well then, I must try to do something to satisfy you. I will have my advisor Aeonisig teleport you to Paterdomus so that you are more quickly on your way. Will you accept my offer?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes thanks. I'll accept the free teleport."
+    },
+    {
+      "character": "King Roald",
+      "line": "Very good. My advisor, Aeonisig, will teleport you back. The best of luck to you."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Prepare yourself for teleport!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks. I've other things to do here."
+    },
+    {
+      "character": "King Roald",
+      "line": "Very well. Come back if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Why can't you send troops to Morytania?"
+    },
+    {
+      "character": "King Roald",
+      "line": "The Guthixian edicts supposedly exist to ensure a balance is kept when it comes to religious and spiritual beliefs in the world. At the moment, things are considered to be in balance."
+    },
+    {
+      "character": "King Roald",
+      "line": "Misthalin is a Saradominist region, but Morytania is filled with creatures of Zamorak. A war between our two regions would be considered a war between Saradomin and Zamorak."
+    },
+    {
+      "character": "King Roald",
+      "line": "If I send troops to Morytania, there is risk that the balance will be disrupted. Many followers of Guthix are apparently bound by oath to fight to keep the balance."
+    },
+    {
+      "character": "King Roald",
+      "line": "It is said that when all three sides are joined in war, Guthix will 'reawaken and remake the world without mercy for the pain of beast or man.'"
+    },
+    {
+      "character": "Player",
+      "line": "Is that really true?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Personally, I don't think so. However, Aeonisig does not feel we should risk it until we can do further research on the Guthixian edicts."
+    },
+    {
+      "character": "Player",
+      "line": "What is a mercenary protocol?"
+    },
+    {
+      "character": "King Roald",
+      "line": "It means that people can fight with the blessings of the king in defence of the kingdom."
+    },
+    {
+      "character": "King Roald",
+      "line": "Normally, if a force is amassed, they may be considered a threat to Misthalin's national security. We'd have to send the army to disband them."
+    },
+    {
+      "character": "King Roald",
+      "line": "However, a mercenary protocol allows a group to form a mercenary company. They are allowed certain rights so long as they operate within the law."
+    },
+    {
+      "character": "King Roald",
+      "line": "The Guthixian edicts prevent us from doing too much at this point, but this situation in Morytania requires some action. Unfortunately, this is the best thing I can think of at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "When can you send aid to Morytania?"
+    },
+    {
+      "character": "King Roald",
+      "line": "It depends on how long it takes the Church of Saradomin to read through the Guthixian edicts and return with an answer on how to proceed."
+    },
+    {
+      "character": "Player",
+      "line": "What part does Guthix play in all this?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Guthixian edicts rule over those of all other religions. Many followers of Guthix claim that the edicts have largely controlled the peace that Misthalin has experienced for so many years."
+    },
+    {
+      "character": "King Roald",
+      "line": "Apparently, some followers of Guthix have sworn an oath to perform ceremonies to try and re-awaken Guthix if the edicts are broken."
+    },
+    {
+      "character": "King Roald",
+      "line": "They say that peace and tolerance are needed to maintain the balance. I've no doubt it's all a load of rubbish, but we can't proceed until we are sure."
+    },
+    {
+      "character": "Player",
+      "line": "Does your offer of a teleport still stand?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Certainly, are you ready now?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to ask a few questions if I may?"
+    },
+    {
+      "character": "King Roald",
+      "line": "Certainly, go ahead."
+    },
+    {
+      "character": "Player",
+      "line": "I have. King Roald isn't able to send troops for our fight against the Drakans. Apparently, some Guthixian edicts need to be scrutinised in more detail or else the balance will be affected?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Oh dear! I once did some studying of the edicts. I can see why the king and his advisors are cautious."
+    },
+    {
+      "character": "Drezel",
+      "line": "The Myreque will need to know all that you have experienced so far. You should report to Veliaf when you can."
+    },
+    {
+      "character": "Player",
+      "line": "Can you explain a little about the Guthixian edicts?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Well, only a little. The followers of Guthix make all sorts of wild claims where he is involved. Those of us who serve Saradomin know that these claims are mostly baseless."
+    },
+    {
+      "character": "Drezel",
+      "line": "What we do know is that Guthix is a god of nature and balance. We believe him to be of average power. Enough to pay attention to, but nothing compared to the strength of Saradomin."
+    },
+    {
+      "character": "Drezel",
+      "line": "It is said that long ago, back when the gods walked these lands with us, a great war was fought called the God Wars."
+    },
+    {
+      "character": "Drezel",
+      "line": "The stories say the war lasted for thousands of years and that the carnage saw the world forever changed."
+    },
+    {
+      "character": "Drezel",
+      "line": "The followers of Guthix claim that this war ended when Guthix awoke from his slumber and banished the other gods, leaving the world to mortals."
+    },
+    {
+      "character": "Drezel",
+      "line": "This is likely not the true version of events. Guthixians also claim that it was Guthix himself who made the world. Obviously, that is not correct."
+    },
+    {
+      "character": "Player",
+      "line": "So where do these edicts come in?"
+    },
+    {
+      "character": "Drezel",
+      "line": "They were apparently created at the end of the God Wars to ensure that the world never sees a conflict like that again."
+    },
+    {
+      "character": "Drezel",
+      "line": "The edicts state that no single god should be allowed to gain enough power to become dominant. Instead, a balance must be kept between the gods and their servants."
+    },
+    {
+      "character": "Drezel",
+      "line": "If the balance is not kept, the followers of Guthix will try to intervene. If they are unable to restore balance, they will supposedly awaken Guthix from his slumber beneath the earth."
+    },
+    {
+      "character": "Drezel",
+      "line": "Once he awakens, they say he will remake the world, destroying civilisation as we know it."
+    },
+    {
+      "character": "Drezel",
+      "line": "It's just a story of course. All made up by the Guthixians to help them feel relevant."
+    },
+    {
+      "character": "Player",
+      "line": "But if the edicts are just made up, what's the risk?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Well when there's threats of the world being remade, you can't be too careful. It is wise to be cautious. After all, wisdom is one of Saradomin's greatest strengths."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me why you're here?"
+    },
+    {
+      "character": "Hiylik Myna",
+      "line": "Of course. I plan to assist the forces of Saradomin who will come to our aid, and fight against the legions of vampyres that infest this foul place. These brave mercenaries shall need a guide."
+    },
+    {
+      "character": "Hiylik Myna",
+      "line": "When a guide arrives, I will aid the mercenary by holding their wealth for their eventual return. The mercenary will repay the guide by giving him a token for items which I am holding."
+    },
+    {
+      "character": "Hiylik Myna",
+      "line": "I shall give such items to the guide as payment for their services once I'm handed the token."
+    },
+    {
+      "character": "Player",
+      "line": "What items will you hold?"
+    },
+    {
+      "character": "Hiylik Myna",
+      "line": "Oh, the range of items is very varied. Mercenaries tend to hold raw materials in high esteem and so will deposit those with me. They also seem to be good bartering items."
+    },
+    {
+      "character": "Hiylik Myna",
+      "line": "Generally, things like uncooked lobsters, coal, silver bars, bow strings. Things which are useful! Plus the odd tome of experience, which are considered incredibly useful."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. What should I do now?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Myreque prevail,. You should have a chat with Safalaan. He may be able to help you."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Veliaf. I have some news for you."
+    },
+    {
+      "character": "Player",
+      "line": "King Roald cannot send troops! I talked to him at great length and was unable to persuade him. His Saradominist advisor cited Guthixian edicts as the reason for not sending aid."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Guthixian edicts? How do they prevent Roald from sending troops?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently a war in Morytania will risk disturbing the balance between Saradomin and Zamorak so the Guthixians will need to intervene."
+    },
+    {
+      "character": "Player",
+      "line": "The Church of Saradomin is looking into it now to see if it's true."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There has long been a desire by the Church of Saradomin to see Guthixian power eroded away. This stinks of politics. They're just using the situation here for their own gain!"
+    },
+    {
+      "character": "Player",
+      "line": "Roald did agree to enact a mercenary protocol. He said it was the best he could offer for the moment without contravening the Guthixian edicts."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well that's something I guess. Not exactly what we were hoping for though."
+    },
+    {
+      "character": "Player",
+      "line": "What should we do now? There must be someone else we can turn to?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We must inform the Sanguinesti order of the Myreque of these events. Please go as fast as you can back to the Meiyerditch hideout and forward this information to them."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to do now?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We must inform the Sanguinesti order of the Myreque of what we have learnt. Please go as fast as you can back to the Meiyerditch hideout and forward this information to them."
+    },
+    {
+      "character": "Drezel",
+      "line": "Hello,. How are things in Morytania?"
+    },
+    {
+      "character": "Player",
+      "line": "Not as well as I'd hope, Drezel. I'm still working with the Myreque. I just hope that we can find a way to defeat those Drakans."
+    },
+    {
+      "character": "Drezel",
+      "line": "You can be sure that a great many people hope for exactly the same thing,. Good luck to you, and Myreque prevail!"
+    },
+    {
+      "character": "Player",
+      "line": "Myreque prevail, Drezel."
+    },
+    {
+      "character": "Player",
+      "line": "I have a message from Veliaf. It's bad news I'm afraid. I was sent on a mission to Misthalin to seek help from King Roald. Sadly, he isn't able to offer much support."
+    },
+    {
+      "character": "Player",
+      "line": "That's not all though. On my way to Varrock, I came across some beasts on the other side of the River Salve! I think they were werewolves working for the vampyres."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "This is disastrous! Things seem to go from bad to worse! You will have to communicate this information to our leader, Safalaan. He needs to know as soon as possible."
+    },
+    {
+      "character": "Player",
+      "line": "Where is Safalaan and what does he look like?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "He's out on a mission sketching Castle Drakan. He's taken the wall route so you'll need to do the same."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "There is a barricade that prevents further travel north. It's located under the wall. You'll need to search the wall southeast of the barricade to release the lock on the door."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, great, that's helpful. Now, how can I recognise Safalaan?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "He's very distinctive. It shouldn't be a problem trying to find him if you know where to look, and you've got a good set of eyes on you!"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Anyway, I need to head towards the wall myself now, so you can come with me. It'll be quicker than going back on your own."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, lead the way."
+    },
+    {
+      "character": "Player",
+      "line": "I'll make my own way."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I'll be here if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. What do I need to do now?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "You need to report to our leader, Safalaan. He's out on a mission sketching Castle Drakan. He's taken the wall route so you'll need to do the same."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, great, that's helpful. How can I recognise Safalaan?"
+    },
+    {
+      "character": "Player",
+      "line": "You must be Safalaan. My name is. I come with a very important message from Vertida."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Vertida, eh? What makes you think I know a Vertida?"
+    },
+    {
+      "character": "Player",
+      "line": "He's asked me to come and seek you out. I'm working with Veliaf in Burgh de Rott."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Ah, Veliaf! Myreque prevail! My friend, you're just the tonic for my otherwise dark mood. Tell me, what news comes from the west?"
+    },
+    {
+      "character": "Player",
+      "line": "I went to see King Roald to request support in our fight. Unfortunately, his advisor reminded him that the Guthixian edicts prevent his intervention."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Guthixian edicts? Sounds like excuses to me. I commend you on your efforts to rally support for our cause though."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid that's not all. I was attacked by beasts on the western side of the Salve, near to Paterdomus. I think they were werewolves working for the vampyres."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "This is terrible! Surely the magical influence of the Salve should be preventing that? What if the vampyres are able to cross as well? Drakan could start a full onslaught!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I must return to the base in order to discuss this information and work out what must be done."
+    },
+    {
+      "character": "Player",
+      "line": "Can I help in some way?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Yes, you certainly can, my friend. I was on a mission to scout out this castle. I have yet to start, but please could you take over for me?"
+    },
+    {
+      "character": "Player",
+      "line": "I can certainly try! Are there any specific details I should know?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Indeed there are. We need sketches of the northern, western, and southern sides of the castle."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I've checked the vyrewatch flight patterns and I think you'll attract less attention if you make your way to the north and do that sketch first, then sketch the western side, and finally finish off here."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "One of the others has already marked the best spots to sketch from. If you need some more papyrus, you can get some off Old Man Ral. He's helped us out once or twice before."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Good luck, my friend. Return to the hideout when you have completed the sketches."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Myreque prevail!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We need some accurate plans of the castle. Please make some careful sketches starting from the north side, moving to the west and finishing off with a sketch from this view."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "One of the others has already placed some markers on the walls at the best vantage points."
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan said I could get some more papyrus from you."
+    },
+    {
+      "character": "Old Man Ral",
+      "line": "Hmph, hmm, I suppose so, here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met,. How goes it?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Veliaf. I'm doing some work for the Sanguinesti Myreque."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good. It seems like you're really proving your worth. Keep it up."
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan asked me to sketch the north side first."
+    },
+    {
+      "character": "Player",
+      "line": "What was I supposed to be doing?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We really need those sketches showing the plans of the castle. Use charcoal and papyrus in order to make the sketches. There are three sides to the castle that need to be sketched."
+    },
+    {
+      "character": "Player",
+      "line": "I need to make a sketch of the western face of the castle."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "So yes, Lady Vanescula, we're getting maximum yield from the current rotation. And more tithes are coming in all the time."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Good, good! You seem to be well in control."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "If I remember, madam, I had little choice. You were quite... 'persuasive' the last time we met."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ha, ha, ha. Vanstrom, you do make me laugh."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Perhaps a light refreshment m'lady? This is from the fresh batch."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Why, with these blood tithes you're really spoiling us!"
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Visciously efficient as ever, Vanstrom! You never fail to please us."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Mmm, delicious! Well, it's been lovely as usual, Vanstrom."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "But we really have to get on."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "The same is true for me, m'lady."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Sorry, but that item doesn't look genuine. I cannot accept it."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Ha! So we meet again,. Prepare to die!"
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "Sorry for the interruption, Lord Vanstrom, but Lady Vanescula 'requests' that this individual be questioned before being used as a punch bag."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I take no orders from food sacks like you, Guile. Attend to this yourself. In any case, wasn't much of a punch bag anyway."
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "Awaken! There are things for you to know."
+    },
+    {
+      "character": "Player",
+      "line": "Huh? What happened?"
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "Your life may be forfeit but for now you live. My mistress will understand my motives. She has an interest in the one called Safalaan."
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "As a gesture for my intervening on your behalf, I'd take it as a kindness if you would deliver a message to him."
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "The message you will find secreted behind tiles where smoke is carried away from the depiction of statuesque evil."
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "And now be away, but forget not the task that Safalaan set you! For why else would you be here?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, I've finished at the castle."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Good work. Do you have the sketches then?"
+    },
+    {
+      "character": "Player",
+      "line": "Err... No."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Sounds like you're not finished after all then. Please return once you have the sketches."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, I've finished at the castle. It was a close one though. I was attacked by Vanstrom!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "He came out of nowhere! I tried to fight back, but I just couldn't hurt him."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Brave, very brave. He didn't follow you here did he?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm pretty sure I wasn't followed. So anyway, during the fight, Vanstrom knocked me to the floor and I thought I was done for. But then a woman named Sarius showed up."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Sarius? Vanescula Drakan's servant? Hmmm, interesting. Was Vanescula herself nearby?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I saw Vanescula earlier, but when I saw Sarius arrive, Vanescula wasn't around. Sarius told Vanstrom that Vanescula wanted to interrogate me. So Vanstrom got angry and flew away."
+    },
+    {
+      "character": "Player",
+      "line": "Sarius then told me about a message which was meant for you. Something about 'smoke and statues'? She said that Vanescula was interested in you for some reason?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well, you certainly seem to have had a very close call. Thanks for letting me know all of this. It's all highly interesting."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Oh, and I almost forgot. Do you have the sketches?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You have my gratitude, friend! Myreque prevail! I need to take a good look at these and see what we can learn."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Hmm, good question. Didn't you mention something about Sarius and a message?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. If I remember correctly, she said it was hidden 'behind tiles where smoke is carried away from the depiction of statuesque evil'."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "A riddle? Clearly she doesn't want the message to be easily found. I'd appreciate it if you could look into this further."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, I've returned."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes. I have it here."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Hmm, interesting. This message gives details of some sort of laboratory. Maybe there is some information there which could help us."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We should keep an eye out for this place. In fact, it would be great if you could look for it for us. Keep the message. It may help you to locate the laboratory."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well that message you brought me had some details regarding a laboratory. Maybe there is some information there which could help us."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you think this laboratory could be?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It's a good question, but not one I have an answer for. The message seemed to have some hints though. If you get a chance could you look into this for us?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Yes, you've shown me this before. It's an interesting message and it's really great that you found it. Please keep it so that it will help you to locate the laboratory."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, I think I've found that laboratory."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Is there anything of note there?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't found anything yet."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well keep looking. There must be something there we can use."
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan. I have something you might be interested in. I found it in the laboratory."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You've done well, very well indeed. I can't decipher much of it, but from what I can tell, this tome contains research notes on the vampyres' weaknesses."
+    },
+    {
+      "character": "Player",
+      "line": "Well, whatever it is, someone went to a lot of trouble to try and hide it."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I can believe that,. Once again you have our gratitude. For my part, your arrival has not come soon enough. I have a feeling that your efforts in our struggle are not yet over."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I for one would be grateful for your continued assistance. Together we can pull back the darkness of Hallowvale."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do what I can, Safalaan. You have my support."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Then I must beg you for one more small task, to return to Veliaf with a message to advise him of what has transpired here."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I realise that bearing messages seems somewhat lowly, but your ability to pass in and out of the city without being detected makes you perfect for this assignment."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I also have some information which should help with your journeys through Meiyerditch. There are two doors, one is in sector one and the other is in sector two. You can use them to reach this hideout faster."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, I'll return to Veliaf. Farewell."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Farewell and good luck, my friend!"
+    },
+    {
+      "character": "Player",
+      "line": "What should I do again?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Take the message that I gave you to Veliaf. He should be able to explain everything to you when you get there."
+    },
+    {
+      "character": "Player",
+      "line": "But I've lost that message. Can I have another one please?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well, okay, but please don't lose this one."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met,. It's good to see you again."
+    },
+    {
+      "character": "Player",
+      "line": "I've spoken to Safalaan. He gave me a message to give to you but I've misplaced it!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well, that's not particularly good is it? You'll have to go back and ask him if he can rewrite the message for you."
+    },
+    {
+      "character": "Player",
+      "line": "I have a message for you from Safalaan."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Really? Well, let's see it then!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well, it seems that you have more than proven yourself worthy,. Safalaan himself has recommended you for a promotion to the rank of a private within the Myreque!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You've done well. I'd say you've earnt a break. Before you go though, here's a little something to thank you for your hard work."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost my Tome of Experience."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Hmm, okay, let's see if I have another one for you... Ah, here we go!"
+    },
+    {
+      "character": "Player",
+      "line": "So, what's going to happen now?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There's plenty of options for us to move forwards. We'll still keep up intelligence-gathering operations within the local area. We'll also keep looking for weaknesses in the vampyres' defences."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I'll probably have to meet up with Safalaan at some point, so we can discuss strategies. This war is far from over,. There's plenty of time to contribute so don't worry about that."
+    },
+    {
+      "character": "Player",
+      "line": "Well you just let me know when you next need me."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Don't worry, we will. Myreque prevail."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aeonisig Raispher",
+      "description": "Middle-aged male, British accent, uptight and pious tone, an extremist Saradominist priest who serves as a cautious religious advisor to the king."
+    },
+    {
+      "name": "Child",
+      "description": "Young boy, British accent, innocent and curious tone, a small resident of Meiyerditch living under vampyre oppression."
+    },
+    {
+      "name": "Drezel",
+      "description": "Middle-aged male, British accent, gentle and devout tone, a holy monk who guards the temple at Paterdomus and aids those fighting the darkness of Morytania."
+    },
+    {
+      "name": "Hiylik Myna",
+      "description": "Adult male, British accent, earnest and pragmatic tone, a Saradominist priest who recruits adventurers to escort refugees through dangerous territory."
+    },
+    {
+      "name": "King Roald",
+      "description": "Middle-aged male, British accent, regal but somewhat indecisive tone, a straightforward ruler who commands respect but can be impatient under pressure."
+    },
+    {
+      "name": "Meiyerditch citizen",
+      "description": "Adult, British accent, weary and hopeless tone, an oppressed human living under vampyre rule who has grown accustomed to suffering."
+    },
+    {
+      "name": "Old Man Ral",
+      "description": "Elderly male, British accent, raspy and cryptic tone, a flea-infested sage who knows the secret paths through Meiyerditch and helps the resistance."
+    },
+    {
+      "name": "Ranis Drakan",
+      "description": "Ancient male vampyre, Eastern European accent, haughty and cruel tone, an arrogant noble who delights in tormenting humans and watching them suffer."
+    },
+    {
+      "name": "Safalaan Hallow",
+      "description": "Adult male half-Icyene, British accent, charismatic and determined tone, a tall mysterious leader of the Myreque with hidden powers he doesn't fully understand."
+    },
+    {
+      "name": "Sarius Guile",
+      "description": "Adult female, British accent, quiet and calculating tone, a humble servant of Vanescula who is more capable and important than she appears."
+    },
+    {
+      "name": "Vanescula Drakan",
+      "description": "Ancient female vampyre, Eastern European accent, intelligent and manipulative tone, an ambitious noble who plots against her own brother for power."
+    },
+    {
+      "name": "Vanstrom Klause",
+      "description": "Ancient male vampyre, Eastern European accent, sinister and menacing tone, a ruthless murderer who delights in terrorizing the resistance and hunting humans."
+    },
+    {
+      "name": "Veliaf Hurtz",
+      "description": "Middle-aged male, British accent, bold and commanding tone, a devout Saradominist and resourceful leader of the Myreque resistance dedicated to defeating vampyres."
+    },
+    {
+      "name": "Vertida Sefalatis",
+      "description": "Adult male, British accent, quiet and war-weary tone, a skilled ranger who serves as second-in-command of the Sanguinesti Myreque with keen tactical awareness."
+    },
+    {
+      "name": "Vyrewatch",
+      "description": "Adult vampyre, Eastern European accent, cold and demanding tone, a flying enforcer who patrols Meiyerditch collecting blood tithes from terrified citizens."
+    }
+  ]
+}

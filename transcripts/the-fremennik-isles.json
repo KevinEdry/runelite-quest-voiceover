@@ -1,0 +1,4568 @@
+{
+  "branch": "quest/the-fremennik-isles",
+  "quest_name": "The Fremennik Isles",
+  "lines": [
+    {
+      "character": "Maria Gunnars",
+      "line": "Hello, are you ?"
+    },
+    {
+      "character": "Player",
+      "line": "I am, but who are you?"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "I am Maria Gunnars, Mord's wife."
+    },
+    {
+      "character": "Player",
+      "line": "You should speak with my husband. He has been looking for you."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "I am Maria Gunnars."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "You should speak with my husband."
+    },
+    {
+      "character": "Mord",
+      "line": "Hello,."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Hello, are you ? by any chance?"
+    },
+    {
+      "character": "Player",
+      "line": "Well my name is, but I am known as by the Fremennik. May I ask who you are?"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Of course, I am Mord Gunnars, a humble ferryman."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "I come from an island north of here called Jatizso, while my wife Maria is from Neitiznot."
+    },
+    {
+      "character": "Maria",
+      "line": "Hello."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "The King of Jatizso has requested that I take you to him, as he has an important task for you."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Mord."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about Jatizso."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Well now, the history of the isles is a bloody tale. When told in its intended form it takes 9 days and 9 nights. However, I will give you the abridged version."
+    },
+    {
+      "character": "Player",
+      "line": "Phew!"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Four generations ago there was a mighty king who ruled wisely and was loved by all."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "He had many sons, most of whom proved themselves in the usual Fremennik ways of fighting, sailing, drinking and so on."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "His youngest two sons, however, were a problem. Ever since they were old enough to hit one another they had bickered and fought."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Their names were Jatizso and Neitiznot."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Hey! Who's telling this story?"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Ahem. At the time it was customary for the Kings' sons to claim a prize from his treasury when they came of age."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Each brother rallied support and strode out to confront the other on the field of battle to claim the same prize."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "The brothers met on the field, limbs were bruised, bones were crushed and heads clashed."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "They probably didn't notice the head-clashing bit. Too thick skulled!"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Can I finish the story without interruptions?"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Carry on dear."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Anyway, long into the night they fought, until they stood alone, facing each other."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "On the second day the old king, whose patience was exhausted, strode out onto the field and demanded to know who had claimed his prize."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso looked at his father and told him yes, it was his, to which the other called out 'No! It's not'."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "And so, the argument continued through to the third day, with the sounds of 'Jah! 'tis so!', 'Ne! It's not!' echoing over the field, becoming more hoarse as the darkness enveloped the brothers."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Bah! What they needed was a good clip round the ear."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "At the end of the third day, when the brothers lay unable to move, let alone stand, the King stood between them in shame."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "As punishment for their squabbling he banished his sons from his realm, ordering that neither should return until they had conquered lands of their own."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso set sail with a band of loyal followers, sailing into the east, while Neitiznot went west."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso ventured far into uncharted oceans, his crew dwindling as the trials of sailing and sea monsters took them."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso's ship limped through the frozen wastes, in need of repairs, fighting off pirates who thought them easy pickings."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "At last a promising land was sighted, a land rich in minerals, deep fjords and sweeping mountains."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso claimed the land and named it after himself."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "A mighty citadel was constructed to protect his land; then Jatizso set forth to explore his new kingdom."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Crossing a few fjords, Jatizso spied an island which remained green and fertile, even at such latitude."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "With a mighty cheer Jatizso and his men marched on the island. Upon reaching the island, however, they discovered a wooden stockade."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Determined to be master of all the land, Jatizso stood in front of the gates. He looked up and demanded that those within the stockade surrendered."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso was horrified when his brother appeared on the battlements and cried 'This is my land! Go find yer own'. To which his brother replied 'No it's not!', throwing some rocks for good measure."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "And so the blood feud continued."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "The fighting between the towns has continued for generations with little sign of improvement."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Quite recently a massive troll army seized one of the islands to the north, while our townships' militias were busy fighting one another."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "They marched down and razed Neitiznot to the ground while Neitiznot's troops laid siege to Jatizso."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "The smoke damage was atrocious, I had to replace my entire wardrobe."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Yes, dear."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Anyway, a hasty sort of peace has been agreed until the trolls are dealt with."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "But you can still see the bitter rivalry as guards hurl insults between the towns."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about the King of Jatizso."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Ha! Our benevolent King Gjuki Sorvott IV."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "He is short-tempered, arrogant and cares little about anything except outdoing Neitiznot's Burgher."
+    },
+    {
+      "character": "Maria",
+      "line": "He's not at all like Burgher Burowgar."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "I'm surprised King Sorvott wishes to talk to you. Don't expect much in the way of gratitude."
+    },
+    {
+      "character": "Player",
+      "line": "Can you ferry me to Jatizso?"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Of course."
+    },
+    {
+      "character": "Player",
+      "line": "I'm too busy to help your King."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "I guess I won't be getting paid for finding you, then."
+    },
+    {
+      "character": "Player",
+      "line": "I may be back later."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Hi, you should speak with King Sorvott in the main chambers."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "The chambers have the town's banner erected outside."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you for bringing me here Mord."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Is there anything I can do for you?"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Jatizso is a small Fremennik town, which is far less closed to the world than other Fremennik tribes."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "We maintain trade links with many powers in the world and have moved beyond some traditions to take advantage of modern advances."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "We do, however, continue to 'enlighten' our neighbours in Neitiznot. Unfortunately, some of the Islands are infested with trolls."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "We should really be trying to deal with the trolls, but the King tends to get a bit preoccupied with his cousin, the Burgher of Neitiznot."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Ha! Our benevolent King Gjuki Sorvott IV. He doesn't have much of an opinion about anyone, apart from his cousin Mawnis who rules the other Island. He hates him with a passion that can occasionally be quite scary."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "You might be able to talk to him if you help out around Jatizso. Don't expect much in the way of gratitude though."
+    },
+    {
+      "character": "Player",
+      "line": "Can you ferry me to Rellekka?"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Sure."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm fine right now."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "Oh, hello stranger. If you're new to town you should speak with our ruler, King Gjuki Sorvott IV. He'll want to meet you - he always wants to have a chat with any strangers in town. They could be spies you know."
+    },
+    {
+      "character": "Player",
+      "line": "Spies?"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "Yes, spies from Neitiznot. They're everywhere. Apparently. That's what the King says anyway."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you do here?"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "Me? I'm a cook. Fish dishes a speciality. I hate fish. But fish is about all we have. Except for yak. But we're not allowed to eat yak."
+    },
+    {
+      "character": "Player",
+      "line": "Why not, is yak meat bad for you?"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "Certainly not! Yak meat is both sweet and delicately flavoured. Yak is juicier than buffalo and elk - but never gamey. It goes wonderfully well with a glass of red wine, and it's healthy too!"
+    },
+    {
+      "character": "Player",
+      "line": "So why aren't you allowed to eat it?"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "King's orders. They breed and eat yaks on Neitiznot, so WE'RE not allowed to. It's unjust I tell you! I had a dream last night about a juicy fillet of yak, served on a bed of deep-fried seaweed and topped with a garnish"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "of crumbly yak's cheese."
+    },
+    {
+      "character": "Player",
+      "line": "That's a little sad. So do you have any cooked food I could buy?"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "No. It would only be fish anyway. Why would you want to eat fish?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I wouldn't mind a few shark and swordfish steaks as back-up you know."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "If you insist. Sorry the stock is so low, but I just can't be bothered to cook any more."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. What's happening in town at the moment?"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "These dwarves have arrived from Keldagrim - the Chancellor has asked me to look after them, but they are eating all of our food and drinking all of our booze."
+    },
+    {
+      "character": "Player",
+      "line": "What are the dwarves doing here?"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "They are organising some sort of trade agreement. I don't know what they are trading."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Brendt",
+      "line": "Hmm, interesting place this. It feels a little like Kelda, except without the good bits."
+    },
+    {
+      "character": "Grundt",
+      "line": "Bored, bored, bored. These Fremenniks are taking ages."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, they're doing their best. You arrived early."
+    },
+    {
+      "character": "Grundt",
+      "line": "Hey, we arrived precisely when we told your representatives. Lack of planning on your part does not constitute an emergency on my part."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Please, someone get these guys their ore quickly. They are eating all the good food on the island, and complaining about it!"
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get a move on!"
+    },
+    {
+      "character": "Guard",
+      "line": "Welcome,."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Please introduce yourself to our ruler, His Royal Greatness King Gjuki Sorvott IV."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Guard, who is this outlander?"
+    },
+    {
+      "character": "Hrafn",
+      "line": "Meeow?"
+    },
+    {
+      "character": "Guard",
+      "line": "This is, your majesty."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Is this true? You are the outlander who has been given a Fremennik name?"
+    },
+    {
+      "character": "Hrafn",
+      "line": "Miouw...meow."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed I am."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Excellent."
+    },
+    {
+      "character": "Player",
+      "line": "How may I assist your Highness?"
+    },
+    {
+      "character": "Hrafn",
+      "line": "Meouw!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Behave Hrafn!"
+    },
+    {
+      "character": "Hrafn",
+      "line": "Meeeiouw! Mewwww!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I have a task that requires your unique-"
+    },
+    {
+      "character": "Hrafn",
+      "line": "MEEEEOOOUW!!!!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Not now, Hrafn."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Now where was I?"
+    },
+    {
+      "character": "Player",
+      "line": "You mentioned a task requiring my unique-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Ah, yes."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Your unique position among Fremennik-"
+    },
+    {
+      "character": "Hrafn",
+      "line": "MEEEIOOOOUW! MIOOOOOEW! YOOWLLL!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hrafn! Oh, alright, alright, I give in."
+    },
+    {
+      "character": "Hrafn",
+      "line": "Purrr."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Look, could you fetch my cat some fish?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Then we can finish our conversation in peace."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's probably a good idea."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Thank you."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hrafn will only eat raw tuna."
+    },
+    {
+      "character": "Player",
+      "line": "Will any raw tuna do?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Yes, fussy though Hrafn is, he doesn't care where the tuna comes from."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "If you don't already have any, you can catch some down by the docks, or you can buy some from my fishmonger, Flosi Dalksson."
+    },
+    {
+      "character": "Guard",
+      "line": "Halt, in the name of King Gjuki Sorvott IV."
+    },
+    {
+      "character": "Guard",
+      "line": "Oh, its you again."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Hello,. That cat really is a pain isn't he? Always interrupting the King."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I've met worse. Still, I'd better get him his fish, otherwise he'll never keep quiet."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Oh, go and talk to Flosi Dalksson in his shop. He'll have some tuna if you don't have any. You could also fish it from one of the spots round here, if you prefer."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go, enjoy your fish."
+    },
+    {
+      "character": "Hrafn",
+      "line": "What is the meaning of this serf? One specifically asked for RAW tuna, not fish defiled by human fire!"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go. Enjoy your fish."
+    },
+    {
+      "character": "Hrafn",
+      "line": "What is the meaning of this serf? How is one supposed to eat a piece of paper?"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go. enjoy your fish!"
+    },
+    {
+      "character": "Hrafn",
+      "line": "Purrrrrrrrrr (One is satisfied with the freshness of the tuna. The humans have acted satisfactorily in this matter.)"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hello again,."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Do you have a piece of raw tuna for Hrafn?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, your Highness."
+    },
+    {
+      "character": "Hrafn",
+      "line": "Miouw!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Well, what are you waiting for?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have your pet's fish."
+    },
+    {
+      "character": "Hrafn",
+      "line": "Meow."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Now, what was I saying?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Ah, yes, so the Burgher of Neitiznot Island is an enemy of free-thinking Jatizso citizens. My informants tell me an increased number of trade ships have been seen docking at their ports. They must be preparing for something. Chancellor, fill in the details."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Sire, Sire! The Kelda merchants have arrived, they are three days early. We're not ready!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "What? We cannot afford to offend the Red Axe traders. Where are they now?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "They are in the hall, eating and drinking us out of food and beer. It's costing us a fortune."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Another good reason to get them their ore and get them out of town. Get all our miners on the job now!"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "I already have. They'll never get enough ore in time, the bunch of lazy no-good layabouts."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Bah! Those miners haven't learned their lesson."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "It may be time for some extra incentives."
+    },
+    {
+      "character": "Player",
+      "line": "Wait a minute! I'm fairly handy with a pick axe. Maybe I can help; what do you need?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "We need pieces of for Keldagrim's merchants."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "The entrance to our mines are to the north-east of the western gatehouse, outside the walls."
+    },
+    {
+      "character": "Player",
+      "line": "If I just happen to have the ore you need in the bank, do I need to go down to your mines?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "If you bring us the ore, we won't ask where it came from. Don't worry we're discreet."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm, interesting. I'll get the ore then."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me where to find the nearest mines?"
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "Err, there are some mines just outside the western gatehouse. I don't know what the rocks contain there though, you'll have to have a look."
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "Is there anything I can help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have a look at your stock please?"
+    },
+    {
+      "character": "Player",
+      "line": "No, nothing just now thanks."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Do you have the ore?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you remind me of what those Dwarven traders need?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Of course. Please bring pieces of ore."
+    },
+    {
+      "character": "Player",
+      "line": "And the mines are..."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "The entrance to the mines is outside the western gatehouse, on the north side of the town."
+    },
+    {
+      "character": "Player",
+      "line": "I have bank notes to the value of the ore here."
+    },
+    {
+      "character": "Player",
+      "line": "I have the ore here."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Excellent. This has gathered the pieces of ore needed by Keldagrim's merchants, sire."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Good, good. Please reward this for efforts."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Do you have all the ore my Chancellor requested?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Please hurry back with, Keldagrim's traders are drinking my cellars dry."
+    },
+    {
+      "character": "Player",
+      "line": "I have the ore here, sir."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "This has gathered the remaining ore needed by Keldagrim's merchants."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Excellent news, your majesty."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Please reward this for efforts."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Of course, your majesty."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Thank you. If only our miners were as efficient as you."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Right. Now let us get down to business, young. Let us hope we have no more interruptions."
+    },
+    {
+      "character": "Player",
+      "line": "Certainly, your Majesty."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Neitiznot's Burgher, Mawnis Burowgar, is a simpleton and a fool."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I have bested him before and will do so again!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "He is surely plotting a new plan to defeat me."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "He's up to something, he's always up to something."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I will not be kept in the dark about his plans any longer. I must know what underhand tricks he'll use to undermine me. He's out to get me! Get me I say!"
+    },
+    {
+      "character": "Player",
+      "line": "Ahem, I see, sir. How may I help in this matter?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Well, I have heard that some call you 'bard' in Rellekka. Your lyre-playing reputation has carried this far."
+    },
+    {
+      "character": "Player",
+      "line": "You want me to play the lyre? Well actually, I've been working on a few tunes in my spare time. I have this new song about-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Silence! I do not wish to hear your wailing. All bards are charlatans and fools."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "However, a fool is exactly what I need right now."
+    },
+    {
+      "character": "Player",
+      "line": "Oh."
+    },
+    {
+      "character": "Player",
+      "line": "It's a great tune, very catching, you'll love-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Bah! Bards are all the same, they never shut up! If I need to be entertained I'll hire a mime; maybe I'll get some rest then. Now if you'll listen, I'll explain what I need you to do."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "In the past I have sent my Spymaster to 'entertain' the Burgher, and to see what he can find out."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You see, the Burgher of Neitiznot and his aides like a drink when they are being entertained, and their tongues are loose when they drink."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "However, yesterday my spy had an accident and could no longer help me in this task. However he is still stationed on Neitiznot."
+    },
+    {
+      "character": "Player",
+      "line": "So this is a covert operation into Neitiznot? You need me to infiltrate the Burgher's hall, undercover, and uncover his evil plans?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Exactly,. So are you interested?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a task for an elite adventurer like myself. Mission accepted."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Excellent, you and I will get on very well."
+    },
+    {
+      "character": "Player",
+      "line": "So what is the easiest way to get to Neitiznot?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I suggest you catch Mord's ferry back to Rellekka and then catch a ferry from there."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure that's the best way?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You may find a way across the islands, but the bridges are almost certainly broken, and there are trolls which are a bit of a nuisance. The ferry is probably both quicker and safer."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be off then"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Oh, there is one more thing. In order to gain an audience with the Burgher, you will need my Spymaster's, err, costume."
+    },
+    {
+      "character": "Player",
+      "line": "Costume?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "The costume is in my chest. Don't forget to pick up all the pieces."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Then travel to Neitiznot and talk to my Spymaster. He is still over there. He will fill you in with the details, and you may report to him."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Oh, the Spymaster is a secretive kind of guy. He will require a password. The password is 'free stuff please'."
+    },
+    {
+      "character": "Player",
+      "line": "What sort of password is that?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Don't ask me, it was his idea."
+    },
+    {
+      "character": "Player",
+      "line": "Fine. What's his name?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "His name is Slug Hemligssen, but don't expect him to answer to it."
+    },
+    {
+      "character": "Player",
+      "line": "So how will I recognise him?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Don't worry, you'll find him."
+    },
+    {
+      "character": "Player",
+      "line": "Why are you still here?"
+    },
+    {
+      "character": "Brendt",
+      "line": "Well it seemed rude not to finish the food they gave us."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Feel free to leave it. Please leave."
+    },
+    {
+      "character": "Grundt",
+      "line": "I'll just finish the roast off."
+    },
+    {
+      "character": "Grundt",
+      "line": "Ah, yes. Now that's what I call a meal."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "That's funny, I called it fourteen meals yesterday."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Have you finished the covert operation I asked you to complete?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Well, what are you waiting for? Hop to it!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes sir!"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Have you completed your undercover mission to Neitiznot yet?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Then make sure you have your costume and go. There is no time to play around!"
+    },
+    {
+      "character": "Skuli Myrka/Raum Urda-Stein/Hring Hring",
+      "line": "You will look lovely in that outfit."
+    },
+    {
+      "character": "Skuli Myrka/Raum Urda-Stein/Hring Hring",
+      "line": "You look lovely in that outfit."
+    },
+    {
+      "character": "Skuli Myrka/Raum Urda-Stein/Hring Hring",
+      "line": "Is there anything else I can help you with?"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "What do you think you're wearing, ?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a Spymaster costume. Apparently."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Is that so? I've half a mind not to let you on the boat wearing that outfit. All those bells will scare the fish and maybe even attract pirates."
+    },
+    {
+      "character": "Player",
+      "line": "This outfit wasn't my idea."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Designed to subtly blend into the background, no doubt?"
+    },
+    {
+      "character": "Player",
+      "line": "Clearly."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Hello, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "I am Maria Gunnars. What can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Neitiznot's geography."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Sure."
+    },
+    {
+      "character": "Mord",
+      "line": "Well, as I have mentioned, I am from an island called Jatizso, while my wife is from another island called Neitiznot. Neitiznot is a far less sophisticated and successful island which will not see reason with Jatizso."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Ne it iz not!"
+    },
+    {
+      "character": "Mord",
+      "line": "Ja it iz so!"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Ahem, anyway, the islands are in a small volcanic archipelago north of here."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Along with the main isles there are numerous small islands and a frozen northern island that was recently overrun by trolls."
+    },
+    {
+      "character": "Mord",
+      "line": "Jatizso is rich in minerals, and trades extensively, while Neitiznot has stolen all the decent arable land."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Only because Jatizso hogs all the wealth."
+    },
+    {
+      "character": "Mord",
+      "line": "Well, that wealth is needed to buy the food from Neitiznot at extortionate rates!"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Only because Jatizso hogs all the wealth!"
+    },
+    {
+      "character": "Mord",
+      "line": "Ok Maria, stop that!"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Ok dear!"
+    },
+    {
+      "character": "Mord",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Where was I? Yup, that covers the layout of the islands."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Burger Mawnis Burowgar."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Well Burgher Mawnis Burowgar is a gentle soul at heart. His kinsfolk are happy and content with their lot."
+    },
+    {
+      "character": "Mord",
+      "line": "'Soft' is the word we use in Jatizso."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Well a soft Burgher is better than a stupid King."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Anyway, there was a time when Burgher Burowgar was similar to King Sorvott."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Argumentative, short tempered; I am sure you know what I mean."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "The change happened when the trolls came and razed Neitiznot to the ground."
+    },
+    {
+      "character": "Mord",
+      "line": "You mean while Neitiznot's militias were assaulting Jatizso."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Yes, well our tribes have been at war for nearly four generations now."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Anyway, the Burgher lost his wife and youngest son in the trolls' raid and has been a changed man since."
+    },
+    {
+      "character": "Mord",
+      "line": "May their journey to our ancestors' halls be swift."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Personally, I am much happier with the considerate Burgher we have now."
+    },
+    {
+      "character": "Player",
+      "line": "Can you ferry me to Neitiznot?"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Let's set sail then."
+    },
+    {
+      "character": "Player",
+      "line": "I just stopped to say hello."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Thanks, and good luck with the Burgher's tasks."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Hi, you should speak with Burgher Mawnis Burowgar in the main chambers. Do you have any questions?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about your husband."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "My husband is a typical Fremennik, being both headstrong and brave."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "We fell in love when we were young, but as there was a war between our isles, we were ordered to stop seeing each other by our parents."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "This didn't stop Mord climbing the wailing tower, on his side of the channel between our isles, to sing to me every night."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "After Mord's voice broke, his singing voice was lost, but I still listened to his terrible sonnets each and every night."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Until one night there was no singing! Then, far below me, I heard a gentle voice calling my name."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Mord had stolen his father's boat to come and fetch me from my prison"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "and from that day forth we have lived in Rellekka."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Jatizso."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "My husband does not speak of the inhabitants of the isle of Jatizso much."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "He has little positive to say about his parents, so he chooses not to speak of them in my presence. The only thing I've noticed is that everyone on that island seems very sad..."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about King Sorvott IV."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "King Sorvott IV follows in the footsteps of a line of kings who have reigned since Jatizso himself passed away. It is rumoured that the King has no heir and is seeking a bride to bear him children. Given his"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "personality I'm not surprised he hasn't found a bride yet!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Neitiznot."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "To be honest with you, I do not keep up to date with all the goings on here now that I have a home in Rellekka."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "However, Neitiznot seems a happy place! The Burgher seems a wiser rule than King Sorvott, although I believe he is worried about the trolls at the moment. They seem to be a big threat."
+    },
+    {
+      "character": "Player",
+      "line": "I have nothing to ask you right now."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Fare thee well."
+    },
+    {
+      "character": "Player",
+      "line": "Good day!"
+    },
+    {
+      "character": "Honour guard",
+      "line": "Can't talk now, I'm on duty."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Hello, outlander. Don't disturb the Burgher, he has many important duties to take care of."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I'll come back later."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Guards! Please escort this outlander to the docks. She is not welcome in my court."
+    },
+    {
+      "character": "Player",
+      "line": "I am known as by those in Rellekka."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Do you have me confused with the King of Jatizso? Guards!"
+    },
+    {
+      "character": "Player",
+      "line": "I shall return to Rellekka. You have no need to call your guards."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Oh, jester! Do not disturb the Burgher, he is busy with matters of import."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "What are you doing in Neitiznot, outlander?"
+    },
+    {
+      "character": "Player",
+      "line": "I am no outlander, but maybe you can help me."
+    },
+    {
+      "character": "Player",
+      "line": "I am looking for King Sorvott IV?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Then you should get back on a ship and sail to Jatizso then, fool. You will need to ask Maria to ferry you back to Rellekka first."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, Thakkrad."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Please jester, we don't have time for entertainment right now."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Guards, what is this outlander doing in the Burgher's chambers?"
+    },
+    {
+      "character": "Honourguard",
+      "line": "Halt outlander!"
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Well you are on the wrong island. You should return to Rellekka and ask Mord to take you to Jatizso."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. I'll be on my way."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Not very talkative are you?"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Nope."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be off then."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Yup."
+    },
+    {
+      "character": "Player",
+      "line": "The blue fish leap northwards at dawn.."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Oranges are not the only fruit."
+    },
+    {
+      "character": "Player",
+      "line": "The cabbages bloom in the spring."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "My cows produce milk in the evening."
+    },
+    {
+      "character": "Player",
+      "line": "I bought an aardvark from Ardougne market."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Yellow balloons are heavier in boxes."
+    },
+    {
+      "character": "Player",
+      "line": "...err...sprockets wangle burps in the forked flan."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You have no idea what you are talking about do you?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not really."
+    },
+    {
+      "character": "Player",
+      "line": "It rains frogs during the Winter in Neitiznot."
+    },
+    {
+      "character": "Player",
+      "line": "Free stuff please."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Ah, Operative Budgie. Welcome to the island."
+    },
+    {
+      "character": "Player",
+      "line": "Budgie? That's not my name, you can call me-"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Shh!"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "No names! Names are unnecessary. Loose lives cost tongues."
+    },
+    {
+      "character": "Player",
+      "line": "Shouldn't that be...never mind. So Mr Hemli-"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Shhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, no names. I forgot."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Call me Operative Nighthawk."
+    },
+    {
+      "character": "Player",
+      "line": "How come you get the cool name, and I get called Budgie? Can't I be called Operative Panther? Yeah I like that, panthers are cool. Rarrrr!"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "This is not a democracy, Operative! Panther already exists and he's working on a mission in Al Kharid. It's my way or the highway."
+    },
+    {
+      "character": "Player",
+      "line": "Fine, whatever, I don't care anyway."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "To business. Here are the details of your operation. You will infiltrate Burgher Burowgar's hall, deep undercover as a travelling entertainer. Burgher Burowgar and his men are known to relax in the"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "presence of a jester - and a few barrels of beer. To get the information required from the court of Burgher Burowgar you must entertain him."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "While you are obeying the Burgher's instructions you should listen in on the conversations of his council and make note of what they discuss."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "When you return I shall ask you a few questions about what you have learned."
+    },
+    {
+      "character": "Player",
+      "line": "Very well."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You must wear all four pieces of the jester costume without anything in your hands, as the Burgher's guards will search you thoroughly."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Are you ready to begin?"
+    },
+    {
+      "character": "Player",
+      "line": "I am ready."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Not dressed like that you're not! You'd better get the rest of your kit, or empty your hands if you have anything in them."
+    },
+    {
+      "character": "Player",
+      "line": "I just need to visit the bank."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Hurry back; we must know what Neitiznot's ruler is planning."
+    },
+    {
+      "character": "Player",
+      "line": "I shall return soon."
+    },
+    {
+      "character": "Player",
+      "line": "Colourless green ideas sleep furiously."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Have you infiltrated the Burgher's leisure quarters?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll do that now."
+    },
+    {
+      "character": "Player",
+      "line": "Err, hello. I'm an unemployed jester looking for work."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Ah! A fool. Excellent. The Burgher enjoys a watching a fool. Are you a fool? Ha Ha!"
+    },
+    {
+      "character": "Player",
+      "line": "That was very clever what you did there - using the double meaning for humour. I've never heard that before. Genius."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "So, are you a fool? HA HA HA!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I am a fool. Are you happy now?"
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "HA HA HA!"
+    },
+    {
+      "character": "Player",
+      "line": "*sigh* Simple things entertain simple minds."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Pardon?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing. Are you going to let me perform for the Burgher?"
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Mmm? Oh yes of course. You'd better introduce yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Errr, hello. I'm an unemployed jester looking for work."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah! A fool. Excellent. The last entertainer I had was not up to standard."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm as entertaining as a juggler with a bag of ferrets down his trousers."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "HA HA HA! Now that's funny."
+    },
+    {
+      "character": "Player",
+      "line": "I like an easy, I mean appreciative, audience."
+    },
+    {
+      "character": "Player",
+      "line": "Shall I start?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Mm? Oh yes of course...bag of ferrets eh? Haha!"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, new Jester! This had better be good."
+    },
+    {
+      "character": "Player",
+      "line": "I hope I can amuse and delight as much as your last jester."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "If you can amuse or delight me at all, you'll be doing much better than the last one."
+    },
+    {
+      "character": "Guard",
+      "line": "Actually his juggling was quite funny. Shame about the accident though."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Bah, if he'd been a decent juggler, he could have juggled the battleaxe, flaming torches, and greased pigs we threw at him."
+    },
+    {
+      "character": "Player",
+      "line": "I see, a tough crowd then. I'd better get this right!"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Aha! An encore?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Every good performance deserves a reprise."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, thank you, that was much better than the last jester."
+    },
+    {
+      "character": "Player",
+      "line": "The fool is back."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Ha, more fool you! Ha Ha Ha!"
+    },
+    {
+      "character": "Player",
+      "line": "Your wit has no end. Or beginning or middle. I'd better talk to the Burgher and see if he wants to be entertained."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Have you obtained the information we require?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I have."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Now I will ask you some questions, but be warned I have other sources of information that will corroborate your answers."
+    },
+    {
+      "character": "Player",
+      "line": "I am ready to answer your questions, Operative Nighthawk."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "How soon does Thakkrad think Neitiznot's troops can be ready?"
+    },
+    {
+      "character": "Player",
+      "line": "They will be ready in two days."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "How many militia have been trained?"
+    },
+    {
+      "character": "Player",
+      "line": "Seventeen militia have been trained."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "How many bridges does Thakkrad need repairing?"
+    },
+    {
+      "character": "Player",
+      "line": "There are two bridges to repair."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Hmmm. I believe you're telling me the truth."
+    },
+    {
+      "character": "Player",
+      "line": "I would not lie to you."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Well done! I shall inform the King of your good work. I have been authorised to give you this..."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Thanks to you, we know a little more about Neitiznot's plans."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "While you were deep undercover, I received instructions from 'Big Daddy'."
+    },
+    {
+      "character": "Player",
+      "line": "'Big Daddy'? Do you mean the K-"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Shhhh! Yes, I mean the head operative back at home-base. He has given me permission to follow up any leads based on your intelligence."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "It would be useful to know exactly when the Neitiznot engineers intend to repair the bridges. I'd do it myself but my injury stops me."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Curse this arm and my reckless bravery in the pursuit of intelligence!"
+    },
+    {
+      "character": "Player",
+      "line": "I heard you had an accident whilst juggling?"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "*ahem* Misinformation my. Misinformation and misdirection."
+    },
+    {
+      "character": "Player",
+      "line": "Is that so?"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Anyway, enough chit-chat."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You should gain the trust of the Burgher."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You must not mention our arrangement."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Indeed, if you are offered tasks by Neitiznot's folk or Burgher, you should go along with them to avoid arousing suspicion."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Once you know that the bridges have been repaired then return to me."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Do not think you can lie to me. Come back when you are more inclined to give me the information I require."
+    },
+    {
+      "character": "Player",
+      "line": "I need to make a fool of myself again."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You'd better go back to the Burgher and get entertaining."
+    },
+    {
+      "character": "Player",
+      "line": "I shall, Mr Nighthawk."
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing again?"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Operative 'Big Daddy' requests that you gain the trust of Mawnis Burowgar, and determine whether they intend to repair the bridges that link their island to home-base. Mission understood?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I think so."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Get a move on then."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Oh, and stay away from me unless you need to contact me. It will begin to look suspicious."
+    },
+    {
+      "character": "Player",
+      "line": "Right. Yes. You blend right in otherwise."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "The Burgher does not require entertainment at the moment, jester."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Ho, outlander! Please introduce yourself to the Burgher."
+    },
+    {
+      "character": "Fridleif Shieldson/Thakkrad Sigmundson",
+      "line": "Ah! Are you the outlander called ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I am. What can I do for you?"
+    },
+    {
+      "character": "Fridleif Shieldson/Thakkrad Sigmundson",
+      "line": "The Burgher would like to talk to you urgently. Please talk to him right away."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Welcome back, how was your time on Jatizso?"
+    },
+    {
+      "character": "Player",
+      "line": "Very rewarding, thank you Maria."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "I have been asked to ferry you to Neitiznot, as Burgher Mawnis Burowgar would like to make you an offer."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Do you have any questions?"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Welcome to Neitiznot, ; Mawnis Burowgar lives in the largest hut in the township."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "He is expecting you, so you should not keep him waiting for too long."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you for ferrying me here Maria. See you soon."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "If you have any questions I would be happy to answer them."
+    },
+    {
+      "character": "Skuli Myrka/Raum Urda-Stein/Hring Hring",
+      "line": "Good luck in Neitiznot."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Go away! I'm busy right now with important matters of state."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah, jester. I am not currently in need of jest."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Right now I need a Champion, not a jester."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes."
+    },
+    {
+      "character": "Player",
+      "line": "The Burgher is both wise and perceptive."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ha! Fortunately for you he also has a sense of humour."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Hmmmm. Guard! Who is this outlander who has been brought before me?"
+    },
+    {
+      "character": "Fridleif",
+      "line": "Sire, this is the one who has been honoured with a Fremennik name. A rare honour indeed, for an outlander."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "You jest! doesn't look that impressive to me."
+    },
+    {
+      "character": "Player",
+      "line": "Ahem. I am indeed known as by those in Rellekka."
+    },
+    {
+      "character": "Player",
+      "line": "If I am the one you seek, then how may I assist you?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, I have sought an audience with you for several days now."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I have need for a courageous and valiant individual."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "One who will not flee at the sight of jest a few trolls."
+    },
+    {
+      "character": "Player",
+      "line": "Ha! It is trolls that fear me! I am Fremennik!"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ha! Well said! However, this is no jesting matter. Although a Fremennik name goes a great way towards gaining my trust, I must ask that you prove your loyalty to me and my kinsfolk."
+    },
+    {
+      "character": "Fridleif",
+      "line": "Sire, surely that isn't necessary! Anyone who has done the Fremennik Trials can be trusted."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Trust me Fridleif, I think in this case it is necessary. Anyway, there are many tasks that need to be done. Some of them are menial, and needs to show me that can handle these as well as the ones that"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "simply require bravery. We on Neitiznot are warriors, but we are not just warriors."
+    },
+    {
+      "character": "Fridleif",
+      "line": "I apologise for speaking out of turn. The Burgher is wise as always."
+    },
+    {
+      "character": "Player",
+      "line": "I would be honoured to assist you and your tribe, Burgher Burowgar. Indeed I expected no less. This sort of thing seems to happen to me a lot."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Good."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad, which tasks remain?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "There are a few building projects that could do with a strong extra hand."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well then, are you willing to assist my engineer?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, Mawnis Burowgar."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "The bridges to the troll islands need repairing if we are to send a party over. First of all, we will need eight lengths of rope; maybe could assist me with this."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "It's quite simple really. Gather some yak hair and take it to the spinning wheel in the south-east of the village."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "There you will be able to spin the yak hair you have gathered into strong lengths of rope."
+    },
+    {
+      "character": "Player",
+      "line": "Is any rope fine for this?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Of course not. Neitiznot rope is the best. Real men use yak rope. You need to make the rope yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm, the rope I've seen round here looks exactly the same as the rope I'm used to. It's exactly the same isn't it?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well yes, of course it is. We supply rope to all of the rope traders in Gielinor. Its an excellent business."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Anyway, once you have obtained the rope we shall speak more about the quest I have for you. So get a move on!"
+    },
+    {
+      "character": "Player",
+      "line": "Right! I'll just go to the bank and get some rope."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Bank? Why do you need to go to a bank? Neitiznot is the home of quality rope. The hairs of the local yak have the perfect combination of strength and hardiness required from modern rope. Yak rope is stronger and"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "better than any other rope."
+    },
+    {
+      "character": "Player",
+      "line": "I thought rope was made from wool. Not yak hair."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Wool? Wool? What a load of old rope. Wool would make awful rope - its far too soft and it would soak up the water too easily."
+    },
+    {
+      "character": "Player",
+      "line": "So how come Ned from Draynor makes rope out of wool?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ned? I don't know anything about Ned. I do know we make regular trades with someone in that area. We send them rope, and we get wool in return."
+    },
+    {
+      "character": "Player",
+      "line": "So Ned doesn't make the rope? What a fraud! He had me fooled for so long."
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, so that means that all rope is made by Neitiznot from yak hair."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Indeed."
+    },
+    {
+      "character": "Player",
+      "line": "So if I happen to have some rope in the bank then that would also be made from high quality Neitiznot yak hair."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, yes."
+    },
+    {
+      "character": "Player",
+      "line": "So I could just give you the rope I already have, rather than make more rope?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I suppose so. You should really try to make some rope yourself though. Fighting the dual challenges of the yak's hooves and its smell is part of becoming a man over here."
+    },
+    {
+      "character": "Player",
+      "line": "I've had enough of strange 'coming of age' rituals for the time being. I'm going to go to the bank and get the rope you need."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Suit yourself."
+    },
+    {
+      "character": "Player",
+      "line": "As it happens, I'm carrying a note for enough rope on me right now."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "A note? How do you fix a bridge with a note? Go bring me some real rope."
+    },
+    {
+      "character": "Player",
+      "line": "As it happens, I'm carrying enough rope on me right now."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "That's a coincidence."
+    },
+    {
+      "character": "Player",
+      "line": "It is."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Do you normally carry all that rope around with you?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, no. I had a feeling I'd need it."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Are you some kind of seer?"
+    },
+    {
+      "character": "Player",
+      "line": "Not exactly."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Hey! You're not some sort of witch are you? Maybe I have trusted you too much."
+    },
+    {
+      "character": "Player",
+      "line": "No, no, no! Its just a coincidence. Err, I spend my time trading rope. Yes that's right. I'm a rope trader and I just happen to have my wares on me."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "You have come to the home of all rope to sell us...rope. What a load of old rope (ahem)."
+    },
+    {
+      "character": "Player",
+      "line": "You asked for it! Do you want this rope or not?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Alright then. Let's have a look at his rope then."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You don't have space for the Burgher's reward."
+    },
+    {
+      "character": "Kjedelig Uppsen/Trogen Konungarde",
+      "line": "Hello, ! If you need help with your tasks then you are welcome to talk to the Burgher or his advisors."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Hello again. Do you have the eight pieces of rope that Thakkrad asked you for?th"
+    },
+    {
+      "character": "Player",
+      "line": "No, I still don't have them."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "You can collect pieces of hair from the yaks that roam our isle, then spin it into rope."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, I shall return soon."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "There is a spinning wheel in the south-east of the village."
+    },
+    {
+      "character": "Fridleif Shieldson/Thakkrad Sigmundson",
+      "line": "Have you collected all the rope we need yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Operative Nigh-"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Shhh, and stay away from me unless you need to contact me. It will begin to look suspicious."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Hello again. Do you have the eight pieces of rope that Thakkrad asked you for?"
+    },
+    {
+      "character": "Player",
+      "line": "I have them right here!"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Ah, excellent quality rope. Good work,."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad! Please reward for efforts."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Good work, we will need that rope later. Put it somewhere safe for the time being would you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll do that shortly."
+    },
+    {
+      "character": "Player",
+      "line": "So, I've done your menial task; what is this secret quest? That's what really interests me."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "My, you are both impertinent and impatient. I have two more tasks for you before I am willing to tell you the full details."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, what must I do next?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "I require eight arctic pine logs, which have been split in two. Arctic pines grow around the village and there is a 'Woodcutting stump' in the centre of the village you can split the logs on."
+    },
+    {
+      "character": "Player",
+      "line": "I see. That shouldn't be a problem."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Once you have eight pieces of rope and eight split logs I will explain how you can use them to repair the bridges that the trolls attacked a few days ago."
+    },
+    {
+      "character": "Player",
+      "line": "I would be happy to help your kinsfolk, Mawnis Burowgar."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah, a bit more respect. That's better."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I shall speak with you again once you have prepared these split logs."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Hello again; do you have the eight split logs that Thakkrad asked you to make?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Hello again, do you have the eight split logs that I asked you to make?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "You must fell eight arctic pine then split the logs in two with an axe."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you sir, I shall return soon."
+    },
+    {
+      "character": "Player",
+      "line": "I have them right here."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "My, that was fast."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "has returned with the split logs you asked for. Please reward for efforts."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Good work. Now that you have both the rope and split logs I shall explain how you go about repairing our bridges."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Once this is complete I shall explain the quest I have for you."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad, could you explain what needs doing next?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "I would like you to repair the two bridges leading to the northern isle."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "To repair each bridge you will need four pieces of rope, four split logs and a knife."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, I shall get on with that now."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "You may find a bridge to a small isle, rich in resources. You will not be able to repair it, as I still have to replace the main supports. Leave that bridge - we don't need it to make our raid."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I shall speak with you again once you have repaired the bridges."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "You should speak to Burgher Mawnis Burowgar about repairing our bridges."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Do you need any help with the bridge repairs?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I repair these bridges again?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You will the need the split arctic pine logs and the coils of rope you collected earlier. You will need one for of each per bridge. You will also require a knife."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find these bridges?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "If you leave the west gate you will find a couple of bridges that lead to a thin strip of island north of this one. Both bridges that need to be repaired lead northwards from this island; one to the west and"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "another near the centre. There is another bridge to the East, but you don't need to worry about that one."
+    },
+    {
+      "character": "Player",
+      "line": "No, thanks."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ho there! have you repaired both bridges for my engineer?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Do you need any help?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad? Can you fill in the details?"
+    },
+    {
+      "character": "Player",
+      "line": "I have carried out your orders, Sir."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Excellent. We are one step closer to putting my plan into action."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Now that the bridges are repaired I feel I can tell you of our plans."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "First, I shall have my engineer reward you for you efforts."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "has repaired both bridges. Please reward for efforts, Thakkrad."
+    },
+    {
+      "character": "Player",
+      "line": "That is most generous of you, Sir."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "We are a generous folk, over here on Neitiznot."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Good work! Now that you have repaired our bridges I can make the final preparations for our assault on the troll caves."
+    },
+    {
+      "character": "Player",
+      "line": "Troll caves!"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Long ago, the ancestors of this isle fought heroically against the troll menace upon these isles."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "But, for the last few generations, we have been preoccupied with fighting our neighbours on Jatizso."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "In our complacency, the trolls have grown in number and strength and have become increasingly brazen in their raids, attacking our kinsfolk, stealing and destroying our belongings. Now the time has come for"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "us to drive the trolls from this isle. We must defeat their leader, the foul Troll King."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Although I am confident we will be victorious, I am a cautious man."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "We have suffered for many generations and the blood of our ancestors grows weak."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "But now, in this time of prosperity, Fridleif has recruited the bravest Fremennik warriors from far and wide to win back our honour."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Now that you have proven your loyalty, I offer you the honour of leading my forces into battle."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "What say you, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I am honoured, Burowgar."
+    },
+    {
+      "character": "Player",
+      "line": "I gratefully accept your offer to lead the charge against your foes."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Excellent! Once Fridleif's militia arrive and are fully equipped we shall head north into the troll caves."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Glory to the Fremenniks."
+    },
+    {
+      "character": "Honourguard",
+      "line": "Death to the trolls."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I have one last concern. I suspect that King Sorvott may have some idea that we intend to make this raid."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid that may be true sire."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "If he and his men were willing to aid us in this task then that would not be a problem, however I suspect that Sorvott will see our actions and misinterpret them. He may well attempt to prevent us. I need to know the"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "extent of his knowledge so that I may plan., I suspect that you may be able to help us here. I find underhand methods distasteful, however I ask you to go to Jatizso and find the King's plans by whatever means"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "you are familiar with."
+    },
+    {
+      "character": "Player",
+      "line": "I can do this sire."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Do you need anything from me to help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, no. I believe I already have all the...contacts I need."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Excellent. Then make your way with haste."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "My militia are still gathering in Rellekka. Have you found out anything about Jatizso's plans yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet sir, but I shall return soon."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Have you found out about Jatizso's plans yet, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Thakkrad, i'm on my way there now."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Our militia are still preparing themselves for our raid against the trolls."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Have you found out about Jatizso's plans yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, but I am on my way there now."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Hello again, I hear you are to be appointed as the Burgher's Champion?"
+    },
+    {
+      "character": "Player",
+      "line": "He said something about leading his forces into battle, but I didn't hear the Burgher use the word 'champion'."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Well you see, Mawnis Burowgar is a superstitious man. He lost a Champion, several years back. It was really embarrassing..."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "The Champion strapped so much armour to himself that he fell straight through the jetty on arrival here and didn't even meet the Burgher."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "So you see, Mawnis won't use the term 'Champion' often, as he believes it brings bad luck."
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "Welcome back. How was your time on Neitiznot?"
+    },
+    {
+      "character": "Maria Gunnars",
+      "line": "You should speak with my husband. King Sorvott has been asking for you."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "I hope your mission was successful. Talk with the King, I'm sure he has some things he wishes to discuss with you."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Have you gathered the information about when Neitiznot's bridges will be repaired?"
+    },
+    {
+      "character": "Player",
+      "line": "I have, sir. They have been repaired."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Outrageous, how are they working so rapidly?"
+    },
+    {
+      "character": "Player",
+      "line": "The Fremennik are a very resourceful folk, your majesty."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "That may be, but we are very different from the vermin on Neitiznot."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "We must amass our troops immediately. We must be ready for Neitiznot's army to attack us."
+    },
+    {
+      "character": "Player",
+      "line": "Your majesty."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Chancellor, how are the city's coffers? We will need to pay for weapons and food for our soldiers."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Would you like the financial report now, sir?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Once we have paid for all the supplies you...err...I have ordered, your Royal Highness, then the coffers will be at their lowest ebb for some time. However, if we tighten our belts and delay your plans for extra"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "defences, then-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "What! That is not acceptable! How am I supposed to run this city when I am surrounded by incompetence!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Now, more than ever, we need to protect ourselves from the threat from Neitiznot. This is a time of national crisis. Every citizen of Jatizso must bear the burden of protecting our homes. If it means that as"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "citizens we must sacrifice some luxuries for the good of Jatizso, then it must be so. We must raise more taxes."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "But we have already collected Island Taxes this month! We'll never persuade anyone to pay it. Everyone is surviving on coppers as it is."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Yes, well, whatever. Needs must. Think up a new tax."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "A new tax!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure that's such-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Be quiet serf."
+    },
+    {
+      "character": "Player",
+      "line": "Hey you-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Yes, I was having a discussion with King Vargas the other day. He was saying some places have taxes for all kinds of things; fur taxes, blueberry taxes, tea taxes, playing card taxes. All we need to do is pick something"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "that lots of people have. How about a Window Tax? We have windows on the island."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "A Window Tax?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Yes, yes. That's an excellent idea. I now institute a new Window Tax. Every building with windows. Other countries have Window Taxes, we need them as well."
+    },
+    {
+      "character": "Player",
+      "line": "Err, what? I'm not sure I agree with-"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "How am I going to sell this one?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Well, you had better find a way, and fast! Oh, you seem like someone who gets things done. I now appoint you official tax collector of Jatizso!"
+    },
+    {
+      "character": "Player",
+      "line": "Why would I want to be a tax collector for a-"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Did you say something?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Shhh! Please whisper, ! For both our sakes just agree, otherwise he'll get into one of his moods, and who knows what he'll pronounce."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "! I command you to refill the royal coffers! Thorkel will work out the details."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "You don't have space for the King's tax bag."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "How is this island supposed to develop if we keep spending all our money on his paranoid schemes?"
+    },
+    {
+      "character": "Player",
+      "line": "Thorkel, can you tell me about this taxation?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "You need to speak with some of the citizens of Jatizso and collect their taxes."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Count the number of windows on each building and tax the people who work inside. 1000 per window."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "The only people who earn any real money on the island are shopkeepers. Soldiers clearly do not need to be taxed, as paying soldiers' wages is part of the reason for the tax in the first place."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Once you have finished collecting the taxes, come and speak to me again."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Thank you for helping our fine city."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Have you collected the Window Taxes yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, though I've just noticed that this building has more windows in it than any other building."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "And your point is?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, nothing. I'll get back to collecting taxes."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Good."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hurry, I need to see my treasury overflowing!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Go and speak with Thorkel if you need to know who to tax."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me who I should tax?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Well, for the Window Tax, only those who use a building."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Go to each of the buildings in town:"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "The armourer's hut and the weaponsmith's hut, the eating hall, and the fish shop; all these buildings need to be taxed. The royal hall doesn't need to be taxed, nor the bank or any empty buildings."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Count the number of windows the building has and then ask one of the people who works there to pay the tax."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "The tax is currently 1000gp per window."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "As you do so your tax bag will fill up slowly. When you've taxed everyone you can, come back here and talk to me or the King."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Oh, hello. Tax collector, huh? You're not going to tax me are you?"
+    },
+    {
+      "character": "Player",
+      "line": "Not right now. You haven't lived here for a while anyway, and the King seems most keen to tax shopkeepers, so I reckon you are tax exempt!"
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Phew! In that case, can I do anything for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I have a small task I must complete in order to ingratiate myself with King Sorvott."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Really?"
+    },
+    {
+      "character": "Player",
+      "line": "I jest not."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well then, you'd better get on with it."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Don't give me the tax bag until you have collected tax from everyone!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, sorry. I'll be right back"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Something odd has happenend to your tax bag. Let's try and sort it out."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Where's your tax bag?"
+    },
+    {
+      "character": "Player",
+      "line": "I've left it in the bank."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hey! Carry that tax bag around with you while collecting tax, otherwise where will you put the money?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, yes."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I'm the tax collector. Got any windows I can tax?"
+    },
+    {
+      "character": "Eric",
+      "line": "I dream of windows."
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about tax."
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "Hmm, a fascinating subject, I'm sure."
+    },
+    {
+      "character": "Player",
+      "line": "I think you owe the state some tax."
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "Is that so?"
+    },
+    {
+      "character": "Player",
+      "line": "So hand it over!"
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "I will do, I will do. Oh, I have a question. Do you use a bank?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course!"
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "Often?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, every day."
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "Wouldn't it be awkward if banks started charging for their services?"
+    },
+    {
+      "character": "Player",
+      "line": "Err..."
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "And what would happen if those charges were backdated to all previous bank visits?"
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "How much would that be I wonder? Say, if we charged 10gp per transaction. Let me work it out and you can take it away from the tax. 10, 20, 30..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I get the picture. I'm happy to announce you are exempt from taxation this year."
+    },
+    {
+      "character": "Magnus Gram",
+      "line": "Really? That's fortunate - I won't need to implement bank charges then."
+    },
+    {
+      "character": "Player",
+      "line": "Ho hum, I suppose bankers know how to save money..."
+    },
+    {
+      "character": "Player",
+      "line": "I have been appointed by the King to collect taxes."
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "That's nice for you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid the King has instituted a new tax on windows. It is 1000gp per window. Fortunately you only need to pay once per building."
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "Oh, another one of the King's paranoid schemes. He's like a parasite sucking the life out of the town. Alright, how much does he want?"
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "What? Can't you count? I'm not paying my tax to someone who can't count."
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "That's not right. I'm not paying you that much!"
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "*sigh* It seems a lot of money for some windows."
+    },
+    {
+      "character": "Player",
+      "line": "This tax does seem a little harsh on you."
+    },
+    {
+      "character": "Player",
+      "line": "But rules are rules. Pay up!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll think about it a bit."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back later."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "More taxes? How depressing."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid the King has instituted a new Window Tax to pay for the defence of the realm. It is 1000gp per window. The tax is per building so only one of you have to pay."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "Why should I pay Window Tax when I don't want any windows. I'd be more than happy staring at the blank walls. How much money are we supposed to pay?"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "What? Can't you count? I'm not paying my tax to someone who can't count."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "That's not right. I'm not paying you that much!"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "*sigh* It seems a lot of money for some windows."
+    },
+    {
+      "character": "Player",
+      "line": "It's tax time I'm afraid."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "But we only paid our Island Tax last week!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid the King has instituted a new Window Tax. 1000gp per window."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "What?"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "*sigh* How much do you want?"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "What? Can't you count? I'm not paying my tax to someone who can't count."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "That's not right. I'm not paying you that much!"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "*sigh* It seems a lot of money for some windows."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I could pay the tax for you."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Thank you, thank you! I owe you one."
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "But we only paid our Island Tax last week!"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "What?"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "*sigh* How much do you want?"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "What? Can't you count? I'm not paying my tax to someone who can't count."
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "That's not right. I'm not paying you that much!"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "*sigh* It seems a lot of money for some windows."
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "I thought that was all done for the month."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid the King has instituted a new Window Tax to pay for the defence of the realm. It is 1000gp per window. The tax is paid on a building-by-building basis. Only one of you needs to pay..."
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "You expect me to pay a tax for THESE windows. They're not windows, they are holes in the wall! Bah! How much do you want?"
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "What? Can't you count? I'm not paying my tax to someone who can't count."
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "That's not right. I'm not paying you that much!"
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "*sigh* It seems a lot of money for some windows."
+    },
+    {
+      "character": "Merchant",
+      "line": "You do not need to collect taxes from me this time. Begone with you!"
+    },
+    {
+      "character": "Player",
+      "line": "I've collected the Window Taxes as instructed."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Excellent. Chancellor, we must have enough money to pay for the new equipment."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Err, not quite."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Bah! Again, brave Jatizso citizens, sacrifices must be made."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Yes sire."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hmmm. Any ideas anyone?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "How about beer?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Beer? No that's a silly thing to tax. No, that really would cause a riot. Hmmm, beer, beers, beards. Beards!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Beards. Only the King and his advisors should be allowed un-taxed beards."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I now proclaim there will be a new tax on beards."
+    },
+    {
+      "character": "Player",
+      "line": "So NOW you want me to collect money from everyone that has a beard. I'm not sure whether to laugh or cry."
+    },
+    {
+      "character": "Player",
+      "line": "What about moustaches?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Oh yes, tax those too."
+    },
+    {
+      "character": "Player",
+      "line": "Grrr. Of course you do, sire."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Hurry, I need to see my treasury overflowing! You have a Beard Tax to collect."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Well for the Beard Tax, talk to anyone who works in the town; shopkeepers and the like. Don't ask anyone else, as they won't have the money to be taxed! Also don't bother with the bank manager - he has plenty of"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "money, but seems most adept at keeping it."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "So, talk to each of the following and assess whether they are taxable or not."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Raum Urda-Stein trades armour and Hring Hring trades ores. Skuli Myrka trades in weapons, Vanligga Gastfrihet looks after the food hall, Flosi Dalksson sells raw fish and Keepa Kettilon supposedly cooks - though"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "I haven't seen him actually cook anything for months."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Once you've talked to everyone, come back here and we will check the tax bag again. Hopefully it will be enough to satisfy the King this time."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I'm the tax collector. I'm taxing beards and I can't help noticing you have a beard."
+    },
+    {
+      "character": "Eric",
+      "line": "What? I'm a beggar. Do I look as if I have any money? Look, take everything I own why don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, thanks. Maybe I don't need to tax you."
+    },
+    {
+      "character": "Eric",
+      "line": "No, take it!"
+    },
+    {
+      "character": "Eric",
+      "line": "I don't care any more."
+    },
+    {
+      "character": "Eric",
+      "line": "You ask me for tax but your bag is so full of stuff you can't even hold the pittance that is the whole of my belongings! Go away and leave me to beg in peace."
+    },
+    {
+      "character": "Player",
+      "line": "I return once more..."
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "I would say I'm happy to see you, but that would be a lie."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I can't say I blame you, since I need to tax you again."
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "Gah! What weak excuse for sucking his populace dry has the King come up with this time?"
+    },
+    {
+      "character": "Player",
+      "line": "This time the King has decided to tax facial hair!"
+    },
+    {
+      "character": "Player",
+      "line": "According to my books, you owe 1000gp!"
+    },
+    {
+      "character": "Raum Urda-Stein",
+      "line": "By all that is holy, this is a travesty!"
+    },
+    {
+      "character": "Player",
+      "line": "You may have a point there."
+    },
+    {
+      "character": "Player",
+      "line": "But rules are rules. Pay up! You owe the state 1000."
+    },
+    {
+      "character": "Player",
+      "line": "I'm back for more tax."
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "I should have guessed."
+    },
+    {
+      "character": "Flosi Dalksson",
+      "line": "Please no. I have a wife and seven kids to support."
+    },
+    {
+      "character": "Hring Hring",
+      "line": "No more! Haven't we all suffered enough?"
+    },
+    {
+      "character": "Player",
+      "line": "I sympathise; it's been a very taxing day for me as well."
+    },
+    {
+      "character": "Hring Hring",
+      "line": "Groan! Your lame attempts at humour do not save me money. Come on, break it to me gently, what is it this time?"
+    },
+    {
+      "character": "Hring Hring",
+      "line": "But I don't have a beard!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes you do!"
+    },
+    {
+      "character": "Hring Hring",
+      "line": "No, this hair is just an extension of my head hair, which is currently not being taxed."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah right, no more excuses!"
+    },
+    {
+      "character": "Hring Hring",
+      "line": "Awww come on, be a gent."
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "No more! This is an outrage!"
+    },
+    {
+      "character": "Player",
+      "line": "It is a bit, isn't it. Still, he's your King not mine!"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "Oh, thanks a lot 'friend'. What is it this time?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't ask me why, but this time it's beards!"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "WHAT? This is the last straw. My father wore a beard, my father's father wore a beard; many generations of Fremennik have worn beards with pride, without having to worry whether his pride and joy"
+    },
+    {
+      "character": "Skuli Myrka",
+      "line": "would cost him money. A beard is the core of a Fremennik's identity, it is the gateway to his soul, it is..."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I get the idea."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "I cannot take any more of this! What ridiculous thing is worthy of taxation this time?"
+    },
+    {
+      "character": "Player",
+      "line": "Errm, it's beards this time!"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "But I don't have a beard, I have a finely waxed moustache. I'm definitely not beardy at all."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid all facial hair counts for tax purposes."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "Surely, facial hair should be taxed on percentage of the face covered. In which case I should owe no more than 20% of the tax that wild-bearded Fremennik men pay."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, facial hair is facial hair and is liable for taxation. No arguments."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "That's not fair!"
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "My faith in humanity has been sapped again. Thanks for that. Here take the money and get out of my sight."
+    },
+    {
+      "character": "Player",
+      "line": "I have taken money from those with significant facial hair."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Good, good. Chancellor, how do our finances look now?"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Errr."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Thank the gods, we finally have enough."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Ah, much better. I always find the sound of gold coins being poured into the treasury relaxing."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I don't think your citizens would have coped with another round of tax."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I have another task for you. Your espionage mission was so successful that I need you to do the same thing again. Except this time I want you to find out more about the bridge repairs they have been doing."
+    },
+    {
+      "character": "Player",
+      "line": "Bridge repairing?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Indeed! I have heard rumours that they have been getting some help from somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Really? I wonder who?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You'd better find out and quickly. Get on it!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Go to Neitiznot with all haste! The Spymaster will have the details, as last time."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "I'm afraid i'm not allowed to talk to you any more. It would be more than my life is worth!"
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. I'd better go..."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Hello tax collector."
+    },
+    {
+      "character": "Player",
+      "line": "I had a job to do. That's the way it goes sometimes."
+    },
+    {
+      "character": "Player",
+      "line": "But I do feel a little guilty about the tax actually."
+    },
+    {
+      "character": "Player",
+      "line": "Or at least I would do if I had the 5000 gp on me..."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Thanks! I didn't expect that. Maybe you do have a heart."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Can you keep a secret?"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Well I'm off then."
+    },
+    {
+      "character": "Player",
+      "line": "Fine."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Whatever."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Vanligga!"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Oh, hello. Always good to see a friend."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Hmmm, I suppose I can trust you, since you have done me a favour in the past. Can you keep a secret?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Well as you probably already know all yak meat and yak products are banned on this island - orders of the King..."
+    },
+    {
+      "character": "Player",
+      "line": "That King has some very strange attitudes."
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Well, I have a contact on the other island. Are you interested in obtaining some produce?"
+    },
+    {
+      "character": "Vanligga Gastfrihet",
+      "line": "Well, any time you need black market yak produce, you know where to come."
+    },
+    {
+      "character": "Keepa Kettilon",
+      "line": "You should speak with the ruler of this isle, King Gjuki Sorvott IV."
+    },
+    {
+      "character": "Skuli Myrka/Flosi Dalksson/Raum Urda-Stein/Hring Hring",
+      "line": "You should speak with the ruler of this isle, King Gjuki Sorvott IV."
+    },
+    {
+      "character": "Skuli Myrka/Flosi Dalksson/Raum Urda-Stein/Hring Hring",
+      "line": "Is there anything else I can help you with?"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "I am sure you know what I require of you by now."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You must entertain the ruler of Neitiznot while listening to the conversations of his council."
+    },
+    {
+      "character": "Player",
+      "line": "That should not be a problem."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You must wear all four pieces of the jester costume and nothing in your hands, as the Burgher's guards will search you thoroughly."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Don't forget to put your costume on, then visit the Burgher and get jestering."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've got the ridiculous costume on again."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Excellent. Time to visit the Burgher and get jestering."
+    },
+    {
+      "character": "Trogen Konungarde/Kjedelig Uppsen",
+      "line": "Ah, hello jester. Hey! I've just noticed, you look a little similar to our new champion!"
+    },
+    {
+      "character": "Player",
+      "line": "You have a jester and a fool as a Champion?"
+    },
+    {
+      "character": "Trogen Konungarde/Kjedelig Uppsen",
+      "line": "No, of course not, that would be silly. You just...look similar."
+    },
+    {
+      "character": "Player",
+      "line": "We must both be outlanders. We all look the same you know."
+    },
+    {
+      "character": "Trogen Konungarde/Kjedelig Uppsen",
+      "line": "Yes, you're right of course. Anyway, I think the Burgher is in the mood for some more entertainment, so carry on through."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Hello jester. Have a chat with the Burgher, I think he's in the mood for jest."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "I think the Burgher could do with a laugh right now. Why don't you ask him?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Have you finished your spying task yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll finish it off now."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah, good timing. I was just thinking I needed a bit of light entertainment."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah, back again. I hope you've got a new act."
+    },
+    {
+      "character": "Player",
+      "line": "Err, of course sire. I assure you this act will be somewhat different."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Get on with it then."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "When you said you had a new act you were lying weren't you?"
+    },
+    {
+      "character": "Player",
+      "line": "I can recite the epic tale of Beowulf if you prefer. It'll only take four or five hours."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "No, no, no, your old act is fine. I've had more than enough Beowulf. My tutor made me study that tale again and again."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "**Yawwwn**."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Get on with it! The more slapstick, the better."
+    },
+    {
+      "character": "Player",
+      "line": "I'm happy to humiliate myself for your entertainment, sire."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Are you ready to make your report, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I am."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Now I will ask you some questions, but be warned I have other sources of information that can corroborate your answers."
+    },
+    {
+      "character": "Player",
+      "line": "I am ready to answer your questions."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Where are Neitiznot's militia?"
+    },
+    {
+      "character": "Player",
+      "line": "They are in a secluded bay, near Etceteria."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "What will Thakkrad deliver to Neitiznot's militia tonight?"
+    },
+    {
+      "character": "Player",
+      "line": "They will be given some potions."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Who has been helping Burgher Mawnis Burowgar?"
+    },
+    {
+      "character": "Player",
+      "line": "I have been helping Neitiznot."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Hmmm, that is very interesting. I believe you're telling me the truth."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Clearly not. Well, here is your fee."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You don't have space for the King's reward."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Right, you had better go and talk to the King. I expect he'll want to discuss your intelligence."
+    },
+    {
+      "character": "Player",
+      "line": "No, I need to make a fool of myself again."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Please pay more attention to what the Burgher's advisors say this time. Are you ready?"
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Indeed, you look very dapper in your costume."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. I'm beginning to think that this spy malarkey is not as cool as I thought."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "You're ready to entertain the Burgher. Good luck with you mission, Operative Budgie. Stay alert."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "When you are done, come back and talk to me to give your report. I will make sure the King is informed."
+    },
+    {
+      "character": "Slug Hemligssen",
+      "line": "Shhh. Go away. I'm not allowed to talk to you."
+    },
+    {
+      "character": "Player",
+      "line": "Fine, whatever..."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I have just one final task before you leave."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Guards, secure the doors!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "So you admit that it was you who repaired Neitiznot's bridges?"
+    },
+    {
+      "character": "Player",
+      "line": "I was following your orders, Sir."
+    },
+    {
+      "character": "Player",
+      "line": "I was given strict instructions to go along with Mawnis Burowgar's orders while investigating their island."
+    },
+    {
+      "character": "Player",
+      "line": "As I told your fool of a Spymaster, Neitiznot's militia are not going to attack you."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Then why does Burgher Mawnis Burowgar amass an army?"
+    },
+    {
+      "character": "Player",
+      "line": "It is no army Neitiznot has trained, but a raiding party, sire."
+    },
+    {
+      "character": "Player",
+      "line": "Mawnis Burowgar's goal is to see the leader of the trolls beheaded."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Do you take me for a fool ? It's all lies!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You must have been brainwashed by my cousin! He is EVIL and wants to destroy me! Jah! Tiz so! Jah! Tiz so!"
+    },
+    {
+      "character": "Player",
+      "line": "Right! That's it! I've had enough!"
+    },
+    {
+      "character": "Player",
+      "line": "No more lying! No more biting my tongue! Do I take you for a fool? Yes I do!"
+    },
+    {
+      "character": "Player",
+      "line": "You are so paranoid about Neitiznot that you are running this island into the ground!"
+    },
+    {
+      "character": "Player",
+      "line": "Neitiznot is not going to attack Jatizso. I'll say it again to try and force it into your thick skull! Neitiznot is not going to attack Jatizso. They don't care about Jatizso. They care about the trolls and Troll King who"
+    },
+    {
+      "character": "Player",
+      "line": "are the real threats to the islands. You are so obsessed with your cousin, however, that you stick your head"
+    },
+    {
+      "character": "Player",
+      "line": "in the sand whenever it comes to the trolls. But I'm not sure it matters, since I think there is a good chance that you will destroy this village long before the trolls get here!"
+    },
+    {
+      "character": "Player",
+      "line": "You do not have to dress in a jester's costume to act the fool, your royal crown is more than enough!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "No-one has ever talked to me like that before."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe if they had, you wouldn't be in this mess."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "I should have you beheaded."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to see you try."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "So it seems that my cousin's plan is to demonstrate his superiority by killing the Troll King. I cannot let that happen! I will not let him steal the glory."
+    },
+    {
+      "character": "Player",
+      "line": "You haven't listened to a single word I've been saying, have you?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "We amass our forces now! There is no time to lose."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "At dawn my men will march upon my ancestor's nemesis, the Troll King."
+    },
+    {
+      "character": "Player",
+      "line": "Do you even know where to find the Troll King? Your warriors are underfed and tired; your weapons inadequate. You don't stand a chance. Join with your brethren and you may share the glory and perhaps find"
+    },
+    {
+      "character": "Player",
+      "line": "a way to make peace between your lands. I'm sure the Burgher would be glad of your aid."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Bah! Don't be ridiculous! He would just stab me in the back and claim the glory himself. My brave warriors will find the Troll King and slay him first. How could they not, they are Jatizso warriors, not Neitiznot scum."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You will deliver my decree to Burgher Mawnis Burowgar."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You shall inform him that my troops attack the western troll caves at dawn and that his interference shall be considered an act of WAR! Long live Jatizso! Long live ME!"
+    },
+    {
+      "character": "Player",
+      "line": "Fine. I give up. I will do this final task for you. After that you're on your own - may the gods be with your troops - they're going to need it."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Fine. Take the decree and go."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Have you delivered the decree yet?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Well, get a move-on."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I've lost the decree."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "You've lost it! Bah! It's a good thing I'm used to working with incompetents!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I don't have the space to carry it."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "More incompetence! Well, come back when you have."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Well? Get moving!"
+    },
+    {
+      "character": "Trogen Konungarde/Kjedelig Uppsen",
+      "line": "Ah, the Burgher is keen to see you. Walk on through."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You should speak to Fridleif or the Burgher about crafting yourself the traditional armour of a Fremennik warrior."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "My militia are en route from Rellekka. Have you found out anything about Jatizso's plans yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I was instructed to give you this, err, now where did I put the King's decree?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back shortly."
+    },
+    {
+      "character": "Player",
+      "line": "I have, sir."
+    },
+    {
+      "character": "Player",
+      "line": "I was instructed to give you this decree by King Sorvott."
+    },
+    {
+      "character": "Player",
+      "line": "King Sorvott has spies that have learnt of the troops you have trained."
+    },
+    {
+      "character": "Player",
+      "line": "Until recently, they believed that you planned to assault their town."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "The paranoid fool."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "It would bring great shame upon my family to break the truce that was signed between King Sorvott III and my father."
+    },
+    {
+      "character": "Player",
+      "line": "Now that Jatizso's spies have learnt of your plans to attack the troll caves, King Sorvott is raising his guards to assault them himself."
+    },
+    {
+      "character": "Player",
+      "line": "I believe he plans to depart before you can be ready."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, if he thinks the folk of Neitiznot can be intimidated by his threats, he best be ready to accept defeat."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Blasted spies, how can King Sorvott call himself a Fremennik when he resorts to such dishonourable tactics?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "We have no time to lose. Fridleif, please guide through the traditions laid down by our ancestors."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Once you have completed these rites I shall appoint you as head of my raiding party."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Indeed, it is written in the sagas of Neitiznot that the Champion of the isle must equip himself with the tools of a Fremennik warrior."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "I offer to act as guide to during the traditional rites."
+    },
+    {
+      "character": "Player",
+      "line": "Very well. What do these rites entail?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Firstly, you must equip yourself with the traditional armour of Neitiznot."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You will need to cull several yaks in order to craft yourself a suit of yak-hide armour."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Once you have a few pieces of yak-hide, return to me and I shall cure them for you."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Then I will give you instruction on how this hide may be crafted into a thick jerkin, ideal for protecting yourself from the granite clubs that the trolls of these isles prefer to wield."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, Fridleif. I shall return with the yak-hides soon."
+    },
+    {
+      "character": "Player",
+      "line": "I have still to complete the traditional armour of a Fremennik warrior."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad? Explain to what she needs to do again."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Of course, sire."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You will need to cull several yaks in order to craft yourself a suit of yak-hide armour. There is a fenced-in field to the west of the village where yaks roam freely. Once you have a few pieces of yak-hide, return to me"
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "To make the traditional armour of a Neitiznot warrior you will need some yak-hide to make the armour."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Once you have the yak-hide, Thakkrad can cure it for you."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "To make the shield you will need some arctic pine, rope and bronze nails. Then you will need to find the 'Woodcutting stumps' to make make the shield on."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the advice, Fridlief. Where are these 'Woodcutting stumps'?"
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "You will find the Woodcutting stumps near the town's 'geyser'."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Oh, it's you. Why are you talking to me? Surely you should be hanging out with your Neitiznot friends now."
+    },
+    {
+      "character": "Player",
+      "line": "Alright I will - if that's the way you're going to be about it."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Thakkrad Sigmundson/Mawnis Burowgar",
+      "line": "You are carrying yak-hide, are you not?"
+    },
+    {
+      "character": "Player",
+      "line": "How did you know that?"
+    },
+    {
+      "character": "Thakkrad Sigmundson/Mawnis Burowgar",
+      "line": "The aroma, outlander! It's very distinctive. So, do you wish to get your hide cured?"
+    },
+    {
+      "character": "Player",
+      "line": "Cure my yak-hide, please."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "I will cure yak-hide for a fee of 5 gp per hide."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You don't have enough gold to pay me!"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "There you go."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Bye."
+    },
+    {
+      "character": "Player",
+      "line": "Can you cure any other type of leather?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Other types of leather? Why would you need any other type of leather?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll take that as a no then."
+    },
+    {
+      "character": "Player",
+      "line": "No, thanks. I'll be off then."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I see you have made some of the armour. Do you need assistance with the other part?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please, I've forgotten how to make the armour."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad, can you explain?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "and I shall cure them for you. Once cured, a normal needle and thread will be needed to craft the yak leather in the same way as any other leather."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Have you completed your suit of yak armour?"
+    },
+    {
+      "character": "Player",
+      "line": "Thakkrad has helped me to complete the traditional armour of a Fremennik warrior."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Excellent news. Now you have just one more item to craft and I can appoint you as leader of my warband; then you may lead our raid against the trolls."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "The final piece of traditional arms is a large Fremennik round shield."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "With this you will be able to deflect the large rocks that some of the trolls like to throw at you."
+    },
+    {
+      "character": "Player",
+      "line": "How may this be crafted?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "You will need two arctic pine logs, a length of rope, some bronze nails and a hammer."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "When you have all of these you should find the tree stump outside of my hut. You will be able to hammer together the shield."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I shall return with a shield soon."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Have you completed the final piece of your Fremennik garb?"
+    },
+    {
+      "character": "Player",
+      "line": "I have still to complete the traditional shield of a Fremennik warrior."
+    },
+    {
+      "character": "Player",
+      "line": "Fridleif has helped me to complete the traditional shield of the Fremennik warrior."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Excellent work,."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "There is little more for me to say. You have proven your worth to my kinsmen and I, but I must continue with the traditions so..."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Do you, solemnly swear to uphold the virtues of courage and honour?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Thakkrad whispers in your ear. Just repeat what I say."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "'I, swear to uphold the virtues of courage and honour.'"
+    },
+    {
+      "character": "Player",
+      "line": "I swear to uphold the virtues of courage and honour."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Then it is done."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I hearby appoint as Champion of Neitiznot."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Praise be; may the blood of our ancestors flow strongly in our new Champion."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Welcome to the clan of Neitiznot; you shall be welcome in this township forever more."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "You have made our township very proud today. We hope you continue to match up to our hopes in the quest which we have for you."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "As my kinsmen have mentioned, there is a foul beast dwelling in the caves on the northernmost isle."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "We ask that you lead our militia against this brute and return with the beast's head as proof of your heroism."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "My guards have secured a foothold within the easternmost caves."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "We have not seen Jatizso's militia yet, but some of my scouts have reported hearing distant fighting in the tunnels."
+    },
+    {
+      "character": "Player",
+      "line": "I shall make my way over to them now, so that we may defeat this foul Troll King."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "You should head to the eastern end of the northern isle. You don't want to run in to Jatizso's troops now."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Fridleif's scouts have reported that the militia have entered the caves to the east of the northern isle. They are waiting for you to lead them in battle."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Our militia have entered the caves to the east of the northern isle."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "You should hurry to meet them before they are discovered by the trolls. Make sure you go to the right cave entrance, otherwise you won't find them!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, the eastern caves on the northern isle. Thanks Fridleif, I'm on my way there now."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm. Left, right, then left again... I'm lost. Best I head toward the sound of the fighting."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Hold your ground men!"
+    },
+    {
+      "character": "Honour guard",
+      "line": "The Champion had better arrive soon. We can't wait much longer!"
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "will be here soon. The Burgher trusts. That's good enough for me."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Sir, Champion has arrived! I knew wouldn't let us down!"
+    },
+    {
+      "character": "Player",
+      "line": "It was a hard journey here. I trust you all made it here intact?"
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "A little bruised but nothing a true Fremennik can't handle!"
+    },
+    {
+      "character": "Player",
+      "line": "Well said!"
+    },
+    {
+      "character": "Honour guard",
+      "line": "Our supplies are starting to run a little low; we should make our charge soon."
+    },
+    {
+      "character": "Honour guard",
+      "line": "Once you have helped to slay 10 trolls then you should be able to assault the Troll King."
+    },
+    {
+      "character": "Honour guard",
+      "line": "We will hold back the troll forces while you cross the bridge to the south of the cave."
+    },
+    {
+      "character": "Player",
+      "line": "I will find the Troll King there, correct?"
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Yes madam! I have some supplies with me if you need them, but I only have a small amount left. We took a heavy toll getting here."
+    },
+    {
+      "character": "Player",
+      "line": "The fact you've saved any at all proves your bravery."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Thank you madam. We have food, Strength potions and Prayer potions to see us through this battle."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "A fine tale we will tell once you have claimed the beast's head."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Men, follow 's orders."
+    },
+    {
+      "character": "Player",
+      "line": "Ready, men?"
+    },
+    {
+      "character": "Player",
+      "line": "Warriors, advance!"
+    },
+    {
+      "character": "Player",
+      "line": "Bork! The battle rages on and we are strong, but I need supplies!"
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "What do you need, brave, madam?"
+    },
+    {
+      "character": "Player",
+      "line": "Give me food, Bork!"
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Here, take this tuna quickly, madam!"
+    },
+    {
+      "character": "Player",
+      "line": "I need Strength potions."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "Strength be with you, !"
+    },
+    {
+      "character": "Player",
+      "line": "I need Prayer potions."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "May the gods be with you !"
+    },
+    {
+      "character": "Player",
+      "line": "I don't need anything."
+    },
+    {
+      "character": "Bork Sigmundson",
+      "line": "I've run out of supplies, ! Only our bravery remains."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "My guards will beat you to your goal yet."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "The weakness of wood and leather will be bested by my steel and mithril; mark my words."
+    },
+    {
+      "character": "Player",
+      "line": "I sense defeat in your voice already, mighty King."
+    },
+    {
+      "character": "Player",
+      "line": "You and I both know that Burgher Burowgar's forces are better prepared and trained than your men."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Guards, prepare my gallows at once."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "I would be leaving now if I were you,."
+    },
+    {
+      "character": "Player",
+      "line": "I think you're right Thorkel, goodbye."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "What are you doing in my court? Guards!"
+    },
+    {
+      "character": "Player",
+      "line": "I have come to inform you that you may recall your guards; the Troll King was slain by my hand."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Preposterous. Lies, I tell you, lies!"
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Yes, your majesty, of course your majesty."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Guards."
+    },
+    {
+      "character": "Player",
+      "line": "Guards! Where are your Guards?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Are they still recovering from their defeat against the trolls?"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Outlander, leave me in peace before I am forced to bear arms against you myself."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, your Highness, I leave you to contemplate this..."
+    },
+    {
+      "character": "Player",
+      "line": "Should you have approached me honestly and truthfully, rather than with lies and secrecy,"
+    },
+    {
+      "character": "Player",
+      "line": "then it could have been you holding the head of the Troll King aloft today."
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Be gone with you. I have heard enough of your insults for one day."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Thanks, you are the first person to stand up to the King's bullying in many a year. Maybe he has learnt something today?"
+    },
+    {
+      "character": "Player",
+      "line": "We can but hope Thorkel."
+    },
+    {
+      "character": "Thorkel Silkbeard",
+      "line": "Fare thee well brave warrior, fare thee well."
+    },
+    {
+      "character": "Hrafn",
+      "line": "Purrrrz!"
+    },
+    {
+      "character": "King Sorvott IV",
+      "line": "Useless, disloyal cat."
+    },
+    {
+      "character": "Mord Gunnars",
+      "line": "Hail the conquering hero!"
+    },
+    {
+      "character": "Player",
+      "line": "Heh. Thanks - I was pretty heroic even if I say so myself."
+    },
+    {
+      "character": "Thakkrad Sigmundson/Fridleif Shieldson",
+      "line": "Congratulations on defeating the Troll King. I hope you have collected the fine rewards that the Burgher Mawnis Burowgar has for you."
+    },
+    {
+      "character": "Player",
+      "line": "I have returned victorious, Mawnis Burowgar."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Do you bring proof of your victory?"
+    },
+    {
+      "character": "Player",
+      "line": "Nope."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "You should bring proof to present to the Burgher."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Hail, Champion of Neitiznot."
+    },
+    {
+      "character": "Player",
+      "line": "I offer the beast's head as proof that I have completed your task, sir."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I thank you for bringing me this trophy, you have done much to bring honour to this isle."
+    },
+    {
+      "character": "Player",
+      "line": "My thanks for the honour you have bestowed upon me, Mawnis Burowgar."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "As a mark of my gratitude for slaying my nemesis, the foul Troll King, I offer you my helm."
+    },
+    {
+      "character": "Player",
+      "line": "I thank you for presenting me with such a finely crafted helm, sir."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "It makes me proud to know that the helm of my ancestors will be worn in battle."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I thank you on behalf of all my Kinsmen,."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Praise be to our brave Champion."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Hail, Champion."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Thakkrad, I believe you have finished repairing the remaining bridge."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "That I have sir, we should be able to mine 'runite' once again; now that I have repaired the north-eastern bridge."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah, so that is how we compete with the mineral wealth of Jatizso."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Indeed, the wealth of these isles may not be spread evenly, but we certainly make the most of what we have."
+    },
+    {
+      "character": "Player",
+      "line": "I look forward to any other tasks you may have for me in the future, Burgher Burowar."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "My next task is to make peace with the King of Jatizso."
+    },
+    {
+      "character": "Player",
+      "line": "I do not think I can help you with that sire. I don't think King Sorvott is speaking with me anymore."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Ah, I see you too have angered King Sorvott IV."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Not to worry, I have my ways of pacifying the King."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Fare thee well, my Champion."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Fare thee well."
+    },
+    {
+      "character": "Player",
+      "line": "Fair thee well, kinsmen of Neitiznot."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I am proud that the helm of my ancestors will be worn in battle. I thank you on behalf of all my kinsmen, Dokdur."
+    },
+    {
+      "character": "Player",
+      "line": "I thank you again for presenting me with such a helm."
+    },
+    {
+      "character": "Player",
+      "line": "Have you got any more of those helms?"
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "What, the priceless heirloom that I gave to you as a sign of my trust and gratitude?"
+    },
+    {
+      "character": "Player",
+      "line": "Err yes, that one. I may have mislaid it."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "It's a good job I have alert and loyal men who notice when such a precious item is left laying around, and who pick it up."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "I'm afraid I'm going to have to charge you a 50,000 coin handling cost."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, yes, I do. But I'm going to have to charge you 50,000 coins - these are precious, you know!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much money on me."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, come back when you do."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, I accept."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I can afford that, sorry."
+    },
+    {
+      "character": "Mawnis Burowgar",
+      "line": "Well, come back when you can."
+    },
+    {
+      "character": "Trogen Konungarde/Kjedelig Uppsen",
+      "line": "Ho, ! The brave warrior returns!"
+    },
+    {
+      "character": "Player",
+      "line": "It was a hard-fought battle, but we Fremennik prevailed!"
+    },
+    {
+      "character": "Trogen Konungarde/Kjedelig Uppsen",
+      "line": "I expect we'll be hearing songs about the 'Slayer of the Troll King' for many years to come."
+    },
+    {
+      "character": "Player",
+      "line": "It would be an honour to be remembered in such a way! Thanks."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Thank you for leading the Burgher's militia against the Troll King."
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Now that the trolls are leaderless I have repaired the bridge to the central isle for you as best I can."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Thakkrad. Does that mean I have access to the runite ores on that island?"
+    },
+    {
+      "character": "Thakkrad Sigmundson",
+      "line": "Yes, you should be able to mine runite there if you wish."
+    },
+    {
+      "character": "Fridleif Shieldson",
+      "line": "Congratulations, Champion Dokdur. Thank you for defeating the Troll King."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bork Sigmundson",
+      "description": "Middle-aged male, Nordic accent, gruff and practical tone, a seasoned military physician who speaks with authority and directness."
+    },
+    {
+      "name": "Brendt",
+      "description": "Adult male dwarf, Scottish-influenced accent, jovial and slightly slurred speech, a friendly trader who enjoys drink and merriment."
+    },
+    {
+      "name": "Eric",
+      "description": "Adult male, Nordic accent, raspy and desperate tone, a bedraggled vagrant who alternates between pleading and indignant outbursts."
+    },
+    {
+      "name": "Flosi Dalksson",
+      "description": "Middle-aged male, Nordic accent, weary and resigned tone, a hardworking fishmonger burdened by excessive taxation."
+    },
+    {
+      "name": "Fridleif",
+      "description": "Adult male, Nordic accent, stern and dutiful tone, a disciplined guard focused on his protective duties."
+    },
+    {
+      "name": "Fridleif Shieldson",
+      "description": "Adult male, Nordic accent, commanding and authoritative tone, a military commander with unwavering dedication to Neitiznot."
+    },
+    {
+      "name": "Fridleif Shieldson/Thakkrad Sigmundson",
+      "description": "Adult males speaking together, Nordic accents, one commanding and one youthful, guards and craftsmen of Neitiznot."
+    },
+    {
+      "name": "Grundt",
+      "description": "Adult male dwarf, Scottish-influenced accent, deep and hearty voice, a pragmatic trader with an enormous appetite."
+    },
+    {
+      "name": "Guard",
+      "description": "Adult male, Nordic accent, firm and professional tone, a dutiful Fremennik warrior maintaining order."
+    },
+    {
+      "name": "Honour guard",
+      "description": "Adult male, Nordic accent, formal and reverent tone, an elite warrior serving with pride and dignity."
+    },
+    {
+      "name": "Honourguard",
+      "description": "Adult male, Nordic accent, formal and reverent tone, an elite warrior serving with pride and dignity."
+    },
+    {
+      "name": "Hrafn",
+      "description": "Aristocratic and haughty cat voice, dismissive and demanding tone, a spoiled royal pet who believes he rules the kingdom."
+    },
+    {
+      "name": "Hring Hring",
+      "description": "Middle-aged male, Nordic accent, gruff and no-nonsense tone, a tough blacksmith harder than the rock he sells."
+    },
+    {
+      "name": "Keepa Kettilon",
+      "description": "Middle-aged male, Nordic accent, rough and working-class tone, a gruff chef who runs his shop with practical efficiency."
+    },
+    {
+      "name": "King Sorvott IV",
+      "description": "Middle-aged male, Nordic accent, pompous and ill-tempered tone, a stubborn and bitter king prone to frustration and delusion."
+    },
+    {
+      "name": "Kjedelig Uppsen/Trogen Konungarde",
+      "description": "Adult males speaking together, Nordic accents, professional and dutiful tones, loyal guards protecting their leader."
+    },
+    {
+      "name": "Magnus Gram",
+      "description": "Middle-aged male, Nordic accent, measured and shrewd tone, a practical banker skilled at managing money and avoiding conflict."
+    },
+    {
+      "name": "Maria",
+      "description": "Adult female, Nordic accent, warm and welcoming tone, a friendly ferry operator with a hospitable nature."
+    },
+    {
+      "name": "Maria Gunnars",
+      "description": "Adult female, Nordic accent, warm and welcoming tone, a hospitable ferry-mistress knowledgeable about island history."
+    },
+    {
+      "name": "Mawnis Burowgar",
+      "description": "Middle-aged male, Nordic accent, grave and wise tone, a reformed leader tempered by tragedy who speaks with earned authority."
+    },
+    {
+      "name": "Merchant",
+      "description": "Adult male, Nordic accent, businesslike and practical tone, a typical Fremennik trader going about his work."
+    },
+    {
+      "name": "Mord",
+      "description": "Adult male, Nordic accent, gruff but friendly tone, a humble ferryman accustomed to maritime work."
+    },
+    {
+      "name": "Mord Gunnars",
+      "description": "Adult male, Nordic accent, weathered and straightforward tone, a humble ferryman with a storytelling nature."
+    },
+    {
+      "name": "Raum Urda-Stein",
+      "description": "Adult male, Nordic accent, businesslike and matter-of-fact tone, an armor merchant who keeps to practical matters."
+    },
+    {
+      "name": "Skuli Myrka",
+      "description": "Adult male, Nordic accent, merchant-like and transactional tone, an arms dealer focused on commerce and taxes."
+    },
+    {
+      "name": "Skuli Myrka/Flosi Dalksson/Raum Urda-Stein/Hring Hring",
+      "description": "Adult males speaking together, Nordic accents, a chorus of weary merchants complaining about excessive taxation."
+    },
+    {
+      "name": "Skuli Myrka/Raum Urda-Stein/Hring Hring",
+      "description": "Adult males speaking together, Nordic accents, businesslike tones, merchants discussing trade and taxes."
+    },
+    {
+      "name": "Slug Hemligssen",
+      "description": "Adult male, theatrical and quirky voice, a comedic spy disguised as a jester with dramatic flair and controlling tendencies."
+    },
+    {
+      "name": "Thakkrad Sigmundson",
+      "description": "Young adult male, Nordic accent, confident and skilled tone, a master craftsman with quiet expertise."
+    },
+    {
+      "name": "Thakkrad Sigmundson/Fridleif Shieldson",
+      "description": "Adult males speaking together, Nordic accents, one youthful and skilled, one commanding, craftsman and commander."
+    },
+    {
+      "name": "Thakkrad Sigmundson/Mawnis Burowgar",
+      "description": "Adult males speaking together, Nordic accents, one youthful and one grave, showing respect between craftsman and leader."
+    },
+    {
+      "name": "Thorkel Silkbeard",
+      "description": "Middle-aged male, refined Nordic accent, articulate and measured tone, a sophisticated royal advisor concerned with decorum."
+    },
+    {
+      "name": "Trogen Konungarde/Kjedelig Uppsen",
+      "description": "Adult males speaking together, Nordic accents, professional and dutiful tones, loyal guards serving Neitiznot."
+    },
+    {
+      "name": "Vanligga Gastfrihet",
+      "description": "Middle-aged female, Nordic accent, warm and cheerful tone, a happy and hospitable landlady who welcomes all guests."
+    }
+  ]
+}

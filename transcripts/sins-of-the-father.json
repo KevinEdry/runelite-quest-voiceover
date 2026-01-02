@@ -1,0 +1,5760 @@
+{
+  "branch": "quest/sins-of-the-father",
+  "quest_name": "Sins of the Father",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Veliaf? What are you doing here?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met friend. I'm here on an investigation. There's something strange going on in this town, and I suspect the vampyres are involved."
+    },
+    {
+      "character": "Player",
+      "line": "Anything I can help with?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Not at the moment. Keep checking in though, I may have need of you soon."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well an extra pair of hands is always beneficial. If you have the time of course?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm a bit busy right now. Maybe later."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Very well, friend. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "Of course. What do you need?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "This town has recently become home to an illness known as the Sleeper Plague. It's a nasty affliction. Those infected fall into a deep sleep, never to wake."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Now, Morytania is no stranger to odd afflictions. However, I've been doing some digging. Apparently, this isn't the first time this illness has beset Slepe. In fact, they say it's how the town was named."
+    },
+    {
+      "character": "Player",
+      "line": "And now the illness is back. You said you suspect the vampyres are involved?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I do. The first victim of the new Sleeper Plague was none other than Lady Crombwick. She rules over this town from Crombwick Manor, along with her husband."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "He's not been seen since she fell ill, and their manor has been locked down."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Here's the interesting part though. Vampyres have been seen around the manor. Apparently they showed up around the time when the Sleeper Plague returned."
+    },
+    {
+      "character": "Player",
+      "line": "I see where this is going. You think the vampyres are the reason the plague is back."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I do. The question is, why?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess that's for us to work out. Where do we start?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We'll split up. I'm going to try and learn more about these vampyres at the manor. While I do that, I want you to try and find the source of the illness."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "They're looking after the victims in this church here. I'd recommend you make that your starting point."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a plan. Good luck."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And to you. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "How have things been for you recently?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We haven't been doing too bad. Even out in Mort Myre, the impact of Ranis' death can be seen."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "People have a little bit more hope now, and it has become easier for us to gather support."
+    },
+    {
+      "character": "Player",
+      "line": "That's good to know."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Of course, there are downsides. The vampyres are hunting us with ever greater determination. But this is the life we chose."
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about this place?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Slepe? It's wretched. The people of this town follow the teachings of Zamorak. Some are no better than the vampyres themselves."
+    },
+    {
+      "character": "Player",
+      "line": "Do they get on with the vampyres?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "As well as any humans can. All settlements in Morytania must pay the vampyres in blood tithes, but the people of Slepe do so willingly."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "They see the vampyres as fellow servants of Zamorak. Of course, the vampyres only really serve themselves."
+    },
+    {
+      "character": "Player",
+      "line": "So why do these people follow Zamorak?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Apparently this place was founded by a group called the Sisterhood, former healers of Saradomin that turned to Zamorak."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Their order still exists to this day. You'll probably see a few of them around the town."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me any more about the Sleeper Plague?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What I told you is pretty much what I know. The illness causes people to fall to sleep, never to wake again."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There's a rumour that the infected are also granted immortality, though I don't know if there's any truth in this."
+    },
+    {
+      "character": "Player",
+      "line": "To be honest, immortality doesn't seem very useful if you're unable to wake up."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Indeed. If history is to be believed, this is the second time the Sleeper Plague has hit Slepe. The first occurrence was many years ago and is supposedly what gave the town its name."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "That's all I know. That said, I suspect you might be able to learn more if you do some digging around town."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get going."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Very well friend. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to be doing?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You need to try and find the source of the Sleeper Plague. I'd start in the church. That's where they're looking after the victims."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a plan."
+    },
+    {
+      "character": "Player",
+      "line": "You don't look too happy?"
+    },
+    {
+      "character": "Hameln the Jester",
+      "line": "You're not wrong about that. It's my travelling companion, Hanchen. They say he's the latest victim of the Sleeper Plague."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know how he fell ill?"
+    },
+    {
+      "character": "Hameln the Jester",
+      "line": "I've no idea. We'd just been to the pub for a quick drink. On our way back, he started to act all odd, then he just collapsed."
+    },
+    {
+      "character": "Player",
+      "line": "Pub?"
+    },
+    {
+      "character": "Hameln the Jester",
+      "line": "Yes. The Rat & Bat just south east of here. I'm not a drinker myself but Hanchen's always loved a good tipple."
+    },
+    {
+      "character": "Player",
+      "line": "Wait... you mean to say you weren't drinking?"
+    },
+    {
+      "character": "Hameln the Jester",
+      "line": "No, I never drink. Hanchen on the other hand was loving those Bloody Bracers."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thanks for the information."
+    },
+    {
+      "character": "Hameln the Jester",
+      "line": "Like I said, I've no idea. We'd just been to the pub when it happened. Hanchen's always loved a good drink."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met friend. How goes the investigation?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently the latest victim of the Sleeper Plague was at the pub shortly before falling ill."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Interesting. Might be worth a look."
+    },
+    {
+      "character": "Player",
+      "line": "Agreed. I'll see if I can discover anything."
+    },
+    {
+      "character": "Player",
+      "line": "What ales are you serving?"
+    },
+    {
+      "character": "Carl",
+      "line": "We serve Crombwick's finest Bloody Bracer, that is all."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds rough, how much?"
+    },
+    {
+      "character": "Carl",
+      "line": "99 of your finest coins."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you get your Bloody Bracers from?"
+    },
+    {
+      "character": "Carl",
+      "line": "It's an old recipe of the Crombwick family."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. But the actual Bloody Bracers you sell, where do they come from?"
+    },
+    {
+      "character": "Carl",
+      "line": "Who's asking?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... me of course."
+    },
+    {
+      "character": "Carl",
+      "line": "Yes, but what I mean is, why do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Does it matter?"
+    },
+    {
+      "character": "Carl",
+      "line": "My supplier is a private individual. He doesn't like others meddling in his affairs. So yes, it does matter."
+    },
+    {
+      "character": "Player",
+      "line": "I represent... health?"
+    },
+    {
+      "character": "Carl",
+      "line": "Health? What are you on about?"
+    },
+    {
+      "character": "Player",
+      "line": "Err... Health and safety of course, here on a routine inspection."
+    },
+    {
+      "character": "Player",
+      "line": "Part of my work requires me to inspect the source of your Bloody Bracers. I was hoping you'd put me in touch with your supplier."
+    },
+    {
+      "character": "Carl",
+      "line": "I don't know what you're on about. There're no routine inspections here. Now clear off, I have customers to serve!"
+    },
+    {
+      "character": "Player",
+      "line": "Well I might just have a look around anyway."
+    },
+    {
+      "character": "Carl",
+      "line": "You don't give up do you. I'm not telling you anything so clear off."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. Looks like Carl is pretty much out of Bloody Bracer. He'll need to collect more from his supplier soon."
+    },
+    {
+      "character": "Carl",
+      "line": "Huh. Looks like we're all out of Bloody Bracer again."
+    },
+    {
+      "character": "Player",
+      "line": "Alright then Carl. Let's see what you're hiding..."
+    },
+    {
+      "character": "Player",
+      "line": "The dungeon Carl? What are you hiding down there?"
+    },
+    {
+      "character": "Kroy",
+      "line": "Carl? What do you want?"
+    },
+    {
+      "character": "Carl",
+      "line": "Kroy. We've run out of Bloody Bracer again."
+    },
+    {
+      "character": "Kroy",
+      "line": "Did you really need to come here to tell me that?"
+    },
+    {
+      "character": "Carl",
+      "line": "There's something else as well. Someone's been poking around, asking about Bloody Bracer."
+    },
+    {
+      "character": "Kroy",
+      "line": "Who?"
+    },
+    {
+      "character": "Carl",
+      "line": "I don't know. They don't look to be from around here."
+    },
+    {
+      "character": "Kroy",
+      "line": "So someone's been snooping around asking questions, and you decided to come here? What if they followed you?"
+    },
+    {
+      "character": "Carl",
+      "line": "I... I thought you'd want to know."
+    },
+    {
+      "character": "Kroy",
+      "line": "You're a fool Carl. If you're not careful, you'll jeopardise everything."
+    },
+    {
+      "character": "Carl",
+      "line": "Hey! I don't need to help you!"
+    },
+    {
+      "character": "Kroy",
+      "line": "No, you don't. Your predecessor didn't want to help us. Perhaps you remember what came of him?"
+    },
+    {
+      "character": "Carl",
+      "line": "I..."
+    },
+    {
+      "character": "Kroy",
+      "line": "Go back to your pub Carl. I'll have more Bloody Bracer sent over soon. In the meantime, try to be a bit smarter."
+    },
+    {
+      "character": "Carl",
+      "line": "Fine."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Alright then, Damien. What is it that you're so keen to show me?"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Vanstrom, I'd like you to meet Kroy."
+    },
+    {
+      "character": "Kroy",
+      "line": "Greetings, my lord."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Don't tell me you had me come all the way down here for this? Look at the wretched thing, Damien. It's barely even a proper juvenile."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Well just hang on there, Vanstrom. Kroy may not look like much, but I've never met a vampyre with a better knowledge of herblore."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Kroy, tell him what you found."
+    },
+    {
+      "character": "Kroy",
+      "line": "Of course, my lord."
+    },
+    {
+      "character": "Kroy",
+      "line": "It was hidden deep within the sanctuary here. A recipe, for an elixir."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "An elixir?"
+    },
+    {
+      "character": "Kroy",
+      "line": "Yes! The ones that built the place, the Sisterhood, they called it the Elixir of Everlasting."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "And just what is this Elixir of Everlasting?"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Those who drink it find their lives heavily extended, but at a cost. They are put into a deep sleep, never to wake."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "So the Sleeper Plague? That was your doing?"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Indeed. Using the recipe, Kroy was easily able to recreate the elixir. After a quick test on Lady Crombwick, we started giving it to the citizens."
+    },
+    {
+      "character": "Kroy",
+      "line": "We hide it in their beer, Bloody Bracer. They've no idea what it's really doing to them!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "And while they sleep, we tithe them. The sleepers only need a fraction of the blood a normal human needs, so we can take more than ever before!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "And tell me, Damien, who gave you permission to do this?"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "The nobles of Darkmeyer make their demands Vanstrom. Someone has to meet them."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "That someone is not you. I am in charge of blood tithing. I alone decide how it is to be carried out."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "The nobles are restless. They are tired of inaction. I saw an opportunity and I took it. Lord Drakan should thank me."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I don't doubt the ingenuity of your plan. This elixir could have great potential. The thing I doubt is your recklessness. This Sleeper Plague has attracted attention. The wrong kind of attention."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "The Myreque? Don't tell me you're scared of that lot, Vanstrom? I thought you were made of stronger stuff."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I do not fear the Myreque. I have no need to. They have no way of touching me."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "But you on the other hand, you should be very afraid. Out here alone, without the support of the Drakan household. You're a prime target. And if what I hear is true, they're right on your doorstep."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "What's that supposed to mean?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "The Myreque are already here in Slepe, Damien. The one that killed Ranis Drakan is among them. Your overconfidence has begun your downfall."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Well you'll have to do something. You'll need to send us some support."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I will do no such thing. You defied Lord Drakan when you came out here. The consequences of your actions are your own to deal with."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Now, if you'll excuse me, I will be on my way. There are things in Darkmeyer that require my attention."
+    },
+    {
+      "character": "Kroy",
+      "line": "How much did you hear, human?"
+    },
+    {
+      "character": "Player",
+      "line": "Enough."
+    },
+    {
+      "character": "Kroy",
+      "line": "I see. Then you know that I can't let you leave this place alive."
+    },
+    {
+      "character": "Player",
+      "line": "Tempting offer. Death isn't on my to-do list today though, so I'll have to decline."
+    },
+    {
+      "character": "Kroy",
+      "line": "A joker? Your arrogance will be your end, human."
+    },
+    {
+      "character": "Player",
+      "line": "We'll see."
+    },
+    {
+      "character": "Kroy",
+      "line": "Yes... We shall..."
+    },
+    {
+      "character": "Player",
+      "line": "Well that's him dealt with. I should destroy his lab as well. Don't want anyone else continuing his work."
+    },
+    {
+      "character": "Player",
+      "line": "There. That should stop anyone from continuing Kroy's work. I should inform Veliaf."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met friend. Anything to report?"
+    },
+    {
+      "character": "Player",
+      "line": "You were right about the vampyres. I did some digging and discovered that they are indeed the cause of the Sleeper Plague."
+    },
+    {
+      "character": "Player",
+      "line": "A vampyre in the dungeon called Kroy was making infected Bloody Bracers. The local barkeep was then selling them to the townspeople."
+    },
+    {
+      "character": "Player",
+      "line": "I put a stop to that though. I killed Kroy and destroyed his lab. The barkeep has no supply now."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Excellent work friend. This should stop any new cases of the illness."
+    },
+    {
+      "character": "Player",
+      "line": "There's something else, too. While I was spying on Kroy, I saw Vanstrom Klause with another vampyre called Damien. It sounded like Damien was Kroy's boss."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The vampyre you speak of is a noble called Damien Leucurte. He's a known quantity to us. My investigations at the manor also involved the two of them, but let's hear the rest of your findings first."
+    },
+    {
+      "character": "Player",
+      "line": "Well, in their conversations, it was revealed why they caused the new Sleeper Plague. Apparently, they did it to make it easier to take blood tithes."
+    },
+    {
+      "character": "Player",
+      "line": "But here's the interesting thing. Vanstrom didn't seem very happy with this. It sounded like Damien was doing it without his permission."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "This is all very interesting. The citizens of this town are Zamorakians and willingly give their blood to the vampyres. Why would Damien need the Sleeper Plague?"
+    },
+    {
+      "character": "Player",
+      "line": "He talked about increased demand from the nobles of Darkmeyer. Perhaps they have need for more blood than normal?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "That would make sense. I've heard rumours that the vampyre population has grown such that demand for blood now exceeds supply. Damien may be looking for ways to satisfy this demand."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Even so, this seems extreme. And to go behind Vanstrom's back as well? Maybe their overcrowding issues are bigger than we first realised."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe. So, what's our next move?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I have an idea about that, although my information is not quite as exciting as yours I'm afraid."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "While I was investigating the manor, I discovered that it has indeed been taken over by vampyres. Our friend Damien seems to be the leader of this group."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "During my time there, I also managed to spy on Vanstrom and Damien. I only heard a small part of their conversation, but Vanstrom didn't seem very happy, which matches up with what you heard."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "At one point, Vanstrom insulted Damien for his recklessness and accused him of demanding too much from the werewolves. Sounds like they've also been gathering extra blood without permission."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds familiar. I suspect it was werewolves who attacked me that time at Paterdomus."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Yes, that encounter also sprung into my mind. It sounds like things are even worse now."
+    },
+    {
+      "character": "Player",
+      "line": "So you want to investigate the werewolves?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I do indeed. Something is going on in Darkmeyer that's causing this increased demand. If there's unrest in the city, we might be able to use it to our advantage."
+    },
+    {
+      "character": "Player",
+      "line": "What about Slepe? Should we not deal with Damien as well?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Not yet. Your actions will have drawn attention to us. We cannot stay here. It sounds like Damien can do little without Kroy, so I doubt he'll be much trouble anyway."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Besides, we've already done too much for these Zamorakians. There are others more deserving of our time."
+    },
+    {
+      "character": "Player",
+      "line": "But aren't we meant to help people?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "That's a complicated question friend. But yes, of course we are meant to help people."
+    },
+    {
+      "character": "Player",
+      "line": "Then why are we letting Damien get away with this? Carl as well?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Damien and Carl are small fish in a very big pond. Dealing with them might help the people here, but it will mean nothing to the rest of Morytania."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "If we want to help as many people as possible, we need to think bigger than that. The Drakan family, they are the real targets."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose. It just seems harsh to leave these people in the hands of a vampyre like Damien."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We've already done a lot to help here. Besides, Damien will get what's coming to him in the end, I'm sure of that."
+    },
+    {
+      "character": "Player",
+      "line": "You're sure this isn't just because they're Zamorakian?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Zamorakians are evil my friend, it does not shame me to say it. But no, if this were a Saradominist town, my actions would be the same."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, fair enough."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You have a good heart my friend. I have a lot of respect for that. I assure you that if we keep on our current path, we will bring freedom to all of Morytania."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, Veliaf. So, what's our next move?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Meet me at Paterdomus friend. We will check in with Drezel and Ivan, before continuing our investigation."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll meet you there."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Be careful out there. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough, so what now?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met friend. Good to see you made it in one piece."
+    },
+    {
+      "character": "Drezel",
+      "line": "Indeed, I hear Morytania becomes more dangerous by the day."
+    },
+    {
+      "character": "Player",
+      "line": "You can say that again. Good to see you Drezel. Has Veliaf already filled you in?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Not yet, I thought it best to wait for you."
+    },
+    {
+      "character": "Drezel",
+      "line": "But you're here now, so let's get started."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well Drezel, the reason we are here is due to an investigation we've been conducting in Slepe."
+    },
+    {
+      "character": "Drezel",
+      "line": "Ah. I hear it's a nasty place, full of Zamorakian filth. Suffering from some sort of outbreak as well, I've been told."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, the Sleeper Plague. It turns out, however, that the vampyres are responsible."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Seems that one of their nobles, Damien Leucurte, has been looking for ways to increase blood output. Interestingly, he's been doing it without consent from the Drakan family."
+    },
+    {
+      "character": "Player",
+      "line": "That's right. Vanstrom doesn't seem to be very happy about it."
+    },
+    {
+      "character": "Drezel",
+      "line": "Interesting. It's odd you should come to report this, because we've also experienced some strange happenings around here."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm. Do these strange happenings have anything to do with werewolves, by any chance?"
+    },
+    {
+      "character": "Drezel",
+      "line": "They do."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I knew it. What's been going on?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Well, after here was ambushed outside the temple a while back, Ivan and I decided to keep a closer eye on things."
+    },
+    {
+      "character": "Drezel",
+      "line": "For a time, nothing unusual happened. The reports of trouble in the area died down, and everything seemed normal."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Perhaps their encounter with you scared them off,."
+    },
+    {
+      "character": "Drezel",
+      "line": "Maybe. But if so, it was only for a time. A few weeks ago, the reports of people going missing in the area started again. And they're much worse this time."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Entire groups have been going missing. Not just miners and travellers either. Even some of the king's mercenaries have vanished."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Did you send word to the king?"
+    },
+    {
+      "character": "Drezel",
+      "line": "We did. His adviser though, Aeonisig, encouraged him to refrain from military action."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Typical. This is why I hate politics."
+    },
+    {
+      "character": "Player",
+      "line": "Has anyone seen who's been doing this? Is it definitely werewolves?"
+    },
+    {
+      "character": "Drezel",
+      "line": "We believe so. Ivan has been keeping a close watch. The disappearances have mostly taken place further up the pass, however, so it's taken a while for him to find any leads."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "But he has found one?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Yes, last night. He overheard a hooded figure mention a meeting in the Haunted Woods, directly south of Fenkenstrain's Castle, that is apparently set for today."
+    },
+    {
+      "character": "Player",
+      "line": "Perfect. Sounds like that's where we should head next then."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "On the topic of Ivan, where is he Drezel?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Ah... Well that's just the thing. He went to spy on the meeting."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What? You just let him go? He's just a boy!"
+    },
+    {
+      "character": "Drezel",
+      "line": "He's a grown man, Veliaf! One far smarter than either you or I. If he wants to do something, he will do it. I can't stop him!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You should have sent word to us! This is for us to deal with, not him!"
+    },
+    {
+      "character": "Drezel",
+      "line": "There wasn't time. He only found out about the meeting last night!"
+    },
+    {
+      "character": "Player",
+      "line": "Ivan is still a member of the Myreque, isn't he? Surely he can look after himself."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "That's not the point! He needs to be kept safe!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand. Why is Ivan so important?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Ivan... Well, Ivan is special. He is the last in his bloodline."
+    },
+    {
+      "character": "Player",
+      "line": "And what bloodline is that?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Ivan is the last living descendant of Ivandis Seergaze himself. Once I am gone, he will be the only remaining descendant of the Seven Priestly Warriors."
+    },
+    {
+      "character": "Drezel",
+      "line": "Are you becoming forgetful, ? The Seven Priestly Warriors were the ones who originally blessed the River Salve."
+    },
+    {
+      "character": "Drezel",
+      "line": "Without their sacrifice, Drakan and his kin would have long since taken over Misthalin."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I remember. So, this is why you want to keep Ivan safe, Veliaf?"
+    },
+    {
+      "character": "Player",
+      "line": "I see. So that's why you want to keep him safe, Veliaf?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "It's not just about that. There's also the promise I made. Before his mother died, I swore to her on my life that I would shield Ivan from any harm."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Though I nearly failed her when Vanstrom killed Sani and Harold."
+    },
+    {
+      "character": "Drezel",
+      "line": "Veliaf, my friend, you and I will not be around to protect Ivan forever. We have guided him to this point, but maybe it's time for him to start looking after himself."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And what of his learnings here? You would have him abandon them?"
+    },
+    {
+      "character": "Drezel",
+      "line": "I have taught Ivan everything I know. There is nothing more he can gain from me."
+    },
+    {
+      "character": "Player",
+      "line": "Forgive me, but this can be resolved later. For now, we need to find Ivan and see what this meeting is about."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Yes, you're absolutely right, friend. Forgive us. Directly south of Fenkenstrain's Castle. Is that right Drezel?"
+    },
+    {
+      "character": "Drezel",
+      "line": "That's right. In the Haunted Woods."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Very well. Meet me there,. Let's see if we can find out what's going on."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Oh, and, I would appreciate it if you could avoid mentioning the stuff about Ivandis Seergaze to Ivan. One day he will have to bear that burden. But for now, he has enough weight on his shoulders."
+    },
+    {
+      "character": "Player",
+      "line": "I understand."
+    },
+    {
+      "character": "Drezel",
+      "line": "Good luck to you both. Saradomin be with you."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Meet me in the Haunted Woods, just south of Fenkenstrain's Castle. We will hopefully find Ivan there."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see you there."
+    },
+    {
+      "character": "Drezel",
+      "line": "You should head for the Haunted Woods, friend. With luck, you'll find Ivan just south of Fenkenstrain's Castle."
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell me more about the Seven Priestly Warriors?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Well at this point you should be no stranger to their tale, though I understand the desire for a recap."
+    },
+    {
+      "character": "Drezel",
+      "line": "During the Fourth Age, the vampyre forces of Lowerniel Drakan attempted to invade Misthalin. They would have succeeded, were it not for the Seven Priestly Warriors."
+    },
+    {
+      "character": "Drezel",
+      "line": "The warriors were the ones to bless the River Salve and build this temple, ensuring that Misthalin would be forever safe from the evils of Morytania."
+    },
+    {
+      "character": "Drezel",
+      "line": "Sadly, all seven of them fell in the final battle against Drakan. They are now buried here, in this very mausoleum."
+    },
+    {
+      "character": "Player",
+      "line": "I don't know if that's completely true."
+    },
+    {
+      "character": "Drezel",
+      "line": "You talk of the suggestion that Ivandis Seergaze isn't actually buried with the others, don't you? That isn't a conversation I wish to have."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. Anything else you can tell me about the Warriors?"
+    },
+    {
+      "character": "Drezel",
+      "line": "Not really. You might learn more in the library below, but I'd be cautious of believing every word in those books."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. Thanks Drezel."
+    },
+    {
+      "character": "Player",
+      "line": "I'm on it."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "! So good to see you. What brings you out here?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, Ivan. Believe it or not, I'm actually here for you."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "For me? I'm guessing Drezel sent you?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. He told us of your discovery about the werewolves. We came to lend a hand."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "We? Is Veliaf with you?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. We've been investigating something together. We suspect it may be connected to this situation with the werewolves. I imagine he'll be here shortly."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Veliaf!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Ivan. It's good to see you safe."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "And you. says you're here about the werewolves."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Indeed. But Ivan, you shouldn't be out here. It's not safe for you. Head back to the temple, let and I take it from here."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Don't worry, Veliaf. I can look after myself."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Ivan..."
+    },
+    {
+      "character": "Player",
+      "line": "Wait! Look!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "You're late."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Well look who it is. Damien Leucurte! I thought you didn't like to associate with our lot."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Scared of getting mud on his pretty clothes, I bet."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Mind your tongue, dog, or I'll have you put in a collar."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Your threats mean nothing out here Damien. There're no Drakans around to protect you."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Not that Drakan protection means much these days anyway. His own brother killed by a human. How does he respond? He stays hiding in his fancy castle."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Ha! You think this one would get Drakan protection even if he were about? I hear Vanstrom has found out about this little side venture. Little Damien has been a very naughty boy."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Enough of this! What do you have for me?"
+    },
+    {
+      "character": "Werewolf",
+      "line": "A nice family of three, out for a little picnic a bit too close to the Salve."
+    },
+    {
+      "character": "Prisoner",
+      "line": "Please... don't hurt us. We'll do anything!"
+    },
+    {
+      "character": "Werewolf",
+      "line": "Shut up!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Three? Is that all?"
+    },
+    {
+      "character": "Werewolf",
+      "line": "Well if you want more, you're welcome to cross the Salve yourself and get them."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "There's been a setback with our operations in Slepe. We need you to make up the shortfall. Next time, bring more."
+    },
+    {
+      "character": "Werewolf",
+      "line": "You assume there's going to be a next time. I bet you don't last another week now that the Myreque are running around with vampyre-killing weapons."
+    },
+    {
+      "character": "Werewolf",
+      "line": "A week? He won't even last another day at the rate he's going!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "I tire of your arrogance. We're done here."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Yes, we are. See you around Damien."
+    },
+    {
+      "character": "Werewolf",
+      "line": "Or not."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "So it's as we suspected. The werewolves have been taking people from across the Salve."
+    },
+    {
+      "character": "Player",
+      "line": "But they've been doing so without permission, just like in Slepe."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "This doesn't give us anything more to go on though. We have our suspicions, but we still don't know for sure why they are doing this."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Should we follow them? Maybe we'll learn more if we do. We might also get a chance to save that poor family."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "No, it's too risky. Last thing we need is you getting captured, Ivan."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hang on... Do you two hear something?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Go on then! Finish it!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh Veliaf my dear, If I'd wanted you dead I'd have done it a long time ago."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "You're not here to kill us?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "No... I'm here to talk..."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "So... Let's talk."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I take it you know who I am?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "You're Vanescula Drakan, sister to Lowerniel Drakan."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And formally, sister to Ranis Drakan, before here came along."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ah yes, the great vampyre slayer. I would thank you, were it not for the fact that his funeral was such a dull affair."
+    },
+    {
+      "character": "Player",
+      "line": "Wait... You wanted him dead?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "There was no love between Ranis and I. You did us a favour when you got rid of him."
+    },
+    {
+      "character": "Player",
+      "line": "That's a shame. Maybe I shouldn't have bothered."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh on the contrary, the death of Ranis was just what we needed."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Save your words. You didn't come to thank us for Ranis. Why are you here?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ah, and there I was thinking we were starting to become friends. Fine. I'm here to make you an offer. A once in a lifetime offer."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Which is?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You've already killed one of my brothers. Now I offer you the chance to kill the other."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Alone, you have no hope of ever getting close to Lowerniel. Now, I on the otherhand, can get you right into his chambers at Castle Drakan."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And why would you want that?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I have my reasons."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Care to share them?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I will, but not here."
+    },
+    {
+      "character": "Player",
+      "line": "Where then?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "To the south east of Meiyerditch, there's an old graveyard. The Icyene Graveyard, we call it. Gather the Myreque, every member, and meet me there. That is where I will present my proposal."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Every member of the Myreque? Do you take us for fools? You're trying to lure us all there to wipe us out."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "As I said to you earlier, Veliaf, if I wanted you dead I'd have done it long ago."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You're bluffing!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Am I? So if I were to head to the Burgh de Rott inn and go down into the basement, what would I find?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You..."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "If I were to give the order, I could have the heads of every member of the Myreque mounted above the gates of Castle Drakan before the day is out."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Don't be so sure. There's more of us than you think."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Is there now? Do you refer to the elusive Calsidiu, the apparent leader of the Myreque?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "A lie, I'm afraid. I know exactly how many of you there are. And that number isn't as big as you'd like to pretend."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "A lie? Veliaf..."
+    },
+    {
+      "character": "Player",
+      "line": "You've made your point Vanescula. How do we get to this graveyard?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "A boat will be your easiest way I imagine. I'll let you worry about the details."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Incidentally, should you fail to attend..."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You'll mount our heads above the gates of Castle Drakan. Yeah, we get it."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Excellent, glad we understand one another. I will await you at the graveyard."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "This isn't good."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Veliaf... You lied about Calsidiu and the other Myreque?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Yes. But it was with good intention, Ivan. To believe there were more of us out there... It inspired hope in our ranks, and fear in our enemies."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "A false hope."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Better than none at all. Ivan, I have made some tough choices over my years, but every one of them was for the good of Morytania."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Okay... I understand. I don't like it, but I understand."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I don't like it either. Later, we will sit down and properly discuss this. However, at the moment I fear we have more pressing matters."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Vanescula. What do we do?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Go back to Paterdomus, Ivan. and I will handle it."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "But you heard what she said. She asked for all the Myreque. Veliaf, I'm one of the Myreque, I have to come with you."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Come with us? What makes you think we're even going? What makes you think we have any intention of listening to that witch?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "We don't have a choice, Veliaf, you know that. If we don't go, she'll kill us all."
+    },
+    {
+      "character": "Player",
+      "line": "I fear Ivan is right. It doesn't seem like Vanescula has given us any other options."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Exactly. The decision has already been made for us, so I see little point in debating it. We're going. All of us."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Dammit Ivan! I'm trying to keep you safe!"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "You can't keep me safe, Veliaf. No one can. While Lowerniel Drakan lives, none of us will ever be safe."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "We have to do this. It's the only choice we have."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Fine. But don't expect me to even pretend to be happy about this! Breaking bread with a vampyre! What have we come to?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "We're not breaking bread with her. We're going to see what she has to offer. If she tries anything, here can deal with her, just like he did to her brother."
+    },
+    {
+      "character": "Player",
+      "line": "It would be my pleasure. What's our plan?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I will travel down to Burgh de Rott and inform Radigad and Polmafi of this plight we find ourselves in. I'll also have word sent to Safalaan and the others in Meiyerditch."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": ", I would appreciate it if you could escort Ivan down to Burgh de Rott."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "I need to collect some things from Paterdomus first. I'll update Drezel while I'm there. Once I'm done, I'll meet you outside the temple, on the Canifis side."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good to me."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I will see you both at the boathouse in Burgh de Rott. We can use the boat there to get to this graveyard. Good luck."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey there. I think I'm all ready to depart when you are."
+    },
+    {
+      "character": "Player",
+      "line": "What's our plan?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "We need to travel through Mort Myre Swamp to Burgh de Rott. We may encounter all kinds of evil on our way, so you'd probably best prepare to fight."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Are you ready to go to Burgh de Rott?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Then let us depart."
+    },
+    {
+      "character": "Player",
+      "line": "I need to prepare first."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Okay, I'll be here once you're ready."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey."
+    },
+    {
+      "character": "Player",
+      "line": "How are you doing?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "I'm good. The swamps haven't beaten me yet."
+    },
+    {
+      "character": "Player",
+      "line": "How are things between you and Veliaf?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Oh don't be worrying about that. Veliaf and I butt heads all the time. It's harmless, though. He's like a father to me."
+    },
+    {
+      "character": "Player",
+      "line": "He seems to worry a lot about you."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "He thinks I'd be safer back with Drezel. I can't stay hidden away forever though. Drezel's teachings were valuable, but I can ultimately do more good out here."
+    },
+    {
+      "character": "Player",
+      "line": "And what of the Calsidiu stuff?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hmm. I still need to think on that. Ask me again later."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think of this Vanescula business?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "It's dangerous, but we don't have any choice. Besides, we're no strangers to danger."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Who knows, maybe this will even work out for us."
+    },
+    {
+      "character": "Player",
+      "line": "And if it doesn't?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Keep that flail of yours nearby."
+    },
+    {
+      "character": "Player",
+      "line": "Let's get going."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Well that's torn it... Looks like we can't get over this bog. We'll have to go back to Paterdomus."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I'm sure we can find a way through!"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "That's amazing! I'll have to do the same."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "That was great! But we really should be heading off now."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Rotten luck! The bridge is out. Do you think there's a way over?"
+    },
+    {
+      "character": "Player",
+      "line": "I reckon we can come up with something."
+    },
+    {
+      "character": "Vampyre Juvinate",
+      "line": "And what do we have here? Looks like some fresh Myreque meat!"
+    },
+    {
+      "character": "Vampyre Juvinate",
+      "line": "Hang on... That's the Slayer! The one that killed Ranis Drakan!"
+    },
+    {
+      "character": "Vampyre Juvinate",
+      "line": "Uh oh..."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Another successful journey. Thanks,."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "I'll meet you down at the boathouse. I imagine Veliaf is there already."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well, here we are. Likely going to our doom."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "At least we go together."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Touching, but ultimately meaningless."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Ever the optimist, aren't you Veliaf?"
+    },
+    {
+      "character": "Player",
+      "line": "Is everything ready?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Radigad has scouted out the graveyard. It's empty, for now. Vanescula's probably waiting for all of us to arrive before she makes her move."
+    },
+    {
+      "character": "Player",
+      "line": "What of Safalaan and the others?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Polmafi managed to get in contact with them. They will meet us there."
+    },
+    {
+      "character": "Player",
+      "line": "I guess we'd better get going then."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Indeed. No point delaying the inevitable. Hop in the boat once you're ready, friend. We're right behind you."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Hop in the boat once you're ready, friend. We're right behind you."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey. You should get into the boat if you're ready to go."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Good to see you,."
+    },
+    {
+      "character": "Player",
+      "line": "And you, Kael."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "You'd best talk to Veliaf and Safalaan. They are the big bosses after all."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go speak to them."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Well met friend."
+    },
+    {
+      "character": "Player",
+      "line": "Radigad. Good to see you."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "I hope you came well armed my friend. These are dangerous times."
+    },
+    {
+      "character": "Player",
+      "line": "When are they not?"
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "True. It looks like Veliaf and Safalaan are waiting for you. We will talk more later."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey. Looks like Veliaf and Safalaan want to speak to you. Let's talk after."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. See you soon."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Ah,. Glad to have you with us. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "Good to see you Vertida. How are things?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "To be honest, I don't know. Ask me again if we're still alive after this meeting."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. Talk later."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Hello there. Have you spoken to Veliaf and Safalaan?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Ah, probably best that you do. That vampyre could arrive at any moment."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Veliaf! It has been far too long my friend."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good to see you, Safalaan. Though I wish it were under better circumstances."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Indeed. And, good to see you as well. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "Myreque prevail, Safalaan. How are things in Meiyerditch?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "As dark as ever, my friend. The vyrewatch have doubled their efforts to find us since the death of Ranis and the citizens are being tithed more than ever before."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "That said, it does feel like there is now a glimmer of hope where previously there was only darkness. While more ferocious, the vampyres also seem a bit more cautious now."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "They know we can kill them. They finally know what fear feels like."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We're also seeing greater support from the people than ever before. Whereas once they'd only speak of the Myreque in whispers, now they speak of us loudly and with pride."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Anyway, let's focus on the matter at hand. I must say Veliaf, over the years I've come to expect the unexpected, but your message was something else altogether."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I mean, Vanescula Drakan herself! We find ourselves in very strange times."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Strange, and also dangerous. I do not like any aspect of this."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well I won't pretend this isn't risky. But I have faith in, here. The first human to kill a vyre, and quite the vyre it was. Vanescula would be unwise to try anything."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Speaking of, about that other matter I mentioned in my message..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Ah, of course., after due consideration by Veliaf and I, we would like to promote you to the rank of lieutenant in the Myreque. Congratulations!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You've done well, friend. I realise it doesn't mean much, but we wanted to thank you in some way for all of your work so far."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. It's a great honour."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I wish we had time to celebrate, but time is in short supply these days. I imagine Vanescula will be here very soon. Are we ready?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "As ready as we'll ever be. Let's do this."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well Vanescula, here we are. All the Myreque, just like you wanted."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Your move."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I'm impressed Veliaf. I did fear you'd go and do something silly."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Skip the small talk. Why are we here?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Fine. Conversing with you is a chore, anyway."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "The reason I have gathered you all here is because I have an offer for you."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now I won't deny, you've not done a bad job. Killing Ranis was no small achievement, but you managed it all the same."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Unfortunately for you, you're still no closer to the true prize."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Lowerniel Drakan."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Indeed. That is why I have come to you. Only with my help will you have any hope of killing my brother."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "And what do you gain from this?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Long ago, the land of Morytania was known as Hallowvale and it was ruled over by a race of Saradominists called the icyene."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "But then your brother came along."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Correct. Hallowvale was taken over by my kind, and Lowerniel became ruler of the newly named Morytania."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "And you know what? It was the worst thing that ever happened to us."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "My brother was a great conqueror, make no mistake. But he is a poor ruler. And now, thanks to him, our society is collapsing."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Collapsing how?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I know you've already been investigating Damien Leucurte and his not so secret arrangement with some of Darkmeyer's nobles."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Tell me, have you worked out why this arrangement exists?"
+    },
+    {
+      "character": "Player",
+      "line": "We could have a good guess."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well I can give you better than guesses. Allow me to offer some clarity."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Every day that goes by, the number of humans in Morytania decreases. Yet while this happens, our population continues to grow. Unsurprisingly, we no longer have enough blood to go around."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Yeah, yeah. We've suspected as much for a long time. Why is this relevant?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "It's relevant because while all of this happens, our great leader remains absent. Lowerniel never liked to show his face, but these days it's as if he doesn't even exist. He spends months in his chambers, refusing to see anyone."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "So you wish to take his place. What makes you think we'll help you with that?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "There was once a time where humans and vampyres lived together in a great empire. Under my rule, I would see us return to that way of life."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Morytania would become a land of peace and prosperity, with humans and vampyres living side by side."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Or we could just kill both you and your brother and take back Morytania for humanity!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ha! You could try. Even if you were to succeed though, which isn't likely, one of the other vampyre lords or ladies would just take over instead."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "No. If you want to save your people, my way is the only way."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Why do you need us though? Why not just kill your brother yourself?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I could, but even today there are many in Darkmeyer who still blindly believe in Lowerniel. It will be much easier for me to take his place if I am not responsible for his demise."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "You'd have us become your scapegoats."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Is that such a bad thing? Your people would consider you heroes. You'd be the ones to finally kill Lowerniel Drakan."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "How do we know you won't just kill us once this is done?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You don't. But Castle Drakan is impenetrable. You'll never get inside on your own, and Lowerniel clearly has no intention of coming out. This is your only option."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh, it's probably also worth mentioning that I can't afford any loose ends. If you decline, I would expect you to leave Morytania immediately."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "To stay would have dire consequences for your life expectancy."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Say we accept your offer. How do you propose to get us into the castle?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ah yes, the plan itself. You will pose as my prisoners and I shall escort you to Castle Drakan. Your capture is something that even Lowerniel will be unable to ignore."
+    },
+    {
+      "character": "Player",
+      "line": "And once inside, we kill him."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Exactly. A nice and simple plan."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Too simple, if you ask me."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Never happy are you Veliaf?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Of course I'm not happy. You expect us to just hop into bed with you? You are the enemy! You always have been, and you always will be! We will have no part in this."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Come now, don't be so hasty. You should at least think things over. While you do, I would appreciate a private chat with Safalaan."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Me?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Yes, you. Join me by the large mausoleum at the back of the graveyard. There is something we need to discuss."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What makes you think we're just going to let you walk off with him?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "This is growing boringly repetitive, Veliaf. For the last time, if I wanted any of you dead, I'd have done it by now."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It's alright Veliaf. I will go."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Hmm. Well has to go with you. I want him there in case Vanescula here tries anything."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Very well. Safalaan, if you'll please join me."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Safalaan Hallow. Interesting name, isn't it?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What of it?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "The name 'Hallow'. Do you know where it comes from?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It's common in these parts. They say it was the name of the old Saradominist rulers."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Spot on. You know your history. The family of icyene that ruled over Hallowvale were the Hallow family. And so of course, the name of the region is no coincidence."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I'm surprised your brother didn't have it renamed 'Drakanvale'."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Good name, but not really his style I'm afraid."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What's your game, Vanescula? Why do you care about my name?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Do you not find it odd that you share a name with the former royal family?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No, I don't. Like I say, around here the name is pretty ordinary."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ah, but you are far from ordinary, aren't you Safalaan? Tell me, how much do you remember of your childhood?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Nothing. I remember nothing of my childhood. You can thank your friend Vanstrom for that. He always wanted me dead, even back before the Myreque were a thing. One day he nearly succeeded."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "But your powers stopped him?"
+    },
+    {
+      "character": "Player",
+      "line": "You know about Safalaan's powers?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I know many things about Safalaan. It's why we are here, in fact. But please, go on."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It's why we're here? What do you mean? What is all this?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Finish your story. I promise that everything will be made clear."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Fine, but it's starting to seem like you already know everything anyway."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You're right about my powers. I was able to use them to drive Vanstrom away. It came at a cost though."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I remember nothing of the event, nor of anything that happened in my life before it. The only thing I remembered was my name."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "There, story told. Now, tell me, why are we having this conversation?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "This graveyard is no normal graveyard. It was once the private graveyard of the Hallow family. Every member of the royal family was buried here."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "When she was still in power, the ruler of Hallowvale, Queen Efaritay Hallow, had this mausoleum built. It was constructed to one day house her and her human husband, King Ascertes Hallow."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Inside, I believe you will find the truth that you've spent your whole life searching for."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Stop with these games! If you know something, tell me!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Would you actually believe me if I did? To you, my words are just that, words. Inside this mausoleum lies something far more reliable, proof."
+    },
+    {
+      "character": "Player",
+      "line": "The door is locked."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well noted. We'll need to unlock it."
+    },
+    {
+      "character": "Player",
+      "line": "I bet I can get it open."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Wonderful. It's an interesting lock. The icyene always were devious. From what I can tell, you'll need to ensure that the total value of each row and column matches the number at the end."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now, off you go."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Any luck with the lock, ?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Try to hurry. I don't like these games that Vanescula is playing."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You need to get this door open. From what I can tell, you'll need to ensure that the total value of each row and column on the lock matches the number at the end."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Keep an eye on Safalaan,. I don't like leaving him alone with that vampyre."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey. You need to be over with Safalaan and Vanescula. We'll talk later."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Best we don't talk right now,. You need to be watching Safalaan and Vanescula and I don't want to distract you."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Shouldn't you be with Safalaan?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, I'd better go to him."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Now's not the time for chat,. You're meant to be watching Safalaan and Vanescula."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "You should be keeping an eye on Safalaan and Vanescula. We will talk later."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well?"
+    },
+    {
+      "character": "Player",
+      "line": "There's a plaque on the coffin."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What does it say?"
+    },
+    {
+      "character": "Player",
+      "line": "It reads:"
+    },
+    {
+      "character": "Player",
+      "line": "'Here lies Larina Hallow. Beloved daughter of Efaritay and Ascertes Hallow and...'"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "My god..."
+    },
+    {
+      "character": "Player",
+      "line": "'...and faithful sister of Safalaan Hallow.'"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I... I don't..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No! It can't be true! It can't be!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I'm sorry Safalaan, but it is true. You are the half- human, half-icyene son of Queen Efaritay Hallow."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "A sister... I had a sister. And my powers?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "The powers of an icyene, yes."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "But... I don't understand..."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I realise it's a lot to take in."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No. What I mean is, you said that this tomb was built for Efaritay and Ascertes, for my mother and father. But they're not here."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Where are they Vanescula?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Safalaan I..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No! No more games! I know why you've done this. You don't care for me. You're just trying to manipulate me!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well fine, it worked. If you want my support in killing your brother, you will have it. But you must tell me, where are my parents?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "The war for this land was long and bloody. We were winning, but with heavy losses. Lowerniel didn't mind. He was a hunter and a warrior. In his eyes, there was no death more noble than one in battle."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Many didn't share that view though, and wanted the war to be over. Ranis was one of them. He managed to infiltrate Efaritay's castle. Once inside, he captured your father, Ascertes."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Efaritay surrendered that same day. She walked into Lowerniel's camp, alone, and willingly handed herself in. I guess she had hoped that Lowerniel would free your father in exchange for her."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "But he didn't, did he?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "No. After that, I'm afraid I don't know what happened to your mother. No one ever saw her again. Only Lowerniel himself knows her fate."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "And my father?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Like I said, we suffered heavy losses in the war. We needed a way to quickly restore our numbers. Vampyrification was the answer. Your father was the first of many to go through the process."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You turned him into a vampyre? You monsters!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Lowerniel turned him into a vampyre, not I."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "But you were there, by his side. Do you expect me to believe that you're not just like him?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I can't control what you believe, but I am not the enemy here."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What happened then? After you had your way with him, what became of my father?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "He still lives to this day, under a different name of course."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What name? Tell me!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Vanstrom Klause."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No! You're lying! You said it yourself earlier, I have no reason to believe you!"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Everything I have told you is the truth. Only you can decide if you want to believe it."
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "My family..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Alright Vanescula, you win. If you want Lowerniel dead, you will have the support of the Myreque. I ask only one thing."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Which is?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "When the time comes, I will be the one to kill him. He will pay for what he has done to me and my family."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "So be it. You should inform the rest of your group."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": ", I need some time to think over what we have discovered here. Please, inform the others for me."
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Now, both of you leave. I need some time alone."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "I wanted to ask you something."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "No. You need to tell your companions about Safalaan's decision. Now, get going."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Myreque prevail,."
+    },
+    {
+      "character": "Player",
+      "line": "Myreque prevail, Vertida."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I saw you head into that mausoleum with Safalaan and Vanescula. What's going on?"
+    },
+    {
+      "character": "Player",
+      "line": "Turns out this graveyard is more than just a quiet meeting place. That mausoleum contained the truth behind Safalaan's heritage."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Truth? What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan is the only living child of Efaritay Hallow, the former queen of Hallowvale."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "By Saradomin!"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Is he okay? That's quite the sudden discovery."
+    },
+    {
+      "character": "Player",
+      "line": "He wishes to be alone. In the meantime, he asked me to speak to everyone."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "He's agreed to work with her, hasn't he?"
+    },
+    {
+      "character": "Player",
+      "line": "How did you know?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I know what he's like. I've known Safalaan longer than anyone. When Vanstrom attacked him and he lost his memory, I was the one that found him."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Well, if Safalaan wants to work with Vanescula, then he has my support."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. That was easy. I was expecting you to disagree with him."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I trust Safalaan. He's made some mistakes, sure. But he's a good leader and I know he won't have made this choice lightly. Tell him he has my support all the way on this."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, thanks Vertida."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Have you spoken to the others about the plan?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm doing that now."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Well I'll let you get back to it then."
+    },
+    {
+      "character": "Player",
+      "line": "See you later."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Hello there. I hope Vanescula isn't causing trouble."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet she isn't. In fact, Safalaan has decided he wants to work with her."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "He does? Why?"
+    },
+    {
+      "character": "Player",
+      "line": "She showed him the truth about his family. That seemed to convince him."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Oh dear. I fear she is trying to manipulate him."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't agree with his decision?"
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Vanescula does not strike me as someone that fails to consider every detail of a plan. However, you must have spotted the clear holes in this scheme to kill her brother."
+    },
+    {
+      "character": "Player",
+      "line": "Like what?"
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Her plan detailed getting us in and killing her brother. But there was no mention of getting us out again. We'll have just killed the ruler of Morytania. To the vampyres, we'll be public enemy number one."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "If you ask me, I reckon that Vanescula will kill us all as soon as her brother is out of the picture."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't support the plan?"
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "I'm afraid not. Killing Lowerniel Drakan is no victory at all if he just gets replaced with his sister. Especially if it results in our demise."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. I'll see what the others think."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Hello there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. I was wondering if you'd changed your mind about working with Vanescula?"
+    },
+    {
+      "character": "Player",
+      "line": "Well maybe it doesn't have to. Radigad has a plan of his own. He thinks that once her brother is dead, we should kill Vanescula as well."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "An interesting proposal. Do you think we can do it?"
+    },
+    {
+      "character": "Player",
+      "line": "If we can kill Lowerniel, we can kill her. He's meant to be the most powerful vampyre around."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "A fair point. And I guess if we can't kill Lowerniel, what does it matter at that point. We'll all be dead."
+    },
+    {
+      "character": "Player",
+      "line": "A pleasant thought. So, are you still against the plan?"
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "I still fear it's a trap. But perhaps our best move now is to spring that trap. You've convinced me. I will support Safalaan."
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Hello there. Have you convinced the others to work with Vanescula?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Well keep at it."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey. I've been pondering what Vanescula told us about Calsidiu."
+    },
+    {
+      "character": "Player",
+      "line": "And?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "I understand why Veliaf lied at the time. We were on the brink of defeat. Without a bit of hope, we'd have probably never made it to this point."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "But I don't think we need that false hope any more. Now, we have real hope. Ranis Drakan is dead! Ranis Drakan! He was Lowerniel Drakan's own brother!"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "If Ranis can die, so can the rest. Lowerniel's days are numbered."
+    },
+    {
+      "character": "Player",
+      "line": "So you're not angry at Veliaf?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "No. He did what he believed was right. In the end, that's all any of us can do."
+    },
+    {
+      "character": "Player",
+      "line": "Well on that note, how do you feel about Vanescula's plan?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "It's dangerous, but so what? We're the Myreque, danger is what we do. I say we go for it."
+    },
+    {
+      "character": "Player",
+      "line": "It seems you're not alone with that sentiment. Safalaan wishes to work with Vanescula."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "You have my support. It's Veliaf you need to convince."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I'd better talk to him then."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey. Any luck with Veliaf?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "He can't say no forever. If everyone else is on board, he'll have to agree."
+    },
+    {
+      "character": "Player",
+      "line": "Let's hope so. Talk later Ivan."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": ". How goes it?"
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan has decided he wants to work with Vanescula."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Has he now? A good decision if you ask me."
+    },
+    {
+      "character": "Player",
+      "line": "You think so?"
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Oh yes. Here's how I see it. Vanescula is right, we can't kill her brother without her help."
+    },
+    {
+      "character": "Player",
+      "line": "I feel like there's a 'but' coming on."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "But... once the deed is done, we don't have any further need of her. We kill her as well and Morytania is finally free of that wretched family."
+    },
+    {
+      "character": "Player",
+      "line": "You heard what she said. If we kill her another vampyre could just take her place."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Well of course she said that. She needs us to believe that we need her, otherwise her whole plan is done for."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Think about it. Lowerniel Drakan is supposedly the most powerful vampyre in existence. What vampyre would dare cross the humans that killed him?"
+    },
+    {
+      "character": "Player",
+      "line": "You make a fair point. I take it you're happy to work with Vanescula then?"
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Of course! Let's rid Morytania of evil, once and for all!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working to convince the others to work with Vanescula."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "You should let them know my plan. I bet that will convince some of them."
+    },
+    {
+      "character": "Player",
+      "line": "Good idea. Thanks Radigad."
+    },
+    {
+      "character": "Player",
+      "line": "And you, Kael. I wanted to talk to you about Vanescula's plan."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Appears risky to me, friend. Vampyres are the enemy and she is a vampyre."
+    },
+    {
+      "character": "Player",
+      "line": "We take risks every day though, don't we?"
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "We do. But some we take because we have to, others because we choose to."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "We took an unnecessary risk back in Meiyerditch with Serafina. Look how that turned out. Flaygian, Mekritus and Andiess. All dead because of that risk."
+    },
+    {
+      "character": "Player",
+      "line": "Were you close to them?"
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Flaygian and Mekritus? Not particularly. They were good men, and it was sad to lose them, but we were not close."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Now, Andiess on the other hand, he and I grew up together. Before Safalaan found us, he was all I had. But now he's gone and nothing I do will ever bring him back."
+    },
+    {
+      "character": "Player",
+      "line": "Do you blame Safalaan?"
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "No. He could not have known what would happen. But that doesn't mean we should take more unnecessary risks."
+    },
+    {
+      "character": "Player",
+      "line": "This could be our only chance to kill Lowerniel Drakan. Surely that makes the risk necessary?"
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "I want to believe that, I really do. I just don't know if I'm ready to lose any more friends."
+    },
+    {
+      "character": "Player",
+      "line": "I can't promise there won't be losses. But what of the losses we've already suffered? If we don't kill Lowerniel Drakan, surely they were all for nothing?"
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "I... I guess you're right. Okay then, I'm in. Let's kill him, for Andiess, and for everyone else who's suffered because of him."
+    },
+    {
+      "character": "Player",
+      "line": "He'll regret the day he crossed the Myreque."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "I'd better not disturb you. You need to tell the others about the plan."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met. Tell me, what's Vanescula up to with Safalaan?"
+    },
+    {
+      "character": "Player",
+      "line": "Turns out Vanescula knows a lot about Safalaan. More than he knows about himself in fact."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "That mausoleum contained the truth about Safalaan's family. He is the only surviving child of Hallowvale's queen, Efaritay Hallow."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "No! It can't be!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Are you sure this isn't a trick? It could be a trap set by Vanescula?"
+    },
+    {
+      "character": "Player",
+      "line": "Possibly, though I don't think so. It all adds up. What else could explain his strange abilities?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Hmm. I guess it does fit."
+    },
+    {
+      "character": "Player",
+      "line": "That's not the only thing. Vanescula told us that Safalaan's father still lives, but as a vampyre. Vanstrom Klause."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Those monsters! How has Safalaan taken this?"
+    },
+    {
+      "character": "Player",
+      "line": "As well as can be expected. However, he has decided it's best that we work with Vanescula."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What? This is a bad idea! She is a vampyre, we can't trust her."
+    },
+    {
+      "character": "Player",
+      "line": "So you won't work with her?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "No. I'm sorry, but no. She's trying to manipulate Safalaan but I see through her lies. I can't support this."
+    },
+    {
+      "character": "Player",
+      "line": "I see."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Veliaf. Have you thought any more about working with Vanescula?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There is no more thinking to do. The answer is still no."
+    },
+    {
+      "character": "Player",
+      "line": "You know, all the others have agreed to the plan. It's just you."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "All of them? But why?"
+    },
+    {
+      "character": "Player",
+      "line": "They all have their reasons. They all seem valid reasons to me."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "But they must know that we can't trust Vanescula."
+    },
+    {
+      "character": "Player",
+      "line": "I think they know that. We do not necessarily need to trust her to work with her."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Damn it. I don't want to work with her, but I have no intention of abandoning the others to their fate. Fine. Looks like we all get to die together."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Come. I guess we should tell that vampyre that we're in."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well Vanescula, it seems you have managed to convince us. Well done."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Thank you Veliaf. Now, shall we crack on?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What must we do?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "If you want any hope of defeating my brother, you'll need the proper weaponry."
+    },
+    {
+      "character": "Player",
+      "line": "We have weaponry. We have the Ivandis Flail."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Indeed you do. Not a bad weapon by any means, but not ideal for taking on Lowerniel. He'll snap it in two before you even have a chance to use it."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "It worked well enough on Ranis."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Lowerniel is far more powerful than Ranis was. If you want to defeat him, you should take my advice."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Fine. What are you proposing?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "If I'm not mistaken, which I'm generally not, you made that weapon using research from the Haemalchemy Laboratory."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "How did you know that?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": ", who was it that helped you find that laboratory?"
+    },
+    {
+      "character": "Player",
+      "line": "Sarius Guile, your servant. Hang on... Did you send her?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Of course I did. Do you think she would have dared interact with you without my consent? Come now, surely you're smarter than that?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Anyway, I don't know much of the laboratory myself. It was Ranis that had it set up. Lowerniel wasn't very happy when he found out."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "That said, I do suspect it might have more secrets for us to discover."
+    },
+    {
+      "character": "Player",
+      "line": "So you want us to go back there?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Yes. If you are able to find further research notes, I suspect we'll find a way to upgrade that weapon of yours."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'd better be off to the laboratory then."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I would like to join you,."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Are you sure, Safalaan?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Yes. Better I be out there doing something than be stuck here brooding."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": ", do you remember how to reach the laboratory?"
+    },
+    {
+      "character": "Player",
+      "line": "It's in sector six of Meiyerditch, just south east of the daeyalt mine."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Very well. I will meet you there."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good luck to you both."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Keep an eye on Safalaan, won't you? I worry about how he's taking things."
+    },
+    {
+      "character": "Player",
+      "line": "I shall, fear not."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good. Now you should head off to that laboratory. No point wasting time."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Be quick then."
+    },
+    {
+      "character": "Player",
+      "line": "What should I be doing?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You're meant to be searching the Haemalchemy Laboratory for more research. Run along now."
+    },
+    {
+      "character": "Player",
+      "line": "Right, I'd better get going."
+    },
+    {
+      "character": "Player",
+      "line": "Why do you hate your brother?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Why wouldn't I? He's an awful leader. My kind are slowly starving to death thanks to overpopulation, but he doesn't even seem to have noticed."
+    },
+    {
+      "character": "Player",
+      "line": "Is killing him not a bit much?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Not really. It is the vampyre way. There was once a time when things were far more savage. Back on our homeworld, new clan leaders were selected during a festival known as the Night of the Blood Moon."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "It was a simple concept. A full night of killing. At dawn, the one with the most kills became the new leader. Lowerniel loved it. He won every time of course. Personally, I prefer our new way of life."
+    },
+    {
+      "character": "Player",
+      "line": "And yet you're still happy to kill him?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "We are not the beasts we were back then, but some things do not change. Like I say, it is the vampyre way."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now, did you want something else?"
+    },
+    {
+      "character": "Player",
+      "line": "That's all, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "How did Ranis capture Ascertes Hallow?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Do you know of Verzik Vitur?"
+    },
+    {
+      "character": "Player",
+      "line": "Owner of the Theatre of Blood? Who doesn't know of her?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I'd give her the credit over Ranis. The two of them shared a love for playing with their food rather than eating it. They hatched all kinds of schemes together."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "During the war, they managed to capture a justiciar, one of Efaritay's most elite warriors. They tortured him for days, until he gave them what they needed."
+    },
+    {
+      "character": "Player",
+      "line": "Which was?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "A secret tunnel, leading directly into Efaritay's castle. The tunnel was here, in this very graveyard. Once they were inside, capturing Ascertes was easy."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "In some ways, I think Lowerniel was a bit disappointed the fighting was over. The pair were still greatly rewarded, however. Verzik ended up getting Efaritay's castle. It was quite the boon for her."
+    },
+    {
+      "character": "Player",
+      "line": "Why did Lowerniel shut down the Haemalchemy Laboratory?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I can only assume he didn't like what they were doing there."
+    },
+    {
+      "character": "Player",
+      "line": "Well obviously. Could you be more specific though?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Are you familiar with their areas of research?"
+    },
+    {
+      "character": "Player",
+      "line": "Ways to overcome blood shortages and ways to improve your immunity to our weapons."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Essentially. The first might seem to benefit Lowerniel, but when you look deeper you can see why he wasn't a fan."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "For our kind to be less reliant on humans would be a fundamental change to our society. History has told us that leaders generally don't survive such a transition."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "As for the second, I think it's obvious why Lowerniel wanted to put a stop to that. Just ask Ranis why that research maybe wasn't overly wise."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I guess that makes sense."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Indeed. Of course, Lowerniel's long absences mean that a lot of research was already complete before the laboratory was shut down. Hence how you were able to use it against Ranis."
+    },
+    {
+      "character": "Player",
+      "line": "Which we were only able to do because of you. Why did you send Sarius to us?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "A test. Even back then I knew that Lowerniel needed to go. I wanted to see if a partnership with the Myreque was worth exploring."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, never mind."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Meet me at the laboratory, friend. Let's see what we can discover."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "These are dark times friend."
+    },
+    {
+      "character": "Player",
+      "line": "They are. But maybe there's a light at the end of the tunnel."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Maybe. I guess we'll find out soon enough. Be careful out there."
+    },
+    {
+      "character": "Player",
+      "line": "And you."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "We'll soon be doing battle with one of the most powerful beings in existence. How are you feeling?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm okay. How about you?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Surprisingly calm, to be honest. We may well die in this fight, but if we manage to defeat Drakan, it will be worth it."
+    },
+    {
+      "character": "Player",
+      "line": "I guess it's not a bad way to go."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Exactly."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Imagine, the death of Lowerniel Drakan. Think what that could do to these dark lands."
+    },
+    {
+      "character": "Player",
+      "line": "It's crazy to think it might actually happen."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "We've come a long way. Just one final hurdle."
+    },
+    {
+      "character": "Player",
+      "line": "And then, peace in our time."
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Let us hope, let us hope."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Hey. Looks like it's really happening. We're finally going to show Drakan what happens when you cross the Myreque."
+    },
+    {
+      "character": "Player",
+      "line": "Looks like it. How are you feeling?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Oh I'm great. I know we can do this, especially with you on our side."
+    },
+    {
+      "character": "Player",
+      "line": "I hope you're right to have faith in me."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Don't worry, I know you won't let us down."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Do you think we're ready for this?"
+    },
+    {
+      "character": "Player",
+      "line": "The fight with Drakan? Yes, I think so. We killed Ranis after all."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Lowerniel's a much bigger fish though."
+    },
+    {
+      "character": "Player",
+      "line": "He is. But it's not just me this time. This time there's all of us. And Vanescula too, assuming she doesn't betray us."
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "Let us hope."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Good to see you,. Glad you made it here safely."
+    },
+    {
+      "character": "Player",
+      "line": "And you. How are you doing?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "To be honest, I'm not sure if I've even properly taken it in yet. It's all so much. My mother, my sister... and of course, my father."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It feels strange. I feel like I should mourn, but how do I mourn a family I can't even remember?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "And Vanstrom... My greatest enemy may well be my only remaining family. I wonder, is there anything left of Ascertes now? Is part of him still in there, buried away?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Probably best not thinking about, I suppose. My job is to lead the Myreque. I can't let anything else distract me from that, not even my family."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "With all that's happened, I fear some of them may already be beginning to doubt me."
+    },
+    {
+      "character": "Player",
+      "line": "You have their support Safalaan, I know you do."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I hope so. I let them down with that Serafina business, and people died. I can't let them down again."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Anyway, let us crack on. It seems that we should be able to access more of the laboratory through the doors to the south."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "They were damaged and couldn't be opened, but I think I've managed to fix them up."
+    },
+    {
+      "character": "Player",
+      "line": "I didn't know you had a knack for Construction?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Ah, one of my hidden talents. Of course, not much room for that sort of thing around here."
+    },
+    {
+      "character": "Player",
+      "line": "That's a shame. I'm sure you'd make a great builder."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Ha! It's strange to think how differently our lives could have been, is it not? Alas, here we are."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry. Maybe now isn't the best time for these kinds of conversations."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You have a good sense of humour my friend, even in these dark times. Do not be ashamed of that. When things are darkest, a bit of light is very welcome."
+    },
+    {
+      "character": "Player",
+      "line": "I guess you're right."
+    },
+    {
+      "character": "Player",
+      "line": "Shall we get going then?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Indeed. Let's head in."
+    },
+    {
+      "character": "Player",
+      "line": "Look out!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back soon."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well just let me know when you're ready to go in."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Shall we head in?"
+    },
+    {
+      "character": "Player",
+      "line": "Let's go."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I need to prepare first."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well just let me know when you're ready."
+    },
+    {
+      "character": "Player",
+      "line": "Are you alright Safalaan?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I... I'm fine. What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "We were attacked by some bloodvelds. You used your powers to kill one."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Blasted powers! What good are powers when I have no control over them?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't be so harsh on yourself. Your powers have got us out of a couple of sticky situations now."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Yes, but what happens if I totally lose control? Will I lose my memory like that time with Vanstrom? Or will I do something even worse?"
+    },
+    {
+      "character": "Player",
+      "line": "Well now that we know the source of your powers, maybe we can find a way to help you control them."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Maybe... Let us hope we can do so before it's too late."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Bah, look at me,. I'm meant to be a leader, but I can barely control my own body. I'm like an old man."
+    },
+    {
+      "character": "Player",
+      "line": "Well... you are the son of Queen Efaritay. I guess that makes you thousands of years old."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Eugh, what an awful thought. I guess I should get myself a walking stick."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure we can arrange that."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Let's add it to the list. First though, the research we came here for. I'm afraid I'm still feeling a bit weak, so you'll have to do the heavy lifting on this one."
+    },
+    {
+      "character": "Player",
+      "line": "Oh I see how it is! You find out you're an old-timer and now I have to do all the work!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Afraid so. My poor back simply can't take it. I've no doubt you'll manage though."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. I'll have a look round and see what I can find. You stay here, old-timer."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Please stop calling me that."
+    },
+    {
+      "character": "Player",
+      "line": "I can make no promises."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think we can kill Drakan?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "To be honest, I don't know. They say he's the most powerful being in existence. The truth is though, we know pretty much nothing about him."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I guess the point is that we're in the best position possible. If we can't kill him, I suspect no one can."
+    },
+    {
+      "character": "Player",
+      "line": "We seem to be dealing with a lot of uncertainties."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Oh we are. But you play the hand you're dealt, my friend. This is our hand."
+    },
+    {
+      "character": "Player",
+      "line": "I guess. Losing a card game generally doesn't result in death though."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You should try playing against a werewolf."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think of Vanescula?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I don't trust her. She feigned affection back at the graveyard. But I know she's just doing it for her own gain."
+    },
+    {
+      "character": "Player",
+      "line": "You still chose to work with her though."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Yes. She is our only hope of defeating her brother. In truth, I'd pretty much made my choice even before she told me about my family."
+    },
+    {
+      "character": "Player",
+      "line": "That's good to know. I worried you were being too hasty after you discovered the truth."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You are not wrong to worry, friend. I may well be leading us to certain death."
+    },
+    {
+      "character": "Player",
+      "line": "Well you have our support. For better or worse."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Thank you. I appreciate it, especially from you. As an outsider, you could easily turn and run at any time. The fact that you're still here speaks volumes."
+    },
+    {
+      "character": "Player",
+      "line": "Could we talk more about your family?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Not now."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I'm sorry. I know you must have so many questions. I have plenty myself. But I need to focus right now and cannot be distracted by such thoughts."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We will talk later. You have my word."
+    },
+    {
+      "character": "Player",
+      "line": "Alright there old-timer?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I'm starting to regret praising your humour."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to be doing?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You need to try and find some more haemalchemy research. There must be something of note around here."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Any luck?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. I found some more haemalchemy research."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Good work. I'll look after it for you."
+    },
+    {
+      "character": "Player",
+      "line": "Sure. Here you go."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Right. We'd better get back to the graveyard. I'll meet you there."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. I'll see you soon."
+    },
+    {
+      "character": "Player",
+      "line": "I'm going to keep hold of it."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Come now,. We need that research. Please give it to me as soon as you can."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We should get back to the graveyard. I'll meet you there."
+    },
+    {
+      "character": "Player",
+      "line": "Still here Ivan?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Yup. Most of the others went to the Meiyerditch hideout. But I wanted to stick around."
+    },
+    {
+      "character": "Player",
+      "line": "How come?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "This graveyard is one of the last remaining examples of what Hallowvale was like. I bet there's a lot to discover here."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Maybe once Drakan is gone, we can get some proper archaeologists out here. I'm sure they could learn all sorts."
+    },
+    {
+      "character": "Player",
+      "line": "I bet they could. You holding up okay?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Oh yes. We're going to win this, I know it."
+    },
+    {
+      "character": "Player",
+      "line": "You seem very confident?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Why wouldn't I be? I have faith in Saradomin. I have faith in Safalaan and Veliaf. I have faith in you. Together, we will beat Drakan."
+    },
+    {
+      "character": "Player",
+      "line": "I do hope so."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Have faith, friend. Anyway, I'd best let you get on."
+    },
+    {
+      "character": "Player",
+      "line": "Take care Ivan."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "...of your arrogance. What makes you so sure we won't also kill you once your brother is dead?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh, you could try. Although I doubt it would end well for you."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Now this is exactly what I mean."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh lighten up would you. No sense of humour at all."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I am no fool. I am all too aware of my own weaknesses and how you could exploit them. When we take on Lowerniel, I don't intend to be alone."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I have many supporters amongst the vampyres of Darkmeyer. Your small group against all of us? The fight would be brief."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Hiding behind larger numbers? Not very honourable."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now you see, I've tried honour before. Decided it wasn't for me. Honour matters not if you're dead. I intend to keep living."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Ah, you're back. Good to see you made it okay."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Yes, yes. Wonderful to see you. Shall we get on with things?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Go ahead."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well, the research you recovered has confirmed something I have long suspected."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Which is?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Queen Efaritay was a renowned botanist. She used this to her advantage many times during the war, breeding all kinds of plant life to use against us."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "One of these plants was the Blisterwood tree. The icyene used the sap of this tree to create poisons that were deadly to vampyres."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "However, I've always suspected the tree might have other uses. Clearly the researchers in the Haemalchemy Laboratory thought the same."
+    },
+    {
+      "character": "Player",
+      "line": "So what did they find out?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "It seems that the bark of the Blisterwood tree can be used to create weapons that are deadly to my kind."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "How?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well I'm no scientist, oddly enough. But from what I can tell, even when chopped away, the wood of the tree is very much alive. It shifts and grows in unpredictable ways, rendering our immunities useless."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I see where we're going with this. You want us to use this tree to construct new weapons?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well... not quite. While not perfect, the work you've already done has potential. I see no need to completely discard it."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Instead, I suggest we use wood from the Blisterwood tree to enhance the weapons you already have. When combined with the wood, I imagine that flail of yours will be quite effective."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Perfect for killing your brother. Assuming you don't kill us first."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Again with this? I've already told you, I have no need to kill you. Once Lowerniel is gone, I envisage a new age, where my kind and yours live in harmony. I need you alive for that."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I'll believe it when I see it."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "That's fine by me."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We're getting sidetracked here. We need some wood from this Blisterwood tree. Where do we find it?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ah... that's the tricky bit. I know only of one Blisterwood tree. It lies in Efaritay's old Arboretum, in the middle of Darkmeyer."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It's in the capital? We'll have no hope of getting in there."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I don't see why we'd need to. Vanescula here can get some of this wood for us."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Really now? Do you think I have any intention of touching a tree that can kill vampyres? No. You will need to recover the wood yourself."
+    },
+    {
+      "character": "Player",
+      "line": "How?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Darkmeyer isn't as impenetrable as you might think. I know of a way you can get in. But first, you'll need a disguise."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now, luckily for us, my kind have some shapeshifting abilities. Many vampyres, such as myself, prefer to take on a human form. That means you should be able to fit in... with the right outfit of course."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Trader Sven sells vyrewatch disguises. We've used them in the past."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Not bad, but we'll want to make some adjustments. We need you looking less like a vyrewatch and more like a noble."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Polmafi knows how to use a needle. He should be able to sort us out."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Good idea., could you pick up a vyrewatch disguise from Trader Sven? He lives in sector one of Meiyerditch, directly south of Old Man Ral's house."
+    },
+    {
+      "character": "Player",
+      "line": "Will do. I'm guessing I should take it to Polmafi after that?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "That's right. He and the others have gone back to the Meiyerditch hideout, in Old Man Ral's basement."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Once you have the disguise, we will need to scent it. We will discuss that once you have it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back when I have the disguise."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You should get going friend. That disguise won't sort itself out."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. I'll see you later."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Go and buy a vyrewatch disguise from Trader Sven. His house is the one directly south of Old Man Ral's, in sector one of Meiyerditch."
+    },
+    {
+      "character": "Player",
+      "line": "And once I have the disguise?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Deliver it to Polmafi at the Meiyerditch hideout, in Old Man Ral's basement."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I shall return later."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You're meant to be working with Polmafi to create a suitable disguise. Now, off you go."
+    },
+    {
+      "character": "Player",
+      "line": "I need to look like a vampyre noble. Safalaan suggested we use a vyrewatch disguise from Trader Sven as a starting point."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "That's a good idea. Do you have a vyrewatch disguise with you?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I do."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Great. Hand it over and I'll get to work."
+    },
+    {
+      "character": "Player",
+      "line": "Here you go."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Here's your finished disguise. Be careful out there."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "There was enough material for some spares. I'll leave them in the chest in the corner in case you need more."
+    },
+    {
+      "character": "Player",
+      "line": "I'll keep it for now."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Well I can't make your new disguise until you give it to me."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Good to see you. How are things going?"
+    },
+    {
+      "character": "Player",
+      "line": "Not too bad. We've managed to recover some more haemalchemy research. We think it can be used to further improve our weaponry."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Well that's good to hear. Anything I can help with?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, actually. To make the improved weapons, I need to infiltrate the city of Darkmeyer. For that, I need a disguise. Veliaf said you'd be able to help."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "The city of Darkmeyer? Oh my! You'd better be careful."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Anyhow, yes I should be able to help. What kind of disguise do you need?"
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Do you mind fetching one?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure. I'll see if I can get one from Trader Sven."
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "Hello there. Do you have a vyrewatch disguise yet?"
+    },
+    {
+      "character": "Polmafi Ferdygris",
+      "line": "I'll be here once you have."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Do you have the disguise?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well we can't go any further then. Return once you have it."
+    },
+    {
+      "character": "Player",
+      "line": "I have it here."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Wonderful. Now, as mentioned earlier, we will need to scent this disguise. My kind have a keen sense of smell and will quickly notice an imposter if they don't smell right."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What do we need to scent it with?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Blood of course. The blood of a vyre."
+    },
+    {
+      "character": "Player",
+      "line": "So I kill a vyrewatch and use their blood to scent the disguise?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh... no, no, no. A vyrewatch will not do. We want you to blend in with the nobles. That means we need the blood of a noble."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There's a difference?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Of course. The lords and ladies of Darkmeyer won't go interacting with any old rabble."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Of course. Go on then, give us some of your blood."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Oh dear Veliaf, you misunderstand. The smell of my blood will be far too recognisable to work. We need someone a bit more obscure."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Ah yes, how silly of me to not realise. You clearly have a vampyre in mind. Spit it out."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I think we use this as an opportunity to deal with two issues in one. Damien Leucurte has become a problem that needs to be resolved. He is also a noble, albeit a lesser one."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "So we kill Damien and use his blood. Sounds good to me."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Indeed. Let's get it done., meet me outside the church in Slepe. We're going to pay Damien a little visit."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "If you want, you can use the boat to quickly get to Slepe. Should be faster than walking."
+    },
+    {
+      "character": "Player",
+      "line": "Good idea. Veliaf, I'll see you there."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Meet me outside the church in Slepe. We're going to pay Damien a little visit."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You should meet up with Veliaf in Slepe. We'll talk later."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. Until then."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You need to kill Damien Leucurte and use his blood to scent your disguise. Run along now."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met friend. Didn't think we'd be back here so soon."
+    },
+    {
+      "character": "Player",
+      "line": "I know. Not a bad thing though. Damien needs to be dealt with."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I suppose you're right. Now, I've done some scouting. It seems Damien is hiding in the manor. Interestingly, he doesn't seem to have increased his security since Kroy's death."
+    },
+    {
+      "character": "Player",
+      "line": "He may well have tried, but I bet we scared off a lot of his supporters."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "They don't want to mess with you my friend. I suspect you're becoming quite notorious amongst the vampyres."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think we should be able to access the manor easily?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Looks like it. I think we can get in through the dungeon. Let me know when you're ready and we'll head on in."
+    },
+    {
+      "character": "Player",
+      "line": "Let's do this."
+    },
+    {
+      "character": "Player",
+      "line": "Oh wait! I forgot the disguise!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well you'd better go and get it. I'll be here when you are ready."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think Safalaan is doing okay?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You tell me. You've spent more time with him since his discovery."
+    },
+    {
+      "character": "Player",
+      "line": "He seems to be okay. At least, as okay as anyone could be in that situation. He seems to still be focused, and he's not lost his sense of humour."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Maintaining a good sense of humour is common coping mechanism when dealing with shock. I hope he's not just putting on a facade. If he's struggling, he should seek our support."
+    },
+    {
+      "character": "Player",
+      "line": "You're not wrong. But that's for him to decide. He knows we are there if he needs us."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "It's good that he has people like you. I may have known him a long time, but I can't pretend to be any good at comforting people in such situations. I never manage to say the right thing."
+    },
+    {
+      "character": "Player",
+      "line": "And you think I do?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You can't be any worse than me. I'd take that as a victory."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think things will improve for him?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I don't know. He may well soon come face to face with Lowerniel Drakan, the cause of all his pain. I hope he is ready for that."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And then there's Vanstrom, of course. Their paths are likely to cross again before all this is over. And when that happens, who knows what the outcome will be."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Anyway, are you ready to deal with Damien?"
+    },
+    {
+      "character": "Player",
+      "line": "How are you feeling about working with Vanescula?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well, she hasn't killed us yet, which I consider a win. It seems she spoke the truth about wanting her brother dead."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Of course, I still fully expect her to betray us once he's gone."
+    },
+    {
+      "character": "Player",
+      "line": "But you're still willing to go ahead with this?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I wouldn't say I'm 'willing' as such, but what other choice do I have? The others want to do it and I'll be damned if I'm just going to leave them to their fates."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "That doesn't mean I haven't been considering contingencies, of course. I've asked Ivan to prepare us a teleport spell in case we need to make a hasty exit."
+    },
+    {
+      "character": "Player",
+      "line": "Seems sensible to me. Let's hope it doesn't come to that."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Indeed. But enough about Vanescula. Are you ready to deal with Damien?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back later."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Are you ready to deal with Damien?"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "So here you are. I knew it was only a matter of time before you lot showed up."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We'd hate to disappoint. It's over Damien."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Listen to your arrogance! Is this what we've become? I remember when we commanded respect. Your kind would cower in fear at the sight of us!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Once, yes. But now, we are not the ones cowering."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "You think I'm afraid? I am a lord of Darkmeyer. I am fear!"
+    },
+    {
+      "character": "Player",
+      "line": "A lord of Darkmeyer? Isn't a lord meant to have followers? Looks like yours have run away."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Cowards! That's what they are. I was their saviour! When our great leaders abandoned us, I was the one that kept them fed!"
+    },
+    {
+      "character": "Player",
+      "line": "And now you're nothing."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Face it Damien, you're out of time. There's nowhere to run."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "That is true for all of us!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Time to see what you're really made of!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Crombwick! You will support me!"
+    },
+    {
+      "character": "Lord Crombwick",
+      "line": "What? But I can't..."
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "You can and you will!"
+    },
+    {
+      "character": "Damien Leucurte",
+      "line": "Come on then! This ends now!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Got what you need?"
+    },
+    {
+      "character": "Player",
+      "line": "Looks like it."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good. I don't want to stick around this place any longer than needed. I will meet you back at the graveyard."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think this means for Slepe?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The death of Damien can't do any harm. That said, don't expect this to suddenly fix everything around here. The Sleeper Plague isn't the only illness in this town."
+    },
+    {
+      "character": "Player",
+      "line": "You mean their religion?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I do. The people here chose to follow Zamorak. A choice like that has consequences. Bad ones."
+    },
+    {
+      "character": "Player",
+      "line": "You think they are being punished?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Not exactly. I don't believe in fate myself. I'm sure someone like Drezel would say otherwise, though. I just think that if you play with fire, you're going to end up getting burnt."
+    },
+    {
+      "character": "Player",
+      "line": "So do you think the Sleeper Plague will go away now?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well there shouldn't be any new cases now that Damien and Kroy are gone. That won't help those already infected though."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe there's a cure."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Maybe. I suspect this town holds a lot of secrets... but now is not the time to explore them. We have other business to attend to."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see you at the graveyard."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see you there"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "No need for us to stick around this place any more. I will meet you back at the graveyard."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I sent some of Damien's blood to Polmafi. Speak to him if you need a replacement disguise."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well well, the vampyre slayer returns. Two of my brothers, now Damien as well. Quite the body count you're amassing."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Two of your brothers?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Did you not know? here isn't just responsible for killing Ranis. He also killed our younger brother, Draynor."
+    },
+    {
+      "character": "Player",
+      "line": "Count Draynor, he called himself. He wasn't much of a challenge compared to Ranis and Damien, truth be told."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Ah yes, the great 'Count' Draynor. He loved his stupid titles. He was weak even before he got trapped on the wrong side of the Salve. A coward as well."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "There's a reason Lowerniel had him banished. I'm just surprised he lasted as long as he did."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now, I assume you have a finished disguise?"
+    },
+    {
+      "character": "Player",
+      "line": "I do."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Wonderful. Now we're getting somewhere. With that disguise, you should be ready to enter Darkmeyer."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "But how does he get into the city? The place is a fortress."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Almost, but not quite. I know of a small weakness in the southern wall. A crack, in sector six of Meiyerditch, just north of the daeyalt mine."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "It should be big enough for you to squeeze through, as long as you haven't recently eaten an excess of cakes."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Seems suspiciously convenient. Why hasn't the crack been filled in?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "My kind are struggling to feed themselves. They've currently got bigger worries than cracks in walls."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Besides, up until now, why would any human even consider entering Darkmeyer? Perhaps you hadn't noticed, my kind is not known for treating humans well."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Although you expect us to live in harmony once this is done. How are we meant to achieve that when each side hates the other?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I never said it would be easy. I don't expect us to kill my brother and then have a big party. It will be work, but given time, that work will pay off."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We'll see."
+    },
+    {
+      "character": "Player",
+      "line": "So that aside, I can use this crack to enter Darkmeyer? What then?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You'll need to get to Efaritay's Arboretum in the middle of the city. The city architects gave it facelift to help it blend in, but it's still impossible to miss."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Once inside, you'll need to chop some logs from the Blisterwood tree. We'll need enough to arm everyone, so eight logs in total."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now, whatever happens, you must not let your true identity be exposed. If a member of the Myreque was found in Darkmeyer, the entire city would be locked down."
+    },
+    {
+      "character": "Player",
+      "line": "Any tips for blending in?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well keep your disguise on for a start. You'll want a suitable name as well. Your current one isn't very fitting. If anyone asks, you're called."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": ". It suits you,."
+    },
+    {
+      "character": "Player",
+      "line": ", right. Anything else I should know?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I expect you to see many things you consider undesirable while in Darkmeyer, especially where your kind are concerned."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "While you may be tempted to get involved, don't. Stay in character no matter what."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back once I have the logs. Wish me luck."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Good luck. Myreque prevail."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Myreque prevail."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You should get going friend. Darkmeyer awaits."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good luck. Myreque prevail."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Be careful in Darkmeyer, friend. I can't even imagine how dangerous that city is."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I shall be."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You need to infiltrate Darkmeyer and recover eight logs from the Blisterwood tree. Now, off you go."
+    },
+    {
+      "character": "Player",
+      "line": "Hey there."
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "I'm not interested in making small talk."
+    },
+    {
+      "character": "Player",
+      "line": "Suit yourself."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "To go in the Arboretum."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Well you can't."
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Because nobody can go in the Arboretum."
+    },
+    {
+      "character": "Player",
+      "line": "That can't be true. Someone must be allowed in?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Player",
+      "line": ". I'm new here."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Clearly. Well, you're wrong. No one can go in the Arboretum, by order of the Drakan family themselves."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Why do you want to go in, anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you actually care?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "No, but I have a job to do."
+    },
+    {
+      "character": "Player",
+      "line": "What will it take for you to let me in? There must be something you want. Do you want money?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "I have no need for your money."
+    },
+    {
+      "character": "Player",
+      "line": "What then?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Eugh, fine! There's something I need doing. Get it done for me and I'll grant you access."
+    },
+    {
+      "character": "Player",
+      "line": "Great! What do you need?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "There's a juvinate who was meant to deliver something to me. He hasn't shown up. Find him and tell him that Desmodus Lasiurus is getting impatient."
+    },
+    {
+      "character": "Player",
+      "line": "Sure thing! What's he meant to be delivering?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Some slaves. You heard of Gadderanks? He was some human that Vanstrom used to help collect blood tithes."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Well, he went and got himself killed by the Myreque. Vanstrom owed me a favour so he agreed to let me have his wife and child."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... I see."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "You got a problem?"
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Good. Mordan Nikazsi is the juvinate you're looking for. He'll be somewhere in the lowest tier of the city. Now, get lost!"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "What are you doing?"
+    },
+    {
+      "character": "Player",
+      "line": "Trying to enter the Arboretum."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Did you find Mordan Nikazsi?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Why are you here then? He'll be somewhere in the lowest tier of the city. Go find him!"
+    },
+    {
+      "character": "Player",
+      "line": "I did."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "He sold your slaves to Alexei Jovkai."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "That filthy wretch! I'll have him killed for this! Go find my slaves and bring them to me!"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you Mordan Nikazsi?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Yes, what of it?"
+    },
+    {
+      "character": "Player",
+      "line": "Desmodus Lasiurus sent me."
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Oh great, just what I need."
+    },
+    {
+      "character": "Player",
+      "line": "He wants his slaves. When are you planning to deliver them?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "I'm not. He shan't be getting his slaves."
+    },
+    {
+      "character": "Player",
+      "line": "Err... Why not?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Because I sold them to someone else."
+    },
+    {
+      "character": "Player",
+      "line": "What? Why?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Why? Because I'm starving that's why! You lords and ladies probably haven't noticed yet, but you will soon enough. It's only a matter of time before you all run out of blood as well!"
+    },
+    {
+      "character": "Player",
+      "line": "So you sold them for blood? Did you not think Desmodus would notice?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "If I didn't do something I'd have been dead anyway. Better a quick death at Desmodus' hands than a slow one due to starvation!"
+    },
+    {
+      "character": "Player",
+      "line": "Look I don't care what happens between you and Desmodus, I just need to recover those slaves. Who did you sell them to?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Don't waste your time, you won't get them back."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Because I sold them to Lord Alexei Jovkai, one of the most powerful vampyres in the city. He looks at you the same way you look at me. He'll never let you have them."
+    },
+    {
+      "character": "Player",
+      "line": "We'll see. Where can I find him?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "He lives in the upper part of the city, but the slaves won't be there. He has a prison north of the Arboretum. That's where you'll find them."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like I need to visit this prison then."
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Fine."
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Why are you back again?"
+    },
+    {
+      "character": "Player",
+      "line": "Remind me, where can I find Desmodus' slaves?"
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "They're not his slaves. They belong to Alexei Jovkai now. He'll be keeping them in his prison north of the Arboretum."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "Mordan Nikazsi",
+      "line": "Go away then."
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Leave me alone. I have a job to do."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Is your name Gadderanks?"
+    },
+    {
+      "character": "Maria Gadderanks",
+      "line": "Yes... I'm Maria Gadderanks. But... You're not one of Lord Jovkai's lot."
+    },
+    {
+      "character": "Player",
+      "line": "No I'm not. Are you doing okay?"
+    },
+    {
+      "character": "Maria Gadderanks",
+      "line": "I... I think so. We only arrived here a short while ago, but they've already given us food and some new clothes for Ron."
+    },
+    {
+      "character": "Player",
+      "line": "Wait... What?"
+    },
+    {
+      "character": "Prisoner",
+      "line": "You must be new around here. Lord Jovkai isn't like the rest of your lot. He keeps us well looked after."
+    },
+    {
+      "character": "Player",
+      "line": "He's taking care of you?"
+    },
+    {
+      "character": "Prisoner",
+      "line": "Oh yes. A nice bed, good food and clean clothes. All he asks in return is a bit of blood from time to time. Lovely guy."
+    },
+    {
+      "character": "Player",
+      "line": "I don't..."
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Hey you! What are you doing?"
+    },
+    {
+      "character": "Player",
+      "line": "I was just talking to the... prisoners?"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Well clear off! These are Lord Jovkai's personal tithes."
+    },
+    {
+      "character": "Player",
+      "line": "But..."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "What's all this noise? What's going on in here?"
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "It's this vyre, my lord. They're here to cause trouble."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "You! Who are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm. And I'm not here to cause any trouble, thank you very much."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "I will be the judge of that,. Now, why are you here?"
+    },
+    {
+      "character": "Player",
+      "line": "These prisoners of yours, they were promised to Desmodus Lasiurus."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "Who?"
+    },
+    {
+      "character": "Player",
+      "line": "He's a guard at the Arboretum."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "Ah, so he's a nobody. Well, these prisoners are mine, I paid for them. You'll have to tell him to find some different ones."
+    },
+    {
+      "character": "Maria Gadderanks",
+      "line": "Yes... It seems nice here. We'd like to stay."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Jovkai! What's going on here?"
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "Nothing for you to concern yourself with Vanstrom. I have this under control."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "It doesn't seem that way."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "Tell me, is it now protocol for the head of the vyrewatch to come and investigate every disturbance?"
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "Surely you have bigger problems, like the blood shortages amongst the commoners?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "As it so happens I was on my way to the lower city to look into that very issue. However, on my way past, I heard shouting."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "And you decided to investigate? How convenient. Tell me, is Lord Drakan really so interested in my business that he's now having you spy on me?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "You're paranoid, Jovkai. Lord Drakan doesn't care about you."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "No. Many are starting to wonder if he cares about any of us."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Careful there, Jovkai. Now tell me, what's happening here?"
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "This vyre was trying to steal some of my prisoners. I was having them removed."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Hang on... I know those humans. That's the Gadderanks family. They don't belong to you."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "What do you mean? I paid for them!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "That doesn't make them yours. These prisoners belong to Desmodus Lasiurus. You will have them returned to him at once."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "Or what? You don't get to order me around!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "You may be a lord, but you still answer to the Drakan family. That means you also answer to me."
+    },
+    {
+      "character": "Lord Alexei Jovkai",
+      "line": "And what do you think Lasiurus will do with them if I give them to him? They're safe here. They'll be looked after."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I do not care what Lasiurus does with them any more than I care about you and your weird tendencies."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Now, we're done here. See that the prisoners are returned, or I'll have this place shut down."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "You there, vyre!"
+    },
+    {
+      "character": "Player",
+      "line": "Ye... Yes?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "You will return to Lasiurus and tell him that his prisoners are on their way."
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Good."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Wait... Your voice, vyre. It sounds... familiar."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "What is your name?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Clearly. Which makes me wonder why I'd know your voice."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Turn and face me. I want to get a good look at you."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Turn, and face me. I will not ask again."
+    },
+    {
+      "character": "Player",
+      "line": "I..."
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "Vanstrom!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Eugh, what now Guile?"
+    },
+    {
+      "character": "Sarius Guile",
+      "line": "Forgive me for the interruption, but Lady Vanescula has urgent need of you."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Fine. My business here is done, regardless."
+    },
+    {
+      "character": "Maria Gadderanks",
+      "line": "I thought we might do okay here but I guess we have another new owner now."
+    },
+    {
+      "character": "Vyrewatch",
+      "line": "Why are you still here? Go tell Lasiurus that his slaves will be with him soon."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Have you sorted my slaves out?"
+    },
+    {
+      "character": "Player",
+      "line": "It's all dealt with. They'll be with you soon."
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Good. Maybe you're not as useless as you look."
+    },
+    {
+      "character": "Player",
+      "line": "I can go in the Arboretum now, then?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Yes. Just don't tell anyone I let you in."
+    },
+    {
+      "character": "Player",
+      "line": "Can I go in the Arboretum?"
+    },
+    {
+      "character": "Desmodus Lasiurus",
+      "line": "Yes. Now leave me alone."
+    },
+    {
+      "character": "Banker",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to access my bank account."
+    },
+    {
+      "character": "Banker",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "No?"
+    },
+    {
+      "character": "Banker",
+      "line": "Newcomers aren't allowed to use the bank. Come back once you've earned our trust."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have time to poke around down there. I have work to do."
+    },
+    {
+      "character": "Player",
+      "line": "Now's not the time for searching through corpses. I have work to do."
+    },
+    {
+      "character": "Player",
+      "line": "What are you selling?"
+    },
+    {
+      "character": "Vendor",
+      "line": "To you? Nothing."
+    },
+    {
+      "character": "Vendor",
+      "line": "You're new here. I don't sell to new blood. Make a name for yourself and maybe I'll reconsider."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You're back. Do you have the logs?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well run along then. We need eight logs from the blisterwood tree."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have them here."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Good work. Did it all go okay?"
+    },
+    {
+      "character": "Player",
+      "line": "It was a bit close at times. But I managed it."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "A bit close? You nearly blew everything with your little run in with Vanstrom. It was a good job I had Sarius keep an eye on you."
+    },
+    {
+      "character": "Player",
+      "line": "Spying on me?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I just wasn't convinced you'd be able to do the job. It seems I was right to be cautious."
+    },
+    {
+      "character": "Player",
+      "line": "I had it under control. By the way, where is Safalaan?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "He said he needed a walk. I told him not to, but he insisted he'd be fine."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You worry too much. Safalaan is a big boy."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Now,. Time to get these weapons made."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to do?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I've given your friend Vertida the required information. He will show you what to do."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "He's at the Meiyerditch hideout. Make sure to take the logs with you. The others need them for their own weapons."
+    },
+    {
+      "character": "Player",
+      "line": "Right then. I'll be back once the weapons are made."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Deliver those blisterwood logs to Vertida in the Meiyerditch hideout. He'll show you how to make the new weapons out of them."
+    },
+    {
+      "character": "Player",
+      "line": "Right, I'll be back later."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You're meant to be working with Vertida to make the blisterwood weaponry. Run along now."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I hear you're meant to be bringing us some logs. Do you have them?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "I'll be here once you have them. We need eight in total."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Great. Could I have seven of them?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Right, we're going to be using these logs to make blisterwood sickles. That's what most of us will be using in the battle."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "However, I think you'll be able to swap out the sickle on your flail for a blisterwood one."
+    },
+    {
+      "character": "Player",
+      "line": "A blisterwood flail. I like the sound of that. So how do we make these sickles?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "It should be very similar to how you made your emerald sickle. First, you'll want a blessed silver sickle. We have plenty in the crate over there."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "You'll want to take your blessed sickle and use a chisel to embed a ruby in it. You'll need to get your own ruby I'm afraid."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Once that's done, you'll need to enchant the ruby sickle using a ruby enchant spell."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Finally, you'll need to use a knife to combine your sickle with the blisterwood logs. That will give you a blisterwood sickle."
+    },
+    {
+      "character": "Player",
+      "line": "And then I can attach that to my flail?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Exactly. If you need any help, just let me know."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get started."
+    },
+    {
+      "character": "Player",
+      "line": "I'll keep them for now."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Well let me know when you're ready to hand them over."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "How's it going?"
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to do again?"
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "First you'll want to take a blessed silver sickle and use a chisel to embed a ruby in it. There's some blessed sickles in a crate here but you'll need to get your own ruby."
+    },
+    {
+      "character": "Vertida Sefalatis",
+      "line": "Finally, you'll need to use a knife to combine your sickle with the blisterwood logs. That will give you a blisterwood sickle that you can attach to your flail."
+    },
+    {
+      "character": "Player",
+      "line": "Great. I'll get going."
+    },
+    {
+      "character": "Player",
+      "line": "Good, thanks."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met,. Do you have your weapon?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well off you go then. You'll need it before we go any further."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well met,. I'm guessing you have your weapon?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. I'm prepared."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And you took the logs to the others?"
+    },
+    {
+      "character": "Player",
+      "line": "I did indeed."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Then we are ready."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Safalaan isn't back yet."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where he went?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "There's a path just north of the graveyard. He went for a walk in that direction."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see if I can find him."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Don't take too long."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "You need to try and find Safalaan. He went for a walk just north of the graveyard."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back once I've found him."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You're meant to be finding Safalaan. Off you go."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "."
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "So this is it. All these years of fighting. All these years of running. It all ends today. One way or another."
+    },
+    {
+      "character": "Player",
+      "line": "One way or another."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You seem troubled?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess that makes two of us."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Ha! Well, I asked first."
+    },
+    {
+      "character": "Player",
+      "line": "Do you remember Gadderanks?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "The human that worked with Vanstrom? Didn't you and Veliaf kill him?"
+    },
+    {
+      "character": "Player",
+      "line": "We did. Before he died though, he helped us. In return, he asked us to help his family."
+    },
+    {
+      "character": "Player",
+      "line": "I found them, in Darkmeyer. They were in a prison, albeit a nice one. The vampyre that owned it looked after his tithes."
+    },
+    {
+      "character": "Player",
+      "line": "They're not there anymore though, thanks to me. Another vampyre has them now. One that I don't imagine will show any kindness to them."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I assume you had no choice?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. It was the only way for me to get into the Arboretum. That doesn't change what I did, though. I broke my promise to a dying man."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "A man that worked for the vampyres."
+    },
+    {
+      "character": "Player",
+      "line": "Because he had no other choice. Vanstrom would have killed his family otherwise."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "We make the hard choices to spare others from having to."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. But this time we weren't the ones who paid for it."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "When Drakan is gone, and Morytania is free, it will all be worth it."
+    },
+    {
+      "character": "Player",
+      "line": "If Vanescula keeps her word."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Indeed."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that's me. Your turn."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "It's possible we will encounter Vanstrom today."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "And I wonder... is there anything left of the man he once was?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Does the process of vampyrification destroy everything that makes us human? Or does it just hide it?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Maybe we'll never know. And yet..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Our whole order was built upon hope. A hope so small, it might as well have not even existed. But that never stopped us."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "I still cling on to some hope for him. Is that wrong?"
+    },
+    {
+      "character": "Player",
+      "line": "It's rarely wrong to hope."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Well... We could stand here forever, watching the world go by. It's just delaying the inevitable."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Time to end it."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Oh... One last thing,."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Thank you, for everything. It's been a pleasure."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Come. Let us return to the others."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well it looks like everything is ready."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Yes. Everyone has one of the new blisterwood sickles. They are all prepared."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Good. Here's what's going to happen."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "From here, I will teleport our group to the Darkmeyer Arboretum. There, we will join with some vyres loyal to me."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "We will take your group to Castle Drakan as our prisoners. Once inside, my vyres will ensure no one enters while we deal with my brother."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "And then?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Once Lowerniel is dead, I will teleport you all back here again. I will then announce his death to my kind and take his place as the ruler of Morytania."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "From there, we will start to build our new kingdom, together."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Yes we will."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Make sure you're ready for this,. Once we start, there's no going back."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Good, good. Once you are ready, let me know and we will begin."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "This is it. This is the day we've spent so long fighting for. Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "Myreque prevail."
+    },
+    {
+      "character": "Player",
+      "line": "I need more time to prepare."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well don't take too long. Return once you are ready."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Are you ready to deal with my brother?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "So this is it. End of the line. Good luck. I'll see you on the other side."
+    },
+    {
+      "character": "Player",
+      "line": "Good luck Ivan. Myreque prevail."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Vanescula? What's going on here?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Vanstrom. I am here with a gift for my brother."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "But... that's the Myreque."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Yes. All the Myreque."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I don't understand. How?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Your efforts were valiant, Vanstrom. But alas, they were unsuccessful. I decided to take matters into my own hands, using a new tactic."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I negotiated with them. Convinced them that I was on their side. After that, bringing them in was trivial."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I... I'm sorry my lady, but this just seems too good to be true."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Well it is true. Now, if you'll excuse me, I'd best be getting inside."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "But..."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "I rememeber when I was young. Our father would take me out into the woods, hunting."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "That was where I truly discovered what it meant to be alive."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "The constant fear. That knowledge that if you fail, your very life may well be over."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "But then at the same time, the thrill. The thrill of the chase. Of the conquest. Nothing can match it."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "One day, he decided to bring my sister along. He felt it was time for her to develop her own taste for the hunt."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "She was a natural. A raw talent I had never seen before, and rarely since. I felt a unique pride that day."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "That wasn't all, of course. There were so many things she excelled at. So many talents."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "But lying, Vanescula?"
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Lying was never one of them."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Brother. I don't..."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Tell me, Vanescula. What is the cause of this latest betrayal? How is it I have displeased you this time?"
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I don't know what..."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Vanescula, please. This veil of lies is thinner than the humans you feast upon."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Now, the truth."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "I..."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Alright."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "You have been gone too long, brother. While you spend your days hidden away, lamenting about that stupid rock, our kind suffer."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Out there, in your city, they're starving. There's not enough blood to go around and their great leader is unwilling to provide a solution."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "Something has to change, or we're doomed."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Vanescula, my dear sister. You disappoint me."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "You and your kind, you have spent your years engrossing yourself in culture, in aristocracy. Pretending to be something you're not."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "And in that time, you have forgotten something."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Allow me to remind you."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "I am Lowerniel Vergidiyad Drakan, ruler of Morytania and the lord of Vampyrium."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "And when you play your games of politics, you do not do so because you're smarter than me."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "When you weave your words and make your schemes, you are not getting the better of me."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "No. You do these things only because I allow it. Because your plots are so insignificant to me, that I do not even care to pay attention to them."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "But now Vanescula, now you have my attention. And now, you will be reminded what it means to cross the lord of Vampyrium."
+    },
+    {
+      "character": "Vanescula Drakan",
+      "line": "No!"
+    },
+    {
+      "character": "Radigad Ponfit",
+      "line": "Let's get him!"
+    },
+    {
+      "character": "Kael Forshaw",
+      "line": "For Andiess!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "No! Wait!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Kael! Vertida!"
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Vanstrom."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "My... my lord?"
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Are you still loyal?"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Yes, my lord."
+    },
+    {
+      "character": "Lowerniel Drakan",
+      "line": "Good. Deal with the rest of this. My sister and I have much to discuss."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I've waited a long time for this day. The day that the Myreque finally die."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "There'll be no hellhounds or abominations this time though. This time..."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "...I'll deal with you myself."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Wait!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Safalaan don't!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Well, well. Safalaan Hallow."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "How long I have wished to end your pitiful life..."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Stop! Just stop for a moment and think. This isn't who you really are!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "You had a life before all of this. A life as Ascertes Hallow, my father."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Please! Think back to those days. Think back to who you used to be."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "You talk too much."
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Shall we begin?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "We need to get back to Darkmeyer."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Well be quick about it."
+    },
+    {
+      "character": "Player",
+      "line": "But I've lost my flail."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Luckily for you, I had another made. Although I'll have to charge you for it."
+    },
+    {
+      "character": "Player",
+      "line": "How much?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "40,000 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I'll be here when you do."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Here you go. Now, are you ready?"
+    },
+    {
+      "character": "Player",
+      "line": "That's a bit too much for me. I guess I'll make myself another one instead."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I've managed to retrieve some of your things. I imagine you'll want them back."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "I don't have anything for you friend. If I did have any of your items, but you died before collecting them, they'll now be lost."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Enough! Stop this!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Stop? And why would I want to do that?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "Father, please. You must remember something? Anything!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "Remember? I remember everything!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I remember how weak Ascertes was! The pathetic love he had for his wife, for his children!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "I remember how good it felt! To be uplifted! To be made something more!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No!"
+    },
+    {
+      "character": "Vanstrom Klause",
+      "line": "And I remember the joy when I took your sister's skull and crushed it with my bare hands!"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "No! No! No!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Safalaan!"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Veliaf..."
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "! Safalaan! We need to go!"
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan?"
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What... What have I done?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Ivan, teleport him out of there!"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "I can't! He's too far away!"
+    },
+    {
+      "character": "Player",
+      "line": "Safalaan please."
+    },
+    {
+      "character": "Safalaan Hallow",
+      "line": "What have I done?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "Damn you Safalaan! Damn you!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": ", get over here! We need to go. Now!"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "He... He killed them. All of them."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Veliaf, what do we do?"
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Veliaf?"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "What do we do? There's nothing we can do. Don't you see, Ivan? It's over. They've won."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "But we can't give up. We're the Myreque!"
+    },
+    {
+      "character": "Veliaf Hurtz",
+      "line": "The Myreque are dead."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "He's gone. They've all gone."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "I'm sorry,. I need some time alone."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure? I could take you back to Paterdomus."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "No. I'm staying here."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Take this. It's not much, but it's all I can offer."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": "Now, please. I'd like to be alone."
+    },
+    {
+      "character": "Ivan Strom",
+      "line": ". I have a tome here that I think belongs to you."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, Ivan."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Banker",
+      "description": "Adult male, British accent, professional and detached tone, a bank employee who serves customers with formal efficiency."
+    },
+    {
+      "name": "Carl",
+      "description": "Adult male vampyre, Eastern European accent, suspicious and evasive tone, a barkeep secretly serving drugged drinks under orders from his vampyre masters."
+    },
+    {
+      "name": "Damien Leucurte",
+      "description": "Ancient male vampyre, Eastern European accent, cruel and calculating tone, a lesser noble with sharp fangs and an unsettling stare who orchestrated the Sleeper Plague."
+    },
+    {
+      "name": "Desmodus Lasiurus",
+      "description": "Adult male vampyre, Eastern European accent, disgruntled and authoritative tone, a guard who dislikes his job but possesses enough standing to claim slaves."
+    },
+    {
+      "name": "Drezel",
+      "description": "Middle-aged male, British accent, gentle and devout tone, a holy monk who guards the temple at Paterdomus and aids those fighting the darkness of Morytania."
+    },
+    {
+      "name": "Hameln the Jester",
+      "description": "Adult male, British accent, whimsical yet caring tone, a traveling jester from the west who tends to his plague-stricken companion with surprising compassion."
+    },
+    {
+      "name": "Ivan Strom",
+      "description": "Young adult male, British accent, earnest and devout tone, an aspiring priest who joined the resistance after vampyres killed his parents."
+    },
+    {
+      "name": "Kael Forshaw",
+      "description": "Adult male, British accent, determined and vigilant tone, a fighter for the Myreque who guards the resistance hideout in Meiyerditch."
+    },
+    {
+      "name": "Kroy",
+      "description": "Adult male vampyre, Eastern European accent, cold and scientific tone, a worn alchemist who created the Elixir of Everlasting without moral constraint."
+    },
+    {
+      "name": "Lord Alexei Jovkai",
+      "description": "Ancient male vampyre, Eastern European accent, surprisingly gentle tone, a noble who treats his human captives with unusual kindness and tenderness."
+    },
+    {
+      "name": "Lord Crombwick",
+      "description": "Adult male, British accent, fearful and submissive tone, a weak-willed nobleman who has been broken and dominated by a vampyre lord."
+    },
+    {
+      "name": "Lowerniel Drakan",
+      "description": "Ancient male vampyre, deep Eastern European accent, imperious and volatile tone, the ruthless dictator of Morytania who values the hunt above all else."
+    },
+    {
+      "name": "Maria Gadderanks",
+      "description": "Adult female, British accent, frightened and desperate tone, a widow imprisoned alongside her son after her husband's death left them unprotected."
+    },
+    {
+      "name": "Mordan Nikazsi",
+      "description": "Adult male vampyre, Eastern European accent, pragmatic and self-serving tone, a low-ranking juvinate willing to bend rules for his own survival."
+    },
+    {
+      "name": "Polmafi Ferdygris",
+      "description": "Middle-aged male, British accent, thoughtful and measured scholarly tone, an intellectual advisor who looks more like a librarian than a fighter."
+    },
+    {
+      "name": "Prisoner",
+      "description": "Adult, British accent, weak and hopeless tone, a captive human drained of hope after prolonged imprisonment by vampyres."
+    },
+    {
+      "name": "Radigad Ponfit",
+      "description": "Adult male, British accent, quick-tempered and vengeful tone, an agile mercenary fighter from Asgarnia who burns with hatred for vampyres."
+    },
+    {
+      "name": "Safalaan Hallow",
+      "description": "Adult male half-Icyene, British accent, charismatic and determined tone, a tall mysterious leader of the Myreque with hidden powers he doesn't fully understand."
+    },
+    {
+      "name": "Sarius Guile",
+      "description": "Adult female, British accent, quiet and calculating tone, a humble servant of Vanescula who is more capable and important than she appears."
+    },
+    {
+      "name": "Vampyre Juvinate",
+      "description": "Adult vampyre, Eastern European accent, hungry and aggressive tone, a transformed human who retains some intelligence but is driven by predatory instincts."
+    },
+    {
+      "name": "Vanescula Drakan",
+      "description": "Ancient female vampyre, Eastern European accent, intelligent and manipulative tone, an ambitious noble who plots against her own brother for power."
+    },
+    {
+      "name": "Vanstrom Klause",
+      "description": "Ancient male vampyre, Eastern European accent, sinister and menacing tone, a ruthless murderer who delights in terrorizing the resistance and hunting humans."
+    },
+    {
+      "name": "Veliaf Hurtz",
+      "description": "Middle-aged male, British accent, bold and commanding tone, a devout Saradominist and resourceful leader of the Myreque resistance dedicated to defeating vampyres."
+    },
+    {
+      "name": "Vendor",
+      "description": "Adult, British accent, weary merchant tone, a trader trying to make a living in the oppressed lands of Morytania."
+    },
+    {
+      "name": "Vertida Sefalatis",
+      "description": "Adult male, British accent, quiet and war-weary tone, a skilled ranger who serves as second-in-command of the Sanguinesti Myreque with keen tactical awareness."
+    },
+    {
+      "name": "Vyrewatch",
+      "description": "Adult vampyre, Eastern European accent, cold and demanding tone, a flying enforcer who patrols Meiyerditch collecting blood tithes from terrified citizens."
+    },
+    {
+      "name": "Werewolf",
+      "description": "Adult, deep growling voice with Eastern European undertones, feral and aggressive tone, a savage shapeshifter loyal to the vampyre lords of Morytania."
+    }
+  ]
+}

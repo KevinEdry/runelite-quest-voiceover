@@ -1,0 +1,1684 @@
+{
+  "branch": "quest/icthlarins-little-helper",
+  "quest_name": "Icthlarin's Little Helper",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Good day, wanderer."
+    },
+    {
+      "character": "Wanderer",
+      "line": "Hello to you too, adventurer."
+    },
+    {
+      "character": "Cat",
+      "line": "Hiss!"
+    },
+    {
+      "character": "Wanderer",
+      "line": "Aghhh get that cat away from me. Quickly please."
+    },
+    {
+      "character": "Player",
+      "line": "Why? What's your problem with it?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "Just take it away please. Take it away. If you do, I'll tell you of the secret passageway."
+    },
+    {
+      "character": "Player",
+      "line": "What secret passage?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "Get the cat away from me first and then I'll tell you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, now where is this passage?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "It's by that group of rocks just to the north east, but you won't be able to enter. Well, not yet anyway..."
+    },
+    {
+      "character": "Player",
+      "line": "Where does it lead to?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "To Sophanem, the city of the dead."
+    },
+    {
+      "character": "Player",
+      "line": "Sophanem?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "The second city of the Menaphites, full of giant monuments to their departed."
+    },
+    {
+      "character": "Wanderer",
+      "line": "The place is locked down at the moment, so the passage is the only way in. Apparently, they've been hit by a set of plagues. That pathetic new High Priest of Icthlarin is probably to blame."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... Tell me about this Icthlarin."
+    },
+    {
+      "character": "Wanderer",
+      "line": "No!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Well fair enough then."
+    },
+    {
+      "character": "Player",
+      "line": "So why do you say I won't be able to enter the passage?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "First bring me some supplies and then I'll tell you. I'm running low and I'm about to embark on a long journey."
+    },
+    {
+      "character": "Player",
+      "line": "What do you need?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "Get me a full waterskin and a tinderbox. I seem to have lost my own and these desert nights are very cold."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. I actually have those on me already."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll get you your supplies."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I've got other things to do."
+    },
+    {
+      "character": "Wanderer",
+      "line": "Fool! Only I can give you the knowledge on the secret passageway!"
+    },
+    {
+      "character": "Cat",
+      "line": "Hiss"
+    },
+    {
+      "character": "Wanderer",
+      "line": "Get that cat away from me!"
+    },
+    {
+      "character": "Wanderer",
+      "line": "You again. Do you have my supplies?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. I have them here."
+    },
+    {
+      "character": "Player",
+      "line": "What did you need again?"
+    },
+    {
+      "character": "Wanderer",
+      "line": "Bring me a full waterskin and a tinderbox."
+    },
+    {
+      "character": "Player",
+      "line": "Yuck! It smells like there's dead cats in there or something. I'm not going in."
+    },
+    {
+      "character": "Wanderer",
+      "line": "Good... Now, look into my eyes..."
+    },
+    {
+      "character": "Wanderer",
+      "line": "Look deeply into them..."
+    },
+    {
+      "character": "Wanderer",
+      "line": "Don't blink..."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, my poor head. What's going on?"
+    },
+    {
+      "character": "Player",
+      "line": "How did I get here? That wanderer... This is her doing!"
+    },
+    {
+      "character": "Klenter",
+      "line": "You foul thief, return what is mine!"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Klenter",
+      "line": "You heard me! Restore what you have stolen from my tomb!"
+    },
+    {
+      "character": "Player",
+      "line": "But..."
+    },
+    {
+      "character": "Klenter",
+      "line": "Wooo wooo wooooo!"
+    },
+    {
+      "character": "Klenter",
+      "line": "Spawn of evil!"
+    },
+    {
+      "character": "Klenter",
+      "line": "Organ snatcher!"
+    },
+    {
+      "character": "Klenter",
+      "line": "Thief!"
+    },
+    {
+      "character": "Klenter",
+      "line": "Evil doer!"
+    },
+    {
+      "character": "Klenter",
+      "line": "Grave defiler!"
+    },
+    {
+      "character": "Klenter",
+      "line": "You pathetic excuse for a thief!"
+    },
+    {
+      "character": "Klenter",
+      "line": "You worm! May the Devourer take your soul!"
+    },
+    {
+      "character": "Klenter",
+      "line": "Grave robber!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Jex",
+      "line": "I will not speak with a defiler of the dead. Be gone!"
+    },
+    {
+      "character": "Jex",
+      "line": "Hey! You don't have permission to go down there."
+    },
+    {
+      "character": "Raetul",
+      "line": "Get away! You're a thief and a desecrator of the dead."
+    },
+    {
+      "character": "Raetul",
+      "line": "You heard me! Clear off!"
+    },
+    {
+      "character": "Siamun",
+      "line": "Clear off! I'll have nothing to do with you!"
+    },
+    {
+      "character": "Siamun",
+      "line": "Go!"
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Get away from me you filthy grave robber."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... okay."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Clear off you evil body snatcher! You won't get any of my wares."
+    },
+    {
+      "character": "Priest",
+      "line": "What business do you have with a servant of Icthlarin?"
+    },
+    {
+      "character": "Player",
+      "line": "I need some help figuring out what's going on."
+    },
+    {
+      "character": "Priest",
+      "line": "I will not aid a defiler of the dead. Be gone!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Can I go through this gate?"
+    },
+    {
+      "character": "Priest",
+      "line": "No. Nobody may enter or leave Sophanem for any reason due to the quarantine. Move along."
+    },
+    {
+      "character": "Priest",
+      "line": "Sorry, but Sophanem is under quarantine. No one may leave or enter."
+    },
+    {
+      "character": "Player",
+      "line": "But I'm not infected with anything!"
+    },
+    {
+      "character": "Priest",
+      "line": "I'm afraid my orders are clear."
+    },
+    {
+      "character": "High Priest",
+      "line": "You! I will have no dealings with those who plunder the houses of the dead."
+    },
+    {
+      "character": "High Priest",
+      "line": "Get thee gone from my presence!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Ah, how interesting... a cat. Come here to me, kitty."
+    },
+    {
+      "character": "Cat",
+      "line": "Meow."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me. I need help."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Yes, your companion tells me that you are in a spot of bother."
+    },
+    {
+      "character": "Player",
+      "line": "What companion? Oh, you mean my pet cat?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Indeed."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any idea what happened to me? One moment I was talking to a wanderer in the desert, the next I was here. I also have a cracking headache."
+    },
+    {
+      "character": "Sphinx",
+      "line": "A wanderer?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. She had red hair, and weird red eyes as well."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Interesting, very interesting. I'm afraid I do not know what happened to you, but it sounds like quite a bit occurred between you meeting that wanderer and now."
+    },
+    {
+      "character": "Player",
+      "line": "But I can't remember any of it."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Then I suggest you find something to remind you. I find that important objects and locations can trigger memories, no matter how repressed they are."
+    },
+    {
+      "character": "Sphinx",
+      "line": "We've already had this conversation, have we not? You're in a spot of bother, but you can't remember what happened to you."
+    },
+    {
+      "character": "Player",
+      "line": "Pretty much."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Perhaps you should try to find something to remind you again. I find that important objects and locations can trigger memories, no matter how repressed they are."
+    },
+    {
+      "character": "Player",
+      "line": "I must go to the heart of the pyramid... The mistress commands it..."
+    },
+    {
+      "character": "Player",
+      "line": "I must get to the heard of the pyramid..."
+    },
+    {
+      "character": "Player",
+      "line": "I remember! That wanderer, she hypnotised me!"
+    },
+    {
+      "character": "Player",
+      "line": "But... I can't remember why. I needed to get... something. This is so confusing..."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe someone around here can tell me what on Gielinor is going on."
+    },
+    {
+      "character": "Player",
+      "line": "Drat! It's locked."
+    },
+    {
+      "character": "Sphinx",
+      "line": "I have no interest in speaking with you. You should bring your cat to me again. The two of us have much to discuss."
+    },
+    {
+      "character": "Player",
+      "line": "I managed to regain some of my memories."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Yes, your cat tells me you're in a spot of bother. Something to do with grave robbing, tisk tisk. So unbecoming of a guardian of cats."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Yes, your cat told me already. Something to do with grave robbing, tisk tisk. So unbecoming of a guardian of cats."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me? Please?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Well, I have to say I enjoy a laugh at someone's expense now and again... so let's have a bit of fun."
+    },
+    {
+      "character": "Player",
+      "line": "I don't like the sound of this."
+    },
+    {
+      "character": "Sphinx",
+      "line": "I'll help you if you can solve a simple puzzle of mine, but..."
+    },
+    {
+      "character": "Player",
+      "line": "There's always a 'but', isn't there?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "... but if you answer incorrectly, I get to keep your cat."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, that sounds fair."
+    },
+    {
+      "character": "Sphinx",
+      "line": "A husband and wife have six sons and each son has one sister. How many people are in the family?"
+    },
+    {
+      "character": "Player",
+      "line": "7."
+    },
+    {
+      "character": "Player",
+      "line": "Totally positive."
+    },
+    {
+      "character": "Sphinx",
+      "line": "I think your master has proven that is too foolish to look after you. Come with me."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, come on! You can't take my cat. I've spent so long training and looking after it!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Well, you should have thought of that before you risked it for some advice from a crazy old Sphinx."
+    },
+    {
+      "character": "Player",
+      "line": "Could you at least help me now?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "What was it you needed help with? Oh yes, I remember now. You're a grave robber."
+    },
+    {
+      "character": "Player",
+      "line": "I don't know. I don't want to risk my cat."
+    },
+    {
+      "character": "Sphinx",
+      "line": "How disappointing. Still, nothing ventured, nothing gained. Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "9."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Are you sure?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Well answered, human. I guess you get to keep your cat."
+    },
+    {
+      "character": "Player",
+      "line": "Now, will you help me?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "With your grave robbing problem?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know."
+    },
+    {
+      "character": "Player",
+      "line": "I don't want to risk my cat."
+    },
+    {
+      "character": "Player",
+      "line": "I didn't rob anybody's grave!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Too true, you didn't rob just anybody's grave. You managed to rob the grave of Klenter, the recently deceased High Priest of Icthlarin. Do you know what that means?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... no."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Icthlarin is the Menaphite god of the dead. By desecrating the tomb of one of his priests, you've made an enemy out of every person in this city."
+    },
+    {
+      "character": "Player",
+      "line": "But I didn't desecrate any tomb! There's no proof!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Really? Because if I'm not mistaken, that's Klenter's shade right over there. He definitely doesn't seem happy with you. There's also the burial jar in your possession. How do you explain that?"
+    },
+    {
+      "character": "Player",
+      "line": "How did you know about the burial jar?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "I can smell the rotting organs from here."
+    },
+    {
+      "character": "Player",
+      "line": "Look, I don't know exactly what happened. All I know is that wanderer hypnotised me and had me steal something from this pyramid."
+    },
+    {
+      "character": "Sphinx",
+      "line": "The burial jar?"
+    },
+    {
+      "character": "Player",
+      "line": "I... I guess so. It's all still very unclear."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Interesting. I'm afraid I can't help you. I have my own concerns without involving myself with petty human affairs."
+    },
+    {
+      "character": "Sphinx",
+      "line": "However, I suggest you seek out the new High Priest of Icthlarin to the south east. He might be able to assist you. Of course, you'll need to convince him to talk to you first."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Here, I have a token that he will know is from me. Take that to him, and I'm sure he will speak with you."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks... I guess."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go speak with the High Priest."
+    },
+    {
+      "character": "Player",
+      "line": "But you stole my last one!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Well, you would be well advised to get another."
+    },
+    {
+      "character": "Player",
+      "line": "I lost that token you gave me. Could I have another please?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Ah, you humans."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about yourself."
+    },
+    {
+      "character": "Sphinx",
+      "line": "I am an agent of neither good nor evil. I am unconcerned with the plight of mankind and their petty wars and beliefs."
+    },
+    {
+      "character": "Player",
+      "line": "Well, now that you've told me what you're not, can you perhaps tell me what you are?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "I am the guardian of feline kind."
+    },
+    {
+      "character": "Player",
+      "line": "Why would they need a guardian?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Cats play a significant role in the religion of this area, particularly when it comes to guarding the dead from the Devourer."
+    },
+    {
+      "character": "Player",
+      "line": "The Devourer?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "She's the very incarnation of destruction."
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand."
+    },
+    {
+      "character": "Sphinx",
+      "line": "What understanding do you have of the Menaphite gods?"
+    },
+    {
+      "character": "Player",
+      "line": "Little to none."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Well the Menaphite Pantheon is made up of four main deities."
+    },
+    {
+      "character": "Sphinx",
+      "line": "The two main gods of the pantheon are Tumeken, the god of light, and Elidinis, the goddess of fertility."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Tumeken and Elidinis also have two children. Icthlarin is one, and the Devourer is the other."
+    },
+    {
+      "character": "Player",
+      "line": "They named her the Devourer? Not great at parenting, were they?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "She was not always called such. She is known by her deeds now, rather than her name."
+    },
+    {
+      "character": "Player",
+      "line": "So if the Devourer is the bad sibling, does that make Icthlarin the good one?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "That is the common belief, but things are rarely that simple. In some ways, neither of them are good or bad."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Icthlarin is the god of the dead. He takes care of the passing of souls to their next life. The Devourer is the goddess of destruction, and that is what she craves."
+    },
+    {
+      "character": "Player",
+      "line": "I thought you said she wasn't evil?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "That's not quite what I said. Still, is destruction enough to make one evil? Fire destroys, but is that evil?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... no, but it also creates heat."
+    },
+    {
+      "character": "Sphinx",
+      "line": "We could have an overlong theological debate now, but let's instead get to my point. Destruction has a place, so maybe the Devourer does as well. However, she has taken it too far."
+    },
+    {
+      "character": "Player",
+      "line": "How?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "The Devourer wishes to destroy every soul in existence, living or dead. As you can imagine, this has brought her into conflict with Icthlarin."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, I see where this is going. The cats are used to protect the dead from the Devourer, like you said earlier. But who protects the cats?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Well anticipated. The Devourer is terrified of cats for reasons I will not explain. However, her followers, although few in number, are not. I ensure the survival of cats. For this service, Icthlarin grants me eternal life."
+    },
+    {
+      "character": "Player",
+      "line": "So, then, you are a follower of Icthlarin?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Nothing of the sort. As I've said before, I have no interest in humans and their gods. I look after my kind. For that, Icthlarin looks after me."
+    },
+    {
+      "character": "Player",
+      "line": "This is all very interesting, but I've got to get going."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on in this city?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "I thought that would be pretty obvious."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I could benefit from your point of view. You seem the independent type."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Flattery, my adventurer, will get you everywhere. But to answer your question, Sophanem has been struck with plagues."
+    },
+    {
+      "character": "Player",
+      "line": "More than one?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Quite a number. There's a plague of frogs to the west. In the east, you can also find locusts."
+    },
+    {
+      "character": "Sphinx",
+      "line": "The cows have only been producing sour milk since the outbreak, and the residents have been struck down by a rash of spots."
+    },
+    {
+      "character": "Player",
+      "line": "The residents? There are a lot of living people here for a city of the dead."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Sophanem is called the city of the dead because the dead are brought here. Death plays a rather large role in the beliefs of the people and, as a result, the business."
+    },
+    {
+      "character": "Priest",
+      "line": "What do you want, cursed one?"
+    },
+    {
+      "character": "Player",
+      "line": "The Sphinx told me to find the High Priest of Icthlarin."
+    },
+    {
+      "character": "Priest",
+      "line": "A likely story. She would never reduce herself to talk to one as lowly as you, never mind help you!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! The Sphinx told me that I should talk to you."
+    },
+    {
+      "character": "High Priest",
+      "line": "The Sphinx? Is it possible? That contrary old cat has never done anything to help us. Prove it!"
+    },
+    {
+      "character": "Player",
+      "line": "She gave me a token to show you, but I lost it."
+    },
+    {
+      "character": "High Priest",
+      "line": "Well then stop wasting my time! Can't you see I'm trying to put a stop to these plagues?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Well this is... unexpected..."
+    },
+    {
+      "character": "High Priest",
+      "line": "So what do you want from me, thief?"
+    },
+    {
+      "character": "Player",
+      "line": "I appreciate it doesn't look great right now, but I'm not actually a bad person."
+    },
+    {
+      "character": "High Priest",
+      "line": "Well you could have fooled me! Good people don't rob from the dead!"
+    },
+    {
+      "character": "Player",
+      "line": "It wasn't me! Well... it was, I guess. I didn't do it on purpose though. I was hypnotised!"
+    },
+    {
+      "character": "High Priest",
+      "line": "Hypnotised?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! There was this wanderer! She had me break into that pyramid to steal... a burial jar... I think. It's all still a bit confusing."
+    },
+    {
+      "character": "High Priest",
+      "line": "This is all a disaster! The plagues were bad enough, but now we've got hypnotised adventurers plundering tombs! I've only just started this job as well!"
+    },
+    {
+      "character": "Player",
+      "line": "You do seem to be going through a rough patch. Do you know what caused the plagues?"
+    },
+    {
+      "character": "High Priest",
+      "line": "We fear they are a punishment sent by the gods. Perhaps we have displeased Icthlarin in some way. Maybe I am to blame. All this only started after I became High Priest."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm not sure if I can help with your plagues, but I need to fix whatever mess I caused in that pyramid. Can you help me?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Oh, er... I suppose the burial jar you took must be returned as soon as possible. That will allow my predecessor to rest once more."
+    },
+    {
+      "character": "Player",
+      "line": "I can do that. Do you have any advice for me when it comes to the pyramid?"
+    },
+    {
+      "character": "High Priest",
+      "line": "I don't think so... No wait! There is something important."
+    },
+    {
+      "character": "High Priest",
+      "line": "As with many of our tombs, the pyramid has magical seals to protect it from the Devourer, the goddess of destruction. The fact that you were able to get in before means that you must have a cat."
+    },
+    {
+      "character": "Player",
+      "line": "Well... yes. But how did you know that?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Cats act as guardians against the Devourer. I'm surprised the Sphinx didn't tell you this. As such, only a cat can open the pyramid door."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I guess that makes sense."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get going."
+    },
+    {
+      "character": "High Priest",
+      "line": "One of my priests found this lying outside the pyramid. Please try to be more respectful of our dead."
+    },
+    {
+      "character": "Player",
+      "line": "Oops. I'll make sure I look after it this time. Sorry."
+    },
+    {
+      "character": "High Priest",
+      "line": "Have you managed to return the jar yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "High Priest",
+      "line": "Please hurry. The people are beginning to... well..."
+    },
+    {
+      "character": "Player",
+      "line": "What? Question your sanity?"
+    },
+    {
+      "character": "High Priest",
+      "line": "No, just my authority. Don't forget that to enter the pyramid, you'll need a cat."
+    },
+    {
+      "character": "Player",
+      "line": "Why is it so important that the jar be returned?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Well those jars are a key part of our burial practices. To remove one is to directly insult not just Icthlarin, but all those that have passed on to the next life."
+    },
+    {
+      "character": "High Priest",
+      "line": "Not to mention, it wasn't just any jar you took. You stole a jar from the tomb of our former High Priest! Why do you think his ghost is now wandering the city once more?"
+    },
+    {
+      "character": "Player",
+      "line": "But what will happen if I don't return the jar?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Have you not noticed the plagues already filling our city? How long before Klenter calls upon Icthlarin to send a few more?"
+    },
+    {
+      "character": "High Priest",
+      "line": "For all we know, the plagues we already have could be punishment for your grave robbing!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, don't go blaming me for that. Those plagues were here before I even met that wanderer!"
+    },
+    {
+      "character": "High Priest",
+      "line": "Perhaps Icthlarin foresaw what would happen and sent the plagues as a pre-emptive punishment?"
+    },
+    {
+      "character": "Player",
+      "line": "You really think he'd do that?"
+    },
+    {
+      "character": "High Priest",
+      "line": "I don't know... Icthlarin is a patient and forgiving god. It does not make sense to me that he would do this to us."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe he's not the one responsible."
+    },
+    {
+      "character": "High Priest",
+      "line": "Perhaps. Either way, that jar needs to be returned."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about the plagues."
+    },
+    {
+      "character": "High Priest",
+      "line": "They started a few days ago. We have locusts in the east of the city and frogs in the west. The cows have started to produce sour milk, and all of us have become infected with some sort of pox."
+    },
+    {
+      "character": "High Priest",
+      "line": "Once it became clear how bad it was, Menaphos, our neighbouring city, closed their gates to us and everyone else. We closed our own gates soon after."
+    },
+    {
+      "character": "Player",
+      "line": "That can't have been an easy choice to make."
+    },
+    {
+      "character": "High Priest",
+      "line": "I didn't want to, but the other priests insisted. We had to stop the plagues from spreading. It seems that our choice was the right one. So far, the plagues have remained contained, but at a great cost."
+    },
+    {
+      "character": "High Priest",
+      "line": "Many of our citizens are trapped outside the city. Some are stuck in Menaphos, with more in other parts of the desert."
+    },
+    {
+      "character": "High Priest",
+      "line": "However, that may well be for the best. Without trade from other settlements, we've been struggling to even feed the few of us left in the city."
+    },
+    {
+      "character": "Player",
+      "line": "How much longer do you think you can last?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Not long. We need to find a way to stop the plagues soon."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about Icthlarin."
+    },
+    {
+      "character": "High Priest",
+      "line": "Icthlarin is the son of Tumeken and Elidinis and brother to the Devourer. He is the Menaphite god of the dead. He is responsible for ensuring the safe passage of all souls from this life to the next."
+    },
+    {
+      "character": "High Priest",
+      "line": "Here in Sophanem, we support Icthlarin in his role by making sure the dead are suitably prepared for their journey."
+    },
+    {
+      "character": "Player",
+      "line": "So is Icthlarin only responsible for those that die in the desert?"
+    },
+    {
+      "character": "High Priest",
+      "line": "No. While Icthlarin is only worshipped here, his responsibilities stretch across all of Gielinor. He cares not for an individual's beliefs. All who pass on, enter his care."
+    },
+    {
+      "character": "Player",
+      "line": "I imagine there are plenty of people out there who have a different take on things."
+    },
+    {
+      "character": "High Priest",
+      "line": "Which they are welcome to. It does not change the facts."
+    },
+    {
+      "character": "Player",
+      "line": "You seem very sure in these 'facts'."
+    },
+    {
+      "character": "High Priest",
+      "line": "While most of the gods, Tumeken and Elidinis included, may be long gone from Gielinor, Icthlarin remains. His important role in caring for the dead means that he is still able to interact with us."
+    },
+    {
+      "character": "Player",
+      "line": "So you've met him?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Well... no. While he is able to walk among us if he desires, he chooses not to so as to respect our way of life. Not to mention, his role requires his constant attention."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about the Devourer."
+    },
+    {
+      "character": "High Priest",
+      "line": "Long ago, back when Tumeken and Elidinis still walked these lands, they had two children. Icthlarin, god of the dead, was one. The other was Amascut, the goddess of rebirth."
+    },
+    {
+      "character": "High Priest",
+      "line": "For a time, Icthlarin and Amascut worked together in harmony. Icthlarin would ensure most souls are safely guided to the next life, while Amascut would select a small number to be reborn."
+    },
+    {
+      "character": "Player",
+      "line": "But something happened?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Yes. During a great war over these lands, Amascut became corrupted. She was warped into the Devourer, becoming the goddess of destruction."
+    },
+    {
+      "character": "High Priest",
+      "line": "Since then, her only goal has been to devour every soul in existence, both living and dead."
+    },
+    {
+      "character": "Player",
+      "line": "The Sphinx told me something similar, but her interpretation was a bit different."
+    },
+    {
+      "character": "High Priest",
+      "line": "We here have a lot of respect for the Sphinx. However, you should be careful of her words. She does not know the gods like we priests do."
+    },
+    {
+      "character": "Player",
+      "line": "So is the Devourer still around?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Unfortunately so. Most gods have long since left this world. However, the Devourer was able to find a way to remain."
+    },
+    {
+      "character": "High Priest",
+      "line": "Luckily for us, some of her former priestesses were able to weaken her, but she still poses a great threat."
+    },
+    {
+      "character": "Priest",
+      "line": "Cursed one, why have you not yet returned the burial jar of our old leader?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on that still."
+    },
+    {
+      "character": "Priest",
+      "line": "I wonder how someone as insignificant as you even managed to get inside the pyramid, never mind reach its heart."
+    },
+    {
+      "character": "Jex",
+      "line": "Hello there. Welcome to the Temple of the Lesser Gods."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Ah, human. How go things, great guardian of cats?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you mocking me?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "I don't need to mock you, human. You're doing a good enough job of that on your own."
+    },
+    {
+      "character": "Player",
+      "line": "Fine. Come on, cat. Lets leave the nasty Sphinx alone."
+    },
+    {
+      "character": "Cat",
+      "line": "Meow!"
+    },
+    {
+      "character": "Player",
+      "line": "I think the High Priest mentioned something about needing a cat to enter the pyramid."
+    },
+    {
+      "character": "Player",
+      "line": "Hey puss! What do you reckon about that cat on the door? Do you think you can open it?"
+    },
+    {
+      "character": "Cat",
+      "line": "Meeeow."
+    },
+    {
+      "character": "Player",
+      "line": "Hey puss! Think you can open this door again?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to get the burial jar for the mistress..."
+    },
+    {
+      "character": "Player",
+      "line": "I don't want this jar."
+    },
+    {
+      "character": "Player",
+      "line": "So I really did steal the jar. I need to return it as fast as I can."
+    },
+    {
+      "character": "Player",
+      "line": "I've already caused enough trouble over these jars. I'll just leave them alone."
+    },
+    {
+      "character": "Priest",
+      "line": "Bother me not. I am preparing for the ceremony. I'm sure even you can curb your trivial demands until after that."
+    },
+    {
+      "character": "Player",
+      "line": "It's done."
+    },
+    {
+      "character": "High Priest",
+      "line": "Wonderful! Now we can prepare for the ceremony."
+    },
+    {
+      "character": "Player",
+      "line": "Er... ceremony?"
+    },
+    {
+      "character": "High Priest",
+      "line": "The ceremony to reconsecrate Klenter's tomb of course!"
+    },
+    {
+      "character": "Player",
+      "line": "It would have been nice for you to mention this earlier."
+    },
+    {
+      "character": "High Priest",
+      "line": "Sorry, with all this plague business, it must have slipped my mind."
+    },
+    {
+      "character": "Player",
+      "line": "You're the High Priest of Icthlarin, but you forgot a key ceremony?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Well if you want to try running a city with multiple plagues, you're welcome to take over."
+    },
+    {
+      "character": "Player",
+      "line": "That's not what I... Never mind."
+    },
+    {
+      "character": "High Priest",
+      "line": "Good. Now, this ceremony is very dangerous, so we must ensure everything is done correctly."
+    },
+    {
+      "character": "Player",
+      "line": "Dangerous? How?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Well the pyramid has these magical seals on it..."
+    },
+    {
+      "character": "Player",
+      "line": "... to protect it from the Devourer. Yes, you told me earlier."
+    },
+    {
+      "character": "High Priest",
+      "line": "Right! Of course I did. Well for us to properly reconsecrate the tomb, we must first remove those seals. That means that once we begin, the pyramid will be vulnerable until the ceremony is complete."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, I see."
+    },
+    {
+      "character": "High Priest",
+      "line": "Now, we made many of the preparations while you were gone, but the carpenter and the embalmer could both use a hand. Could you go and speak with them?"
+    },
+    {
+      "character": "Player",
+      "line": "Why do I have to help?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Did you forget that this is all your fault?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess I assumed that by returning the jar I stole, my job would be done."
+    },
+    {
+      "character": "High Priest",
+      "line": "The job will be done when Klenter is at rest once more."
+    },
+    {
+      "character": "High Priest",
+      "line": "Besides, thanks to the plagues, we're not allowing people to leave the city. However, as you seem to be unaffected, I've told the guards to make an exception for you."
+    },
+    {
+      "character": "Player",
+      "line": "And that means I'm best placed to help. Fine. The carpenter and the embalmer, did you say?"
+    },
+    {
+      "character": "High Priest",
+      "line": "That's right. We need the carpenter to create a new holy symbol for the ceremony. He lives over to the east. The embalmer also needs help gathering some supplies. He lives just south of here."
+    },
+    {
+      "character": "High Priest",
+      "line": "Have you helped the embalmer and the carpenter yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "High Priest",
+      "line": "The embalmer lives just south of here and the carpenter lives over to the east. Please hurry. We need to get this ceremony performed before some other bad thing happens."
+    },
+    {
+      "character": "Priest",
+      "line": "Yes. The High Priest has given you permission to come and go as you please."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Oh, it's you. I hear you're helping us now. To be honest, I'm still not thrilled to have you around, but so be it."
+    },
+    {
+      "character": "Player",
+      "line": "I guess that's probably the best I can ask for, given the situation. Anyway, the High Priest said you needed help gathering some supplies for the ceremony."
+    },
+    {
+      "character": "Embalmer",
+      "line": "That's right. I need three things, but the quarantine is making some of them hard to obtain."
+    },
+    {
+      "character": "Embalmer",
+      "line": "First, I need some salt. Normally I get mine from the salt lake just north of the city. Just fill a bucket from the lake and then use the suntrap outside to separate the salt from the water."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Next, I need some tree sap. You can use a knife to extract some from a tree, but make sure you have a bucket ready. Most coniferous evergreen trees should have some. They're the cone-shaped ones."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Finally, I need some linen. That one shouldn't be too hard. The local cloth salesman should have some."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Well that was unexpected. Thank you."
+    },
+    {
+      "character": "Raetul",
+      "line": "Good afternoon."
+    },
+    {
+      "character": "Player",
+      "line": "Is it?"
+    },
+    {
+      "character": "Raetul",
+      "line": "It's hot and sunny, which is good enough for me. So can I help you with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "I've met with the town's embalmer and he mentioned that he needed a few things, linen being one of them."
+    },
+    {
+      "character": "Raetul",
+      "line": "Well I can sell you a sheet of linen for 30 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much on me. I'll be back."
+    },
+    {
+      "character": "Raetul",
+      "line": "Of course. That will be 30 coins please and thank you."
+    },
+    {
+      "character": "Player",
+      "line": "What the..."
+    },
+    {
+      "character": "Raetul",
+      "line": "Do come again."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Oh, it's you. Any luck obtaining those items?"
+    },
+    {
+      "character": "Embalmer",
+      "line": "Thank you. I think that's everything I need."
+    },
+    {
+      "character": "Player",
+      "line": "Great. I guess I should go and see how the carpenter is getting on."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Well you'd better get a move on."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get tree sap?"
+    },
+    {
+      "character": "Embalmer",
+      "line": "You can use a knife to extract some from a tree, but make sure you have a bucket ready. Most coniferous evergreen trees should have some. They're the cone- shaped ones."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get salt?"
+    },
+    {
+      "character": "Embalmer",
+      "line": "Normally I get mine from the salt lake just north of the city. Just fill a bucket from the lake and then use the suntrap outside to separate the salt from the water."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get linen?"
+    },
+    {
+      "character": "Embalmer",
+      "line": "The local cloth salesman should have some for sale."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll get going."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Oh, it's you. You've already gathered everything I need. I'm sure you have plenty of other things to be doing."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I do still need to speak to the carpenter."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Hello, adventurer. The High Priest says that you're here to help us."
+    },
+    {
+      "character": "Player",
+      "line": "That's right. He asked me to come and speak to you about a holy symbol for the ceremony."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Ah yes, it needs to be made from willow. Thing is, there's a small problem with that."
+    },
+    {
+      "character": "Player",
+      "line": "Is this the part where you need me to get you something?"
+    },
+    {
+      "character": "Carpenter",
+      "line": "Wow, you're quick. I'm all out of willow, and due to the quarantine, I'm unable to leave the city to get more. However, the High Priest mentioned that a special exception has been made for you."
+    },
+    {
+      "character": "Player",
+      "line": "Meaning I can leave the city and get you some. Alright, I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "Well there's actually no need for me to go anywhere. I already have some willow logs here."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Thank you. Now, just give me a moment..."
+    },
+    {
+      "character": "Carpenter",
+      "line": "There we go. All done."
+    },
+    {
+      "character": "Carpenter",
+      "line": "I imagine the High Priest will be down in the pyramid by now. You should take that to him as soon as possible."
+    },
+    {
+      "character": "Player",
+      "line": "Will do. Thanks."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Do you have that wood for me?"
+    },
+    {
+      "character": "Carpenter",
+      "line": "I'll be here when you do."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Hello, adventurer. I'm still working on that symbol. Do you have something else you can do in the meantime?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I need to help out the embalmer."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Well you're probably best off doing that then. I'm sure I'll have it ready by the time you're done."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Hello, adventurer. The symbol is all finished now."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Do you need something?"
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Embalmer",
+      "line": "Well I have lots to do, so good day."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Hello. Have you given the symbol to the High Priest yet?"
+    },
+    {
+      "character": "Carpenter",
+      "line": "Well you should as soon as possible. He'll be down in the pyramid by now."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, there's a slight problem with the symbol."
+    },
+    {
+      "character": "Carpenter",
+      "line": "What? But I made it to exactly match the drawings from the High Priest. I can't believe this!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I'm sure the symbol itself is fine. The problem is... I lost it."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Agh, you fool! Is stupidity the newest plague in town?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you please calm down? I gave you plenty of willow. I'm sure there's some left over for another symbol."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Fine. Just give me a moment..."
+    },
+    {
+      "character": "Carpenter",
+      "line": "There we go. All done. Try not to lose this one."
+    },
+    {
+      "character": "Carpenter",
+      "line": "Now you should take that to the High Priest as soon as possible. He'll be down in the pyramid by now."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Player",
+      "line": "I need to hide the mistress's symbol in the ceremonial room..."
+    },
+    {
+      "character": "Player",
+      "line": "No... It must be somewhere more secret..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes... Now the mistress can enter the pyramid whenever she pleases..."
+    },
+    {
+      "character": "Player",
+      "line": "The wanderer! She's going to attack the ceremony! I need to warn them!"
+    },
+    {
+      "character": "High Priest",
+      "line": "Ah there you are. Do you have the holy symbol?"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! We can't begin the ceremony!"
+    },
+    {
+      "character": "High Priest",
+      "line": "What? But we've already started."
+    },
+    {
+      "character": "Player",
+      "line": "But the wanderer is coming!"
+    },
+    {
+      "character": "High Priest",
+      "line": "What the..."
+    },
+    {
+      "character": "Wanderer",
+      "line": "You have done well, adventurer. All my brother's dogs in one place, with no one around to save them."
+    },
+    {
+      "character": "High Priest",
+      "line": "It can't be... It's the Devourer!"
+    },
+    {
+      "character": "Amascut",
+      "line": "Adventurer, kill these pathetic priests."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not your slave any more!"
+    },
+    {
+      "character": "Amascut",
+      "line": "Shame. Not to worry though, I have plenty more."
+    },
+    {
+      "character": "Amascut",
+      "line": "You! Priest of the dog lord. You are now mine. Kill your brethren!"
+    },
+    {
+      "character": "Possessed Priest",
+      "line": "Yes mistress..."
+    },
+    {
+      "character": "Amascut",
+      "line": "Have fun..."
+    },
+    {
+      "character": "High Priest",
+      "line": "Protect us, adventurer! We must complete the ceremony!"
+    },
+    {
+      "character": "Priest",
+      "line": "You have surprised me... I commend you for your efforts."
+    },
+    {
+      "character": "High Priest",
+      "line": "Thank you so much, adventurer. Thanks to you, we were able to complete the ceremony."
+    },
+    {
+      "character": "Player",
+      "line": "Well it was the least I could do. After all, it was sort of my fault all this happened."
+    },
+    {
+      "character": "High Priest",
+      "line": "Well on that note, what exactly did happen there? That was the Devourer!"
+    },
+    {
+      "character": "Player",
+      "line": "It seems the wanderer that hypnotised me was actually the Devourer all along."
+    },
+    {
+      "character": "Player",
+      "line": "I'm guessing the reason she had me steal that burial jar was because she knew you'd have to gather here to reconsecrate the tomb again."
+    },
+    {
+      "character": "High Priest",
+      "line": "She wanted to kill us all in one go?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and she had me plant an unholy symbol here to allow her to teleport right in."
+    },
+    {
+      "character": "High Priest",
+      "line": "Well once again, thank you. Without you, the Devourer would have struck a devastating blow against Icthlarin."
+    },
+    {
+      "character": "Player",
+      "line": "Here's that holy symbol, by the way."
+    },
+    {
+      "character": "High Priest",
+      "line": "Thank you. We wouldn't have been able to complete the ceremony without that in our presence."
+    },
+    {
+      "character": "Player",
+      "line": "So what now?"
+    },
+    {
+      "character": "High Priest",
+      "line": "We have a few things to finish here, but then we'll head back up into the city. Please join us there."
+    },
+    {
+      "character": "Icthlarin",
+      "line": "And what do we have here?"
+    },
+    {
+      "character": "Player",
+      "line": "I must do as the mistress commands..."
+    },
+    {
+      "character": "Icthlarin",
+      "line": "Did my sister really think that I would not sense her presence here?"
+    },
+    {
+      "character": "Icthlarin",
+      "line": "Amascut! Release your hold on this human!"
+    },
+    {
+      "character": "Player",
+      "line": "Argh..."
+    },
+    {
+      "character": "Player",
+      "line": "Well I guess that explains why Amascut's control over me was broken. Not every day the god of the dead comes to your rescue."
+    },
+    {
+      "character": "High Priest",
+      "line": "Ah, there you are. You were gone for quite a while. As a thank you for what you've done, I have a little trinket for you. I'm sure you'll get a huge amount of enjoyment out of it."
+    },
+    {
+      "character": "Player",
+      "line": "I think it would be best if I stayed out of this tomb after what happened last time."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Amascut",
+      "description": "Ancient female demi-goddess, sinister Egyptian-accented voice, manipulative and vengeful tone, the Devourer who hungers for souls and despises cats."
+    },
+    {
+      "name": "Carpenter",
+      "description": "Adult male, Middle Eastern accent, gruff and suspicious tone, a craftsman who distrusts strangers but can be helpful when approached properly."
+    },
+    {
+      "name": "Cat",
+      "description": "Adult cat, soft British voice, curious and observant tone, the player's feline companion who offers witty commentary on events."
+    },
+    {
+      "name": "Embalmer",
+      "description": "Adult male, Middle Eastern accent, dry and sardonic tone, a strange-smelling merchant who handles the dead with dark humor about his plague affliction."
+    },
+    {
+      "name": "High Priest",
+      "description": "Adult male, Middle Eastern accent, dutiful and uncertain tone, a friendlier leader than his predecessor who gains confidence while serving Icthlarin."
+    },
+    {
+      "name": "Icthlarin",
+      "description": "Ancient male demi-god, deep resonant Egyptian-accented voice, protective and authoritative tone, the jackal-headed guardian of the dead who guides souls to the afterlife."
+    },
+    {
+      "name": "Jex",
+      "description": "Adult male, Middle Eastern accent, friendly and evangelical tone, a trusting priest who tends the Temple of the Lesser Gods."
+    },
+    {
+      "name": "Klenter",
+      "description": "Elderly male ghost, hollow echoing voice, bitter and vindictive tone, a cruel former High Priest who holds grudges even in death."
+    },
+    {
+      "name": "Possessed Priest",
+      "description": "Adult male, distorted Middle Eastern accent with sinister undertones, unnatural and controlled tone, a priest speaking under Amascut's dark influence."
+    },
+    {
+      "name": "Priest",
+      "description": "Adult male, Middle Eastern accent, reverent and composed tone, a devoted servant of Icthlarin performing sacred burial rites."
+    },
+    {
+      "name": "Raetul",
+      "description": "Adult male, Middle Eastern accent, polite but temperamental tone, a fashion-conscious cloth merchant who takes pride in his wares."
+    },
+    {
+      "name": "Siamun",
+      "description": "Adult male, Middle Eastern accent, hostile and curt tone, an irritable dyer who mistrusts strangers but softens after proven innocent."
+    },
+    {
+      "name": "Sphinx",
+      "description": "Ancient female, regal otherworldly voice, aloof and imperious tone, an immortal guardian of cats who has no interest in the petty affairs of humans."
+    },
+    {
+      "name": "Wanderer",
+      "description": "Adult female, mysterious Middle Eastern accent, deceptively gentle tone, a red-haired woman hiding dark supernatural powers beneath a humble disguise."
+    }
+  ]
+}
