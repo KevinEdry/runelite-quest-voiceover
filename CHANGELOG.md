@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.9.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.8.1...v1.9.0) (2026-01-02)
+
+
+### Features
+
+* add quest transcripts for 25 quests ([48486c0](https://github.com/KevinEdry/runelite-quest-voiceover/commit/48486c0401eae9e89dbfee61729c9d88dcce2d8a))
+
+
+### Bug Fixes
+
+* improve transcript extraction for edge cases ([fc9ac9f](https://github.com/KevinEdry/runelite-quest-voiceover/commit/fc9ac9f9b8605491a1cfcf6663c1f5a89e600a8e))
+
 ## [1.8.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.8.0...v1.8.1) (2025-12-28)
 
 
