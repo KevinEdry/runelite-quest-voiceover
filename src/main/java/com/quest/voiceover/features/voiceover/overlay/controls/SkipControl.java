@@ -35,11 +35,12 @@ public class SkipControl implements OverlayControl {
 
     @Override
     public boolean handleClick(int x, int y) {
-        if (bounds != null && bounds.contains(x, y)) {
-            audioManager.skipToNext();
-            return true;
+        if (bounds == null || !bounds.contains(x, y)) {
+            return false;
         }
-        return false;
+
+        audioManager.skipToNext();
+        return true;
     }
 
     @Override
