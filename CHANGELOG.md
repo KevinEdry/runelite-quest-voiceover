@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.10.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.9.0...v1.10.0) (2026-01-02)
+
+
+### Features
+
+* add audio queuing and fix ducking bug ([375afd5](https://github.com/KevinEdry/runelite-quest-voiceover/commit/375afd57c6a32c00b6e1d36505be6910ec1653fc))
+* add voiceover overlay with player controls ([99ea202](https://github.com/KevinEdry/runelite-quest-voiceover/commit/99ea202a508c7f392cabd75e0ada34e3651ae9da))
+* change default speech highlight color to blue ([3928b4e](https://github.com/KevinEdry/runelite-quest-voiceover/commit/3928b4e7945cbafaa5d52c10e6566e2088331930))
+
+
+### Code Refactoring
+
+* apply early return pattern in overlay controls ([7540cd0](https://github.com/KevinEdry/runelite-quest-voiceover/commit/7540cd0b22502a6d27f6eaaa9a6b32a2c042772b))
+* extract AudioPlayerManager from AudioManager ([c17d69c](https://github.com/KevinEdry/runelite-quest-voiceover/commit/c17d69cbc29b1cfc25f70889dd750b4652035346))
+* remove dialog overlay code from VoiceoverHandler ([ce7c89e](https://github.com/KevinEdry/runelite-quest-voiceover/commit/ce7c89e731386b078a4f3e515ea6bdf93a459d58))
+* remove overlay elements from DialogManager ([f3ea78e](https://github.com/KevinEdry/runelite-quest-voiceover/commit/f3ea78e00390424561e79288a84af486b4bfba63))
+* wire up voiceover overlay in plugin ([287912c](https://github.com/KevinEdry/runelite-quest-voiceover/commit/287912c56b666c56ae631f4a23d3b8bb3241953a))
+
 ## [1.9.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.8.1...v1.9.0) (2026-01-02)
 
 
