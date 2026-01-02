@@ -1,13 +1,8 @@
 package com.quest.voiceover.modules.dialog;
 
-import com.quest.voiceover.QuestVoiceoverConfig;
-import com.quest.voiceover.modules.audio.AudioManager;
-import com.quest.voiceover.utility.ColorUtility;
-import com.quest.voiceover.Constants;
 import net.runelite.api.Client;
-import net.runelite.api.SpriteID;
-import net.runelite.api.widgets.*;
-import net.runelite.client.config.ConfigManager;
+import net.runelite.api.widgets.InterfaceID;
+import net.runelite.api.widgets.Widget;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
@@ -15,24 +10,12 @@ import javax.inject.Singleton;
 @Singleton
 public class DialogManager {
 
-    private static final String TOGGLE_MUTE_ACTION = "Toggle mute ";
-    private static final int FONT_ID = 494;
-
     private static final int DIALOG_NPC_TEXT_CHILD = 6;
     private static final int DIALOG_NPC_NAME_CHILD = 4;
     private static final int DIALOG_PLAYER_TEXT_CHILD = 6;
 
     @Inject
     private Client client;
-
-    @Inject
-    private QuestVoiceoverConfig config;
-
-    @Inject
-    private ConfigManager configManager;
-
-    @Inject
-    private AudioManager audioManager;
 
     public boolean isPlayerOrNpcDialogOpen() {
         Widget playerWidget = getPlayerDialogWidget();
@@ -51,36 +34,6 @@ public class DialogManager {
 
         Widget playerWidget = getPlayerDialogWidget();
         return playerWidget != null ? playerWidget : getNpcDialogWidget();
-    }
-
-    public void addQuestNameLabel(Widget dialogWidget, String questName) {
-        Widget label = dialogWidget.createChild(-1, WidgetType.TEXT);
-
-        label.setText("Quest: " + questName);
-        label.setFontId(FONT_ID);
-        label.setTextColor(ColorUtility.WHITE);
-        label.setTextShadowed(true);
-        label.setXPositionMode(WidgetPositionMode.ABSOLUTE_LEFT);
-        label.setOriginalX(10);
-        label.setOriginalY(5);
-        label.setOriginalHeight(20);
-        label.setOriginalWidth(200);
-        label.revalidate();
-    }
-
-    public void addMuteButton(Widget dialogWidget) {
-        Widget muteButton = dialogWidget.createChild(-1, WidgetType.GRAPHIC);
-
-        muteButton.setSpriteId(getMuteSpriteId());
-        muteButton.setOriginalWidth(32);
-        muteButton.setOriginalHeight(32);
-        muteButton.setXPositionMode(WidgetPositionMode.ABSOLUTE_RIGHT);
-        muteButton.setOriginalX(5);
-        muteButton.setOriginalY(5);
-        muteButton.setHasListener(true);
-        muteButton.setAction(1, TOGGLE_MUTE_ACTION);
-        muteButton.setOnOpListener((JavaScriptCallback) e -> toggleMute(muteButton));
-        muteButton.revalidate();
     }
 
     public String getDialogText() {
@@ -137,16 +90,5 @@ public class DialogManager {
 
     private Widget getNpcDialogWidget() {
         return client.getWidget(InterfaceID.DIALOG_NPC, 0);
-    }
-
-    private void toggleMute(Widget muteButton) {
-        configManager.setConfiguration(Constants.PLUGIN_CONFIG_GROUP, "mute", !config.mute());
-        audioManager.setVolume(config.mute() ? 0 : config.volume());
-        muteButton.setSpriteId(getMuteSpriteId());
-        muteButton.revalidate();
-    }
-
-    private int getMuteSpriteId() {
-        return config.mute() ? SpriteID.OPTIONS_MUSIC_DISABLED : SpriteID.OPTIONS_MUSIC_VOLUME;
     }
 }
