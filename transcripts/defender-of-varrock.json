@@ -1,0 +1,1592 @@
+{
+  "branch": "quest/defender-of-varrock",
+  "quest_name": "Defender of Varrock",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Elias White",
+      "line": "Good day to you."
+    },
+    {
+      "character": "Player",
+      "line": "What brings you here?"
+    },
+    {
+      "character": "Elias White",
+      "line": "The eternal quest for knowledge, of course! The name's Elias White. I'm something of an explorer."
+    },
+    {
+      "character": "Player",
+      "line": "Pleased to meet you. I'm. So you're searching for knowledge in an inn?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Not exactly. In fact, I was previously hunting down information on an ancient race deep within the desert."
+    },
+    {
+      "character": "Elias White",
+      "line": "However, I received an interesting yet concerning tip- off from a contact of mine regarding some of my research. I came here to investigate for myself."
+    },
+    {
+      "character": "Elias White",
+      "line": "Oh, hello there. You look familiar. Have we met before?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so. The name's. You're Elias, right? You had a camp out near Uzer."
+    },
+    {
+      "character": "Elias White",
+      "line": "Ah, of course. You offered to help with my work, didn't you? I'm still very keen to take you up on that offer at some point, but a more pressing matter has delayed that somewhat."
+    },
+    {
+      "character": "Player",
+      "line": "Is that what's brought you here?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Indeed. I recived an interesting yet concerning tip-off from a contact of mine regarding some of my research. I came here to investigate for myself."
+    },
+    {
+      "character": "Player",
+      "line": "Anything I can help with?"
+    },
+    {
+      "character": "Elias White",
+      "line": "How kind of you to offer. I'm not in need of any extra help right now though."
+    },
+    {
+      "character": "Elias White",
+      "line": "How kind of you to offer. I definitely wouldn't complain about some extra support, if you're sure you're interested?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely! So what was this tip-off you received?"
+    },
+    {
+      "character": "Elias White",
+      "line": "It's nothing much, but apparently one of the patrons in here was ranting and raving about zombies. Most just dismissed him as having had one too many, but I'm not so sure."
+    },
+    {
+      "character": "Player",
+      "line": "How come?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Varrock has an interesting history when it comes to zombies. Tell me, what do you know of Arrav?"
+    },
+    {
+      "character": "Player",
+      "line": "Arrav? As in the Shield of Arrav? I was the one who helped return it to the museum."
+    },
+    {
+      "character": "Elias White",
+      "line": "Ah, I heard about that. Excellent work! You may well know then that the former owner of that shield, Arrav himself, once defended Varrock against a zombie invasion led by a Mahjarrat named Zemouregal."
+    },
+    {
+      "character": "Elias White",
+      "line": "Arrav sacrificed himself to save his city, but Zemouregal survived."
+    },
+    {
+      "character": "Player",
+      "line": "And you think these zombie sightings mean he's returned?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Apparently the zombies were seen forming ranks. Zombies don't naturally organise themselves, so someone must be organising them. I can think of worse candidates than Zemouregal."
+    },
+    {
+      "character": "Player",
+      "line": "I can see why you think this is worth looking into. Where do we start?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Zombies are not particularly light on their feet, so my hope is we can pick up their trail. The sightings were apparently right outside the inn."
+    },
+    {
+      "character": "Player",
+      "line": "Follow the tracks and see where they came from. Good plan."
+    },
+    {
+      "character": "Elias White",
+      "line": "Then shall we get started?"
+    },
+    {
+      "character": "Player",
+      "line": "Ready when you are."
+    },
+    {
+      "character": "Elias White",
+      "line": "Excellent! I'm right behind you."
+    },
+    {
+      "character": "Player",
+      "line": "Let's get going."
+    },
+    {
+      "character": "Elias White",
+      "line": "Lead the way."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about Arrav and Zemouregal?"
+    },
+    {
+      "character": "Elias White",
+      "line": "It's quite the tale and I doubt I'd be able to do it justice, but I can try and give you an overview."
+    },
+    {
+      "character": "Elias White",
+      "line": "Back in the Fourth Age, a group of travellers came upon an abandoned child. It is said the child was unusual for one so young. Dark eyes and a fierce countenance, yet fair hair and skin, with a kind smile."
+    },
+    {
+      "character": "Elias White",
+      "line": "The travellers saw this as an omen and set up camp where they found him. The camp soon grew into the town of Avarrocka, or Varrock as we now call it."
+    },
+    {
+      "character": "Elias White",
+      "line": "As for the child, he grew to become a mighty hero. After defending the town from a goblin attack, he took on the name Arrav, a curse word in goblin tongue, for he had become the Curse of Goblins."
+    },
+    {
+      "character": "Elias White",
+      "line": "Arrav's heroic deeds continued, until he was granted a vision of the future. He saw the Mahjarrat Zemouregal claiming Avarrocka as his own."
+    },
+    {
+      "character": "Elias White",
+      "line": "Determined to stop Zemouregal in any way he could, Arrav set out to find a powerful weapon with which to best him. His journey took him to the Imcando Dwarves, who granted him a powerful shield."
+    },
+    {
+      "character": "Player",
+      "line": "The Shield of Arrav?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Exactly. With the shield in hand, Arrav returned home and faced off against Zemouregal and his zombie horde. Thanks to him, the invasion was repelled, but at the cost of Arrav's life."
+    },
+    {
+      "character": "Elias White",
+      "line": "Zemouregal has not been seen since, but it is said that his last act before retreating was to claim Arrav's body, promising to turn him into an undead slave to one day return with."
+    },
+    {
+      "character": "Elias White",
+      "line": "Hundreds of years have now passed, and while there are few who haven't heard of Arrav, many have forgotten Zemouregal and his promise."
+    },
+    {
+      "character": "Player",
+      "line": "So what exactly is it you're researching?"
+    },
+    {
+      "character": "Elias White",
+      "line": "The Mahjarrat. It's fair to say they are quite the subject of fascination for me. Many of them once held dominion over huge parts of the world. Zamorak himself was a Mahjarrat, and he managed to achieve godhood!"
+    },
+    {
+      "character": "Elias White",
+      "line": "But now, they've all but vanished! Most will go through their whole lives without ever seeing one, and their most common appearance these days is in the spooky stories parents use to keep their children in line."
+    },
+    {
+      "character": "Player",
+      "line": "And that's why you're so interested in Zemouregal?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Indeed. An actual Mahjarrat, and a very dangerous one at that. Ancient tomes can only teach us so much. If I want to learn everything there is to know about their race, it's going to take some more hands on work."
+    },
+    {
+      "character": "Player",
+      "line": "What about the danger?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Well that's just all the more reason for me to be here. If Zemouregal is planning a new attack on Varrock, an expert on his race might come in quite useful."
+    },
+    {
+      "character": "Player",
+      "line": "If you're an explorer, I'm guessing you travel a lot?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Indeed! From the frozen wastes of the north to the ancient tombs of the desert, I've seen it all."
+    },
+    {
+      "character": "Player",
+      "line": "So where do you call home?"
+    },
+    {
+      "character": "Elias White",
+      "line": "I've lived in many places over the years, but I wouldn't really say I have a home. I guess here in Varrock would be the closest answer."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like you have quite the history."
+    },
+    {
+      "character": "Elias White",
+      "line": "Oh yes! If nothing else, I've definitely lived a varied life."
+    },
+    {
+      "character": "Player",
+      "line": "So you weren't always an explorer?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Not at all. I've done all sorts of things in my time. In fact, at one point I was an adventurer like you!"
+    },
+    {
+      "character": "Player",
+      "line": "What happened? Some sort of life-changing injury?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Thankfully not. I just found that when it came to my work, it was the history I discovered that interested me more than the treasure."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "I need to do something else."
+    },
+    {
+      "character": "Player",
+      "line": "I need to do something else first."
+    },
+    {
+      "character": "Elias White",
+      "line": "Very well. I'll be here when you're ready."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I think I'll pass."
+    },
+    {
+      "character": "Elias White",
+      "line": "Very well. If you change your mind, I'll be here."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. So what was this tip-off you received?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Ready to get back to it? My hope is we can pick up the trail left by those zombies right outside the inn."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have that key we found?"
+    },
+    {
+      "character": "Elias White",
+      "line": "I do indeed. Don't worry, I'll look after it until we need it."
+    },
+    {
+      "character": "Elias White",
+      "line": "Very well. I'll meet you back at the Jolly Boar Inn."
+    },
+    {
+      "character": "Elias White",
+      "line": "I'll meet you back at the Jolly Boar Inn,."
+    },
+    {
+      "character": "Elias White",
+      "line": "We need to try and pick up the trail left by those zombies."
+    },
+    {
+      "character": "Elias White",
+      "line": "We need to try and follow the trail left by those zombies."
+    },
+    {
+      "character": "Elias White",
+      "line": "Look! Footprints. Let's see where they lead us."
+    },
+    {
+      "character": "Elias White",
+      "line": "A key? I wonder what it opens... Best we keep a hold of it and find out."
+    },
+    {
+      "character": "Elias White",
+      "line": "Why are you trying to destroy that? We need it. I can look after it for you if you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'll keep hold of it."
+    },
+    {
+      "character": "Elias White",
+      "line": "A trapdoor! Now what do you reckon the chances are that we can unlock it with that key?"
+    },
+    {
+      "character": "Player",
+      "line": "Only one way to find out..."
+    },
+    {
+      "character": "Elias White",
+      "line": "Right, shall we go in?"
+    },
+    {
+      "character": "Player",
+      "line": "Let's do it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not ready yet."
+    },
+    {
+      "character": "Elias White",
+      "line": "Well let's not waste too much time. We need to see what's down there."
+    },
+    {
+      "character": "Elias White",
+      "line": "Let's see what we can find down that trapdoor."
+    },
+    {
+      "character": "Player",
+      "line": "I should probably fetch Elias first."
+    },
+    {
+      "character": "Elias White",
+      "line": "Ready to get back to it? We need to find out what's hiding down that trapdoor."
+    },
+    {
+      "character": "Elias White",
+      "line": "Fascinating... What is this place?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure."
+    },
+    {
+      "character": "Elias White",
+      "line": "Then let's look around and find out!"
+    },
+    {
+      "character": "Elias White",
+      "line": "Let's see if we can work out what this dungeon is for."
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "Zemouregal, this magical mist feels like it's corroding my insides. This seems like a bad idea..."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Nonsense! The mist has no side effects. Besides, it's essential for the new security system. Everyone needs to be imbued with it if they wish to pass through any doors or gates in the base."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Now, what news do you bring from the north?"
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "Your cousin grows unusually strong. We should consider allying ourselves to him, maybe even combine forces."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Combine forces? I won't hear of it! Lucien would never enter into such an arrangement unless he were the one in control, and I have no desire to serve at his behest."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Besides, Lucien isn't the only one with powerful resources..."
+    },
+    {
+      "character": "Player",
+      "line": "Is that...?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Arrav. So the stories are true. The legendary hero of Avarrocka, now the slave of a disgusting necromancer."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "After many long years, it is time for Arrav to take command of my zombie troops. And on that note, come, let us inspect the forces."
+    },
+    {
+      "character": "Elias White",
+      "line": "I see it's just as I suspected. Zemouregal is the one responsible for our zombie gatherings. We should inform the authorities in Varrock at once."
+    },
+    {
+      "character": "Player",
+      "line": "What about the rest of this place? There could be more useful information to uncover here."
+    },
+    {
+      "character": "Elias White",
+      "line": "True. Perhaps it would be wise for us to split up."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a plan. You head to Varrock and let them know what we've found so far. I'll keep exploring."
+    },
+    {
+      "character": "Elias White",
+      "line": "Very well. I'll meet you in the palace once you're done. Be careful."
+    },
+    {
+      "character": "Arrav",
+      "line": "You... You must leave this place. It's too... urgh..."
+    },
+    {
+      "character": "Arrav",
+      "line": "... too dangerous for the likes of you here."
+    },
+    {
+      "character": "Player",
+      "line": "Arrav? But how are you... Are you fighting Zemouregal's control?"
+    },
+    {
+      "character": "Arrav",
+      "line": "My body is... under his control. I can sometimes manage to speak when Zemouregal's concentration is elsewhere, but even then, it's... painful. My mind, however... gahh..."
+    },
+    {
+      "character": "Arrav",
+      "line": "... is still intact. He left it that way. He wanted me to feel the horror when I... urgh..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm so sorry, Arrav. There must be some way I can help you. What can I do?"
+    },
+    {
+      "character": "Arrav",
+      "line": "My heart... He has it. That's how he... how he... arrgh..."
+    },
+    {
+      "character": "Arrav",
+      "line": "I'm sorry, he calls to me. I must go. Please, leave... Leave before you..."
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "I'm telling you, he may be close to finding it."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Enough! I don't have time to worry about fairy tales."
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "But think of the power..."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Do you not think that I am all too aware of the power? You couldn't begin to imagine what I'd do to have it for myself! But I am also all too aware of what happens to those who try to claim it."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "If that is the fate Lucien wishes for himself, then he is welcome to it. In the meantime, we will focus on more practical endeavours. This is our last chance before the time comes to head north."
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "Your forces are ready, Zemouregal."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Then let us waste no more time. Begin the final preparations."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Soon, the Mahjarrat will hold dominion over these lands once more. Varrock will be mine. Arrav cannot save his people this time. He can only watch as he himself seals their fate!"
+    },
+    {
+      "character": "Player",
+      "line": "This isn't good. I'd better get to Varrock right away!"
+    },
+    {
+      "character": "Elias White",
+      "line": "Ah, there you are. How did things go after I left you?"
+    },
+    {
+      "character": "Player",
+      "line": "Not good. Zemouregal is nearly ready to begin another attack on Varrock."
+    },
+    {
+      "character": "Elias White",
+      "line": "Then it's just as I feared. I've already reported our discovery to Captain Rovin. Come, let's fill him in on everything else you've learnt."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "About time, adventurer. Your companion here tells me we have a zombie army on our doorstep!"
+    },
+    {
+      "character": "Elias White",
+      "line": "I'm afraid that's not all, Captain. has made some further discoveries."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed. Zemouregal plans to have Arrav lead the zombies in an attack on Varrock, and he plans to do so very soon."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Zemouregal attacking Varrock again is our greatest fear and worst nightmare. And to think he now has Arrav under his control as well... What a horrifying fate for our greatest hero."
+    },
+    {
+      "character": "Player",
+      "line": "There may still be hope for Arrav. While spying on Zemouregal, I came face to face with him. He may serve Zemouregal, but not willingly. His mind is still his own."
+    },
+    {
+      "character": "Elias White",
+      "line": "A zombie with his mind intact... Most zombies are mere husks, their souls having long departed their bodies. For one to still be sentient is highly unusual. Could it mean..."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Oh, nothing to worry about now. Still, we may be able to work with this. What did Arrav have to say to you?"
+    },
+    {
+      "character": "Player",
+      "line": "He told me that Zemouregal has his heart."
+    },
+    {
+      "character": "Elias White",
+      "line": "His heart? Interesting... Could that be how Zemouregal is controlling him?"
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "What are you saying? Does this mean we might be able to save Arrav?"
+    },
+    {
+      "character": "Elias White",
+      "line": "In the long term, potentially. But this will require a fair amount of research. Something I fear we have little time for right now."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Well then what other options do we have?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Well thanks to our good friend here, we have the very shield that was used to stop Zemouregal the first time he attacked."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "The Shield of Arrav? But is it really any use? Despite our attempts, we've never been able to unlock its power. Could it be that the legends were exaggerated and that it's just an ordinary shield?"
+    },
+    {
+      "character": "Elias White",
+      "line": "To answer that, our best bet would likely be to seek out the creators of the shield: The Imcando Dwarves of Camdozaal."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Hmm... but are the Imcando not extinct now?"
+    },
+    {
+      "character": "Player",
+      "line": "Not quite. There are still a few out there, including one in Camdozaal. Ramarno is his name."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Well then what are we waiting for?, speak to this Ramarno and seek his advice on how to use the shield to defend our city. In the meantime, we will prepare our defences."
+    },
+    {
+      "character": "Elias White",
+      "line": "You'd better head over to Camdozaal,. Time is not on our side."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Adventurer. Have you been to Camdozaal yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet. I'll be on my way shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Ramarno",
+      "line": "Ah,. I'm sure you have plenty of questions. I will do my best to answer them."
+    },
+    {
+      "character": "Player",
+      "line": "I need your help with a shield."
+    },
+    {
+      "character": "Ramarno",
+      "line": "A shield? What kind of shield?"
+    },
+    {
+      "character": "Player",
+      "line": "The Shield of Arrav. We've discovered that Zemouregal intends to attack the city of Varrock with a zombie army. It was the shield that stopped him last time."
+    },
+    {
+      "character": "Ramarno",
+      "line": "Ah, and you are hoping to use it to do so again. I wish I could help you, but I know little of the shield and its power. It was created far before my time."
+    },
+    {
+      "character": "Ramarno",
+      "line": "Still, I may have a way for you to learn what you need."
+    },
+    {
+      "character": "Player",
+      "line": "How?"
+    },
+    {
+      "character": "Ramarno",
+      "line": "The Sacred Forge of course!"
+    },
+    {
+      "character": "Player",
+      "line": "But how will a forge help me?"
+    },
+    {
+      "character": "Ramarno",
+      "line": "The Sacred Forge is far more than a mere furnace! It is a powerful relic from a time when the gods still walked these lands."
+    },
+    {
+      "character": "Ramarno",
+      "line": "Before Camdozaal's ruin, our sages would use the forge to guide our people. It is said the forge granted them access to the Dream Theatre, a place where they were blessed with visions of the past, present and future."
+    },
+    {
+      "character": "Player",
+      "line": "I see. So how do I access this Dream Theatre?"
+    },
+    {
+      "character": "Ramarno",
+      "line": "The Forge will need powering, but normal barronite won't work for this. You'll need to obtain some imbued barronite. With that, provided the forge deems you worthy, you will be able to enter the Dream Theatre."
+    },
+    {
+      "character": "Player",
+      "line": "And how do I get imbued barronite?"
+    },
+    {
+      "character": "Ramarno",
+      "line": "Head to the mines and mine yourself a barronite deposit. Once you have that, imbue it using the core of a chaos golem from the golem workshop."
+    },
+    {
+      "character": "Player",
+      "line": "How do I access the Dream Theatre?"
+    },
+    {
+      "character": "Ramarno",
+      "line": "You'll need to obtain some imbued barronite. Head to the mines and mine yourself a barronite deposit. Once you have that, imbue it using the core of a chaos golem from the golem workshop."
+    },
+    {
+      "character": "Ramarno",
+      "line": "I see you've got the imbued barronite. Just place it into the Sacred Forge. Provided the forge deems you worthy, you'll then be able to enter the Dream Theatre."
+    },
+    {
+      "character": "Player",
+      "line": "Arrav?"
+    },
+    {
+      "character": "Arrav",
+      "line": "What is this? I feel... free. I can speak without pain. How is this possible?"
+    },
+    {
+      "character": "Player",
+      "line": "We don't have much time. I'm talking to you from the Imcando Dream Theatre. I need to know how to use your shield."
+    },
+    {
+      "character": "Arrav",
+      "line": "The shield... of course. What do you need to know?"
+    },
+    {
+      "character": "Player",
+      "line": "You used the shield to defeat Zemouregal's army before. How can we do it again?"
+    },
+    {
+      "character": "Arrav",
+      "line": "It was not I who used the shield. When I faced Zemouregal, I cast the shield to the son of Avarrocka's founder. Only then did the zombies meet their doom."
+    },
+    {
+      "character": "Arrav",
+      "line": "It was his blood. The shield is tied to Avarrocka. Only one with the blood of the founder can use it."
+    },
+    {
+      "character": "Player",
+      "line": "So if I can find his descendant..."
+    },
+    {
+      "character": "Arrav",
+      "line": "Then you can save my home."
+    },
+    {
+      "character": "Arrav",
+      "line": "Wait... It's him! He knows you're here!"
+    },
+    {
+      "character": "Zemouregal",
+      "line": "And what do we have here? Now, this is interesting... A snooping adventurer!"
+    },
+    {
+      "character": "Zemouregal",
+      "line": "So you hope to stop me do you, you pathetic human wretch? Well my zombie army is at the walls of Varrock. You are already too late!"
+    },
+    {
+      "character": "Ramarno",
+      "line": "Well? How did it go?"
+    },
+    {
+      "character": "Player",
+      "line": "I know how to use the shield!"
+    },
+    {
+      "character": "Ramarno",
+      "line": "Glad to hear it."
+    },
+    {
+      "character": "Player",
+      "line": "Now I need to get back to Varrock as fast as possible. I just hope I'm not too late."
+    },
+    {
+      "character": "Player",
+      "line": "Oh this is not good! I need to find Elias and Captain Rovin!"
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "Where did all these zombies come from?"
+    },
+    {
+      "character": "Player",
+      "line": "It's an invasion by Zemouregal."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "The gods preserve us!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'm working on a plan to get rid of them."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "We're doomed!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Whatever you want, adventurer, it will need to wait. In case you hadn't noticed, there are zombies all over the palace!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, Your Majesty. I'm trying to get rid of them."
+    },
+    {
+      "character": "King Roald",
+      "line": "Well get to it then, rather than standing there yapping at me!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "What's going on? Where have all these zombies come from?"
+    },
+    {
+      "character": "Player",
+      "line": "They're an army belonging to Zemouregal."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Zemouregal? Saradomin preserve us!"
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "What are all these horrible, icky zombies doing in my nice, clean palace? You! You're an adventurer! Get out there and sort this out!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it."
+    },
+    {
+      "character": "Reldo",
+      "line": "What's happening? Where did all these zombies come from?"
+    },
+    {
+      "character": "Player",
+      "line": "It's an army of zombies belonging to Zemouregal."
+    },
+    {
+      "character": "Reldo",
+      "line": "Ah... that is bad news indeed."
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on a way to get rid of them, so fingers crossed."
+    },
+    {
+      "character": "Ambassador Ferrnook",
+      "line": "Why are there zombies all over the place? Is this normal in Misthalin?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really. Normally they stick to caves and sewers."
+    },
+    {
+      "character": "Ambassador Ferrnook",
+      "line": "Well I hope they get removed soon. This isn't very safe."
+    },
+    {
+      "character": "Player",
+      "line": "Don't you think you should try and get to somewhere safer?"
+    },
+    {
+      "character": "Ambassador Ferrnook",
+      "line": "Well, I'd prefer to wait it out, but if someone doesn't deal with these things soon, I may have to."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "About time you showed up! The zombies have breached the northern wall and are swarming the palace! We've managed to keep them from moving on the rest of Varrock for now, but we won't be able to do so forever!"
+    },
+    {
+      "character": "Elias White",
+      "line": "The situation isn't great, but all may not be lost. Did you manage to find out anything about how the shield works?"
+    },
+    {
+      "character": "Player",
+      "line": "Sort of. I discovered that only a descendant of Varrock's original founder can use the shield, but I'm not sure how we'd find someone of that lineage still alive today."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "The library would be your best bet. Get down there and see if Reldo can help you."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Oh, and you'd better take this."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "You're going to be needing this."
+    },
+    {
+      "character": "Elias White",
+      "line": "Have you managed to make any progress, ?"
+    },
+    {
+      "character": "Elias White",
+      "line": "You're back. Have you managed to make any progress?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, no."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Then you should get down to the library and talk to Reldo. If we don't get this situation under control, Varrock is doomed, and I'd very much prefer it if that could be avoided."
+    },
+    {
+      "character": "Reldo",
+      "line": "Oh wonderful... he's gone."
+    },
+    {
+      "character": "Player",
+      "line": "Who's gone?"
+    },
+    {
+      "character": "Reldo",
+      "line": "Surok Magis. The teleport block should have stopped him escaping, but it seems he was able to use the zombies as a distraction and disable the spell."
+    },
+    {
+      "character": "Reldo",
+      "line": "In hindsight, imprisoning a deadly mage in a library was maybe not a very well thought out plan, but it seems we have bigger issues to deal with for now."
+    },
+    {
+      "character": "Player",
+      "line": "You can say that again. Speaking of which, I need your help. I must find out if there are any living descendants of the founder of Varrock."
+    },
+    {
+      "character": "Reldo",
+      "line": "I'm normally the first person to chat about local history, but given the situation, is now really the best time for this?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. This information may help us to defeat the zombies."
+    },
+    {
+      "character": "Reldo",
+      "line": "Well in that case, I think I have what you need. There was a document on the desk in the corner listing the elders who sent Arrav on his original quest for the Shield of Arrav."
+    },
+    {
+      "character": "Reldo",
+      "line": "One of those elders would have been the original founder of the city."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a good start, but how would that help me track down their descendants?"
+    },
+    {
+      "character": "Reldo",
+      "line": "Notable families like that are unlikely to have changed their surnames over the years. If you consult the latest census, you'll hopefully find some matching names. You'll find it just next to the desk."
+    },
+    {
+      "character": "Player",
+      "line": "That's perfect! Thanks, Reldo."
+    },
+    {
+      "character": "Reldo",
+      "line": "Any luck with your search?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Reldo",
+      "line": "That document on the desk in the corner should be of use. It listed the names of the elders who sent Arrav on his original quest for the shield."
+    },
+    {
+      "character": "Reldo",
+      "line": "If you cross-reference the document with the latest census, you should hopefully be able to find their descendants."
+    },
+    {
+      "character": "Player",
+      "line": "Reldo has given me a lead. Hopefully it will help us find someone who can use the shield."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Good. Follow this lead and see where it takes you, but be quick about it. If we don't get this situation under control, Varrock is doomed, and I'd very much prefer it if that could be avoided."
+    },
+    {
+      "character": "Reldo",
+      "line": "Any luck with your search for those descendants?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so. I have some potential contenders at least."
+    },
+    {
+      "character": "Reldo",
+      "line": "Well let's hope this works then. Things are starting to look a little bit problematic."
+    },
+    {
+      "character": "Player",
+      "line": "I have some contenders for the descendant of Varrock's original founder. I now just need to work out who the right one is."
+    },
+    {
+      "character": "Elias White",
+      "line": "Try giving the shield to them. Whoever the right person is, the shield should respond to them in some way."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "And be quick about it. If we don't get this situation under control, Varrock is doomed, and I'd very much prefer it if that could be avoided."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'm working on a plan to get rid of them. You might be able to help by using the Shield of Arrav."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "The Shield of Arrav?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. A descendant of an original elder of Avarrocka can apparently use it to stop the zombies. You're one of those descendants, although I'm not sure if you're the right one."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "Well, I suppose anything is worth a try."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "Nothing seems to be happening."
+    },
+    {
+      "character": "Player",
+      "line": "It must be someone else who's the right descendant then."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "Oh no... What if this doesn't work? We're doomed! We're doomed!"
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "Nothing seems to be happening. What made you think I was descended from an original elder of Avarrocka?"
+    },
+    {
+      "character": "Player",
+      "line": "Well your surname is Prysin. It matches the name of an elder called Khom Prysin."
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "But I'm not actually a blood descendant of the Prysins. My great-grandfather, Wally, was adopted into the family."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... So, are there any genuine Prysins around?"
+    },
+    {
+      "character": "Sir Prysin",
+      "line": "Well, none with the name Prysin. The last descendant of the Prysin line was a lady named Rhee Prysin. She married into the Fitzharmon family."
+    },
+    {
+      "character": "Player",
+      "line": "As in Dimintheis Fitzharmon? Sounds like I'd better pay him a visit."
+    },
+    {
+      "character": "Player",
+      "line": "All might not be lost. You might be able to help us by using the Shield of Arrav."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "But I don't know how to use the shield... No one does."
+    },
+    {
+      "character": "Player",
+      "line": "I have a reason to believe that you are descended from an original elder of Avarrocka, which might mean that you have the ability to use it. Here, hold it and see if anything happens."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Nothing special seems to be happening."
+    },
+    {
+      "character": "Player",
+      "line": "Then it must be someone else who's descended from the correct elder."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Well then you need to find them before these zombies kill us all!"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Nothing special seems to be happening. Why do you think I'm descended from an original elder of Avarrocka, anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "Well your surname is Raispher. It matches the name of an elder called Dathero Raispher."
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Smart thinking, but also flawed. I'm not actually a blood descendant of the Raisphers. My great-grandfather was adopted into the family."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... So, are there any genuine Raisphers around?"
+    },
+    {
+      "character": "Aeonisig Raispher",
+      "line": "Well, none with the name Raispher. The last descendant of the Raispher line was a lady named Lucinda Raispher. She married into the Fitzharmon family."
+    },
+    {
+      "character": "Player",
+      "line": "Well I might have a solution to that. We have the Shield of Arrav."
+    },
+    {
+      "character": "King Roald",
+      "line": "No one has figured out how to unlock the powers of the shield in hundreds of years! Are we so desperate that we are relying on legends?"
+    },
+    {
+      "character": "Player",
+      "line": "It might be that you yourself can use it. I have a reason to believe that you are descended from an original elder of Avarrocka."
+    },
+    {
+      "character": "King Roald",
+      "line": "Well of course! Would you expect anything less of the man who is king?"
+    },
+    {
+      "character": "Player",
+      "line": "Here, hold the shield and see if anything happens."
+    },
+    {
+      "character": "King Roald",
+      "line": "It doesn't seem to be doing anything special."
+    },
+    {
+      "character": "Player",
+      "line": "It must be someone else who is descended from the correct elder then."
+    },
+    {
+      "character": "King Roald",
+      "line": "Well then you'd better get out there and find them! These zombies need to be stopped!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Hello, do you need any help?"
+    },
+    {
+      "character": "Horvik",
+      "line": "A shield? Sounds like my area. What do you need?"
+    },
+    {
+      "character": "Player",
+      "line": "It's not your skills as a Blacksmith I need. It's to do with the zombie attack on the palace!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Oh, I see. What do you need me to do?"
+    },
+    {
+      "character": "Player",
+      "line": "I have reason to believe that you are descended from an original elder of Avarrocka, which might mean you have the ability to use the Shield of Arrav to defeat the zombies."
+    },
+    {
+      "character": "Horvik",
+      "line": "The Shield of Arrav? Sounds a bit unlikely to me, but I'll give it a go."
+    },
+    {
+      "character": "Horvik",
+      "line": "It doesn't seem to be doing anything exciting."
+    },
+    {
+      "character": "Player",
+      "line": "It must be a different descendant that I'm after then."
+    },
+    {
+      "character": "Horvik",
+      "line": "Well good luck finding them. Last thing we need is those zombies moving on the rest of the city."
+    },
+    {
+      "character": "Horvik",
+      "line": "It doesn't seem to be doing anything exciting. Why do you think I was descended from an original elder of Avarrocka, anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "Well your surname is Ravitz. It matches the name of an elder called Ramone Ravitz."
+    },
+    {
+      "character": "Horvik",
+      "line": "Ah... I'm not actually a blood descendant of the Ravitzes. My great-grandfather was adopted into the family."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... So, are there any genuine Ravitzes around?"
+    },
+    {
+      "character": "Horvik",
+      "line": "I'm the only one I know of with the Ravitz surname. The last descendant of the Ravitz line was a lady named Shauna Ravitz. She married into the Fitzharmon family."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Welcome to the museum of Varrock."
+    },
+    {
+      "character": "Player",
+      "line": "I need your help with the zombie invasion."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm flattered, but I'm sure I don't have the combat prowess for those kinds of shenanigans."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe not normally, but the Shield of Arrav might change that."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm not sure the shield, nice as it is, will make that much difference."
+    },
+    {
+      "character": "Player",
+      "line": "Well I have reason to believe that you are descended from an original elder of Avarrocka, which might mean you have the ability to use the shield. Here, hold it and see if anything happens."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well, I've held it a few times in the course of my work, but I'll give it a go."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Nothing special seems to be happening."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well I wish you luck in finding them."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Nothing special seems to be happening. Why do you think I'm descended from an original elder of Varrock, anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, your surname is Halen. It matches the name of an elder called Marv Halen."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Now that is smart thinking, but I'm not actually a blood descendant of the original Halens. My great-grandfather was adopted into the family."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... So, are there any genuine Halens around?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "The last descendant of the Halen line that I know of was a lady named Edwina. She married into the Fitzharmon family."
+    },
+    {
+      "character": "Player",
+      "line": "Romeo! I need to speak to you. A zombie army has invaded the palace and you might be the only one who's able to stop them."
+    },
+    {
+      "character": "Romeo",
+      "line": "Ooh, do you really think I could? I've always wanted to be a hero!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm not sure. We might be able to find out with this shield though."
+    },
+    {
+      "character": "Romeo",
+      "line": "Shield? What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "I have reason to believe that you are descended from an original elder of Avarrocka, which might mean that you can use the Shield of Arrav to defeat the zombies. Here, hold it and see if anything happens."
+    },
+    {
+      "character": "Romeo",
+      "line": "Ooh, okay, that sounds fun!"
+    },
+    {
+      "character": "Romeo",
+      "line": "Oh... Nothing's happening."
+    },
+    {
+      "character": "Player",
+      "line": "I guess it must be a different descendant that I'm after."
+    },
+    {
+      "character": "Romeo",
+      "line": "That's a shame. I would have quite liked to have been the one to use it."
+    },
+    {
+      "character": "Romeo",
+      "line": "Oh... Nothing's happening. Are you sure it was me who was meant to be using it?"
+    },
+    {
+      "character": "Player",
+      "line": "Well it wasn't a guarantee, but your surname matches that of an elder called Ramone Gontamue."
+    },
+    {
+      "character": "Romeo",
+      "line": "Oh, well I'm not actually a real descendant of the Gontamues. My great-grandfather was adopted into the family."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... So, are there any genuine Gontamues around?"
+    },
+    {
+      "character": "Romeo",
+      "line": "Not exactly. The last descendant of the Gontamue line was Lilith Gontamue. She married into the Fitzharmon family."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "You have my eternal gratitude for all you have done in saving my family's honour, adventurer. Perhaps some day my sons will overcome their differences."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Well, I suppose I could help, but I am getting on a bit now. I'm not quite the warrior I used to be."
+    },
+    {
+      "character": "Player",
+      "line": "I'm hoping the Shield of Arrav may help a little."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Ah, yes, I know of the shield's legend. I don't understand what that has to do with me though."
+    },
+    {
+      "character": "Player",
+      "line": "I have reason to believe that you're descended from one of the original elders of Avarrocka, which might mean you have the ability to use the shield."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "That doesn't sound entirely convincing, but I'll give it a go."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Well, that is impressive."
+    },
+    {
+      "character": "Player",
+      "line": "I think you might be the one! Quick, let's get to the palace!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Dimintheis."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "I will not forget what you did for my family,. Those 500,000 coins have allowed us to put food on the table."
+    },
+    {
+      "character": "Player",
+      "line": "That's no problem."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "You want me to use the shield? It seems to be responding to me in some way! Is this what you were expecting?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so! Quick, let's get to the palace!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Die, zombie scum!"
+    },
+    {
+      "character": "Monk of Zamorak",
+      "line": "Hurrah! Free at last."
+    },
+    {
+      "character": "Monk of Zamorak",
+      "line": "Erm."
+    },
+    {
+      "character": "Queen Ellamaria",
+      "line": "Stay back! I won't let you eat me!"
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "Zemouregal... The forces... What do we do?"
+    },
+    {
+      "character": "Zemouregal",
+      "line": "What do we do? We flee, you fool!"
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "But all the work..."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Do you have a better suggestion? Are you hiding some secret to overcoming such an astounding disaster?"
+    },
+    {
+      "character": "Sharathteerk",
+      "line": "No..."
+    },
+    {
+      "character": "Zemouregal",
+      "line": "Then recall Arrav at once! There is nothing more to be gained here. It is time for us to head north."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "It seems the shield worked better than anyone could have hoped for. From what we can tell, not a single zombie remains! It was a close one, but thanks to you, Varrock is saved!"
+    },
+    {
+      "character": "Player",
+      "line": "It wouldn't have been possible without Dimintheis."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Indeed. I will ensure the King is made aware of his contribution."
+    },
+    {
+      "character": "Player",
+      "line": "Any word on what happened to Zemouregal?"
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "There's been no sign of him so far. We'll keep an eye out, but I suspect he'll have gone to ground."
+    },
+    {
+      "character": "Player",
+      "line": "And he'll have Arrav with him."
+    },
+    {
+      "character": "Elias White",
+      "line": "We may not have been able to save Arrav today, but thanks to your discoveries, we now have a lead to follow. It will take me some time, but once I have something on this heart business, I'll be in touch."
+    },
+    {
+      "character": "Elias White",
+      "line": "And on that note, I intend to get started right away. Until we meet again."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Well once again, adventurer, on behalf of Varrock, you have my thanks. Today's victory will go down in history."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Now, you'd best be on your way. I have lots of work to do, and I'm sure you have better places to be than here."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Oh, it's you. Thank you again for your help in defeating the zombie army."
+    },
+    {
+      "character": "Player",
+      "line": "You're welcome."
+    },
+    {
+      "character": "Captain Rovin",
+      "line": "Now, you must excuse me. I have lots to do."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Hello again, adventurer. I hope that Shield of Arrav business marks the start of something big for my family. Maybe it will help me finally get out of this hole!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Combine that with the whole Shield of Arrav business and things are really starting to look up for us!"
+    },
+    {
+      "character": "Elias White",
+      "line": "Ah, hello there,. Good to see you."
+    },
+    {
+      "character": "Player",
+      "line": "And you, Elias. So what brings you all the way out here?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Well it turns out the desert was the best place to begin my research into Arrav and his heart. Not too surprising of course, given the burial practices here."
+    },
+    {
+      "character": "Player",
+      "line": "And how's that going so far?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Pretty well. In fact, I think I'm getting close to something. It's related to that old mastaba up on the plateau. I reckon it might contain the knowledge we need to help old Arrav out."
+    },
+    {
+      "character": "Player",
+      "line": "And you, Elias. So you're back out here again?"
+    },
+    {
+      "character": "Elias White",
+      "line": "Indeed. Turns out the desert was the best place to begin my research into Arrav and his heart. Not too surprising of course, given the burial practices here."
+    },
+    {
+      "character": "Elias White",
+      "line": "In fact, as you might recall, I was here before to look into that old mastaba up on the plateau."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I remember. You said it might contain important information on the Mahjarrat."
+    },
+    {
+      "character": "Elias White",
+      "line": "Indeed I did. And I reckon it might also contain the knowledge we need to help old Arrav out."
+    },
+    {
+      "character": "Player",
+      "line": "Excellent!"
+    },
+    {
+      "character": "Elias White",
+      "line": "Now, I still have quite a bit of preparatory work to do before we consider heading inside, but once that's done, I'll be in touch."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good. I'd best leave you to your work."
+    },
+    {
+      "character": "Elias White",
+      "line": "Until next time."
+    },
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Historian Minas",
+      "line": "Hello there, welcome to Varrock Museum! Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "I have some information that might be of use in your displays."
+    },
+    {
+      "character": "Historian Minas",
+      "line": "That's grand! We're always glad to have more facts. Now, tell me what you know..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, we got rid of the marauding zombies."
+    },
+    {
+      "character": "Historian Minas",
+      "line": "That's handy. Zombies do tend to leave horrible muddy footprints around the place. So what actually happened with them?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, Zemouregal the Mahjarrat sent his zombie army against Varrock. However, we figured out how to stop him."
+    },
+    {
+      "character": "Player",
+      "line": "I found out that the descendant of the founder of Varrock could use the shield to stop the zombie army. It turns out that Dimintheis was that descendant, so he was able to defeat the zombies."
+    },
+    {
+      "character": "Historian Minas",
+      "line": "My, my, that is all very interesting. I shall make sure the display is updated at once! Display number 24, 4th Age, year 700-800."
+    },
+    {
+      "character": "Historian Minas",
+      "line": "Oh, and before I forget, we found this old lamp lying around. Since you've done such a sterling job, we'd like you to have it."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, random bits of tat, thank you very much."
+    },
+    {
+      "character": "Historian Minas",
+      "line": "You're welcome!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aeonisig Raispher",
+      "description": "Middle-aged male, British accent, uptight and pious tone, an extremist Saradominist priest who serves as a cautious religious advisor to the king."
+    },
+    {
+      "name": "Ambassador Ferrnook",
+      "description": "Adult male gnome, high-pitched voice with a refined diplomatic tone, a peaceful and formal ambassador representing gnome interests at the royal court."
+    },
+    {
+      "name": "Arrav",
+      "description": "Adult male, deep and weary voice with pained undertones, a legendary hero now enslaved as an undead but fighting to retain his consciousness and humanity."
+    },
+    {
+      "name": "Captain Rovin",
+      "description": "Middle-aged male, British accent, authoritative and commanding military tone, the stern head of the palace guard who takes his duties very seriously."
+    },
+    {
+      "name": "Curator Haig Halen",
+      "description": "Elderly male, British accent, scholarly and slightly pompous tone, a museum curator who is possessive of artifacts and proud of his collection."
+    },
+    {
+      "name": "Dimintheis",
+      "description": "Elderly male, refined British accent, dignified but weary tone, a once-wealthy nobleman fallen on hard times who maintains his aristocratic manner despite his circumstances."
+    },
+    {
+      "name": "Elias White",
+      "description": "Middle-aged male, British accent, wise and enthusiastic tone, a well-travelled explorer and scholar fascinated by ancient history and the Mahjarrat."
+    },
+    {
+      "name": "Historian Minas",
+      "description": "Elderly male, British accent, warm and encouraging scholarly tone, an aged museum historian passionate about documenting Gielinor's history."
+    },
+    {
+      "name": "Horvik",
+      "description": "Adult male, British working-class accent, practical and straightforward tone, a skilled armoursmith who takes pride in his craft."
+    },
+    {
+      "name": "King Roald",
+      "description": "Middle-aged male, British accent, regal but somewhat indecisive tone, a straightforward ruler who commands respect but can be impatient under pressure."
+    },
+    {
+      "name": "Monk of Zamorak",
+      "description": "Adult male, low gravelly voice with a sinister edge, a fanatical follower of Zamorak who revels in chaos."
+    },
+    {
+      "name": "Queen Ellamaria",
+      "description": "Middle-aged female, British accent, haughty and imperious tone with a short temper, a queen of humble origins who now looks down on commoners."
+    },
+    {
+      "name": "Ramarno",
+      "description": "Adult male dwarf, deep gravelly voice, lonely and hopeful tone, a blind Imcando dwarf who believes himself the last of his kind."
+    },
+    {
+      "name": "Reldo",
+      "description": "Middle-aged male, British accent, quiet and helpful scholarly tone, the knowledgeable palace librarian who assists adventurers with historical research."
+    },
+    {
+      "name": "Romeo",
+      "description": "Young adult male, British accent, dreamy and emotionally dramatic tone, a hopeless romantic who is dense but well-meaning and eager to be heroic."
+    },
+    {
+      "name": "Sharathteerk",
+      "description": "Adult male gargoyle, deep raspy monstrous voice, nervous and subservient tone, an intelligent but mistreated servant who offers counsel to his cruel master."
+    },
+    {
+      "name": "Sir Prysin",
+      "description": "Adult male, British accent, pompous and anxious tone, a knight who inherited his position through ancestry rather than merit and is easily panicked."
+    },
+    {
+      "name": "Zemouregal",
+      "description": "Ancient male Mahjarrat, deep booming voice with cold menace, an arrogant and ruthless necromancer who commands undead armies and seeks to conquer Varrock."
+    }
+  ]
+}

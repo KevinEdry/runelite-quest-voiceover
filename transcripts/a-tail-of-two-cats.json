@@ -1,0 +1,1648 @@
+{
+  "branch": "quest/a-tail-of-two-cats",
+  "quest_name": "A Tail of Two Cats",
+  "lines": [
+    {
+      "character": "Unferth",
+      "line": "Hello, do you have a cat?"
+    },
+    {
+      "character": "Player",
+      "line": "I do but my cat is in a safe place."
+    },
+    {
+      "character": "Unferth",
+      "line": "Oh, hmm."
+    },
+    {
+      "character": "Unferth",
+      "line": "Hello, I see you have a cat."
+    },
+    {
+      "character": "Cat",
+      "line": "Meow."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed I do! Do you have a cat?"
+    },
+    {
+      "character": "Unferth",
+      "line": "I do! His name is Bob but I can't find him!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear..."
+    },
+    {
+      "character": "Unferth",
+      "line": "I haven't seen him for a week! What am I to do?!"
+    },
+    {
+      "character": "Cat",
+      "line": "Meow, meow."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... My cat is trying to say something but I'm not wearing the Amulet of Catspeak."
+    },
+    {
+      "character": "Cat",
+      "line": "What a wet blanket, Bob can look after himself."
+    },
+    {
+      "character": "Player",
+      "line": "I know puss, but he is in distress."
+    },
+    {
+      "character": "Unferth",
+      "line": "Whaa..."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "Tell you what. I'll help you!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Would you? Oh that would be so great!"
+    },
+    {
+      "character": "Unferth",
+      "line": "I don't want to leave the house in case Bob comes back."
+    },
+    {
+      "character": "Unferth",
+      "line": "He must be hungry by now!"
+    },
+    {
+      "character": "Cat",
+      "line": "This guy gets on my nerves."
+    },
+    {
+      "character": "Player",
+      "line": "Shh!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Huh?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... Where did you see Bob last?"
+    },
+    {
+      "character": "Unferth",
+      "line": "Well he usually comes back to me once a week. Usually a Wednesday a bit before lunchtime."
+    },
+    {
+      "character": "Player",
+      "line": "I wonder why it's on a Wednesday."
+    },
+    {
+      "character": "Unferth",
+      "line": "Hmph, well, this week he hasn't come back for his food and I'm worried."
+    },
+    {
+      "character": "Player",
+      "line": "So he could be anywhere?"
+    },
+    {
+      "character": "Unferth",
+      "line": "I guess so."
+    },
+    {
+      "character": "Unferth",
+      "line": "I've just had an idea!"
+    },
+    {
+      "character": "Cat",
+      "line": "Oh my, you win... a biscuit!"
+    },
+    {
+      "character": "Player",
+      "line": "Puss!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Do you want to help or not?!"
+    },
+    {
+      "character": "Player",
+      "line": "I said I would, didn't I?"
+    },
+    {
+      "character": "Unferth",
+      "line": "Ok."
+    },
+    {
+      "character": "Unferth",
+      "line": "My friend Hild is cleverer than me..."
+    },
+    {
+      "character": "Cat",
+      "line": "ANYONE would be 'cleverer'!"
+    },
+    {
+      "character": "Player",
+      "line": "Hehe!"
+    },
+    {
+      "character": "Unferth",
+      "line": "This isn't funny!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Where was I? Oh yes... my friend Hild might be able to locate where Bob is, she lives in the house just up the road."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. I'll go speak to her!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Please hurry!"
+    },
+    {
+      "character": "Player",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Unferth",
+      "line": "Have you spoken to Hild about locating Bob?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Unferth",
+      "line": "She lives in the village, just follow the path north a little."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll speak to her."
+    },
+    {
+      "character": "Hild",
+      "line": "Greetings Adventurer, why have you come to me in my abode?"
+    },
+    {
+      "character": "Player",
+      "line": "Greetings Hild, I am trying to find Unferth's cat..."
+    },
+    {
+      "character": "Cat",
+      "line": "Unferth's cat? Pfft! Unferth is Bob's human!"
+    },
+    {
+      "character": "Player",
+      "line": "What are you talking about?"
+    },
+    {
+      "character": "Hild",
+      "line": "Your cat speaks some truth, it is humans that misinterpret their relationship with cats."
+    },
+    {
+      "character": "Player",
+      "line": "You understand what my cat is saying?!"
+    },
+    {
+      "character": "Hild",
+      "line": "Indeed."
+    },
+    {
+      "character": "Player",
+      "line": "Er..."
+    },
+    {
+      "character": "Cat",
+      "line": "Bob didn't come home this week."
+    },
+    {
+      "character": "Hild",
+      "line": "Hmm. This is not like Bob, I wonder what could be the problem?"
+    },
+    {
+      "character": "Cat",
+      "line": "I don't think there is a problem, Bob is probably chasing females again!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello? I'm still here!"
+    },
+    {
+      "character": "Hild",
+      "line": "I am sorry. I will help Unferth find Bob, he has been a friend of mine for many years."
+    },
+    {
+      "character": "Player",
+      "line": "Ah... good! He could be anywhere though!"
+    },
+    {
+      "character": "Hild",
+      "line": "I see you have an Amulet of Catspeak. If you open the amulet up, you will see contained inside is a mechanism. If this is enchanted correctly it can be used to locate a cat, in our case Bob. If you bring me five death runes"
+    },
+    {
+      "character": "Hild",
+      "line": "then I will be able to perform the enchantment for you."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the death runes."
+    },
+    {
+      "character": "Hild",
+      "line": "Come back to me when you have them."
+    },
+    {
+      "character": "Hild",
+      "line": "Greetings Adventurer, do you have the death runes so I can enchant your Amulet of Catspeak?"
+    },
+    {
+      "character": "Player",
+      "line": "I have the death runes with me now."
+    },
+    {
+      "character": "Hild",
+      "line": "Good. Give me the amulet so that I may perform the enchantment."
+    },
+    {
+      "character": "Hild",
+      "line": "Using the enchanted amulet is easy; open up the amulet and you'll see a cat's face, use the whiskers to rotate the cats nose. You'll see the nose move and the new direction highlighted. When the nose points in the"
+    },
+    {
+      "character": "Hild",
+      "line": "direction that Bob is in, the eyes will light up and the mouth will open. You'll need to head in that direction and then check the direction again. If you are very close to Bob then the eyes and mouth will animate no"
+    },
+    {
+      "character": "Hild",
+      "line": "matter which way the nose is pointing. That's all there is to it, good luck!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Bob! I've found you at last!"
+    },
+    {
+      "character": "Cat",
+      "line": "Hi Bob!"
+    },
+    {
+      "character": "Bob",
+      "line": "Hi there son."
+    },
+    {
+      "character": "Player",
+      "line": "Don't start that again!"
+    },
+    {
+      "character": "Cat",
+      "line": "The humans have been looking for you, they get worried too easily."
+    },
+    {
+      "character": "Bob",
+      "line": "Ah. I should've realised Unferth would miss me."
+    },
+    {
+      "character": "Cat",
+      "line": "What's up?"
+    },
+    {
+      "character": "Bob",
+      "line": "Sigh. I can't believe it but I've fallen for Neite!"
+    },
+    {
+      "character": "Player",
+      "line": "Neite...now, I'm sure I've heard that name before..."
+    },
+    {
+      "character": "Bob",
+      "line": "What a beauty she is! It's the way the shimmer from the hot sand makes her eyes sparkle, the way she flicks her tail as she leaps gracefully across the pyramids, the way she cleans herself after a good rat. As you humans"
+    },
+    {
+      "character": "Bob",
+      "line": "would say, she's the cat's whiskers. Oh how I long to be curled up with her in front of a log fire and a big bowl of tuna. Menaphos would be a great place to start a family."
+    },
+    {
+      "character": "Cat",
+      "line": "Wow! He's got it bad! Real bad! I never thought I'd see the day!"
+    },
+    {
+      "character": "Bob",
+      "line": "I know but there is something about her. The way she...well, it's everything! Oh, the hidden pain of love. Love lies not with the eyes but with the mind, and therefore is the winged Cupid painted blind."
+    },
+    {
+      "character": "Player",
+      "line": "I'm starting to feel sick..."
+    },
+    {
+      "character": "Bob",
+      "line": "I haven't been home because I've wanted to be alone."
+    },
+    {
+      "character": "Cat",
+      "line": "Does Neite feel the same way about you?"
+    },
+    {
+      "character": "Bob",
+      "line": "She said she has feelings for me but would never get involved with someone like me that has no family or status."
+    },
+    {
+      "character": "Cat",
+      "line": "Don't you know who your parents are?"
+    },
+    {
+      "character": "Bob",
+      "line": "All I know is that Gertrude found me on her doorstep one day. She looked after me when I was a kitten."
+    },
+    {
+      "character": "Player",
+      "line": "The crazy cat lady?"
+    },
+    {
+      "character": "Cat",
+      "line": "Don't you have any memory of your parents?"
+    },
+    {
+      "character": "Bob",
+      "line": "Nothing! The furthest back I can remember is Gertrude looking after me."
+    },
+    {
+      "character": "Cat",
+      "line": "let's go and talk to Gertrude! Perhaps she knows who Bob's parents are!"
+    },
+    {
+      "character": "Player",
+      "line": "Do I look like a match maker?!"
+    },
+    {
+      "character": "Cat",
+      "line": "Come on! We can help Bob!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Bob!"
+    },
+    {
+      "character": "Bob",
+      "line": "Hmph...Oh Neite...My bounty is as boundless as the sea, my love as deep. The more I give to thee, the more I have, for both are infinite."
+    },
+    {
+      "character": "Cat",
+      "line": "OK OK... This is becoming dangerous. If we don't do something he will probably implode! We'll go to Gertrude and ask if she knows who your parents are!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again Gertrude!"
+    },
+    {
+      "character": "Gertrude",
+      "line": "Welcome back adventurer! How is your cat?"
+    },
+    {
+      "character": "Cat",
+      "line": "I'm fine thanks."
+    },
+    {
+      "character": "Player",
+      "line": "He says he's fine."
+    },
+    {
+      "character": "Gertrude",
+      "line": "What can I do for you then? I hope it's not about death runes. I heard a terrible rumour you know."
+    },
+    {
+      "character": "Player",
+      "line": "Death runes? No idea.... No, it's not that. I, erm..."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Come on, spit it out."
+    },
+    {
+      "character": "Player",
+      "line": "This is going to sound silly..."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Why, are you going to talk in a stupid accent? Go on, try me."
+    },
+    {
+      "character": "Player",
+      "line": "Ok... Well... Do you know who Bob's parents are?"
+    },
+    {
+      "character": "Gertrude",
+      "line": "Bob.... you mean the big tomcat who hangs around the Heroes' guild? No, I'm afraid I don't know a lot about him. People round here know I care for sick and abandoned animals, and one day I found a basket with"
+    },
+    {
+      "character": "Gertrude",
+      "line": "a kitten inside it left on my doorstep. I brought him up as best I could and he soon learnt to take care of himself. He really was an amazing little thing. There was this one time when....."
+    },
+    {
+      "character": "Cat",
+      "line": "We don't have time for this, Bob could be in trouble! Tell her to get on with it."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Crumbs! Your cat's quite noisy isn't it? Is everything OK?"
+    },
+    {
+      "character": "Player",
+      "line": "No, it's erm... It needs to be taken to the vets, URGENTLY. For an emergency AMPUTATION!"
+    },
+    {
+      "character": "Cat",
+      "line": "I do hope you're joking. These claws are real you know, none of your bronze nonsense."
+    },
+    {
+      "character": "Player",
+      "line": "See, it just can't stop howling. Allergic to cat hair apparently. Anyway, you were talking about Bob's parents."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Oh was I... Oh yes, well, I'm afraid I don't know anything about them adventurer."
+    },
+    {
+      "character": "Cat",
+      "line": "Hang on, maybe this is something to do with the legend... yes, it just might. Have you ever heard of Robert the Strong?"
+    },
+    {
+      "character": "Player",
+      "line": "Vaguely?"
+    },
+    {
+      "character": "Cat",
+      "line": "Ask Gertrude if she knows anything."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Gertrude, do you know anything of the legend, Robert the Strong?"
+    },
+    {
+      "character": "Gertrude",
+      "line": "No, sorry. If it's a legend, it's Reldo you need to talk to. He's in Varrock palace library, knows all about that kind of thing."
+    },
+    {
+      "character": "Cat",
+      "line": "Good old Gertrude! Come on, lets go."
+    },
+    {
+      "character": "Player",
+      "line": "But..."
+    },
+    {
+      "character": "Cat",
+      "line": "I'll explain later!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Gertrude!"
+    },
+    {
+      "character": "Gertrude",
+      "line": "Greetings adventurer, have you spoken to Reldo in the palace library about Robert the Strong?"
+    },
+    {
+      "character": "Cat",
+      "line": "Come on, lets go."
+    },
+    {
+      "character": "Reldo",
+      "line": "Hello there,."
+    },
+    {
+      "character": "Player",
+      "line": "I have a cat related question."
+    },
+    {
+      "character": "Reldo",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Well..."
+    },
+    {
+      "character": "Cat",
+      "line": "Go on... ask him."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay. I'm on it."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about Robert the Strong?"
+    },
+    {
+      "character": "Reldo",
+      "line": "Ah, Robert the Strong. There's some details on him in one of my books on the history of Gielinor. Let's see now..."
+    },
+    {
+      "character": "Reldo",
+      "line": "Fourth Age... Popular Lore... Ah here we are, Robert the Strong!"
+    },
+    {
+      "character": "Reldo",
+      "line": "'Not much is known about the hero called Robert the Strong. Most folk tales describe him as being taller than the tallest human and far stronger than the strongest warrior.'"
+    },
+    {
+      "character": "Reldo",
+      "line": "'He wields a six foot tall longbow and travels with his faithful panther, Odysseus. He is said to have had a personal crusade against the dragonkin...'"
+    },
+    {
+      "character": "Player",
+      "line": "Dragonkin?"
+    },
+    {
+      "character": "Reldo",
+      "line": "I'm coming to that."
+    },
+    {
+      "character": "Reldo",
+      "line": "'The stories tell of the dragonkin being an intelligent race of bird-like creatures that walked rather than using their wings. They are said to be immortal, but cannot reproduce.'"
+    },
+    {
+      "character": "Reldo",
+      "line": "'Because of this, they became very afraid of death and shunned all other races.'"
+    },
+    {
+      "character": "Reldo",
+      "line": "'Some even say the dragonkin made corrupted versions of themselves for protection, what we now know as dragons. However, this has never been proven.'"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Doesn't sound very believable."
+    },
+    {
+      "character": "Reldo",
+      "line": "There's no doubt that some elements of these tales have been overexaggerated for storytelling purposes, but you should be careful of outright dismissing them."
+    },
+    {
+      "character": "Reldo",
+      "line": "Robert the Strong is a name that often comes up in stories from the Fourth Age. There's no reason not to believe that these folk tales are based on events that actually happened."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you Reldo, you've been most... helpful."
+    },
+    {
+      "character": "Player",
+      "line": "That was a nice tale for mothers to tell their children, but I don't see how this helps Bob?"
+    },
+    {
+      "character": "Cat",
+      "line": "Don't you think it's odd that no one knows where Bob came from?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess, but he's just a cat... right?"
+    },
+    {
+      "character": "Cat",
+      "line": "I'd hoped you would've understood by now that there's more to cats than humans believe!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, ok! I get your point, after all I'm being dragged round Gielinor by... my cat!"
+    },
+    {
+      "character": "Cat",
+      "line": "I wouldn't say dragged... let's call it a partnership!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok!"
+    },
+    {
+      "character": "Player",
+      "line": "So are you saying that Robert the Strong is... is..."
+    },
+    {
+      "character": "Player",
+      "line": "Bob?!"
+    },
+    {
+      "character": "Cat",
+      "line": "Let's ask Bob!"
+    },
+    {
+      "character": "Player",
+      "line": "Let's go!"
+    },
+    {
+      "character": "Player",
+      "line": "So, about Robert the Strong..."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind, I've found out enough now, I should go back to Bob."
+    },
+    {
+      "character": "Cat",
+      "line": "We've found out enough now, we should go back to Bob."
+    },
+    {
+      "character": "Player",
+      "line": "Ok."
+    },
+    {
+      "character": "Bob",
+      "line": "Did you find out who my parents are?"
+    },
+    {
+      "character": "Player",
+      "line": "Not exactly..."
+    },
+    {
+      "character": "Cat",
+      "line": "We think you are... or used to be... Robert the Strong!"
+    },
+    {
+      "character": "Bob",
+      "line": "Robert the who?"
+    },
+    {
+      "character": "Player",
+      "line": "I thought this was stupid."
+    },
+    {
+      "character": "Cat",
+      "line": "Robert the Strong was a great hero, you have no memory of him?"
+    },
+    {
+      "character": "Bob",
+      "line": "No... I'm afraid not."
+    },
+    {
+      "character": "Cat",
+      "line": "Does a black panther called Odysseus ring any bells?"
+    },
+    {
+      "character": "Bob",
+      "line": "No..."
+    },
+    {
+      "character": "Cat",
+      "line": "What about the dragonkin? A vicious race of bird like creatures?"
+    },
+    {
+      "character": "Bob",
+      "line": "Nothing..."
+    },
+    {
+      "character": "Player",
+      "line": "Looks like theres nothing else we can do puss."
+    },
+    {
+      "character": "Cat",
+      "line": "I'm not done yet!"
+    },
+    {
+      "character": "Cat",
+      "line": "Do you remember when you were hypnotised by the Devourer?"
+    },
+    {
+      "character": "Player",
+      "line": "Well no... I was hypnotised!"
+    },
+    {
+      "character": "Cat",
+      "line": "Hehe!"
+    },
+    {
+      "character": "Cat",
+      "line": "The Sphinx understood how you were hypnotised, it might be able to access Bob's memories of Robert the Strong."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds crazy... guess it might work!"
+    },
+    {
+      "character": "Cat",
+      "line": "Bye for now Bob, we're going to speak to the Sphinx."
+    },
+    {
+      "character": "Bob",
+      "line": "Bye."
+    },
+    {
+      "character": "Bob",
+      "line": "Have you been to the Sphinx yet?"
+    },
+    {
+      "character": "Cat",
+      "line": "No we haven't. Come on, let's go."
+    },
+    {
+      "character": "Unferth",
+      "line": "Have you found Bob yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, we're working on it."
+    },
+    {
+      "character": "Unferth",
+      "line": "Please hurry, I'm worried."
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Sphinx",
+      "line": "What is it human?"
+    },
+    {
+      "character": "Player",
+      "line": "Sphinx, we need your help!"
+    },
+    {
+      "character": "Cat",
+      "line": "Yes, please help!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Very well, I see you have a close relationship with your cat, I will help you if I can."
+    },
+    {
+      "character": "Sphinx",
+      "line": "What is the problem?"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "Bob is in love with Neite but we need to prove that he used to be Robert the Strong before she will have anything to do with him!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Slow down human!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Bob has fallen in love?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "This I did not foresee!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Who is this Robert the Strong that you speak of?"
+    },
+    {
+      "character": "Player",
+      "line": "He was a mighty hero!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Human myths interest me not."
+    },
+    {
+      "character": "Cat",
+      "line": "Robert the Strong was no ordinary human though!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "It is true that there is something about Bob... there is the mark of power on him, I have ignored it for too long."
+    },
+    {
+      "character": "Player",
+      "line": "But Bob has no memory of this!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Then it is the time for action!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Come with me into the desert so we are not disturbed."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Quiet please.... I shall summon Bob."
+    },
+    {
+      "character": "Bob",
+      "line": "What..? What happened?"
+    },
+    {
+      "character": "Bob",
+      "line": "I was eating a particularly nice piece of tuna."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Greetings Bob."
+    },
+    {
+      "character": "Bob",
+      "line": "Oh, hi there Sphinx."
+    },
+    {
+      "character": "Bob",
+      "line": "Hi there, what's going on?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "I have brought you here to find out who you really are."
+    },
+    {
+      "character": "Bob",
+      "line": "So you buy this Robert the Strong stuff?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "I have long suspected that your appearance as an ordinary cat belies your true nature."
+    },
+    {
+      "character": "Bob",
+      "line": "Hey! I'm just this cat, you know?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Look into my eyes."
+    },
+    {
+      "character": "Bob",
+      "line": "Sure... whatever."
+    },
+    {
+      "character": "Sphinx",
+      "line": "You are now under my influence."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Let's start with something simple. What is your name?"
+    },
+    {
+      "character": "Bob",
+      "line": "My name is Bob."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Good. Are you or have you ever been called Robert the Strong?"
+    },
+    {
+      "character": "Bob",
+      "line": "I... I don't know."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Think back to your earliest memories."
+    },
+    {
+      "character": "Bob",
+      "line": "I see a big cat..."
+    },
+    {
+      "character": "Sphinx",
+      "line": "Where are you now?"
+    },
+    {
+      "character": "Bob",
+      "line": "I am in front of a dark tower... the cat is called Odysseus."
+    },
+    {
+      "character": "Sphinx",
+      "line": "What is your name?"
+    },
+    {
+      "character": "Bob",
+      "line": "My name is Robert."
+    },
+    {
+      "character": "Bob",
+      "line": "I am walking towards the tower..."
+    },
+    {
+      "character": "Robert the Strong",
+      "line": "Come, Odysseus!"
+    },
+    {
+      "character": "Dragonkin",
+      "line": "Hesente!"
+    },
+    {
+      "character": "Dragonkin",
+      "line": "Crasortius!"
+    },
+    {
+      "character": "Robert the Strong",
+      "line": "Never!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "You are no longer under my influence."
+    },
+    {
+      "character": "Cat",
+      "line": "Wow Bob! You really are Robert the Strong!"
+    },
+    {
+      "character": "Bob",
+      "line": "I am?"
+    },
+    {
+      "character": "Cat",
+      "line": "Yes! When you were hypnotised you told us of when you defeated a dragonkin!"
+    },
+    {
+      "character": "Bob",
+      "line": "I did?"
+    },
+    {
+      "character": "Cat",
+      "line": "Yes! How can Neite refuse you now!"
+    },
+    {
+      "character": "Bob",
+      "line": "Really?"
+    },
+    {
+      "character": "Cat",
+      "line": "Sphinx, summon Neite please!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "There are more important matters than match making."
+    },
+    {
+      "character": "Cat",
+      "line": "That can wait! Bob has been love sick, we have to tell Neite!"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Very well! I shall summon Neite!"
+    },
+    {
+      "character": "Neite",
+      "line": "Oh... furballs!"
+    },
+    {
+      "character": "Cat",
+      "line": "Hi Neite!"
+    },
+    {
+      "character": "Neite",
+      "line": "Hello, to what do I owe this pleasure?"
+    },
+    {
+      "character": "Cat",
+      "line": "Bob is Robert the Strong!"
+    },
+    {
+      "character": "Neite",
+      "line": "What are you talking about?"
+    },
+    {
+      "character": "Cat",
+      "line": "The Sphinx hypnotised Bob. Bob told us about when he was Robert the Strong fighting dragonkin."
+    },
+    {
+      "character": "Neite",
+      "line": "So you're supposed to be Robert the Strong?"
+    },
+    {
+      "character": "Bob",
+      "line": "So they tell me."
+    },
+    {
+      "character": "Neite",
+      "line": "Hmph."
+    },
+    {
+      "character": "Sphinx",
+      "line": "For too long I have ignored the fact that there is a mark of power on Bob. Under my influence Bob was able to recall memories that had remained hidden until now. It proves he is, or was, Robert the Strong."
+    },
+    {
+      "character": "Neite",
+      "line": "Wow."
+    },
+    {
+      "character": "Neite",
+      "line": "Come here you."
+    },
+    {
+      "character": "Bob",
+      "line": "Neite!"
+    },
+    {
+      "character": "Bob",
+      "line": "Of course kitten."
+    },
+    {
+      "character": "Bob",
+      "line": "Hey, could you do me a favour?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Bob",
+      "line": "Myself and Neite are going away for a few days. Could you look after Unferth for me whilst I'm away?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... sure."
+    },
+    {
+      "character": "Bob",
+      "line": "I'll give you a list of what needs doing."
+    },
+    {
+      "character": "Player",
+      "line": "OK, no problem Bob."
+    },
+    {
+      "character": "Sphinx",
+      "line": ", since you are to look after Unferth, shall I teleport you to his house?"
+    },
+    {
+      "character": "Sphinx",
+      "line": "Have you completed the chores that Bob asked you to?"
+    },
+    {
+      "character": "Cat",
+      "line": "Come on!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Unferth, I'm doing some ch..."
+    },
+    {
+      "character": "Cat",
+      "line": "Hiss!"
+    },
+    {
+      "character": "Player",
+      "line": "What?!"
+    },
+    {
+      "character": "Cat",
+      "line": "Don't tell him you're doing his chores!"
+    },
+    {
+      "character": "Cat",
+      "line": "Part of the cat-human relationship is to let them believe they are in control."
+    },
+    {
+      "character": "Player",
+      "line": "Ah... OK."
+    },
+    {
+      "character": "Unferth",
+      "line": "Hmph."
+    },
+    {
+      "character": "Cat",
+      "line": "Meow!"
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do for 'Tidy House'?"
+    },
+    {
+      "character": "Cat",
+      "line": "Look round the house for anything messy that needs to be put right."
+    },
+    {
+      "character": "Cat",
+      "line": "You've finished that chore."
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do for 'Warm Human'?"
+    },
+    {
+      "character": "Cat",
+      "line": "Theres only one source of warmth in the house, I suggest you use it."
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do for 'Feed Human'?"
+    },
+    {
+      "character": "Cat",
+      "line": "There's a table with empty dishes, I think they need refilling."
+    },
+    {
+      "character": "Player",
+      "line": "What does Unferth eat?"
+    },
+    {
+      "character": "Cat",
+      "line": "I've no idea, perhaps you can find out."
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do for 'Tidy Human'?"
+    },
+    {
+      "character": "Cat",
+      "line": "Have you noticed that Unferth's hair has grown rather long?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I can get some scissors?"
+    },
+    {
+      "character": "Cat",
+      "line": "It's so long I should think you'd need shears to cut it!"
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do for 'Tend Garden'?"
+    },
+    {
+      "character": "Cat",
+      "line": "Check the garden to see if anything needs tending."
+    },
+    {
+      "character": "Player",
+      "line": "I've weeded the garden, now what?"
+    },
+    {
+      "character": "Cat",
+      "line": "I'm sure there should be something growing in the garden."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not touching someone else's bed!"
+    },
+    {
+      "character": "Cat",
+      "line": "Well done, that's all the chores finished!"
+    },
+    {
+      "character": "Cat",
+      "line": "Let's talk to Unferth to see if there's anything else we can do."
+    },
+    {
+      "character": "Player",
+      "line": "So. Now what?"
+    },
+    {
+      "character": "Cat",
+      "line": "You've done all the chores so you should see if Unferth needs anything else done."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Unferth, is there anything I can do for you?"
+    },
+    {
+      "character": "Unferth",
+      "line": "Ugh..."
+    },
+    {
+      "character": "Cat",
+      "line": "Now what?!"
+    },
+    {
+      "character": "Unferth",
+      "line": "I don't feel so good..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear! What's up?"
+    },
+    {
+      "character": "Cat",
+      "line": "Nothing, I bet!"
+    },
+    {
+      "character": "Unferth",
+      "line": "I think I need the Doctor...ugh..."
+    },
+    {
+      "character": "Player",
+      "line": "What Doctor is that?"
+    },
+    {
+      "character": "Unferth",
+      "line": "Just a Doctor... please hurry... I don't think I'll last long..."
+    },
+    {
+      "character": "Cat",
+      "line": "Snarl!"
+    },
+    {
+      "character": "Player",
+      "line": "We can't let Bob see him like this!"
+    },
+    {
+      "character": "Cat",
+      "line": "I guess you're right, there is the Apothecary in Varrock."
+    },
+    {
+      "character": "Player",
+      "line": "Good idea!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll get the Apothecary from Varrock!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "I am the Apothecary. I brew potions. Do you need anything specific?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Apothecary, Unferth has fallen ill. Could you go and see him please?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "That Unferth! Honestly, I have been to see him more times than my Mother's hair has fallen out!"
+    },
+    {
+      "character": "Cat",
+      "line": "I never did like that guy!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm beginning to agree with you!"
+    },
+    {
+      "character": "Player",
+      "line": "What can I do with Unferth?"
+    },
+    {
+      "character": "Cat",
+      "line": "I have a few suggestions!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "It's quite simple. Unferth is what we call a hypochondriac; he isn't ill but he thinks he is. All you need to do is convince him you are a Doctor or a Nurse and give him a potion to make him 'better'."
+    },
+    {
+      "character": "Player",
+      "line": "How do I make Unferth believe I am a Doctor or Nurse?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Easy, make sure you are dressed in white robes and take one of these hats to wear."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Then all you need to do is give him a vial of water and he'll take it thinking it's a cure potion."
+    },
+    {
+      "character": "Player",
+      "line": "Haha!"
+    },
+    {
+      "character": "Player",
+      "line": "I always wanted to be a Doctor!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Apothecary."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Have you been to 'cure' Unferth by dressing up in white robes, wearing the hat and giving him a vial of water?"
+    },
+    {
+      "character": "Player",
+      "line": "That's what I was going to do! Thanks, I'll see you later."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Apothecary, I've lost that hat you gave me."
+    },
+    {
+      "character": "Apothecary",
+      "line": "No problem, I get plenty of these from Gielinor Hospital Supplies."
+    },
+    {
+      "character": "Player",
+      "line": "Good day Unferth, I am Doctor."
+    },
+    {
+      "character": "Unferth",
+      "line": "No you're not! A Doctor wouldn't be holding that!"
+    },
+    {
+      "character": "Unferth",
+      "line": "I am so glad to see you Doctor!"
+    },
+    {
+      "character": "Unferth",
+      "line": "I am not a well man!"
+    },
+    {
+      "character": "Player",
+      "line": "What seems to be the problem?"
+    },
+    {
+      "character": "Cat",
+      "line": "Theres something wrong with his head!"
+    },
+    {
+      "character": "Unferth",
+      "line": "My back hurts!"
+    },
+    {
+      "character": "Player",
+      "line": "No problem..."
+    },
+    {
+      "character": "Unferth",
+      "line": "I think my arm is broken!"
+    },
+    {
+      "character": "Player",
+      "line": "We can..."
+    },
+    {
+      "character": "Unferth",
+      "line": "Then there's my spleen!"
+    },
+    {
+      "character": "Player",
+      "line": "Your what...?"
+    },
+    {
+      "character": "Unferth",
+      "line": "My liver has packed in!"
+    },
+    {
+      "character": "Player",
+      "line": "All you need to do is take this potion."
+    },
+    {
+      "character": "Unferth",
+      "line": "Is that it?! I'm much more ill than that!"
+    },
+    {
+      "character": "Cat",
+      "line": "We could offer to bonk him on the head with a big hammer."
+    },
+    {
+      "character": "Unferth",
+      "line": "Doctor Please take this seriously! I demand treatment!"
+    },
+    {
+      "character": "Player",
+      "line": "Of course sir! The potion I have given you is the latest technology. It cures all known illnesses, and a few unknown ones. It's what we call in the trade a 'miracle cure'."
+    },
+    {
+      "character": "Unferth",
+      "line": "Wow! What can I say... I feel special!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you feel better?"
+    },
+    {
+      "character": "Unferth",
+      "line": "I'm not sure..."
+    },
+    {
+      "character": "Cat",
+      "line": "Argh!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Wait! I feel something! Yes! I can feel the potion working... The pain has gone... I can walk on my leg... Doctor! I'm cured!"
+    },
+    {
+      "character": "Player",
+      "line": "That's... great! Phew!"
+    },
+    {
+      "character": "Cat",
+      "line": "Indeed. Bob should be back by now; let's go find him."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Unferth."
+    },
+    {
+      "character": "Unferth",
+      "line": "I feel much better now."
+    },
+    {
+      "character": "Player",
+      "line": "That's good to hear."
+    },
+    {
+      "character": "Cat",
+      "line": "We should go and see Bob now Unferth is feeling better, he should be back by now."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Bob! How's it hang... going?"
+    },
+    {
+      "character": "Bob",
+      "line": "Wonderful! Neite and I have been all over Gielinor! We 'borrowed' a magic carpet..."
+    },
+    {
+      "character": "Bob",
+      "line": "Where do we turn here?"
+    },
+    {
+      "character": "Neite",
+      "line": "North... I think."
+    },
+    {
+      "character": "Bob",
+      "line": "You think?!"
+    },
+    {
+      "character": "Neite",
+      "line": "Yes: north."
+    },
+    {
+      "character": "Neite",
+      "line": "Slow down!"
+    },
+    {
+      "character": "Bob",
+      "line": "For what?"
+    },
+    {
+      "character": "Neite",
+      "line": "That camel!"
+    },
+    {
+      "character": "Bob",
+      "line": "What camel?!"
+    },
+    {
+      "character": "Neite",
+      "line": "Are you sure this is a good idea?"
+    },
+    {
+      "character": "Bob",
+      "line": "Yeh, the old King and I go way back."
+    },
+    {
+      "character": "Bob",
+      "line": "Hey old King! How's things?"
+    },
+    {
+      "character": "King Black Dragon",
+      "line": "Same as always: adventurers trying to kill me."
+    },
+    {
+      "character": "Bob",
+      "line": "There, there, could be worse!"
+    },
+    {
+      "character": "King Black Dragon",
+      "line": "I guess... one moment..."
+    },
+    {
+      "character": "King Black Dragon",
+      "line": "See what I mean?"
+    },
+    {
+      "character": "Bob",
+      "line": "Mate! You need a new line of work!"
+    },
+    {
+      "character": "Neite",
+      "line": "I said left at the camel!"
+    },
+    {
+      "character": "Neite",
+      "line": "You're too close to the pyramid!"
+    },
+    {
+      "character": "Bob",
+      "line": "Do you want to drive?!"
+    },
+    {
+      "character": "Neite",
+      "line": "I think we're lost."
+    },
+    {
+      "character": "Bob",
+      "line": "No, I know where I'm going."
+    },
+    {
+      "character": "Neite",
+      "line": "Are we there yet?"
+    },
+    {
+      "character": "Bob",
+      "line": "No."
+    },
+    {
+      "character": "Bob",
+      "line": "No!"
+    },
+    {
+      "character": "Bob",
+      "line": "I'm the King of Gielinor!"
+    },
+    {
+      "character": "Player",
+      "line": "Phew!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Unferth!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Hello! Bob came home today! I'm so happy!"
+    },
+    {
+      "character": "Player",
+      "line": "That's good news!"
+    },
+    {
+      "character": "Unferth",
+      "line": "Fat lot of use you were! He came home on his own!"
+    },
+    {
+      "character": "Cat",
+      "line": "This guy is unbelievable!"
+    },
+    {
+      "character": "Player",
+      "line": "You're not wrong."
+    },
+    {
+      "character": "Unferth",
+      "line": "Of course I'm not wrong."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be going now."
+    },
+    {
+      "character": "Unferth",
+      "line": "Before you go, I found the strangest thing. There was a package left under the bed, it's addressed to you."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Apothecary",
+      "description": "Middle-aged male, British accent, professional and slightly exasperated tone, a skilled pharmacist who crafts potions and remedies while dealing with hypochondriac customers."
+    },
+    {
+      "name": "Bob",
+      "description": "Adult male cat, sophisticated British accent, laid-back and philosophical tone, an enigmatic black cat who wanders the world hiding the soul of an ancient hero within."
+    },
+    {
+      "name": "Cat",
+      "description": "Adult cat, soft British voice, curious and observant tone, the player's feline companion who offers witty commentary on events."
+    },
+    {
+      "name": "Dragonkin",
+      "description": "Ancient creature, deep raspy voice with an otherworldly resonance, intelligent and menacing tone, a powerful dragon-like being cursed with rage who created dragonkind."
+    },
+    {
+      "name": "Gertrude",
+      "description": "Middle-aged female, British accent, warm and motherly tone, a busy housewife who runs a kitten-selling business and cares deeply about cats."
+    },
+    {
+      "name": "Hild",
+      "description": "Young adult female, British accent, mysterious and ethereal tone, a pretty enchantress with an air of magical secrecy about her."
+    },
+    {
+      "name": "King Black Dragon",
+      "description": "Ancient male dragon, deep rumbling voice with three-headed resonance, weary and bored tone, a massive three-headed beast who has grown tired of adventurers over the centuries."
+    },
+    {
+      "name": "Neite",
+      "description": "Adult female cat, soft elegant British voice, graceful and devoted tone, a former priestess transformed into a cat who is deeply loyal to her beloved Bob."
+    },
+    {
+      "name": "Reldo",
+      "description": "Middle-aged male, British accent, quiet and helpful scholarly tone, the knowledgeable palace librarian who assists adventurers with historical research."
+    },
+    {
+      "name": "Robert the Strong",
+      "description": "Adult male, deep heroic British voice, battle-hardened and noble tone, a legendary warrior of immense stature who fought the Dragonkin in ages past."
+    },
+    {
+      "name": "Sphinx",
+      "description": "Ancient female, regal otherworldly voice, aloof and imperious tone, an immortal guardian of cats who has no interest in the petty affairs of humans."
+    },
+    {
+      "name": "Unferth",
+      "description": "Adult male, British accent, dim but well-meaning tone, a nice but slow-witted hypochondriac who adores his cat Bob more than anything."
+    }
+  ]
+}

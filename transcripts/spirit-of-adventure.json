@@ -1,0 +1,324 @@
+{
+  "branch": "quest/spirit-of-adventure",
+  "quest_name": "Spirit of Adventure",
+  "lines": [
+    {
+      "character": "Ghost",
+      "line": "Woooo wooo wooooo woooo."
+    },
+    {
+      "character": "Ghost",
+      "line": "Hello? Perhaps you can understand me? If you can hear me that is?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, hello there! Yes, I can understand you!"
+    },
+    {
+      "character": "Ghost",
+      "line": "You can? You can! How wonderful! It has been a long while since anyone came by that could understand what I wanted to say to them. You wouldn't happen to have a moment to help me out would you?"
+    },
+    {
+      "character": "Player",
+      "line": "I could certainly try to help... what did you say your name was again?"
+    },
+    {
+      "character": "Ghost",
+      "line": "Bernina! I don't think I did mention it. I haven't had to do an introduction for a while now!"
+    },
+    {
+      "character": "Player",
+      "line": "It's lovely to meet you, Bernina. I'm. How can I help you?"
+    },
+    {
+      "character": "Ghost",
+      "line": "It's very unfortunate really. I died."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, that explains the incorporeality. What happened?"
+    },
+    {
+      "character": "Ghost",
+      "line": "I was a crew member on board a ship sailing out of Fortis. We got caught in a storm and sailed too close to the rocks around Shipwreck Cove. I'm sure you can guess the results..."
+    },
+    {
+      "character": "Ghost",
+      "line": "The thing is though, after I died, I was not guided to Mictl. I remained, but in this form. I saw the remains of our ship, and I saw some of those salvagers from the east claiming whatever they wanted."
+    },
+    {
+      "character": "Ghost",
+      "line": "One of them took a diamond necklace from my body. It was very precious to me. It should not remain in the hands of a thief."
+    },
+    {
+      "character": "Player",
+      "line": "I make no promises, but I'll try to recover it."
+    },
+    {
+      "character": "Ghost",
+      "line": "Thank you,. I heard the one that took it being called Jasper by one of his fellow salvagers. He is the one you will need to find."
+    },
+    {
+      "character": "Ghost",
+      "line": "Hello again,. Have you got any leads on my necklace yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, no."
+    },
+    {
+      "character": "Ghost",
+      "line": "That salvager, Jasper, hopefully still has it. I'm sure you'll find him with the rest of his people. They live to the east of here."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Jasper",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm an adventurer, and I'm looking for someone. Is your name Jasper?"
+    },
+    {
+      "character": "Jasper",
+      "line": "It is... How did you know that?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a lost item and I think you might be able to help me."
+    },
+    {
+      "character": "Jasper",
+      "line": "I'm... familiar with lost items."
+    },
+    {
+      "character": "Player",
+      "line": "Have you come across a diamond necklace? One belonging to an unfortunate passenger involved in a nearby shipwreck?"
+    },
+    {
+      "character": "Jasper",
+      "line": "You wouldn't happen to be talking about... that necklace?"
+    },
+    {
+      "character": "Player",
+      "line": "That necklace?"
+    },
+    {
+      "character": "Jasper",
+      "line": "A necklace crossed my path a while back, and everything suddenly started to go wrong for me. It was as if I was haunted by some spiteful spirit."
+    },
+    {
+      "character": "Jasper",
+      "line": "I did what I do best and I flogged it to some chap that came wandering through. He seemed very keen to buy it. Luck's been much better since!"
+    },
+    {
+      "character": "Player",
+      "line": "This person you sold it to... Any idea where I can find him?"
+    },
+    {
+      "character": "Jasper",
+      "line": "He looked like some sort of mountain climber. He said he was setting out on some sort of journey that was very important to him."
+    },
+    {
+      "character": "Player",
+      "line": "I see... Thanks."
+    },
+    {
+      "character": "Jasper",
+      "line": "Still looking for that necklace? I don't have it any more. I don't want anything to do with it!"
+    },
+    {
+      "character": "Player",
+      "line": "The person you sold it to... Any idea where I can find him?"
+    },
+    {
+      "character": "Player",
+      "line": "I have. I found the salvager that took it, but it was then sold on to a mountain climber."
+    },
+    {
+      "character": "Ghost",
+      "line": "Oh no. I'd hoped he wouldn't sell it on so quickly. Maybe there's still hope though. Any mountain climber around here will surely be heading up the Proudspire..."
+    },
+    {
+      "character": "Ghost",
+      "line": "I actually did the climb myself once. I promised my son we'd go up there again together, but we never found the time..."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'm sure I can find this climber. I'll head up the Proudspire right away."
+    },
+    {
+      "character": "Bernard",
+      "line": "Hey, iknami. Sorry to be a bother, but could you lend us a hand?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, what's up?"
+    },
+    {
+      "character": "Bernard",
+      "line": "I'm just having a rotten day. My logs won't light and it's gone cold up here. Could you get a fire going for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course!"
+    },
+    {
+      "character": "Bernard",
+      "line": "Kuani! Thank you!"
+    },
+    {
+      "character": "Bernard",
+      "line": "Hey, iknami. Any luck with that fire?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll have one lit shortly."
+    },
+    {
+      "character": "Bernard",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Bernard",
+      "line": "Kuani! This is much nicer now we've got a fire going. The name's Bernard."
+    },
+    {
+      "character": "Player",
+      "line": ". How's your climb going?"
+    },
+    {
+      "character": "Bernard",
+      "line": "Worst one I've had. Mum taught me to be well prepared, but I've never had so many issues. I've even worn my sturdier work gear to deal with the creatures out here."
+    },
+    {
+      "character": "Player",
+      "line": "Is mountaineering in the family?"
+    },
+    {
+      "character": "Bernard",
+      "line": "Absolutely! In fact, this one's in honour of mum. She always wanted to take us up the Proudspire. I even managed to snag this necklace that reminded me of her just before setting off."
+    },
+    {
+      "character": "Player",
+      "line": "You got a necklace from the salvagers? Is it a diamond necklace?"
+    },
+    {
+      "character": "Bernard",
+      "line": "That's right... How did you know?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been looking for one like it. Bernard, was it?"
+    },
+    {
+      "character": "Bernard",
+      "line": "Yes! Bernard, son of Bernina!"
+    },
+    {
+      "character": "Player",
+      "line": "Of course! Forgive me, Bernard, but there's someone I need to go and have a word with..."
+    },
+    {
+      "character": "Bernard",
+      "line": "Hello again. Hope things are going well with you. Did you speak to that person you needed to talk to?"
+    },
+    {
+      "character": "Player",
+      "line": "No. I'd better go and see them now..."
+    },
+    {
+      "character": "Player",
+      "line": "I found the climber and your necklace!"
+    },
+    {
+      "character": "Ghost",
+      "line": "You did? Were you able to get it back?"
+    },
+    {
+      "character": "Player",
+      "line": "No, but I don't think I need to. Would you be okay with heading up the mountain yourself? There's someone up there you need to see."
+    },
+    {
+      "character": "Ghost",
+      "line": "Are you sure?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely!"
+    },
+    {
+      "character": "Ghost",
+      "line": "Alright then. I'll meet you up there."
+    },
+    {
+      "character": "Bernard",
+      "line": "Ah, hello again,. I don't want to cause alarm, but there's a ghost here with us!"
+    },
+    {
+      "character": "Ghost",
+      "line": "He can't understand me. Please, tell him who I am."
+    },
+    {
+      "character": "Player",
+      "line": "No need to panic, Bernard. This isn't just some random ghost. This is your mother."
+    },
+    {
+      "character": "Bernard",
+      "line": "Mother... By Ralos..."
+    },
+    {
+      "character": "Ghost",
+      "line": "Tell him I'm proud of him, and... tell him I'm sorry I never came home."
+    },
+    {
+      "character": "Player",
+      "line": "You can't understand her, but she wants you to know she's proud of you, and that she's sorry she didn't come home."
+    },
+    {
+      "character": "Bernard",
+      "line": "Oh... Mum..."
+    },
+    {
+      "character": "Ghost",
+      "line": "I think I know now... I know why I stayed behind. It was for this. Thank you,. I think it's time for me to go now. Tell Bernard I will always be with him..."
+    },
+    {
+      "character": "Player",
+      "line": "She has to go now, but she will always be with you, Bernard."
+    },
+    {
+      "character": "Bernard",
+      "line": "Goodbye mum... I hope I keep making you proud. This necklace... It's not just like yours is it? It is yours. I'm going to finish this climb, for both of us."
+    },
+    {
+      "character": "Bernard",
+      "line": "I'll bury the necklace at the top. That way, even once I'm done, a part of us will always be on top of the world."
+    },
+    {
+      "character": "Bernard",
+      "line": "Thank you,. Without you, I'd never have got to say goodbye. Now, I guess I'd better get going. I've got a mountain to climb."
+    },
+    {
+      "character": "Player",
+      "line": "Best of luck, Bernard."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bernard",
+      "description": "Young adult male, warm Mediterranean accent, earnest and grateful tone, a determined mountain climber honoring his late mother's memory with an emotional journey up the Proudspire."
+    },
+    {
+      "name": "Ghost",
+      "description": "Middle-aged female ghost, ethereal Mediterranean accent, gentle and wistful tone, a shipwreck victim named Bernina who seeks closure and is deeply loving toward her son."
+    },
+    {
+      "name": "Jasper",
+      "description": "Adult male, rough Mediterranean accent, pragmatic and slightly nervous tone, a superstitious salvager who quickly sold a cursed necklace to escape its bad luck."
+    }
+  ]
+}

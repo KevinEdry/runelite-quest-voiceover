@@ -1,0 +1,47 @@
+{
+  "branch": "quest/imp-catcher",
+  "quest_name": "Imp Catcher",
+  "lines": [
+    { "character": "Player", "line": "Give me a quest!" },
+    { "character": "Wizard Mizgog", "line": "Give me a quest what?" },
+    { "character": "Player", "line": "Give me a quest please." },
+    { "character": "Wizard Mizgog", "line": "Well seeing as you asked nicely... I could do with some help." },
+    { "character": "Wizard Mizgog", "line": "The wizard Grayzag next door decided he didn't like me so he enlisted an army of hundreds of imps." },
+    { "character": "Wizard Mizgog", "line": "These imps stole all sorts of my things. Most of these things I don't really care about, just eggs and balls of string and things." },
+    { "character": "Wizard Mizgog", "line": "But they stole my four magical beads. There was a red one, a yellow one, a black one, and a white one." },
+    { "character": "Wizard Mizgog", "line": "These imps have now spread out all over the kingdom. Could you get my beads back for me?" },
+    { "character": "Player", "line": "Well this is a surprising turn of events!" },
+    { "character": "Wizard Mizgog", "line": "What?" },
+    { "character": "Player", "line": "Well I just so happen to have all of those beads on me!" },
+    { "character": "Wizard Mizgog", "line": "Are you saying that you stole my beads all this time and I've been blaming these imps!?" },
+    { "character": "Player", "line": "No, not at all! I just found them throughout my travels and presumed somebody would need them at some point." },
+    { "character": "Wizard Mizgog", "line": "Bah! Fine." },
+    { "character": "Player", "line": "I'll try." },
+    { "character": "Wizard Mizgog", "line": "That's great, thank you." },
+    { "character": "Player", "line": "I've better things to do than chase imps." },
+    { "character": "Wizard Mizgog", "line": "Well if you're not interested in the quests I have to give you, don't waste my time by asking me for them." },
+    { "character": "Player", "line": "Give me a quest or else!" },
+    { "character": "Wizard Mizgog", "line": "Or else what? You'll attack me?" },
+    { "character": "Wizard Mizgog", "line": "Hahaha!" },
+    { "character": "Player", "line": "Just stop messing around and give me a quest!" },
+    { "character": "Wizard Mizgog", "line": "Ah now you're assuming I have one to give." },
+    { "character": "Wizard Mizgog", "line": "So how are you doing finding my beads?" },
+    { "character": "Player", "line": "I've not found any yet." },
+    { "character": "Wizard Mizgog", "line": "Well get on with it. I've lost a white bead, a red bead, a black bead, and a yellow bead. Go kill some imps!" },
+    { "character": "Player", "line": "I have found some of your beads." },
+    { "character": "Wizard Mizgog", "line": "Come back when you have them all. The colour of the four beads that I need are red, yellow, black, and white. Go chase some imps!" },
+    { "character": "Wizard Grayzag", "line": "You're a fool. Do you really think you'll find four imps out of thousands? Good luck. Ha!" },
+    { "character": "Player", "line": "I've got all four beads. It was hard work I can tell you." },
+    { "character": "Wizard Mizgog", "line": "Give them here and I'll check that they really are MY beads, before I give you your reward. You'll like it, it's an amulet of accuracy." }
+  ],
+  "characters": [
+    {
+      "name": "Wizard Mizgog",
+      "description": "Elderly male wizard, British accent, stuttering and somewhat flustered tone. A clumsy but earnest scholar who studies magical trinkets at the Wizards' Tower, often bullied by his rival Grayzag."
+    },
+    {
+      "name": "Wizard Grayzag",
+      "description": "Middle-aged male wizard, British accent, sinister and mocking tone. A necromancer and master of imps who delights in tormenting his rival Mizgog with petty schemes."
+    }
+  ]
+}

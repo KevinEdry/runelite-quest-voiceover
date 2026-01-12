@@ -1,0 +1,820 @@
+{
+  "branch": "quest/tale-of-the-righteous",
+  "quest_name": "Tale of the Righteous",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Hello there. Not very often I get visitors. What brings you here?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "The name's Phileas Rimor. I was once a soldier in the Shayzien Army but now I'm retired."
+    },
+    {
+      "character": "Player",
+      "line": "Do you need help with anything?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "I'm fine thank you. Thanks for asking though."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Well let me think..."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "You know, there is something I wouldn't mind some help with."
+    },
+    {
+      "character": "Player",
+      "line": "Great! What is it?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "When I was a boy, my grandfather would tell me the story of my ancestor, Magnus Rimor. He was a great explorer who lived a thousand years ago."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "One day, Magnus was approached by none other than King Shayzien VII himself. The King asked him to lead an expedition to explore Mount Quidamortem in the Kebos Lowlands."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Alas, according to records, the party never returned and were declared to have perished in the field."
+    },
+    {
+      "character": "Player",
+      "line": "That's very interesting and all but why are you telling me this?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "A few days ago, I received a parcel. There was no name on it and I never saw the person that delivered it. Inside, I found something truly fascinating."
+    },
+    {
+      "character": "Player",
+      "line": "What was it?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "There was an old journal, along with a note. The note claims that the journal was stolen from the Tower of Magic during the uprising against Xeric."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "But that's not all. Apparently the journal was written by King Shayzien VII himself!"
+    },
+    {
+      "character": "Player",
+      "line": "Again, really great and all but I still don't see where I come into this."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Most of the journal is illegible but I've still managed to find a few readable extracts. Listen to this one..."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "'Quidamortem's creatures are compatible. The experimentation is proving successful and we will soon be ready to mass produce.'"
+    },
+    {
+      "character": "Player",
+      "line": "So?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "That extract had a date in the 37th decade but the expedition was declared a failure in the 36th decade! If the expedition truly was a failure, why was the King writing about Quidamortem years later?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe there was another expedition."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Maybe. Or maybe someone wasn't telling the truth about that expedition. Regardless, I must find out what really happened. Can you help me?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you need?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "We need to find out more about that expedition. The Library Historical Archive should have records on it. Talk to Archeio in the Arceuus Library. He can take you there."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't sound too hard. Leave it with me."
+    },
+    {
+      "character": "Player",
+      "line": "I've got other things to do."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Oh, okay then."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Hello again. How is your quest going?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't actually started yet."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Well you need to find out more about that expedition. The Library Historical Archive should have records on it. Talk to Archeio in the Arceuus Library. He can take you there."
+    },
+    {
+      "character": "Archeio",
+      "line": "Hello. Would you like to visit the Library Historical Archive? We've recently opened the archive to visitors."
+    },
+    {
+      "character": "Istoria",
+      "line": "Welcome to the Library Historical Archive."
+    },
+    {
+      "character": "Player",
+      "line": "I have a question about King Shayzien VII."
+    },
+    {
+      "character": "Istoria",
+      "line": "Well you've come to the right place. What would you like to know?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm searching for information on an expedition to Mount Quidamortem during his reign."
+    },
+    {
+      "character": "Istoria",
+      "line": "Ah yes, I know of that expedition. King Shayzien VII was one of Kourend's most notable rulers. According to the history books, his reign was defined by violence."
+    },
+    {
+      "character": "Istoria",
+      "line": "The expedition to Quidamortem was part of his aggressive plans to expand Kourend's territory. Unfortunately, it was a failure. The entire party was killed."
+    },
+    {
+      "character": "Istoria",
+      "line": "The King himself died a few years later and was succeeded by Xeric, a tyrannical mage who made the King seem meek in comparison. Though of course, many believe them to actually be the same person."
+    },
+    {
+      "character": "Istoria",
+      "line": "But I digress. The key thing to note is that no more expeditions were ordered under King Shayzien VII's rule. Does that help you?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not really. I have reason to believe that not everyone was killed on that expedition."
+    },
+    {
+      "character": "Istoria",
+      "line": "I'm afraid I can't help you there. All the evidence we have tells us that the expedition had no survivors."
+    },
+    {
+      "character": "Player",
+      "line": "So I'm at a dead end?"
+    },
+    {
+      "character": "Istoria",
+      "line": "It would seem that way. However, if you do want to learn more about King Shayzien VII, it might be worth talking to Pagida. He's recently been investigating the King's additions to the Tower of Magic."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Pagida",
+      "line": "Hello there, what can I do for you?"
+    },
+    {
+      "character": "Pagida",
+      "line": "What do you wish to know?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to find out more about the expedition he ordered to Mount Quidamortem."
+    },
+    {
+      "character": "Pagida",
+      "line": "I'm afraid I don't have any information on that expedition. You're probably better off talking to one of the others."
+    },
+    {
+      "character": "Pagida",
+      "line": "I could tell you about the King's work on the Tower of Magic though."
+    },
+    {
+      "character": "Player",
+      "line": "Well it's not like I have anything better to do. Fire away."
+    },
+    {
+      "character": "Pagida",
+      "line": "During the time of King Shayzien VII, the Tower of Magic was the seat of power in Kourend. The King spent a lot of his time at the Tower, more than any other ruler."
+    },
+    {
+      "character": "Pagida",
+      "line": "In fact, he oversaw the construction of various new sections, most notably the prison."
+    },
+    {
+      "character": "Player",
+      "line": "When was this?"
+    },
+    {
+      "character": "Pagida",
+      "line": "Well now that I think about it, it was around the same time as the expedition you were asking about. That said, I doubt the two are connected."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Would it be possible to visit the prison?"
+    },
+    {
+      "character": "Pagida",
+      "line": "Well the prison is abandoned and has been for many years, so I suppose there's no harm in letting you see it."
+    },
+    {
+      "character": "Pagida",
+      "line": "Be aware that the magic in that part of the tower is a bit unstable, so any items left in the prison will be lost. Would you like me to teleport you there now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Pagida",
+      "line": "Very well, prepare yourself."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Pagida",
+      "line": "I'll be here if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm. I should tell Phileas about this."
+    },
+    {
+      "character": "Player",
+      "line": "So I went to the Library Historical Archive. I found out that King Shayzien VII ordered the construction of a prison there around the time the expedition was taking place."
+    },
+    {
+      "character": "Player",
+      "line": "I investigated the prison and in one of the cells I found a strange message."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "What did it say?"
+    },
+    {
+      "character": "Player",
+      "line": "'Lizards on the mountain. Do not trust the King. The Altar is a lie.'"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Lizards on the mountain? So it was true! Someone did return from that expedition! Do you think it was Magnus?"
+    },
+    {
+      "character": "Player",
+      "line": "Impossible to say I'm afraid."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "That's a shame. I would have liked to have known what happened to him."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "That's one to dwell on later though. For now, we need to work out our next steps."
+    },
+    {
+      "character": "Player",
+      "line": "Next steps?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Absolutely. We now know for sure that someone returned from that expedition, but we still don't really know why. We need to find out."
+    },
+    {
+      "character": "Player",
+      "line": "But why does it matter? This all happened a thousand years ago. Anyone involved is long dead now."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "That doesn't mean it doesn't matter! This isn't just the chance to discover the truth about my ancestor. We also have the chance to expose the treachery of a former king!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I see you feel strongly about this. What do you need me to do?"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "If we're to find out what happened on that expedition, we're going to have to retrace its route. And by we, I mean you."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I had a feeling that would be the case."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "First things first, you'll need to talk to Lord Shayzien. He's ordered that any research work done on the mountain be approved by him first. You'll find him in the War Tent in the Shayzien Encampment to the"
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "north."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I'll be on my way then."
+    },
+    {
+      "character": "Player",
+      "line": "I still need to talk to Lord Shayzien."
+    },
+    {
+      "character": "Phileas Rimor",
+      "line": "Well you'll find him in the War Tent in the Shayzien Encampment to the north."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "What do you need citizen?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to perform some research on Mount Quidamortem, but I need your permission to do so."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Quite right. Quidamortem is a dangerous place and I don't want to be ordering my troops on any unnecessary rescue missions."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "So, tell me about your research."
+    },
+    {
+      "character": "Player",
+      "line": "Many years ago there was an expedition to Quidamortem ordered by King Shayzien VII. The expedition supposedly ended in failure."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "But?"
+    },
+    {
+      "character": "Player",
+      "line": "But I have reason to believe that wasn't the case. I think something was discovered on that expedition. I want to find out what it was."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Fair enough. I will approve your research, on one condition."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "If you discover anything, you will bring it to me first. King Shayzien VII was my ancestor and I want to be made aware of any discoveries that would present him in a bad light."
+    },
+    {
+      "character": "Player",
+      "line": "But surely the library should be made aware of any important discoveries?"
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "They will be made aware. But only after I have reviewed the discoveries first."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm. Fair enough."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Excellent. Consider your research approved. If you require assistance with your work, I'd recommend talking to Historian Duffy on Quidamortem. He's been researching the mountain for a while."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Good luck citizen."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "How's your expedition citizen?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't started yet."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Well if you require assistance, I'd recommend talking to Historian Duffy on Quidamortem. He's been researching the mountain for a while."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Are you Duffy?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "That's me. Do you need something?"
+    },
+    {
+      "character": "Player",
+      "line": "Lord Shayzien told me that you might be able to help with some research I'm doing."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "I'm rather busy with my own research."
+    },
+    {
+      "character": "Player",
+      "line": "Please. It's important."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Well what is it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to retrace the steps of an expedition ordered by King Shayzien VII. I believe something important was found on that expedition, but I don't know what."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Interesting. So you don't know anything about what they found?"
+    },
+    {
+      "character": "Player",
+      "line": "I have a quote which I believe is from someone on the expedition."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Fascinating. We've been researching the lizard creatures here for a while now. We have reason to believe they are not of natural origin and may in fact have been created by Xeric or his followers."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "But this quote of yours suggests the lizardmen may have existed during the time of King Shayzien VII, before Xeric's rule."
+    },
+    {
+      "character": "Player",
+      "line": "So will you help me?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Yes. This is definitely worth pursuing. In fact, I think I know where we should begin."
+    },
+    {
+      "character": "Player",
+      "line": "Where?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "We recently found a small crevice on the western face of the mountain. It seems to be manmade and appears to be older than the rest of the caves around here."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll start there."
+    },
+    {
+      "character": "Player",
+      "line": "This must be the crevice that Duffy mentioned. I'll need a rope to get in."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Rickard! Turn away! Don't do this!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello? Is anyone there?"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, I wonder what that was about."
+    },
+    {
+      "character": "Player",
+      "line": "Oh well, I may as well go and tell Historian Duffy what I've found."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Find anything in that cave?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Well let us know when you do. It's on the western face of the mountain."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Hello. Did you find anything in that cave?"
+    },
+    {
+      "character": "Player",
+      "line": "I did. There was a weird looking lizardman along with a strange altar."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "A lizardman? Is it safe?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I took care of it."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Well in that case, we'll go take a look."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "This cave is quite fascinating. We could really be on to something big here."
+    },
+    {
+      "character": "Player",
+      "line": "What have you discovered?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "We've never come across lizards like the ones in this cave before. It would appear that they are a previously undiscovered species."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "That's nothing. The really interesting part is that these lizards appear to be directly related to the lizardmen that roam this region."
+    },
+    {
+      "character": "Player",
+      "line": "So this is where the lizardmen came from?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "It would appear so. That's not all though. This cave definitely predates Xeric, who we originally believed to be the creator of the lizardmen."
+    },
+    {
+      "character": "Player",
+      "line": "So who did create them?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Impossible to say for sure, but with what we've already learnt about King Shayzien VII, I do wonder if he was the one responsible."
+    },
+    {
+      "character": "Player",
+      "line": "But if King Shayzien VII did create the lizardmen, why did they fight for Xeric?"
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "There are some who believe that King Shayzien VII and Xeric were one and the same. They claim that after his death, the King was resurrected by his followers, taking on the name Xeric."
+    },
+    {
+      "character": "Historian Duffy",
+      "line": "Anyway, I'm going to carry on with my research. I'd recommend you talk to Gnosi. She's made some interesting discoveries of her own."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Duffy said you'd found something interesting."
+    },
+    {
+      "character": "Gnosi",
+      "line": "The Dark Altar was the key to Xeric's power. Because of it, he was able to rule Kourend unopposed for nearly a hundred years. His reign was so dark, it became known as the Age of Strife."
+    },
+    {
+      "character": "Gnosi",
+      "line": "Once he was finally defeated, Xeric came to Quidamortem and built the Chambers of Xeric deep below the mountain."
+    },
+    {
+      "character": "Gnosi",
+      "line": "For many years we've tried to work out how he managed to survive out here without the power of the Dark Altar. Thanks to this cave, I think we've found the answer."
+    },
+    {
+      "character": "Gnosi",
+      "line": "This altar, it seems to give off the same power as the Dark Altar."
+    },
+    {
+      "character": "Player",
+      "line": "So this altar was how Xeric kept his power after he was defeated?"
+    },
+    {
+      "character": "Gnosi",
+      "line": "I believe so."
+    },
+    {
+      "character": "Player",
+      "line": "But why is it here?"
+    },
+    {
+      "character": "Gnosi",
+      "line": "It appears to be manmade. I believe this altar was created to amplify the power of the Dark Altar, allowing it to reach areas it previously couldn't."
+    },
+    {
+      "character": "Gnosi",
+      "line": "This discovery does bring about an intriguing question though."
+    },
+    {
+      "character": "Gnosi",
+      "line": "The altar here is still giving out power. That means Xeric could have potentially used it to live for hundreds of years after his defeat. It's long been believed that Xeric eventually died here, but what if he didn't?"
+    },
+    {
+      "character": "Player",
+      "line": "That's a worrying thought."
+    },
+    {
+      "character": "Gnosi",
+      "line": "Indeed. I'm going to stay here and continue working. Do you mind heading to the library to let them know what we've discovered."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, Lord Shayzien asked me to go to him first with any discoveries."
+    },
+    {
+      "character": "Gnosi",
+      "line": "Hmm, I can see why he would take an interest. Very well, go let him know what we've found."
+    },
+    {
+      "character": "Player",
+      "line": "Will do, see you later."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "How is your research going citizen?"
+    },
+    {
+      "character": "Player",
+      "line": "We've made some important discoveries."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Well?"
+    },
+    {
+      "character": "Player",
+      "line": "We've discovered a small cave on the western face of Quidamortem. It's manmade and it predates the time of Xeric."
+    },
+    {
+      "character": "Player",
+      "line": "Inside, we found an altar. It seems to be giving off the same power as the Dark Altar."
+    },
+    {
+      "character": "Player",
+      "line": "We also discovered a unique lizard species, one that shares many similarities with the lizardmen."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "What does that mean?"
+    },
+    {
+      "character": "Player",
+      "line": "It seems that this cave was the origin of the lizardmen. The fact that it predates Xeric suggests the lizardmen do as well."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "You believe they were the creation of my ancestor?"
+    },
+    {
+      "character": "Player",
+      "line": "Hard to say for sure. It would make sense though."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "How so?"
+    },
+    {
+      "character": "Player",
+      "line": "From the evidence we have, I believe that King Shayzien VII ordered an expedition to Quidamortem, hoping to discover a suitable species for his lizardman project."
+    },
+    {
+      "character": "Player",
+      "line": "Once the expedition found one, he had them killed to keep the discovery a secret."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "But we don't have proof?"
+    },
+    {
+      "character": "Player",
+      "line": "Not definitive, but there's a lot of evidence."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "So you claim. However, you never actually told me where this evidence came from."
+    },
+    {
+      "character": "Player",
+      "line": "It started with a parcel delivered to Phileas Rimor. It contained a journal written by King Shayzien VII himself. The journal mentioned creatures on Quidamortem."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "A parcel? King Shayzien VII's journal was delivered in a parcel? Who sent it?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Well you need to find out. Go to Phileas Rimor and retrieve this parcel. I need to see it for myself."
+    },
+    {
+      "character": "Player",
+      "line": "Eugh, so much walking. Fine, I'll go see Phileas."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Do you have the parcel citizen?"
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Well go and fetch it then. I need to see it for myself."
+    },
+    {
+      "character": "Player",
+      "line": "Err, this doesn't look good. I'd better tell Lord Shayzien."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not. I went to see Phileas but his home was trashed and he was gone."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Gone? That's not good."
+    },
+    {
+      "character": "Player",
+      "line": "What do we do now?"
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "I'll open an investigation into this immediately. Hopefully we can find out what happened to Phileas."
+    },
+    {
+      "character": "Player",
+      "line": "What about the research?"
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "I'm afraid that without that parcel we don't have anything to link King Shayzien VII to your discoveries."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "However, the rest of your research is still valid. I'll contact the research team on the mountain and make sure their discoveries are documented in the Arceuus Library."
+    },
+    {
+      "character": "Player",
+      "line": "Anything I can do?"
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "You've done enough for now citizen. I'll be in touch if we require your assistance again. For now, here is payment for your time."
+    },
+    {
+      "character": "Lord Shiro Shayzien",
+      "line": "Need anything else citizen?"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Archeio",
+      "description": "Middle-aged male, British accent, calm and professional tone. A library guardian who speaks with measured authority, helpful but reserved in demeanor."
+    },
+    {
+      "name": "Gnosi",
+      "description": "Adult female, British accent, intellectual and thoughtful tone. An Arceuus historian with scholarly curiosity, speaks with analytical precision and genuine enthusiasm for ancient discoveries."
+    },
+    {
+      "name": "Historian Duffy",
+      "description": "Middle-aged male, British accent, academic and slightly impatient tone. A natural history expert who is busy with his own research but becomes genuinely excited when discoveries align with his interests."
+    },
+    {
+      "name": "Istoria",
+      "description": "Adult female, British accent, knowledgeable and welcoming tone. The chief historian and curator who speaks with quiet authority and expertise on Kourend's history."
+    },
+    {
+      "name": "Lord Shiro Shayzien",
+      "description": "Adult male, British accent, commanding and aristocratic tone. A military lord who speaks with authority and political calculation, pragmatic but with underlying ambition and family pride."
+    },
+    {
+      "name": "Mysterious Voice",
+      "description": "Ethereal and distant, gender-ambiguous, echoing and urgent tone. A spectral voice from the past, desperate and warning, as if calling across centuries."
+    },
+    {
+      "name": "Pagida",
+      "description": "Middle-aged male, British accent, studious and helpful tone. A magical trap specialist who speaks with technical expertise, patient when explaining his areas of knowledge."
+    },
+    {
+      "name": "Phileas Rimor",
+      "description": "Elderly male, British accent, warm and curious tone. A retired Shayzien soldier with intellectual curiosity, speaks with the wisdom of age and genuine passion for uncovering his family's history."
+    }
+  ]
+}

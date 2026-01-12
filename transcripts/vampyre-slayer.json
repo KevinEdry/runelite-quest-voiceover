@@ -1,0 +1,47 @@
+{
+  "branch": "quest/vampyre-slayer",
+  "quest_name": "Vampyre Slayer",
+  "lines": [
+    { "character": "Morgan", "line": "Please please help us, bold adventurer!" },
+    { "character": "Player", "line": "What's the problem?" },
+    { "character": "Morgan", "line": "Our little village has been dreadfully ravaged by an evil vampyre! He lives in the basement of the manor to the north, we need someone to get rid of him once and for all!" },
+    { "character": "Player", "line": "Okay, I'm up for an adventure." },
+    { "character": "Morgan", "line": "I think first you should seek help. I have a friend who is a retired vampyre hunter, his name is Dr. Harlow. He may be able to give you some tips. He can normally be found in the Blue Moon Inn in Varrock, he's a bit" },
+    { "character": "Morgan", "line": "of an old soak these days. Mention his old friend Morgan, I'm sure he wouldn't want me killed by a vampyre." },
+    { "character": "Player", "line": "I'll look him up then." },
+    { "character": "Player", "line": "No, vampyres are scary!" },
+    { "character": "Morgan", "line": "I don't blame you." },
+    { "character": "Morgan", "line": "How are you doing with the quest?" },
+    { "character": "Player", "line": "I'm still working on it." },
+    { "character": "Morgan", "line": "Please hurry! Every day we live in fear that we will be the vampyre's next victim!" },
+    { "character": "Dr Harlow", "line": "Buy me a drrink pleassh..." },
+    { "character": "Player", "line": "No, you've had enough." },
+    { "character": "Player", "line": "Morgan needs your help!" },
+    { "character": "Dr Harlow", "line": "Morgan you shhay..?" },
+    { "character": "Player", "line": "His village is being terrorised by a vampyre! He told me to ask you about how I can stop it." },
+    { "character": "Dr Harlow", "line": "Buy me a beer... then I'll teash you what you need to know..." },
+    { "character": "Player", "line": "But this is your friend Morgan we're talking about!" },
+    { "character": "Dr Harlow", "line": "Buy ush a drink anyway..." },
+    { "character": "Player", "line": "I'll just go and buy one." },
+    { "character": "Player", "line": "Here you go." },
+    { "character": "Dr Harlow", "line": "Cheersh matey..." },
+    { "character": "Player", "line": "So tell me how to kill vampyres then." },
+    { "character": "Dr Harlow", "line": "Yesh Yesh vampyres, I was very good at killing em once..." },
+    { "character": "Dr Harlow", "line": "Don't forget to take your stake with you, otherwise he'll just regenerate. Yes, you must have a stake to finish it off... I'd give you a stake but you've got one in your inventory." },
+    { "character": "Dr Harlow", "line": "Don't forget to take your stake with you, otherwise he'll just regenerate. Yes, you must have a stake to finish it off... I'd give you a stake but you've already got one stored somewhere." },
+    { "character": "Dr Harlow", "line": "Well, you're going to need a stake, otherwise he'll just regenerate. Yes, you must have a stake to finish it off... I just happen to have one with me." },
+    { "character": "Dr Harlow", "line": "You'll need a hammer as well, to drive it in properly, your everyday general store hammer will do. One last thing... It's wise to carry garlic with you, vampyres are somewhat weakened if they can smell garlic. Morgan" },
+    { "character": "Dr Harlow", "line": "always liked garlic, you should try his house. But remember, a vampyre is still a dangerous foe!" },
+    { "character": "Player", "line": "Thank you very much!" }
+  ],
+  "characters": [
+    {
+      "name": "Morgan",
+      "description": "Middle-aged male, British accent, frightened and pleading tone, a worried villager living in terror of the vampyre plaguing Draynor Village."
+    },
+    {
+      "name": "Dr Harlow",
+      "description": "Elderly male, British accent, slurred and drunken speech, a once-legendary vampyre hunter now retired and drowning his sorrows at the Blue Moon Inn in Varrock."
+    }
+  ]
+}

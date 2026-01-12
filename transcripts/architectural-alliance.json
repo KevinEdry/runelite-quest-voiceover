@@ -1,0 +1,440 @@
+{
+  "branch": "quest/architectural-alliance",
+  "quest_name": "Architectural Alliance",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "What happened to the statue?"
+    },
+    {
+      "character": "Hosa",
+      "line": "There was an awful storm, worst we've ever seen. The combination of cold and wind as well as its great age just... well... you only have to look around to find pieces."
+    },
+    {
+      "character": "Player",
+      "line": "Looks like you're planning on rebuilding it?"
+    },
+    {
+      "character": "Hosa",
+      "line": "I was, but I can't do it alone. Architects from all five cities have been working on individual projects to improve the roads around the kingdom,"
+    },
+    {
+      "character": "Hosa",
+      "line": "but now we're done and I hoped that they might come to help with the statue."
+    },
+    {
+      "character": "Player",
+      "line": "Can I help?"
+    },
+    {
+      "character": "Hosa",
+      "line": "Would you? The others... they refuse to talk to me."
+    },
+    {
+      "character": "Player",
+      "line": "Sure. I assume that each city in Kourend will have an architect?"
+    },
+    {
+      "character": "Hosa",
+      "line": "Yes indeed. If you could call together the architects from all five cities to co-operate on this statue - that will be something that has never happened before..."
+    },
+    {
+      "character": "Hosa",
+      "line": "Sadly you are not favoured by the citizens of Hosidius. When you are, come back to me and I'll help."
+    },
+    {
+      "character": "Player",
+      "line": "But you're organising this thing."
+    },
+    {
+      "character": "Hosa",
+      "line": "That's all very well, but I would lose face with my people if I were to actively assist someone who was not favoured."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, that's a shame."
+    },
+    {
+      "character": "Player",
+      "line": "How are we doing on the statue?"
+    },
+    {
+      "character": "Hosa",
+      "line": "Until we have architects skilled in all areas of the statue, we cannot proceed."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I have to go find some more architects then!"
+    },
+    {
+      "character": "Hosa",
+      "line": "You'll find them all at home, in their respective cities."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help?"
+    },
+    {
+      "character": "Hosa",
+      "line": "Sadly you are not favoured by the citizens of Hosidius. When you are, come back to me and I'll help too."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Are you an architect?"
+    },
+    {
+      "character": "Arcis",
+      "line": "I am."
+    },
+    {
+      "character": "Player",
+      "line": "You are not favoured by the people of Arceuus. Now, if you don't mind, I have things to think about."
+    },
+    {
+      "character": "Arcis",
+      "line": "Why yes I am. How can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "I wondered if you might be able to lend a hand with rebuilding a statue."
+    },
+    {
+      "character": "Arcis",
+      "line": "Possibly. What might this statue be?"
+    },
+    {
+      "character": "Player",
+      "line": "King Rada I!"
+    },
+    {
+      "character": "Arcis",
+      "line": "Of course I will help you. You are referring of course to the statue that was destroyed in the storm. How large were you thinking?"
+    },
+    {
+      "character": "Player",
+      "line": "Very big."
+    },
+    {
+      "character": "Arcis",
+      "line": "Hmm if it's really big, then my skills are limited to feet, legs and robes on big statues."
+    },
+    {
+      "character": "Player",
+      "line": "That's ok, I can find someone else to work on the other bits. See you at the site!"
+    },
+    {
+      "character": "Arcis",
+      "line": "I am preparing. I will be there shortly."
+    },
+    {
+      "character": "Piliar",
+      "line": "Oh hello there, you've come to the right place."
+    },
+    {
+      "character": "Player",
+      "line": "I wondered if you might have some time to help...?"
+    },
+    {
+      "character": "Piliar",
+      "line": "I am sorry but the people of Port Piscarilius does not favour you currently. I have to get back to my duties."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I'm looking for an architect?"
+    },
+    {
+      "character": "Piliar",
+      "line": "I am indeed, fastest builder in Kourend and a dab hand at sculpture. How can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "I wondered if you would be interested in helping to build a statue."
+    },
+    {
+      "character": "Piliar",
+      "line": "Maybe. What of?"
+    },
+    {
+      "character": "Player",
+      "line": "An enormous statue of King Rada I in the centre of Kourend."
+    },
+    {
+      "character": "Piliar",
+      "line": "Oh really? Who was he then?"
+    },
+    {
+      "character": "Player",
+      "line": "He was your founding ruler! Surely you know your history?"
+    },
+    {
+      "character": "Piliar",
+      "line": "Of course I do, just pulling your leg. Sounds like a great idea, though I am only good at doing arms and hands on big statues - is that of use?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes it is, I can find someone else to work on the other bits. See you at the site!"
+    },
+    {
+      "character": "Piliar",
+      "line": "Yes, yes, I'm on my way, just collecting my things! I'll be there shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Hi!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for an architect?"
+    },
+    {
+      "character": "Lovada",
+      "line": "What? Who're you? What do you want?"
+    },
+    {
+      "character": "Lovada",
+      "line": "Can't be doin' with that. Yer not favoured in my city. Go away."
+    },
+    {
+      "character": "Lovada",
+      "line": "Ay? What's that you say?"
+    },
+    {
+      "character": "Player",
+      "line": "ARE YOU AN ARCHITECT?"
+    },
+    {
+      "character": "Lovada",
+      "line": "No need to shout. I'm a well respected architect you know."
+    },
+    {
+      "character": "Lovada",
+      "line": "Maybe. What's it of?"
+    },
+    {
+      "character": "Player",
+      "line": "King Rada I."
+    },
+    {
+      "character": "Lovada",
+      "line": "What? A larder that's burst? That's absurd!"
+    },
+    {
+      "character": "Player",
+      "line": "KING RADA I!"
+    },
+    {
+      "character": "Lovada",
+      "line": "All right, all right, no need to shout, I'm not deaf."
+    },
+    {
+      "character": "Lovada",
+      "line": "King Rada you say? My grandad met him."
+    },
+    {
+      "character": "Player",
+      "line": "Um, really? That was an awful long time ago."
+    },
+    {
+      "character": "Lovada",
+      "line": "Hmm... Might have been my great grandad..."
+    },
+    {
+      "character": "Player",
+      "line": "The statue... do you want to help?"
+    },
+    {
+      "character": "Lovada",
+      "line": "What's that? Oh, yes, of course. But if it's big, I'm really only good at the main body bit, most like a house you see."
+    },
+    {
+      "character": "Player",
+      "line": "It's huge, and in the centre of Kourend."
+    },
+    {
+      "character": "Lovada",
+      "line": "Well then I'm your dwarf."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I need to find someone else to work on the other bits. See you at the site!"
+    },
+    {
+      "character": "Lovada",
+      "line": "Yes, yes, I'm on my way, give my old bones a chance! I'll be there shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Greetings!"
+    },
+    {
+      "character": "Shayda",
+      "line": "Oh hello there, I'm an architect."
+    },
+    {
+      "character": "Shayda",
+      "line": "So sorry but the people of Shayzien do not favour you currently. Please leave."
+    },
+    {
+      "character": "Shayda",
+      "line": "Yes."
+    },
+    {
+      "character": "Player",
+      "line": "Ah good, I wondered if you would be interested in helping to build a statue."
+    },
+    {
+      "character": "Shayda",
+      "line": "Of course. What kind of statue?"
+    },
+    {
+      "character": "Shayda",
+      "line": "Well! How extraordinary! I'm definitely in, but only really good at doing armour and weapons on big statues - is that of use?"
+    },
+    {
+      "character": "Player",
+      "line": "It is indeed, I can find someone else to work on the other bits. See you at the site!"
+    },
+    {
+      "character": "Shayda",
+      "line": "Yes, yes, I'm on my way, just collecting my things! I'll be there shortly."
+    },
+    {
+      "character": "Player",
+      "line": "We're all here, let's get started on this statue!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you all for agreeing to help me in this endeavour."
+    },
+    {
+      "character": "Piliar",
+      "line": "You earned the favour of my people and I think it's right that we honour the founding of our city in this way, that is why I am here."
+    },
+    {
+      "character": "Shayda",
+      "line": "I agree wholeheartedly."
+    },
+    {
+      "character": "Lovada",
+      "line": "Same here."
+    },
+    {
+      "character": "Arcis",
+      "line": "Let us commence our work."
+    },
+    {
+      "character": "Hosa",
+      "line": "Yep, let's begin."
+    },
+    {
+      "character": "Lovada",
+      "line": "Indeed we shall."
+    },
+    {
+      "character": "Shayda",
+      "line": "Yes, let's bash some rock."
+    },
+    {
+      "character": "All",
+      "line": "Ready!"
+    },
+    {
+      "character": "Hosa",
+      "line": "Thanks for helping us all get together to finally build this statue! I've got something for you..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes! I love rewards, what have you got for me?"
+    },
+    {
+      "character": "Hosa",
+      "line": "I've had this lamp for a while, but it'll serve you more good than it does for me."
+    },
+    {
+      "character": "Player",
+      "line": "Truly awesome!"
+    },
+    {
+      "character": "Hosa",
+      "line": "Isn't it just!"
+    },
+    {
+      "character": "Player",
+      "line": "I seem to have lost that antique lamp you gave me, have you got another one?"
+    },
+    {
+      "character": "Hosa",
+      "line": "Here you go!"
+    },
+    {
+      "character": "Player",
+      "line": "Magnificent!"
+    },
+    {
+      "character": "Arcis",
+      "line": "Truly a testament to a great King. Thank you for the opportunity to contribute."
+    },
+    {
+      "character": "Player",
+      "line": "Truly awesome sight!"
+    },
+    {
+      "character": "Piliar",
+      "line": "Indeed, rather proud of it myself, look at those fingernails."
+    },
+    {
+      "character": "Player",
+      "line": "How moving it looks!"
+    },
+    {
+      "character": "Lovada",
+      "line": "Move it? Not now it's built!"
+    },
+    {
+      "character": "Player",
+      "line": "I meant... oh it doesn't matter..."
+    },
+    {
+      "character": "Lovada",
+      "line": "Aye, lovely statue isn't it."
+    },
+    {
+      "character": "Player",
+      "line": "Utterly amazing! So much better than I imagined."
+    },
+    {
+      "character": "Shayda",
+      "line": "Isn't it just? I'm so proud at what we have pulled together to create."
+    }
+  ],
+  "characters": [
+    {
+      "name": "All",
+      "description": "A chorus of five architects speaking in unison, mixed male and female voices with British accents, enthusiastic and unified tone."
+    },
+    {
+      "name": "Arcis",
+      "description": "Middle-aged female, refined British accent, calm and intellectual tone, a scholarly architect from the magical House Arceuus who speaks with measured precision."
+    },
+    {
+      "name": "Hosa",
+      "description": "Middle-aged male, warm British accent, cheerful and optimistic tone, a friendly Hosidius architect who takes pride in coordinating community projects."
+    },
+    {
+      "name": "Lovada",
+      "description": "Elderly female dwarf, gruff Scottish accent, loud and cantankerous tone, hard of hearing but skilled, claims her grandad met King Rada I."
+    },
+    {
+      "name": "Piliar",
+      "description": "Young adult male, casual British accent, confident and witty tone, a fast-working Port Piscarilius architect who enjoys joking around."
+    },
+    {
+      "name": "Shayda",
+      "description": "Adult female, crisp British accent, professional and direct tone, a no-nonsense Shayzien architect who specializes in sculpting armor and weapons."
+    }
+  ]
+}

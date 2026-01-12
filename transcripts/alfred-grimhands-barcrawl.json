@@ -1,0 +1,288 @@
+{
+  "branch": "quest/alfred-grimhands-barcrawl",
+  "quest_name": "Alfred Grimhand's Barcrawl",
+  "lines": [
+    {
+      "character": "Barbarian guard",
+      "line": "Oi, whaddya want?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to come through this gate."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Barbarians only. Are you a barbarian? You don't look like one."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, yep you've got me there."
+    },
+    {
+      "character": "Player",
+      "line": "Looks can be deceiving, I am in fact a barbarian."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Are you, now? Free up some space so you can carry something, and we'll see how barbarian you really are."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "If you're a barbarian you need to be able to drink like one. We barbarians like a good drink."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "I have the perfect challenge for you... The Alfred Grimhand Barcrawl! First completed by Alfred Grimhand."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Take that card to each of the bars named on it. The bartenders will know what it means. We're kinda well known."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "They'll give you their strongest drink and sign your card. When you've done all that, we'll be happy to let you in."
+    },
+    {
+      "character": "Player",
+      "line": "I want some money."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Do I look like a bank to you?"
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "So, how's the Barcrawl coming along?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't finished it yet."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Well come back when you have, you lightweight."
+    },
+    {
+      "character": "Player",
+      "line": "Not too bad. I've got my barcrawl card stored somewhere for safe-keeping."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "You need to take it with you when you're going on a barcrawl."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost my barcrawl card..."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "What are you like? You're gonna have to start all over now."
+    },
+    {
+      "character": "Bartender",
+      "line": "What can I do yer for?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm doing Alfred Grimhand's Barcrawl."
+    },
+    {
+      "character": "Bartender",
+      "line": "Oh no not another of you guys. These barbarian barcrawls cause too much damage to my bar."
+    },
+    {
+      "character": "Bartender",
+      "line": "You're going to have to pay 50 gold for the Uncle Humphrey's Gutrot."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have 50 coins."
+    },
+    {
+      "character": "[player name]",
+      "line": "Blearrgh!"
+    },
+    {
+      "character": "Blurberry",
+      "line": "Ah, you've come to the best stop on your list! I'll give you my famous Fire Toad Blast! It'll cost you 10 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have 10 coins right now."
+    },
+    {
+      "character": "Bartender",
+      "line": "Yohoho me hearty what would you like to drink?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Haha time to be breaking out the old Supergrog. That'll be 15 coins please."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry I don't have 15 coins."
+    },
+    {
+      "character": "Bartender",
+      "line": "What can I get you?"
+    },
+    {
+      "character": "Player",
+      "line": "What's on the menu?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Dragon Bitter and Greenman's Ale, oh and some cheap beer."
+    },
+    {
+      "character": "Bartender",
+      "line": "I suppose you'll be wanting some Fire Brandy. That'll cost you 12 coins."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry I don't have 12 coins."
+    },
+    {
+      "character": "Bartender",
+      "line": "Would you like to buy a drink?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you serve?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Beer!"
+    },
+    {
+      "character": "Bartender",
+      "line": "Fancy a bit of Heart Stopper then do you? It'll only be 8 coins."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't have 8 coins."
+    },
+    {
+      "character": "Bartender",
+      "line": "Good morning, what would you like?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Oh you're a barbarian then. Now which of these barrels contained the Liverbane Ale? That'll be 18 coins please."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't have 18 coins."
+    },
+    {
+      "character": "Bartender",
+      "line": "Can I help you?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Ah, there seems to be a fair few doing that one these days. My supply of Olde Suspiciouse is starting to run low, it'll cost you 10 coins."
+    },
+    {
+      "character": "Player",
+      "line": "Thanksh very mush..."
+    },
+    {
+      "character": "Zembo",
+      "line": "Hey, are you wanting to try some of my fine wines and spirits? All brewed locally on Karamja island."
+    },
+    {
+      "character": "Zembo",
+      "line": "Ah, you'll be wanting some Ape Bite Liqueur then. It's got a lovely banana taste, and it'll only cost you 7 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have 7 coins right now."
+    },
+    {
+      "character": "Player",
+      "line": "Mmmmm, dat was luverly..."
+    },
+    {
+      "character": "Tina",
+      "line": "Heya! What can I get you?"
+    },
+    {
+      "character": "Tina",
+      "line": "Heehee, this'll be fun!"
+    },
+    {
+      "character": "Tina",
+      "line": "You'll be after our Hand of Death cocktail, then. Lots of expensive parts to the cocktail, though, so it will cost you 70 coins."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much money on me."
+    },
+    {
+      "character": "Bartender",
+      "line": "Are you sure? You look a bit skinny for that."
+    },
+    {
+      "character": "Player",
+      "line": "Just give me whatever I need to drink here."
+    },
+    {
+      "character": "Bartender",
+      "line": "Ok one Black Skull Ale coming up, 8 coins please."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have 8 coins with me."
+    },
+    {
+      "character": "[player name]",
+      "line": "Hiccup!"
+    },
+    {
+      "character": "Player",
+      "line": "I tink I jusht 'bout done dem all... but I losht count..."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Yep that seems fine, you can come in now. I never learned to read, but you look like you've drunk plenty. Also, one more thing..."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "Since you drink like a barbarian, I can show you how to smash your vials when you finish them. Do you want to do that?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please, I want to smash my vials."
+    },
+    {
+      "character": "Barbarian guard",
+      "line": "It’s all part of drinking like a barbarian! Okay, you will now smash your vials as you drink your potions."
+    },
+    {
+      "character": "Player",
+      "line": "No thank you, I'd rather keep my vials."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Barbarian guard",
+      "description": "Adult male, gruff Scottish accent, boisterous and direct tone, an illiterate but proud warrior who respects drinking prowess over formal credentials."
+    },
+    {
+      "name": "Bartender",
+      "description": "Middle-aged male, working-class British accent, friendly but businesslike tone, a no-nonsense tavern keeper who has seen plenty of barcrawlers come through."
+    },
+    {
+      "name": "Blurberry",
+      "description": "Adult male gnome, high-pitched cheerful voice with a refined British accent, proud and professional cocktail master who takes great pride in his signature drinks."
+    },
+    {
+      "name": "Tina",
+      "description": "Young adult female, cheerful British accent with an assertive edge, a friendly barmaid who enjoys a good laugh but won't tolerate nonsense about payment."
+    },
+    {
+      "name": "Zembo",
+      "description": "Middle-aged male, slightly slurred Caribbean accent, laid-back and jovial tone, a perpetually tipsy bartender who samples his own tropical wares on Karamja."
+    }
+  ]
+}

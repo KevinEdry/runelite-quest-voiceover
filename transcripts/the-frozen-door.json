@@ -1,0 +1,300 @@
+{
+  "branch": "quest/the-frozen-door",
+  "quest_name": "The Frozen Door",
+  "lines": [
+    {
+      "character": "Messenger",
+      "line": "I have a letter for you. I'm told it's quite important. Please read it when you get a chance."
+    },
+    {
+      "character": "Messenger",
+      "line": "Apparently you destroyed that last letter I gave you without reading it, or something like that. The sender doesn't appreciate that sort of thing, so I've got another one for you."
+    },
+    {
+      "character": "Messenger",
+      "line": "Look, you can destroy that letter as many times as you want, but it won't change anything. The sender isn't the kind of individual who takes no for an answer, so for both of our sakes, please just read it."
+    },
+    {
+      "character": "Messenger",
+      "line": "Please... don't keep doing this. You don't know who you're dealing with..."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "I can't let you go in there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello? Who are you? What is this place?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "I'm... Ashuelot... Ashuelot Reis. But I don't understand... How are you here?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh... Well I'm, and I'm here because I was told there was a great treasure to be found."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Treasure? I fear you have been misled. There is no treasure here, only our great mistake."
+    },
+    {
+      "character": "Player",
+      "line": "Mistake?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "This place is a prison. Here, a being of incomprehensible power was sealed away. Things would have stayed that way, if not for our foolishness."
+    },
+    {
+      "character": "Player",
+      "line": "What happened?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "We thought we were doing good, but we were led astray. We opened the prison, and unleashed the horror within."
+    },
+    {
+      "character": "Player",
+      "line": "But the door was locked until I came along."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Yes... After our great mistake, four opposing armies united to contain the evil again. They managed to reseal the prison, but they were unable to repair the original enchantments."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "This place has remained vulnerable ever since."
+    },
+    {
+      "character": "Player",
+      "line": "And now I've opened it again."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "If what you've told me is true, you were fooled just as we were. But I suppose that means little now. With the prison now open again, there isn't much to prevent the evil escaping once more."
+    },
+    {
+      "character": "Player",
+      "line": "There must be something I can do to stop it."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "There is only one thing you can do. You can fight."
+    },
+    {
+      "character": "Player",
+      "line": "Then that is what I will do."
+    },
+    {
+      "character": "Player",
+      "line": "Though, now that I think about it, I'm still not overly clear what this evil is."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "She is a being of darkness. A servant of the Ruinous Powers. She is the Angel of Death. She is Nex."
+    },
+    {
+      "character": "Player",
+      "line": "I'll stop her."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "I hope so. Nex can be found in the inner section of the prison. Join me there. But be warned, Nex was not imprisoned alone. You'll need to fight through her followers to reach her."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Good luck."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "You made it?"
+    },
+    {
+      "character": "Player",
+      "line": "You didn't think I would?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Nex's followers are capable of bringing down even the strongest of warriors. I did fear you might not make it past them."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Still, they are nothing compared to the Angel of Death herself."
+    },
+    {
+      "character": "Player",
+      "line": "So how do I deal with her?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "You will never be able to truly defeat her. The best you can do is to try and keep her contained. When you are ready to face her, just go through the barrier."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "If it helps, while my magic is limited here, I should still be able to transfer items in and out of the prison for you. Let me know if you'd like me to do this before you enter."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about Nex."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Long ago, these lands were dominated by a great empire, ruled over by an ancient god. The Empty Lord is what they often called him, but his true name was Zaros."
+    },
+    {
+      "character": "Player",
+      "line": "Zaros? I've heard of him."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "At the height of his power, Zaros seemed untouchable, but he was eventually defeated by those he trusted the most. With him gone, the empire collapsed. War broke out soon after."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Although their god was gone, many Zarosians fought to keep his empire alive. Among them was Nex. She was Zaros' most powerful weapon, and she led a great army to try and restore his empire."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Not that she needed an army of course. Nex alone was powerful enough to hold back hundreds of lesser beings."
+    },
+    {
+      "character": "Player",
+      "line": "So how did she end up here?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "The forces of Saradomin knew that Nex needed to be dealt with. They were able to lure her into these caverns."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "After great effort and sacrifice, they managed to place Nex and her followers into a frozen, enchanted sleep."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Once Nex was no longer an immediate threat, they built the Temple of Lost Ancients around her. Most of the temple has since fallen to ruin, but you can still see some of the remains."
+    },
+    {
+      "character": "Player",
+      "line": "But she wasn't frozen forever, was she? You said you were fooled into freeing her."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Yes. Later in the war, a great battle broke out in the Temple of Lost Ancients. I was a Saradominist soldier at the time, and I was among those who fought for him in that battle."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "By then, many of us had grown tired of war. One of our priests discovered this. He came to us and revealed that he felt the same way, and that he had secretly converted to Guthix. He encouraged us to join him."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "We abandoned the cause of Saradomin and became followers of Guthix. Our new leader taught us the ways of the druids, including an ancient ritual that had the power to awaken Guthix himself."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "We believed this ritual to be the only way to end the war."
+    },
+    {
+      "character": "Player",
+      "line": "But I'm guessing that's not how things went?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "No... When our leader led us to perform the ritual, it was not Guthix we woke, but Nex and her forces. The ritual also destroyed the protective enchantments on their prison."
+    },
+    {
+      "character": "Player",
+      "line": "And that was exactly what your leader wanted?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "It was. He had never been a follower of Guthix, or Saradomin. His real goal had always been to free Nex."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "The rest is as I already told you. Nex posed such a danger, that the four armies temorarily joined forces to drive her back into the prison. They resealed it, but were unable to fix the enchantments we destroyed."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "As for me, I was one of the first to fall after Nex was freed, but I didn't truly die. Something about our ritual tied me to this place. I've been trapped here ever since. Not dead, but not really alive either."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Don't be. This is the punishment for my sins."
+    },
+    {
+      "character": "Player",
+      "line": "What of the one that led the ritual. What came of him?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "He'd achieved his goal, so he left. I never saw him again."
+    },
+    {
+      "character": "Player",
+      "line": "But who was he really?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "He never gave us his true name, but as Nex was freed, she spoke to him."
+    },
+    {
+      "character": "Player",
+      "line": "She knew him?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "It seemed that way. I heard little of what they said, but I did hear what she called him."
+    },
+    {
+      "character": "Player",
+      "line": "What was it?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Sliske."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Forgive me, but this conversation has brought back many memories. Let us speak no more of this."
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Player",
+      "line": "Can I access my bank?"
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Of course."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to collect some items."
+    },
+    {
+      "character": "Player",
+      "line": "I need to go."
+    },
+    {
+      "character": "Ashuelot Reis",
+      "line": "Good luck out there."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ashuelot Reis",
+      "description": "Female, soft ethereal voice with Eastern European accent, melancholic and weary tone. An ancient spirit bound to the prison, speaking with measured remorse about past mistakes and quiet resolve to prevent further catastrophe."
+    },
+    {
+      "name": "Messenger",
+      "description": "Young adult, neutral British accent, polite and efficient tone. A helpful courier who delivers messages with friendly professionalism, though increasingly nervous when players ignore important letters."
+    }
+  ]
+}

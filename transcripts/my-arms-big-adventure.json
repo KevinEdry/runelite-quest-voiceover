@@ -1,0 +1,1628 @@
+{
+  "branch": "quest/my-arms-big-adventure",
+  "quest_name": "My Arm's Big Adventure",
+  "lines": [
+    {
+      "character": "Burntmeat",
+      "line": "Oh, it you again. I bin thinking 'bout you."
+    },
+    {
+      "character": "Player",
+      "line": "I probably won't feel happy for knowing the answer to this, but why have you been thinking about me?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Ohhh, Burntmeat not finished thinking yet. Maybe next time you come here I tell you."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Well, Burntmeat need big important job doing, and you bin helpful before. You fetch Burntmeat tasty human for stew that time."
+    },
+    {
+      "character": "Player",
+      "line": "What do you want now?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "You remember you come in here asking me questions about goutweed, yah?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, you told me trolls had picked it all until there wasn't any left."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Yah. But Burntmeat is hearing where goutweed is growing again."
+    },
+    {
+      "character": "Player",
+      "line": "Oh? How did you hear that?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Well, I was cooking dis adventurer..."
+    },
+    {
+      "character": "Adventurer",
+      "line": "You like my armour? If you let me go, I'll let you keep it!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Nah, silly red metal just hurt troll teeth."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Huh? What dis? You got goutweed here!"
+    },
+    {
+      "character": "Adventurer",
+      "line": "You can have that too! Just let me go!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Only place find goutweed is my storeroom. You bin stealing?"
+    },
+    {
+      "character": "Adventurer",
+      "line": "No! I-I- I grew that myself!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "What say? Goutweed not grow now. Trolls pick it all."
+    },
+    {
+      "character": "Adventurer",
+      "line": "No, no; I grew it."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Humans grow goutweed? You lying to Burntmeat!"
+    },
+    {
+      "character": "Adventurer",
+      "line": "You can get the gout tuber from Tai Bwo Wannai Village. Go there and ask Murcaily. Then you plant it in a farming patch."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Mmmm. Burntmeat think that sound good. But Burntmeat cook you first."
+    },
+    {
+      "character": "Adventurer",
+      "line": "Oh b..."
+    },
+    {
+      "character": "Player",
+      "line": "You killed that poor chap! What had he ever done to you?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Well, he give me mighty sore tummy later. I think I forget to wash his feet."
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, why did you tell me about all that?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Ah! Der man I cooked, he say humans growing goutweed again. Now, if humans growing goutweed, maybe trolls can grow goutweed too, yah?"
+    },
+    {
+      "character": "Player",
+      "line": "You want to become a farmer?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "No, not me. Burntmeat stick to what he best at doing. But I got me an assistant wanting to learn farming. He called My Arm."
+    },
+    {
+      "character": "Player",
+      "line": "Your assistant's called WHAT?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "He called My Arm."
+    },
+    {
+      "character": "Player",
+      "line": "My...?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "My Arm."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yep, My Arm."
+    },
+    {
+      "character": "Player",
+      "line": "But why is he called..."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "It a perfectly good troll name."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, enough! What do you want me to do for this Arm person?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "You gonna help My Arm grow goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "Look, you're a vicious monster who eats innocent people! Why should I ever help you again?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "See, if My Arm learns to grow goutweed, I get as much goutweed as I ever want. If dat happens, I promise you I never cook another human in my life."
+    },
+    {
+      "character": "Player",
+      "line": "Never?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Never. Burntmeat promises. Goat taste just as good as human if you add enough goutweed. Now you go talk to My Arm; he tell you what to do."
+    },
+    {
+      "character": "Player",
+      "line": "Can I have all that dragon stuff as my reward?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "What dragon stuff you talking 'bout?"
+    },
+    {
+      "character": "Player",
+      "line": "When you were telling me about the man you cooked who talked about goutweed, there was loads of valuable stuff on the floor. Can I have it? PLEASE!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Sorry, Player - Burntmeat chucked dat stuff away. It no good to eat. Red metal clothes hurt troll teeth, and big whip thing get stuck in throat."
+    },
+    {
+      "character": "Player",
+      "line": "Gah! You're worse than the old man who wouldn't give me his hat!"
+    },
+    {
+      "character": "Player",
+      "line": "..."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "You go help My Arm now."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll lend him a hand. But you'd better keep that promise about not cooking any more people!"
+    },
+    {
+      "character": "Player",
+      "line": "You're disgusting! I'm not helping you again."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Aww, now you done hurt Burntmeat's feelings."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "If you not paying attention, Burntmeat not going to talk to you!"
+    },
+    {
+      "character": "Player",
+      "line": "You were about to tell me about some job..."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Yep, I remember. See, when you come here asking me 'bout goutweed dat other time, I tell you how we trolls had picked it all, and it not grow no more."
+    },
+    {
+      "character": "Player",
+      "line": "Right, you told me the only goutweed anywhere in the world was in your storage room."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "You get on with helping My Arm, yah?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay, I'll do it."
+    },
+    {
+      "character": "Player",
+      "line": "Before I start helping you with the whole farming thing, could you just explain why you're called My Arm?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat's easy! You know we trolls named after der first thing wot we try to eat when we young?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, so what did you try to eat?"
+    },
+    {
+      "character": "My Arm",
+      "line": "It were my dad's arm. I remember it look so big holding me, I just gotta give it a chew. So he done named me My Arm."
+    },
+    {
+      "character": "Player",
+      "line": "And no one thinks it's a silly name?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Well, I seen worse. Most humans come through here, dey got names with like all numbers and things wot aren't even words! I met some earlier wot called."
+    },
+    {
+      "character": "My Arm",
+      "line": "Well, I seen worse. Most humans come through here, dey got names with like all numbers and things wot aren't even words!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay, I'm sorry! (snicker)"
+    },
+    {
+      "character": "My Arm",
+      "line": "If you happy 'bout my name now, I tell you 'bout dis farming job."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, My Arm (snicker snicker), tell me about it."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday. Now, I heard 'bout dese gouty thingies before. Da cooks up on Death Plateau were saying dey cooked a man wot had a lump in his pocket dat tasted like goutweed, but wasn't goutweed."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm is thinking this is da thingy we need."
+    },
+    {
+      "character": "Player",
+      "line": "So what do we do about it?"
+    },
+    {
+      "character": "My Arm",
+      "line": "You go to Death Plateau and search da big cooking pot for da goutweedy lump!"
+    },
+    {
+      "character": "Player",
+      "line": "There's no need for that. I already have a tuber. Do you want to see it?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Just do as I say, yah?"
+    },
+    {
+      "character": "Player",
+      "line": "But there's no point in worrying about some weird lump on Death Plateau when I've got a tuber."
+    },
+    {
+      "character": "My Arm",
+      "line": "I not want to see your tuber! My Arm is organised troll who gets one thing done at a time. I need da goutweedy lump from da cooking pot on Death Plateau."
+    },
+    {
+      "character": "Player",
+      "line": "Hmph."
+    },
+    {
+      "character": "Player",
+      "line": "Why do I need to go there? Can't I just get you a proper gout tuber?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Never mind tubers. You fetch me da goutweedy lump from da cooking pot of Dung 'n' Ash on Death Plateau."
+    },
+    {
+      "character": "My Arm",
+      "line": "Go see Burntmeat - he give good directions for getting there."
+    },
+    {
+      "character": "My Arm",
+      "line": "You got da goutweedy lump yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "My Arm",
+      "line": "You go getting yourself a move on, yah? My Arm getting bored. Ask Burntmeat if you needin' help findin' da place."
+    },
+    {
+      "character": "Player",
+      "line": "What was it you wanted?"
+    },
+    {
+      "character": "My Arm",
+      "line": "You is a bit forgetful. If you like, My Arm give you nice tap on head to clear out cobbiewebs from brain."
+    },
+    {
+      "character": "Player",
+      "line": "No! Just tell me what it was you wanted."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, maybe some other time. Now, what you gotta do is go to Death Plateau and fetch me da goutweedy lump from da big cooking pot."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, how could I forget?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Perhaps you is a bit thick in da head. Ask Burntmeat if you needin' help findin' da place."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "How you an' My Arm getting on with da goutweed?"
+    },
+    {
+      "character": "Player",
+      "line": "He wants me to fetch something from a cauldron on Death Plateau."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Death Plateau, huh? Dat's quite a long way. Do you know how to get dere?"
+    },
+    {
+      "character": "Player",
+      "line": "I am a navigational genius; I'll be fine."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Okieday. Just you mind out for dem troll cooks on Death Plateau - dey not as friendly as Burntmeat."
+    },
+    {
+      "character": "Player",
+      "line": "This place is a maze - got any advice?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Okieday, listen up an' Burntmeat tell you da best way to Death Plateau..."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "You go out da north door of my kitchen an' walk all da way down da corridor."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Turn right at da end, and go down da stairs to da prison where we keep meat fresh."
+    },
+    {
+      "character": "Player",
+      "line": "A prison where you keep meat fresh?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Yup. Can't keep people in crates like goutweed, dey go all dead an' smelly. Burntmeat tried it."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Walk straight through da prison. Da back door of da Stronghold is at da south end."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, so I've gone northwards up the corridor, down the stairs, then southwards through the prison."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Dat is correct. Now you gettin' outside..."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "When you outside, you turn left an' go long way south-east along path."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "At the end, you gotta turn left for Death Plateau. You got da special boots, so you gonna be okay on da rocks there."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "At the end, you gotta turn left for Death Plateau. But watch out for da tricky rocks - maybe you gonna have trouble climbing dem."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get to Death Plateau if I can't climb the rocks?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Burntmeat heard where da humans going on Death Plateau wear funny boots to help climb rocks. Dey get da boots from little dwarf woman wot lives near da plateau. Turn right to go to her house."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, you've been remarkably helpful, considering that you're a horrible monster who eats innocent people."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Aww! You hurry up an' get My Arm what he wanting."
+    },
+    {
+      "character": "Player",
+      "line": "So far he's had me go to Death Plateau to fetch a weird lump from the cauldron there."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Da cooks on da plateau not as good as Burntmeat."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it. Here, take the thing."
+    },
+    {
+      "character": "My Arm",
+      "line": "Huh. It looking a bit tatty..."
+    },
+    {
+      "character": "Player",
+      "line": "So are you."
+    },
+    {
+      "character": "My Arm",
+      "line": "... but it smelling like goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "You ate it!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Yep, it tasting like goutweed too."
+    },
+    {
+      "character": "Player",
+      "line": "So what are you going to do now?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Well, now My Arm know dese goutweedy lump things exist, you help me grow one, yah?"
+    },
+    {
+      "character": "Player",
+      "line": "Alright. Where do you need me to start?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm done tried farming before. I stick all kindsa things in da ground, but nothing ever grow, not even when I water 'em."
+    },
+    {
+      "character": "Player",
+      "line": "What did you plant?"
+    },
+    {
+      "character": "My Arm",
+      "line": "I bin planting everythin',. Sticks, rocks, dead goats... you name it."
+    },
+    {
+      "character": "Player",
+      "line": "And none of those things grew?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Nope, not even a smidgen. My Arm dug 'em up again to see."
+    },
+    {
+      "character": "Player",
+      "line": "So did you try getting help from someone who knows about farming?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Yah, My Arm found a nice farmer and ate him, but he not help much. He taste kinda boring too."
+    },
+    {
+      "character": "Player",
+      "line": "You're not very clever, are you?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My ol' mum say I clever enough. What you getting at?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, nothing. Maybe I should see where you've been doing all this farming?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Sure t'ing, Player. I show you..."
+    },
+    {
+      "character": "My Arm",
+      "line": "You done good fetching dat goutweedy lump. My Arm very impressed."
+    },
+    {
+      "character": "Player",
+      "line": "So far he's had me fetch some kind of lump from a pot on Death Plateau. I can't imagine what he'll want next."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Huh... Let me know when we got goutweed growing."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, whatever."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dis is my quiet place. No other trolls come up here. It where I bin trying to grow stuff."
+    },
+    {
+      "character": "Player",
+      "line": "It's a bit windy up here."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat is good, cos you smellin' distinctly whiffy. It like you got all dung in your pockets or something. Or maybe you needing a wash."
+    },
+    {
+      "character": "Player",
+      "line": "I wash more than enough!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, maybe My Arm imagining da smell."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, but My Arm not mind. We trolls not get blown around by wind like diddy little humans."
+    },
+    {
+      "character": "Player",
+      "line": "So you think you could grow things here?"
+    },
+    {
+      "character": "My Arm",
+      "line": "I t'ink so, yah. I got book 'bout farming for you to read."
+    },
+    {
+      "character": "Player",
+      "line": "Where in the world did YOU get a book?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat farmer I ate had a book with him. My Arm is hopin' you knows how to read."
+    },
+    {
+      "character": "Player",
+      "line": "Farmer Gricoller's Farming Manual?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not know what in book, so you read it, yuh? Perhaps it tell you how to grow t'ings up on mountain."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll have a look inside."
+    },
+    {
+      "character": "My Arm",
+      "line": "You know how to read book I got off farmer?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course I can read it! Just give me a moment."
+    },
+    {
+      "character": "My Arm",
+      "line": "If you forget how to read, it not a problem. My Arm give you little tap on head and maybe you remember again, no trouble."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, that won't be necessary."
+    },
+    {
+      "character": "Player",
+      "line": "Of course; I've been reading it."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat's good. Is it any use?"
+    },
+    {
+      "character": "Player",
+      "line": "There's a useful section about preparing soil for growing crops. For a mountain area, it says we need to mix three buckets of camel dung and seven buckets of supercompost into the soil."
+    },
+    {
+      "character": "My Arm",
+      "line": "Urgh. Dat's a lotta camel dung."
+    },
+    {
+      "character": "Player",
+      "line": "Fortunately, I've got enough dung with me."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not like to say so earlier, but you bin smellin' like you done a whoopsie."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks a lot!"
+    },
+    {
+      "character": "Player",
+      "line": "Have you any dung in the Stronghold I could use?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Why you think trolls keep dung in Stronghold? Do you keep dung in your house?"
+    },
+    {
+      "character": "Player",
+      "line": "It was worth a try."
+    },
+    {
+      "character": "My Arm",
+      "line": "You could go ask a camel for some dung. I bet dey got plenty."
+    },
+    {
+      "character": "Player",
+      "line": "Ask a camel for dung?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Best way to get somefing: find someone who got plenty of it wot they don't want."
+    },
+    {
+      "character": "Player",
+      "line": "How handy - I've got an amulet that lets me talk to camels."
+    },
+    {
+      "character": "My Arm",
+      "line": "Clever human. Off you go now."
+    },
+    {
+      "character": "Player",
+      "line": "How handy - I'm already carrying my Camulet."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I guess it's time for me to dig that old Camulet out of the bank."
+    },
+    {
+      "character": "My Arm",
+      "line": "That could help. Off you go now."
+    },
+    {
+      "character": "Player",
+      "line": "If only I still had that Camulet I got in that weird temple in the desert..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Wot a shame; off you go now."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, it'd be silly for me to ask a camel. I can't talk to camels. But I do remember getting some camel dung before, in some desert town once..."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm is sure you'll find some way to get dung out of a camel. Now trot along."
+    },
+    {
+      "character": "My Arm",
+      "line": "You put all dat dung and stuff in da soil yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet. I'm working on it."
+    },
+    {
+      "character": "My Arm",
+      "line": "You be getting move on,."
+    },
+    {
+      "character": "Player",
+      "line": "I need a spade to dig the supercompost in properly."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not mixing dung into the soil with my hands! I need a spade to dig it in properly."
+    },
+    {
+      "character": "Player",
+      "line": "Unfortunately the book definitely said SUPERcompost."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think that's going to help just now."
+    },
+    {
+      "character": "Player",
+      "line": "Great, that's enough supercompost."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think it'll need any more supercompost."
+    },
+    {
+      "character": "Player",
+      "line": "Phew - that's enough dung."
+    },
+    {
+      "character": "Player",
+      "line": "I think I've given it enough dung already."
+    },
+    {
+      "character": "Player",
+      "line": "My Arm can tend the patch himself. I'm not growing the goutweed for him."
+    },
+    {
+      "character": "Player",
+      "line": "I've finished treating that soil patch for you."
+    },
+    {
+      "character": "My Arm",
+      "line": "Good, good. Always I bin wanting a farming patch to grow things in. Da soggy bits south of here, they not work at all."
+    },
+    {
+      "character": "Player",
+      "line": "So what do we need to do now?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Now we do like dat man say to Burntmeat. We gotta go to Tai Bwo Wannai Village and see Murcaily 'bout growing goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "We don't need to go there. I've got a gout tuber."
+    },
+    {
+      "character": "My Arm",
+      "line": "I not wanna be gettin' confused with your tuber. Man tell Burntmeat we need to go see Murcaily to grow goutweed, so dat where we going."
+    },
+    {
+      "character": "Player",
+      "line": "You really need to be more flexible."
+    },
+    {
+      "character": "My Arm",
+      "line": "Trolls not flexible creatures. Humans too flexible; dey got little necks wot snap easy as anything."
+    },
+    {
+      "character": "Player",
+      "line": "It's a long way to Tai Bwo Wannai Village. We're going to need a boat..."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "What in the world is that THING?"
+    },
+    {
+      "character": "Player",
+      "line": "That is My Arm. We'd like to go to Karamja."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "This is your what?"
+    },
+    {
+      "character": "Player",
+      "line": "He's a troll. His name is My Arm."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, My Arm."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "Whose arm?"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind that now, we just want to go to Karamja. Can you take us?"
+    },
+    {
+      "character": "My Arm",
+      "line": "It was my dad's arm."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "What about your dad's arm?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm tried to eat it."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "Your arm did what?"
+    },
+    {
+      "character": "Player",
+      "line": "Will you take us to Karamja?"
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "I don't think I want the mad troll."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "Or his arm."
+    },
+    {
+      "character": "Player",
+      "line": "Either you can take us to Karamja, or you can discuss it with My Arm."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "Oh no, not your arm too..."
+    },
+    {
+      "character": "Player",
+      "line": "So you'll take us?"
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "Alright, just get the arm thing onto the ship."
+    },
+    {
+      "character": "My Arm",
+      "line": "Urrrgh!"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not liking dis."
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong with your ar... What's wrong with you?"
+    },
+    {
+      "character": "My Arm",
+      "line": "You ever hear stories of troll sailors or troll pirates?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... can't think of any just now."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat 'cos trolls don't like da sea. We kinda sink."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure I've met some trolls that lived in the sea. There's a Fishing Colony up in the north-west."
+    },
+    {
+      "character": "Player",
+      "line": "Aren't there... river trolls and sea trolls and things? They seem happy enough in the sea."
+    },
+    {
+      "character": "My Arm",
+      "line": "Them not proper trolls. Proper trolls live in mountains."
+    },
+    {
+      "character": "Player",
+      "line": "But they look just like land trolls!"
+    },
+    {
+      "character": "My Arm",
+      "line": "We trolls. Them not trolls. 'Nuff said."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, please yourself!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Are we dere yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No! Look - no land."
+    },
+    {
+      "character": "My Arm",
+      "line": "How 'bout now?"
+    },
+    {
+      "character": "Player",
+      "line": "Still. No. Land."
+    },
+    {
+      "character": "My Arm",
+      "line": "You gettin' angry with My Arm, huh?"
+    },
+    {
+      "character": "Player",
+      "line": "No, no."
+    },
+    {
+      "character": "My Arm",
+      "line": "Is it 'cos I is thick?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not angry with you."
+    },
+    {
+      "character": "My Arm",
+      "line": "Oh, right."
+    },
+    {
+      "character": "My Arm",
+      "line": "Are we dere now?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Urrrgh! My Arm feeling sick..."
+    },
+    {
+      "character": "My Arm",
+      "line": "We will meet at dat village, yah?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, he's gone. I hope he knows the way to Tai Bwo Wannai Village."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll come back another time."
+    },
+    {
+      "character": "Captain Barnaby",
+      "line": "But... that thing?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, he'll be fine just standing here."
+    },
+    {
+      "character": "My Arm",
+      "line": "What we waitin' for here?"
+    },
+    {
+      "character": "Player",
+      "line": "I have to ask Captain Barnaby to let us onto his ship."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, My Arm gonna let you do the talking. He not seem to like me standin' here."
+    },
+    {
+      "character": "My Arm",
+      "line": "So dis is Tai Bwo Wannai Village, huh?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's right. I've been here before when the villagers thought their village was cursed. I had to fetch some special herbs for their shaman."
+    },
+    {
+      "character": "My Arm",
+      "line": "You doin' a lot of favours for people. Is dere anything in it for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I usually get something. Except that time when Burntmeat made me fetch him a 'tasty human' for his stew. All he gave me was some burnt meat."
+    },
+    {
+      "character": "My Arm",
+      "line": "You not like Burntmeat's cooking?"
+    },
+    {
+      "character": "Player",
+      "line": "Believe it or not, I didn't like it at all."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat a pity. He planning to give you more burnt meat when you done helpin' me. Maybe My Arm think of something better for you. But first you go find Murcaily - he gotta help us grow goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "Murcaily, right."
+    },
+    {
+      "character": "My Arm",
+      "line": "You done spoken to Murcaily 'bout goutweed yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll get around to it."
+    },
+    {
+      "character": "My Arm",
+      "line": "You slow. My Arm gettin' bored."
+    },
+    {
+      "character": "Murcaily",
+      "line": "Is there anything I can do for you, Bwana?"
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen My Arm around here?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Umm... Bwana... I can see both of them. They are attached to your shoulders, yes?"
+    },
+    {
+      "character": "Player",
+      "line": "What? Oh, forget I said that! Have you seen a troll around here?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "I do not know what one of those is, Bwana, but I am sure there are none in our village."
+    },
+    {
+      "character": "Player",
+      "line": "Dratted creature - where can he be? He was meant to be coming here."
+    },
+    {
+      "character": "Murcaily",
+      "line": "Well, Bwana, when I am looking for someone, I find it helps to think about where they may be. If your friend was travelling this way, he is surely between here and the place where you last saw him."
+    },
+    {
+      "character": "Player",
+      "line": "Let's see... I saw him in Brimhaven, but he ran off. He was coming this way to your village."
+    },
+    {
+      "character": "Murcaily",
+      "line": "Then perhaps you should look for your friend along the route to Brimhaven."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "A troll called My Arm wants a favour from you. He wants to grow goutweed and he thinks you can help."
+    },
+    {
+      "character": "Murcaily",
+      "line": "What's a troll? And what was that about your arm, Bwana?"
+    },
+    {
+      "character": "Player",
+      "line": "I really don't want to discuss it. Can you help this creature grow goutweed?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Goutweed? People grow it in farming patches all the time. Have you tried planting a gout tuber in your patch?"
+    },
+    {
+      "character": "Player",
+      "line": "No, the silly troll won't listen. He had me bring him all the way down from the mountains to ask you about it."
+    },
+    {
+      "character": "Murcaily",
+      "line": "You want to grow it in the mountains, Bwana? That might be more difficult. Gout tubers only grow well in warm places with plenty of sun."
+    },
+    {
+      "character": "Player",
+      "line": "You mean we aren't going to be able to grow it in the mountains?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "No, not with a normal gout tuber. Those just won't survive the conditions. You'll need a special hardy gout tuber."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, wonderful. Can you give me some of those, please?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Oh no, Bwana. Those are far too valuable to give away."
+    },
+    {
+      "character": "Player",
+      "line": "You owe me a bit of favour for the work I've been doing around the village. Are you sure you can't let me have some hardy gout tubers for the troll?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Oh, I suppose I could let you have one. But only because you've got over sixty percent favour. If we didn't owe you so much for your help, I'd not be giving out hardy gout tubers."
+    },
+    {
+      "character": "Player",
+      "line": "So this hardy tuber will grow like any other herb seed?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "It grows much faster than any other I have seen, Bwana. But remember, although it is hardy enough to grow in the cold mountain lands, it may still become diseased."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on. I can't hold any more stuff just now. I'll get back to you in a minute."
+    },
+    {
+      "character": "Murcaily",
+      "line": "You are wise, Bwana. I have seen many an adventurer accidentally drop valuable items on the floor through trying to hold too many things."
+    },
+    {
+      "character": "Player",
+      "line": "What the heck was all THAT about?"
+    },
+    {
+      "character": "My Arm",
+      "line": "You take far too long chattin' with Murcaily. My Arm come in to hurry things up."
+    },
+    {
+      "character": "Player",
+      "line": "You could have really damaged their village!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Silly humans got such flimsy homes. One good thump an' der walls come down."
+    },
+    {
+      "character": "Player",
+      "line": "If you ever come to, I'm not letting you into my house."
+    },
+    {
+      "character": "My Arm",
+      "line": "Anyway, you got da goutweedy stuff, right?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've got plenty of hardy gout tubers."
+    },
+    {
+      "character": "My Arm",
+      "line": "Right. Let's get back to da ship an' go back to Ardougne. My Arm fink you need to go to da bank."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think I need from the bank?"
+    },
+    {
+      "character": "My Arm",
+      "line": "See, My Arm done tried planting stuff before, an' da birds around Trollheim Mountain, dey got... interested."
+    },
+    {
+      "character": "Player",
+      "line": "The birds got interested in watching your farm?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Yuh, an' dere was a great BIG one wot started trying to eat whatever I planted."
+    },
+    {
+      "character": "Player",
+      "line": "Exactly how BIG was this bird?"
+    },
+    {
+      "character": "My Arm",
+      "line": "It pretty BIG. You might wanna get some food an' stuff."
+    },
+    {
+      "character": "Player",
+      "line": "Are we talking bigger than... a pigeon?"
+    },
+    {
+      "character": "My Arm",
+      "line": "How 'bout we just go back to Ardougne so you can get your fightin' stuff..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat captain didn't look very happy to see us again."
+    },
+    {
+      "character": "Player",
+      "line": "No, he wasn't."
+    },
+    {
+      "character": "My Arm",
+      "line": "What was dat you said to him?"
+    },
+    {
+      "character": "Player",
+      "line": "I told him he'd better take us back, or else..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Or else what?"
+    },
+    {
+      "character": "Player",
+      "line": "Or else I'd let my arm loose on him."
+    },
+    {
+      "character": "My Arm",
+      "line": "So... are we dere yet?"
+    },
+    {
+      "character": "My Arm",
+      "line": "You probably wanna go to bank now to fetch yer fightin' stuff. When you finished, go back to da Troll Stronghold. My Arm gonna be waitin' by our farming patch on da roof."
+    },
+    {
+      "character": "Player",
+      "line": "How are you going to get back to the Troll Stronghold?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat not your problem."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll see you there."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I seem to have thrown it away."
+    },
+    {
+      "character": "My Arm",
+      "line": "You is dumber than a spotted kebbit! Go back an' ask Murcaily for some more!"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Oh, I hadn't thought of that..."
+    },
+    {
+      "character": "Murcaily",
+      "line": "No, Bwana, I'm very sorry, but you'll need to do a bit more work for us before we'll be able to spare you any hardy gout tubers."
+    },
+    {
+      "character": "Player",
+      "line": "Roughly how much more favour do I need?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Let me see... I think if you get it up to 60 percent, I'd be able to let you have a hardy gout tuber for your friend."
+    },
+    {
+      "character": "Player",
+      "line": "I don't suppose you'd accept trading sticks instead?"
+    },
+    {
+      "character": "Murcaily",
+      "line": "Sorry, Bwana, but I don't need those. I get plenty of trading sticks from all the people wanting to use my hardwood grove. Hardy gout tubers are too precious to be bought like that."
+    },
+    {
+      "character": "Player",
+      "line": "I was asking you about hardy goutweed..."
+    },
+    {
+      "character": "Murcaily",
+      "line": "Yes, Bwana, I remember. You wanted a hardy gout tuber so your friend could grow goutweed on his mountain. But you only have percent favour in our village. Come back to me with at least 60 percent favour and I will let you have what you need."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Murcaily",
+      "line": "Yes, Bwana, I remember. We owe you big-time for the work you done in Tai Bwo Wannai Village, so I can let you have a hardy gout tuber for your friend to grow on his mountain."
+    },
+    {
+      "character": "My Arm",
+      "line": "Ah, dulce domum."
+    },
+    {
+      "character": "Player",
+      "line": "What did you say?"
+    },
+    {
+      "character": "My Arm",
+      "line": "It mean somefing like 'Home sweet home' in some old language. My Arm is well ed-oo-cated troll, not some no-brain rockhead."
+    },
+    {
+      "character": "Player",
+      "line": "Riiight. Shall we get on with growing the goutweed now?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, dat sound good. You show me how to do dat."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll hand you what you need, and you can use it on the patch."
+    },
+    {
+      "character": "My Arm",
+      "line": "How's my farming coming along?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, you've got a nice crop of weeds."
+    },
+    {
+      "character": "My Arm",
+      "line": "I not go to all dis trouble to grow weedies! You supposed to help me grow goutweed!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, yeah, we'll get to that in a bit."
+    },
+    {
+      "character": "My Arm",
+      "line": "You give me what stuff I need to use on da patch and I use it. And hurry up, My Arm gettin' bored."
+    },
+    {
+      "character": "Player",
+      "line": "We should start by raking it."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, you gimme a rake an' My Arm do it."
+    },
+    {
+      "character": "My Arm",
+      "line": "I can't get da goutweed thing in da ground with all these weeds here."
+    },
+    {
+      "character": "My Arm",
+      "line": "Da weedies look healthy enough, t'anks."
+    },
+    {
+      "character": "My Arm",
+      "line": "Da spade not working on dese weedies."
+    },
+    {
+      "character": "My Arm",
+      "line": "I not sure what you want me to do with dat."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, forget it."
+    },
+    {
+      "character": "My Arm",
+      "line": "I not want your bitty bit of paper."
+    },
+    {
+      "character": "My Arm",
+      "line": "I t'ink we already treated da soil."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat lookin' a bit short!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh... there should be more of it than that. Sorry."
+    },
+    {
+      "character": "My Arm",
+      "line": "What you t'ink I want with a stick, huh?"
+    },
+    {
+      "character": "Player",
+      "line": "The patch is free from weeds, so we could plant a hardy tuber in it."
+    },
+    {
+      "character": "My Arm",
+      "line": "Already?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I suppose we could treat the soil with compost first."
+    },
+    {
+      "character": "My Arm",
+      "line": "After dat you probably wanna give me da hardy gout tuber thingies, an' maybe somefing to poke 'em into da soil."
+    },
+    {
+      "character": "My Arm",
+      "line": "Also, I got plenty of da hardy gout tuber thingies, but I gonna need somefing to poke 'em into da soil."
+    },
+    {
+      "character": "My Arm",
+      "line": "Nuffing' interesting happened."
+    },
+    {
+      "character": "My Arm",
+      "line": "Don't I need somefing to plant?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, you'll need the gout tubers."
+    },
+    {
+      "character": "My Arm",
+      "line": "T'anks,."
+    },
+    {
+      "character": "Player",
+      "line": "Aww, poor dwarfie. But he's sure to turn up again one of these days - drunken dwarves always keep coming back..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Uh-oh - I fink da birds noticed us farming..."
+    },
+    {
+      "character": "Player",
+      "line": "You're worried about that?"
+    },
+    {
+      "character": "My Arm",
+      "line": "It gonna eat da goutweed - kill it, quick!"
+    },
+    {
+      "character": "My Arm",
+      "line": "T'anks for saving da goutweed,. But I fink dis other birdie not happy with you..."
+    },
+    {
+      "character": "Player",
+      "line": "What other birdie?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat birdie behind you."
+    },
+    {
+      "character": "My Arm",
+      "line": "Ah, lovely goutweed all grown up."
+    },
+    {
+      "character": "Player",
+      "line": "Yep, you can harvest it now."
+    },
+    {
+      "character": "My Arm",
+      "line": "I gonna need a spade."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I think I can arrange a spade for you."
+    },
+    {
+      "character": "My Arm",
+      "line": "T'ank you very much for da kind offer, but My Arm not really needin' one of those just now."
+    },
+    {
+      "character": "Player",
+      "line": "I think My Arm should do the honours."
+    },
+    {
+      "character": "My Arm",
+      "line": "T'ank you so much for all da help! Burntmeat gonna be very pleased."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just glad the goutweed grew up okay."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm just check dis da right stuff..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, dis is goutweed. It lovverley."
+    },
+    {
+      "character": "Player",
+      "line": "Don't eat it all!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Aww, too late."
+    },
+    {
+      "character": "My Arm",
+      "line": "You gotta go back to kitchen an' tell Burntmeat da good news. Maybe he give you nice reward for all da hard work you bin doin' for us. But if he not give you anyfing good, you come back an' see My Arm."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'll remember that."
+    },
+    {
+      "character": "My Arm",
+      "line": "Did Burntmeat give you nice reward?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't asked him yet."
+    },
+    {
+      "character": "My Arm",
+      "line": "He downstairs in da kitchen. An' if he give you somefing rubbish, come tell My Arm. Maybe I can reward you better."
+    },
+    {
+      "character": "Player",
+      "line": "We've done it! My Arm's managed to grow some goutweed on the roof of the Stronghold!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "So now we can grow goutweed whenever we want it?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, he's got plenty of hardy gout tubers to grow in his little farming patch."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "T'ank you so much! I dunno what we'd have done if you not come through here to help us."
+    },
+    {
+      "character": "Player",
+      "line": "So... you mentioned a reward?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Oh yup, Burntmeat cooked you SPECIAL reward."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "LOTS of burnt meat!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "See, Burntmeat promised you a reward! Anyway, it been nice to see you again, Player. Enjoy your meal."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Burntmeat hope you like your reward. It very special recipe Burntmeat learned when much younger troll."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it was very... kind of you."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Ah, you polite human. Off you go now and see what My Arm want."
+    },
+    {
+      "character": "Player",
+      "line": "That was the worst quest reward EVER! I get better things from killing goblins! I get better things from killing SPIDERS! Why in the world did I ever do a quest for a troll? I could have been training my skills"
+    },
+    {
+      "character": "Player",
+      "line": "instead!"
+    },
+    {
+      "character": "Player",
+      "line": "I could have trained a cat and got a load of death runes!"
+    },
+    {
+      "character": "Player",
+      "line": "I could have gone back to Pest Control and helped save the universe from hideous monsters!"
+    },
+    {
+      "character": "Player",
+      "line": "But no, I did a quest for a troll, and what did I get?"
+    },
+    {
+      "character": "Player",
+      "line": "BURNT MEAT! What am I meant to do with burnt meat? I don't WANT burnt meat!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Human so funny, pretending don't like lovely burnt meat! Off you go now and see what My Arm wants."
+    },
+    {
+      "character": "Player",
+      "line": "No, he jolly well didn't. He gave me burnt meat. Again!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Aww, dat a shame. See, Burntmeat like burnt meat. It his favourite thing to cook, an' he do it better than any other troll."
+    },
+    {
+      "character": "Player",
+      "line": "You said you might be able to give me something better?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, an' I will. My Arm gonna tell you big hushy-hushy secret about herbs..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Now you know more 'bout herbs. Also, I made a new farming patch like you showed me. Whatever you plant in it, I make sure it don't get disease."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Adventurer",
+      "description": "Adult male, British accent, panicked and desperate tone, an unfortunate human captured by trolls who tries to bargain for his life."
+    },
+    {
+      "name": "Burntmeat",
+      "description": "Adult male troll, deep dim-witted voice, cheerfully oblivious tone, a cook who believes himself a master chef despite only being able to produce burnt food."
+    },
+    {
+      "name": "Captain Barnaby",
+      "description": "Elderly male, British seafarer accent, gruff and practical tone, an old sailor who prioritizes safety and family over risky voyages."
+    },
+    {
+      "name": "Murcaily",
+      "description": "Adult male, Karamjan accent, calm and measured tone, a native villager who guards the Hardwood Grove and knows about exotic plants."
+    },
+    {
+      "name": "My Arm",
+      "description": "Adult male troll, deep voice with childlike enthusiasm, eager and curious tone, a troll fascinated by farming who is surprisingly gentle for his kind."
+    }
+  ]
+}

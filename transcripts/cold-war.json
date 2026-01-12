@@ -1,0 +1,1772 @@
+{
+  "branch": "quest/cold-war",
+  "quest_name": "Cold War",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello. Do you need any help? I'm looking for a quest."
+    },
+    {
+      "character": "Larry",
+      "line": "Are you working for them?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, I'm not sure. Who are they?"
+    },
+    {
+      "character": "Larry",
+      "line": "EXACTLY!"
+    },
+    {
+      "character": "Player",
+      "line": "Seriously, what are you talking about?"
+    },
+    {
+      "character": "Larry",
+      "line": "I think you can be trusted. What do you know about..."
+    },
+    {
+      "character": "Larry",
+      "line": "penguins?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...they live in the cold? That's about all."
+    },
+    {
+      "character": "Larry",
+      "line": "Would you like to learn more about them? I'm conducting a, uh, research project, to, uh, learn about their social habits in their natural environment."
+    },
+    {
+      "character": "Player",
+      "line": "What do you need my help for?"
+    },
+    {
+      "character": "Larry",
+      "line": "Well, I need to build a shelter to hide from view, and it's always useful to have an extra pair of eyes, you know, for, uh, observing...Penguins."
+    },
+    {
+      "character": "Larry",
+      "line": "So, are you up for it?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, why not! But first, who are you and why are you researching penguins?"
+    },
+    {
+      "character": "Larry",
+      "line": "I, uh, was a zoo keeper here. But, I, uh, am on leave to go research penguins in their native habitat."
+    },
+    {
+      "character": "Player",
+      "line": "Ok! Okay then. So, what did you need me to do?"
+    },
+    {
+      "character": "Larry",
+      "line": "Right. I need you to gather materials for the bird hide, while I arrange for our transport."
+    },
+    {
+      "character": "Larry",
+      "line": "You need to get 10 oak planks, 10 steel nails, a hammer, and a spade so that we can build a bird hide."
+    },
+    {
+      "character": "Larry",
+      "line": "Once you have those, meet me up by the entrance to Keldagrim, east of Rellekka. I'll be there with a boat to take us to our destination."
+    },
+    {
+      "character": "Player",
+      "line": "Right, oak planks, steel nails, hammer, spade, east of Rellekka. Got it."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think so."
+    },
+    {
+      "character": "Larry",
+      "line": "Have you got the equipment?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have them with me."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to get?"
+    },
+    {
+      "character": "Larry",
+      "line": "You have all the materials. Off to the iceberg!"
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Larry",
+      "line": "Once you have the items, meet me up by the entrance to Keldagrim, east of Rellekka. I'll be there with a boat to take us to our destination."
+    },
+    {
+      "character": "Player",
+      "line": "I have no idea where that is."
+    },
+    {
+      "character": "Larry",
+      "line": "And you call yourself an adventurer! There is a road from Catherby going north. Take it until you reach the Sinclair Mansion."
+    },
+    {
+      "character": "Larry",
+      "line": "Take a left at the Mansion, cross two bridges and follow the road until you reach Rellekka. Head east, around Rellekka to the coast near the entrance of Keldagrim."
+    },
+    {
+      "character": "Larry",
+      "line": "Did I spell that out enough for you?"
+    },
+    {
+      "character": "Player",
+      "line": "No need to be snippy."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I know where to go."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "So, how do I make a bird hide?"
+    },
+    {
+      "character": "Larry",
+      "line": "Use the planks on the patch of snow on that ridge. Once you have that constructed, use the spade on the snow to cover the hide."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I've made the structure. Now what?"
+    },
+    {
+      "character": "Larry",
+      "line": "Not bad... Now you need to cover the bird hide in snow with a spade."
+    },
+    {
+      "character": "Player",
+      "line": "Can we start observing the penguins?"
+    },
+    {
+      "character": "Larry",
+      "line": "Yes. Let's get in and start observing. You should note down anything interesting the penguins do. I'll include it in my, uh, research."
+    },
+    {
+      "character": "Larry",
+      "line": "Look, here come two penguins now."
+    },
+    {
+      "character": "Player",
+      "line": "Aww, they're cute."
+    },
+    {
+      "character": "Larry",
+      "line": "EVIL. I mean, how fascinating."
+    },
+    {
+      "character": "Larry",
+      "line": "Looks like the penguins are on patrol again."
+    },
+    {
+      "character": "Player",
+      "line": "They're just walking around, Larry."
+    },
+    {
+      "character": "Larry",
+      "line": "They are organised! ORGANISED I tell you!"
+    },
+    {
+      "character": "Larry",
+      "line": "I knew it. I knew they were up to something! Did you see that? They were patrolling!"
+    },
+    {
+      "character": "Larry",
+      "line": "It isn't! They saluted and recognised each other. They're organised!"
+    },
+    {
+      "character": "Player",
+      "line": "It looked like one of them shivered and the other one just walked past. Nothing suspicious there, it is really cold here!"
+    },
+    {
+      "character": "Larry",
+      "line": "I don't care what you think. I know they are doing something. No one ever believes me. But I'll prove them wrong. ALL OF THEM."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, calm down. What do you think we should do now?"
+    },
+    {
+      "character": "Player",
+      "line": "It did seem rather suspicious."
+    },
+    {
+      "character": "Larry",
+      "line": "You believe me?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course! I mean, those penguins were acting quite strangely."
+    },
+    {
+      "character": "Larry",
+      "line": "No one ever believes me. Can I...hug you?"
+    },
+    {
+      "character": "Player",
+      "line": "Whoa there, I don't think this calls for hugging. What do we do next about the penguins?"
+    },
+    {
+      "character": "Larry",
+      "line": "We need to get closer to the penguins. Infiltrate them. Learn what they are doing."
+    },
+    {
+      "character": "Player",
+      "line": "How do you plan to do that?"
+    },
+    {
+      "character": "Larry",
+      "line": "We can't discuss it here; there are too many spies. Let's leave the iceberg and then I'll tell you my plans."
+    },
+    {
+      "character": "Larry",
+      "line": "We must get away from here before we discuss our plans. We don't want to be overheard."
+    },
+    {
+      "character": "Player",
+      "line": "How do you plan to infiltrate the penguins?"
+    },
+    {
+      "character": "Larry",
+      "line": "I have altered some designs of clockwork toys to make a clockwork penguin suit. We will use this to infiltrate their ranks."
+    },
+    {
+      "character": "Player",
+      "line": "What? We'll just set it off walking? What good will that do?"
+    },
+    {
+      "character": "Larry",
+      "line": "No! I'm going to use a spell to shrink you down so you can control it from the inside."
+    },
+    {
+      "character": "Player",
+      "line": "Wait a minute, why am I being shrunk? Why can't you get in the suit and annoy the penguins?"
+    },
+    {
+      "character": "Larry",
+      "line": "The penguins know my scent. They'd find me out and capture me and...torture me. No, it has to be you."
+    },
+    {
+      "character": "Larry",
+      "line": "Don't worry. The spell only works if I'm nearby since I have to be constantly casting it. If trouble starts I'll be close by to help."
+    },
+    {
+      "character": "Player",
+      "line": "Gee, that's comforting."
+    },
+    {
+      "character": "Larry",
+      "line": "Here's the book. It has my designs and a list of things you need to get. Use your Crafting table at your house to build it, just like regular clockwork toys."
+    },
+    {
+      "character": "Player",
+      "line": "Why do I have to make the suit? I'm tired of doing all the legwork."
+    },
+    {
+      "character": "Larry",
+      "line": "You have to make it, because since I got fired from the Zoo I've been homeless. Thanks for caring."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry... Hey, you told me you were on leave to do research!"
+    },
+    {
+      "character": "Larry",
+      "line": "Well...it's permanent leave, and I am doing research! When I used to work at the Zoo, I noticed the penguins doing odd things, like taking notes or timing things. I asked to have my work detail transferred to their cage and I was fired!"
+    },
+    {
+      "character": "Larry",
+      "line": "I'm sure the penguins are behind it. So I kept spying on them and I'll prove everyone wrong!"
+    },
+    {
+      "character": "Player",
+      "line": "So that's why you can't wear the suit? Because you used to work near them?"
+    },
+    {
+      "character": "Larry",
+      "line": "Err, no. I've had a few run-ins since then. But I don't have time for war stories, we need to concentrate on our mission!"
+    },
+    {
+      "character": "Larry",
+      "line": "When you're done making the suit, we'll head back to the iceberg and try it out."
+    },
+    {
+      "character": "Larry",
+      "line": "Do you have the suit?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it."
+    },
+    {
+      "character": "Larry",
+      "line": "You don't seem to have the suit with you."
+    },
+    {
+      "character": "Larry",
+      "line": "That's perfect. You are a very skilled crafter. Now we must return to the iceberg and test it."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the clockwork book, could I have another?"
+    },
+    {
+      "character": "Larry",
+      "line": "You haven't lost it, you just need to look for it more closely."
+    },
+    {
+      "character": "Larry",
+      "line": "Well, lucky for you I did make another copy. But be more careful!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm a bit confused. Can you explain how to make the suit?"
+    },
+    {
+      "character": "Larry",
+      "line": "You need 1 piece of silk, 1 clockwork mechanism, and 1 wood plank."
+    },
+    {
+      "character": "Larry",
+      "line": "The book will explain how to make the suit. But, since you seem to lazy to read it, I'll summarise."
+    },
+    {
+      "character": "Larry",
+      "line": "Take the materials to your house and use the Crafting table to make clockwork toys. From there you can make the suit."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm not done yet."
+    },
+    {
+      "character": "Larry",
+      "line": "Look what they did to the bird hide! It's completely destroyed! The savages. The penguins are on to us."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think it was the penguins. You can't even make out the prints clearly, it could have been anything."
+    },
+    {
+      "character": "Larry",
+      "line": "Well of course you can't make out tracks. Penguins walk single file to hide their numbers! They're clever...so very clever."
+    },
+    {
+      "character": "Player",
+      "line": "It looks like a warning message to keep us away. I didn't think penguins were violent by nature."
+    },
+    {
+      "character": "Larry",
+      "line": "Oh, they act like they aren't, but it's all a guise. They wanted to scare us off. We must be on to something."
+    },
+    {
+      "character": "Player",
+      "line": "Well, there aren't any penguins around now, so we can't try out the suit."
+    },
+    {
+      "character": "Larry",
+      "line": "But, we were so close to finding out what exactly is going on. It's all ruined now. How will we ever infiltrate them if there are none around to infiltrate?"
+    },
+    {
+      "character": "Player",
+      "line": "There are other penguins. What about the ones at the Zoo? At least we can test the suit on them."
+    },
+    {
+      "character": "Larry",
+      "line": "OF COURSE! You are brilliant. I should have thought of that. It's where all of this started. Let's return to the Zoo."
+    },
+    {
+      "character": "Larry",
+      "line": "I can teleport us back to the Zoo. It'll be faster."
+    },
+    {
+      "character": "Player",
+      "line": "Then why the whole malarkey with the boat?"
+    },
+    {
+      "character": "Larry",
+      "line": "Boat rides lower my stress level."
+    },
+    {
+      "character": "Larry",
+      "line": "I'm too tired to teleport again. You'll have to get back to the Zoo on your own."
+    },
+    {
+      "character": "Larry",
+      "line": "I can teleport us back to the Zoo, but you'll have to make your own way back, teleports tire me out."
+    },
+    {
+      "character": "Larry",
+      "line": "After I put you in the suit, use the little gate in the enclosure to get inside. The zoo keepers won't notice."
+    },
+    {
+      "character": "Player",
+      "line": "Guess we should try this out. How do you know a shrinking spell, anyway?"
+    },
+    {
+      "character": "Larry",
+      "line": "Well, a while back I was out in the field observing penguins. I worked for the Ardougne Zoo then. I was just quietly observing them when suddenly there was an avalanche."
+    },
+    {
+      "character": "Player",
+      "line": "Larry, you are one unlucky dude."
+    },
+    {
+      "character": "Larry",
+      "line": "I'm not done! I was trapped, but a passing old man stopped to help. He said he would shrink me so I could crawl out from under the weight of the snow."
+    },
+    {
+      "character": "Larry",
+      "line": "Then he taught me the spell in case I would have need of it again."
+    },
+    {
+      "character": "Player",
+      "line": "Seems like a pretty wise old man."
+    },
+    {
+      "character": "Larry",
+      "line": "You see, that incident made me start suspecting the penguins, and my further work with them at the Zoo just confirmed it. I'm sure they got me fired. I know too much."
+    },
+    {
+      "character": "Player",
+      "line": "Right, well we don't have all day. Time to be a penguin!"
+    },
+    {
+      "character": "Larry",
+      "line": "Okay, but remember, if you move too far away from me the spell will break and you'll be normal sized again. Also, if you need to switch back, just ask me and I'll unshrink you."
+    },
+    {
+      "character": "Player",
+      "line": "Right, right. Let's just get this over with."
+    },
+    {
+      "character": "Player",
+      "line": "Penguin time!"
+    },
+    {
+      "character": "Larry",
+      "line": "You will need your hands free to operate the suit."
+    },
+    {
+      "character": "Larry",
+      "line": "You can't wear a cape inside the suit, it might get caught."
+    },
+    {
+      "character": "Larry",
+      "line": "Don't talk to me while you're in the suit! It'll give away your cover. Here, I'll get you out of it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'm ready to be big again! Please get me out of this."
+    },
+    {
+      "character": "Larry",
+      "line": "All right, keep calm. One growth spurt coming up."
+    },
+    {
+      "character": "Player",
+      "line": "Squack! Quack, quackity squack, squee."
+    },
+    {
+      "character": "Penguin",
+      "line": "..."
+    },
+    {
+      "character": "Penguin",
+      "line": "What do you think you are doing?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm, uh, speaking penguin, I think."
+    },
+    {
+      "character": "Player",
+      "line": "WAIT. How come you can speak in the common tongue? You're a penguin!"
+    },
+    {
+      "character": "Penguin",
+      "line": "...So are you."
+    },
+    {
+      "character": "Penguin",
+      "line": "And you are speaking in the common tongue. So, what is your point?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, right. Yes, of course! Uh, I was just, uh, testing you. Making sure you're on your toes, claws, whatever."
+    },
+    {
+      "character": "Penguin",
+      "line": "Operatives must not speak without giving the proper greeting. You have not given the proper greeting and until you do I have nothing more to say."
+    },
+    {
+      "character": "Player",
+      "line": "I better try and get this greeting right."
+    },
+    {
+      "character": "Penguin",
+      "line": "I am sorry comrade, but you still have not shown me the proper greeting."
+    },
+    {
+      "character": "Player",
+      "line": "*Whew, that was right. Two more moves to do. If I get those right, he should speak to me.*"
+    },
+    {
+      "character": "Player",
+      "line": "*I just need to do one more move and I'll have gotten the greeting right.*"
+    },
+    {
+      "character": "Penguin",
+      "line": "Welcome comrade. Now we may speak properly."
+    },
+    {
+      "character": "Penguin",
+      "line": "What news do you bring? Have you made progress with the main directive?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, the main directive? Yeah...sure, I made progress with it. It was...easy?"
+    },
+    {
+      "character": "Penguin",
+      "line": "It was easy!? It was easy to learn how to FLY?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, yeah. I just kind of jumped off a hill and flapped a lot."
+    },
+    {
+      "character": "Penguin",
+      "line": "You flapped a lot? I didn't think we could fly like other birds."
+    },
+    {
+      "character": "Player",
+      "line": "I also launched myself out of a cannon!"
+    },
+    {
+      "character": "Penguin",
+      "line": "This caused you to fly... ingenious."
+    },
+    {
+      "character": "Player",
+      "line": "Then I flew in a hot air balloon."
+    },
+    {
+      "character": "Penguin",
+      "line": "A hot air balloon? This contraption made you fly?"
+    },
+    {
+      "character": "Penguin",
+      "line": "This is very amazing. I will make note of it in my mission report."
+    },
+    {
+      "character": "Player",
+      "line": "Why is this so important? I mean, we're good swimmers, who cares if we can't fly?"
+    },
+    {
+      "character": "Penguin",
+      "line": "Who cares? It's the entire reason we are in this wretched cage! We need to learn the secrets of flight, and the best way is to get these gullible humans to reveal it to us unwittingly. Blast them and their thumbs."
+    },
+    {
+      "character": "Player",
+      "line": "You sound kind of bitter."
+    },
+    {
+      "character": "Penguin",
+      "line": "Yes, I am. I'm tired of observing these humans and being gawked at by nasty little children. I miss the fresh codfish of our motherland."
+    },
+    {
+      "character": "Player",
+      "line": "Anything I can do?"
+    },
+    {
+      "character": "Penguin",
+      "line": "You could take my mission report back to the outpost for me. I don't want to risk breaking out and blowing our cover."
+    },
+    {
+      "character": "Penguin",
+      "line": "You should check in with the operatives in Lumbridge before you head to the outpost. They might have some news for you to take as well."
+    },
+    {
+      "character": "Player",
+      "line": "The penguin gave me his mission report and told me to go to Lumbridge to speak to the penguins there and then go to 'the outpost'."
+    },
+    {
+      "character": "Larry",
+      "line": "Lumbridge? There aren't any penguins in Lumbridge. Not that I've seen. Where is this 'outpost'?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe the penguins in Lumbridge are undercover?"
+    },
+    {
+      "character": "Player",
+      "line": "I didn't find out where their outpost is. I'm hoping the ones in Lumbridge will tell me."
+    },
+    {
+      "character": "Player",
+      "line": "Seems kind of crazy that these penguins have mission reports and operatives."
+    },
+    {
+      "character": "Larry",
+      "line": "They're organised little devils. Don't underestimate them."
+    },
+    {
+      "character": "Larry",
+      "line": "You go on ahead to Lumbridge. I'll meet you there and put you in the suit."
+    },
+    {
+      "character": "Player",
+      "line": "They don't even have thumbs. How organised can they be?"
+    },
+    {
+      "character": "Player",
+      "line": "So, we're in Lumbridge. Where are these penguins?"
+    },
+    {
+      "character": "Larry",
+      "line": "I was chatting with a local farmer, and there is a rumour about a 'thing' that lives around here. Maybe it's the penguin and these simple people don't recognise them."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "I should probably do the secret handshake before I try talking to these penguins."
+    },
+    {
+      "character": "Sheep",
+      "line": "What do you think you are doing? You can't even get the greeting right."
+    },
+    {
+      "character": "Sheep",
+      "line": "What do you think you are doing? You're going to blow our cover. Get away."
+    },
+    {
+      "character": "Player",
+      "line": "But I gave the correct greeting. You have to talk to me."
+    },
+    {
+      "character": "Sheep",
+      "line": "Every two-bit soldier knows that salute. We won't give you the time of the day without the secret phrase. Now GO AWAY."
+    },
+    {
+      "character": "Player",
+      "line": "But the penguins at the Zoo sent me. They spoke to me without some phrase."
+    },
+    {
+      "character": "Sheep",
+      "line": "They are lazy, good for nothing codfish addicts. GO AWAY."
+    },
+    {
+      "character": "Player",
+      "line": "The penguins won't talk to me without some stupid secret phrase. These penguins are crazy!"
+    },
+    {
+      "character": "Larry",
+      "line": "No, I keep trying to tell you, they aren't crazy, they are dangerous and organised."
+    },
+    {
+      "character": "Larry",
+      "line": "Well, since the penguin at the Zoo is the only one talking to you, maybe you should ask him."
+    },
+    {
+      "character": "Larry",
+      "line": "I can teleport us back to the Zoo, but you'll have to make your own way back. Teleports tire me out."
+    },
+    {
+      "character": "Player",
+      "line": "The penguins in Lumbridge refuse to talk to me. They keep demanding a secret phrase."
+    },
+    {
+      "character": "Penguin",
+      "line": "So, tell them the phrase. It's not exactly hard to remember. Pescaling Pax has a strange sense of humour."
+    },
+    {
+      "character": "Player",
+      "line": "Pesca-what?"
+    },
+    {
+      "character": "Penguin",
+      "line": "Pescaling Pax. The Pescallion's son. Well, one of them. He's in charge of research and development at our headquarters."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, where all of the penguins...I mean us...live?"
+    },
+    {
+      "character": "Penguin",
+      "line": "Comrade! You really do have a funny sense of humour. No, our people live in the great city of Palingrad, of course. Ah, home, I miss it."
+    },
+    {
+      "character": "Player",
+      "line": "You sound pretty homesick. Can't you go and visit Palingrad?"
+    },
+    {
+      "character": "Penguin",
+      "line": "If only. The Pescallion has declared that until we have finished our research of the southern species and have developed our great plan, we may not return. So I am stuck here observing humans."
+    },
+    {
+      "character": "Player",
+      "line": "Gee, I sure would like to get back, too. If only you'd tell me the phrase, so I could get the other mission report and move on."
+    },
+    {
+      "character": "Penguin",
+      "line": "How do you not know the phrase, comrade?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, I forgot what the phrase was."
+    },
+    {
+      "character": "Player",
+      "line": "That was very careless of you, comrade. But it is your problem, not mine."
+    },
+    {
+      "character": "Player",
+      "line": "I must have left the outpost before they gave out the phrase."
+    },
+    {
+      "character": "Penguin",
+      "line": "No one left before it was given out. I was one of the first operatives to leave, and I know it."
+    },
+    {
+      "character": "Penguin",
+      "line": "What? Comrade, I think you need your head examined when you get back."
+    },
+    {
+      "character": "Player",
+      "line": "I need that phrase! Isn't there anything you can do?"
+    },
+    {
+      "character": "Penguin",
+      "line": "As you are a comrade, I suppose it is my duty to help you."
+    },
+    {
+      "character": "Penguin",
+      "line": "The phrase is 'Do not trust the walrus'."
+    },
+    {
+      "character": "Penguin",
+      "line": "I see you have some raw cod with you comrade. I might be willing to exchange information for it, if you are willing."
+    },
+    {
+      "character": "Player",
+      "line": "Sure!"
+    },
+    {
+      "character": "Penguin",
+      "line": "Thank you comrade. This is like a taste of the motherland. The phrase is 'Do not trust the walrus.'"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, no I'll hang on to it."
+    },
+    {
+      "character": "Penguin",
+      "line": "I am sorry comrade, but I cannot break protocol without good reason."
+    },
+    {
+      "character": "Penguin",
+      "line": "Haa haa haa, that is a funny joke. I like your sense of humour comrade. It would be like asking 'Where is the motherland'."
+    },
+    {
+      "character": "Player",
+      "line": "You mean they aren't the same?"
+    },
+    {
+      "character": "Penguin",
+      "line": "Haa haa haa... oh you have me in stitches."
+    },
+    {
+      "character": "Player",
+      "line": "The Zoo penguin won't tell me the phrase."
+    },
+    {
+      "character": "Larry",
+      "line": "Maybe there's something he wants, something you can trade for the phrase? Or maybe there's some kind of magic that would persuade him?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, what do penguins like?"
+    },
+    {
+      "character": "Larry",
+      "line": "I once had to clean all the penguins feet, back when I had a job."
+    },
+    {
+      "character": "Larry",
+      "line": "I distracted them by giving them cod fish and then did the job. It was gross."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I ever want to be a Zoo keeper."
+    },
+    {
+      "character": "Larry",
+      "line": "Or perhaps there's some sort of magic that could persuade the penguin? An object of power or the like?"
+    },
+    {
+      "character": "Penguin",
+      "line": "Yes, comrade?"
+    },
+    {
+      "character": "Player",
+      "line": "I got the phrase! These penguins are so weird. It's something about a walrus."
+    },
+    {
+      "character": "Larry",
+      "line": "You aren't taking this seriously! They are dangerous!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, and organised. I know."
+    },
+    {
+      "character": "Larry",
+      "line": "Oh, just go talk to the sheep."
+    },
+    {
+      "character": "Player",
+      "line": "Do not trust the walrus."
+    },
+    {
+      "character": "Sheep",
+      "line": "Fine. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "The penguin at the Zoo told me to see if you had any news."
+    },
+    {
+      "character": "Sheep",
+      "line": "We can't get any news in this field! All these humans keep trying to shear us!"
+    },
+    {
+      "character": "Sheep",
+      "line": "We think the Farmer may be an agent for the other side, trying to have us assassinated by all these foolish humans. If you investigate him for us, we can finish our mission report and you can go on your way."
+    },
+    {
+      "character": "Player",
+      "line": "You want me to disguise myself as a human and talk to the Farmer? Seems like a tough request. I'll only do it if you tell me how to get to the outpost."
+    },
+    {
+      "character": "Sheep",
+      "line": "What do you mean 'How to get to the outpost'? Any intelligent penguin knows that."
+    },
+    {
+      "character": "Player",
+      "line": "Are you calling me dumb? Fine. You can talk to the Farmer yourself, and compromise your mission."
+    },
+    {
+      "character": "Sheep",
+      "line": "No, no, we'll tell you. You just deal with the Farmer."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "What are you doing on my land?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about penguins."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "About what now? What do penguins have to do with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey Fred! You've been messing with the wrong people. You better leave the penguins alone... OR ELSE!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "What are you shouting about? Don't you come into my house shouting at me."
+    },
+    {
+      "character": "Player",
+      "line": "I mean it Fred, I don't know whose side you're working for, but assassinating the penguin operatives is going to get you in trouble. To think you'd even stoop to sending others to try and 'shear' them. Be careful, or you might find you've been shorn."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Is this some kind of joke? I'm a SHEEP farmer. That means I need to shear sheep. What are these penguins you keep talking about?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't play neutral with me, Fred. I see right through you. You're probably working for the squirrels, aren't you? I'll be watching Fred. I'm always watching."
+    },
+    {
+      "character": "Player",
+      "line": "You know that 'Thing' out in your field? It's two penguins in disguise."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Like I haven't heard that before."
+    },
+    {
+      "character": "Player",
+      "line": "No really, it is! They're trying to observe humans to learn our weaknesses."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Then why are they disguised as sheep?"
+    },
+    {
+      "character": "Player",
+      "line": "They probably thought they'd blend in better. Anyway, I came to warn you to not annoy them too much. They're funny little guys but they seem to have a grudge against you."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "You talk to these penguins?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have a penguin suit and I know the secret greeting. I'm infiltrating them because this crazy guy Larry is convinced they are trying to take over the world or something."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Look, when these voices in your head start talking to you again, you might want to ignore them."
+    },
+    {
+      "character": "Player",
+      "line": "HEY! I'm not crazy! Larry's a little left of centre, but I'm just helping him out. The penguins really can talk."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Right, right. I believe you, sure. Maybe on your way out you could ask the sheep to herd themselves for me."
+    },
+    {
+      "character": "Player",
+      "line": "Fine. Don't believe me. Larry and I will prove you wrong. Just don't go near the penguins, Fred, not if you value your life."
+    },
+    {
+      "character": "Sheep",
+      "line": "Is the Farmer an agent for the other side?"
+    },
+    {
+      "character": "Player",
+      "line": "The Farmer is definitely an enemy. High ranking too, I think. He might even be the King of Lumbridge in disguise!"
+    },
+    {
+      "character": "Sheep",
+      "line": "King? I thought there was a duke, not a king."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that's why he's in disguise. Duh."
+    },
+    {
+      "character": "Sheep",
+      "line": "This is an amazing revelation. We must include it in our report. Thank you, we'll mention your bravery."
+    },
+    {
+      "character": "Player",
+      "line": "The Farmer is harmless. The sheep, however...now they seem pretty crafty."
+    },
+    {
+      "character": "Sheep",
+      "line": "The sheep? But...They just wander around in this field all day. Trust us, we know."
+    },
+    {
+      "character": "Player",
+      "line": "Exactly! So you don't suspect them! That's why they are so cunning. Watch your backs."
+    },
+    {
+      "character": "Sheep",
+      "line": "You have a good point. Yes, we must warn Pescaling Pax of this new threat. We'll put it in the report and you can give it to them."
+    },
+    {
+      "character": "Sheep",
+      "line": "Well, off you go now!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey wait, you said you'd tell me where the outpost is!"
+    },
+    {
+      "character": "Sheep",
+      "line": "You are one clueless penguin. The outpost is the iceberg to the North. The entrance is concealed by what looks like an avalanche."
+    },
+    {
+      "character": "Sheep",
+      "line": "When you try and go through a guard will stop you and ask for the password."
+    },
+    {
+      "character": "Sheep",
+      "line": "The password is cabbage. Don't forget it."
+    },
+    {
+      "character": "Player",
+      "line": "Haa haa, this is fun!"
+    },
+    {
+      "character": "Larry",
+      "line": "What? How?"
+    },
+    {
+      "character": "Player",
+      "line": "I just convinced them Fred the Farmer was the King of Lumbridge!"
+    },
+    {
+      "character": "Larry",
+      "line": "But there is no King of Lumbridge."
+    },
+    {
+      "character": "Player",
+      "line": "Exactly! They are so gullible. Even if they are organised."
+    },
+    {
+      "character": "Larry",
+      "line": "Don't take this so lightly. You might put Fred in danger because you were having a laugh."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry. It was just a bit of fun."
+    },
+    {
+      "character": "Player",
+      "line": "I just convinced the penguins that the sheep are agents for the other side."
+    },
+    {
+      "character": "Larry",
+      "line": "They are?"
+    },
+    {
+      "character": "Player",
+      "line": "No! They're just sheep. But I wanted to confuse the penguins. Put them off our scent."
+    },
+    {
+      "character": "Larry",
+      "line": "What a good plan! I just hope the sheep aren't working for the other side."
+    },
+    {
+      "character": "Player",
+      "line": "Larry, we need to get you to hang out with people, not animals."
+    },
+    {
+      "character": "Player",
+      "line": "I know where their outpost is! The entrance is on the iceberg. It's concealed by an avalanche."
+    },
+    {
+      "character": "Larry",
+      "line": "Great. Let's go back to the iceberg, I'll put you in your suit and we'll really see what these penguins are up to."
+    },
+    {
+      "character": "Larry",
+      "line": "Now you can try and enter the outpost. This is exciting."
+    },
+    {
+      "character": "Player",
+      "line": "It's fun for you! You're not risking your neck."
+    },
+    {
+      "character": "Larry",
+      "line": "But you don't think penguins are dangerous anyway. So there's no danger is there? Or are you coming around to my thinking that they are dangerous?"
+    },
+    {
+      "character": "Player",
+      "line": "No...I mean...yes. Oh never mind. Just do the spell. Wait, won't the spell wear off once I'm inside? You'll be too far away."
+    },
+    {
+      "character": "Larry",
+      "line": "Oh, no. The ice magnifies this spell, so it will allow you to go greater distances."
+    },
+    {
+      "character": "Player",
+      "line": "This guy looks official. I'd better do the greeting before I speak to him."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Don't stand around, agent. You look absurd."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Password?"
+    },
+    {
+      "character": "Player",
+      "line": "Cabbage."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Let's see your ID and you can go through."
+    },
+    {
+      "character": "Player",
+      "line": "ID? No one told me anything about ID."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "No ID, no entry!"
+    },
+    {
+      "character": "Player",
+      "line": "The penguin at the entrance said I needed to have an ID. Nobody told me about any ID!"
+    },
+    {
+      "character": "Larry",
+      "line": "ID? But...they all look alike. Well, the other penguins probably just assumed you had it, since you said you were an agent."
+    },
+    {
+      "character": "Larry",
+      "line": "You know, I met a rather shifty looking penguin once, north of Miscellania. He was named after some sort of pasta..."
+    },
+    {
+      "character": "Larry",
+      "line": "Anyway, he worked for a black market. Maybe he has a contact here who could get you an ID?"
+    },
+    {
+      "character": "Player",
+      "line": "Penguins have black markets?"
+    },
+    {
+      "character": "Larry",
+      "line": "Of course. Just look around here for a shifty pasta penguin."
+    },
+    {
+      "character": "Noodle",
+      "line": "Oi, mate, 'u innerested i' sum 'wares?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...maybe?"
+    },
+    {
+      "character": "Noodle",
+      "line": "I go' me sum hot 'wares, mate. Wotcha need?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've misplaced me, I mean my, ID card."
+    },
+    {
+      "character": "Noodle",
+      "line": "Ah, frisky nigh' on leave, eh? Betcha furgo' yur missin repor' 'oo."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, my missin repor'. I think I need one of them too."
+    },
+    {
+      "character": "Noodle",
+      "line": "Well, mate. 'U scratch me back, I stab urs, right?"
+    },
+    {
+      "character": "Player",
+      "line": "What? No, no stabbing."
+    },
+    {
+      "character": "Noodle",
+      "line": "I men' in a good way. I wan' sumpin in exy-change. Ima in need of sum swamp tur."
+    },
+    {
+      "character": "Player",
+      "line": "Tur? Do you mean tar?"
+    },
+    {
+      "character": "Noodle",
+      "line": "Thas wha' I sed, innit? I need sum feathers 'oo. Foive of 'em."
+    },
+    {
+      "character": "Player",
+      "line": "So you need swamp tar and five feathers. Will chicken feathers do?"
+    },
+    {
+      "character": "Noodle",
+      "line": "Yea, begreat. Then I'll guv yea 'ur stuff."
+    },
+    {
+      "character": "Noodle",
+      "line": "Yuv go' the stuff?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I got it."
+    },
+    {
+      "character": "Noodle",
+      "line": "Whers me swamp tur 'n feathers, mate?"
+    },
+    {
+      "character": "Noodle",
+      "line": "Whers me feathers, mate?"
+    },
+    {
+      "character": "Noodle",
+      "line": "Whers me swamp tur, mate?"
+    },
+    {
+      "character": "Player",
+      "line": "What did you need?"
+    },
+    {
+      "character": "Noodle",
+      "line": "I need swamp tur and foive feathers, mate."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about this black market you run. Seems kind of risky."
+    },
+    {
+      "character": "Noodle",
+      "line": "Nah ain't risky. Bu' I dun run it. Me bruva, Alfredo, does. E runs the Fettuccine Mafia."
+    },
+    {
+      "character": "Player",
+      "line": "Riiiight. Fettucine Mafia. I'll remember that."
+    },
+    {
+      "character": "Noodle",
+      "line": "Need summat?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I need some replacements."
+    },
+    {
+      "character": "Noodle",
+      "line": "U dunna need ID."
+    },
+    {
+      "character": "Noodle",
+      "line": "Oi, 'u got 'ur repor'."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "All right, you can go in. The entrance is hidden under that avalanche."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Once inside, go into the room to the left. You'll be debriefed there. No dawdling!"
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Welcome back agent..."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Peach? But, aren't you...male?"
+    },
+    {
+      "character": "Player",
+      "line": "It was either that or Pear."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Ah. Of course."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Pablo? But, aren't you...female?"
+    },
+    {
+      "character": "Player",
+      "line": "Hippie parents, sir. They had weird ideas about names."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "So you have just returned from your mission?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and I have my mission report. I also have the mission reports from the operatives in the Ardougne Zoo and the Lumbridge sheep field."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "How very industrious of you, agent. Please hand them over."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Hmm, these reports are...intriguing."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "It says you jumped off a hill and flew? Without assistance?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah. It was amazing. You know, I just...flapped. Really fast."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Hmm, we shall have to research this."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Did you really get launched out of a cannon? It seems quite risky."
+    },
+    {
+      "character": "Player",
+      "line": "It wasn't too bad. I was wearing a helmet at the time."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "This could be very useful during battle."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "You flew in a 'hot air balloon'? What is that exactly?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, it was a sack of cloth with a basket attached to the bottom and when you filled it with hot air it went up."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Fascinating. Well done agent."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "I am satisfied with your reports. You just need to complete a physical and you will be free to roam at your leasure."
+    },
+    {
+      "character": "Player",
+      "line": "A physical? What, are they going to examine my body?"
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Oh no. It's an agility course to make sure you're still fit and able to serve. Don't worry, I'm sure you won't have any difficulty getting through it. Just go through the door at the end of the room."
+    },
+    {
+      "character": "Agility Instructor",
+      "line": "Well done soldier! You've successfully completed the physical. You're free to do as you like."
+    },
+    {
+      "character": "Player",
+      "line": "What do I do now?"
+    },
+    {
+      "character": "Agility Instructor",
+      "line": "Just go through the gate in the fence and use the same door you came out of. You can come back whenever you like to tone up your body."
+    },
+    {
+      "character": "Player",
+      "line": "All those penguins, what are they doing?"
+    },
+    {
+      "character": "Army Commander",
+      "line": "Ah, they are doing drills! Getting ready for the invasion. What a glorious day that will be!"
+    },
+    {
+      "character": "Player",
+      "line": "Invasion? Of..."
+    },
+    {
+      "character": "Army Commander",
+      "line": "Yes, yes, I know we all get excited. But, I need you to get out of the way. Move along!"
+    },
+    {
+      "character": "Player",
+      "line": "Larry, you were right! There's an entire army of them, and they're drilling and... Larry, they're ORGANISED!"
+    },
+    {
+      "character": "Larry",
+      "line": "That's what I've been saying from the start! But an entire army? This is just an outpost, so it can't be an entire army."
+    },
+    {
+      "character": "Player",
+      "line": "I know what I saw! They were doing drills and everything."
+    },
+    {
+      "character": "Larry",
+      "line": "Still, it must only be an invasion party. The main force is on...well, it doesn't matter right now."
+    },
+    {
+      "character": "Larry",
+      "line": "I've been doing some research of my own, and I think I know what our next step should be. There's a secret room, deep in the glacier. I think that is where they are making their war plans."
+    },
+    {
+      "character": "Player",
+      "line": "War plans! Who are they going to war with?"
+    },
+    {
+      "character": "Larry",
+      "line": "With us, you dolt! They are trying to take over the world. Have you not grasped this yet? You need to find that room. Our future depends on it."
+    },
+    {
+      "character": "Player",
+      "line": "Where could this room be?"
+    },
+    {
+      "character": "Larry",
+      "line": "It's probably the most well guarded room in the place. You'll need to find a way to get into it without arousing suspicion."
+    },
+    {
+      "character": "Player",
+      "line": "That's a pretty tall order."
+    },
+    {
+      "character": "Larry",
+      "line": "What are you doing out here! You need to get in there and find the secret room."
+    },
+    {
+      "character": "Player",
+      "line": "Keep your shorts on; I'm working on it."
+    },
+    {
+      "character": "Player",
+      "line": "You there, let me through those doors."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Let's see your ID, comrade."
+    },
+    {
+      "character": "Player",
+      "line": "No problem!"
+    },
+    {
+      "character": "KGP Agent",
+      "line": "I'm sorry comrade, you do not have the clearance to go through these doors."
+    },
+    {
+      "character": "Player",
+      "line": "You look like...knowledgeable...penguins. What's through those doors at the end of the hall?"
+    },
+    {
+      "character": "Pong",
+      "line": "Hey man, don't stress. Those doors open new worlds, man. Like, new rooms too."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, well, I would like to know what rooms."
+    },
+    {
+      "character": "Ping",
+      "line": "Like, the War Room and stuff like that, dude. Wicked stuff. Too bad only 'the man' gets to go through."
+    },
+    {
+      "character": "Player",
+      "line": "Humans can go through?"
+    },
+    {
+      "character": "Pong",
+      "line": "No, man. He just means the authority. The MAN, you know?"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you? You don't really look like KGP agents."
+    },
+    {
+      "character": "Ping",
+      "line": "Dude, we are bards. We sing of the glories of the common penguin. We are also supposed to record history, but man, it is so HIS story. Like, the MAN's story."
+    },
+    {
+      "character": "Player",
+      "line": "Penguins have bards?"
+    },
+    {
+      "character": "Ping",
+      "line": "Totally, dude. You want to hear one of our songs?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, I haven't got anything to lose, except my eardrums."
+    },
+    {
+      "character": "Pong",
+      "line": "Well, like, we can't play it in THIS now. Maybe at a later now. We don't have any instruments to accompany our great song."
+    },
+    {
+      "character": "Player",
+      "line": "But this room is filled with instruments."
+    },
+    {
+      "character": "Pong",
+      "line": "Yeah man, but they come from the south, where humans have thumbs to play them with. We don't have thumbs. Also, the Pescaling had our old ones confiscated for being too loud."
+    },
+    {
+      "character": "Player",
+      "line": "Way harsh, man."
+    },
+    {
+      "character": "Ping",
+      "line": "But dude, I was reading, and there are instruments we could play. I read about one called bongos. They just need to be hit."
+    },
+    {
+      "character": "Pong",
+      "line": "But we need two instruments, man. Like, to make it harmonious with the vibes."
+    },
+    {
+      "character": "Player",
+      "line": "What about a cowbell? You don't need thumbs for that."
+    },
+    {
+      "character": "Pong",
+      "line": "Righteous man. So you'll get a cowbell and bongos for us and we'll rock out. We'll be so harmonious, no Pescallion could complain."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, why am I getting these instruments?"
+    },
+    {
+      "character": "Pong",
+      "line": "Because your aura says you should."
+    },
+    {
+      "character": "Pong",
+      "line": "Man, did you bring the instruments to us?"
+    },
+    {
+      "character": "Player",
+      "line": "What did I need to get you?"
+    },
+    {
+      "character": "Pong",
+      "line": "We want a cowbell and a set of bongos."
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Pong",
+      "line": "You didn't bring the instruments."
+    },
+    {
+      "character": "Pong",
+      "line": "You didn't bring the bongos."
+    },
+    {
+      "character": "Pong",
+      "line": "You didn't bring a cowbell."
+    },
+    {
+      "character": "Pong",
+      "line": "Dude, good job on the instruments. Just let us set up and we'll get going."
+    },
+    {
+      "character": "Pong",
+      "line": "And a 1 and a 2 and a 3..."
+    },
+    {
+      "character": "Ping",
+      "line": "Wait, wait. It needs more cowbell."
+    },
+    {
+      "character": "Pong",
+      "line": "You're right, man. Let's try this again!"
+    },
+    {
+      "character": "Pong",
+      "line": "There once was a Pescallion, who travelled in a galleon."
+    },
+    {
+      "character": "Ping",
+      "line": "Our Pescallion went exploring and found this iceberg"
+    },
+    {
+      "character": "Pong",
+      "line": "He travelled the world, until his toes curled."
+    },
+    {
+      "character": "Ping",
+      "line": "Upon an iceberg he came, and our lives were never the same."
+    },
+    {
+      "character": "Pong",
+      "line": "As an outpost it was approved, so here our people moved."
+    },
+    {
+      "character": "Ping",
+      "line": "To grow and learn, though our hearts did yearn..."
+    },
+    {
+      "character": "Pong",
+      "line": "For the motherland."
+    },
+    {
+      "character": "Ping",
+      "line": "Deep inside the 'berg lay a threat, but don't fret!"
+    },
+    {
+      "character": "Pong",
+      "line": "For Pescaling Pax trapped those monsters behind a gate, but let's hope they don't mate."
+    },
+    {
+      "character": "Pong",
+      "line": "Now we have no fear"
+    },
+    {
+      "character": "Pong",
+      "line": "But shed a small tear for the motherland."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "All right, that's enough racket."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "Shut those instruments up or I'm throwing you in solitary!"
+    },
+    {
+      "character": "KGP Agent",
+      "line": "I don't care if your vibes are harmonious!"
+    },
+    {
+      "character": "Player",
+      "line": "Now might be a good time for me to slip out and get through those doors..."
+    },
+    {
+      "character": "Pescaling Pax",
+      "line": "And we'll move this little penguin here...and KABLOOM! Heee hee."
+    },
+    {
+      "character": "Pescaling Pax",
+      "line": "It appears we have a visitor!"
+    },
+    {
+      "character": "Pescaling Pax",
+      "line": "Haa haa! I am glad we installed that ant-magic security. What have we here?"
+    },
+    {
+      "character": "Pescaling Pax",
+      "line": "What an ingenious little device. This will solve all our problems. Scientists! Come examine this; we have much work to do."
+    },
+    {
+      "character": "Player",
+      "line": "What about me?"
+    },
+    {
+      "character": "Pescaling Pax",
+      "line": "Hmm, take that human to the Ice Lords. They'll enjoy the exercise."
+    },
+    {
+      "character": "Larry",
+      "line": "You're safe! I was really worried for a while there. What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "Ice Lord...hit me...ow..."
+    },
+    {
+      "character": "Larry",
+      "line": "Yes, yes, you're very brave. I mean what happened in the War Room?"
+    },
+    {
+      "character": "Player",
+      "line": "Pescaling Pax was there, and he forced me out of the suit and then threw me into a cage with the Ice Lords!"
+    },
+    {
+      "character": "Larry",
+      "line": "But what was IN the War Room?"
+    },
+    {
+      "character": "Player",
+      "line": "There was a map of the world and a lot of little penguin figures."
+    },
+    {
+      "character": "Larry",
+      "line": "YES! I knew it! I said I'd prove them all wrong. They are organised and invading. OH YEAH, Larry was right. Who was right? Larry was!"
+    },
+    {
+      "character": "Player",
+      "line": "LARRY! We've just uncovered a plot that could destroy everything we hold dear. Don't you think we should focus on stopping them?"
+    },
+    {
+      "character": "Larry",
+      "line": "You are such a buzz kill."
+    },
+    {
+      "character": "Player",
+      "line": "We need to plan our next move, but now they know both our scents and might come after us!"
+    },
+    {
+      "character": "Larry",
+      "line": "No, they only know mine. That agility course really stank up the suit and seems to have covered your scent. You might want to consider bathing soon."
+    },
+    {
+      "character": "Larry",
+      "line": "As for our next move, I've got...friends...elsewhere who should hear of this information, but we have plenty of time. It's not as though they made a break through in their research or something."
+    },
+    {
+      "character": "Player",
+      "line": "The hide was destroyed. It's too damaged to rebuild, so we can't use it to observe penguins any more."
+    },
+    {
+      "character": "Player",
+      "line": "I can't speak to the penguins when I'm not in my disguise."
+    },
+    {
+      "character": "KGP Agent",
+      "line": "There's been a breach! Red alert!"
+    },
+    {
+      "character": "Player",
+      "line": "Urrrrrgh!"
+    },
+    {
+      "character": "Dairy cow",
+      "line": "MOO"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Agility Instructor",
+      "description": "Male penguin, clipped military tone, reserved and professional. Speaks with cold authority through a megaphone, giving brief instructions without enthusiasm or encouragement."
+    },
+    {
+      "name": "Army Commander",
+      "description": "Male penguin, authoritative and proud military commander voice. Barks orders with discipline and excitement about the upcoming invasion, speaks with patriotic fervor."
+    },
+    {
+      "name": "Dairy cow",
+      "description": "Female cow, simple bovine sounds. Just moos."
+    },
+    {
+      "name": "Fred the Farmer",
+      "description": "Middle-aged male, rural British accent, practical and grounded farmer. Skeptical and easily flustered when confronted with strange claims, speaks with exasperation."
+    },
+    {
+      "name": "KGP Agent",
+      "description": "Male penguin, formal and bureaucratic tone with cold authority. Officious security official who enforces rules strictly, speaks with clipped professionalism and suspicion."
+    },
+    {
+      "name": "Larry",
+      "description": "Middle-aged male, British accent, eccentric and paranoid naturalist. Speaks with nervous energy and conspiratorial urgency, prone to excited outbursts when his theories are validated."
+    },
+    {
+      "name": "Noodle",
+      "description": "Male penguin, thick Cockney accent, shady black market dealer. Speaks in slurred, heavily accented speech patterns, streetwise and opportunistic criminal type."
+    },
+    {
+      "name": "Penguin",
+      "description": "Male penguin, formal and suspicious tone with slight Russian-inspired accent. Speaks as a dutiful operative, homesick but committed to the cause, weary from captivity."
+    },
+    {
+      "name": "Pescaling Pax",
+      "description": "Male penguin, theatrical and megalomaniacal voice with aristocratic flair. Speaks with gleeful menace and regal pretension, delighting in his schemes for world domination."
+    },
+    {
+      "name": "Ping",
+      "description": "Male penguin, laid-back hippie surfer voice. Speaks slowly with mellow intonation, uses words like 'dude' and 'man', artistic and carefree bard personality."
+    },
+    {
+      "name": "Pong",
+      "description": "Male penguin, relaxed hippie voice similar to Ping. Speaks with dreamy philosophical tone, passionate about music and vibes, unbothered by authority."
+    },
+    {
+      "name": "Sheep",
+      "description": "Male penguin disguised as sheep, irritable and paranoid operative voice. Speaks with hostility and suspicion, frustrated by their rural posting, demanding and dismissive."
+    }
+  ]
+}

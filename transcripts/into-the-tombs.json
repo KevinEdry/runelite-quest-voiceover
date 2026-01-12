@@ -1,0 +1,780 @@
+{
+  "branch": "quest/into-the-tombs",
+  "quest_name": "Into the Tombs",
+  "lines": [
+    {
+      "character": "Messenger",
+      "line": "Hello there. I have a message for you."
+    },
+    {
+      "character": "Messenger",
+      "line": "Hello there. I have a message for you, but you'll need to make some room for it."
+    },
+    {
+      "character": "Maisa",
+      "line": "Hey! You made it."
+    },
+    {
+      "character": "Player",
+      "line": "I came as soon as I could. What are we dealing with?"
+    },
+    {
+      "character": "Maisa",
+      "line": "Up here? Not a lot. The Devourer must be deeper inside."
+    },
+    {
+      "character": "Player",
+      "line": "Well then I guess that's where we're going as well."
+    },
+    {
+      "character": "Maisa",
+      "line": "We shouldn't leave this entry unguarded. The Devourer still has plenty of servants out in the desert who we won't want coming in after us."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... fair point. Alright, you keep an eye on things up here while I go after Amascut."
+    },
+    {
+      "character": "Maisa",
+      "line": "I had a feeling you might say that, so I made some preparations."
+    },
+    {
+      "character": "Player",
+      "line": "Preparations?"
+    },
+    {
+      "character": "Maisa",
+      "line": "Indeed. The Devourer has made plenty of enemies, and there are others willing to help us. Before you head deeper into the tomb, you might want to consider grouping up with some of them."
+    },
+    {
+      "character": "Player",
+      "line": "I might just do that. Anything else I should know?"
+    },
+    {
+      "character": "Maisa",
+      "line": "It seems Osmumten had various magical protections built into his tomb. It looks like the Devourer disabled them, which should make things easier for you."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'd better not waste any more time. Amascut may well have already found the two weapons. If so, she'll already be draining the lesser gods of their power."
+    },
+    {
+      "character": "Maisa",
+      "line": "Meaning the longer we wait, the stronger she gets. If we don't stop her attaining true godhood, who knows what will happen."
+    },
+    {
+      "character": "Player",
+      "line": "We'll stop her."
+    },
+    {
+      "character": "Maisa",
+      "line": "Oh, I almost forgot, I found this journal that might be worth a read."
+    },
+    {
+      "character": "Maisa",
+      "line": "Just let me know if you want it."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. I'd better get ready."
+    },
+    {
+      "character": "Maisa",
+      "line": "Good luck."
+    },
+    {
+      "character": "Maisa",
+      "line": "Hey."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to be doing?"
+    },
+    {
+      "character": "Maisa",
+      "line": "The Devourer has all four of the lesser gods somewhere in this tomb. We have to assume she's already found the two weapons she seeks as well."
+    },
+    {
+      "character": "Player",
+      "line": "Which means she'll already be draining the lesser gods of their power."
+    },
+    {
+      "character": "Maisa",
+      "line": "Exactly. You need to head deeper into the tomb, free the lesser gods and stop the Devourer before it's too late."
+    },
+    {
+      "character": "Maisa",
+      "line": "This won't be an easy fight, so make sure you're well prepared. Thankfully, the Devourer is not short of enemies. If needs be, you can use the obelisk here and find some allies to join you."
+    },
+    {
+      "character": "Player",
+      "line": "I might just do that."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have that journal from earlier?"
+    },
+    {
+      "character": "Maisa",
+      "line": "I do, but you'll need to make some room for it."
+    },
+    {
+      "character": "Maisa",
+      "line": "I do. Here you go."
+    },
+    {
+      "character": "Maisa",
+      "line": "Don't you already have it?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, so I do. Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get going."
+    },
+    {
+      "character": "Apmeken",
+      "line": "You did it! I wasn't sure I'd make it out of that one, but I'm glad you proved me wrong. Come, let's get out of here."
+    },
+    {
+      "character": "Crondis",
+      "line": "Amascut's hold on me is finally at an end. Human, let us return to the Nexus."
+    },
+    {
+      "character": "Het",
+      "line": "Even with everything we're going through, I have to admit, that was an impressive fight to behold! I wish I could have joined you, friend. Now, let us return to the Nexus."
+    },
+    {
+      "character": "Scabaras",
+      "line": "The... the noise! Her voice in my head for so long, and now... silence! It's so loud! Please, we must leave!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi there. How are you doing?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Oh, you know, just getting over years of being controlled by a deranged family member. All part of the fun in a family like ours, I guess."
+    },
+    {
+      "character": "Player",
+      "line": "You seem quite jolly about it all."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Well as I always say, 'the real winner is the one smiling.' What Amascut has done is horrific, but it's not too late to stop her. I won't let her get me down, not while there's still hope."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Anyway, I'm annoyingly a bit too weak to help you much down here. However, I reckon if you can free the others, we'll be able to open the way to the lower level for you."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Anyway, we've been able to open the way for you! I wish we could help you down there, but we're still too weak. Don't worry though, I know you can do it!"
+    },
+    {
+      "character": "Apmeken",
+      "line": "I'm annoyingly a bit too weak to help you much down here. However, I reckon if you can free the others, we'll be able to open the way to the lower level for you."
+    },
+    {
+      "character": "Apmeken",
+      "line": "We've been able to open the way for you! I wish we could help you down there, but we're still too weak. Don't worry though, I know you can do it!"
+    },
+    {
+      "character": "Crondis",
+      "line": "Human."
+    },
+    {
+      "character": "Player",
+      "line": "Not feeling talkative?"
+    },
+    {
+      "character": "Crondis",
+      "line": "I'm sure you will find a conversation with me more appealing than one with Scabaras. Still, I leave most of the talking to Apmeken."
+    },
+    {
+      "character": "Crondis",
+      "line": "Now, I can't support you in your fight, but if you can free the others, we'll be able to open the way to Amascut."
+    },
+    {
+      "character": "Crondis",
+      "line": "Now, we've opened the way to Amascut, but we can do no more. From here, it's up to you."
+    },
+    {
+      "character": "Crondis",
+      "line": "Human, I can't support you in your fight, but if you can free the others, we'll be able to open the way to Amascut."
+    },
+    {
+      "character": "Crondis",
+      "line": "Human, we've opened the way to Amascut, but we can do no more. From here, it's up to you."
+    },
+    {
+      "character": "Het",
+      "line": "Amascut! She's always been a monster, but she's doing things now I never believed her to be capable of! Had I not let my guard down, she'd surely be regretting her choices by now."
+    },
+    {
+      "character": "Het",
+      "line": "I guess we're lucky you came along when you did, my friend. I think you might have just given us a fighting chance!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad to have helped, but it's not over yet."
+    },
+    {
+      "character": "Het",
+      "line": "Indeed. Were I not still weak, I would gladly deal with her myself, but I fear you will have to face Amascut without me."
+    },
+    {
+      "character": "Het",
+      "line": "You'll find her on the level below. If you can free the others, we should be able to open the way for you."
+    },
+    {
+      "character": "Het",
+      "line": "You'll find her on the level below. We have managed to open the way for you. Go now, and show her the error of her ways!"
+    },
+    {
+      "character": "Het",
+      "line": "My friend, Amascut has heavily weakened me, but I know you can do what is needed. If you can free the others, we should be able to open the way to the level below."
+    },
+    {
+      "character": "Het",
+      "line": "We have opened the way for you, my friend. Any other day, I would have joined you in the fight against Amascut, but this one is up to you. Go now, and show her the error of her ways!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you okay?"
+    },
+    {
+      "character": "Scabaras",
+      "line": "The silence... it's so loud! Free the others! Free them and we can help. Now please... go!"
+    },
+    {
+      "character": "Scabaras",
+      "line": "We... opened the way. Now... go. Stop her! Please!"
+    },
+    {
+      "character": "Amascut",
+      "line": "You! I should have known this would be your doing!"
+    },
+    {
+      "character": "Player",
+      "line": "It's over, Amascut! Your plan has failed."
+    },
+    {
+      "character": "Amascut",
+      "line": "My plan has only just begun! Even with this setback, those pathetic fragments of my father have still given me ample power. My strength is absolute!"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe, but it doesn't matter. I've stopped every one of your schemes so far, and I'll stop the next one as well."
+    },
+    {
+      "character": "Amascut",
+      "line": "Really? You think you're leaving this place alive? I can promise you that won't be the case! My father's weapons have given me his power, and now they'll finally rid me of you!"
+    },
+    {
+      "character": "Spirit",
+      "line": "You. You fought against the Devourer. Her influence here has been lessened as a result. You are to be commended for your strength."
+    },
+    {
+      "character": "Player",
+      "line": "I take it you're Osmumten?"
+    },
+    {
+      "character": "Osmumten",
+      "line": "Once, but who I was in life means nothing. Vengeance is all that matters now. The Devourer may be gone, but my home has been corrupted. This corruption must be destroyed."
+    },
+    {
+      "character": "Player",
+      "line": "Can I help?"
+    },
+    {
+      "character": "Osmumten",
+      "line": "You can. Take your prize and leave, but when you are ready, return here. The Devourer's thralls will soon be back. You must fight them."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do what I can."
+    },
+    {
+      "character": "Osmumten",
+      "line": "We shall see if it is enough."
+    },
+    {
+      "character": "Osmumten",
+      "line": "The Devourer's thralls will be back, but they have been weakened because of you. Your prize awaits."
+    },
+    {
+      "character": "Osmumten",
+      "line": "You have done well, but it is time for you to leave. The Devourer's thralls will soon return."
+    },
+    {
+      "character": "Osmumten",
+      "line": "You fought well. The Devourer's influence here has lessened, but it will soon be restored. It is time for you to leave."
+    },
+    {
+      "character": "Het",
+      "line": "My friend, we would like to have a word with you before you head back inside."
+    },
+    {
+      "character": "Maisa",
+      "line": "So this is a new one. There's a bunch of lesser gods standing just over there. You should probably go and talk to them."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Here !"
+    },
+    {
+      "character": "Het",
+      "line": "My friend, you managed what few have ever achieved. You overcame Amascut herself! I wish I could have been there to see it!"
+    },
+    {
+      "character": "Player",
+      "line": "Well I couldn't have done it alone. Speaking of which, where's Scabaras?"
+    },
+    {
+      "character": "Crondis",
+      "line": "Scabaras walks his own path. Do not consider his absence an insult. This is his way."
+    },
+    {
+      "character": "Het",
+      "line": "Not to mention that he was under Amascut's control far longer than the rest of us. It will take him time to come to terms with his role in her plots."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Don't worry, he'll be okay. He always is."
+    },
+    {
+      "character": "Het",
+      "line": "Before we go any further... We didn't have much time for conversation back in the tomb. I'm sure you have some questions for us."
+    },
+    {
+      "character": "Crondis",
+      "line": "If you do, now is the time to ask them."
+    },
+    {
+      "character": "Player",
+      "line": "I have a question for Apmeken."
+    },
+    {
+      "character": "Player",
+      "line": "What's your role in the Menaphite Pantheon?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "I'm Tumeken's avatar of companionship! Tumeken himself was always considered a bit cold, which is a tad ironic when you think about it."
+    },
+    {
+      "character": "Player",
+      "line": "A cold sun god?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Exactly! Bit odd, right? Still, although he wasn't exactly known for his social side, he still understood the importance of such things. That's why he made me!"
+    },
+    {
+      "character": "Apmeken",
+      "line": "My job is to make sure everyone remembers the importance of friendship. After all, we all need a friend or two, or ten, or maybe hundreds! Have as many as you want! I won't judge."
+    },
+    {
+      "character": "Player",
+      "line": "Why aren't there more monkeys or apes in the desert?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Ah, you can thank Amascut for that. The desert used to be home to thousands of apes and monkeys, but she targeted them to try and get to me."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Don't be! Now that I'm back, I know we can turn things around!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I've changed my mind."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back soon."
+    },
+    {
+      "character": "Apmeken",
+      "line": "We'll be here when you're ready."
+    },
+    {
+      "character": "Player",
+      "line": "I have a question for Crondis."
+    },
+    {
+      "character": "Crondis",
+      "line": "I am Tumeken's avatar of resourcefulness."
+    },
+    {
+      "character": "Player",
+      "line": "Meaning?"
+    },
+    {
+      "character": "Crondis",
+      "line": "Meaning my job is to guide the people of the desert not to live lives of excess."
+    },
+    {
+      "character": "Player",
+      "line": "Guessing you're not a fan of Menaphos then?"
+    },
+    {
+      "character": "Crondis",
+      "line": "Much of the desert has forgotten the importance of modesty in my absence, but the situation in Menaphos is definitely the most concerning. Let us hope it can soon be rectified."
+    },
+    {
+      "character": "Player",
+      "line": "Why are crocodiles so rude?"
+    },
+    {
+      "character": "Crondis",
+      "line": "Rude? How so."
+    },
+    {
+      "character": "Player",
+      "line": "Well they always try to eat me when I go near them."
+    },
+    {
+      "character": "Crondis",
+      "line": "The life of a crocodile is not an easy one. They must seek food wherever it is available."
+    },
+    {
+      "character": "Crondis",
+      "line": "Besides, I sense you do not speak the whole truth. Did you not befriend a crocodile yourself in times past?"
+    },
+    {
+      "character": "Player",
+      "line": "You mean Roger! I guess he was quite friendly."
+    },
+    {
+      "character": "Crondis",
+      "line": "Then perhaps crocodiles are not as rude as you think."
+    },
+    {
+      "character": "Crondis",
+      "line": "As you wish."
+    },
+    {
+      "character": "Crondis",
+      "line": "We will be here."
+    },
+    {
+      "character": "Player",
+      "line": "I have a question for Het."
+    },
+    {
+      "character": "Het",
+      "line": "I am Tumeken's avatar of health, both physical and mental."
+    },
+    {
+      "character": "Player",
+      "line": "You talk about strength and fighting a lot. Surely fighting isn't good for someone's health."
+    },
+    {
+      "character": "Het",
+      "line": "Well when it comes to health, is strength not the ultimate goal? The strongest individual is one who is healthy in both body and mind, and what better way to celebrate that strength than in combat!"
+    },
+    {
+      "character": "Player",
+      "line": "I guess, but what about those who aren't strong?"
+    },
+    {
+      "character": "Het",
+      "line": "Well health is not something to be hoarded, is it? Most weaknesses can be overcome, and it is the duty of the strong to help those less fortunate."
+    },
+    {
+      "character": "Player",
+      "line": "So they can become strong and healthy themselves?"
+    },
+    {
+      "character": "Het",
+      "line": "Exactly!"
+    },
+    {
+      "character": "Het",
+      "line": "An interesting question. Why do you ask?"
+    },
+    {
+      "character": "Player",
+      "line": "Considering you have a human appearance, I wondered if that might resonate more with people."
+    },
+    {
+      "character": "Het",
+      "line": "Not as much as you might think. Believe it or not, in some ways, I'm actually considered a bit boring! Why follow the human when you have a baboon god?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Especially when the baboon god is so fun to be around!"
+    },
+    {
+      "character": "Het",
+      "line": "Of course, people just following one of us was never really the intention anyway. We're a pantheon, and we all have a part to play."
+    },
+    {
+      "character": "Het",
+      "line": "Now that Amascut is running with her tail between her legs, perhaps we can remind people of that."
+    },
+    {
+      "character": "Het",
+      "line": "Very well."
+    },
+    {
+      "character": "Het",
+      "line": "We'll wait for you to return."
+    },
+    {
+      "character": "Player",
+      "line": "I have a question for all of you."
+    },
+    {
+      "character": "Player",
+      "line": "What will happen with Amascut?"
+    },
+    {
+      "character": "Het",
+      "line": "I'd say that's up to her. If she doesn't change her ways, her fate won't be pretty."
+    },
+    {
+      "character": "Apmeken",
+      "line": "But it's never too late for redemption. There might still be hope for her."
+    },
+    {
+      "character": "Crondis",
+      "line": "Whatever path she takes, we will be ready."
+    },
+    {
+      "character": "Player",
+      "line": "Do you really think she'd change her ways at this point?"
+    },
+    {
+      "character": "Crondis",
+      "line": "It seems unlikely, but there is one who might be able to change that."
+    },
+    {
+      "character": "Player",
+      "line": "Who?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Icthlarin! If anyone can help Amascut find her way again, it's him!"
+    },
+    {
+      "character": "Player",
+      "line": "He doesn't seem to have been doing much to help so far."
+    },
+    {
+      "character": "Het",
+      "line": "Icthlarin is limited in what he can do. His duties to the dead require constant attention."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Not to mention the pact!"
+    },
+    {
+      "character": "Player",
+      "line": "Pact?"
+    },
+    {
+      "character": "Crondis",
+      "line": "That is not for us to discuss."
+    },
+    {
+      "character": "Apmeken",
+      "line": "Oh yes, sorry. Maybe we should talk about something else."
+    },
+    {
+      "character": "Player",
+      "line": "Are you actually gods?"
+    },
+    {
+      "character": "Het",
+      "line": "If you asked a citizen of these lands, I'm sure they'd probably say yes."
+    },
+    {
+      "character": "Crondis",
+      "line": "Indeed, but they would not be truly correct."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Tumeken made us using his own divine essence! Each of us is a piece of him!"
+    },
+    {
+      "character": "Crondis",
+      "line": "But that does not make us gods. While great, our power is insignificant compared to a true god. That is why they are gone, and we remain."
+    },
+    {
+      "character": "Player",
+      "line": "So what are you really?"
+    },
+    {
+      "character": "Het",
+      "line": "You might hear some refer to us as the Avatars of Tumeken. We'd consider that a more fitting title."
+    },
+    {
+      "character": "Player",
+      "line": "What about Icthlarin and Amascut?"
+    },
+    {
+      "character": "Apmeken",
+      "line": "Tumeken made them too. Difference is, they also have some of Elidinis' divine essence, making them a lot more powerful!"
+    },
+    {
+      "character": "Crondis",
+      "line": "But again, they are not true gods."
+    },
+    {
+      "character": "Het",
+      "line": "Amascut was hoping to change that today, but you showed her where to stick that plan!"
+    },
+    {
+      "character": "Player",
+      "line": "So what happens now?"
+    },
+    {
+      "character": "Crondis",
+      "line": "We are the Avatars of Tumeken, and the Kharidian Desert has been without guidance for too long. It is time we fixed that."
+    },
+    {
+      "character": "Apmeken",
+      "line": "We're going to get started right away!"
+    },
+    {
+      "character": "Het",
+      "line": "But don't worry, we don't intend to miss the fight against Amascut. I hope you'll stand alongside us when that day comes."
+    },
+    {
+      "character": "Crondis",
+      "line": "For now though, this is goodbye. We will meet again, human."
+    },
+    {
+      "character": "Apmeken",
+      "line": "It was great to meet you. Thank you for helping us!"
+    },
+    {
+      "character": "Apmeken",
+      "line": "You're back!"
+    },
+    {
+      "character": "Crondis",
+      "line": "If you have questions, now is the time to ask them."
+    },
+    {
+      "character": "Maisa",
+      "line": "Hey! We should discuss some things before you head back in."
+    },
+    {
+      "character": "Maisa",
+      "line": "You're back! I have a little something for you, but you don't seem to have room for it. Come back when you do."
+    },
+    {
+      "character": "Maisa",
+      "line": "You're back! I just had an interesting chat with a group of lesser gods. Seems you dealt a heavy blow to the Devourer and made some powerful new friends in the process."
+    },
+    {
+      "character": "Player",
+      "line": "It didn't go perfectly. Amascut still escaped, and she'd already gained a fair amount of power by that point."
+    },
+    {
+      "character": "Maisa",
+      "line": "True, but things could have wound up going a lot worse. You're right though, this is clearly far from over."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you think she'll have gone? Menaphos?"
+    },
+    {
+      "character": "Maisa",
+      "line": "Most likely. She didn't go to all the effort of causing those plagues for nothing. This tomb was clearly only part of her plan."
+    },
+    {
+      "character": "Maisa",
+      "line": "Still, she'll need to reconsider her strategy after her defeat. We have a little time now."
+    },
+    {
+      "character": "Player",
+      "line": "Hopefully time for the city to reopen again. What will you do in the meantime?"
+    },
+    {
+      "character": "Maisa",
+      "line": "The lesser gods were under the Devourer's control for a long time, and a lot's changed since they disappeared. I've offered to help them where I can."
+    },
+    {
+      "character": "Player",
+      "line": "Then I guess this is goodbye for now."
+    },
+    {
+      "character": "Maisa",
+      "line": "Indeed, but before I go, I have something for you."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Maisa",
+      "line": "Don't mention it. Now, take care of yourself out there."
+    },
+    {
+      "character": "Maisa",
+      "line": "Indeed. Take care of yourself out there."
+    },
+    {
+      "character": "Player",
+      "line": "And you."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Amascut",
+      "description": "Female, regal Middle Eastern accent, dark and commanding tone. An ancient feline demi-goddess of destruction, speaking with calculated menace and cruel confidence befitting the Devourer of Souls."
+    },
+    {
+      "name": "Apmeken",
+      "description": "Female, playful Middle Eastern accent, cheerful and mischievous tone. The baboon-headed goddess of companionship, energetic and optimistic even in dire circumstances, with a tendency to exaggerate."
+    },
+    {
+      "name": "Crondis",
+      "description": "Female, measured Middle Eastern accent, formal and stoic tone. The crocodile-headed goddess of resourcefulness, speaking with dignified restraint and practical wisdom."
+    },
+    {
+      "name": "Het",
+      "description": "Male, warm Middle Eastern accent, noble and enthusiastic tone. The human-headed god of health, speaking with encouraging vigor and genuine concern for others' wellbeing."
+    },
+    {
+      "name": "Maisa",
+      "description": "Female, Middle Eastern accent, serious and professional tone. A competent Al Kharid spy, slightly weary but determined, speaking with focused practicality."
+    },
+    {
+      "name": "Messenger",
+      "description": "Young adult, neutral British accent, polite and efficient tone. A helpful courier who delivers messages with friendly professionalism."
+    },
+    {
+      "name": "Osmumten",
+      "description": "Male, deep ethereal voice with Middle Eastern accent, grave and authoritative tone. An ancient pharaoh's spirit speaking with measured gravitas and regal dignity."
+    },
+    {
+      "name": "Scabaras",
+      "description": "Male, strained Middle Eastern accent, anxious and fragmented tone. The scarab-headed god of isolation, traumatized and desperate after prolonged mental torment, speaking in broken urgent sentences."
+    },
+    {
+      "name": "Spirit",
+      "description": "Male, deep ethereal voice with Middle Eastern accent, grave and authoritative tone. An ancient pharaoh's spirit speaking with measured gravitas and regal dignity."
+    }
+  ]
+}

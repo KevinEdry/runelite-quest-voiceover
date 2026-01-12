@@ -1,0 +1,416 @@
+{
+  "branch": "quest/the-forsaken-tower",
+  "quest_name": "The Forsaken Tower",
+  "lines": [
+    {
+      "character": "Councillor Unkar",
+      "line": "...and he says that it's of the greatest urgency."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Greatest urgency? I don't like urgency. This is quite simply not on."
+    },
+    {
+      "character": "Player",
+      "line": "Hiya!"
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Who is this human, Councillor Unkar? What are they doing here?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "I'm afraid I don't know."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Oh. Could you make them go away?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Sorry human. We're currently engaging in important official business. You'll need to come back another time."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "This is. They've been helping out in Lovakengj recently."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Well I've never heard of them. What do they want?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "What do you want human?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a quest."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "They're looking for a quest."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "A quest? Well we don't have any of those lying around."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Well hang on. Maybe they could help us with this urgent matter."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "What urgent matter?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "The one we were just discussing. The one with the Doors of Dinh."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Ah yes, the urgent matter with the Doors of Dinh. Very clever Councillor Unkar. You put the human to work. I need a sherry."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Jorra! Bring me a sherry."
+    },
+    {
+      "character": "Jorra",
+      "line": "Yes Lady Lovakengj."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Human, we have a job for you."
+    },
+    {
+      "character": "Player",
+      "line": "Great. What do you need?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "One of the finest smiths in Lovakengj, Undor, has been investigating issues with the Doors of Dinh. We've just received word that he has found the problem. However, he has requested we send assistance."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Could you go to him and see what help he needs? You'll find him right outside the Doors of Dinh, north of Arceuus."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "I'm Councillor Unkar, one of the members of the Kourend Council. We are responsible for running the entire Kingdom of Great Kourend."
+    },
+    {
+      "character": "Player",
+      "line": "What brings you to Lovakengj then?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "It's important for the Council to maintain a good relationship with the rulers of the five cities. Although it is the Council that rules, we can only do so with their support."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "I'm here to help Lady Lovakengj out and to make sure she has everything she needs to rule effectively."
+    },
+    {
+      "character": "Player",
+      "line": "What are the Doors of Dinh?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "They are a great set of doors built by a legendary smith, Dinh, in the early days of Kourend. They were created to imprison a deadly beast known as the Wintertodt."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Unfortunately, although the Doors kept the beast contained for over a thousand years, they've recently started to fail. The master smith, Undor, was sent to investigate."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get going."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "They don't want anything."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Oh. Could you make them go away then?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Sorry human. We're currently engaging in important official business. If you don't have anything of importance to say, you'll need to come back another time."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Human, we have given you a job to do. What else do you need?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you need me to do again?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Go and speak to Undor and see what he has discovered. You'll find him outside the Doors of Dinh, north of Arceuus."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Undor",
+      "line": "Well hello there."
+    },
+    {
+      "character": "Player",
+      "line": "I've been sent to help you."
+    },
+    {
+      "character": "Undor",
+      "line": "I just need to finish this little job. I'll be with you in a minute. While you're waiting, why not talk to that fiery lass? She'll fill you in on the situation here."
+    },
+    {
+      "character": "Undor",
+      "line": "Hello there."
+    },
+    {
+      "character": "Undor",
+      "line": "Have you now ? I was wondering when they'd send someone."
+    },
+    {
+      "character": "Player",
+      "line": "Well here I am. What do you need?"
+    },
+    {
+      "character": "Undor",
+      "line": "They all kept saying that the Doors were failing and I kept telling them that was rubbish. Did they listen? Of course they didn't."
+    },
+    {
+      "character": "Player",
+      "line": "So the doors aren't failing?"
+    },
+    {
+      "character": "Undor",
+      "line": "Of course not! They were made by Dinh himself, the finest smith this world has ever seen. His work doesn't just fail!"
+    },
+    {
+      "character": "Player",
+      "line": "But if the Doors aren't failing, what's the issue?"
+    },
+    {
+      "character": "Undor",
+      "line": "Sabotage!"
+    },
+    {
+      "character": "Player",
+      "line": "Sabotage? That doesn't sound good."
+    },
+    {
+      "character": "Undor",
+      "line": "You're right with that one. Someone or something has made a small hole in the Doors."
+    },
+    {
+      "character": "Undor",
+      "line": "It's not much, but it's enough for that Wintertodt to be able to draw some power into the prison. Probably why them fiery lot have had so much trouble recently."
+    },
+    {
+      "character": "Player",
+      "line": "So what do we do?"
+    },
+    {
+      "character": "Undor",
+      "line": "Repair the damage of course. Now I should be able to fix the issue no problem. The only thing I'm missing is the right tools. That's where you come in."
+    },
+    {
+      "character": "Player",
+      "line": "What tools do you need?"
+    },
+    {
+      "character": "Undor",
+      "line": "I require a hammer!"
+    },
+    {
+      "character": "Player",
+      "line": "A hammer? Are you seriously telling me that you don't own a hammer?"
+    },
+    {
+      "character": "Undor",
+      "line": "What does it look like I'm holding you spoon?! I don't just need any hammer. I need the legendary hammer used by Dinh himself! It's the only tool capable of working this metal."
+    },
+    {
+      "character": "Player",
+      "line": "Ahh, I see. So where do I find this hammer?"
+    },
+    {
+      "character": "Undor",
+      "line": "Back in his prime, Dinh built a great tower. It was known as Dinh's Redoubt and it's where he created all of his finest inventions."
+    },
+    {
+      "character": "Undor",
+      "line": "After Dinh died, some poncey mage thought they'd go and defile his tower. The place has been off limits ever since."
+    },
+    {
+      "character": "Undor",
+      "line": "Now I don't know for sure, but I reckon that Dinh's Hammer might still be there."
+    },
+    {
+      "character": "Player",
+      "line": "Well there's only one way to find out. Where do I find this tower?"
+    },
+    {
+      "character": "Undor",
+      "line": "The Forsaken Tower, as it's now known, can be found west of Lovakengj."
+    },
+    {
+      "character": "Player",
+      "line": "Great, I'll be back once I've found that hammer."
+    },
+    {
+      "character": "Player",
+      "line": "Let's talk about my quest."
+    },
+    {
+      "character": "Undor",
+      "line": "Have you got Dinh's Hammer yet ?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. Where should I be looking?"
+    },
+    {
+      "character": "Undor",
+      "line": "I reckon it's somewhere in Dinh's Redoubt, or The Forsaken Tower, as it's now known. You'll find it west of Lovakengj."
+    },
+    {
+      "character": "Player",
+      "line": "I have!"
+    },
+    {
+      "character": "Undor",
+      "line": "Well hand it over then."
+    },
+    {
+      "character": "Undor",
+      "line": "Look at it! Such a work of art. Dinh never fails to impress. Now that I have this, it shouldn't take me long to fix the Doors."
+    },
+    {
+      "character": "Player",
+      "line": "Does this mean the Wintertodt won't be a threat anymore?"
+    },
+    {
+      "character": "Undor",
+      "line": "That should be the case in the long run. I suspect it will take a long time though. The Doors were damaged for a while and the Wintertodt will have gained a lot of power."
+    },
+    {
+      "character": "Undor",
+      "line": "I reckon that magic lot will have to do their fiery tricks for a bit longer before everything is back to normal."
+    },
+    {
+      "character": "Undor",
+      "line": "Anyway, I'll get to work fixing the Doors. You should head back to Lady Lovakengj and let her know that the problem has been solved."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Undor",
+      "line": "Why are you wasting my time?!"
+    },
+    {
+      "character": "Undor",
+      "line": "Now that I have Dinh's Hammer, it shouldn't take me long to fix the Doors. You should head back to Lady Lovakengj and let her know."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "The human seems a bit lost Councillor. Could you help them please."
+    },
+    {
+      "character": "Player",
+      "line": "But I've done what you asked!"
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Oh. What did I ask?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "We asked them to go and see what help Undor needed at the Doors of Dinh."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "That we did Councillor. Quite right. And what was it that Undor needed?"
+    },
+    {
+      "character": "Player",
+      "line": "Undor had found some damage caused to the Doors of Dinh. He suspected someone had sabotaged them. He asked me to fetch him Dinh's Hammer so that he could fix the Doors."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "I found the hammer and gave it to Undor. He should be fixing the Doors as we speak."
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Well this is excellent news. With the Doors fixed, the Wintertodt poses a far smaller threat to Kourend. Well done."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Yes, yes, wonderful stuff. I think I'll have a sherry to celebrate."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "..."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Councillor, why is the human still here?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "I think they want a reward, Lady Lovakengj."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "A reward?"
+    },
+    {
+      "character": "Councillor Unkar",
+      "line": "Yes, Lady Lovakengj."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Oh."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Well here you go, have this then."
+    },
+    {
+      "character": "Lady Vulcana Lovakengj",
+      "line": "Oh. The human is still here."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Councillor Unkar",
+      "description": "Middle-aged male dwarf, British accent, formal and diplomatic tone, a patient council member who speaks with measured authority and deference to nobility."
+    },
+    {
+      "name": "Jorra",
+      "description": "Young adult male dwarf, British accent, quiet and subservient tone, a discreet personal assistant who speaks briefly and respectfully to his superiors."
+    },
+    {
+      "name": "Lady Vulcana Lovakengj",
+      "description": "Elderly female dwarf, posh British accent, haughty and dismissive tone with a hint of confusion, an alcoholic noblewoman who speaks with aristocratic entitlement."
+    },
+    {
+      "name": "Undor",
+      "description": "Middle-aged male dwarf, gruff Scottish accent, confident and boastful tone, a proud master smith who believes himself the greatest on Gielinor and speaks bluntly."
+    }
+  ]
+}

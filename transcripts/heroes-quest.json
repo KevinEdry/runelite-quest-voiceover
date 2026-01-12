@@ -1,0 +1,704 @@
+{
+  "branch": "quest/heroes-quest",
+  "quest_name": "Heroes' Quest",
+  "lines": [
+    {
+      "character": "Achietties",
+      "line": "Greetings. Welcome to the Heroes' Guild."
+    },
+    {
+      "character": "Achietties",
+      "line": "Only the greatest heroes of this land may gain entrance to this guild."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a hero. May I apply to join?"
+    },
+    {
+      "character": "Achietties",
+      "line": "You're a hero? I've never heard of you."
+    },
+    {
+      "character": "Achietties",
+      "line": "Well, you seem to meet our initial requirements, so you may now begin the tasks to earn membership in the Heroes' Guild."
+    },
+    {
+      "character": "Achietties",
+      "line": "The three items required for entrance are: An Entranan Firebird feather, a Master Thieves' armband, and a cooked Lava Eel."
+    },
+    {
+      "character": "Player",
+      "line": "Any hints on getting the thieves armband?"
+    },
+    {
+      "character": "Achietties",
+      "line": "I'm sure you have the relevant contacts to find out about that."
+    },
+    {
+      "character": "Player",
+      "line": "Any hints on getting the feather?"
+    },
+    {
+      "character": "Achietties",
+      "line": "Not really - other than Entranan firebirds tend to live on Entrana."
+    },
+    {
+      "character": "Player",
+      "line": "Any hints on getting the eel?"
+    },
+    {
+      "character": "Achietties",
+      "line": "Maybe go and find someone who knows a lot about fishing?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll start looking for all those things then."
+    },
+    {
+      "character": "Achietties",
+      "line": "Good luck with that."
+    },
+    {
+      "character": "Player",
+      "line": "Good for the foremost heroes of the land."
+    },
+    {
+      "character": "Achietties",
+      "line": "Yes. Yes it is."
+    },
+    {
+      "character": "Achietties",
+      "line": "How goes thy quest adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "It's tough. I've not done it yet."
+    },
+    {
+      "character": "Achietties",
+      "line": "Remember, the items you need to enter are:"
+    },
+    {
+      "character": "Achietties",
+      "line": "An Entranan Firebirds' feather, A Master Thieves armband, and a cooked Lava Eel."
+    },
+    {
+      "character": "Player",
+      "line": "How would I go about getting a Master Thief armband?"
+    },
+    {
+      "character": "Straven",
+      "line": "Ooh... tricky stuff. Took me YEARS to get that rank."
+    },
+    {
+      "character": "Straven",
+      "line": "Well, what some of the more aspiring thieves in our gang are working on right now is to steal some very valuable candlesticks from Scarface Pete - the pirate leader on Karamja."
+    },
+    {
+      "character": "Straven",
+      "line": "His security is excellent, and the target very valuable so that might be enough to get you the rank."
+    },
+    {
+      "character": "Straven",
+      "line": "Go talk to our man Alfonse, the waiter in the Shrimp and Parrot."
+    },
+    {
+      "character": "Straven",
+      "line": "Use the secret word 'gherkin' to show you're one of us."
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing again?"
+    },
+    {
+      "character": "Straven",
+      "line": "You told me you wanted to get a Master thief's armband! Now pay attention."
+    },
+    {
+      "character": "Straven",
+      "line": "Some of the more aspiring thieves in our gang are working on right now is to steal some very valuable candlesticks from Scarface Pete - the pirate leader on Karamja."
+    },
+    {
+      "character": "Alfonse the waiter",
+      "line": "Hey! You can't go through there! That's private property!"
+    },
+    {
+      "character": "Alfonse the waiter",
+      "line": "Welcome to the Shrimp and Parrot. Would you like to order, sir?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you sell Gherkins?"
+    },
+    {
+      "character": "Alfonse the waiter",
+      "line": "Hmmmm Gherkins eh? Ask Charlie the cook, round the back. He may have some 'gherkins' for you!"
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Hey! What are you doing back here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a gherkin..."
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Aaaaaah... a fellow Phoenix! So, tell me compadre... what brings you to sunny Brimhaven?"
+    },
+    {
+      "character": "Player",
+      "line": "Sun, sand and the fresh sea air!"
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Well, can't say I blame you compadre. I used to be a city boy myself, but have to admit it's a lot nicer living here nowadays. Brimhaven's certainly good for it."
+    },
+    {
+      "character": "Player",
+      "line": "I want to steal Scarface Pete's candlesticks."
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Ah yes, of course. The candlesticks. Well, I have to be honest with you compadre, we haven't made much progress in that task ourselves so far. We can however offer"
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "a little assistance. The setting up of this restaurant was the start of things; we have a secret door out the back of here that leads through the back of Mr Olbors' garden."
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Now, at the other side of Mr Olbors' garden, is an old side entrance to Scarface Pete's mansion. It seems to have been blocked off from the rest of the mansion some years ago"
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "and we can't seem to find a way through. We're positive this is the key to entering the house undetected however, and I promise to let you know if we find anything there."
+    },
+    {
+      "character": "Player",
+      "line": "Mind if I check it out for myself?"
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Not at all! The more minds we have working on the problem, the quicker we get that loot!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm a fellow member of the Phoenix gang."
+    },
+    {
+      "character": "Player",
+      "line": "Just exploring..."
+    },
+    {
+      "character": "Charlie the cook",
+      "line": "Well get out! This kitchen isn't for exploring! It's a private establishment! It's out of bounds to customers!"
+    },
+    {
+      "character": "Garv",
+      "line": "Oi! Where do you think you're going pal?"
+    },
+    {
+      "character": "Garv",
+      "line": "Hello. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I go in there?"
+    },
+    {
+      "character": "Garv",
+      "line": "No. In there is private."
+    },
+    {
+      "character": "Player",
+      "line": "I want for nothing!"
+    },
+    {
+      "character": "Garv",
+      "line": "You're one of a very lucky few then."
+    },
+    {
+      "character": "Grubor",
+      "line": "Yes? What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Would you like your hedges trimming?"
+    },
+    {
+      "character": "Grubor",
+      "line": "Eh? Don't be daft! We don't even HAVE any hedges!"
+    },
+    {
+      "character": "Player",
+      "line": "I want to come in."
+    },
+    {
+      "character": "Grubor",
+      "line": "No, go away."
+    },
+    {
+      "character": "Player",
+      "line": "Do you want to trade?"
+    },
+    {
+      "character": "Grubor",
+      "line": "No, I'm busy."
+    },
+    {
+      "character": "Player",
+      "line": "This room isn't a lot of use on its own... Maybe I can get extra help from the inside somehow... I wonder if any of the other players have found a way in."
+    },
+    {
+      "character": "Player",
+      "line": "I have retrieved a candlestick!"
+    },
+    {
+      "character": "Straven",
+      "line": "Well, in all honesty, you didn't actually retrieve it yourself, did you? You don't qualify as a master thief unless you actually steal it yourself, you know..."
+    },
+    {
+      "character": "Straven",
+      "line": "Hmmm. Not bad, not bad. Let's see it, make sure it's genuine."
+    },
+    {
+      "character": "Player",
+      "line": "So is this enough to get me a Master Thief armband?"
+    },
+    {
+      "character": "Straven",
+      "line": "Hmm..."
+    },
+    {
+      "character": "Straven",
+      "line": "I dunno..."
+    },
+    {
+      "character": "Straven",
+      "line": "Aww, go on then. I suppose I'm in a generous mood today."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I've lost my Master Thief armband."
+    },
+    {
+      "character": "Straven",
+      "line": "Lucky for you I have a spare. Don't lose it again!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey."
+    },
+    {
+      "character": "Katrine",
+      "line": "Hey."
+    },
+    {
+      "character": "Player",
+      "line": "Is there any way I can get the rank of master thief?"
+    },
+    {
+      "character": "Katrine",
+      "line": "Master thief? Ain't we the ambitious one!"
+    },
+    {
+      "character": "Katrine",
+      "line": "Well, you're gonna have to do something pretty amazing."
+    },
+    {
+      "character": "Player",
+      "line": "Anything you can suggest?"
+    },
+    {
+      "character": "Katrine",
+      "line": "Well, some of the MOST coveted prizes in thiefdom right now are in the pirate town of Brimhaven on Karamja."
+    },
+    {
+      "character": "Katrine",
+      "line": "The pirate leader Scarface Pete has a pair of extremely valuable candlesticks."
+    },
+    {
+      "character": "Katrine",
+      "line": "His security is VERY good."
+    },
+    {
+      "character": "Katrine",
+      "line": "We, of course, have gang members in a town like Brimhaven who may be able to help you."
+    },
+    {
+      "character": "Katrine",
+      "line": "Visit our hideout in the alleyway on Palm Street. To get in you will need to tell them the secret password 'four leafed clover'."
+    },
+    {
+      "character": "Grubor",
+      "line": "Eh? What are you on about? Go away!"
+    },
+    {
+      "character": "Grubor",
+      "line": "Oh, you're one of the gang are you? Ok, hold up a second, I'll just let you in through here."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Grubor",
+      "line": "Hi. I'm a little busy right now."
+    },
+    {
+      "character": "Trobert",
+      "line": "Hi. Welcome to our Brimhaven headquarters. I'm Trobert and I'm in charge here."
+    },
+    {
+      "character": "Player",
+      "line": "So can you help me get Scarface Pete's candlesticks?"
+    },
+    {
+      "character": "Trobert",
+      "line": "Well, we have made some progress there. We know that one of the only keys to Pete's treasure room is carried by Grip, the head guard, so we thought it might be good to get close to him somehow."
+    },
+    {
+      "character": "Trobert",
+      "line": "Grip was taking on a new deputy called Hartigen, an Asgarnian Black Knight who was deserting the Black Knight Fortress and seeking new employment here on Brimhaven."
+    },
+    {
+      "character": "Trobert",
+      "line": "We managed to waylay him on the journey here, and steal his I.D. papers. Now all we need is to find somebody willing to impersonate him and take the deputy role to get that key for us."
+    },
+    {
+      "character": "Player",
+      "line": "I volunteer to undertake that mission!"
+    },
+    {
+      "character": "Trobert",
+      "line": "Good good. Here's the I.D. papers. Take them and introduce yourself to the guards at Scarface Pete's mansion. We'll have that treasure in no time."
+    },
+    {
+      "character": "Player",
+      "line": "Well, good luck then."
+    },
+    {
+      "character": "Trobert",
+      "line": "Someone will show up eventually."
+    },
+    {
+      "character": "Player",
+      "line": "Pleased to meet you."
+    },
+    {
+      "character": "Trobert",
+      "line": "Likewise."
+    },
+    {
+      "character": "Trobert",
+      "line": "How's it going?"
+    },
+    {
+      "character": "Player",
+      "line": "Fine, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost Hartigen's ID paper..."
+    },
+    {
+      "character": "Trobert",
+      "line": "Well that was careless of you wasn't it? Fortunately for you, he had a spare. Take this one, but please try to be more careful with this one."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost Hartigen's ID papers..."
+    },
+    {
+      "character": "Trobert",
+      "line": "Well that was careless of you, wasn't it? Fortunately for you, he had a spare set. Take this one, but please try to be more careful with it."
+    },
+    {
+      "character": "Player",
+      "line": "Hi. I'm Hartigen. I've come to work here."
+    },
+    {
+      "character": "Garv",
+      "line": "Hartigen the Black Knight? I don't think so. He doesn't dress like that."
+    },
+    {
+      "character": "Garv",
+      "line": "I assume you have your I.D. papers then?"
+    },
+    {
+      "character": "Garv",
+      "line": "You'd better come in then. Grip will want to talk to you."
+    },
+    {
+      "character": "Player",
+      "line": "Uh... yeeeeaaaaah.... about that.... I must have left them in my other suit of armour...."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there. I am Hartigen. reporting for duty as your new deputy sir!"
+    },
+    {
+      "character": "Grip",
+      "line": "Ah good, at last. You took your time getting here! Now let me see..."
+    },
+    {
+      "character": "Grip",
+      "line": "I'll get your hours and duty roster sorted out in a while. Oh, and do you have your I.D. papers with you? Internal security is almost as important as external security for a guard."
+    },
+    {
+      "character": "Player",
+      "line": "Right here sir!"
+    },
+    {
+      "character": "Player",
+      "line": "So can I guard the treasure room please?"
+    },
+    {
+      "character": "Grip",
+      "line": "Well, I might post you outside it sometimes. I prefer to be the only one allowed inside however."
+    },
+    {
+      "character": "Grip",
+      "line": "There's some pretty valuable artefacts in there! Those keys stay ONLY with the head guard and Scarface Pete."
+    },
+    {
+      "character": "Grip",
+      "line": "You'll have various guard related duties on various shifts. I'll assign specific duties as they are required as and when they become necessary. Just so you know, if anything happens to me"
+    },
+    {
+      "character": "Grip",
+      "line": "you'll need to take over as head guard here. You'll find important keys to the treasure room and Pete's quarters inside my jacket - although I doubt anything bad's going to happen to"
+    },
+    {
+      "character": "Grip",
+      "line": "me anytime soon!"
+    },
+    {
+      "character": "Player",
+      "line": "Anything I can do now?"
+    },
+    {
+      "character": "Grip",
+      "line": "Hmm. Well, you could find out what this key opens for me. Apparently it's for something in this building, but for the life of me I can't find what."
+    },
+    {
+      "character": "Grip",
+      "line": "Can't think of anything right now."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'd better sort my new room out."
+    },
+    {
+      "character": "Grip",
+      "line": "Yeah, I'll give you time to settle in. Better get a good nights sleep, I expect you to report for duty at oh five hundred hours tomorrow on the dot!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear... I don't have that with me anymore.."
+    },
+    {
+      "character": "Grip",
+      "line": "Well that's no good! Go get them immediately, then report back for duty."
+    },
+    {
+      "character": "Player",
+      "line": "I can't attack the head guard here! There are too many witnesses around to see me do it! I'd have the whole of Brimhaven after me! Besides, if he dies I want the promotion!"
+    },
+    {
+      "character": "Pirate Guard",
+      "line": "I don't think Mr Grip will like you opening that. That's his private drinks cabinet."
+    },
+    {
+      "character": "Player",
+      "line": "He won't notice me having a quick look."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll leave it."
+    },
+    {
+      "character": "Player",
+      "line": "I have a candlestick now!"
+    },
+    {
+      "character": "Katrine",
+      "line": "Good for you."
+    },
+    {
+      "character": "Katrine",
+      "line": "I'll be giving a master thieves armband to the one who retrieved that. I know it wasn't you."
+    },
+    {
+      "character": "Katrine",
+      "line": "Wow.... is... it REALLY it?"
+    },
+    {
+      "character": "Katrine",
+      "line": "This really is a FINE bit of thievery."
+    },
+    {
+      "character": "Katrine",
+      "line": "Us thieves have been trying to get hold of this one for a while!"
+    },
+    {
+      "character": "Katrine",
+      "line": "You wanted to be ranked as a master thief didn't you? Well, I guess this just about ranks as good enough!"
+    },
+    {
+      "character": "Monk",
+      "line": "Greetings traveller."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I am in search of an Entranan Firebird. Can you help me?"
+    },
+    {
+      "character": "Monk",
+      "line": "Oh ho! Another one! I don't think they exist, but you'd probably ask the head monk about it. If anyone would know, he would!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Monk",
+      "line": "Anything else you wanted to know?"
+    },
+    {
+      "character": "High Priest",
+      "line": "Many greetings. Welcome to our fair island."
+    },
+    {
+      "character": "High Priest",
+      "line": "Well adventurer, I have heard that they exist on this island, but have not ever seen one myself."
+    },
+    {
+      "character": "High Priest",
+      "line": "According to legend however, they are so hot that their merest touch can burn flesh."
+    },
+    {
+      "character": "High Priest",
+      "line": "Apparently long ago a great hero used a pair of magical gloves, stolen from the Queen of the Ice to cool the bird down enough to catch as a pet."
+    },
+    {
+      "character": "Player",
+      "line": "So where would I find this 'Queen of the Ice' then?"
+    },
+    {
+      "character": "High Priest",
+      "line": "I know not adventurer, it was just a myth I was told as a young boy. Perhaps somewhere icy?"
+    },
+    {
+      "character": "Gerrant",
+      "line": "Welcome! You can buy fishing equipment at my store. We'll also buy anything you catch off you."
+    },
+    {
+      "character": "Player",
+      "line": "I want to find out how to catch a lava eel."
+    },
+    {
+      "character": "Gerrant",
+      "line": "Lava eels eh? That's a tricky one that is, you'll need a lava-proof fishing line. The method for making this would be to take an ordinary fishing rod, and then cover it with the fire-proof Blamish Oil."
+    },
+    {
+      "character": "Gerrant",
+      "line": "You know... thinking about it... I may have a jar of Blamish Slime around here somewhere... Now where did I put it?"
+    },
+    {
+      "character": "Gerrant",
+      "line": "Aha! Here it is! Take this slime, mix it with some Harralander and water and you'll have the Blamish Oil you need for treating your fishing rod."
+    },
+    {
+      "character": "Gerrant",
+      "line": "You'll need a lava-proof fishing line. I'm sure I already gave you what you need for this - take an ordinary fishing rod, and then cover it with the fire-proof Blamish Oil."
+    },
+    {
+      "character": "Player",
+      "line": "You know... I'd really rather not."
+    },
+    {
+      "character": "Player",
+      "line": "I have a raw Lava Eel!"
+    },
+    {
+      "character": "Achietties",
+      "line": "That's nice. I require it to be cooked however."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Okay then."
+    },
+    {
+      "character": "Player",
+      "line": "I have all the required items."
+    },
+    {
+      "character": "Achietties",
+      "line": "I see that you have. Well done; Now, to complete the quest, and gain entry to the Heroes' Guild in your final task all that you have to do is..."
+    },
+    {
+      "character": "Player",
+      "line": "W-what? What do you mean? There's MORE???"
+    },
+    {
+      "character": "Achietties",
+      "line": "I'm sorry, I was just having a little fun with you. Just a little Heroes' Guild humour there. What I really meant was"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Achietties",
+      "description": "Middle-aged female, British accent, confident and authoritative tone, a proud warrior who guards the Heroes' Guild with dignified professionalism."
+    },
+    {
+      "name": "Alfonse the waiter",
+      "description": "Middle-aged male, refined British accent, polite and well-mannered tone, a smartly dressed waiter who maintains surprising courtesy despite working in a pirate town."
+    },
+    {
+      "name": "Charlie the cook",
+      "description": "Middle-aged male, warm Spanish-influenced accent, friendly and conspiratorial tone, a laid-back cook who enjoys the tropical lifestyle while secretly serving the Phoenix Gang."
+    },
+    {
+      "name": "Garv",
+      "description": "Adult male, gruff British accent, stern and suspicious tone, a diligent guard who takes his job protecting Scarface Pete's mansion seriously."
+    },
+    {
+      "name": "Gerrant",
+      "description": "Older male, friendly British accent, knowledgeable and helpful tone, an experienced fishmonger who loves sharing his expertise about fishing."
+    },
+    {
+      "name": "Grip",
+      "description": "Middle-aged male, rough British accent, commanding and battle-hardened tone, a scarred veteran guard who takes security very seriously."
+    },
+    {
+      "name": "Grubor",
+      "description": "Adult male, rough Cockney accent, curt and unfriendly tone, a scruffy thief who guards the Black Arm Gang hideout with suspicious hostility."
+    },
+    {
+      "name": "High Priest",
+      "description": "Elderly male, gentle and reverent British accent, wise and serene tone, a devout Saradominist leader who speaks with quiet spiritual authority."
+    },
+    {
+      "name": "Katrine",
+      "description": "Adult female, sharp British accent, assertive and temperamental tone, the ambitious leader of the Black Arm Gang who commands respect through intimidation."
+    },
+    {
+      "name": "Monk",
+      "description": "Adult male, calm British accent, friendly but earnest tone, a devoted cleric who serves peacefully on the holy island of Entrana."
+    },
+    {
+      "name": "Pirate Guard",
+      "description": "Adult male, rough British accent, lazy and indifferent tone, a morally ambiguous guard who does the minimum required for his job."
+    },
+    {
+      "name": "Straven",
+      "description": "Middle-aged male, smooth British accent, cunning and calculating tone, a shrewd crime boss who hides his Phoenix Gang leadership behind a businessman facade."
+    },
+    {
+      "name": "Trobert",
+      "description": "Adult male, refined British accent, businesslike and composed tone, a well-dressed thief who manages Black Arm Gang operations in Brimhaven with professional efficiency."
+    }
+  ]
+}

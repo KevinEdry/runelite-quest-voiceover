@@ -1,0 +1,328 @@
+{
+  "branch": "quest/daddys-home",
+  "quest_name": "Daddy's Home",
+  "lines": [
+    {
+      "character": "Marlo",
+      "line": "Hello - it's lovely to see a Mahogany Homes contractor on their rounds! Now, can I help you with something? Or might you be able to do me a little favour?"
+    },
+    {
+      "character": "Player",
+      "line": "What does this Mahogany Homes company do?"
+    },
+    {
+      "character": "Marlo",
+      "line": "Oh, we redecorate people's houses, fixing things and building new furniture. Mending cabinets, building new chairs and tables - things like that."
+    },
+    {
+      "character": "Marlo",
+      "line": "When a client hires us to redecorate their house, we send a builder round to do the job, and we ensure the builder's paid for their work."
+    },
+    {
+      "character": "Marlo",
+      "line": "We can't hire you for that kind of work now, but perhaps you could do me a little favour instead, if you're willing. I can pay!"
+    },
+    {
+      "character": "Player",
+      "line": "What kind of favour do you want me to do?"
+    },
+    {
+      "character": "Marlo",
+      "line": "Well, you see, it's about my dad. His house is really decrepit. I need someone to rip out the broken furniture and build him some better stuff. I'll pay you if you do it."
+    },
+    {
+      "character": "Player",
+      "line": "Aren't you in a construction company yourself though?"
+    },
+    {
+      "character": "Marlo",
+      "line": "See, my dad just - um - found the house. No-one was using it, so he just settled in. It's all perfectly harmless, and he's a sick old man anyway, so..."
+    },
+    {
+      "character": "Marlo",
+      "line": "Basically, he's not really meant to be there. And we'd prefer that the landlord not find out, so we're keeping this job off the record. I'll pay you myself."
+    },
+    {
+      "character": "Player",
+      "line": "Why has he got such a bad house?"
+    },
+    {
+      "character": "Marlo",
+      "line": "Some kind of economic downturn wiped out his pension plans. It happens more often than you'd think. But I'd rather not talk about it. Can you help him, though?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about the job."
+    },
+    {
+      "character": "Marlo",
+      "line": "Nothing too hard. You'll have to rip out the broken furniture, then build replacements. Dad will talk you through it - he's a retired carpenter himself. He loves talking about construction."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me where he lives, and I'll do the job."
+    },
+    {
+      "character": "Marlo",
+      "line": "Fabulous! Dad lives in the south-east of Varrock, west of Aubury's Rune Shop. His name's Yarlo. Old Man Yarlo, they call him."
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather not."
+    },
+    {
+      "character": "Marlo",
+      "line": "Okay, suit yourself."
+    },
+    {
+      "character": "Marlo",
+      "line": "How are you getting on with helping my dad?"
+    },
+    {
+      "character": "Player",
+      "line": "Where did you say he lived?"
+    },
+    {
+      "character": "Marlo",
+      "line": "Dad lives in the south-east of Varrock, west of Aubury's Rune Shop. His name's Yarlo. Old Man Yarlo, they call him. He's sure to be at home, so keep looking around."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "What brings you here, young man?"
+    },
+    {
+      "character": "Player",
+      "line": "Marlo sent me to fix your furniture."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "My boy Marlo sent you? Oh yes, you've come to help with my furniture. It's in a terrible state. You'll want to start by removing all the tatty old furniture."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "There are two stools, two tables, a chair and a rotten carpet to replace. I need a better bed too. Let me know when you've removed all the old furniture."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Ah, young man, how's the redecoration coming on?"
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing again?"
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "You'll want to start by removing all the tatty old furniture. There are two stools, two tables, a chair and a rotten carpet to remove, as well as the campbed. Let me know when you've done that."
+    },
+    {
+      "character": "Player",
+      "line": "I've been removing the old furniture."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "You still need to remove: - A broken stool in the kitchen - A broken stool in the bedroom - A broken chair in the bedroom"
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "- A broken table in the kitchen - A broken table in the bedroom - The old campbed - The rotten carpet"
+    },
+    {
+      "character": "Player",
+      "line": "I've finished removing all the old furniture."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Jolly good, young man. Now, we'll need to have a talk about what you'll build for me to replace it."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "You see, I used to be a carpenter myself, before the arthritis got me. Such wonderful things I could build. Let me tell you about the things Construction can do for you..."
+    },
+    {
+      "character": "Player",
+      "line": "Is this necessary? I've got a house of my own, in, and I've been learning about Construction for a while."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Now, I was just getting round to telling you about the furniture I want you to build for me. For a start, I'd like two new stools, two new tables and a new chair."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Now, for the bed, I've got something special in mind. This town's quite damp, and I don't want the moisture rising up the bed into my blankets. But I've found some wood that resists water."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "I think that's everything - two stools, two tables, a chair, a bed and a carpet. Off you trot, young man. I'll be here if you have any questions."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "You young people are always rushing around trying to optimise the fun out of life. There are other ways to enjoy the world, you know! But I'm sure you know best."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Do you need some help with the building work, young man?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I build furniture?"
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Ah. Look in the place where the new furniture will go..."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "You'll need a hammer and saw. I can supply those if you need them."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get planks, nails and cloth?"
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "From the sawmill! They sell nails and cloth at reasonable prices. You'd have to take your own logs there, though, to get planks, but there are plenty of trees to chop nearby."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Watch out, though - nails can bend, if you're not careful. You should probably get some spares, just in case."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "You've got a hammer and a saw. I wouldn't be able to offer you anything else."
+    },
+    {
+      "character": "Player",
+      "line": "I need some tools."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Would you like a hammer/saw? I can spare one."
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the waxwood for the bed."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "This town's quite damp, and I don't want the moisture rising up the bed into my blankets. But I've found some wood that resists water."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get on with it."
+    },
+    {
+      "character": "Sawmill Operator",
+      "line": "Do you want me to make some planks for you? I can make planks from wood, oak, teak and mahogany logs. Or would you like to buy some other housing supplies?"
+    },
+    {
+      "character": "Player",
+      "line": "I need some waxwood planks for Old Man Yarlo."
+    },
+    {
+      "character": "Sawmill Operator",
+      "line": "That old geezer? Oh, alright. I won't charge for this, since it's for him."
+    },
+    {
+      "character": "Sawmill Operator",
+      "line": "Hello there. Do you want me to make some planks for you? I can make planks from wood, oak, teak and mahogany logs. Or would you like to buy some other housing supplies?"
+    },
+    {
+      "character": "Sawmill Operator",
+      "line": "I don't know any Old Man Yarlo, and I'd rather not work with that horrible material."
+    },
+    {
+      "character": "Player",
+      "line": "But he said he knew the chap at the sawmill, and you'd make waxwood planks for him."
+    },
+    {
+      "character": "Sawmill Operator",
+      "line": "Perhaps he was thinking of some other sawmill operator."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "That's everything! Thank you so much, young man. Trot off back to my boy Marlo, now. He'll have something for you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll head back to Marlo."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Hello again, young man. Has my boy Marlo rewarded you yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll get round to visiting him soon."
+    },
+    {
+      "character": "Old Man Yarlo",
+      "line": "Yes, you should do that. You've earned it."
+    },
+    {
+      "character": "Player",
+      "line": "I've finished building the new furniture for your dad."
+    },
+    {
+      "character": "Marlo",
+      "line": "That's wonderful news! Dad's going to be so much happier. I'm very grateful! Now, I promised to pay you for your work..."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, what have you got for me?"
+    },
+    {
+      "character": "Marlo",
+      "line": "Now, I can't spare very much money, but I've got some supplies in this crate that might help with your own Construction work."
+    },
+    {
+      "character": "Marlo",
+      "line": "I've included some handy spell tablets that'll take you to your house, to cut down on the walking a bit, as well as one for visiting my boss in Falador. Now, let me tell you some tricks of the trade too..."
+    },
+    {
+      "character": "Player",
+      "line": "Can I do some other kind of building work for you?"
+    },
+    {
+      "character": "Marlo",
+      "line": "I'm so sorry, but you're not qualified to do contracts for Mahogany Homes yet. Just keep helping my dad, for now, and perhaps I can sort that out for you."
+    },
+    {
+      "character": "Marlo",
+      "line": "I haven't forgotten that I promised to pay you for your help. Is this a good time for that?"
+    },
+    {
+      "character": "Marlo",
+      "line": "Now, I can't spare very much money, but I've persuaded the Estate Agent to let me give you a house of your own. You'll be able to decorate it, like you did for my dad's house."
+    },
+    {
+      "character": "Marlo",
+      "line": "Normally a new house costs 1,000 coins, so that's a bit of a saving. Also, I've got a crate of supplies to help you decorate it."
+    },
+    {
+      "character": "Marlo",
+      "line": "I've included some handy spell tablets that'll take you to your house, to cut down on the walking a bit, as well as one for visiting my boss in Falador. Let me tell you some tricks of the trade too..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Marlo",
+      "description": "Young adult male, British accent, friendly and professional tone, an assistant carpenter at Mahogany Homes who is helpful and family-oriented, caring deeply about his elderly father."
+    },
+    {
+      "name": "Old Man Yarlo",
+      "description": "Elderly male, warm and weathered British accent, nostalgic and patient tone, a retired carpenter with dry humor who loves talking about construction despite his humble circumstances."
+    },
+    {
+      "name": "Sawmill Operator",
+      "description": "Middle-aged male, gruff British working-class accent, practical and no-nonsense tone, a busy tradesman who is efficient and direct but accommodating to regular customers."
+    }
+  ]
+}

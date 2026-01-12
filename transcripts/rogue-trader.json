@@ -1,0 +1,1068 @@
+{
+  "branch": "quest/rogue-trader",
+  "quest_name": "Rogue Trader",
+  "lines": [
+    {
+      "character": "Ali Morrisane",
+      "line": "Hello. How's the adventuring going?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Ali. Not bad. How are you?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Still selling."
+    },
+    {
+      "character": "Player",
+      "line": "Anything interesting?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "For you, always. As a matter of fact I have just acquired a fleet of magic carpets, which operate throughout the Kharidian desert."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, that sounds great, how about your stall?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Trade is good, but I would like to expand and diversify, but it's proving a little more difficult than I initially thought."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I think the other merchants in this town are conspiring against me."
+    },
+    {
+      "character": "Player",
+      "line": "Oh come on! You're just being paranoid now."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well maybe I can't get any new suppliers then because I'm Pollnivnian."
+    },
+    {
+      "character": "Player",
+      "line": "You're what?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "From Pollnivneach."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could help you then?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Perhaps you could."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "My friend in Sophanem... Ahh never mind him, maybe we might have a look at him another time."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anyone else you want me to talk to on your behalf?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "There's a blackjack seller in Pollnivneach, a cautious type of guy, not the usual entrepreneurial sort that I would normally deal with, but..."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I think that he has a product with real potential..."
+    },
+    {
+      "character": "Player",
+      "line": "What?.... Blackjacks?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Yes, but at the moment the product isn't polished enough, if you could convince him to create a larger variety of weapon I would gladly stock his products."
+    },
+    {
+      "character": "Player",
+      "line": "What's in this for me?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I thought you wanted to help."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, but everyone seems to be benefiting here but me."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Well the trader gets their product sold, you get your cut, but what do I get?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "You get access to more products. Is that not reward enough?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Hmmm... Perhaps not."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I'll tell you what then, how about I let you have discounted flights on my magic carpet rides?"
+    },
+    {
+      "character": "Player",
+      "line": "Wow that would be great."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Fair enough so, we have a win, win, win situation on our hands then."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Didn't we also agree that you would get discounted travel on my magic carpet network?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh ya, I forgot."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "So what's your problem then?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have one I guess."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Good, that's what I like to hear. Now where were we?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well you had better get going, you've a fair bit of travelling ahead of you. Unless you want to make a small purchase from me first?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm really too busy."
+    },
+    {
+      "character": "Player",
+      "line": "Ok I'll get on to it."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I have an old friend - a cloth merchant Siamun, who lives in Sophanem - Do you know the place?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm..... Images of cats and priests come to mind. Ah yes! There we go, it's the city of the dead South of Pollnivneach isn't it?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "That's the one, well if you could convince him to supply me with some of his merchandise, I would be more than willing to sell them to the masses...... for a small percentage of course."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I think I need just one more product type, something magical... now what could I stock that's magical, has large demand and a pretty good profit margin..."
+    },
+    {
+      "character": "Player",
+      "line": "How about runes?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Yes, that would be perfect, but who could I get that would supply? There really seems to be a gap in the market in the desert but I don't know anyone in that line of business."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on, I know somebody called Aubury, decent fella. I helped him out a while back. Perhaps I could approach him about the idea."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Oh yes, the rune seller from Varrock. That would be perfect. He's far enough away that he wouldn't end up competing with himself."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well the rune market is a limited one, if I were to sell his runes from a location nearby his shop, then I would take part of his market share so he would in fact not benefit from me selling runes."
+    },
+    {
+      "character": "Player",
+      "line": "Ah ha I think I know where this is going. So because you're located far enough away from him you will take up someone else's share in the market and Aubury will make more money as a result."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Very well anticipated."
+    },
+    {
+      "character": "Player",
+      "line": "Ok I'll see what I can do."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "~Sigh."
+    },
+    {
+      "character": "Player",
+      "line": "What's up with you?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well, I always fancied that I could be a great draper, but the way things are looking that's not about to happen any time soon."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I could do to help?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I have a friend - well, actually more of an acquaintance - who lives in Sophanem, some way to the south of here, and who may be able to help. But, from what I've heard, no one can enter or leave the city."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could give it a look."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Is there any chance of getting you to look up a merchant to supply me?"
+    },
+    {
+      "character": "Player",
+      "line": "Who did you want me to talk to again?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Go see Siamun in Sophanem about some clothes."
+    },
+    {
+      "character": "Player",
+      "line": "Right, so I'll go see Siamun of Sophanem."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Good, good."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Could you talk to your friend Aubury in Varrock about supplying me with runes?"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, that could work out quite well. Varrock is always quite busy, so I might try to get a couple of other things done while I'm there."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Don't tarry there too long, I'm quite anxious to get a rune store open before anyone else in this area."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "In Pollnivneach go and talk to the blackjack seller. Convince him to supply me with his produce."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas how I should go about that?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "You're a bright chap. I'm sure you'll work something out."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get to it right away."
+    },
+    {
+      "character": "Player",
+      "line": "Ya, I'll get to it soon."
+    },
+    {
+      "character": "Aubury",
+      "line": "Do you want to buy some runes?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm here with a business proposal from Ali Morrisane."
+    },
+    {
+      "character": "Aubury",
+      "line": "Ali who?"
+    },
+    {
+      "character": "Player",
+      "line": "Ali Morrisane, a salesman of great repute based in Al Kharid."
+    },
+    {
+      "character": "Aubury",
+      "line": "What is this proposal then?"
+    },
+    {
+      "character": "Player",
+      "line": "He wants to set up a rune-selling franchise in the markets of Al Kharid and he wants you to supply him with the stock."
+    },
+    {
+      "character": "Aubury",
+      "line": "Why doesn't he get his own runes and sell them?"
+    },
+    {
+      "character": "Player",
+      "line": "His talents don't lie in that area. What he's good at is selling things, and lots of them."
+    },
+    {
+      "character": "Aubury",
+      "line": "Hmm, interesting... So let's get this straight, he wants me to supply him with runes, which he will sell, and send me the profits?"
+    },
+    {
+      "character": "Player",
+      "line": "Nearly. He will charge a small commission on the runes."
+    },
+    {
+      "character": "Aubury",
+      "line": "Do you think that it will work? Will people actually buy these runes off him?"
+    },
+    {
+      "character": "Player",
+      "line": "I wouldn't be surprised. Supply and demand are his rune essence and ore."
+    },
+    {
+      "character": "Aubury",
+      "line": "Now this is very important, is he trustworthy?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I believe so. Trust is a key part of commerce and something, which I doubt he would neglect."
+    },
+    {
+      "character": "Aubury",
+      "line": "Fair enough, I'll trust your judgement."
+    },
+    {
+      "character": "Player",
+      "line": "So you'll supply him with runes then?"
+    },
+    {
+      "character": "Aubury",
+      "line": "Well if he's half as good a salesman as you suggest I should have no problem in funding my research and maybe even redecorating this place."
+    },
+    {
+      "character": "Aubury",
+      "line": "Oh, sorry, I didn't recognise you for a second, you're back again so soon. Have you spoken to Ali Morrisane yet about the runes?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm... not yet, I'll try to get around to doing that soon."
+    },
+    {
+      "character": "Aubury",
+      "line": "Great! Now, do want to buy some runes?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Good job on getting the rune shipments sorted. I'm just receiving the first of them. Though there seems to be a funny sort of locking mechanism on them, which I haven't completely figured out."
+    },
+    {
+      "character": "Player",
+      "line": "No problem. I might have a look at it later."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Hang on a second."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well at the moment I don't exactly have a selection of runes."
+    },
+    {
+      "character": "Player",
+      "line": "You don't?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Those boxes from your friend Aubury have a very odd locking mechanism."
+    },
+    {
+      "character": "Player",
+      "line": "You have managed to get them off?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Not exactly."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean by 'not exactly'?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "What I mean by 'not exactly' is 'no, I haven't managed to get the lock off'."
+    },
+    {
+      "character": "Player",
+      "line": "Oh."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I was kind of hoping that you would have a look at them. There are two distinctive types of caskets one with a simple locking mechanism and another, which ummm... looks a little tricky to say the least."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll have a go at opening a small casket of runes."
+    },
+    {
+      "character": "Player",
+      "line": "I'm feeling lucky, let's have a look at opening one of those large caskets."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm... This lock looks like it may be impossible to prise open."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm... This lock looks like it may be impossible to pick open."
+    },
+    {
+      "character": "Player",
+      "line": "On second thoughts I don't really need any runes."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Hello. Could I interest you in a Blackjack?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I interest you in a proposal?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "What are we talking about here? Nothing dodgy I hope. I don't like anything dodgy, I had enough of that sort of thing when the bandits and those rogue Menaphites were running things here, so I packed up my things and left."
+    },
+    {
+      "character": "Player",
+      "line": "No no nothing of the sort, a friend of mine Ali Morrisane, have you ever heard of him?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Have I what? He's my idol, he's the greatest salesman in all of Gielinor. Word has it that he even sold..."
+    },
+    {
+      "character": "Player",
+      "line": "...yeah yeah, sand to the Bedabin. Hmpf!! I have heard that story more times that I care for.. Anyway he has a proposal for you..."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "I'm all ears. Does he want to take me on as an apprentice?"
+    },
+    {
+      "character": "Player",
+      "line": "No no nothing of the sort."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Oh...?"
+    },
+    {
+      "character": "Player",
+      "line": "He sees quite a bit of potential in your product."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "The urchins of the town do too, they're always trying to steal my products."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but Ali says if he were to stock your products he would need a larger variation of product."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "I don't know. I'm quite happy with the product that I'm making at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm.. Ali did voice some concerns about you. He said you were an over cautious individual and..."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "He did?"
+    },
+    {
+      "character": "Player",
+      "line": "Look will you create a larger variety of blackjacks or not?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "I don't know."
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do to convince you that you should make a larger variety?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Well I suppose if you could demonstrate to me that they weren't up to the job."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... I'll have to think of a cunning plan."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "What was that?"
+    },
+    {
+      "character": "Player",
+      "line": "What was what? Oh I must have been thinking out loud again, sorry."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Psst... Player Come here."
+    },
+    {
+      "character": "Player",
+      "line": "I bet you couldn't knock me out with your blackjack."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "I reckon I could."
+    },
+    {
+      "character": "Player",
+      "line": "I'll tell you what, if you can't knock me out with one blow, you should make better blackjacks."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Nah, I don't like the sounds of that. It leaves a lot up to chance."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, ok, how about two blows to the head?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Are you sure? I could possibly kill you?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm... on second thoughts I might give it a skip. I just had my hair done, I wouldn't want to mess it up."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Phew! Sighs with relief. At last the voice of reason speaks."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Now if you don't mind I'll be getting back to work. Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure. No pain no gain. Grrr!"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "You adventurers are crazy."
+    },
+    {
+      "character": "Player",
+      "line": "Ow! Ha! You didn't knock me down."
+    },
+    {
+      "character": "Player",
+      "line": "Pah, you didn't even draw blood."
+    },
+    {
+      "character": "Player",
+      "line": "Yeeeoouch that hurt! I'm still standing though You can't knock me down."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "You really are truly mad."
+    },
+    {
+      "character": "Player",
+      "line": "Are you going to hit me again? I really want to get this over with."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Either your head is thicker than it looks or else I need to rework my blackjack."
+    },
+    {
+      "character": "Player",
+      "line": "Umm... definitely the blackjack. You just about fight off another bout of dizziness and nausea."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "I suppose I'll just have to modify the blackjack so that it has a better attack."
+    },
+    {
+      "character": "Player",
+      "line": "Great, so I take it you will be supplying Ali Morrisane with the new variety of blackjack then?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Yes, yes. I'll start shipping it by carpet as soon as the first batch is ready."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Word has it that you're trying to get the blackjack man to change his kit."
+    },
+    {
+      "character": "Player",
+      "line": "How did you know that?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Hey there I heard that you were trying to get the blackjack man to change his gear."
+    },
+    {
+      "character": "Player",
+      "line": "You did?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Do you forget who you're talking to? I'm the fastest and sneakiest urchin in this town."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so what's it to you then?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Well it suits my purpose nearly as much as yours if the blackjack seller produces a wider variety of wares."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Well chances are, he'll produce some even higher quality items for me to steal"
+    },
+    {
+      "character": "Player",
+      "line": "Aha so if you can rob the blackjack seller and get away with it, it should prove to him that his blackjack isn't up to the job?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "There's hope for you yet."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Seeing as we've worked successfully together in the past I will only charge you 100 gold."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Seeing as you owe me from the last bit of work we did together this is going to cost you 300 gold."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much money on me."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Pity, maybe we can do it again sometime."
+    },
+    {
+      "character": "Player",
+      "line": "Woah! That's far too much."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough, here you go."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Now walk up to the merchant, engage him in conversation and leave the rest up to me."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I'm back."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "What is it now?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Yoink!"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Hey come back you thief!"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "That pesky little urchin has done it again! I can't believe it he's managed to rob me again."
+    },
+    {
+      "character": "Player",
+      "line": "Well maybe you should modify the blackjack to have better defensive qualities."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "I might as well. Next time I'll get him."
+    },
+    {
+      "character": "Player",
+      "line": "So I take it you will be supplying Ali Morrisane with the new variety of blackjack then?"
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Oh sorry Player. I mistook you for another customer."
+    },
+    {
+      "character": "Player",
+      "line": "No problem."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Have you checked with Ali Morrisane whether my blackjacks are selling or not?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I have a few thing to do first."
+    },
+    {
+      "character": "Blackjack seller",
+      "line": "Well I would be very grateful if you could have a talk with him sooner rather than later, I am still a little nervous about the new variation of my blackjack."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll get to it."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Hah! Did you see the face on the blackjack seller! Ha boyo! I had to move quick to get out of the way of his blackjack."
+    },
+    {
+      "character": "Player",
+      "line": "You did well. I thought he hit you when swung his blackjack at you."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Ya he nearly did. Boyo, does my head still hurt."
+    },
+    {
+      "character": "Player",
+      "line": "You mean he hit you?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Barely, the trick is in moving with the blow."
+    },
+    {
+      "character": "Player",
+      "line": "I might bear that in mind for next time."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Fantastic job on the blackjacks. I started getting the first batches of them a short time ago, and they've being flying off the shelves, although the demand seems to be dropping off a little."
+    },
+    {
+      "character": "Player",
+      "line": "Not too badly, I hope."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "No, no, they're still selling fine, but if you could perhaps convince the blackjack man to send a different variety the next time you see him, I would be more than happy."
+    },
+    {
+      "character": "Player",
+      "line": "I should like to have a look at them, at some stage."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Siamun?"
+    },
+    {
+      "character": "Siamun",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "So you are Siamun then?"
+    },
+    {
+      "character": "Siamun",
+      "line": "Yes now what do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Wow, are you this friendly to everyone?"
+    },
+    {
+      "character": "Siamun",
+      "line": "Just you. Now what do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "A mutual friend of ours, Ali Morrisane, wants you to supply his stall in Al Kharid with your garments."
+    },
+    {
+      "character": "Siamun",
+      "line": "Now why would I do that?"
+    },
+    {
+      "character": "Player",
+      "line": "Well for one, you'd probably sell more clothes and once the people of Al Kharid see your amazing works of tailoring, I'm sure they'd spread the word of your clothes far and wide."
+    },
+    {
+      "character": "Siamun",
+      "line": "Interesting, but I would need more materials to accomplish what you ask of me."
+    },
+    {
+      "character": "Player",
+      "line": "Well than what do you need?"
+    },
+    {
+      "character": "Siamun",
+      "line": "Either get me 3 pots of dye, or 3 animal pelts of the same variety and whatever you do, don't bring me banknotes!"
+    },
+    {
+      "character": "Siamun",
+      "line": "Hello adventurer. How are sales going?"
+    },
+    {
+      "character": "Player",
+      "line": "Not too bad, Ali was well impressed by the reaction and demand they had initially but he's a little concerned about how the sales have dropped off of recent."
+    },
+    {
+      "character": "Siamun",
+      "line": "Hmmm... Maybe I could produce a different range of products."
+    },
+    {
+      "character": "Siamun",
+      "line": "I'll tell you what, get me 3 pots of dye and I'll change the type of garments I'm sending to Ali and, remember, I won't accept banknotes."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll get you the materials."
+    },
+    {
+      "character": "Siamun",
+      "line": "Unless you've got the materials on you?"
+    },
+    {
+      "character": "Player",
+      "line": "Ummm.. No."
+    },
+    {
+      "character": "Siamun",
+      "line": "Keh! Come back when you have what I need."
+    },
+    {
+      "character": "Player",
+      "line": "Umm... What do you need again?"
+    },
+    {
+      "character": "Siamun",
+      "line": "Three pots of dye, no banknotes. Can you remember that?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so."
+    },
+    {
+      "character": "Siamun",
+      "line": "Good, good."
+    },
+    {
+      "character": "Player",
+      "line": "Ok."
+    },
+    {
+      "character": "Player",
+      "line": "Yup, I've got what you want with me."
+    },
+    {
+      "character": "Siamun",
+      "line": "Thank you adventurer. I will get my goods up to that merchant thief - Ali Morrisane as quickly as possible."
+    },
+    {
+      "character": "Player",
+      "line": "Think nothing of it. I'm looking forward to seeing what you've produced for the Al Kharid market."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Siamun."
+    },
+    {
+      "character": "Siamun",
+      "line": "I tell you what, get me 3 animal pelts of the same variety and I'll change the shipments around and, remember, I won't accept banknotes."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean by animal pelt?"
+    },
+    {
+      "character": "Siamun",
+      "line": "Just get me 3 cowhides, 3 wolf or snake skins or the shearings of 3 sheep. Simpler still get me 3 pots of dye and, remember, I won't accept banknotes."
+    },
+    {
+      "character": "Siamun",
+      "line": "Just get me 3 cowhides, 3 wolf or snake skins or the shearings of 3 sheep and, remember, I won't accept banknotes."
+    },
+    {
+      "character": "Siamun",
+      "line": "Hello adventurer. Have you checked with Ali M whether my garments are selling or not?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I have a few things to do first."
+    },
+    {
+      "character": "Siamun",
+      "line": "Well I would be very much obliged it you could have a talk with him sooner rather than later, I'm not all that sure of the trustworthiness of those carpet men."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Siamun's clothes seem to have really struck a chord with the locals in Al Kharid. Menaphite culture seems to be taking off here, rumour has it that one of Prince Ali's servants bought him one of Siamun's robes."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, that sounds positive."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Quite, if I don't say so myself. But in order to keep things fresh, the next time you're in Sophanem, could you ask that cranky old so-and-so Siamun to produce a new line of clothing?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, why not. The Sultan himself might even buy some of the new range."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "That would be the day."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": ", I would like to commend you on all the selfless help you have given me."
+    },
+    {
+      "character": "Player",
+      "line": "It was nothing, really."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I think you underestimate your efforts. Anyway, as a token of my gratitude I have told all my magic carpet attendants to allow you to travel on the carpets at a discounted rate."
+    },
+    {
+      "character": "Player",
+      "line": "Really, Ali, there is no need."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I insist."
+    },
+    {
+      "character": "Player",
+      "line": "I hear you're planning to expand your business here..."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Of course, my friend. Any good salesman ought to take the opportunities that present themselves."
+    },
+    {
+      "character": "Player",
+      "line": "But your men are threatening the other shopkeepers!"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "That is regrettable, I'm afraid."
+    },
+    {
+      "character": "Player",
+      "line": "And the gnomes don't sound very happy about your magic carpet business."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "A good businessman looks for all the opportunities he can."
+    },
+    {
+      "character": "Player",
+      "line": "Aren't you going to do anything about your men?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well, these associates of my nephew can be somewhat... overenthusiastic."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I'm sure they'll settle down soon."
+    },
+    {
+      "character": "Player",
+      "line": "But they're threatening to hurt the shopkeepers if they don't cooperate!"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well, there's a simple solution there, don't you agree?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you planning to take over all of Al Kharid's shops?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "It's a step in the right direction."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Now, would you like to have a look at my wares?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Player",
+      "line": "What will you do about the gnomes?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "They can continue running their gliders into trees, and I'll keep my business going. Sooner or later it'll all work out in my favour."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so..."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Anyway, before you go, take a look at my wares."
+    },
+    {
+      "character": "Player",
+      "line": "Well, good luck with your business."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Before you go, have a look at my wares."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ali Morrisane",
+      "description": "Middle-aged male, Middle Eastern accent, smooth and persuasive tone, a cunning and charismatic merchant who speaks with confident charm while always angling for the next deal."
+    },
+    {
+      "name": "Aubury",
+      "description": "Middle-aged male, British accent, calm and knowledgeable tone, a scholarly rune merchant who speaks with quiet authority about magic and business matters."
+    },
+    {
+      "name": "Blackjack seller",
+      "description": "Adult male, Middle Eastern accent, cautious and somewhat nervous tone, a humble craftsman who is wary of trouble after years of living under bandit rule."
+    },
+    {
+      "name": "Siamun",
+      "description": "Elderly male, Middle Eastern accent, gruff and irritable tone, a cranky cloth merchant who is dismissive of strangers but takes pride in his craft."
+    },
+    {
+      "name": "Street urchin",
+      "description": "Young male around 12 years old, Middle Eastern accent, cheeky and street-smart tone, a mischievous pickpocket who speaks with quick wit and confidence beyond his years."
+    }
+  ]
+}

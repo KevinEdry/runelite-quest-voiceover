@@ -1,0 +1,320 @@
+{
+  "branch": "quest/devious-minds",
+  "quest_name": "Devious Minds",
+  "lines": [
+    {
+      "character": "Monk",
+      "line": "Good day to you, adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "And to you. What brings you all the way out here?"
+    },
+    {
+      "character": "Monk",
+      "line": "I am on my return journey from the dark lands of Morytania. It would be remiss of me not to stop and take in the glory of Paterdomus before my return to Entrana."
+    },
+    {
+      "character": "Player",
+      "line": "Morytania? That's quite a dangerous place for a monk."
+    },
+    {
+      "character": "Monk",
+      "line": "Indeed, but as a faithful servant of Saradomin, it is my duty to confront the taint of Zamorak, wherever it may be found. Violence is to be abhorred, but at times it is an unfortunate necessity."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Well I'd better leave you to it."
+    },
+    {
+      "character": "Monk",
+      "line": "Before you depart, adventurer, I was wondering if you might be interested in helping me with something?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Monk",
+      "line": "Did you reconsider my request? I'd be very grateful if you'd be able to help me with something."
+    },
+    {
+      "character": "Player",
+      "line": "Of course. What do you need?"
+    },
+    {
+      "character": "Monk",
+      "line": "On my travels in Morytania, I encountered an individual from the lands to the far east. He spoke of a weapon from his homeland that I think would be very valuable in our fight against the darkness."
+    },
+    {
+      "character": "Monk",
+      "line": "If you could help me build one of these weapons, you would be highly rewarded by the Church of Saradomin."
+    },
+    {
+      "character": "Player",
+      "line": "A new weapon? Interesting!"
+    },
+    {
+      "character": "Monk",
+      "line": "Yes, now pay attention. I need you to take a two-handed mithril sword and grind it down to a slender blade. I know of a dwarf living north of Falador whose whetstone is unmatchable. It will be perfect for this task."
+    },
+    {
+      "character": "Monk",
+      "line": "Once the blade is flexible enough, you should then be able to string it with a normal bow string. That is all you need to do."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll be back once I have this weapon."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, but I'm busy right now."
+    },
+    {
+      "character": "Monk",
+      "line": "Ah, well do come and see me if you change your mind."
+    },
+    {
+      "character": "Monk",
+      "line": "Hello again, adventurer. Have you brought the weapon for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, sorry."
+    },
+    {
+      "character": "Monk",
+      "line": "Remember, you need to take a two-handed mithril sword and grind it down to a slender blade. There is a dwarf living north of Falador whose whetstone will be perfect for this."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "I have it right here for you."
+    },
+    {
+      "character": "Monk",
+      "line": "Excellent! Your help won't be forgotten."
+    },
+    {
+      "character": "Monk",
+      "line": "Now, I think it's high time for me to make my return to Entrana. There is a special ceremony taking place soon, and to miss it would fill me with regret."
+    },
+    {
+      "character": "Monk",
+      "line": "On that note, there might be something else you can help me with..."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "Monk",
+      "line": "I have a special gift I wish to present at the ceremony. It's one that I know my fellow monks will appreciate. As such, it feels only right that a special gift is delivered in a special way."
+    },
+    {
+      "character": "Player",
+      "line": "Meaning?"
+    },
+    {
+      "character": "Monk",
+      "line": "I would like my companions to enter the ceremony with no knowledge of the gift. It will then make for a joyous surprise for them. However, to do that, it must be smuggled onto the island."
+    },
+    {
+      "character": "Player",
+      "line": "Smuggled? Sounds a bit shifty."
+    },
+    {
+      "character": "Monk",
+      "line": "I confess, to do so would not quite be in keeping with our rules, but for such a wonderful gift, the opportunity can't be disregarded."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Fair enough. So you want me to sneak this gift onto the island? How do I do that?"
+    },
+    {
+      "character": "Monk",
+      "line": "Our island is home to the Runic Altar of Law. Recently, I have heard whispers of a way to access these altars via another realm."
+    },
+    {
+      "character": "Player",
+      "line": "You speak of the Abyss. I'm familiar with it."
+    },
+    {
+      "character": "Monk",
+      "line": "Excellent! In that case, please take this orb and journey through this 'Abyss' to the island of Entrana. Please do keep the orb safe though, for it is highly delicate."
+    },
+    {
+      "character": "Player",
+      "line": "The Abyss isn't exactly the safest of places."
+    },
+    {
+      "character": "Monk",
+      "line": "The same voices that whispered of this 'Abyss' also spoke of pouches used to store runes. I'm sure a large one of those would be suitable."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll get that done."
+    },
+    {
+      "character": "Monk",
+      "line": "Wonderful! Here is the orb. Once you arrive, just place it on the altar in Entrana's church."
+    },
+    {
+      "character": "Monk",
+      "line": "Hello again. You need to hurry or you'll miss the ceremony."
+    },
+    {
+      "character": "Player",
+      "line": "How am I meant to get there again?"
+    },
+    {
+      "character": "Monk",
+      "line": "Use this 'Abyss' you spoke of to travel to the Runic Altar of Law. When doing so, make sure to put the orb in a large rune pouch to keep it safe."
+    },
+    {
+      "character": "Monk",
+      "line": "Once you arrive, just place the orb on the altar in Entrana's church."
+    },
+    {
+      "character": "Player",
+      "line": "Er... I lost the orb..."
+    },
+    {
+      "character": "Monk",
+      "line": "You're very lucky that I found it. Please be more careful with it this time."
+    },
+    {
+      "character": "High Priest",
+      "line": "The relic! This is a disaster!"
+    },
+    {
+      "character": "High Priest",
+      "line": "Adventurer, did you see who put that teleport beacon on the altar?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... yeah, about that..."
+    },
+    {
+      "character": "High Priest",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "I put it there..."
+    },
+    {
+      "character": "High Priest",
+      "line": "What? Why?"
+    },
+    {
+      "character": "Player",
+      "line": "There was this monk near Paterdomus. He told me it was a gift..."
+    },
+    {
+      "character": "High Priest",
+      "line": "No worshipper of Saradomin would ever do something like this! Adventurer, you must return to Paterdomus and see if you can find any trace of this 'monk'."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go right away."
+    },
+    {
+      "character": "High Priest",
+      "line": "Adventurer, have you found that 'monk' yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "High Priest",
+      "line": "Please hurry to Paterdomus and see if you can find any trace of him."
+    },
+    {
+      "character": "Player",
+      "line": "This isn't good. I'd better get back and tell the High Priest."
+    },
+    {
+      "character": "Player",
+      "line": "I went back to Paterdomus, but all I found was a dead body."
+    },
+    {
+      "character": "High Priest",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "It looked like he'd been killed by magic. The thing is, I'm not convinced he was the person I spoke to before."
+    },
+    {
+      "character": "High Priest",
+      "line": "This is not good. That relic wasn't just for show! It was once part of a powerful artefact. You must report this to Sir Tiffy Cashien in Falador Park."
+    },
+    {
+      "character": "Player",
+      "line": "I'll head there right away."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Jolly good show on getting into the White Knights, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Now how can I help you old ?"
+    },
+    {
+      "character": "Player",
+      "line": "I've got some bad news..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "This wouldn't be about that old relic being stolen from Entrana, would it?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... yeah, how'd you know?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Part of the business, old bean. So what do you know about what went on?"
+    },
+    {
+      "character": "Player",
+      "line": "Well there was this monk who needed help..."
+    },
+    {
+      "character": "Player",
+      "line": "... and so I was told to come see you."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Good, that confirms our own intel. We will get to work at once."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can do to help?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Not yet, but we'll be in touch if we need you, old bean. For now, you should be on your way, but don't worry, we'll get to the bottom of this!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "High Priest",
+      "description": "Elderly male, formal British accent, dignified and measured tone. A powerful Saradominist religious authority, speaks with calm wisdom and ecclesiastical gravitas befitting his high office."
+    },
+    {
+      "name": "Monk",
+      "description": "Adult male, soft British accent, pious and persuasive tone with underlying deception. An assassin disguised as a holy man, speaks with false humility and calculated charm to manipulate the player."
+    },
+    {
+      "name": "Sir Tiffy Cashien",
+      "description": "Elderly male, upper-class British accent, jolly and eccentric tone. A distinguished Temple Knight recruiter who speaks with old-fashioned vernacular like 'What ho!' and 'old bean', cheerfully informal yet authoritative."
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "branch": "quest/misthalin-mystery",
+  "quest_name": "Misthalin Mystery",
+  "lines": [
+    {
+      "character": "Abigale",
+      "line": "Help! Help!"
+    },
+    {
+      "character": "Player",
+      "line": "What has happened here?"
+    },
+    {
+      "character": "Abigale",
+      "line": "We were invited to a house party on an island not far from here... Something felt wrong about the whole thing but we went anyway..."
+    },
+    {
+      "character": "Abigale",
+      "line": "The house seemed pretty creepy, but everything was going fine, we were all having a good time..."
+    },
+    {
+      "character": "Abigale",
+      "line": "...and that's when we got attacked..."
+    },
+    {
+      "character": "Hewey",
+      "line": "I... I tried to save her..."
+    },
+    {
+      "character": "Abigale",
+      "line": "Hewey bought me enough time to find an old boat. I went back to get him but it was too late. I'm scared that he won't make it."
+    },
+    {
+      "character": "Abigale",
+      "line": "You have to do something... they can't get away with this!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you want me to do?"
+    },
+    {
+      "character": "Abigale",
+      "line": "That psycho is still out there, you have to bring them to justice."
+    },
+    {
+      "character": "Abigale",
+      "line": "The boat we escaped on is just over there, you can use it to get to the island."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not getting involved in this!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Please, you need to make sure they don't get away with this! You can use the boat over there to get to the island we escaped from."
+    },
+    {
+      "character": "Player",
+      "line": "I'll have to find the key..."
+    },
+    {
+      "character": "Sid",
+      "line": "Woo, party on bro!"
+    },
+    {
+      "character": "Sid",
+      "line": "Woah, that wind totally just felt like someone breathing on my neck!"
+    },
+    {
+      "character": "Sid",
+      "line": "Whoah, not cool bro..."
+    },
+    {
+      "character": "Sid",
+      "line": "...urgh..."
+    },
+    {
+      "character": "Sid",
+      "line": "...I'm feeling woozy..."
+    },
+    {
+      "character": "Sid",
+      "line": "...gargh..."
+    },
+    {
+      "character": "Sid",
+      "line": "...I see the light..."
+    },
+    {
+      "character": "Sid",
+      "line": "...urrggghhh..."
+    },
+    {
+      "character": "Sid",
+      "line": "...it's not my time...glurgh"
+    },
+    {
+      "character": "Sid",
+      "line": "...gargle...urgh..."
+    },
+    {
+      "character": "Sid",
+      "line": "...glargh...help...me..."
+    },
+    {
+      "character": "Sid",
+      "line": "...urgh...hergle..."
+    },
+    {
+      "character": "Sid",
+      "line": "...flergh."
+    },
+    {
+      "character": "Player",
+      "line": "Gosh, that was horrible and so drawn out!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh wow, he's still going..."
+    },
+    {
+      "character": "Player",
+      "line": "I think he is actually dead this time."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you? Why are you doing this!?"
+    },
+    {
+      "character": "Player",
+      "line": "Gah! I've got to find a way into that house and stop this maniac!"
+    },
+    {
+      "character": "Player",
+      "line": "I wonder what it was that I saw fall into that barrel?"
+    },
+    {
+      "character": "Player",
+      "line": "The barrel is full of rainwater, I can't see what's in there."
+    },
+    {
+      "character": "Player",
+      "line": "Nooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "What's this? A note? I guess I should read it."
+    },
+    {
+      "character": "Player",
+      "line": "The fuse is too damp to light..."
+    },
+    {
+      "character": "Player",
+      "line": "The fuse is lit, I should get out of here before it blows!"
+    },
+    {
+      "character": "Player",
+      "line": "The fuse is already lit! I need to get out of here before it blows!"
+    },
+    {
+      "character": "Lacey",
+      "line": "Please, stop this, just let me go!"
+    },
+    {
+      "character": "Killer",
+      "line": "We're going to play a game. Do you like to play games?"
+    },
+    {
+      "character": "Lacey",
+      "line": "No...yes....whatever you say, just don't hurt me!"
+    },
+    {
+      "character": "Killer",
+      "line": "Whether you get hurt or not is entirely up to you. Your fate is in your own hands."
+    },
+    {
+      "character": "Lacey",
+      "line": "What!? What do you mean!?"
+    },
+    {
+      "character": "Player",
+      "line": "Leave her alone you monster!"
+    },
+    {
+      "character": "Killer",
+      "line": "Ah, how kind of you to join us. Now if you say another word, I will end her right now!"
+    },
+    {
+      "character": "Killer",
+      "line": "Sorry, where were we? Ah yes, of course! The game!"
+    },
+    {
+      "character": "Killer",
+      "line": "Do you like quests, Lacey?"
+    },
+    {
+      "character": "Lacey",
+      "line": "Ummm, sure, I like quests."
+    },
+    {
+      "character": "Killer",
+      "line": "Do you like scary quests?"
+    },
+    {
+      "character": "Lacey",
+      "line": "Uh-huh."
+    },
+    {
+      "character": "Killer",
+      "line": "What's your favourite scary quest?"
+    },
+    {
+      "character": "Lacey",
+      "line": "I don't know."
+    },
+    {
+      "character": "Killer",
+      "line": "You have to have a favourite."
+    },
+    {
+      "character": "Lacey",
+      "line": "Umm.....the one with that vampyre in it who lives in a big house."
+    },
+    {
+      "character": "Killer",
+      "line": "Good, good. And now for that game I spoke about."
+    },
+    {
+      "character": "Killer",
+      "line": "I am going to ask you one question. Get it wrong and you die, but get it right and you live."
+    },
+    {
+      "character": "Lacey",
+      "line": "Oh Guthix please no, please don't, I don't want to die!"
+    },
+    {
+      "character": "Killer",
+      "line": "Then think hard about your answer. You like vampyres so this should be easy for you. The question is this..."
+    },
+    {
+      "character": "Killer",
+      "line": "Who is the Vampyre that resides in South Misthalin?"
+    },
+    {
+      "character": "Lacey",
+      "line": "Urm..."
+    },
+    {
+      "character": "Player",
+      "line": "Count Draynor!"
+    },
+    {
+      "character": "Player",
+      "line": "Count Check!"
+    },
+    {
+      "character": "Player",
+      "line": "Lord Drakan!"
+    },
+    {
+      "character": "Killer",
+      "line": "This game didn't involve you ! Now her death is on you! Her blood is on your hands you fool!"
+    },
+    {
+      "character": "Lacey",
+      "line": "Gargle...urgh..."
+    },
+    {
+      "character": "Lacey",
+      "line": "Oh yes, yes, I know it! Count Draynor!"
+    },
+    {
+      "character": "Lacey",
+      "line": "Ha, in your face you masked freak!"
+    },
+    {
+      "character": "Killer",
+      "line": "Oh Lacey, Lacey, Lacey. I did tell you to think hard about your answer."
+    },
+    {
+      "character": "Killer",
+      "line": "Count Draynor is in fact a vampyre, and he does reside in his manor in Misthalin."
+    },
+    {
+      "character": "Killer",
+      "line": "But that manor is in WEST Misthalin! I was talking about Count Check! Thanks for playing!"
+    },
+    {
+      "character": "Lacey",
+      "line": "No, no you tricked me! This isn't fair, ask me another..."
+    },
+    {
+      "character": "Player",
+      "line": "That monster! I have to stop them! Let's see what that new note says."
+    },
+    {
+      "character": "Player",
+      "line": "There is no time to be playing around!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think that's right... Perhaps the clue the killer left behind could help?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Why am I the one who is always left clearing up after everyone?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Hello? Anyone there?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Hello? Lacey? Sid?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Hmm, well I guess I should go check it out. No point staying in this nice, locked room when I could go outside into the creepy darkness."
+    },
+    {
+      "character": "Player",
+      "line": "Seriously!?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Oh, and I don't think there is any need to take this big, shiny weapon with me in order to defend myself. Nothing bad ever happens when people go check out noises in the dark outside of houses!"
+    },
+    {
+      "character": "Player",
+      "line": "You have got to be kidding..."
+    },
+    {
+      "character": "Mandy",
+      "line": "Ok, well, here I go!"
+    },
+    {
+      "character": "Mandy",
+      "line": "Hello, anyone out here?"
+    },
+    {
+      "character": "Mandy",
+      "line": "See, I knew nothing would happen! Must have just been a squirrel or something running about."
+    },
+    {
+      "character": "Mandy",
+      "line": "Oh well, back to the dishes."
+    },
+    {
+      "character": "Player",
+      "line": "Phew, that was lucky!"
+    },
+    {
+      "character": "Mandy",
+      "line": "No...why...me..."
+    },
+    {
+      "character": "Player",
+      "line": "That psycho! He was just toying with her!"
+    },
+    {
+      "character": "Player",
+      "line": "Another note. This guy really likes playing games, but this is going to be a game he won't win!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think that's the right order.. Perhaps the clue the killer left behind could help?"
+    },
+    {
+      "character": "Player",
+      "line": "Show yourself you coward!"
+    },
+    {
+      "character": "Killer",
+      "line": "So we meet at last. I have to say, I'm impressed you worked out my riddles."
+    },
+    {
+      "character": "Player",
+      "line": "Well maybe you aren't as smart as you think you are."
+    },
+    {
+      "character": "Killer",
+      "line": "Oh really? All the dead bodies suggest otherwise. And what did you do to stop them?"
+    },
+    {
+      "character": "Killer",
+      "line": "NOTHING!"
+    },
+    {
+      "character": "Killer",
+      "line": "People think you are some big hero but you're not. All you adventurers are the same. Nothing but opportunists!"
+    },
+    {
+      "character": "Player",
+      "line": "What are you going on about?"
+    },
+    {
+      "character": "Killer",
+      "line": "Well, I did have this big speech planned out but quite frankly I don't think you are worth the effort it would take to deliver it."
+    },
+    {
+      "character": "Killer",
+      "line": "So, this is the end of the line for you. It is time for the final act. The showdown. The finale. Let's see if you are up to the challenge!"
+    },
+    {
+      "character": "Killer",
+      "line": "*ouch*"
+    },
+    {
+      "character": "Killer",
+      "line": "Ouch!"
+    },
+    {
+      "character": "Killer",
+      "line": "Urgh...I think I may have underestimated you."
+    },
+    {
+      "character": "Player",
+      "line": "You've lost at your own game. And now it is time to see who you really are under that mask!"
+    },
+    {
+      "character": "Player",
+      "line": "No! You!? But why!? Why on earth would you kill all your friends!? Why beg me to come here to help them!?"
+    },
+    {
+      "character": "Abigale",
+      "line": "You just don't get it do you?"
+    },
+    {
+      "character": "Abigale",
+      "line": "So big headed. So used to it all being about you. About you saving the day."
+    },
+    {
+      "character": "Abigale",
+      "line": "Well I'm sick of it!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Abigale",
+      "line": "Adventurers! You're all the same. Everything always has to be about you."
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand?"
+    },
+    {
+      "character": "Abigale",
+      "line": "Of course you wouldn't! Because you can't see past yourself!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Believe it or not... I used to be like you."
+    },
+    {
+      "character": "Abigale",
+      "line": "I'd hear about some damsel in distress and go to help. To have my moment. For me to be the hero, just for once."
+    },
+    {
+      "character": "Abigale",
+      "line": "But YOU! You and every other darned adventurer! Every time I get there to help, it's too late. Crisis solved. Disaster averted. Reward claimed. Every time you and those other adventurers steal my moment!"
+    },
+    {
+      "character": "Abigale",
+      "line": "But not this time!"
+    },
+    {
+      "character": "Abigale",
+      "line": "This time, it is all about me! I'm the star of the show! ME ME ME ME ME!"
+    },
+    {
+      "character": "Player",
+      "line": "Well not any longer. The show is over, and there will be no curtain call."
+    },
+    {
+      "character": "Abigale",
+      "line": "Oh, but there is always a curtain call."
+    },
+    {
+      "character": "Player",
+      "line": "What!? How!? There was another killer!?"
+    },
+    {
+      "character": "Abigale",
+      "line": "Of course. Every good show needs a good supporting actor. Now, take off your mask darling. Take a bow. You have earned it."
+    },
+    {
+      "character": "Killer",
+      "line": "Of course, my love."
+    },
+    {
+      "character": "Player",
+      "line": "You!? But how!? You were almost dead when I saw you! I saw your wounds!"
+    },
+    {
+      "character": "Hewey",
+      "line": "No, what you watched was what we wanted you to watch. A masterful performance if I do say myself."
+    },
+    {
+      "character": "Player",
+      "line": "But what is in this for you?"
+    },
+    {
+      "character": "Hewey",
+      "line": "Everyone loves the limelight, and who better to share it with than my beloved Abigale."
+    },
+    {
+      "character": "Player",
+      "line": "But your friends?"
+    },
+    {
+      "character": "Player",
+      "line": "They didn't deserve to die!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Perhaps not, but neither did I deserve to be cast back into the shadows when I deserve the spotlight!"
+    },
+    {
+      "character": "Hewey",
+      "line": "Yes, while we deserve the spotlight."
+    },
+    {
+      "character": "Abigale",
+      "line": "And now I have my starring role!"
+    },
+    {
+      "character": "Hewey",
+      "line": "OUR starring role."
+    },
+    {
+      "character": "Abigale",
+      "line": "Gielinor will forever remember this night and what I have done here."
+    },
+    {
+      "character": "Hewey",
+      "line": "No, what WE have done!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Quiet Hewey! This is my moment!"
+    },
+    {
+      "character": "Hewey",
+      "line": "No, this is supposed to be our moment! It isn't just all about you either! We were in this together!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Stop ruining this Hewey! I have worked so hard for this and I'm not going to let you take it away from me!"
+    },
+    {
+      "character": "Hewey",
+      "line": "Well I'm not going to be pushed aside either, we were both in this as equals!"
+    },
+    {
+      "character": "Abigale",
+      "line": "We were never equals! How could you possibly compare to me!?"
+    },
+    {
+      "character": "Hewey",
+      "line": "You egotistical, selfish..."
+    },
+    {
+      "character": "Hewey",
+      "line": "No...my love..."
+    },
+    {
+      "character": "Abigale",
+      "line": "No....no...what have I done!?"
+    },
+    {
+      "character": "Abigale",
+      "line": "It wasn't supposed to be like this...but you just couldn't let me have my moment. WHY HEWEY WHY!? I loved you..."
+    },
+    {
+      "character": "Player",
+      "line": "This could be my chance to take advantage of the situation..."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think he's in a very talkative mood."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not going at her empty-handed!"
+    },
+    {
+      "character": "Player",
+      "line": "It would be wiser to use the killer's knife rather than my own weapon..."
+    },
+    {
+      "character": "Player",
+      "line": "Well thank Saradomin that's over! I should get out of here."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think she wants to talk to me right now."
+    },
+    {
+      "character": "Abigale",
+      "line": "You'll never escape me!"
+    },
+    {
+      "character": "Abigale",
+      "line": "You dare try and ruin my moment!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Hewey is dead because of you!"
+    },
+    {
+      "character": "Abigale",
+      "line": "Now it is time for you to join him!"
+    },
+    {
+      "character": "Mandy",
+      "line": "You're not killing anyone else!"
+    },
+    {
+      "character": "Abigale",
+      "line": "No....this can't be it...."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, that was close!"
+    },
+    {
+      "character": "Player",
+      "line": "Mandy, how are you alive!? I watched you get stabbed through the heart!"
+    },
+    {
+      "character": "Mandy",
+      "line": "I did get stabbed, but I was born with a rare condition called Dextrocardia."
+    },
+    {
+      "character": "Player",
+      "line": "Dextrowhat?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Dextrocardia. It means that my heart is on the right side of my chest, not the left like most people."
+    },
+    {
+      "character": "Player",
+      "line": "So when the killer thought they stabbed you in the heart, they actually missed?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Well, missed the heart yes."
+    },
+    {
+      "character": "Mandy",
+      "line": "I did still get stabbed though, and am actually feeling pretty woozy..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, yes, right! You should go sort yourself out!"
+    },
+    {
+      "character": "Mandy",
+      "line": "I will wait outside the house after seeing to this stab wound. You should come talk to me there."
+    },
+    {
+      "character": "Mandy",
+      "line": "Oh hi,."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Mandy. How are you feeling now?"
+    },
+    {
+      "character": "Mandy",
+      "line": "Much better thanks, and lucky to be alive, thanks to you in no small part."
+    },
+    {
+      "character": "Player",
+      "line": "Well we saved the day as a team, so thank you too."
+    },
+    {
+      "character": "Mandy",
+      "line": "I found some stuff in the wardrobe when I was seeing to my wound. You need in your inventory to take it all."
+    },
+    {
+      "character": "Mandy",
+      "line": "Here, I found these in the wardrobe when I was seeing to my wound. I don't want them so please, take them..."
+    },
+    {
+      "character": "Mandy",
+      "line": "Thanks again for your help,. Stay safe."
+    },
+    {
+      "character": "Player",
+      "line": "You too, Mandy."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Abigale",
+      "description": "Young adult female, British accent, initially distressed and pleading tone that shifts to cold and theatrical. A resentful woman consumed by jealousy, dramatic and self-absorbed when her true murderous nature is revealed."
+    },
+    {
+      "name": "Hewey",
+      "description": "Young adult male, British accent, weak and pained tone that becomes sinister. Abigale's devoted accomplice who feigns injury convincingly, later reveals his true romantic and criminal partnership with her."
+    },
+    {
+      "name": "Killer",
+      "description": "Distorted voice, menacing and theatrical tone. A masked figure who speaks with chilling calm and dark humor, toying with victims through sadistic games and riddles."
+    },
+    {
+      "name": "Lacey",
+      "description": "Teenage female, British accent, frightened and confused tone. A ditzy partygoer who becomes terrified when forced to play the killer's deadly trivia game."
+    },
+    {
+      "name": "Mandy",
+      "description": "Young adult female, British accent, exasperated and sarcastic tone. A horror fan who ironically makes terrible decisions, ultimately proving to be resourceful and brave when she survives."
+    },
+    {
+      "name": "Sid",
+      "description": "Young adult male, laid-back Californian surfer accent, carefree and oblivious tone. A party bro who remains cheerfully clueless even as danger approaches, dying with dramatically prolonged death throes."
+    }
+  ]
+}

@@ -1,0 +1,2108 @@
+{
+  "branch": "quest/desert-treasure-i",
+  "quest_name": "Desert Treasure I",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Howdy stranger. What brings you out to these parts?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing much - What are you doing here? It doesn't seem like there's much to do out here in the desert!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well, that's where you'd be wrong. I work for the Archaeological Society of Varrock, and have been excavating around here recently."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Was there something you specifically wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any quests? Call it a hunch, but you look like the type of man who might..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well, it's funny you should say that. I'm not sure if I would really call it a quest as such, but I found this ancient stone tablet in one of my excavations, and it would really help me out if you could go and take it back to the digsite for me and get it examined."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "It's very old, and I don't recognise any of the inscriptions on it."
+    },
+    {
+      "character": "Player",
+      "line": "Sure, I was heading that way anyway. Any particular person at the digsite you want me to talk to?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "His name's Terry Balando. Give it to nobody but him. I'm sorry, I can't entrust you with the actual tablet I found, it is far too valuable to give away, but I took these etchings - they should be enough for him to make"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "a preliminary translation on. Come back and let me know what he says, I would hate to waste my time excavating anything that isn't worth my time as a world famous archaeologist!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks. Playing delivery boy doesn't really sound much like fun to me."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well, okay. Can't say as I blame you for thinking that. I'll go take it there myself later I guess."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you, anyway?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "You don't recognise me??? I am the world famous Asgarnia Smith, Archaeologist extraordinaire!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "I am the one who discovered the long forgotten Temple of Ikov! The one who unearthed the strange trap filled arena in Brimhaven!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "I'm the leading archaeological expert of our time! I was voted archaeologist of the year four years running by the Varrock Herald! Are you REALLY sure you've never heard of me?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I really haven't."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well then, I'm confused. Why did you come over and speak to me if you don't know who I am? What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing really. I'm just wandering around for no good reason."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Uh-huh. Well, if you'll excuse me, I have a lot more work to do before I can bed down for the night."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "So what did Terry Balando say about those etchings? Did he give you a translation for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... yeah... about that... I kind of didn't go and speak to him yet..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well what are you waiting for? A written invitation? All I want you to do is take those etchings up to the digsite for me!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll do that then."
+    },
+    {
+      "character": "Player",
+      "line": "Um... yeah... about that... I kind of lost those etchings you gave me..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well how in the world did you do that? (sigh) Okay, I'll make another set, but try not to lose these ones this time!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, are you Terry Balando?"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "That's right, who wants to know...?"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Ah yes, I recognise you! You're the fellow who found that strange artefact about Zaros for the museum, aren't you? What can I do for you now?"
+    },
+    {
+      "character": "Player",
+      "line": "I had some etchings to deliver to you, but I don't have them on me..."
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Then... you better go get them for me?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. I was in the desert down by the Bedabin Camp, and I found an archaeologist who asked me to deliver this to you."
+    },
+    {
+      "character": "Terry Balando",
+      "line": "You spoke to the legendary Asgarnia Smith??? Quickly, let me see what he had to give you! He is always at the forefront of archaeological breakthroughs!"
+    },
+    {
+      "character": "Player",
+      "line": "So what does the inscription say? Anything interesting?"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "This... this is fascinating! These cuneiforms seem to predate even the settlement we are excavating here... Yes, yes, this is most interesting indeed!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you translate it for me?"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Well, I am not familiar with this particular language, but the similarities inherent in the pictographs seem to show a prevalent trend towards a syllabary consistent with the phonemes we have discovered in this excavation!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... So, can you translate it for me or not?"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Well, unfortunately this is the only example of this particular language I have ever seen, but I might be able to make a rough translation, of sorts..."
+    },
+    {
+      "character": "Terry Balando",
+      "line": "It might be slightly obscure on the finer details, but it should be good enough to understand the rough meaning of what was originally written. Please, just wait a moment, I will write up what I can"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "translate into a journal for you. Then you can take it back to Asgarnia, I think he will be extremely interested in the translation!"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "There you go, that book contains the sum of my translating ability. If you would be so kind as to take that back to Asgarnia, I think it will reassure him that he is on the"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "right track for a find of great archaeological importance"
+    },
+    {
+      "character": "Player",
+      "line": "Wow! You write really quickly don't you?"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "What can I say? It's a skill I picked up through my many years of taking field notes!"
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Hello again. Was that translation any use to Asgarnia?"
+    },
+    {
+      "character": "Player",
+      "line": "I, uh, kind of didn't take it to him yet..."
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Whyever not? You're the strangest delivery boy I've ever met!"
+    },
+    {
+      "character": "Player",
+      "line": "I lost that translation you gave me..."
+    },
+    {
+      "character": "Terry Balando",
+      "line": "Oh, no matter, I mostly remember what it said anyway! Here you go!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, he did. But I don't have it with me."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "I see."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well could you go and get me that translation? It could be vital!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, he did. I have it here in this book."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Did you take a ready of this? It will do you good to understand how this profession works. Here, have a read."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I did. Kind of boring really."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Excellent. Just give me a moment to read this, and talk to me again in a second."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Hmmm. Interesting. It seems to me like there's some kind of treasure hidden out in the desert."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "So what do you say? Fancy being a treasure hunter like me?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... don't you mean archaeologist?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Yeeees... An archaeologist..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "It's all this hot sun getting to me I think."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well anyway, let's just assume there is a treasure hidden in the desert somewhere, and let's just say for the sake of argument that maybe if I found a big stash of gold and treasure I wouldn't necessarily just hand it"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "all over to the Museum of Varrock."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Let's also say, purely hypothetically, that if there were such a big stash of treasure and someone were to help me find it, then that hypothetical personal might be entitled to, oh, let's say a purely for the sake of"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "argument thirty percent split..."
+    },
+    {
+      "character": "Player",
+      "line": "Fifty percent."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "That's right!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "A purely for the sake of argument fifty-fifty split on this hypothetical treasure, should it exist..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Do you see where I'm going with this?"
+    },
+    {
+      "character": "Player",
+      "line": "You want me to help you find some treasure for a fifty percent share, as long as I don't tell anybody, and your reputation as an esteemed archaeologist with the Museum of Varrock remains intact, and nobody"
+    },
+    {
+      "character": "Player",
+      "line": "discovers you're actually just a treasure hunter?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Uh... yes, but the way you said it makes it sound like I'm doing something wrong..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "So what do you say? Partners?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... I guess nobody is really going to lose out on anything, and we don't even know if there is any treasure..."
+    },
+    {
+      "character": "Player",
+      "line": "Aw, go on then. Count me in."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Good lad! Well, if we split up we'll be able to find treasure quicker."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "I'll continue searching around here in this Bedabin Camp, you head due South to the Bandit Village. If either of us find anything, we'll come find each other and say what, okay?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "You head due South, see what you can find out about this tablet."
+    },
+    {
+      "character": "Player",
+      "line": "This all sounds very immoral, and I don't want any part of your seedy little schemes."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Aw, c'mon, cut me a break here man! Look, nobody is really getting hurt, right? This treasure is either going to lie around in some underground ruin, or lie around in some museum for"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "people to look at!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "It makes sense for the people to go to all the risk to get a little payback for it, right? Besides, anything of real historical value we can hand over to the museum - we'll just keep the cash for"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "ourselves!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "C'mon... what do you say? Partners?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't trust anything about your little scheme, including you! I want nothing to do with this!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Eh, you'll come running back when you realize just how much money we could be talking here."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "I'll see you again when you come crawling back, begging to be cut in on the deal."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Hello again. You find any signs of that treasure yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well, head south to that bandit camp. I bet if there's anything out here, they'll know about it."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Don't let on it might be valuable though! Those thieves will steal it as soon as look at you!"
+    },
+    {
+      "character": "Player",
+      "line": "I think it was, thanks!"
+    },
+    {
+      "character": "Bandit",
+      "line": "What do you want lad?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm here on an archaeological expedition for the Museum of Varrock."
+    },
+    {
+      "character": "Player",
+      "line": "I believe there may be some interesting artefacts in the area."
+    },
+    {
+      "character": "Bandit",
+      "line": "You are a crazy man. The only thing you will find out here in the desert is your death."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. I represent the Museum of Varrock, and I have reason to believe there may be some kinds of artefacts of historical significance in the nearby area..."
+    },
+    {
+      "character": "Eblis",
+      "line": "Ah yes. The only time people care about our existence is when they think they have something to gain from us."
+    },
+    {
+      "character": "Eblis",
+      "line": "I have nothing to say to you. You and your kind are not welcome here."
+    },
+    {
+      "character": "Player",
+      "line": "Please, if I can just have a few minutes of your time to ask some questions...?"
+    },
+    {
+      "character": "Eblis",
+      "line": "(sigh) I suppose I can spare you that. What do you wish to know about?"
+    },
+    {
+      "character": "Player",
+      "line": "Why are all of the people here so hostile? You would think I was asking you for money instead of just for answers to a few questions..."
+    },
+    {
+      "character": "Eblis",
+      "line": "It is a long story, and I doubt you have much interest in hearing it. Your sort never are, you just take what you can of ours, and then abandon us once more to the desert."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'd be quite interested to hear what it is you have to say to excuse the attitude everybody in this village seems to have."
+    },
+    {
+      "character": "Eblis",
+      "line": "Ah, it all begun many generations ago, when our ancestors were the proud rulers of these lands..."
+    },
+    {
+      "character": "Eblis",
+      "line": "My ancestors lived far to the North of here, and our lands stretched from the sea in the East to the river Lum, and the mountain of ice. From coast to coast, North to South, our domain was absolute."
+    },
+    {
+      "character": "Eblis",
+      "line": "Our god was kind to us, and blessed us with prosperity and happiness, and in return we were merciless to his enemies wherever we found them."
+    },
+    {
+      "character": "Eblis",
+      "line": "Then came the betrayal."
+    },
+    {
+      "character": "Eblis",
+      "line": "Our god was banished, leaving us helpless to our fates."
+    },
+    {
+      "character": "Eblis",
+      "line": "Without his protection, we were forced to fend for ourselves once more, against the enemies that sought to destroy us through their petty jealousies."
+    },
+    {
+      "character": "Eblis",
+      "line": "But we did not succumb without fighting! The spiteful Saradomin and pathetic Zamorak warred with each other, but the hatred they had for each other was as nothing to the hatred they held towards us!"
+    },
+    {
+      "character": "Eblis",
+      "line": "With each battle they waged, we lost more and more land, unable to fight on all fronts, and were pushed further and further South into this gods-forsaken desert."
+    },
+    {
+      "character": "Eblis",
+      "line": "Our greatest hero, Azzanadra, was finally trapped in a strange stone structure to the South of here, and bound within by terrible powers..."
+    },
+    {
+      "character": "Eblis",
+      "line": "And with that our lands, our homes, our very lives were stolen from us! Too weak to reclaim what was rightfully ours, we made our homes here, knowing that someday Azzanadra will"
+    },
+    {
+      "character": "Eblis",
+      "line": "return with his magnificent power, and bring us back to our former glory..."
+    },
+    {
+      "character": "Player",
+      "line": "So you're upset because of something that happened hundreds of years ago?"
+    },
+    {
+      "character": "Player",
+      "line": "Seems to me like maybe you should find some closure, and let the past go..."
+    },
+    {
+      "character": "Eblis",
+      "line": "The insults heaped upon my race will never be forgotten, will never be forgiven and will never again be overlooked."
+    },
+    {
+      "character": "Eblis",
+      "line": "Someday, a harsh wind will blow upon this land, uncovering the wrongs of the past, and we will get back what is rightfully ours. Until such a day we will bide our time here, and will"
+    },
+    {
+      "character": "Eblis",
+      "line": "always be ready with our blades for our righteous vengeance."
+    },
+    {
+      "character": "Player",
+      "line": "I don't really care what your story is to be honest, there is no excuse for such rudeness or hostility."
+    },
+    {
+      "character": "Player",
+      "line": "I have done nothing wrong to you, but everybody here treats me like I have committed some great crime against the village."
+    },
+    {
+      "character": "Eblis",
+      "line": "That is because, from our point of view, you have."
+    },
+    {
+      "character": "Player",
+      "line": "What? Just because I entered your village?"
+    },
+    {
+      "character": "Eblis",
+      "line": "You have no right to be here! You have no right to the life you have, for it was taken at our expense!"
+    },
+    {
+      "character": "Player",
+      "line": "Whatever... No wonder all you loonies live out here in the desert by yourselves."
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering if you knew anything about some treasure somewhere around here?"
+    },
+    {
+      "character": "Player",
+      "line": "I have some evidence that there might be some kind of treasure hidden very close to this village..."
+    },
+    {
+      "character": "Eblis",
+      "line": "If I knew of any treasure I would not choose to spend my life in this gods-forsaken desert."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about some kind of fortress nearby? I have reason to believe there is, or at least used to be, some kind of fortress very close to here..."
+    },
+    {
+      "character": "Eblis",
+      "line": "Nobody would build anything in this wasteland unless they were forced to, to survive."
+    },
+    {
+      "character": "Eblis",
+      "line": "I know of no fortress, I know of no reason why anyone would ever bother doing anything out here in the desert."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, there was nothing I really wanted to ask you about."
+    },
+    {
+      "character": "Eblis",
+      "line": "Yes, it is exactly like your sort to waste my time in such a way."
+    },
+    {
+      "character": "Bartender",
+      "line": "If you're not buying anything, I have nothing to say to you."
+    },
+    {
+      "character": "Player",
+      "line": "As I understand it there's some kind of hidden treasure in these parts..."
+    },
+    {
+      "character": "Bartender",
+      "line": "Look around pal. Does it looks like there's any treasure near here?"
+    },
+    {
+      "character": "Bartender",
+      "line": "If I were you I'd get lost before someone takes a dislike to your face and removes it for you."
+    },
+    {
+      "character": "Bartender",
+      "line": "You ain't got the 650 coins it costs to buy it, and I'm glad 'cos I didn't want to serve you anyway."
+    },
+    {
+      "character": "Bartender",
+      "line": "What's that? You wanna buy a beer? It'll cost ya 650 coins."
+    },
+    {
+      "character": "Bartender",
+      "line": "There you go. Now get out, we don't like your sort around here."
+    },
+    {
+      "character": "Bartender",
+      "line": "Get out of my bar then! We don't like your sort round here!"
+    },
+    {
+      "character": "Bartender",
+      "line": "You've had your drink, now get out of here. I have nothing to say to the-"
+    },
+    {
+      "character": "Player",
+      "line": "No, Wait! Look, I'm here on an archaeological expedition for the Museum of Varrock."
+    },
+    {
+      "character": "Player",
+      "line": "I am only here looking for artefacts..."
+    },
+    {
+      "character": "Bartender",
+      "line": "Oh really? Our inheritance is only sand and death. What do you expect to find out here in this desert forsaken by the gods?"
+    },
+    {
+      "character": "Player",
+      "line": "I heard a rumour about four diamonds or crystals..."
+    },
+    {
+      "character": "Bartender",
+      "line": "The four diamonds of Azzanadra??? How came you to know of this?"
+    },
+    {
+      "character": "Player",
+      "line": "You've heard of them then?"
+    },
+    {
+      "character": "Bartender",
+      "line": "It's just a fairy tale for children. Maybe one of the village elders might know more, but it's not really something I care about."
+    },
+    {
+      "character": "Bartender",
+      "line": "Now get out of here, your sort isn't welcome in my bar."
+    },
+    {
+      "character": "Player",
+      "line": "Certain things have led me to believe there may be some kind of ruined fortress around here..."
+    },
+    {
+      "character": "Bartender",
+      "line": "Doubt it. What in the world would someone need to guard against in the middle of this desert?"
+    },
+    {
+      "character": "Bartender",
+      "line": "A bad attack of sand? I think you're on the wrong track, mister so-called archaeologist."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me all you know about the Diamonds of Azzanadra."
+    },
+    {
+      "character": "Bartender",
+      "line": "Not that I think it's any of your business, but when I was a child I remember hearing the legend."
+    },
+    {
+      "character": "Bartender",
+      "line": "I don't recall it particularly well, other than they are said to contain an incredible power."
+    },
+    {
+      "character": "Bartender",
+      "line": "If you really want to hear more about it you'd be best off finding someone who cares about the past, and the history of this area, and stop bothering me."
+    },
+    {
+      "character": "Player",
+      "line": "So tell me... Did you ever hear of something called the Diamonds of Azzanadra?"
+    },
+    {
+      "character": "Eblis",
+      "line": "This is the treasure which you seek???"
+    },
+    {
+      "character": "Eblis",
+      "line": "Please accept my apologies noble sir! I thought you were but some opportunistic thief, looking to steal what heritage we have left! Now I see that you are in fact a brave adventurer,"
+    },
+    {
+      "character": "Eblis",
+      "line": "looking to restore our glories back upon us!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... yeah... So anyway, you have heard of them?"
+    },
+    {
+      "character": "Eblis",
+      "line": "Heard of them? Of course I have heard of them! They are the legacy of the great Mahjarrat hero, Azzanadra!"
+    },
+    {
+      "character": "Player",
+      "line": "So... do you have any idea where they might be? I have a feeling they will be very valuable."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, valuable as historical artefacts I mean, obviously."
+    },
+    {
+      "character": "Eblis",
+      "line": "They were stolen by warriors of the false god Zamorak generations ago. When you find the warriors, you will find the diamonds."
+    },
+    {
+      "character": "Eblis",
+      "line": "I suspect they will not willingly part with such objects of power however."
+    },
+    {
+      "character": "Eblis",
+      "line": "Beware too, for these warriors are very powerful; they have taken the powers of the diamonds into themselves!"
+    },
+    {
+      "character": "Player",
+      "line": "How do you mean?"
+    },
+    {
+      "character": "Eblis",
+      "line": "Each diamond has an elemental quality..."
+    },
+    {
+      "character": "Eblis",
+      "line": "There is the Diamond of Blood, the Diamond of Ice, the Diamond of Smoke and the Diamond of Shadow."
+    },
+    {
+      "character": "Eblis",
+      "line": "You should expect the warriors to have taken some aspect of these diamonds as their own..."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any idea how I could track down these warriors somehow, then?"
+    },
+    {
+      "character": "Eblis",
+      "line": "There is an ancient spell I know of that may spy upon such power... But it will require a few ingredients for it to work."
+    },
+    {
+      "character": "Eblis",
+      "line": "Should you be willing to get these ingredients for me, I will be able to locate the rough area where each of these warriors has taken refuge. The spell is imprecise, but it should help you get on the"
+    },
+    {
+      "character": "Eblis",
+      "line": "right track in your search."
+    },
+    {
+      "character": "Eblis",
+      "line": "Is your desire for our freedom strong enough? Will you gather the ingredients for this spell for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, what do you need?"
+    },
+    {
+      "character": "Eblis",
+      "line": "For this spell, I will need to make some scrying glasses. I will need enough so that we can view the realm in its entirety."
+    },
+    {
+      "character": "Eblis",
+      "line": "When enchanted, the scrying glass will be able to let us view any area that has been influenced by the presence of the Diamonds of Azzanadra."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, but what exactly do you need for this spell?"
+    },
+    {
+      "character": "Eblis",
+      "line": "Well, six scrying glasses should be sufficient. For each scrying glass, I will need two magic logs, a steel bar and some molten glass. This makes a total of 12 magic logs, 6 pieces of molten"
+    },
+    {
+      "character": "Eblis",
+      "line": "glass, and 6 steel bars."
+    },
+    {
+      "character": "Eblis",
+      "line": "In addition, for the actual spell to enchant the glasses, I will require one set of normal bones, some ash, some charcoal and a single blood rune."
+    },
+    {
+      "character": "Eblis",
+      "line": "Do you understand me, adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "Quick question; what kind of bones do you need?"
+    },
+    {
+      "character": "Eblis",
+      "line": "Standard bones. Other types of bones are of no use to me in this spell."
+    },
+    {
+      "character": "Player",
+      "line": "It's a slightly odd collection of ingredients, but I shouldn't have too much trouble getting those for you."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I don't feel like going on a shopping trip for you right now."
+    },
+    {
+      "character": "Eblis",
+      "line": "As you wish. I should have known not to get my hopes up that our long cursed life may soon be at an end..."
+    },
+    {
+      "character": "Player",
+      "line": "I have some of the stuff you are looking for with me..."
+    },
+    {
+      "character": "Eblis",
+      "line": "Thank you, pass over the ingredients so that I may begin working on the spell."
+    },
+    {
+      "character": "Eblis",
+      "line": "Before I can complete the spell I will still need the following items;"
+    },
+    {
+      "character": "Eblis",
+      "line": "12 magic logs 6 steel bars 6 molten glass"
+    },
+    {
+      "character": "Eblis",
+      "line": "1 bones, 1 ashes, 1 charcoal and 1 blood rune"
+    },
+    {
+      "character": "Eblis",
+      "line": "Thank you, that is enough ash for the spell."
+    },
+    {
+      "character": "Eblis",
+      "line": "Thank you, those are enough bones for the spell."
+    },
+    {
+      "character": "Eblis",
+      "line": "Thank you, that is enough charcoal for the spell."
+    },
+    {
+      "character": "Eblis",
+      "line": "Thank you, that blood rune should be sufficient for the spell."
+    },
+    {
+      "character": "Eblis",
+      "line": "Excellent! Those are all the ingredients I need to create the scrying glasses."
+    },
+    {
+      "character": "Eblis",
+      "line": "I will find a suitable spot in the desert to the East of here, and set them up. When you are ready to begin your search, please come and find me there, I will show you how to utilise the"
+    },
+    {
+      "character": "Eblis",
+      "line": "mirrors to find the diamonds."
+    },
+    {
+      "character": "Eblis",
+      "line": "Meet me again in the desert East of here, I will use these ingredients to create a scrying glass for you."
+    },
+    {
+      "character": "Player",
+      "line": "So can you give me any help on where to find these warriors and their diamonds?"
+    },
+    {
+      "character": "Eblis",
+      "line": "No, the magic used in this spell is powerful, but inaccurate. The direction the scrying glass faces is roughly the direction you will find the warrior, but I'm afraid I"
+    },
+    {
+      "character": "Eblis",
+      "line": "can't be any more help than that."
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand why there are six mirrors when there are only four diamonds..."
+    },
+    {
+      "character": "Eblis",
+      "line": "As I say, the enchantment is very inaccurate."
+    },
+    {
+      "character": "Eblis",
+      "line": "I can only focus upon the aura the diamonds have left behind them, so any place where the Diamonds were present for a significant period of time will still be shown - such as the Bandit Camp where I make my home."
+    },
+    {
+      "character": "Eblis",
+      "line": "My apologies, but magic is an inaccurate art in many respects."
+    },
+    {
+      "character": "Eblis",
+      "line": "Don't forget to come back here when you have collected all four diamonds."
+    },
+    {
+      "character": "Player",
+      "line": "Not as such... Although I think I'm onto something of a promising lead..."
+    },
+    {
+      "character": "Player",
+      "line": "Did you ever hear of something called the Diamonds of Azzanadra?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Diamonds of Azzanadra? That sounds very promising indeed!"
+    },
+    {
+      "character": "Player",
+      "line": "So you have heard of them?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Nope, never heard of them before, but you said diamonds! Diamonds are always promising!"
+    },
+    {
+      "character": "Rasolo",
+      "line": "Greetings friend. I am Rasolo, the famous merchant. Would you care to see my wares?"
+    },
+    {
+      "character": "Player",
+      "line": "No, actually I was looking for something specific..."
+    },
+    {
+      "character": "Rasolo",
+      "line": "Hmmmm? And what would that be?"
+    },
+    {
+      "character": "Player",
+      "line": "I am looking for one of the Diamonds of Azzanadra. I have reason to believe it may be somewhere around here..."
+    },
+    {
+      "character": "Rasolo",
+      "line": "Ahhh... The Shadow Diamond..."
+    },
+    {
+      "character": "Rasolo",
+      "line": "I know the object of which you speak. It is guarded by a fearsome warrior known as Damis, they say, who lives in the shadows, invisible to prying eyes..."
+    },
+    {
+      "character": "Player",
+      "line": "How can I find this 'Damis' then?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "Well now... perhaps we can help each other out here."
+    },
+    {
+      "character": "Rasolo",
+      "line": "I have in my possession a small trinket, a ring, that allows its wearer to see the unseen..."
+    },
+    {
+      "character": "Player",
+      "line": "How much do you want for it?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "Ah, but it is not for sale... As such..."
+    },
+    {
+      "character": "Rasolo",
+      "line": "I am offering to trade it for an item that was rightfully mine, but that was stolen by a bandit named Laheeb."
+    },
+    {
+      "character": "Rasolo",
+      "line": "The item is question is a gilded cross, that has some sentimental value to myself. I wish for you to recover this item for me, and I will happily let you have my ring of visibility."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find this Laheeb?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "Well, as a travelling merchant I have roamed these lands for many years..."
+    },
+    {
+      "character": "Rasolo",
+      "line": "To the far east of here there is an area that is dry and barren like the desert... it is called..."
+    },
+    {
+      "character": "Player",
+      "line": "Al Kharid?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "...Yes, Al Kharid. Now to the south of Al Kharid there is a passageway, it is called the..."
+    },
+    {
+      "character": "Player",
+      "line": "Shantay Pass."
+    },
+    {
+      "character": "Rasolo",
+      "line": "...Yes. I didn't realise you had travelled there yourself."
+    },
+    {
+      "character": "Rasolo",
+      "line": "Anyway, when you have gone through the Shantay Pass, you will find yourself in a hostile desert... You will need to bring water with you to keep your life. Now, to the south-west of this pass, you will find a small"
+    },
+    {
+      "character": "Rasolo",
+      "line": "village..."
+    },
+    {
+      "character": "Player",
+      "line": "The Bedabin camp."
+    },
+    {
+      "character": "Rasolo",
+      "line": "If you know where Laheeb lives, why did you ask me?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't. Sorry, please continue."
+    },
+    {
+      "character": "Rasolo",
+      "line": "Well, okay then. Anyway, south of this encampment there is an area where few have ever been... It is a village of murderous bandits, and treacherous"
+    },
+    {
+      "character": "Rasolo",
+      "line": "thieves... This is where Laheeb makes his home."
+    },
+    {
+      "character": "Rasolo",
+      "line": "He will have hidden his stolen treasure somewhere in that village, I am sure of it. When you find his loot, you will find my gilded cross. Return it to me, and I will reward you with my ring"
+    },
+    {
+      "character": "Rasolo",
+      "line": "of visibility, so that you may find Damis. Does this seem fair to you?"
+    },
+    {
+      "character": "Player",
+      "line": "Not a problem. I'll be back with your cross before you know it."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like too much effort to me. I'll find this Damis by myself."
+    },
+    {
+      "character": "Rasolo",
+      "line": "As you wish."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find this Damis again?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "I have already told you, he is of the shadows. You will see neither him nor his lair without the aid of magic."
+    },
+    {
+      "character": "Rasolo",
+      "line": "Have you retrieved my gilded cross for me yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet..."
+    },
+    {
+      "character": "Rasolo",
+      "line": "Well what seems to be the problem?"
+    },
+    {
+      "character": "Player",
+      "line": "Can't I just buy your ring?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "No, it is not for sale. Some things are more important than money, and the return of my gilded cross is one of them."
+    },
+    {
+      "character": "Player",
+      "line": "Is Damis near here, then?"
+    },
+    {
+      "character": "Rasolo",
+      "line": "You would be surprised to know just how close he is..."
+    },
+    {
+      "character": "Roavar",
+      "line": "M-my lord Malak, what brings you here?"
+    },
+    {
+      "character": "Malak",
+      "line": "Hmmm? You know very well that your tithe is due, Roavar."
+    },
+    {
+      "character": "Malak",
+      "line": "I am here to collect it this time."
+    },
+    {
+      "character": "Roavar",
+      "line": "Y-yes of course, sire, but surely your graciousness is too important to perform such menial duties such as this himself?"
+    },
+    {
+      "character": "Roavar",
+      "line": "Is this not Gadderanks job, your most high beneficence?"
+    },
+    {
+      "character": "Malak",
+      "line": "Indeed it is Roavar, but I cannot find that incompetent fool. And assuming you are not the one who wishes to tell Lord Drakan that his tithe has not been collected, I saw"
+    },
+    {
+      "character": "Malak",
+      "line": "fit to take on the duty myself this time."
+    },
+    {
+      "character": "Roavar",
+      "line": "Of course my lord, I meant no disrespect."
+    },
+    {
+      "character": "Malak",
+      "line": "So you have the tithe ready for me?"
+    },
+    {
+      "character": "Roavar",
+      "line": "Of course my lord, I trust you will find it all there and in good order."
+    },
+    {
+      "character": "Malak",
+      "line": "Hmmm. Well, for your sake you had better hope that indeed it is."
+    },
+    {
+      "character": "Malak",
+      "line": "The mood I am in for having to come to this wolfen cesspit means any shortfall is coming from you directly."
+    },
+    {
+      "character": "Malak",
+      "line": "Then again... perhaps this was not a total waste of my time after all."
+    },
+    {
+      "character": "Malak",
+      "line": "You there!"
+    },
+    {
+      "character": "Player",
+      "line": "M-me?"
+    },
+    {
+      "character": "Malak",
+      "line": "Yes, you. Your bearing suggests you are not one of the usual peasants, and your stench suggests you are not one of these filthy wolfen folk."
+    },
+    {
+      "character": "Malak",
+      "line": "Come here, I would like to know what you are doing in these lands."
+    },
+    {
+      "character": "Malak",
+      "line": "A human, eh? Don't think that silly little ring of yours will fool me. Give me one good reason why I should not just take you to Lord Drakan now."
+    },
+    {
+      "character": "Malak",
+      "line": "A human, eh? Give me one good reason why I should not just take you to Lord Drakan now."
+    },
+    {
+      "character": "Malak",
+      "line": "You had better make it a good one too, or you will not survive the night, I'll wager."
+    },
+    {
+      "character": "Player",
+      "line": "I am here to worship the almighty Zamorak! Yay! Go Zamorak!"
+    },
+    {
+      "character": "Malak",
+      "line": "I see. You are a moron. You have probably settled right in with the rest of the idiots in this pathetic excuse for a village."
+    },
+    {
+      "character": "Malak",
+      "line": "Unfortunately for you, that is not a good enough reason to explain your presence here."
+    },
+    {
+      "character": "Malak",
+      "line": "Now tell me the reason for your coming here, or I will ensure you suffer a horrible fate indeed."
+    },
+    {
+      "character": "Player",
+      "line": "I am here only to serve the mighty Drakan. Yup, Drakan, he's the man."
+    },
+    {
+      "character": "Malak",
+      "line": "I see. I would perhaps be more inclined to believe you if I could not smell the death blood of his brother Draynor upon you."
+    },
+    {
+      "character": "Malak",
+      "line": "What are you real intentions here?"
+    },
+    {
+      "character": "Malak",
+      "line": "Really? That is interesting, that you would want to give your life by tresspassing in this land for such an unbelievable reason."
+    },
+    {
+      "character": "Malak",
+      "line": "Now speak, what is your purpose in coming here?"
+    },
+    {
+      "character": "Player",
+      "line": "I came here looking for you, oh mighty Malak, so that I might serve your glory."
+    },
+    {
+      "character": "Malak",
+      "line": "Please. Do not think that I am so vain and foolish as to allow you to avoid my question with such obvious sycophancy."
+    },
+    {
+      "character": "Malak",
+      "line": "Now tell me the reason behind your being here, or I will ensure that you suffer."
+    },
+    {
+      "character": "Player",
+      "line": "I am here to kill Lord Drakan, and every stinking one of his vampyre brood!"
+    },
+    {
+      "character": "Malak",
+      "line": "Hah! Most entertaining, human!"
+    },
+    {
+      "character": "Malak",
+      "line": "Now tell me the reason you are here, or we shall soon see who will be killing whom."
+    },
+    {
+      "character": "Player",
+      "line": "I am here looking for a special diamond... I have reason to believe it is somewhere in this vicinity, and it is probably in the possession of a warrior of Zamorak."
+    },
+    {
+      "character": "Player",
+      "line": "I'm fairly sure it will have some kind of magical aura or something too. I don't suppose you've seen it, or know where it might be?"
+    },
+    {
+      "character": "Malak",
+      "line": "Interesting... Well perhaps we can come to a little... arrangement, human."
+    },
+    {
+      "character": "Malak",
+      "line": "I may have information that may assist you, but you in turn will have to do something for me. What do you say? Do you think we could come to some form of"
+    },
+    {
+      "character": "Malak",
+      "line": "agreement?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, what kind of something? No offence, but you're not exactly the trustworthy type..."
+    },
+    {
+      "character": "Malak",
+      "line": "Ah, you have a healthy sense of paranoia, I see. It is not a particularly unfair request on my part..."
+    },
+    {
+      "character": "Malak",
+      "line": "All I ask is that you ensure that the current owner of the diamond is killed. For my part, I will let you know his whereabouts, and how exactly to kill him."
+    },
+    {
+      "character": "Malak",
+      "line": "When he is dead, you may take the diamond from his corpse and do with it what you will. I have no interest in such baubles."
+    },
+    {
+      "character": "Malak",
+      "line": "So what say you? A life for a diamond. As a mark of good faith, I will give you some information free:"
+    },
+    {
+      "character": "Malak",
+      "line": "The current owner of this diamond is named Dessous."
+    },
+    {
+      "character": "Player",
+      "line": "Well... I can't see any drawback. Okay, I accept your offer. Now tell me what you know."
+    },
+    {
+      "character": "Malak",
+      "line": "What I know? Hah! After you have been alive for as long as I, the things I know are enough to fill a library."
+    },
+    {
+      "character": "Malak",
+      "line": "I'm afraid you will need to be a little more specific."
+    },
+    {
+      "character": "Player",
+      "line": "I don't see exactly how this bargain benefits you... Why exactly do you want Dessous killed anyway?"
+    },
+    {
+      "character": "Malak",
+      "line": "That is an impertinent question to demand from myself."
+    },
+    {
+      "character": "Malak",
+      "line": "However, if it will help seal our deal, I will let you know some of the details."
+    },
+    {
+      "character": "Malak",
+      "line": "As you may or may not know, myself and my blood kin are the rulers of this land, all serving under Lord Drakan. However, we tend not to die of old age or similar"
+    },
+    {
+      "character": "Malak",
+      "line": "natural causes, which means that to gain another Lords tithe or land, there often need to be..."
+    },
+    {
+      "character": "Malak",
+      "line": "Unnatural causes of death involved. Let us just say, that Dessous is in control of some land that I myself would like some say in, and that it is not in my interest to be seen to be responsible for the"
+    },
+    {
+      "character": "Malak",
+      "line": "death of a fellow Lord."
+    },
+    {
+      "character": "Malak",
+      "line": "It would however be extremely advantageous to myself should some random human adventurer take it upon themself to remove this rival for me... Do you understand?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes... I think so..."
+    },
+    {
+      "character": "Malak",
+      "line": "Good, we understand each other then. We will both benefit from the death of Dessous."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find this Dessous?"
+    },
+    {
+      "character": "Malak",
+      "line": "He currently resides in a graveyard to the South-East of here. You will not be able to move the gravestone which he lies beneath however, you will need to find some way to"
+    },
+    {
+      "character": "Malak",
+      "line": "lure him out from his tomb."
+    },
+    {
+      "character": "Player",
+      "line": "And how exactly would I go about doing that?"
+    },
+    {
+      "character": "Malak",
+      "line": "Well, he is a vampyre, so fresh blood would almost certainly entice him out."
+    },
+    {
+      "character": "Malak",
+      "line": "However, even though he is a frail and decrepit example of our species, he will be able to kill a weakling human such as yourself extremely easily. Having him in a bloodlust as he does so, will not make"
+    },
+    {
+      "character": "Malak",
+      "line": "your job any easier."
+    },
+    {
+      "character": "Player",
+      "line": "So what advice can you give me on killing Dessous?"
+    },
+    {
+      "character": "Malak",
+      "line": "As ancient and weak as Dessous is, he is still more than a match for the likes of you."
+    },
+    {
+      "character": "Malak",
+      "line": "That is, assuming you were to fight him fairly."
+    },
+    {
+      "character": "Malak",
+      "line": "My proposal would be for you to even the odds up a little bit..."
+    },
+    {
+      "character": "Player",
+      "line": "How would I go about doing that?"
+    },
+    {
+      "character": "Malak",
+      "line": "Well, my plan would be as follows. First, take a silver bar to the man living in the sewers in Draynor. He was an assistant to Count Draynor in some of his..."
+    },
+    {
+      "character": "Malak",
+      "line": "more interesting experiments many years past. Tell him you need a sacrificial offering pot. He will know what you speak of, it is a unique type of container used in various ancient vampyric ceremonies."
+    },
+    {
+      "character": "Malak",
+      "line": "Then take the pot to Entrana and get it blessed by the Head Monk. This will lend the pot some holy power."
+    },
+    {
+      "character": "Malak",
+      "line": "If you then bring that silver pot back to me, I will provide you with some fresh blood, to put into it. To that pot of blood, you will add some crushed garlic, and some spice to disguise the smell."
+    },
+    {
+      "character": "Malak",
+      "line": "Use that pot of blood upon Dessous' tomb, and he will be unable to resist rising and drinking from it."
+    },
+    {
+      "character": "Malak",
+      "line": "The combination of garlic, silver, and blessings from Saradomin will act upon him as a poison, and allow you to kill him."
+    },
+    {
+      "character": "Malak",
+      "line": "This is just my suggestion of course, you may ignore it if you wish, although I offer no guarantees of your ability to defeat him otherwise."
+    },
+    {
+      "character": "Malak",
+      "line": "Was there anything else you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind, I will figure out all I need to know by myself."
+    },
+    {
+      "character": "Malak",
+      "line": "As you wish. Come and see me when you have managed to kill Dessous."
+    },
+    {
+      "character": "Player",
+      "line": "I don't trust you, or anything you say. I'm afraid I have to decline."
+    },
+    {
+      "character": "Malak",
+      "line": "As you wish human. I doubt anybody near here knows of the diamond you seek, however."
+    },
+    {
+      "character": "Malak",
+      "line": "If you wish to claim it as your own, you have little choice but to accept my bargain. I will wait here until such time as you change your mind."
+    },
+    {
+      "character": "Malak",
+      "line": "Why are you still here? I notice Dessous still lives."
+    },
+    {
+      "character": "Malak",
+      "line": "Come and see my when you have prepared a silver ritual pot in the manner I have told you."
+    },
+    {
+      "character": "Malak",
+      "line": "I will ensure that you get some fresh blood that you may taint with garlic and spices, to lure our Dessous."
+    },
+    {
+      "character": "Player",
+      "line": "How am I supposed to kill Dessous again?"
+    },
+    {
+      "character": "Malak",
+      "line": "Take a silver bar to the man in the Draynor sewers. He will fashion a ritualistic pot for you, which you should then take to Entrana and get blessed."
+    },
+    {
+      "character": "Malak",
+      "line": "When you have done that, come back here and speak to me, I will provide you with some fresh blood which you will then crush some garlic into, and then add some spices to hide the garlic."
+    },
+    {
+      "character": "Malak",
+      "line": "In this way, you will be able to lure him from his tomb and he should be sufficiently weakened to be vulnerable to your attacks."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Ruantun",
+      "line": "You sshould not be down here..."
+    },
+    {
+      "character": "Player",
+      "line": "Are you an assistant to Count Draynor?"
+    },
+    {
+      "character": "Ruantun",
+      "line": "I usssed to have that honour... Why do you ssseek me?"
+    },
+    {
+      "character": "Player",
+      "line": "I have a silver bar with me, I was wondering if you could make it into a 'sacrificial offering pot' for me?"
+    },
+    {
+      "character": "Ruantun",
+      "line": "Yesss, of courssse... There you are, put it to good usssse..."
+    },
+    {
+      "character": "Player",
+      "line": "I understand that you can make me a 'sacrificial offering pot' if I bring you a bar of silver?"
+    },
+    {
+      "character": "Ruantun",
+      "line": "And where did you hear thisss?"
+    },
+    {
+      "character": "Player",
+      "line": "It was from Malak in Canifis."
+    },
+    {
+      "character": "Ruantun",
+      "line": "Ah, I sssee... Yesss, I know how to make sssuch an item... It has been many yearsss sssince I have needed to however..."
+    },
+    {
+      "character": "Ruantun",
+      "line": "It is not my wisssh to quessstion your desssire for sssuch an item. I wasss merely sssurprisssed that one sssuch as you would make sssuch a requessst..."
+    },
+    {
+      "character": "Ruantun",
+      "line": "I will happily make you thisss pot, but you mussst bring me a bar of sssilver... Alasss, I can no longer collect my own ingredientsss, and mussst remain here..."
+    },
+    {
+      "character": "High Priest",
+      "line": "Many greetings. Welcome to our fair island."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I was wondering, can you quickly bless this for me?"
+    },
+    {
+      "character": "High Priest",
+      "line": "A somewhat strange request, but I see no harm in it. There you go. May Saradomin walk with you."
+    },
+    {
+      "character": "High Priest",
+      "line": "A somewhat strange request, but I see no harm in... Wait a moment... is that BLOOD?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm... yes..."
+    },
+    {
+      "character": "High Priest",
+      "line": "Why do you want me to bless a pot full of someones blood???"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, don't worry, it's not 'someones', it's my own!"
+    },
+    {
+      "character": "High Priest",
+      "line": "I... see... Well it is an unusual thing, but I see no harm in it. Take this, and walk in peace with Saradomin."
+    },
+    {
+      "character": "Player",
+      "line": "I found Ruantun in Draynors sewers. He made me this pot, now where can I get some fresh blood to fill it with?"
+    },
+    {
+      "character": "Player",
+      "line": "Ow!"
+    },
+    {
+      "character": "Malak",
+      "line": "There you go. As fresh as it gets."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for nothing."
+    },
+    {
+      "character": "Malak",
+      "line": "Come and speak to me again when you have managed to kill Dessous."
+    },
+    {
+      "character": "Player",
+      "line": "Well that's Dessous dead, but where is the Diamond he was supposed to have?"
+    },
+    {
+      "character": "Player",
+      "line": "If Malak lied to me about it, he is going to pay!"
+    },
+    {
+      "character": "Malak",
+      "line": "Ah, the wandering hero returns! I take it you have dispatched poor old Dessous for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Quit playing games with me, Malak. I want that diamond, and I want it now!"
+    },
+    {
+      "character": "Malak",
+      "line": "Do not take that tone of voice with me, meat. You should be thankful I have allowed you your life."
+    },
+    {
+      "character": "Malak",
+      "line": "Here, take your precious little bauble."
+    },
+    {
+      "character": "Malak",
+      "line": "I will take that silver pot from you as well, humans are not meant to possess such artefacts. Now get out of my sight, our deal is complete, and if I see you here again I will not hesistate to take you to"
+    },
+    {
+      "character": "Malak",
+      "line": "Lord Drakan."
+    },
+    {
+      "character": "Malak",
+      "line": "He will be extremely pleased to meet the murderer of poor Dessous, I suspect."
+    },
+    {
+      "character": "Malak",
+      "line": "Be lucky I have let you live, meat. Our deal is done, I wish no further dealing with you."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the Diamond of Blood? I know you have it!"
+    },
+    {
+      "character": "Malak",
+      "line": "Do not take that tone of voice with me, meat. Here, take your bauble. I have no use for it."
+    },
+    {
+      "character": "Troll child",
+      "line": "Waaaaaaa!"
+    },
+    {
+      "character": "Troll child",
+      "line": "WAAAAAAAA!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there little troll... Take this and dry those tears..."
+    },
+    {
+      "character": "Troll child",
+      "line": "-sniff- H-hello there."
+    },
+    {
+      "character": "Player",
+      "line": "Why so sad, little troll?"
+    },
+    {
+      "character": "Troll child",
+      "line": "It was the bad man! He hurt my mommy and daddy! He made them all freezey!"
+    },
+    {
+      "character": "Player",
+      "line": "Bad man...?"
+    },
+    {
+      "character": "Troll child",
+      "line": "He said it was because they stole his diamond! But they never did! They found it, and didn't know who it belonged to!"
+    },
+    {
+      "character": "Troll child",
+      "line": "My mommy always told me stealing is wrong, they would never steal from someone!"
+    },
+    {
+      "character": "Troll child",
+      "line": "Then he did some wavey hand thing and my mommy and daddy got frozified!"
+    },
+    {
+      "character": "Player",
+      "line": "A diamond you say? Listen, I think I might be able to help your parents, but I need that Diamond in return."
+    },
+    {
+      "character": "Troll child",
+      "line": "-sniff- I don't think they really wanted it anyway, they would have given it back to the bad man if he'd asked before freezifying them..."
+    },
+    {
+      "character": "Troll child",
+      "line": "I give you my promise mister that if you unfreeze my mommy and daddy, you can have the stupid diamond."
+    },
+    {
+      "character": "Troll child",
+      "line": "Do we have a deal?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely. Don't worry kid, I'll get your parents back to you safe and sound."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I can't make any promises about that, and I don't think I have the time to waste trying to defrost some stupid ice trolls."
+    },
+    {
+      "character": "Troll child",
+      "line": "Oh, I'm sorry. My mommy says that we ice trolls are so cold we can freeze the air around us when we are upset or angry."
+    },
+    {
+      "character": "Troll child",
+      "line": "I'm afraid I must have frozen those gates too much when I was crying, but since you told me you are going to help rescue my mommy and daddy you should be able to squeeze through the bars."
+    },
+    {
+      "character": "Troll child",
+      "line": "You are much smaller than most trolls, it should be easy for you!"
+    },
+    {
+      "character": "Ice troll",
+      "line": "Hur hur hur! Well look here, a puny fleshy human! You should beware of the icy wind that runs through this valley, it will bring a fleshy like you to a cold end indeed!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, that must have been the 'bad man' that the troll kid was on about... His parents must be up ahead somewhere."
+    },
+    {
+      "character": "Troll father",
+      "line": "Oh thank you! It was really cold in there! But please, you must free my wife as well! Our son is depending on us!"
+    },
+    {
+      "character": "Troll mother",
+      "line": "Wow, thanks for breaking me out of that ice! But please, my husband is still trapped in there!"
+    },
+    {
+      "character": "Troll father",
+      "line": "Phew! Am I glad to be out of that big ice cube! Are you okay too darling?"
+    },
+    {
+      "character": "Troll mother",
+      "line": "Yes, I thought we were done for! Why ever did that nasty Kamil freeze us up there anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "He must have been trying to protect his Diamond..."
+    },
+    {
+      "character": "Troll father",
+      "line": "You mean that diamond I found the other day belonged to him? But why didn't he just ask for it back? It's not like I really want it or anything!"
+    },
+    {
+      "character": "Troll father",
+      "line": "And how did you know we had that diamond anyway, fleshy?"
+    },
+    {
+      "character": "Player",
+      "line": "Your son told me. That's why I rescued you, it is very important that I have that diamond..."
+    },
+    {
+      "character": "Troll mother",
+      "line": "Ooohhhhh, my poor baby! He must have been so worried about us..."
+    },
+    {
+      "character": "Troll father",
+      "line": "Yes, but he certainly inherited his Dad's smarts!"
+    },
+    {
+      "character": "Troll father",
+      "line": "If he'd told this fleshy that he had the Diamond and not us, we might never have been rescued!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait... what? That stupid little troll kid had the diamond all along?"
+    },
+    {
+      "character": "Troll mother",
+      "line": "Don't you talk about my baby like that!"
+    },
+    {
+      "character": "Troll father",
+      "line": "Now, now dear, all's well that ends well. We've been freed and this fleshy has certainly earned himself that diamond."
+    },
+    {
+      "character": "Troll father",
+      "line": "Let's get out of this terrible place and see our son!"
+    },
+    {
+      "character": "Troll child",
+      "line": "Mommy! Daddy! You're free!"
+    },
+    {
+      "character": "Troll father",
+      "line": "That's right son, and it's all thanks to this brave adventurer here. Now, make sure you hand over that diamond he was looking for."
+    },
+    {
+      "character": "Troll father",
+      "line": "It has been nothing but trouble for us, let's just get back to our cave and have dinner."
+    },
+    {
+      "character": "Troll mother",
+      "line": "That's right son, it's your favorite tonight too! A big plate of raw mackerel!"
+    },
+    {
+      "character": "Troll child",
+      "line": "RAW MACKEREL! YUMMY!"
+    },
+    {
+      "character": "Troll child",
+      "line": "Here ya go, ! Thanks for getting my mom and dad away from the bad man!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry about it, just as long as I don't have to go back into that blizzard."
+    },
+    {
+      "character": "Troll father",
+      "line": "Thanks again for freeing me from that ice block! I might be a troll, but it was real uncomfortable in there!"
+    },
+    {
+      "character": "Troll mother",
+      "line": "Thanks again for freeing me from that ice block! I don't know what my little snookums would have done without us!"
+    },
+    {
+      "character": "Troll child",
+      "line": "Thanks for all your help! I'm surprised you managed to survive the blizzard, being a thin skinned fleshy and all!"
+    },
+    {
+      "character": "Player",
+      "line": "What can I say? I'm a lot tougher than I look."
+    },
+    {
+      "character": "Player",
+      "line": "I lost that diamond of Ice you gave me..."
+    },
+    {
+      "character": "Troll child",
+      "line": "That's okay, it blew back on an icy wind... It's almost like it wants to stay here! Here, take it back, you've earned it."
+    },
+    {
+      "character": "Player",
+      "line": "I have collected one Diamond so far!"
+    },
+    {
+      "character": "Eblis",
+      "line": "That is a good start... but Azzanadra is still imprisoned!"
+    },
+    {
+      "character": "Player",
+      "line": "I have collected 2 Diamonds so far!"
+    },
+    {
+      "character": "Player",
+      "line": "I have collected 3 Diamonds so far!"
+    },
+    {
+      "character": "Player",
+      "line": "So I have all four of these Diamonds of Azzanadra, now what?"
+    },
+    {
+      "character": "Eblis",
+      "line": "Azzanadra was our greatest ever hero. He was unkillable, and the cowardly traitors who stole our lands did not know what to do with him, for his hatred for them was as strong as his magics."
+    },
+    {
+      "character": "Eblis",
+      "line": "In the end, they cast a spell upon him, to trap him in the stone structure to the South of here."
+    },
+    {
+      "character": "Eblis",
+      "line": "They stole his very life force, the essence of his power, and trapped it within four crystals - the very same Four Diamonds which you have now recovered from the brigands who stole from us."
+    },
+    {
+      "character": "Eblis",
+      "line": "The four pillars surrounding the structure are keeping the containment spell intact. By placing a diamond into each, you will breach the magical defenses and begin to restore Azzanadra's"
+    },
+    {
+      "character": "Eblis",
+      "line": "power, and be able to enter the structure."
+    },
+    {
+      "character": "Eblis",
+      "line": "Go, place the diamonds, and free my lord Azzanadra!"
+    },
+    {
+      "character": "Eblis",
+      "line": "The path will be hard, for his prison is full of traps and danger to prevent his rescue, but he will reward you beyond your wildest dreams when freed!"
+    },
+    {
+      "character": "Eblis",
+      "line": "Quickly... After all these centuries, Lord Azzanadra is nearly free! You must spare no time, place the Diamonds upon the pillars and enter the pyramid so that you may free him!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Hello again. How's the treasure hunting going?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've found four diamonds."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "What? But you've been gone ages!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "C'mon, you can be square with me, you must have found more treasure than just four measly diamonds by now!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Hmmm. Well, okay a deal is a deal. Hand two of them over."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I think I'm going to need them to gain access to the real treasure..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "REALLY? Great, I love treasure!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Don't worry about two measly diamonds if you think they'll lead to something better!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "I don't usually get out of bed for less than a hundred gold certs!"
+    },
+    {
+      "character": "Player",
+      "line": "I used the Four Diamonds on the pillars surrounding the pyramid..."
+    },
+    {
+      "character": "Eblis",
+      "line": "Yes? And what happened?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... they changed colour."
+    },
+    {
+      "character": "Eblis",
+      "line": "Ah, that was the power being re-absorbed back into them. That should have been sufficient to break the magic seal preventing anyone exiting or entering the structure."
+    },
+    {
+      "character": "Eblis",
+      "line": "Quickly, you must let Lord Azzanadra know that he is free again after these many years!"
+    },
+    {
+      "character": "Eblis",
+      "line": "Please, when you have freed Azzanadra, let me know what words he has for his faithful followers..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Hello again, apprentice archaeologist. How's the treasure hunting going?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... I found four diamonds..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Great! Pass me my share, and it's a good job all around!"
+    },
+    {
+      "character": "Eblis",
+      "line": "Um... sorry, I can't."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Huh? You're not trying to break a deal here are ya???"
+    },
+    {
+      "character": "Player",
+      "line": "No, it's just... There were these weird pillars around this pyramid..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... Well..."
+    },
+    {
+      "character": "Player",
+      "line": "They kind of... ate the diamonds..."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Pyramid columns ate your diamonds?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "That's a crazy story kid. Why would you go putting diamonds into them in the first place anyway? Diamonds!"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Of all things!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I have this feeling there is some better treasure inside that pyramid, and I needed to put the diamonds in to gain entrance."
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Well what are you wasting time talking to me for?"
+    },
+    {
+      "character": "Asgarnia Smith",
+      "line": "Go get me some treasure, pal!"
+    },
+    {
+      "character": "Azzanadra",
+      "line": "I knew they could not trap me here for long! Well done, friend. Tell me, how goes the war?"
+    },
+    {
+      "character": "Player",
+      "line": "War?"
+    },
+    {
+      "character": "Azzanadra",
+      "line": "You do not know of the war for our survival? More time must have passed than I had thought..."
+    },
+    {
+      "character": "Azzanadra",
+      "line": "Tell me, what news of great Paddewwa? Do the shining spires of Lassar still stand? And what of glorious Annakarl? The fortress is still intact?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... sorry, I've never heard of them..."
+    },
+    {
+      "character": "Azzanadra",
+      "line": "No! My lord... what has become of you? I cannot hear your voice anymore!"
+    },
+    {
+      "character": "Azzanadra",
+      "line": "My thanks to you friend for your help in freeing me from this accursed place, but it seems I have much to do to make amends. If our empire no longer stands, then it means that we must have failed my lord."
+    },
+    {
+      "character": "Azzanadra",
+      "line": "How long have I been trapped here? Master... have you truly been dispatched from this world?"
+    },
+    {
+      "character": "Azzanadra",
+      "line": "My friend, for your efforts in freeing me, I offer you the gift of knowledge. We Mahjarrat were once granted powerful ancient magicks by our lord. I now bestow their power upon you."
+    },
+    {
+      "character": "Azzanadra",
+      "line": "They will replace the knowledge you previously had, but you may switch between them by praying at the altar in this room at any time. May you use them well."
+    },
+    {
+      "character": "Azzanadra",
+      "line": "I trust that we shall meet again, but now I must leave you. Feel free to use the portal I shall create to return here easily in the future!"
+    },
+    {
+      "character": "Eblis",
+      "line": "So have you spoken to my Lord Azzanadra yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I have."
+    },
+    {
+      "character": "Eblis",
+      "line": "And what words did he have for his followers?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... He didn't really mention you at all, but he did teach me some cool new magic spells."
+    },
+    {
+      "character": "Eblis",
+      "line": "It is understandable perhaps... His poor mind must be addled after all of those years of confinement, he would not willingly ignore his followers..."
+    },
+    {
+      "character": "Eblis",
+      "line": "Anyway, if he has taught you our ancient magics, you may be interested in purchasing an ancient heirloom that was passed down to me. My ancestor fought in the ancient battles using the"
+    },
+    {
+      "character": "Eblis",
+      "line": "magic of our god. This heirloom will help you with the speed of your spell-casting."
+    },
+    {
+      "character": "Eblis",
+      "line": "Normally I could not bear to part with such a priceless relic, but for your help in freeing my Lord Azzanadra, I will be prepared to sell it to you for a mere 80,000 gold."
+    },
+    {
+      "character": "Eblis",
+      "line": "Are you interested?"
+    },
+    {
+      "character": "Eblis",
+      "line": "Take care of it, it is the only heirloom from those times I possess, although rumour has it many of our ancient warriors were buried with identical weapons so that they could continue to fight for my Lord in their deaths."
+    },
+    {
+      "character": "Eblis",
+      "line": "Stranger... Do not abuse my generosity... I cannot possibly sell it for less than 80,000 gold."
+    },
+    {
+      "character": "Eblis",
+      "line": "Come back and see me when you have the necessary funds to buy."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Eblis",
+      "line": "As you wish. Bear my offer in mind should you ever change your decision, I will remain here."
+    },
+    {
+      "character": "Player",
+      "line": "I'll leave you to it."
+    },
+    {
+      "character": "Player",
+      "line": "Have you got any symbols of your god?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Eblis",
+      "line": "Greetings. I await the return of my Lord Azzanadra and of our god. I do not know why, but I feel this spot has some significance..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Asgarnia Smith",
+      "description": "Middle-aged male, British accent, boastful and self-aggrandizing tone. A vain archaeologist who considers himself the leading expert, opportunistic and adventurous with theatrical flair."
+    },
+    {
+      "name": "Azzanadra",
+      "description": "Ancient male Mahjarrat, deep and commanding tone with otherworldly resonance. A powerful high priest of Zaros imprisoned for millennia, speaks with ancient authority and devoted loyalty."
+    },
+    {
+      "name": "Bandit",
+      "description": "Adult male, Middle Eastern accent, rough and suspicious tone. A desert outlaw devoted to Zaros, hostile to outsiders with practical survival instincts."
+    },
+    {
+      "name": "Bartender",
+      "description": "Adult male, Middle Eastern accent, gruff and businesslike tone. A desert tavern keeper serving bandits, practical and no-nonsense."
+    },
+    {
+      "name": "Eblis",
+      "description": "Middle-aged male, Middle Eastern accent, distinguished and formal tone. A Zarosian mystic with scholarly expertise in ancient magic, authoritative and principled."
+    },
+    {
+      "name": "High Priest",
+      "description": "Middle-aged male, Middle Eastern accent, measured and diplomatic tone. The High Priest of Icthlarin in Sophanem, formal and religious but approachable."
+    },
+    {
+      "name": "Ice troll",
+      "description": "Adult troll, deep and brutish tone with slow speech. A hostile ice-dwelling creature from Trollweiss, aggressive and territorial."
+    },
+    {
+      "name": "Malak",
+      "description": "Ancient male vampyre, deep aristocratic tone with measured condescension. A haughty noble who despises common folk, calculating and manipulative with subtle menace."
+    },
+    {
+      "name": "Rasolo",
+      "description": "Middle-aged male, pragmatic and businesslike tone. A travelling merchant with professional demeanor, measured and commerce-focused."
+    },
+    {
+      "name": "Roavar",
+      "description": "Adult male werewolf, jovial and friendly tone with underlying anxiety. A Canifis tavern keeper who is convivial but servile toward vampyre lords."
+    },
+    {
+      "name": "Ruantun",
+      "description": "Adult male vampyre, classical vampiric tone with elongated S sounds. A weakened vampyre in Draynor Sewers who speaks with exaggerated Romanian-style accent."
+    },
+    {
+      "name": "Terry Balando",
+      "description": "Middle-aged male, British accent, scholarly and professional tone. An archaeological expert at the Digsite, knowledgeable about ancient artifacts and inscriptions."
+    },
+    {
+      "name": "Troll child",
+      "description": "Young troll around 8-10 years old equivalent, high-pitched and simple tone. A small ice troll on Trollweiss Mountain, naive and innocent compared to aggressive adults."
+    },
+    {
+      "name": "Troll father",
+      "description": "Adult male troll, deep and protective tone with slow speech. A large ice troll parent on Trollweiss, defensive of family with brutish simplicity."
+    },
+    {
+      "name": "Troll mother",
+      "description": "Adult female troll, deep and maternal tone with slow speech. An ice troll parent on Trollweiss, protective and caring with simple vocabulary."
+    }
+  ]
+}

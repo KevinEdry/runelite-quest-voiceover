@@ -1,0 +1,360 @@
+{
+  "branch": "quest/family-pest",
+  "quest_name": "Family Pest",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Do you have any quests for me? I really want one. I really want to help out!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "My family consider what you did for us a great service. We couldn't possibly trouble you further."
+    },
+    {
+      "character": "Player",
+      "line": "There must be SOMETHING you need help with. I am a great adventurer after all."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "There really isn't anything, I am very content with life right now."
+    },
+    {
+      "character": "Player",
+      "line": "I guess money really does buy happiness."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "What was that? I didn't quite catch that."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh come on, surely there's something I can help out with! I want to help, however menial it is."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Okay okay. Fine then. Whilst I don't have anything for you, how about you try my sons, they are always wanting something done."
+    },
+    {
+      "character": "Player",
+      "line": "Fantastic! I'll get straight to it!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Have you spoke to Avan, Caleb and Johnathon yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Nope, not yet!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there Avan, I've had a bit of spare time lately, and I was wondering whether you had anything I could help you out with, like a quest or something?"
+    },
+    {
+      "character": "Avan",
+      "line": "Honestly, everything is fantastic! What you did for me and my family is amazing. My lady was very impressed with the perfect jewellery you obtained for me!"
+    },
+    {
+      "character": "Player",
+      "line": "You know, I really have a LOT of spare time right now. Anything, I will help out with anything."
+    },
+    {
+      "character": "Avan",
+      "line": "I couldn't bring myself to trouble you any further. Thank you for everything, but I am content."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, I'll go and see if your other brothers need anything..."
+    },
+    {
+      "character": "Player",
+      "line": "I do one quest for you all and it solves all of your problems? Amazing... I'll go and tell your father how happy you all are!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you absolutely sure there is nothing I can help you out with?"
+    },
+    {
+      "character": "Avan",
+      "line": "Look, I really just want to get on with my life, your insistence on wanting another quest is getting annoying!"
+    },
+    {
+      "character": "Player",
+      "line": "Caleb! As an adventurer, I am ready to help you with whatever you need... again! What can I help you with?"
+    },
+    {
+      "character": "Caleb",
+      "line": "... and that's when I found the broken lamping stick. Maybe you could help me investigate?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I didn't quite catch that, my mind was erm... elsewhere."
+    },
+    {
+      "character": "Caleb",
+      "line": "Well if you aren't going to listen to the problem, it's fine, don't worry about it. Nothing an experienced chef can't solve himself!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry! Please let me help."
+    },
+    {
+      "character": "Caleb",
+      "line": "No! Not every problem in my life needs an adventurer to come solve it for me anyway. I'm happy and there's nothing else either!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure there's nothing I can do, a chef can always do with help in their kitchen right?"
+    },
+    {
+      "character": "Caleb",
+      "line": "I'm a very competent cook! I do not need your assistance. Please leave me be."
+    },
+    {
+      "character": "Player",
+      "line": "I killed demons, I cured your poison and restored your family's honour! What can I help you with next Johnathon?"
+    },
+    {
+      "character": "Johnathon",
+      "line": "Actually, come to think of it..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes..."
+    },
+    {
+      "character": "Johnathon",
+      "line": "I've been having this issue. You see the lady I seek is trapped up the top of a very large tower of a very large castle, and has been for all of her life so far."
+    },
+    {
+      "character": "Johnathon",
+      "line": "There is but one problem, a fierce dragon circles the castle, breathing fire at anyone who dares go near."
+    },
+    {
+      "character": "Player",
+      "line": "This is sounding like a great opportunity to be heroic, shall I go get her for you?"
+    },
+    {
+      "character": "Johnathon",
+      "line": "Ha ha! You would believe anything. That was just a children's story!"
+    },
+    {
+      "character": "Player",
+      "line": "Very funny Johnathon, I can't help but laugh..."
+    },
+    {
+      "character": "Player",
+      "line": "So do you actually have any problems I can help you with?"
+    },
+    {
+      "character": "Johnathon",
+      "line": "Everything is fantastic ! You adventurers really do seem to love quests, but I do not have one for you today."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure there's nothing I can do, perhaps even teach you about Death Rune magicks, where your skills do not live up to mine."
+    },
+    {
+      "character": "Johnathon",
+      "line": "I find that very insulting. You do not need to remind me of your superior skills. Leave me be."
+    },
+    {
+      "character": "Player",
+      "line": "I have been and spoken to Avan, Caleb and Johnathon and none of them need anything from me!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "That is excellent news. It's good to hear they are doing well."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah... you're welcome."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Come to think of it, there is something you can help me out with!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! I accept your quest!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Slow down. I haven't told you what it is yet!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "I need 500,000 coins. Can you help me out with that?"
+    },
+    {
+      "character": "Player",
+      "line": "You just want coins?! Aren't you wealthy! Why do you need coins from me?"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Okay, I suppose there will be no time better than this to tell you the truth."
+    },
+    {
+      "character": "Player",
+      "line": "Go on..."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Our family just pretends to be rich. We gave ourselves a fancy surname, pretended the gauntlets are a family heirloom and asked adventurers to solve our family issues."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, so all of this was for nothing? You just lied to me!"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "No no, your work was indeed very helpful, the crest is important to us, it helps to portray that we are indeed wealthy, despite the fact we are not."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "I mean, if you were wealthy, would you live in a tiny house in the darkest corner of Varrock? Not a chance. This is your chance to do us a final favour, may I have 500,000 coins from you?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have enough coins on me."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Thank you very much. In appreciation, I will inform Avan, Caleb and Johnathon that you did yet another great deed for the family, and that you would find more pairs of those gauntlets useful."
+    },
+    {
+      "character": "Player",
+      "line": "Well this didn't feel very heroic..."
+    },
+    {
+      "character": "Player",
+      "line": "You don't need 500,000 coins from me! I don't believe you! You can keep your rewards."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "I will be here if you change your mind."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Our family just pretends to be rich Rautapets. We gave ourselves a fancy surname, pretended the gauntlets are a family heirloom and asked adventurers to solve our family issues."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Dimintheis."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "I will not forget what you did for my family. Those 500,000 coins have allowed us to put food on the table."
+    },
+    {
+      "character": "Player",
+      "line": "That's no problem."
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, I was wondering if I could get more of those gauntlets?"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "You may, but you'll have to ask my sons for them, unless you just want a pair of the Steel gauntlets."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I do want a pair of steel gauntlets please."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks Dimintheis."
+    },
+    {
+      "character": "Player",
+      "line": "I thought these gauntlets were a family heirloom, how come you have several of them?"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "I'm sorry for lying to you, it was just all part of the ploy to make our family seem wealthy."
+    },
+    {
+      "character": "Dimintheis",
+      "line": "They're not heirlooms at all, we have crates full of the things hidden away in the basement."
+    },
+    {
+      "character": "Player",
+      "line": "And you still think that these are an acceptable reward for what I have done for your family?"
+    },
+    {
+      "character": "Dimintheis",
+      "line": "It's all I have to give..."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, I do admit, they are useful."
+    },
+    {
+      "character": "Avan",
+      "line": "I have received word from my father that you assisted us again! I get the feeling you weren't going to stop trying until you did though."
+    },
+    {
+      "character": "Avan",
+      "line": "As a token of my appreciation, I will happily forge you as many pairs of Goldsmith gauntlets as you desire."
+    },
+    {
+      "character": "Avan",
+      "line": "You will find the rate you gain experience when smelting gold much improved whilst wearing these gauntlets."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Caleb",
+      "line": "I have received word from my father that you assisted us again! I get the feeling you weren't going to stop trying until you did though."
+    },
+    {
+      "character": "Caleb",
+      "line": "As thanks, I'll provide you with as many pairs of Cooking gauntlets as you wish."
+    },
+    {
+      "character": "Caleb",
+      "line": "You will find the rate you burn certain foods is much reduced whilst wearing these gauntlets."
+    },
+    {
+      "character": "Johnathon",
+      "line": "I have received word from my father that you assisted us again! I get the feeling you weren't going to stop trying until you did though."
+    },
+    {
+      "character": "Johnathon",
+      "line": "If you want, I'll provide you with as many pairs of Chaos gauntlets as you wish to say thanks!"
+    },
+    {
+      "character": "Johnathon",
+      "line": "You will find the power of bolt spells increases substantially whilst wearing these gauntlets."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Avan",
+      "description": "Young adult male, refined British upper-class accent, polite but slightly dismissive tone, a well-dressed nobleman skilled in goldsmithing who values his romantic pursuits."
+    },
+    {
+      "name": "Caleb",
+      "description": "Adult male, British upper-class accent, practical and slightly prideful tone, the eldest Fitzharmon brother who takes pride in his cooking abilities and doesn't like admitting he needs help."
+    },
+    {
+      "name": "Dimintheis",
+      "description": "Middle-aged male, refined British aristocratic accent that slips when desperate, initially dignified but becomes humble and pleading, a nobleman who secretly maintains a facade of wealth."
+    },
+    {
+      "name": "Johnathon",
+      "description": "Adult male, educated British upper-class accent, playful with a mischievous wit, the youngest Fitzharmon brother who enjoys telling tall tales and teasing adventurers."
+    }
+  ]
+}
