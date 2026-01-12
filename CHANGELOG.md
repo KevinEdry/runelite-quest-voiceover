@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.10.0...v1.10.1) (2026-01-12)
+
+
+### Code Refactoring
+
+* move voice generation tooling to automations branch ([8d25ed1](https://github.com/KevinEdry/runelite-quest-voiceover/commit/8d25ed1b463046956bbe90951b31d968ed32b6bf))
+
 ## [1.10.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.9.0...v1.10.0) (2026-01-02)
 
 
