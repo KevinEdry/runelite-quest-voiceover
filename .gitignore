@@ -7,8 +7,7 @@ build
 nbactions.xml
 nb-configuration.xml
 nbproject/
-voiceover_output/
 .mcp.json
-output_db/quest_voiceover.db
 .DS_Store
-__pycache__/
+.claude/
+.claude_settings.json
