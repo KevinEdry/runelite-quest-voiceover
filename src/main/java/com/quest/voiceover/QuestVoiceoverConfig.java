@@ -1,10 +1,48 @@
 package com.quest.voiceover;
 
+import lombok.Getter;
+import lombok.RequiredArgsConstructor;
 import net.runelite.client.config.*;
 
 @ConfigGroup("quest.voiceover")
 public interface QuestVoiceoverConfig extends Config
 {
+	@Getter
+	@RequiredArgsConstructor
+	enum PlayerVoice
+	{
+		MALE("Player_Male"),
+		FEMALE("Player_Female");
+
+		private final String characterName;
+
+		@Override
+		public String toString()
+		{
+			return name().charAt(0) + name().substring(1).toLowerCase();
+		}
+	}
+
+	@ConfigSection(
+			name = "Voice Settings",
+			description = "Voice configuration options",
+			position = 5,
+			closedByDefault = false
+	)
+	String voiceSettings = "voiceSettings";
+
+	@ConfigItem(
+			keyName = "playerVoice",
+			name = "Player Voice",
+			description = "Voice used for your character's dialog.",
+			section = voiceSettings,
+			position = 6
+	)
+	default PlayerVoice playerVoice()
+	{
+		return PlayerVoice.MALE;
+	}
+
 	@ConfigSection(
 			name = "General",
 			description = "General settings",

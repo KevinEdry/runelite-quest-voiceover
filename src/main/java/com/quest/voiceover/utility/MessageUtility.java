@@ -1,7 +1,5 @@
 package com.quest.voiceover.utility;
 
-import com.quest.voiceover.Constants;
-
 public final class MessageUtility {
 
     private MessageUtility() {}
@@ -30,10 +28,10 @@ public final class MessageUtility {
         }
     }
 
-    public static ParsedMessage parseRawMessage(String rawMessage, String playerName) {
+    public static ParsedMessage parseRawMessage(String rawMessage, String playerName, String playerVoiceName) {
         String[] parts = rawMessage.split("\\|", 2);
 
-        String characterName = normalizeCharacterName(parts[0], playerName);
+        String characterName = normalizeCharacterName(parts[0], playerName, playerVoiceName);
         String dialogText = parts[1].trim();
         String messageId = HashUtility.toMD5(characterName + "|" + dialogText);
 
@@ -50,7 +48,7 @@ public final class MessageUtility {
         return cleaned;
     }
 
-    private static String normalizeCharacterName(String name, String playerName) {
-        return name.equals(playerName) ? Constants.PLAYER_NAME_PLACEHOLDER : name;
+    private static String normalizeCharacterName(String name, String playerName, String playerVoiceName) {
+        return name.equals(playerName) ? playerVoiceName : name;
     }
 }
