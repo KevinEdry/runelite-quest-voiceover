@@ -17,7 +17,7 @@ import java.nio.file.StandardOpenOption;
 @Slf4j
 public class DatabaseVersionManager {
 
-    private static final String DATABASE_FILENAME = "quest_voiceover.db";
+    private static final String DATABASE_FILENAME = "quest_voiceover_v2.db";
     private static final String VERSION_FILENAME = ".version";
 
     private static final Path DOWNLOAD_DIR =

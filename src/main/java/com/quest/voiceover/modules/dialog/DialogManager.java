@@ -1,5 +1,6 @@
 package com.quest.voiceover.modules.dialog;
 
+import com.quest.voiceover.QuestVoiceoverConfig;
 import net.runelite.api.Client;
 import net.runelite.api.widgets.InterfaceID;
 import net.runelite.api.widgets.Widget;
@@ -16,6 +17,9 @@ public class DialogManager {
 
     @Inject
     private Client client;
+
+    @Inject
+    private QuestVoiceoverConfig config;
 
     public boolean isPlayerOrNpcDialogOpen() {
         Widget playerWidget = getPlayerDialogWidget();
@@ -78,7 +82,7 @@ public class DialogManager {
 
         Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER, DIALOG_PLAYER_TEXT_CHILD);
         if (playerTextWidget != null) {
-            return "Player";
+            return config.playerVoice().getCharacterName();
         }
 
         return null;

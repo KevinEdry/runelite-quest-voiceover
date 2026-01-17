@@ -65,7 +65,8 @@ public class VoiceoverHandler {
      * message signals "dialog happened", then we fetch the full content from the widget.
      */
     public void handleDialogMessage(String rawMessage, String playerName) {
-        MessageUtility.ParsedMessage chatMessage = MessageUtility.parseRawMessage(rawMessage, playerName);
+        String playerVoiceName = config.playerVoice().getCharacterName();
+        MessageUtility.ParsedMessage chatMessage = MessageUtility.parseRawMessage(rawMessage, playerName, playerVoiceName);
         String chatText = chatMessage.dialogText();
         String chatCharacter = chatMessage.characterName();
 
