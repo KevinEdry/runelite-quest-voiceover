@@ -6,3 +6,6 @@ output_db/quest_voiceover.db
 __pycache__/
 .idea/
 .claude_settings.json
+.env
+build
+.gradle

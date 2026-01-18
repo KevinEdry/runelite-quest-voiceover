@@ -1,0 +1,14 @@
+services:
+  restate:
+    image: docker.io/restatedev/restate:1.5
+    container_name: restate-server
+    ports:
+      - "8080:8080"
+      - "9070:9070"
+    volumes:
+      - restate-data:/target/restate-data
+    environment:
+      - RESTATE_OBSERVABILITY__LOG__FORMAT=json
+
+volumes:
+  restate-data:

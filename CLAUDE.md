@@ -24,6 +24,17 @@ pixi shell               # Activate virtual environment (optional)
 ### Git Commits
 - Never use AI attestation in commits (no robot emoji, no "Generated with Claude", no Co-Authored-By AI lines)
 
+### TypeScript Pipeline (`pipeline/`)
+- File naming convention: suffix files with their domain (e.g., `database.provider.ts`, `github.client.ts`)
+- Folder structure:
+  - `clients/` - API client abstractions (e.g., `github.client.ts`, `elevenlabs.client.ts`)
+  - `providers/` - Data providers (e.g., `database.provider.ts`)
+  - `utilities/` - Utility functions grouped by logical domain (e.g., `text.util.ts`, `hash.util.ts`)
+- No mutability in code - prefer immutable data structures and pure functions
+- Imperative shell, functional core - no classes, use functions
+- Logic should be related - group functions by their logical domain, not by which service uses them
+- Avoid abbreviations in variable and function names
+
 ## Architecture
 
 ### Python CLI (`voiceover_cli/`)
