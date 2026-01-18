@@ -1,10 +1,28 @@
 import * as restate from "@restatedev/restate-sdk";
-import type { QuestInput, QuestResult, LineResult } from "../types/index.js";
+import type { QuestInput, QuestResult, LineResult, VoiceMap } from "../types/index.js";
 import { getElevenLabsClient } from "../clients/elevenlabs.client.js";
 import { getGitHubClient } from "../clients/github.client.js";
 import { getDatabaseProvider } from "../providers/database.provider.js";
 
 const SOUNDS_BRANCH = "sounds";
+
+interface GenerationTarget {
+  readonly character: string;
+  readonly voiceId: string;
+}
+
+function getGenerationTargets(
+  transcriptCharacter: string,
+  voiceMap: VoiceMap
+): readonly GenerationTarget[] {
+  if (transcriptCharacter === "Player") {
+    return [
+      { character: "Player Male", voiceId: voiceMap["Player Male"] },
+      { character: "Player Female", voiceId: voiceMap["Player Female"] },
+    ];
+  }
+  return [{ character: transcriptCharacter, voiceId: voiceMap[transcriptCharacter] }];
+}
 
 export const questVoiceoverWorkflow = restate.workflow({
   name: "questVoiceover",
@@ -13,14 +31,14 @@ export const questVoiceoverWorkflow = restate.workflow({
       ctx: restate.WorkflowContext,
       input: QuestInput
     ): Promise<QuestResult> => {
-      const { questName, lines, characters, playerVoiceId } = input;
+      const { questName, lines, characters, playerMaleVoiceId, playerFemaleVoiceId } = input;
 
       const elevenlabs = getElevenLabsClient();
       const github = getGitHubClient();
       const database = getDatabaseProvider();
 
       const voiceMap = await ctx.run("setup-voices", async () => {
-        const result = await elevenlabs.setupVoicesForQuest(characters, playerVoiceId);
+        const result = await elevenlabs.setupVoicesForQuest(characters, playerMaleVoiceId, playerFemaleVoiceId);
         return result.voiceMap;
       });
 
@@ -30,88 +48,93 @@ export const questVoiceoverWorkflow = restate.workflow({
         const previousLine = lines[index - 1];
         const nextLine = lines[index + 1];
 
-        const voiceId = voiceMap[line.character];
-        if (!voiceId) {
-          results.push({
-            hash: "",
-            character: line.character,
-            status: "skipped",
-            error: "No voice available",
-          });
-          continue;
-        }
+        const targets = getGenerationTargets(line.character, voiceMap);
 
-        try {
-          const hash = await ctx.run(
-            `compute-hash-${index}`,
-            async () => elevenlabs.computeHash(line.character, line.line)
-          );
-
-          const exists = await ctx.run(
-            `check-exists-${index}`,
-            async () => elevenlabs.checkAudioExists(hash, SOUNDS_BRANCH)
-          );
-
-          if (exists) {
+        for (const target of targets) {
+          if (!target.voiceId) {
             results.push({
-              hash,
-              character: line.character,
+              hash: "",
+              character: target.character,
               status: "skipped",
+              error: "No voice available",
             });
             continue;
           }
 
-          const speechResult = await ctx.run(`generate-speech-${index}`, async () =>
-            elevenlabs.generateSpeech({
-              voiceId,
-              text: line.line,
-              character: line.character,
-              previousText: previousLine?.line,
-              nextText: nextLine?.line,
-            })
-          );
+          const targetKey = `${index}-${target.character.replace(" ", "-").toLowerCase()}`;
 
-          const uri = await ctx.run(`upload-audio-${index}`, async () =>
-            github.uploadAudioFile({
-              audioData: speechResult.audioData,
+          try {
+            const hash = await ctx.run(
+              `compute-hash-${targetKey}`,
+              async () => elevenlabs.computeHash(target.character, line.line)
+            );
+
+            const exists = await ctx.run(
+              `check-exists-${targetKey}`,
+              async () => elevenlabs.checkAudioExists(hash, SOUNDS_BRANCH)
+            );
+
+            if (exists) {
+              results.push({
+                hash,
+                character: target.character,
+                status: "skipped",
+              });
+              continue;
+            }
+
+            const speechResult = await ctx.run(`generate-speech-${targetKey}`, async () =>
+              elevenlabs.generateSpeech({
+                voiceId: target.voiceId,
+                text: line.line,
+                character: target.character,
+                previousText: previousLine?.line,
+                nextText: nextLine?.line,
+              })
+            );
+
+            const uri = await ctx.run(`upload-audio-${targetKey}`, async () =>
+              github.uploadAudioFile({
+                audioData: speechResult.audioData,
+                hash: speechResult.hash,
+                questName,
+                character: target.character,
+                soundsBranch: SOUNDS_BRANCH,
+              })
+            );
+
+            await ctx.run(`insert-dialog-${targetKey}`, async () =>
+              database.insertDialog({
+                quest: questName,
+                character: target.character,
+                text: line.line,
+                uri,
+              })
+            );
+
+            results.push({
               hash: speechResult.hash,
-              questName,
-              character: line.character,
-              soundsBranch: SOUNDS_BRANCH,
-            })
-          );
+              character: target.character,
+              status: "completed",
+            });
 
-          await ctx.run(`insert-dialog-${index}`, async () =>
-            database.insertDialog({
-              quest: questName,
-              character: line.character,
-              text: line.line,
-              uri,
-            })
-          );
+            console.log(
+              `[${index + 1}/${lines.length}] Completed: ${target.character}`
+            );
+          } catch (error) {
+            const errorMessage =
+              error instanceof Error ? error.message : String(error);
+            console.error(
+              `[${index + 1}/${lines.length}] Failed for ${target.character}: ${errorMessage}`
+            );
 
-          results.push({
-            hash: speechResult.hash,
-            character: line.character,
-            status: "completed",
-          });
-
-          console.log(
-            `[${index + 1}/${lines.length}] Completed: ${line.character}`
-          );
-        } catch (error) {
-          const errorMessage =
-            error instanceof Error ? error.message : String(error);
-          console.error(
-            `[${index + 1}/${lines.length}] Failed for ${line.character}: ${errorMessage}`
-          );
-
-          results.push({
-            hash: "",
-            character: line.character,
-            status: "failed",
-            error: errorMessage,
-          });
+            results.push({
+              hash: "",
+              character: target.character,
+              status: "failed",
+              error: errorMessage,
+            });
+          }
         }
       }
 

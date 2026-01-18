@@ -29,12 +29,14 @@ export interface QuestInput {
   branch: string;
   lines: DialogLine[];
   characters: CharacterInfo[];
-  playerVoiceId: string;
+  playerMaleVoiceId: string;
+  playerFemaleVoiceId: string;
 }
 
 export interface VoiceSetupInput {
   characters: CharacterInfo[];
-  playerVoiceId: string;
+  playerMaleVoiceId: string;
+  playerFemaleVoiceId: string;
 }
 
 export interface VoiceSetupResult {

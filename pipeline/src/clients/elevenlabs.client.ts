@@ -42,7 +42,7 @@ export interface ElevenLabsClientInstance {
   readonly checkAudioExists: (hash: string, soundsBranch: string) => Promise<boolean>;
   readonly matchCharacterToVoice: (characterName: string, existingVoices: readonly VoiceInfo[]) => string | null;
   readonly generateAndCreateVoice: (character: CharacterInfo) => Promise<string>;
-  readonly setupVoicesForQuest: (characters: readonly CharacterInfo[], playerVoiceId: string) => Promise<VoiceSetupResult>;
+  readonly setupVoicesForQuest: (characters: readonly CharacterInfo[], playerMaleVoiceId: string, playerFemaleVoiceId: string) => Promise<VoiceSetupResult>;
 }
 
 export interface GenerateSpeechInput {
@@ -281,14 +281,18 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
 
   const setupVoicesForQuest = async (
     characters: readonly CharacterInfo[],
-    playerVoiceId: string
+    playerMaleVoiceId: string,
+    playerFemaleVoiceId: string
   ): Promise<VoiceSetupResult> => {
     const existingVoices = await listVoices();
     console.log(`Found ${existingVoices.length} existing voices`);
 
-    const voiceMap: VoiceMap = { Player: playerVoiceId };
+    const voiceMap: VoiceMap = {
+      "Player Male": playerMaleVoiceId,
+      "Player Female": playerFemaleVoiceId,
+    };
     const createdVoices: string[] = [];
-    const matchedVoices: string[] = ["Player"];
+    const matchedVoices: string[] = ["Player Male", "Player Female"];
     const mutableExistingVoices = [...existingVoices];
 
     for (const character of characters) {
