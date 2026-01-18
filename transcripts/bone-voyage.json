@@ -1,0 +1,660 @@
+{
+  "branch": "quest/bone-voyage",
+  "quest_name": "Bone Voyage",
+  "lines": [
+    {
+      "character": "Curator Haig Halen",
+      "line": "Welcome to the museum of Varrock."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Yes, we found a rather interesting island to the North of Morytania. We believe that it may be of archaeological significance."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Indeed. We are making the final preparations for our voyage, in fact, you may be just the person we are looking for... Assuming you've got the necessary qualifications, that is."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Yes indeed. You've helped us a great deal around the Museum and you have the necessary qualifications from the Earth Sciences exams."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I have received word from the digsite that the canal has been constructed, and the barge is awaiting some final touches."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "The site foreman requested the aid of a qualified and experienced adventurer, and I believe you would be a perfect fit for the role."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "That's great to hear. You should speak to the foreman at the digsite canal, I'll make sure he knows to expect you."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm afraid there's not much more I can help you with. The foreman at the digsite should be able to answer any of your questions, good luck."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "The expedition to the island North of Morytania is certainly the most interesting thing going on around here at the moment."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "Ah yes, it's about time! We are in the final stages of preparation, there are a few minor adjustments I'd like to make to the barge before we get the crew ready."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "Well, we've learned from our previous attempts that we need a sturdier type of wood to keep the barge afloat."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "However, magic logs had... well... peculiar side effects."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "Luckily, a new high-grade wood was discovered in distant Western lands, it would make the perfect material for the areas of the barge we need to reinforce."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "It's not quite that simple, I'm afraid. You'll have to talk to the sawmill operator at the Varrock sawmill to the North West, he will let you know what has to be done."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "Welcome back. Have you retrieved the supplies yet?"
+    },
+    {
+      "character": "Barge foreman",
+      "line": "Well we need them to reinforce the barge, the sawmill operator can tell you what you need to do if you're unsure."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Do you want me to make some planks for you? Or would you be interested in some other housing supplies?"
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Ah, I was wondering when they would finally send over a member of the expedition."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "None of the lumber here is appropriate for the task at hand, however, I've arranged a fairly generous deal between myself and the sawmill over in the Hosidius Woodcutting guild."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "You'll have to deliver the agreement to their sawmill operator, or a representative of the guild if you lack the requirements to enter."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "That's good to hear. Once the document has been signed, bring it back to me and we'll get those supplies sent over to the foreman."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Ah yes. You need to get those documents signed by the sawmill operator in the Woodcutting guild in Hosidius. If you lack the requirements to enter, a representative of the guild can sign it on the sawmill's behalf."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "No worries, here's another copy."
+    },
+    {
+      "character": "Berry",
+      "line": "Hello there, what business do you have with the Woodcutting guild?"
+    },
+    {
+      "character": "Berry",
+      "line": "Ah yes, our sawmill operator was expecting you. Do you have the proposal with you?"
+    },
+    {
+      "character": "Berry",
+      "line": "Excellent, hand it over and I'll sign it on behalf of the guild if everything looks in order."
+    },
+    {
+      "character": "Berry",
+      "line": "There you go, we'll ship the redwood planks over to Varrock sawmill immediately."
+    },
+    {
+      "character": "Berry",
+      "line": "Welcome to the woodcutting guild, adventurer."
+    },
+    {
+      "character": "Berry",
+      "line": "Everything has been signed, so you just need to take it back to the sawmill operator at the Varrock sawmill."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Ah yes, it was no easy feat, but I've managed to make some very high quality lumber out of the logs from the redwoods up there."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Precisely."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Well, it certainly makes for an interesting material, I can imagine it being used for all sorts in the future..."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Anyway, do you have the proposed deal on you? The sooner we set up our agreement the sooner we can ship these materials."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Well you'll need to let me see the proposal before I can agree to anything."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Excellent, hand it over and I'll just make sure everything looks in order."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "There you go. We'll ship the materials over to the Varrock sawmill immediately."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Great, do you have the documents with you?"
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "Well, I'll need it before I can send over these supplies."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "That all looks to be in order. I'll get those supplies to the foreman right away."
+    },
+    {
+      "character": "Sawmill operator",
+      "line": "We're all done here, the foreman at the digsite should know what you need to do next."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "The supplies arrived earlier, my men have reinforced the barge using those redwood planks. Thanks for your help."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "The barge is prepared for the voyage, so I'm just about done here."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "Now that the barge is ready, you should probably talk to the lead navigator on board."
+    },
+    {
+      "character": "Barge foreman",
+      "line": "The barge guard will happily help you on board. Just give him a prod!"
+    },
+    {
+      "character": "Barge guard",
+      "line": "Hello there, can I help you?"
+    },
+    {
+      "character": "Barge guard",
+      "line": "Absolutely, the navigators are waiting for you on board!"
+    },
+    {
+      "character": "David",
+      "line": "Hello. You should talk to the lead navigator."
+    },
+    {
+      "character": "John",
+      "line": "Hello there, the lead navigator should be able to answer any questions you've got."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "You should talk to the lead navigator when you're ready to set sail."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Hello, I'm the lead navigator on the expedition, I take it you're here to help us out?"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Good, because we're going to need your help if we're ever going out on this voyage."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Well, you may be aware of the previous attempts at this expedition?"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Well, the first barge had some serious design flaws... it didn't float."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The second barge suffered from 'feature creep'. Senior museum staff stuck their oar in and added unnecessary features: 'go-faster stripes', a portable fossil centrifuge and a walk-on mini-museum."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Needless to say, it had... buoyancy issues."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The third barge made it out to sea, but a special sealant was used that attracted sea monsters. They didn't make it very far."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The fourth also used a special sealant, this one attracted icebergs."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The fifth barge crashed into the sixth."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "We lost the seventh one."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The eighth barge is still here, we think. An accident involving a magical explosion and some talking anchovies means that it is now believed to reside 12 seconds out of phase."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The ninth version was built using magic logs. The barge gained some form of rudimentary sentience. It developed serious depression and ran itself aground near Crandor."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "So, now do you understand why we need your help?"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The voyage is clearly cursed!"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Well, whether you believe it or not, know that none of my men will be going on this expedition unless you can ensure our safety from the curse."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "We're not the first crew to face a cursed voyage, perhaps someone who has experienced one before can give you some advice."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "I've heard all kinds of stories at the Rusty Anchor Inn in Port Sarim. I'm sure you'll be able to find out something about cursed voyages if you ask around the folks there."
+    },
+    {
+      "character": "Ahab",
+      "line": "Arrr, matey!"
+    },
+    {
+      "character": "Ahab",
+      "line": "Naarrr, can't say I have."
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "Arrr, matey!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Arrr, matey!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Aye! I've sailed many a treacherous journey in my time! What it be to ye?"
+    },
+    {
+      "character": "Longbow Ben",
+      "line": "There be nothing 'so-called' about curses!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Aye, 'tis a matter we take very seriously. Luckily, there are ways ye can avoid a curse."
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Well that all depends on the nature of yer travels!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "The museum aye? Ye be diggin' up bones and them sorts then?"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Then the way I be seein' it, ye be needin' a lucky charm to do with that!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Aye! I hear folk talking of an odd old man up in the quarry near Paterdomus who sounds as if he might deal in those sorts of things."
+    },
+    {
+      "character": "Ahab",
+      "line": "Bahahahaha! This poor one is sailing a cursed voyage and ye be suggestin' lucky charms?!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "What ye be gettin' at, Ahab?"
+    },
+    {
+      "character": "Ahab",
+      "line": "Listen here. There be no way out of a cursed voyage, however, there are ways one can make it through unscathed..."
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Aye, just like ye and yer leg, Ahab? Ahahaha!"
+    },
+    {
+      "character": "Ahab",
+      "line": "Take no notice of him. I just thought it be worth ye knowing all the options is all."
+    },
+    {
+      "character": "Ahab",
+      "line": "Folk be tellin' tales of a special potion... A 'potion of sealegs' they be callin' it."
+    },
+    {
+      "character": "Ahab",
+      "line": "Aye. The crew simply drink the potion before they be settin' sail, and the next thing they know, they be safely at their destination!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Arrr! Magical potions? Be soundin' like nonsense to me!"
+    },
+    {
+      "character": "Jack Seagull",
+      "line": "Be off with ye then, and talk to them navigators! You're ruinin' me rum!"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Welcome back. Any luck finding a way for us to make it through this cursed voyage?"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Interesting, let's hear them."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Well I'm certainly not putting my crew's life in the hands of some lucky charm! I think I'll go with the potion."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "I think the lucky charm sounds like a good idea..."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Oh quiet, boy - you shouldn't believe in such nonsense."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Fine by me, as long as you get that potion."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The apothecary in Varrock might be able to help you out with that potion of sealegs, I'd start by paying him a visit."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Don't forget the lucky charm from the odd old man up in Paterdomus!"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Any luck getting your hands on that potion of sealegs?"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "The apothecary in Varrock might be able to help you out, you should pay him a visit."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Hey, have you managed to get me that lucky charm?"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "The old man up in Paterdomus collects those sort of things, I'd see if he's going anything he's willing to give up."
+    },
+    {
+      "character": "Apothecary",
+      "line": "I am the Apothecary. I brew potions. Do you need anything specific?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Aha! Don't tell me... You want a potion of sealegs?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "You'd be amazed at the nonsense these pirates believe! I'll let you in on a little secret, there is no magical potion to save you from the sea's wrath!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "A simple herbal remedy containing vodka. Lots of vodka."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Look, if you bring me the ingredients, I'll make you the potion. It's not going to save your crew from sea curses, of course, but it'll certainly put their fears to rest!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Two bottles of vodka and an unfinished marrentill potion, I already have everything else I require."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Do you have the ingredients for the potion?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "You need to bring me 2 bottles of vodka and an unfinished marrentill potion."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Excellent. Hand them over and I'll mix the potion."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Lucky for you I made extra, try to be more careful this time!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "How goes the expedition?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Oh! Well, good luck!"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Oh, yes? I suppose I might have something like that laying around..."
+    },
+    {
+      "character": "Sack",
+      "line": "Mumblemumblemumble."
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Why would you be looking for such an item?"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Is that so..."
+    },
+    {
+      "character": "Sack",
+      "line": "Mumblemumble. Mumble."
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Do you take me for a fool? As if someone working for the museum would be looking for something like that!"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Oh really... so what would it be then?"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Interesting, yes, I may have something that could be of use..."
+    },
+    {
+      "character": "Sack",
+      "line": "Mumblemumble."
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Absolutely nothing! You can have it free of charge..."
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Just be sure to bring me back any interesting bones you find on that island."
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "My collection is not up for grabs! Go find your own!"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Lucky for you I have another one here, try to be more careful this time!"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Back already?"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Did you find any for me on that expedition of yours?"
+    },
+    {
+      "character": "Odd Old Man",
+      "line": "Well make sure you keep an eye out for anything particularly interesting!"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Thanks for getting me the lucky charm. I'm feeling a lot better about the voyage already."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Excellent work! I'm sure the crew will be very glad to hear about this."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Looks like we've got everything we need to set off!"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "We're ready to go when you are."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "What did your potion do to the crew?!"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "But then who's going to get us to the island?"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Yes, a JUNIOR navigator! I've never navigated open waters like this!"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "But this barge is highly specialised! It's the only one of its kind and it took years for the lead navigator to learn how to sail it!"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Okay... Let me think..."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "You'll need to operate the barge controls, I'll let you know if we're headed in the right direction."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "You'll have to fight against the winds to keep the bearing North, you can do that by steering the barge."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "You can increase or decrease our speed by adjusting the sails. You might find keeping the bearing North easier at slower speeds, but it will take longer to reach the island."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "If we're headed in the wrong direction for too long I'll take us back to the digsite. Let me know if you want me to go back over these instructions at any point."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Okay, see you soon."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "We were completely off course. Talk to the lead navigator to try again."
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "My head... What happened? I thought we were going to set off on our voyage?"
+    },
+    {
+      "character": "Lead Navigator",
+      "line": "Well, are you ready to set off again? Let me know and I'll get the crew to take another dose of this potion of sealegs."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Good work, you got us here in one piece!"
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "I suppose you'll want to start exploring the island as soon as possible."
+    },
+    {
+      "character": "Junior Navigator",
+      "line": "Here, take this journal so you can keep track of your discoveries. Base camp is being set up on shore, let me know if you'd like to head there."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ahab",
+      "description": "Elderly male, rough pirate accent, gruff and skeptical tone, a one-legged sailor who has seen his share of cursed voyages and speaks with bitter experience."
+    },
+    {
+      "name": "Apothecary",
+      "description": "Middle-aged male, British accent, dry and knowing tone, a potion-maker who is amused by sailors' superstitions but happy to profit from them."
+    },
+    {
+      "name": "Barge foreman",
+      "description": "Adult male, British working-class accent, practical and hardworking tone, a construction supervisor who is focused on getting the job done properly."
+    },
+    {
+      "name": "Barge guard",
+      "description": "Adult male, British accent, professional and accommodating tone, a dutiful guard who helps travelers board the expedition vessel."
+    },
+    {
+      "name": "Berry",
+      "description": "Adult male, British accent, friendly and professional tone, a woodcutting enthusiast who guards the guild entrance and handles administrative matters."
+    },
+    {
+      "name": "Curator Haig Halen",
+      "description": "Elderly male, British accent, scholarly and slightly pompous tone, a museum curator who is possessive of artifacts and proud of his collection."
+    },
+    {
+      "name": "David",
+      "description": "Adult male, British accent, brief and professional tone, a crew member on the expedition barge who defers to his superiors."
+    },
+    {
+      "name": "Jack Seagull",
+      "description": "Middle-aged male, exaggerated pirate accent, jovial and superstitious tone, a weathered sailor who believes strongly in lucky charms and curses."
+    },
+    {
+      "name": "John",
+      "description": "Adult male, British accent, polite and helpful tone, a crew member on the expedition barge who directs visitors to the lead navigator."
+    },
+    {
+      "name": "Junior Navigator",
+      "description": "Young male, British accent, nervous and eager tone, an inexperienced navigator who lacks confidence but rises to the occasion under pressure."
+    },
+    {
+      "name": "Lead Navigator",
+      "description": "Middle-aged male, British accent, experienced and weary tone, a seasoned sailor who has witnessed numerous expedition failures and fears curses."
+    },
+    {
+      "name": "Longbow Ben",
+      "description": "Middle-aged male, pirate accent, mysterious and serious tone, an eccentric sailor with a strange past who believes firmly in supernatural curses."
+    },
+    {
+      "name": "Odd Old Man",
+      "description": "Elderly male, British accent, eccentric and cryptic tone, a peculiar bone collector who talks to his sack and trades in unusual lucky charms."
+    },
+    {
+      "name": "Sack",
+      "description": "Unknown, muffled and unintelligible voice, mysterious mumbling tone, a sentient bone sack that communicates only in incomprehensible murmurs."
+    },
+    {
+      "name": "Sawmill operator",
+      "description": "Adult male, British accent, businesslike and efficient tone, a skilled tradesman who handles lumber deals and takes pride in quality woodwork."
+    }
+  ]
+}

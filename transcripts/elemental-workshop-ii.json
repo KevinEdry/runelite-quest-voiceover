@@ -1,0 +1,11 @@
+{
+  "branch": "quest/elemental-workshop-ii",
+  "quest_name": "Elemental Workshop II",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "I hope I got that right."
+    }
+  ],
+  "characters": []
+}

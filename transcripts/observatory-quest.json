@@ -1,0 +1,984 @@
+{
+  "branch": "quest/observatory-quest",
+  "quest_name": "Observatory Quest",
+  "lines": [
+    {
+      "character": "Observatory professor",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I was..."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Welcome to the magnificent wonder of the Observatory, where wonder is all around you, where the stars can be clutched from the heavens!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow, nice intro."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Why, thanks! How might I help you?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Lost? It must have been those pesky goblins that led you astray."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Head north-east to find the city of Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure I'll find the way."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for all your help."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "No problem at all. Come and visit again!"
+    },
+    {
+      "character": "Player",
+      "line": "An Observatory?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Of course. We have a superb telescope up in the Observatory, on the hill."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "A truly marvellous invention, the likes of which you'll never behold again."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Well, it would be if it worked."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Don't interrupt!"
+    },
+    {
+      "character": "Player",
+      "line": "What? It doesn't work?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Oh, no, no, no. Don't listen to him, he's joking. Aren't you, my FAITHFUL assistant?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Nope, dead serious. Hasn't been working for a long time."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Arghhh! Get back to work and stop sticking your nose in!"
+    },
+    {
+      "character": "Player",
+      "line": "So, it's broken. How come?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Oh, I suppose there's no use keeping it secret. Did you see those houses outside?"
+    },
+    {
+      "character": "Player",
+      "line": "Up on the hill? Yes, I've seen them."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "It's a horde of goblins."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Since they moved here they have caused nothing but trouble."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Last week, my telescope was tampered with."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Now, parts need replacing before it can be used again. They've even been messing around in the dungeons under this area. Something needs to be done."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Strikes me that this visitor could help us."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Stop being so rude."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Although, he has a point. What do you say?"
+    },
+    {
+      "character": "Player",
+      "line": "What, me?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds interesting, what can I do for you?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Oh, thanks so much."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I shall need some materials for the telescope, so it can be used again."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Let's start with three planks of wood for the telescope base. My assistant will help with obtaining these, won't you?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "As if I don't have enough work to do. Seems I don't have a choice."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Go talk to him if you need some advice."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be right back."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry, I don't have time for that."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Oh dear. I really do need some help."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "If you see anyone who can help then please send them my way."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just passing through."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Fair enough. Not everyone is interested in this place, I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "Can I interrupt you?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I suppose so. Please be quick though."
+    },
+    {
+      "character": "Player",
+      "line": "Might I have a word?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Sure, how can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I speak with you?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Why, of course. What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find planks of wood? I need some for the telescope's base."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I understand planks can be found at Port Khazard, to the east of here. There are some at the Barbarian Outpost, too."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Failing that, you could always ask the Sawmill Operator. He's to the north-east of Varrock, by the Lumber Yard."
+    },
+    {
+      "character": "Player",
+      "line": "I have a plank."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "That you do - but if you remember rightly, the professor wanted an ordinary wooden plank, like the ones at Port Khazard."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see."
+    },
+    {
+      "character": "Player",
+      "line": "How about this plank I've got here?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I think the professor was after ordinary planks. You should be able to find them at Port Khazard."
+    },
+    {
+      "character": "Player",
+      "line": "I've got a plank."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "That's nice."
+    },
+    {
+      "character": "Player",
+      "line": "You know, for the telescope's base."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Well done. Remember that you'll need three in total."
+    },
+    {
+      "character": "Player",
+      "line": "I've got some planks for the telescope's base."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Good work! The professor has been eagerly awaiting them."
+    },
+    {
+      "character": "Player",
+      "line": "Hi again!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "It's my helping hand, back again."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Do you have the planks yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, not yet. Three planks was it?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "It was indeed."
+    },
+    {
+      "character": "Player",
+      "line": "I've made a start."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Well, you'll need three of them."
+    },
+    {
+      "character": "Player",
+      "line": "I have a plank for you."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's no good. I asked for ordinary planks. If you can't find out where they are, talk to my assistant."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry."
+    },
+    {
+      "character": "Player",
+      "line": "How about this plank?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I asked for ordinary wooden planks. If you're not sure where to get them, speak to my assistant."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've got them. Here they are."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Well done. This will make a big difference."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Now, the bronze for the tube. Oh, assistant!"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Okay, okay, ask me if you need any help,."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "The traveller returns!"
+    },
+    {
+      "character": "Player",
+      "line": "Still working hard?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Some of us are."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "What did I tell you about speaking when spoken to?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "So, you have the bronze bar?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Please bring me one, then."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me? How do I go about getting a bronze bar?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "You'll need to use tin and copper ore on a furnace to produce this metal."
+    },
+    {
+      "character": "Player",
+      "line": "Right you are."
+    },
+    {
+      "character": "Player",
+      "line": "The bronze bar is ready, and waiting for the professor."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "He'll surely be pleased. Go ahead and give it to him."
+    },
+    {
+      "character": "Player",
+      "line": "I certainly do. Here you go."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Great. Now all I need is the lens made."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Please get me some molten glass."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Oi! Lazy bones!"
+    },
+    {
+      "character": "Player",
+      "line": "What? I'm not lazy."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Not you! I'm talking to my assistant."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Calm down old man, I heard., I'm here if you need any help."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Thank you. Wait a minute, who you calling 'old'?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "How are you getting on finding me some molten glass?"
+    },
+    {
+      "character": "Player",
+      "line": "Still working on it."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I really need it. Please hurry."
+    },
+    {
+      "character": "Player",
+      "line": "What's the best way for me to get molten glass?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "There are many ways, but I'd suggest making it yourself. Get yourself a bucket of sand and some soda ash, which you can get from using seaweed with a furnace. Use the soda ash and sand together in a"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "furnace and bang - molten glass is all yours. There's a book about it on the table if you want to know more."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "I've managed to get hold of some molten glass."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I suggest you have a word with the professor, in that case."
+    },
+    {
+      "character": "Player",
+      "line": "Here it is."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Excellent work, let's make the lens."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "It'll need to be made to an exact shape and size."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Well, obviously, hence why we have a lens mould."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Not any more. One of those goblins took it."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Great, just what I need., I don't suppose you could find it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll have a look - where should I start?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "No idea. You could ask my USELESS assistant if you want."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "What have I done to deserve this?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Did you bring me the mould?"
+    },
+    {
+      "character": "Player",
+      "line": "Still looking for it."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Please try and find it; again, my assistant may be able to help."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find this lens mould you mentioned?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I'm sure I heard one of those goblins talking about it. I bet they've hidden it somewhere. Probably using it for some strange purpose, I'm sure."
+    },
+    {
+      "character": "Player",
+      "line": "What makes you say that?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I had a nice new star chart, until recently. I went out to do an errand for the professor the other day, only to see a goblin using it..."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "...as some kind of makeshift hankey to blow his nose!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "You may want to look through the dungeon they have under their little village."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the advice."
+    },
+    {
+      "character": "Player",
+      "line": "I found a key."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Perhaps it unlocks something."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, thanks. Great advice."
+    },
+    {
+      "character": "Player",
+      "line": "Look. I found this."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "A key?"
+    },
+    {
+      "character": "Player",
+      "line": "Exactly."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "To what?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I don't know. Perhaps some amazing treasure!"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "I doubt it."
+    },
+    {
+      "character": "Player",
+      "line": "Look, I found this!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "It doesn't look much like a lens mould."
+    },
+    {
+      "character": "Player",
+      "line": "What? No. It's a key!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "To what?"
+    },
+    {
+      "character": "Player",
+      "line": "Well,I don't really know yet."
+    },
+    {
+      "character": "Player",
+      "line": "No, but I found a key."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Interesting. You might be onto something there. Keep looking."
+    },
+    {
+      "character": "Player",
+      "line": "Will do, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "You had better be quick, there may be more guards about."
+    },
+    {
+      "character": "Player",
+      "line": "I have the lens mould."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Well done on finding that! I am honestly quite impressed. Make sure you take it straight to the professor."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Player",
+      "line": "I certainly have. You'll never guess what they were doing with it."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Well, from the smell I'd guess cooking some vile concoction."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, good guess. Well, here you go."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Please don't give that to him. Last time he tried any Crafting, I had to spend a week cleaning up after the explosion."
+    },
+    {
+      "character": "Player",
+      "line": "Explosion?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Erm, yes. I think in this instance you had probably better do it."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose it's better I don't ask."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "You can use the mould with molten glass to make a new lens."
+    },
+    {
+      "character": "Player",
+      "line": "Hold on a second. I don't have space to carry it all."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Hurry and free up some space, then."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Is the lens finished?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I make it again?"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Use the molten glass with the mould."
+    },
+    {
+      "character": "Player",
+      "line": "Huh. Simple."
+    },
+    {
+      "character": "Player",
+      "line": "How should I make this lens?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Just use the molten glass with the mould. Simple."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you like this lens? Good, huh?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Nice. What's that scratch?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, erm, that's a feature."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's it! Indubitably, it facilitates the triangulation of photonic illumination to the correct..."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Stop! You can't confuse me with big words. Just pray the professor doesn't notice."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, here it is. You may as well take this mould too."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Wonderful, at last I can fix the telescope."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Would you accompany me to the Observatory? You simply must see the telescope in operation."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds interesting. Count me in."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Superb. You'll have to go via the dungeon under the goblin settlement, seeing as the bridge is broken. You'll find stairs up to the Observatory from there."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. See you there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Ah, it's the telescope repairman! The professor is waiting for you in the Observatory."
+    },
+    {
+      "character": "Player",
+      "line": "How can I get to the Observatory?"
+    },
+    {
+      "character": "Observatory assistant",
+      "line": "Well, since the bridge was ruined, you will have to travel through the dungeon under the goblins' settlement."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, professor!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Oh, hi there."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I'm just adding the finishing touches."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, don't let me interrupt."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Thank you."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Right, let's get this finished."
+    },
+    {
+      "character": "Observatory professor",
+      "line": ", I'm just going upstairs to finish off."
+    },
+    {
+      "character": "Player",
+      "line": "Right-oh."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Looking good."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Welcome back."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, this really is impressive."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Certainly is. Please, take a look through the telescope and tell me what you see."
+    },
+    {
+      "character": "Player",
+      "line": "I've had a look through the telescope."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "What did you see? If you're not sure, you can find out by looking at the star charts dotted around the walls downstairs."
+    },
+    {
+      "character": "Player",
+      "line": "It was..."
+    },
+    {
+      "character": "Player",
+      "line": "Aquarius!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's exactly it!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! Woo hoo!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Aquarius, the water-bearer."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "It seems suitable, then, to award you with water runes!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "By Saradomin's earlobes! You must be a friend of the gods indeed."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Look in your backpack for your reward, in payment for your work."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Have you got some space for your reward?"
+    },
+    {
+      "character": "Player",
+      "line": "Reward? Oh, no, I haven't."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Come see me again when you have a few free spaces in your inventory."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I'm afraid not. Have another look. Remember, you can check the star charts on the walls for reference."
+    },
+    {
+      "character": "Player",
+      "line": "Capricorn!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Capricorn, the goat."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Capricorn will surely reward your insight with an increase to your Strength."
+    },
+    {
+      "character": "Player",
+      "line": "Sagittarius!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Sagittarius, the centaur."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "As you've spotted the archer, I shall reward you with a maple longbow."
+    },
+    {
+      "character": "Player",
+      "line": "Scorpio!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Scorpio, the scorpion."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I think weapon poison would make a suitable reward."
+    },
+    {
+      "character": "Player",
+      "line": "Libra!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Libra, the scales."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Hmmm, balance, law, order - I shall award you with law runes!"
+    },
+    {
+      "character": "Player",
+      "line": "Virgo!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Virgo, the virtuous."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "Virgo will surely provide you with an increase to Defence."
+    },
+    {
+      "character": "Player",
+      "line": "Leo!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Leo, the lion."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "I think the majestic power of the lion will raise your Hitpoints."
+    },
+    {
+      "character": "Player",
+      "line": "Cancer!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Cancer, the crab."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "An armoured creature - I think I shall reward you with an amulet of protection."
+    },
+    {
+      "character": "Player",
+      "line": "Gemini!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Gemini, the twins."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "With the double nature of Gemini, I can't offer you anything more suitable than a two-handed weapon."
+    },
+    {
+      "character": "Player",
+      "line": "Taurus!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Taurus, the bull."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "This Strength potion should be a suitable reward."
+    },
+    {
+      "character": "Player",
+      "line": "Aries!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Aries, the ram."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "A fierce fighter. I'm sure he'll look down on you and improve your Attack for such insight."
+    },
+    {
+      "character": "Player",
+      "line": "Pisces!"
+    },
+    {
+      "character": "Observatory professor",
+      "line": "That's Pisces, the fish."
+    },
+    {
+      "character": "Observatory professor",
+      "line": "What's more suitable as a reward than some tuna?"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Observatory assistant",
+      "description": "Young adult male, British accent, meek and slightly sardonic tone. A put-upon assistant who follows orders but quietly resents his demanding employer, occasionally letting dry sarcasm slip through."
+    },
+    {
+      "name": "Observatory professor",
+      "description": "Elderly male, refined British accent, pompous and theatrical tone. A passionate astronomer who speaks with grandiose flourishes about the stars but is quick-tempered and dismissive toward his assistant."
+    }
+  ]
+}

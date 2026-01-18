@@ -1,0 +1,744 @@
+{
+  "branch": "quest/the-hand-in-the-sand",
+  "quest_name": "The Hand in the Sand",
+  "lines": [
+    {
+      "character": "Bert",
+      "line": "Eeee, wha' shall I do! I'll mos' certainly lose tha job..."
+    },
+    {
+      "character": "Player",
+      "line": "Lose your job? What's wrong, why?"
+    },
+    {
+      "character": "Bert",
+      "line": "I w-w-work... over yon sand pit... and weeell... I found... this... hand! T'were buried in't Sand!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, you found a hand in the sand - that's nice for you."
+    },
+    {
+      "character": "Player",
+      "line": "Eww a hand, in the sand! Why haven't you told the authorities?"
+    },
+    {
+      "character": "Bert",
+      "line": "They's no' wha' they once was. Tha cap'ain o'the Guard spends near all o'the time drunk in yon pub."
+    },
+    {
+      "character": "Player",
+      "line": "Oh? The Guard Captain is drunk in the pub you say? That's not good, what will you do?"
+    },
+    {
+      "character": "Bert",
+      "line": "Weeellll... do yer think yer could 'elp me?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, I'll give you a hand."
+    },
+    {
+      "character": "Bert",
+      "line": "..... Nae, ye can 'ave the 'and as h'evidence."
+    },
+    {
+      "character": "Bert",
+      "line": "P'raps tha smell will get t'Guard Cap'ain's nose out o'his beer fer 2 seconds!"
+    },
+    {
+      "character": "Player",
+      "line": "I want no part in this!"
+    },
+    {
+      "character": "Bert",
+      "line": "Did ye see yon Guard Capt'n 'bout hand?"
+    },
+    {
+      "character": "Player",
+      "line": "Not at the moment, but I will be seeing him soon."
+    },
+    {
+      "character": "Guard Captain",
+      "line": "Need more beer..."
+    },
+    {
+      "character": "Player",
+      "line": "Sir? I have some more beer for you..."
+    },
+    {
+      "character": "Guard Captain",
+      "line": "Ahh... jus' wha' I need, now, wha' did you wanna know?"
+    },
+    {
+      "character": "Player",
+      "line": "I've come to report that Bert, the sandman, found a hand in the sand pit."
+    },
+    {
+      "character": "Guard Captain",
+      "line": "Lucky for him, means he can get even more work done."
+    },
+    {
+      "character": "Player",
+      "line": "But aren't you going to find out who it... belonged to?"
+    },
+    {
+      "character": "Guard Captain",
+      "line": "Oops, No 'arm done. S'prob'ly a wizard, i's always the wizards fault, go ask them, jus' ring the bell outshide the guild and talk to the first pointy hatted ninny you shee!"
+    },
+    {
+      "character": "Player",
+      "line": "Err... ok, I'll go ring the bell and talk to a wizard then."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, the Guard Captain said to see the wizards in the guild."
+    },
+    {
+      "character": "Bert",
+      "line": "So why you hangin' abou' 'ere then? Go ring t'bell at t'mage guild just over yonder!"
+    },
+    {
+      "character": "Player",
+      "line": "It seems to have slipped through my fingers!"
+    },
+    {
+      "character": "Bert",
+      "line": "Tha's no' surprisin' with yer bag so full, come back when s'not."
+    },
+    {
+      "character": "Bert",
+      "line": "Thank t'gods! I tho' I was bein invaded by undead 'ands from t'sand when I found this'un! Take i' to tha mage guild and ring tha' bell to talk ta someone."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Bert, I'm off to see the wizards, the wonderful wizards of Yanille!"
+    },
+    {
+      "character": "Player",
+      "line": "Not at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Sir!"
+    },
+    {
+      "character": "Guard Captain",
+      "line": "Go 'way! This pint'sh nearly finished! Unlessh you got more that ish....? Wizards, s'all the wizard's fault...prob'ly that Zavistic one, he'sh the worsht!"
+    },
+    {
+      "character": "Guard Captain",
+      "line": "E're, you left this 'and in me beer!"
+    },
+    {
+      "character": "Guard Captain",
+      "line": "No good if you don' have space fer it in yer invent'ry, come back when you do."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "What are you doing...Oh, it's you...sorry...didn't realise...what can I do for you?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "What are you doing ringing that bell?! Don't you think some of us have work to do?"
+    },
+    {
+      "character": "Player",
+      "line": "But I was told to ring the bell if I wanted some attention."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Well...anyway...we're very busy here, hurry up what do you want?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "What are you doing bothering me? Don't you think some of us have work to do?"
+    },
+    {
+      "character": "Player",
+      "line": "I thought you were here to help?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Well... I am, I suppose, anyway... we're very busy here, hurry up, what do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Ummm... Do you have all your wizards?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "All my.... whatever do you mean...?"
+    },
+    {
+      "character": "Player",
+      "line": "The Guard Captain asked me to see if you have any... missing... wizards."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "That's silly! No one would kill a wizard... would they?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm... no..."
+    },
+    {
+      "character": "Player",
+      "line": "Well.. maybe, you see Bert found this hand and it might belong to.. a wizard!"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Bert? Ahh yes, the sandman who seems to have been working very long hours recently. Let's see that hand..."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Oh my! This is most definitely Clarence, my most able student! You must find out who did this!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any input as to the matter at hand?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Well.... Ask Bert about the long hours he's been working, that sounds suspicious to me. Digging things up at all hours of the day isn't natural."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Did you find out who killed Clarence yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, but don't lose your head over it."
+    },
+    {
+      "character": "Guard Captain",
+      "line": "I don' need a hand drinkin me beer, go 'way!"
+    },
+    {
+      "character": "Player",
+      "line": "But..."
+    },
+    {
+      "character": "Guard Captain",
+      "line": "Talk to tha' hand coz thish face ain't lishtnin'!"
+    },
+    {
+      "character": "Bert",
+      "line": "Wha' info ye find 'bout hand, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I dug up quite a lot about the hand. Can you tell me about your job?"
+    },
+    {
+      "character": "Bert",
+      "line": "Sand! Lots o' sand! Me boss be Sandy o' Sandy's Sand Corp based in Brimhaven on tha isle of Karamja an' I hauls sand fr' there to yon sand pit."
+    },
+    {
+      "character": "Bert",
+      "line": "I's looong harrrrd hours, bu' keeps me busy, y'know what tha say! 'Idle hands'r Zamorak's tools.'"
+    },
+    {
+      "character": "Player",
+      "line": "So you're employed by Sandy's Sand Corp in Brimhaven. Have you changed your hours recently?"
+    },
+    {
+      "character": "Bert",
+      "line": "Yer coul' see fer yerself iffen yer had space in yorn invent'ry, come back when yer do."
+    },
+    {
+      "character": "Bert",
+      "line": "Nae! See fer yersel', here's a copy o' me rota tha' be held a' head office - yer can looksee iffin ye talk t' Sandy, me boss."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the Rota Bert. I'll go check for the original with Sandy in Brimhaven."
+    },
+    {
+      "character": "Bert",
+      "line": "Ey'up. Did yer see Sandy in Brimhaven 'bout me rota?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, no, I kind of... lost it..."
+    },
+    {
+      "character": "Bert",
+      "line": "Lucky fer yorn tha' I's made a copy then ain't it, I's 'ave been given it to yer iffen you 'ad some space in yer invent'ry."
+    },
+    {
+      "character": "Player",
+      "line": "What did you say?"
+    },
+    {
+      "character": "Bert",
+      "line": "Is you stupid? I said I'd give ye another but yer bags be full!"
+    },
+    {
+      "character": "Bert",
+      "line": "Lucky fer yorn tha' I's made a copy then ain't it, 'ere 'ave another."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'll fit it in my schedule somewhere soon."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Sir, do you run the Sand Corp?"
+    },
+    {
+      "character": "Sandy",
+      "line": "Who wants to know?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm. I'm here investigating the possible murder of a wizard."
+    },
+    {
+      "character": "Sandy",
+      "line": "I don't care about that, I have far too much work to do. Let the authorities take care of things like murder and stop snooping around my office!"
+    },
+    {
+      "character": "Player",
+      "line": "I managed to get a copy of the original rota. Your hours changed a week ago!"
+    },
+    {
+      "character": "Bert",
+      "line": "Nae! Nae! I din't remember tha', bu'... hmmm, aye... tha' migh' be it..."
+    },
+    {
+      "character": "Player",
+      "line": "What? Give me a hand here, I'm having a hard time understanding how you don't remember changing hours!"
+    },
+    {
+      "character": "Bert",
+      "line": "I's all be tha wizard's fault! Tha magic leaks fr'm yon magic guild I tells yer! Tha's why this weirrrrd scroll appeareded a week ago!"
+    },
+    {
+      "character": "Player",
+      "line": "A scroll appeared? Can I take a look at it while you look at the rotas?"
+    },
+    {
+      "character": "Bert",
+      "line": "O'course, le's be 'avin'yon rota and 'ere be tha scroll, yer be takin' it back ta those inferrrnal wizards quick sharp!"
+    },
+    {
+      "character": "Bert",
+      "line": "I be hopin' tha search is goin' well... are tha wizard's owning up ta anythin' yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I've found out a lot and will let you know when it's all over."
+    },
+    {
+      "character": "Player",
+      "line": "I talked to Bert and found something very strange about his hours."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Oh? Did he kill Clarence?"
+    },
+    {
+      "character": "Player",
+      "line": "No, but he doesn't remember changing his hours, and his rota and the original that his boss Sandy had, are different!"
+    },
+    {
+      "character": "Player",
+      "line": "... oh, and this scroll appeared when they changed - he gave it to me."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "I recognise that type of scroll! It's used in a mind altering spell of some sort. Did you speak to this... Sandy guy? Perhaps he has a hand in this."
+    },
+    {
+      "character": "Player",
+      "line": "I took a look around his office. I don't know about a hand in it, I think he has both hands and feet in it!"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Even more suspicious! Here, take this magical scrying orb and get some Truth Serum from Betty in Port Sarim, she owes me a favour, just tell her I sent you if she complains."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Then you will be equipped to ask Sandy a few questions. Oh Clarence, I will find your murderer!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost my magical scrying orb!"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "I'd give you another magical scrying orb if you had some space in your inventory."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "No matter, here, have another and please hurry, whoever killed Clarence must pay!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me more?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Bring me a vial and I'll help you a little more."
+    },
+    {
+      "character": "Player",
+      "line": "I have a vial here for you."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Ok, would you like me to transport you to Port Sarim? I'm sticking my neck out a bit helping you like this and can only do it once though!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that would be great!"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Off you go then, break a leg!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I prefer using my legs, thanks all the same."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Ok, suit yourself!"
+    },
+    {
+      "character": "Player",
+      "line": "I've come from Yanille, the wizard says you can make Truth Serum?"
+    },
+    {
+      "character": "Betty",
+      "line": "This is true deary, I'll need an empty vial."
+    },
+    {
+      "character": "Player",
+      "line": "I'll have to go find one then, I'll be back!"
+    },
+    {
+      "character": "Player",
+      "line": "I have one here!"
+    },
+    {
+      "character": "Betty",
+      "line": "That's good, now you'll need to make a rose tinted lens. Pink dye can be made from red berries in this bottle to make redberry juice, then add white berries. Just use that on a bullseye lens."
+    },
+    {
+      "character": "Betty",
+      "line": "Hello deary! Have you managed to make that lens yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I've forgotten how!"
+    },
+    {
+      "character": "Betty",
+      "line": "Pink dye can be made from red berries in the bottle I gave you. Add white berries to make the pink dye and then you just need to use that on a bullseye lens. Good luck!"
+    },
+    {
+      "character": "Betty",
+      "line": "Wonderful deary. When you're ready, just stand in the open doorway and focus the light on the empty vial on my desk and I'll pour the serum into it."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, what does that do?"
+    },
+    {
+      "character": "Betty",
+      "line": "Why it makes the person who drinks it unable to hide in the shadow of lies. The light of truth will shine!"
+    },
+    {
+      "character": "Betty",
+      "line": "Ok, now the last ingredient, something personal from the person you need to tell the truth, else it won't work!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll see if I can find something."
+    },
+    {
+      "character": "Player",
+      "line": "What about this sand straight from his pocket?"
+    },
+    {
+      "character": "Betty",
+      "line": "That's excellent deary!"
+    },
+    {
+      "character": "Betty",
+      "line": "Don't forget to dilute it in something like tea or coffee."
+    },
+    {
+      "character": "Betty",
+      "line": "Hello deary! How did the serum work?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost it!"
+    },
+    {
+      "character": "Betty",
+      "line": "That's not a problem, I kept some of it here just in case, but you have no space for it! Come back when you do"
+    },
+    {
+      "character": "Betty",
+      "line": "That's not a problem, I kept some of it here just in case, here you are!"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't tried it yet."
+    },
+    {
+      "character": "Betty",
+      "line": "Well don't forget to dilute it in a drink or something else bad things might happen."
+    },
+    {
+      "character": "Player",
+      "line": "Bad things?"
+    },
+    {
+      "character": "Betty",
+      "line": "Well.... bits might drop off."
+    },
+    {
+      "character": "Player",
+      "line": "Oh! I... see. I'll remember to dilute it then."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Have you made the serum and talked to Sandy yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, but don't bust a gut over it!"
+    },
+    {
+      "character": "Sandy",
+      "line": "I don't have time to talk to you. Go away!"
+    },
+    {
+      "character": "Player",
+      "line": "There's a herd of huge mutant herring about to drop from the sky!"
+    },
+    {
+      "character": "Sandy",
+      "line": "Wow! I must see this!"
+    },
+    {
+      "character": "Sandy",
+      "line": "I'm not falling for that one!"
+    },
+    {
+      "character": "Player",
+      "line": "But the pygmy shrews have eaten all the sand!"
+    },
+    {
+      "character": "Player",
+      "line": "A small parrot with a pink banana is sitting outside your window!"
+    },
+    {
+      "character": "Player",
+      "line": "Now, I'm going to ask you some questions and I want you to answer me truthfully..."
+    },
+    {
+      "character": "Sandy",
+      "line": "Ok..."
+    },
+    {
+      "character": "Player",
+      "line": "Why is Bert's rota different from the original?"
+    },
+    {
+      "character": "Sandy",
+      "line": "Because... I changed it."
+    },
+    {
+      "character": "Sandy",
+      "line": "Because.... because.... I bribed a wizard to put a spell on him so he would believe everything I say!!"
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Sandy",
+      "line": "So that I could make him work longer without paying him more!"
+    },
+    {
+      "character": "Sandy",
+      "line": "I...I... I KILLED HIM! So I wouldn't have to pay him and no one would know. I put his body in the next load of sand."
+    },
+    {
+      "character": "Player",
+      "line": "I think I have enough evidence now, you can go for now, but I think you're up to your neck in it!"
+    },
+    {
+      "character": "Betty",
+      "line": "Hello again deary. Come back and tell me what happened when all the fuss is over."
+    },
+    {
+      "character": "Player",
+      "line": "Ok Betty, I'll be back!"
+    },
+    {
+      "character": "Player",
+      "line": "I got the whole story from Sandy... but I lost the orb."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "It's ok, I saw the whole thing as the orb is connected via magic to me as I enchanted it."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "I think this Sandy needs a lesson, please bring me 5 earth runes and a bucket of sand."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Well, well...I think this Sandy needs a lesson, please bring me 5 earth runes and a bucket of sand."
+    },
+    {
+      "character": "Player",
+      "line": "Erm, why?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Don't question me or you'll end up as braindead as that legless Guard Captain!"
+    },
+    {
+      "character": "Player",
+      "line": "Umm.. ok, I'll get you the 5 earth runes and bucket of sand."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "You really mean you forgot? Bring me 5 earth runes and 1 bucket of sand to help stop that moneygrabbing Sandy!"
+    },
+    {
+      "character": "Player",
+      "line": "I've brought what you wanted, what are you going to do?"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Ahh excellent, let's have those! Watch and learn..."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "There, the sand pit will now magically refill. No more work for Bert!"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "We must find the rest of Clarence, I've sent some wizards out to some of the sandpits, would you please check the Entrana sandpit?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Mazion",
+      "line": "Uh...greetings !"
+    },
+    {
+      "character": "Player",
+      "line": "Uhh... How do you know my name?"
+    },
+    {
+      "character": "Mazion",
+      "line": "Oh, I like to keep ahead of things."
+    },
+    {
+      "character": "Player",
+      "line": "Err.. ok. Well, I've been sent from the Wizards' Guild in Yanille. There's been an... incident... Do you have any body parts?"
+    },
+    {
+      "character": "Mazion",
+      "line": "How did you know! I found the most awful thing in my sandpit - a head!"
+    },
+    {
+      "character": "Player",
+      "line": "Ahhh good! I need to take it back to be buried!"
+    },
+    {
+      "character": "Mazion",
+      "line": "You're very strange, but if it means I get rid of the horrid thing..."
+    },
+    {
+      "character": "Mazion",
+      "line": "Or I would if you had any room in your bag!"
+    },
+    {
+      "character": "Mazion",
+      "line": "I see you still have that head! Take it back to the Wizards in Yanille!"
+    },
+    {
+      "character": "Mazion",
+      "line": "Hello again !"
+    },
+    {
+      "character": "Player",
+      "line": "What should I do with the head?"
+    },
+    {
+      "character": "Mazion",
+      "line": "It was you that came demanding the head to give to the wizard in the first place! Go back to Yanille with it!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost my head!"
+    },
+    {
+      "character": "Mazion",
+      "line": "You dropped it and you don't have room to carry it now, come back when you do."
+    },
+    {
+      "character": "Mazion",
+      "line": "Keep your hair on! You dropped it! Make sure you take it straight back to the wizards else you won't have a leg to stand on."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Did you visit the Entrana sandpit yet? Ask the worker there if he's found an arm or a leg."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet no. I've been running around like a headless chicken, but I'll get to it!"
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Alas poor Clarence. I knew him,."
+    },
+    {
+      "character": "Zavistic Rarve",
+      "line": "Thank you - we shall bury him today. I have sent word for the guards to arrest Sandy, so no one will ever see him again!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bert",
+      "description": "Middle-aged male, thick Northern English Yorkshire accent, weathered working-class tone, a hardworking sandman who speaks with dropped letters and dialect words like 'yon' and 't'."
+    },
+    {
+      "name": "Betty",
+      "description": "Elderly female, warm British accent, gentle and nurturing tone, a kindly magic shop owner who calls everyone 'deary' and speaks with patience and wisdom."
+    },
+    {
+      "name": "Guard Captain",
+      "description": "Middle-aged male, slurred British accent, perpetually drunk and dismissive, a neglectful military officer who can barely string words together between drinks."
+    },
+    {
+      "name": "Mazion",
+      "description": "Adult male, calm British accent, serene and observant tone, a monk who manages a sand pit on holy Entrana and speaks with quiet thoughtfulness."
+    },
+    {
+      "name": "Sandy",
+      "description": "Middle-aged male, sharp British accent, irritable and impatient businessman tone, always stressed and dismissive, hiding dark secrets beneath his corporate facade."
+    },
+    {
+      "name": "Zavistic Rarve",
+      "description": "Older male, refined British accent, authoritative and intellectual tone, the Grand Secretary of the Wizards' Guild who speaks with academic formality and occasional impatience."
+    }
+  ]
+}

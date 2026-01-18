@@ -1,0 +1,204 @@
+{
+  "branch": "quest/troll-stronghold",
+  "quest_name": "Troll Stronghold",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Welcome back friend!"
+    },
+    {
+      "character": "Player",
+      "line": "How goes your fight with the trolls?"
+    },
+    {
+      "character": "Denulth",
+      "line": "I'm afraid I have bad news. We made our attack as planned, but we met unexpected resistance."
+    },
+    {
+      "character": "Player",
+      "line": "What happened?"
+    },
+    {
+      "character": "Denulth",
+      "line": "We were ambushed by trolls coming from the north. They captured Dunstan's son, Godric, who we enlisted at your request; we tried to follow but we were repelled at the foot of their stronghold."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can do to help?"
+    },
+    {
+      "character": "Denulth",
+      "line": "The way to the stronghold is treacherous, friend. Even if you manage to climb your way up, there will be many trolls defending the stronghold."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get Godric back!"
+    },
+    {
+      "character": "Denulth",
+      "line": "God speed friend! I would send some of my men with you, but none of them are brave enough to follow."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry to hear that."
+    },
+    {
+      "character": "Denulth",
+      "line": "How are you getting on with rescuing Godric?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't found a way to climb up yet."
+    },
+    {
+      "character": "Denulth",
+      "line": "Hurry, friend! Who knows what they'll do with Godric?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Tenzing!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Hello again traveller. What can I do for you?"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Sure, I'll sell you some in your size for 12 gold."
+    },
+    {
+      "character": "Player",
+      "line": "OK, sounds good."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Was there anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the money on me."
+    },
+    {
+      "character": "Player",
+      "line": "No, thanks."
+    },
+    {
+      "character": "Dad",
+      "line": "No human pass through arena without defeating Dad!"
+    },
+    {
+      "character": "Dad",
+      "line": "What tiny human do in troll arena? Dad challenge human to fight!"
+    },
+    {
+      "character": "Dad",
+      "line": "Troll named after first thing try to eat!"
+    },
+    {
+      "character": "Player",
+      "line": "I accept your challenge!"
+    },
+    {
+      "character": "Dad",
+      "line": "Tiny human brave. Dad squish!"
+    },
+    {
+      "character": "Player",
+      "line": "Eek! No thanks."
+    },
+    {
+      "character": "Dad",
+      "line": "Coward. Dad wait for braver fighter."
+    },
+    {
+      "character": "Dad",
+      "line": "Stop! You win. Not hurt Dad."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be going now."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not done yet! Prepare to die!"
+    },
+    {
+      "character": "Player",
+      "line": "I've found my way into the prison."
+    },
+    {
+      "character": "Denulth",
+      "line": "...and?"
+    },
+    {
+      "character": "Player",
+      "line": "That's all."
+    },
+    {
+      "character": "Denulth",
+      "line": "Hurry, friend. Find a way to free Godric!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Thanks! I'm off back home!"
+    },
+    {
+      "character": "Godric",
+      "line": "Thank you, my friend."
+    },
+    {
+      "character": "Player",
+      "line": "I have freed Godric!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Oh, what great news! You should hurry to tell Dunstan, he will be overjoyed!"
+    },
+    {
+      "character": "Player",
+      "line": "Has Godric returned home?"
+    },
+    {
+      "character": "Dunstan",
+      "line": "He is safe and sound, thanks to you my friend!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad to hear it."
+    },
+    {
+      "character": "Dunstan",
+      "line": "I have very little to offer you in way of thanks, but perhaps you will accept this family heirloom. It was found by my great-great-grandfather, but we still don't have any idea what it does."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Dad",
+      "description": "Deep, booming male voice with a slow, dim-witted tone. Speaks in broken third-person grammar like a brutish troll. Intimidating but not very intelligent."
+    },
+    {
+      "name": "Denulth",
+      "description": "Middle-aged male, British accent, authoritative and commanding tone. A seasoned military commander who speaks with urgency and concern for his soldiers."
+    },
+    {
+      "name": "Dunstan",
+      "description": "Middle-aged male, British accent, warm and grateful tone. A hardworking blacksmith and devoted father, humble and appreciative."
+    },
+    {
+      "name": "Eadgar",
+      "description": "Elderly male, slightly raspy voice with an eccentric, whimsical tone. A mad hermit who lives alone on a mountain, cheerful despite his strange circumstances."
+    },
+    {
+      "name": "Godric",
+      "description": "Young adult male, British accent, earnest and relieved tone. A soldier recently rescued from captivity, grateful and sincere."
+    },
+    {
+      "name": "Tenzing",
+      "description": "Middle-aged male, Tibetan or Nepalese accent, calm and practical tone. An experienced mountain sherpa, professional and matter-of-fact."
+    }
+  ]
+}

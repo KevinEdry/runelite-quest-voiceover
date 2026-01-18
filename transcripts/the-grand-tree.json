@@ -1,0 +1,1704 @@
+{
+  "branch": "quest/the-grand-tree",
+  "quest_name": "The Grand Tree",
+  "lines": [
+    {
+      "character": "King Narnode Shareen",
+      "line": "Welcome Traveller. I am King Narnode. It's nice to see an outsider."
+    },
+    {
+      "character": "Player",
+      "line": "Hi! It seems to be a very busy settlement."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "For now."
+    },
+    {
+      "character": "Player",
+      "line": "You seem worried, what's up?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Traveller, can I speak to you in strictest confidence?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course sire."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Not here, follow me. Down here."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be off now."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Enjoy your stay with us. There are many things to see in my kingdom."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Down here."
+    },
+    {
+      "character": "Player",
+      "line": "So what is this place?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "These, my friend, are the foundations of the stronghold."
+    },
+    {
+      "character": "Player",
+      "line": "They look like roots to me."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Not just any roots Traveller! These were created by gnome mages eons ago, since then they have grown to become a mighty stronghold!"
+    },
+    {
+      "character": "Player",
+      "line": "Impressive. What exactly is the problem?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "In the last two months our tree guardians have reported continuing deterioration of the Grand Tree's health. I've never seen this before! It could be the end for us all!"
+    },
+    {
+      "character": "Player",
+      "line": "You mean the tree is ill?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "In effect yes. Would you be willing to help us discover what is happening to the tree?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, I don't want to get involved."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I understand Traveller. Please keep this to yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I'll show you the way back up."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Up here."
+    },
+    {
+      "character": "Player",
+      "line": "I'd be happy to help!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Thank Guthix for your arrival! The first task is to find out what's killing the tree."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have an idea?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "My top tree guardian, Glough, believes it's human sabotage. I'm not so sure! The only way to know for sure is to talk to Hazelmere."
+    },
+    {
+      "character": "Player",
+      "line": "Who's Hazelmere?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hazelmere is one of the mages that created the Grand Tree. He is the only one that has survived from that time. Take this bark sample to him, he will be able to help!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "The mage only talks in the old tongue, you'll need this."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "It's a translation book, you'll need it to translate what Hazelmere says. Do that carefully! His words are our only hope! You'll find his dwellings high upon a towering hill, on an island east of Yanille. I'll show you the way back up. Up here."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Traveller, any word from Hazelmere?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the bark sample."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Here's another sample, hang on to it this time!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the translation book."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Don't worry, I have more."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hazelmere lives on an island just south of the Khazard Fight Arena, Give him the sample and translate his reply."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I just hope he can help us in our hour of need!"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah. Blah, blah, blah, blah...blah!"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah, blah...Daconia...blah, blah."
+    },
+    {
+      "character": "Player",
+      "line": "Can you write this down and I'll try and translate it?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah, blah?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah, blah....Daconia...blah, blah."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again, Your highness."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hello Traveller, did you speak to Hazelmere?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! I managed to find him."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Do you understand what he said?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "So what did he say?"
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode must be stopped, he is a madman!"
+    },
+    {
+      "character": "Player",
+      "line": "Praise be to the great Zamorak!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any bread? I do like bread."
+    },
+    {
+      "character": "Player",
+      "line": "The time has come to attack!"
+    },
+    {
+      "character": "Player",
+      "line": "The tree is fine, you have nothing to fear."
+    },
+    {
+      "character": "Player",
+      "line": "You must come and see me!"
+    },
+    {
+      "character": "Player",
+      "line": "The tree needs watering as there has been drought."
+    },
+    {
+      "character": "Player",
+      "line": "Grave danger lies ahead, only the bravest will linger."
+    },
+    {
+      "character": "Player",
+      "line": "Time is of the essence! We must move quickly."
+    },
+    {
+      "character": "Player",
+      "line": "A man came to me with the King's seal."
+    },
+    {
+      "character": "Player",
+      "line": "There is no need for haste."
+    },
+    {
+      "character": "Player",
+      "line": "You must act now or we will all die!"
+    },
+    {
+      "character": "Player",
+      "line": "Time passes us by."
+    },
+    {
+      "character": "Player",
+      "line": "I gave the man Daconia rocks."
+    },
+    {
+      "character": "Player",
+      "line": "You must use force!"
+    },
+    {
+      "character": "Player",
+      "line": "Use a bucket of milk from a sacred cow."
+    },
+    {
+      "character": "Player",
+      "line": "Take this banana to him, he will understand."
+    },
+    {
+      "character": "Player",
+      "line": "Only Adamantite is any use."
+    },
+    {
+      "character": "Player",
+      "line": "All with be fine on the third night."
+    },
+    {
+      "character": "Player",
+      "line": "You must wait till the second night."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing will help us now!"
+    },
+    {
+      "character": "Player",
+      "line": "The tree will die in five days!"
+    },
+    {
+      "character": "Player",
+      "line": "And Daconia rocks will kill the tree!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Of course! I should've known! Someone must've forged my royal seal. Hazelmere thought I sent him for the Daconia stones!"
+    },
+    {
+      "character": "Player",
+      "line": "What are Daconia stones?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hazelmere created the Daconia stones. They are a safety measure, in case the tree grew out of control. They're the only thing that can kill the tree."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "This is terrible! The stones must be recovered!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I help?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "First, I must warn the tree guardians. Please, could you tell the chief tree guardian, Glough. He lives in a tree house just in front of the Grand Tree."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "If he's not there he will be at his girlfriend Anita's place. Meet me back here once you've told him."
+    },
+    {
+      "character": "Player",
+      "line": "Ok! I'll be back soon."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Wait a minute! That doesn't sound like Hazelmere! Are you sure you translated correctly?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm...I think so."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I'm sorry Traveller but this is no good. The translation must be perfect or the information's no use. Please come back when you know exactly what Hazelmere said."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Time is of the essence Traveller!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hello Traveller, did you speak to Glough?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "OK. He lives just in front of the Grand Tree. Let me know when you’ve talked to him."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Glough",
+      "line": "Can I help human? Can't you see I'm eating?!"
+    },
+    {
+      "character": "Player",
+      "line": "The King asked me to inform you that the Daconia rocks have been taken!"
+    },
+    {
+      "character": "Glough",
+      "line": "Surely not!"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently a human took them from Hazelmere. Hazelmere believed him; he had the King's seal!"
+    },
+    {
+      "character": "Glough",
+      "line": "I should've known! The humans are going to invade!"
+    },
+    {
+      "character": "Player",
+      "line": "Never!"
+    },
+    {
+      "character": "Glough",
+      "line": "Your type can't be trusted! I'll take care of this! Go back to the King."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Glough",
+      "line": "You shouldn't be here human!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Glough",
+      "line": "The Gnome Stronghold is for gnomes alone!"
+    },
+    {
+      "character": "Player",
+      "line": "Surely not!"
+    },
+    {
+      "character": "Glough",
+      "line": "We don't need your sort round here!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Your highness. Have you any news on the Daconia stones?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "It's OK Traveller, thanks to Glough! He found a human sneaking around! He had three Daconia rocks on him!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow! That was quick!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Yes Glough really knows what he's doing. The human has been detained until we know who else is involved. Maybe Glough was right, maybe humans are invading!"
+    },
+    {
+      "character": "Player",
+      "line": "I doubt it, can I speak to the prisoner?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Certainly. He's on the top level of the tree. Be careful, it's a long way down!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hello Traveller. If you wish to talk to the prisoner go to the top of the tree, you'll find him there."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me. Why would you want to kill the Grand Tree?"
+    },
+    {
+      "character": "Charlie",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't tell me, you just happened to be caught carrying Daconia rocks!"
+    },
+    {
+      "character": "Charlie",
+      "line": "All I know is that I did what I was asked."
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand."
+    },
+    {
+      "character": "Charlie",
+      "line": "Glough paid me to go to this gnome on a hill. I gave the gnome a seal and he gave me some Daconia rocks to give to Glough."
+    },
+    {
+      "character": "Charlie",
+      "line": "I've been doing it for weeks, this time though Glough locked me up here! I just don't understand it."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like Glough is hiding something."
+    },
+    {
+      "character": "Charlie",
+      "line": "I don't know what he's up to. If you want to find out, you'd better search his home."
+    },
+    {
+      "character": "Player",
+      "line": "OK. Thanks Charlie."
+    },
+    {
+      "character": "Charlie",
+      "line": "Good luck!"
+    },
+    {
+      "character": "Charlie",
+      "line": "Hello adventurer. Have you figured out what's going on?"
+    },
+    {
+      "character": "Player",
+      "line": "No idea."
+    },
+    {
+      "character": "Charlie",
+      "line": "To get to the bottom of this you'll need to search Glough's home."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hello Traveller. So, did you speak to the culprit?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I did and something's not right!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "The prisoner said he was paid by Glough to get the Daconia stones!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "That's absurd! He's just trying to save himself!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Since Glough's wife died he's been a little strange. He would never wrongly imprison someone though! Now that the culprit is locked up we can relax. It's sad but I think Glough was right."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Humans are planning to invade and wipe out the tree gnomes!"
+    },
+    {
+      "character": "Player",
+      "line": "But why?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Who knows? You may have to leave soon Traveller! I trust you but the local gnomes are getting paranoid."
+    },
+    {
+      "character": "Player",
+      "line": "Your highness! I'm concerned about Glough!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Why? Don't worry about him now the culprit has been caught. I'm sure Glough's resentment of humans will pass with time."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not so sure."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "If you're really concerned speak to him."
+    },
+    {
+      "character": "Player",
+      "line": "Glough! I don't know what you're up to but I know you paid Charlie to get those rocks!"
+    },
+    {
+      "character": "Glough",
+      "line": "You're a fool human! You have no idea what's going on."
+    },
+    {
+      "character": "Player",
+      "line": "I know the Grand Tree's dying! And I think you're part of the reason."
+    },
+    {
+      "character": "Glough",
+      "line": "How dare you accuse me! I'm the head tree guardian! Guards! Guards!"
+    },
+    {
+      "character": "Gnome guard",
+      "line": "Come with me!"
+    },
+    {
+      "character": "Charlie",
+      "line": "So they got you as well?"
+    },
+    {
+      "character": "Player",
+      "line": "It's Glough! He's trying to cover something up."
+    },
+    {
+      "character": "Charlie",
+      "line": "I shouldn't tell you this adventurer. But if you want to get to the bottom of this you should go and talk to the Karamja Shipyard foreman."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Charlie",
+      "line": "Glough sent me to Karamja to meet him. I delivered a large amount of gold. For what? I don't know. He may be able to tell you what Glough's up to. That's if you can get out of here. You'll find him"
+    },
+    {
+      "character": "Charlie",
+      "line": "in the Karamja Shipyard, east of Shilo Village. Be careful! If he discovers you're not working for Glough, there'll be trouble! The sea men use the password Ka-Lu-Min."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Charlie!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Traveller please accept my apologies! Glough had no right to arrest you! I just think he's scared of humans. Let me get you out of there."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think you can trust Glough, Your highness. He seems to have an unnatural hatred for humans."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I know he can be a bit extreme at times. But he's the best tree guardian I have, he has made the gnomes paranoid about humans though."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I'm afraid Glough has placed guards on the front gate to stop you escaping! Let my glider pilot fly you away until things calm down around here."
+    },
+    {
+      "character": "Player",
+      "line": "Well, OK."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I'm sorry again Traveller!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Glough is looking for you! Leave on the glider now before it's too late!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't figure this out Charlie!"
+    },
+    {
+      "character": "Charlie",
+      "line": "Go and see the foreman in the Karamja jungle, there's a shipyard there, you might find some clues. Don't forget the password is Ka-Lu-Min; if they realise that you're not working for Glough there'll be trouble!"
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "Hi. The king said that you need to leave?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently humans are invading!"
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "I find that hard to believe. I have lots of human friends."
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand it either!"
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "So where to?"
+    },
+    {
+      "character": "Player",
+      "line": "Take me to Karamja please."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "Okay, you're the boss! Hold on tight, it'll be a rough ride."
+    },
+    {
+      "character": "Player",
+      "line": "Not anywhere for now."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "Okay. I'll be here for when you're ready."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "Sorry about that."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "That turbulence over the Karamja Volcano was a bit unexpected, and the area round here isn't well suited for emergency landing."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "Still! we're still alive that's the main thing. Are you okay?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm fine, I can't say the same for your glider!"
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "I don't think I can fix this. Looks like we'll be heading back by foot. I might see if I can find Penwie while I'm here, I believe he's charting the area."
+    },
+    {
+      "character": "Player",
+      "line": "Where's the shipyard from here?"
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "I think I saw some buildings on the coast east of here while we were crashing. I'd have a look there."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "Take care adventurer!"
+    },
+    {
+      "character": "Player",
+      "line": "Take care little man."
+    },
+    {
+      "character": "Captain Errdo",
+      "line": "It's east of here. I thought I saw some buildings on the coast while we were crashing..."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Hey you! What are you up to?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to open the gate!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I can see that! Why?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm from the Ministry of Health and Safety."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Never 'erd of 'em."
+    },
+    {
+      "character": "Player",
+      "line": "You will respect my authority!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Get out of here before I give you a beating!"
+    },
+    {
+      "character": "Player",
+      "line": "Glough sent me."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Hmm...really? What for?"
+    },
+    {
+      "character": "Player",
+      "line": "You're wasting my time! Take me to your superior!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "OK. Password."
+    },
+    {
+      "character": "Player",
+      "line": "Ka."
+    },
+    {
+      "character": "Player",
+      "line": "Ko."
+    },
+    {
+      "character": "Player",
+      "line": "Ke."
+    },
+    {
+      "character": "Player",
+      "line": "Lo."
+    },
+    {
+      "character": "Player",
+      "line": "Lu."
+    },
+    {
+      "character": "Player",
+      "line": "Le."
+    },
+    {
+      "character": "Player",
+      "line": "Mon."
+    },
+    {
+      "character": "Player",
+      "line": "Min."
+    },
+    {
+      "character": "Player",
+      "line": "Men."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Sorry to have kept you."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "You have no idea!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm just looking around."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "This ain't a museum! Leave now!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll leave when I choose!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Well you're not on the list so you're not coming in. Go away."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'll just stand here then until you let me in."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "You do that!"
+    },
+    {
+      "character": "Player",
+      "line": "I will!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Yeah?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah!"
+    },
+    {
+      "character": "Player",
+      "line": "So are you going to let me in then?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "You bored yet?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "No, I can stand here all day."
+    },
+    {
+      "character": "Player",
+      "line": "Alright you win. I'll find another way in."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "No you won't."
+    },
+    {
+      "character": "Player",
+      "line": "Yes I will."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I'm not starting that again. Maybe if I ignore you you'll go away..."
+    },
+    {
+      "character": "Player",
+      "line": "Quite a few ships you're building!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "This is just the start! The completed fleet will be awesome!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "No time to talk we've a fleet to build!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Hello matey!"
+    },
+    {
+      "character": "Player",
+      "line": "How are you?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Tired!"
+    },
+    {
+      "character": "Player",
+      "line": "You shouldn't work so hard!"
+    },
+    {
+      "character": "Player",
+      "line": "Quite an impressive set up!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "It needs to be. There's no other way to build a fleet of this size!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Hello there. I haven't seen you before."
+    },
+    {
+      "character": "Player",
+      "line": "I'm new!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Well it's hard work, but the pay is good."
+    },
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Too busy to waste time gossiping!"
+    },
+    {
+      "character": "Player",
+      "line": "Touchy!"
+    },
+    {
+      "character": "Player",
+      "line": "Looks like hard work."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I like to keep busy."
+    },
+    {
+      "character": "Player",
+      "line": "So where are you sailing?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, just kidding!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Hello there, are you too lazy to work as well?"
+    },
+    {
+      "character": "Player",
+      "line": "Something like that."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I'm just sun bathing!"
+    },
+    {
+      "character": "Player",
+      "line": "What are you building?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Are you serious?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course not! You're obviously building a boat."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I'm getting tired of this!"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Breaking my back for pennies! It's just not on!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Is that any way to talk to your new superior?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Oh, I'm sorry, I didn't realise!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Ouch!"
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong?!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I cut my finger!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Do you have a bandage?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "That's ok, I'll use my shirt."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Can I help you?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Well there's plenty of work to be done, so if you don't mind..."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Of course. Sorry to have disturbed you."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, are you in charge?"
+    },
+    {
+      "character": "Foreman",
+      "line": "That's right, and you are...?"
+    },
+    {
+      "character": "Player",
+      "line": "Glough sent me to check on how you are doing."
+    },
+    {
+      "character": "Foreman",
+      "line": "Right. Glough sent a human?"
+    },
+    {
+      "character": "Player",
+      "line": "His gnomes are busy."
+    },
+    {
+      "character": "Foreman",
+      "line": "Hmm...in that case we'd better go to my office. Follow me."
+    },
+    {
+      "character": "Foreman",
+      "line": "Tell me again why you're here."
+    },
+    {
+      "character": "Player",
+      "line": "Er...Glough sent me?"
+    },
+    {
+      "character": "Foreman",
+      "line": "By the way how is Glough? Still with his wife?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, they're getting on great."
+    },
+    {
+      "character": "Foreman",
+      "line": "Really? That's odd, considering she died last year. Die imposter!"
+    },
+    {
+      "character": "Player",
+      "line": "Always arguing as usual!"
+    },
+    {
+      "character": "Player",
+      "line": "Sadly his wife is no longer with us!"
+    },
+    {
+      "character": "Foreman",
+      "line": "Right answer. I have to watch for imposters. What's Glough's favourite dish?"
+    },
+    {
+      "character": "Player",
+      "line": "He loves tangled toads legs."
+    },
+    {
+      "character": "Foreman",
+      "line": "Our survey said.... Bzzzzzz! Wrong answer!"
+    },
+    {
+      "character": "Player",
+      "line": "He loves worm holes."
+    },
+    {
+      "character": "Foreman",
+      "line": "OK. Just one more. What's the name of his new girlfriend?"
+    },
+    {
+      "character": "Player",
+      "line": "Anita."
+    },
+    {
+      "character": "Foreman",
+      "line": "Well, well, you do know Glough. Sorry for the interrogation but I'm sure you understand."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, security is paramount."
+    },
+    {
+      "character": "Foreman",
+      "line": "As you can see things are going well."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed."
+    },
+    {
+      "character": "Foreman",
+      "line": "When I was asked to build a fleet large enough to invade Port Sarim and carry 300 gnome troops I said: 'If anyone can, I can.'"
+    },
+    {
+      "character": "Player",
+      "line": "That's a lot of troops!"
+    },
+    {
+      "character": "Foreman",
+      "line": "True but if the gnomes are really going to take over Gielinor they'll need at least that."
+    },
+    {
+      "character": "Player",
+      "line": "Take over?"
+    },
+    {
+      "character": "Foreman",
+      "line": "Of course, why else would Glough want 30 battleships? Between you and me I don't think he stands a chance."
+    },
+    {
+      "character": "Player",
+      "line": "No?"
+    },
+    {
+      "character": "Foreman",
+      "line": "I mean, for the kind of battleships Glough's ordered I'll need tons and tons of lumber! Still, if he says he can supply the wood I'm sure he can! Anyway, here's the order for the lumber."
+    },
+    {
+      "character": "Player",
+      "line": "OK. I'll head off and give this order to Glough."
+    },
+    {
+      "character": "Player",
+      "line": "Alia."
+    },
+    {
+      "character": "Foreman",
+      "line": "You almost had me fooled! Die imposter!"
+    },
+    {
+      "character": "Player",
+      "line": "Elena."
+    },
+    {
+      "character": "Gnome guard",
+      "line": "I'm afraid we have orders not to let you in."
+    },
+    {
+      "character": "Player",
+      "line": "Orders from who?"
+    },
+    {
+      "character": "Gnome guard",
+      "line": "The head tree guardian, he says you're a spy!"
+    },
+    {
+      "character": "Player",
+      "line": "Glough!"
+    },
+    {
+      "character": "Gnome guard",
+      "line": "I'm sorry but you'll have to leave."
+    },
+    {
+      "character": "Player",
+      "line": "I can't believe they won't let me in!"
+    },
+    {
+      "character": "Femi",
+      "line": "I don't believe all this rubbish about an invasion. If mankind wanted to, they could have invaded before now."
+    },
+    {
+      "character": "Player",
+      "line": "I really need to see King Narnode. Could you help me sneak in?"
+    },
+    {
+      "character": "Femi",
+      "line": "Well, as you helped me I suppose I could. We'll have to be careful. If I get caught I'll be in the cage!"
+    },
+    {
+      "character": "Player",
+      "line": "OK, what should I do?"
+    },
+    {
+      "character": "Femi",
+      "line": "Jump in the back of the cart. It's a food delivery, we should be fine."
+    },
+    {
+      "character": "Femi",
+      "line": "Why should I help you, you wouldn’t help me!"
+    },
+    {
+      "character": "Player",
+      "line": "Erm I know, but this is an emergency!"
+    },
+    {
+      "character": "Femi",
+      "line": "So was lifting that barrel! Tell you what, call it a round 1000 gold pieces."
+    },
+    {
+      "character": "Player",
+      "line": "1000 gold pieces!"
+    },
+    {
+      "character": "Femi",
+      "line": "That’s right, 1000 and I’ll sneak you in."
+    },
+    {
+      "character": "Player",
+      "line": "No chance!"
+    },
+    {
+      "character": "Player",
+      "line": "OK then, here you go."
+    },
+    {
+      "character": "Femi",
+      "line": "Alright, jump in the back of the cart. It's a food delivery, we should be fine."
+    },
+    {
+      "character": "Femi",
+      "line": "OK traveller, you'd better get going."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks again!"
+    },
+    {
+      "character": "Femi",
+      "line": "That's OK, all the best."
+    },
+    {
+      "character": "Femi",
+      "line": "Now, to get this lot to the Grand Tree!"
+    },
+    {
+      "character": "Femi",
+      "line": "No, I'm OK traveller. I can manage from here."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get going!"
+    },
+    {
+      "character": "Player",
+      "line": "I know what you're up to Glough!"
+    },
+    {
+      "character": "Glough",
+      "line": "You have no idea human!"
+    },
+    {
+      "character": "Player",
+      "line": "You may be able to make a fleet but the tree gnomes will never follow you into battle against humans."
+    },
+    {
+      "character": "Glough",
+      "line": "So, you know more than I thought! The gnomes fear humanity more than any other race. I just need to give them a push in the right direction. There's nothing you can do traveller! Leave before it's too late!"
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode won't allow it!"
+    },
+    {
+      "character": "Glough",
+      "line": "The King's a fool and a coward! He'll bow to me! You'll soon be back in that cage!"
+    },
+    {
+      "character": "Player",
+      "line": "King Nardone, I need to talk!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Traveller, what are you doing here? The stronghold has been put on full alert! It's not safe for you here!"
+    },
+    {
+      "character": "Player",
+      "line": "Your highness, I believe Glough is killing the trees in order to make a mass fleet of warships!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "That's an absurd accusation!"
+    },
+    {
+      "character": "Player",
+      "line": "His hatred for humanity is stronger than you know!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "That's enough Traveller, you sound as paranoid as him! Traveller please leave! It's bad enough having one human locked up."
+    },
+    {
+      "character": "Player",
+      "line": "How are you doing Charlie?"
+    },
+    {
+      "character": "Charlie",
+      "line": "I've been better."
+    },
+    {
+      "character": "Player",
+      "line": "Glough has some plan to rule Gielinor!"
+    },
+    {
+      "character": "Charlie",
+      "line": "I wouldn't put it past him, the Gnome's crazy!"
+    },
+    {
+      "character": "Player",
+      "line": "I need some proof to convince the King."
+    },
+    {
+      "character": "Charlie",
+      "line": "Hmm... you could be in luck! Before Glough had me locked up I heard him mention that he'd left his chest key at his girlfriend's house. She lives just west of the toad swamp."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see what I can find."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, your highness."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Please Traveller, if the gnomes see me talking to you they'll revolt against me."
+    },
+    {
+      "character": "Player",
+      "line": "That's crazy!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Glough's scared the whole town, he expects the humans to attack any day. He's even begun to recruit hundreds of gnome soldiers."
+    },
+    {
+      "character": "Player",
+      "line": "Don't you understand he's creating his own army?!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Please Traveller, leave before it's too late!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm going to stop you, Glough!"
+    },
+    {
+      "character": "Glough",
+      "line": "You're becoming quite annoying traveller!"
+    },
+    {
+      "character": "Glough",
+      "line": "Where are that darn key?"
+    },
+    {
+      "character": "Glough",
+      "line": "Leave human, before I have you put in the cage!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Anita",
+      "line": "Oh hello, I've seen you with the King."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm helping him with a problem."
+    },
+    {
+      "character": "Anita",
+      "line": "You must know my boyfriend Glough then?"
+    },
+    {
+      "character": "Player",
+      "line": "Indeed!"
+    },
+    {
+      "character": "Anita",
+      "line": "Could you do me a favour?"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Anita",
+      "line": "Please give this key to Glough, he left it here last night."
+    },
+    {
+      "character": "Anita",
+      "line": "Thanks a lot."
+    },
+    {
+      "character": "Player",
+      "line": "No... thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm busy."
+    },
+    {
+      "character": "Anita",
+      "line": "Have you taken that key to Glough yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm still carrying it around."
+    },
+    {
+      "character": "Anita",
+      "line": "Oh. Please take it to Glough!"
+    },
+    {
+      "character": "Player",
+      "line": "You were right! I searched Glough's chest and found some invasion plans!"
+    },
+    {
+      "character": "Charlie",
+      "line": "Go to the king and tell him! Finally you have proof. Surely King Narnode will believe you now and set me free!"
+    },
+    {
+      "character": "Player",
+      "line": "Hold tight Charlie!"
+    },
+    {
+      "character": "Charlie",
+      "line": "I'm not going anywhere!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, Your highness, did you think about what I said?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Look, if you're right about Glough I would have him arrested but there's no reason for me to think he's lying."
+    },
+    {
+      "character": "Player",
+      "line": "Look, I found this at Glough's home!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "If these are to be believed then this is terrible! But it's not proof, any one could have made these. Traveller, I understand your concern, I had guards search Glough's house but they found nothing suspicious, just these odd twigs. On the other hand, if Glough's right about the humans we will need an army of gnomes to protect ourselves. So I've decided to allow Glough to raise a mighty gnome army. The Grand Tree's still slowly dying, if it is human sabotage we must respond!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Please Traveller, take my advice and leave!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost those twigs you gave me."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Here take these, I don't see how it will help you though."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Hmm. Looks like you can't carry anymore. Put 4 things down and come back to me."
+    },
+    {
+      "character": "Player",
+      "line": "Glough?"
+    },
+    {
+      "character": "Glough",
+      "line": "You really are becoming a headache! Well, at least now you can die knowing you were right, it will save me having to hunt you down like all the other human filth of Gielinor!"
+    },
+    {
+      "character": "Player",
+      "line": "You're crazy, Glough!"
+    },
+    {
+      "character": "Glough",
+      "line": "Bah! Well, soon you'll see, the gnomes are ready to fight, in three weeks this tree will be dead wood, in ten weeks it will be 30 battleships! Finally we will rid the world of the disease called humanity!"
+    },
+    {
+      "character": "Player",
+      "line": "What makes you think I'll let you get away with it?"
+    },
+    {
+      "character": "Glough",
+      "line": "Fool... meet my little friend!"
+    },
+    {
+      "character": "Glough",
+      "line": "Pay attention when I'm talking to you!"
+    },
+    {
+      "character": "Glough",
+      "line": "Just die, human!"
+    },
+    {
+      "character": "Player",
+      "line": "Your highness, it's true about Glough I tell you! He's planning to take over Gielinor!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I'm sorry Traveller but it's just not realistic. How could Glough, even with a gnome army, take over?"
+    },
+    {
+      "character": "Player",
+      "line": "He plans to make a fleet of warships from the Grand Tree's wood!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "That's enough Traveller! I've no time for make believe. The tree's still dying. I must get to the truth of this!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Traveller you're wounded! What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "It's Glough! He set a demon on me!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "What?! Glough?! With a demon?!"
+    },
+    {
+      "character": "Player",
+      "line": "Glough has a store of Daconia rocks further up the passage! He's been accessing the roots from a secret passage at his home."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Never! Not Glough! He's a good gnome at heart! Guard!"
+    },
+    {
+      "character": "Gnome guard",
+      "line": "Sire!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Go and check out that passage!"
+    },
+    {
+      "character": "Gnome guard",
+      "line": "We found Glough hiding under a horde of Daconia rocks!"
+    },
+    {
+      "character": "Player",
+      "line": "That's what I've been trying to tell you! Glough's been fooling you!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I..I don't know what to say! How could I have been so blind?! Guard! Call off the military training! The humans are not attacking!"
+    },
+    {
+      "character": "Gnome guard",
+      "line": "Yes sir!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "You have my full apologies Traveller! And my gratitude! A reward will have to wait though, the tree is still dying! The guards are clearing Glough's rock supply now but there must be more Daconia hidden somewhere in the roots! Help us search, we have little time!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Traveller, have you managed to find the Daconia?"
+    },
+    {
+      "character": "Player",
+      "line": "No sign of it so far."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "The tree will still die if we don't find it! It could be anywhere!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry Your highness! We'll find it!"
+    },
+    {
+      "character": "Player",
+      "line": "Is this it?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Yes! Excellent, well done!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "It's incredible, the tree's health is improving already! I don't know what to say, we owe you so much! To think Glough had me fooled all along!"
+    },
+    {
+      "character": "Player",
+      "line": "All that matters now is that humans and gnomes can live together in peace!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I'll drink to that! From now on I vow to make this stronghold a welcoming place for all! I'll grant you access to all our facilities."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! I think!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "It should make your stay here easier. You can use the spirit tree to transport yourself, as well as the gnome glider. I also give you access to our mine."
+    },
+    {
+      "character": "Player",
+      "line": "Mine?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Very few know of the secret mine under the Grand Tree. If you push on the roots just to my north they will separate and let you pass."
+    },
+    {
+      "character": "Player",
+      "line": "Strange!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "That's magic trees for you! All the best Traveller and thanks again!"
+    },
+    {
+      "character": "Player",
+      "line": "You too, Your highness!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello?"
+    },
+    {
+      "character": "Glough",
+      "line": "I warn you now, human: stay out of my affairs!"
+    },
+    {
+      "character": "Player",
+      "line": "I've stopped you before, Glough, and I'll stop you again!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Anita",
+      "description": "Adult female gnome, high-pitched voice, British accent, warm and pleasant tone. A friendly gnome woman who lives in the Tree Gnome Stronghold, helpful and accommodating to visitors."
+    },
+    {
+      "name": "Captain Errdo",
+      "description": "Adult male gnome, high-pitched voice, British accent, cheerful and enthusiastic tone. An optimistic glider pilot who loves flying, with an energetic and upbeat personality."
+    },
+    {
+      "name": "Charlie",
+      "description": "Adult male human, British accent, frightened and anxious tone. An innocent deliveryman falsely imprisoned, speaking with desperation and confusion about his dire circumstances."
+    },
+    {
+      "name": "Femi",
+      "description": "Adult female gnome, high-pitched voice, British accent, pragmatic and businesslike tone. A no-nonsense trader who operates outside the stronghold gate, direct and transactional in dealings."
+    },
+    {
+      "name": "Foreman",
+      "description": "Middle-aged male human, gruff British accent, authoritative and suspicious tone. The boss of the Karamja shipyard who questions strangers carefully, professional but wary of imposters."
+    },
+    {
+      "name": "Glough",
+      "description": "Adult male gnome, high-pitched voice with sinister undertones, bitter and menacing tone. A misanthropic gnome consumed by hatred for humans, cunning and increasingly unhinged as his schemes progress."
+    },
+    {
+      "name": "Gnome guard",
+      "description": "Adult male gnome, high-pitched voice, British accent, dutiful and professional tone. A disciplined soldier who follows orders without question, speaks with military brevity."
+    },
+    {
+      "name": "Hazelmere",
+      "description": "Elderly male gnome, very high and frail voice, ancient and mystical tone. An incredibly old mage who speaks only in the old gnomish tongue, wise and cryptic with measured deliberate speech."
+    },
+    {
+      "name": "King Narnode Shareen",
+      "description": "Elderly male gnome, high-pitched voice, British accent, regal and dignified tone. A benevolent but naive king who cares deeply for his people, speaks with authority yet shows vulnerability when deceived."
+    },
+    {
+      "name": "Shipyard worker",
+      "description": "Adult male human, working-class British accent, rough and straightforward tone. A common laborer at the shipyard who speaks bluntly, sometimes dismissive but generally just focused on his work."
+    }
+  ]
+}

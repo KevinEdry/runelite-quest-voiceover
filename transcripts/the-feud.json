@@ -1,0 +1,2640 @@
+{
+  "branch": "quest/the-feud",
+  "quest_name": "The Feud",
+  "lines": [
+    {
+      "character": "Ali Morrisane",
+      "line": "Good day and welcome back to Al Kharid."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "My name is Ali Morrisane - the greatest salesman in the world."
+    },
+    {
+      "character": "Player",
+      "line": "If you're the greatest salesman in the world, why are you still selling goods from a stall?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well one can only do and sell so much. If I had more staff I'd be able to sell more, rather than wasting my time on menial things. I could get on with selling sand to the Bedabin and useless tourist trinkets to just about"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "everyone else."
+    },
+    {
+      "character": "Player",
+      "line": "I'm too busy to help. Adventuring is a full time job you know!"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "No problem my friend, perhaps another time."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Anyway, have a look at my wares."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to help you but..."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Yes, I know, I know - the life of a shop keeper isn't slaying dragons and wooing damsels, but it has its charms."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Although perhaps you can help me some other way. A nephew of mine lives not too far from here in a little town called Pollnivneach. He was supposed to become my assistant, but he hasn't shown up. If you fetch him"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "here I'll give you the first month of his salary!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll find your nephew."
+    },
+    {
+      "character": "Player",
+      "line": "But you had better become the greatest merchant in Gielinor once I succeed!"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Ah, many thanks, my friend. My nephew's name is Ali and he lives to the south in a town called Pollnivneach."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Tell him his uncle Ali M needs his help up in Al Kharid."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "And while you're here, have a look at my wares."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I sent you to learn the whereabouts of my nephew, Ali. Is there any word of him in Pollnivneach?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I'm afraid."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "That's not really the news I was hoping for."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "But since you've been gone trade has gotten even busier. Will you have a look at my wares?"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Welcome, adventurer, to the town of Pollnivneach, the gateway to Menaphos and Al Kharid. My name is Ali and I'm the mayor of this town. I hope you enjoy your stay here."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. That is one of the warmest welcomes I've ever had! People generally treat travelling adventurers with suspicion."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "All are welcome here. Now more than ever I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean by that?"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "There's trouble in town, and a lot of villagers have left as a result. Things are looking dire."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for someone called Ali."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Well, take your pick!"
+    },
+    {
+      "character": "Player",
+      "line": "I mean I'm looking for a specific Ali. He's Ali Morrisane's nephew."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Oh, that Ali! Well, er, your best bet is to ask around town. I'm sure someone will know what he's up to."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Welcome to my discount camel store. Can I help you with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "A discount camel store?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Yes - it's my great idea - selling camels at discounted prices so that the common man can experience the joys of owning a camel of their very own! They're not just a source of kebab meat you know!"
+    },
+    {
+      "character": "Player",
+      "line": "So can I buy a camel then? I'm hungry!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "I would never sell one to the likes of you! They are beautiful, majestic creatures, not food! Get out of my shop."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, camels are beautiful creatures."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Ah, wondrous camels! Best of all Saradomin's creations. Ships of the desert, far more useful than any horse or donkey. Truly, they are a man's best friend."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Perhaps you'd like a camel of your own? You're in the right place, if so..."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Is there anything else I can help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "No, but thanks for your time."
+    },
+    {
+      "character": "Player",
+      "line": "Why would I want a camel? All they do is spit and..."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Pah! I've seen mummies with more brains than you! If you treat camels badly then of course they're going to spit at you. May your robes never be clean again!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I think I was a camel in a previous life."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "You're teasing me now! You rogue!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Everyone laughs at the poor Discount Camel Seller."
+    },
+    {
+      "character": "Player",
+      "line": "So is the discount camel business good then?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Business is booming! Pollnivneach has never seen this number of visitors."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "In fact I'm thinking of expanding and trying to break into the camel hire market."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "If only I could figure out how to get people to return the camels..."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about this town."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well, Pollnivneach is a funny little place. It's a small town and you'd think it'd be nice and quiet."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "But those Menaphites and bandits are making the place quite unbearable."
+    },
+    {
+      "character": "Player",
+      "line": "In what way?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well, one group is as bad as the other! They steal, they fight, they cause trouble with us locals. Just yesterday one of those bandits came looking for protection money!"
+    },
+    {
+      "character": "Player",
+      "line": "Why don't the authorities stop this?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "We're a small town. We don't have the resources to keep the gangs off our backs! Menaphos and Al Kharid are no help either."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "To tell the truth we live in hope that an outsider, someone with no ties to either group, could broker a deal to halt the hostilities between them."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm..."
+    },
+    {
+      "character": "Player",
+      "line": "Well the weak will always be trodden on. Why not stand up to them?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "That's a little unfair, my friend. We can't all be brave adventurers. If we were, where would you purchase quality camels at discounted prices?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "You might think about that. Anyway, isn't it the job of the brave adventurer to protect the weak and innocent from evil and harm?"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I could help."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Yes, perhaps you could."
+    },
+    {
+      "character": "Player",
+      "line": "You know the politics better than I do. What do you recommend?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Me?! I am but a humble discount camel seller. You're the adventurer, don't you know what to do?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course I know what to do! I was just testing you!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "That is reassuring to hear. Too often one meets brainless adventurers whose solution to every problem is to hack, maim and murder."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "I'm glad to know you're not of that ilk."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I should know, but offered advice should never be shunned."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "The state of adventurers today. They need everything spelled out for them."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "What, you want me to put a little note in your quest journal?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "But fine, I'll give you a hint. Try and see if you can get the gangs to agree to a truce by offering them each a token gift as an act of reconciliation."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "If that fails to work, you must consider trying to influence the gangs from within."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "It's a beautiful day today, but word has it that it will rain tomorrow."
+    },
+    {
+      "character": "Player",
+      "line": "Really?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "No! When have you ever known it to rain here in Gielinor?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Anyway..."
+    },
+    {
+      "character": "Player",
+      "line": "Are those camels around the side for sale?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Those two camels around the side are already sold."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "I've got new stock coming very soon though. Come back later if you're still interested."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for Ali from Pollnivneach."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well, you've found your man."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Do you have an uncle called Ali?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Why yes - all my uncles are called Ali!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear! Do any of them own a stall in the Al Kharid Bazaar?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well no, but one of them owns a moderately successful camel hire franchise."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Have you considered hiring a camel? Or perhaps purchasing one of your own? I can get you a discount."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Rug Merchant",
+      "line": "Greetings, desert traveller. Do you require the services of Ali Morrisane's flying carpet fleet?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Ali Morrisane."
+    },
+    {
+      "character": "Rug Merchant",
+      "line": "What, you haven't heard of Ali M? Possibly the greatest salesman of the Kharidian empire if not all Gielinor?"
+    },
+    {
+      "character": "Player",
+      "line": "Hold on... yes I can place him now. He has me looking for his nephew Ali, I think he needs some help with his shop."
+    },
+    {
+      "character": "Rug Merchant",
+      "line": "I wouldn't be surprised, he's mentioned to me on a few occasions that he is thinking of diversifying even further."
+    },
+    {
+      "character": "Player",
+      "line": "You wouldn't have seen his nephew about then?"
+    },
+    {
+      "character": "Rug Merchant",
+      "line": "No it's been a quite a while since I last saw him."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "What do you want? Information?"
+    },
+    {
+      "character": "Player",
+      "line": "What would you know?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "No one knows what's going on in the streets better than me. I live, sleep, eat and drink here. The fact that I'm so small means that people tend to ignore me which helps even more."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Do you need any other information?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, tell me about..."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the Menaphites."
+    },
+    {
+      "character": "Street urchin",
+      "line": "They're a bad bunch, always starting fights down in the Asp and Snake. Word on the street is that they're led by some deranged priest. Nobody's ever seen them though - they do all their deals through Ali 'the"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Operator'. I reckon they're up to something, but they're such a close knit group that little ever slips out."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the bandits."
+    },
+    {
+      "character": "Street urchin",
+      "line": "There's not much to say, really. They're just a group of local thugs led by the biggest and strongest amongst them. If they have any other plans, I don't know about it."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the Mayor."
+    },
+    {
+      "character": "Street urchin",
+      "line": "The mayor is a spineless coward! He never stands up to anybody. That's why the Menaphites are so strong now! He let them stay, and then they started causing trouble. When he realised his mistake, he hired a band"
+    },
+    {
+      "character": "Street urchin",
+      "line": "of local thugs to drive them out, but they saw how weak he was and turned on us too. Now we've got bandits and Menaphites, and the mayor isn't doing anything!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Ali Morrisane's nephew."
+    },
+    {
+      "character": "Street urchin",
+      "line": "I know him! He used to kick us when he caught any of us stealing from his stall."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where he is now then?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "He disappeared a little while ago. All I know is it had something to do with the gangs. Probably he scammed them. You'd have to gain their trust to find out more, m'afraid - if I get too close, they might disappear me"
+    },
+    {
+      "character": "Street urchin",
+      "line": "too!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the town."
+    },
+    {
+      "character": "Street urchin",
+      "line": "It's boring! We're not as big as Menaphos or as powerful as Al Kharid, and we've got a really nasty crime problem. It's no wonder so many grown-ups have left."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Come back if you need any info about anything in the town."
+    },
+    {
+      "character": "Player",
+      "line": "I will do thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Good day. Can I help you with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'd like a drink please."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on in town?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Nothing much really. About what you'd expect from a sleepy little town like ours."
+    },
+    {
+      "character": "Player",
+      "line": "What about those two gangs? That seems exciting."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "They're paying customers, so I won't rock the boat if you don't mind."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Is there anything else I can help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, I'm ok. Thanks for your time."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Well, I'm called Ali and I'm from here. Are you looking for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have an uncle called Ali?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Yes! All my uncles are called Ali!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear. Well do any of your uncles have a stall in the Bazaar in Al Kharid?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Um... no."
+    },
+    {
+      "character": "Player",
+      "line": "Well do you know if anyone here does?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "That's a difficult question to answer. I don't know anyone else's uncles."
+    },
+    {
+      "character": "Player",
+      "line": "The 'Asp and Snake'? What a strange name for a bar."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Maybe around these parts. Were you expecting it to have 'Ali' in the name?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "I did think about calling it 'Ali's', but then it'd get confused with the Camel Shop, the Kebab House, the Mayor's residence..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I get your point. It's a perfectly fine name."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Ahh, a kind stranger. Get this old man a drink so that he may wet his throat and tell you of the strange happenings in this town."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Now where were we? Ah yes, Ali Morrisane's wayward nephew."
+    },
+    {
+      "character": "Player",
+      "line": "What?! How did you know that's who I was looking for?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Er... well, he's a real scamp, that lad! I can't imagine a stranger would be asking after anyone else."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm. Well go on then, where is he?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "I'd tell you more, but my throat is drying up. This desert climate is an inhospitable one. Get me another beer so that I can continue my tale."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Get this poor, thirsty old man another drink so that he may wet his lips and continue."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "You are too kind, now what were we talking about?"
+    },
+    {
+      "character": "Player",
+      "line": "Ali Morrisane's nephew."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Of course! I've known him since he was a wee lad. A right little mischievous beggar..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I can imagine. Do you have any more recent information about him? Where is he?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Well now, if you had just asked me that in the first place I would have told you directly!"
+    },
+    {
+      "character": "Player",
+      "line": "You're right, I'm sorry for beating around the bush. Do you know where Ali's nephew is now, though?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Alas, my throat has dried up, and I cannot speak... perhaps another drink would help?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Ahh, that hits the spot."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Now which of you two adventurers wanted to know where Ali's nephew is?"
+    },
+    {
+      "character": "Player",
+      "line": "I think you're seeing double."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Is this a double? No wonder I feel sick..."
+    },
+    {
+      "character": "Player",
+      "line": "Look, all I want to know is the whereabouts of Ali Morrisane's nephew."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Now is that his nephew from his side or his wife's? They have a huge family you see. I remember..."
+    },
+    {
+      "character": "Player",
+      "line": "No, no, no. Stop right there. You are not going to fool me into buying you another beer without first giving me some useful information."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "But my lips are so dry, how can I possibly continue?"
+    },
+    {
+      "character": "Player",
+      "line": "Well if your lips are dry, I'll have to wring you like a wet cloth and squeeze out enough booze to fill another tankard. I'd reckon it would hurt though."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "I see. Don't worry about me, I'll just have to soldier on. Now what do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "For the last time, where is Ali Morrisane's nephew?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Oh, I don't know."
+    },
+    {
+      "character": "Player",
+      "line": "Seriously?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Wait, wait! The last I heard he was in trouble with those gangs hanging around town. You won't get any answers out of them, though, not while they're feuding. Maybe if you were to solve that little problem..."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Anyway, is there any chance of another beer?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you think?"
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "What were we talking about again? Yes yes, when I was a boy... no, that's not it."
+    },
+    {
+      "character": "Drunken Ali",
+      "line": "Eh? What's this? I don't want that, get me a beer."
+    },
+    {
+      "character": "Bandit",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I am trying to get to the bottom of this feud between you and the Menaphites."
+    },
+    {
+      "character": "Bandit",
+      "line": "What's it to you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm just trying to understand why thieves of your repute would stoop to their level."
+    },
+    {
+      "character": "Bandit",
+      "line": "Well, if memory serves me correctly, I think the hostilities began when they robbed one of our camels. A heinous crime."
+    },
+    {
+      "character": "Player",
+      "line": "So if they offered a camel back as a gesture of goodwill, would you and the rest of the bandits cease your hostilities?"
+    },
+    {
+      "character": "Bandit",
+      "line": "Those Menaphites would never do that. They have no sense of honour."
+    },
+    {
+      "character": "Player",
+      "line": "But if they did?"
+    },
+    {
+      "character": "Bandit",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I am trying to figure out the feud that exists between you and the Menaphites."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "What's it to you?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing much, I'm trying to understand why thieves of your repute would stoop to the level of the Menaphites."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "Well if memory serves me correctly. I think my granddad mentioned that they robbed one of our camels. A heinous crime."
+    },
+    {
+      "character": "Player",
+      "line": "So if they offered a camel as a gesture of goodwill would you and the rest of the bandits cease your hostilities?"
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "Those Menaphites would never do that. They have no sense of honour."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I am trying to figure out the feud that exists between you and the Bandits."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Not much to figure out there, the problem is those thieving bandits."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "They are always stealing, starting fights and disrupting the lives of the townsfolk."
+    },
+    {
+      "character": "Player",
+      "line": "Word has it that the Menaphites are also involved in unsavoury behaviour."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Well, we also steal, start fights, and disrupt lives - but we do it with class! And the bandits definitely started it."
+    },
+    {
+      "character": "Player",
+      "line": "How did 'they' start it?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "I can scarcely remember, it's been so long."
+    },
+    {
+      "character": "Player",
+      "line": "Go on try."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "I think our leader once mentioned that they robbed one of our camels. A heinous crime around these parts."
+    },
+    {
+      "character": "Player",
+      "line": "So if they offered a camel as a gesture of goodwill would you agree to cease hostilities?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Those bandits would never agree to that. They couldn't afford even the mangiest excuse for a camel, never mind the desert traversing, four legged beauty that we would demand."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Well, I suppose so."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe if I got both gangs a camel, I could use the mutual good will to find out what happened to Ali's nephew."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "But you are in luck - I have another two beautiful camels arriving soon from the best stable in all of Al Kharid."
+    },
+    {
+      "character": "Player",
+      "line": "Excellent! Although another two ugly camels would have been fine, I think."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me a little about them?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well Sandy, the female camel, is a placid beast. At 20 years of age she comes from a prestigious line of camels - her mother was part of the Emir's baggage train!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Lumps, on the other hand, is a 15 year old male. He's a bit surly and prone to bouts of stubbornness. However, he more than makes up for this failing with his immense strength and stamina."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Both of them are of the 'Camelus Horribleus' family, a rare breed only found in this area of Gielinor. It is..."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, ok, that's enough! They're camels, I get it."
+    },
+    {
+      "character": "Player",
+      "line": "What price do you want for both of them?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "One cannot put a price on these beauties, they are precious beyond the worth of the crass value of gold coins!"
+    },
+    {
+      "character": "Player",
+      "line": "So can I have them for free then?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Are you trying to be funny?"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I could make another offer?"
+    },
+    {
+      "character": "Player",
+      "line": "Would 200 gold coins for the pair of them do?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Pah! That might buy you a mangy, flea-infested sheep if you're lucky. Don't insult me."
+    },
+    {
+      "character": "Player",
+      "line": "Would 500 gold coins for the pair of them do?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "I would consider giving them to you if you were able to look after them. But it is abundantly clear that you've got your hands - and your inventory - full at the moment."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "You don't even have that much money do you? Come back when you're able to make a proper offer and stop wasting my time."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "I suppose I can silence my moral objections for that."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Here are the receipts for the camels, so that you can pick them up as soon as I get them in."
+    },
+    {
+      "character": "Player",
+      "line": "Would 1,000 gold coins for the pair of them do?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "You are too generous. I would have sold them for half of that!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Hello! Welcome back to my discount camel store. How are those camels getting along?"
+    },
+    {
+      "character": "Player",
+      "line": "About those camels. I've lost the receipt, can I have another?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "I think you're trying to con me into giving you an extra receipt."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Come back to me when you're not so burdened."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "No problem, There you go."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Why? did they not please you?"
+    },
+    {
+      "character": "Player",
+      "line": "No, they didn't. I sold them as Kebab meat!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Nooooo! Not Sandy and Lumps! You beast! Get out of my shop this instant!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not really a camel person, so I gave them to a better owner."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "That's very responsible of you. Too many people let their camels run feral through the desert, instead of sending them to happy homes."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "You want to watch out for those feral camels, you know."
+    },
+    {
+      "character": "Player",
+      "line": "I decided to try and use them to end the hostilities between the two gangs."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "A noble purpose for two noble beasts! Did you succeed?"
+    },
+    {
+      "character": "Player",
+      "line": "Still working on that, I'm afraid."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well, I wish you the best of luck."
+    },
+    {
+      "character": "Player",
+      "line": "Good news, the bandits have agreed to give you a camel in order to restore peace."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "So where's the camel?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... I'll get back to you on that."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "A mere receipt? For a discount camel? I knew those bandits were cheap! Tell them that we have changed our minds and demand 10 camels in return for our mercy."
+    },
+    {
+      "character": "Player",
+      "line": "Oh no... why do I bother?"
+    },
+    {
+      "character": "Player",
+      "line": "Good news, the Menaphites have agreed to give you a camel in order to restore peace."
+    },
+    {
+      "character": "Bandit",
+      "line": "So where's the camel?"
+    },
+    {
+      "character": "Bandit",
+      "line": "What's this? A mere promise of a camel? From a discount camel store? I knew those Menaphites were cowards. Tell them that we have changed our minds and demand 10 full-price camels in return for our"
+    },
+    {
+      "character": "Bandit",
+      "line": "mercy."
+    },
+    {
+      "character": "Player",
+      "line": "The camel approach doesn't seem to be working. Perhaps I should be more direct and try to join one of the gangs."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "Really? I knew they were cowards. Tell them that we have changed our minds and demand 10 camels in return for our mercy."
+    },
+    {
+      "character": "Player",
+      "line": "Ahhh why do I bother!"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "I really can't chat for very long, the recent escalation in crime has me run off my feet. There are muggings and burglaries happening in broad daylight! It's really not on."
+    },
+    {
+      "character": "Bandit",
+      "line": "Good day adventurer. Have you come with the Menaphite peace offering?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm... no. Not yet. Actually I've come to ask about something else."
+    },
+    {
+      "character": "Bandit",
+      "line": "We can talk once you bring back the Menaphites' full peace offering."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Greetings Adventurer, Ali wants to have a word with you."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Which one?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Ali, our Chief of Operations. He should be somewhere nearby the tent."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "You seem to be a man of action. We could do with more people like you to sort those despicable bandits out."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, those pesky bandits!"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "So will you join us in our fight to wipe them out?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, of course, those pesky bandits should be taught a lesson."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Good choice my friend, together we will crush them."
+    },
+    {
+      "character": "Player",
+      "line": "So when do we start?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Slow down, slow down. First you must prove yourself capable and trustworthy."
+    },
+    {
+      "character": "Player",
+      "line": "How will I manage that?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Don't worry about that, I'll just set you a few jobs to do."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "As you might have gathered we have a less-than- sparkling reputation around here."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "So I want you to foster this reputation and grow it."
+    },
+    {
+      "character": "Player",
+      "line": "What exactly does that mean?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "It means that I want you to go out into the town and pickpocket three villagers, then report back to me."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "If you have any problems don't be afraid to ask for some advice."
+    },
+    {
+      "character": "Player",
+      "line": "Oh right, thanks."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Can I help you with anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I'd like to ask you about something else."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about yourself."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "That information is available on a need to know basis and right now, you don't need to know."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the other people in the town."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Sheep, ready for the slau... hang on. I shouldn't be telling you that. Just forget I said anything."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for Ali."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Can you be a bit more specific? Everyone here is called Ali."
+    },
+    {
+      "character": "Player",
+      "line": "So I noticed. Well, he has an uncle called Ali Morrisane, a market vendor in Al Kharid. That's all I really know about him."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Say no more. I know just the Ali you mean - that little snake robbed me too! If we work together perhaps we can catch him and teach him a lesson."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps later, I'm quite busy at the moment."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Tell me when you are ready. This deed should not be undertaken lightly."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "How is the pickpocketing going?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't started yet. I'm still psyching myself up to it."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Don't take all day, time is getting on and there are still plenty of foul deeds to be done."
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Bandit",
+      "line": "Get out of here, you Menaphite dog!"
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "Get out of here, you Menaphite dog!"
+    },
+    {
+      "character": "Player",
+      "line": "What was that? Are you looking for a fight."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "Me? No, no, I was just, er, complimenting your, that is - don't kill me, please!"
+    },
+    {
+      "character": "Player",
+      "line": "I wouldn't waste my time."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Tumeken be praised, you have seen the error of your ways. May Elidinis the river goddess bless your lands."
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering if I could ask you about something."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "You're better off asking Ali the Operator. He's the brains behind the whole operation."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "How is the pickpocketing going? Need a hand?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I could do with a bit of advice."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "If you can't achieve your goal directly, try adding another element into the equation, like a distraction."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Do you know what I mean?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so."
+    },
+    {
+      "character": "Player",
+      "line": "Nah no problems here. I actually wanted to ask you about something else."
+    },
+    {
+      "character": "Player",
+      "line": "Hey kid, come here!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I need a little help, do you want to make some easy money?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "That depends."
+    },
+    {
+      "character": "Player",
+      "line": "Do you see that villager over there? If you could distract him for a bit I'll give you 10 gold coins."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Is that it?"
+    },
+    {
+      "character": "Player",
+      "line": "That's it!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Listen, you're crazy. I can't see anyone to distract."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Okay, I see them. Here I go!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Did you see the way I distracted that guy? Man, I'm one smooth operator!"
+    },
+    {
+      "character": "Player",
+      "line": "You did good, kid."
+    },
+    {
+      "character": "Street urchin",
+      "line": "So where's my money?"
+    },
+    {
+      "character": "Player",
+      "line": "What money?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Don't play stupid with me, I'm better at it. Where's my money?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, that money! I don't think you deserve it!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Liar, thief!"
+    },
+    {
+      "character": "Player",
+      "line": "How observant of you!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Give me my money!"
+    },
+    {
+      "character": "Player",
+      "line": "Make me!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "You'll be sorry!"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go, thanks."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Thanks sir, I didn't think you would hold up your side of the deal. There's not much honour amongst thieves, you know."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Well do you need any other information then?"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Thief! Thief!"
+    },
+    {
+      "character": "Player",
+      "line": "Shut up! Don't cause any more trouble or you'll regret it."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Give me double and I'll be quiet!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, here you go - you thief."
+    },
+    {
+      "character": "Street urchin",
+      "line": "Better a thief than a liar!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Hi! Do you want to go rob some more people? I could do with some more money."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let's do it again."
+    },
+    {
+      "character": "Player",
+      "line": "I think I need to try a different tactic. Sorry, kid!"
+    },
+    {
+      "character": "Street urchin",
+      "line": "Well do you need any information then?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Having problems?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "The distraction tactic isn't working any more?"
+    },
+    {
+      "character": "Player",
+      "line": "No, they seem to have figured that one out already."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "It is a small town, news spreads fast. Perhaps using a spot of cunning and a bit of brute force might work better."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Here, take this, it might help."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "I've already given you a Blackjack, try using it."
+    },
+    {
+      "character": "Player",
+      "line": "No problems here. I actually wanted to ask you about something else."
+    },
+    {
+      "character": "Player",
+      "line": "Psst. Come here, I want to show you something"
+    },
+    {
+      "character": "Villager",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a surprise! Follow me."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Well done! You have finished your first trial."
+    },
+    {
+      "character": "Player",
+      "line": "First trial?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "You didn't think we'd hire you off the back of a couple of pick-pocketings, did you?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, of course not."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Good! Now, the next thing you have to do is a spot of burglary."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "The only place worth pilfering around here is the mayor's villa."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "I want you to retrieve his wife's jewels."
+    },
+    {
+      "character": "Player",
+      "line": "Got any advice?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Well I think that a disguise would be a good start. After that I would stake out the place to make sure he's not in."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "You'll need a key to the front door, too."
+    },
+    {
+      "character": "Player",
+      "line": "I can't carry anything else."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Well then come back to me again when you are ready. Don't be too long."
+    },
+    {
+      "character": "Player",
+      "line": "Anything else?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "No! Now get going."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Haven't I helped you enough already?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm still having problems getting in."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "So you've lost your keys then. It's lucky I keep a spare pair."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "So what's the problem? Have you created a disguise yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes of course."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Then make sure that you stake the place out to make sure neither the mayor or his family are inside."
+    },
+    {
+      "character": "Player",
+      "line": "Now that you mention it, yes I am having problems with the disguise."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "You'll have to create something that will hide your hair and obscure your facial features."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Make sure you're wearing a pair of gloves so that you don't leave any incriminating finger prints."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "You should have all this equipped before you stake out the house."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "What now?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the keys you gave me."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "It's lucky I keep a spare pair."
+    },
+    {
+      "character": "Player",
+      "line": "I've managed to stake the place out. What should I do now?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Try using those keys I gave you to open the door!"
+    },
+    {
+      "character": "Player",
+      "line": "I've managed to break in, but I'm unable to get the jewels."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Then search the house more thoroughly! Everything you need should be there."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "I really can't chat for very long, the recent escalation in crime has me run off my feet. Just a short while ago even my own house was robbed. This cannot continue."
+    },
+    {
+      "character": "Player",
+      "line": "I've completed your task."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Impressive, I didn't expect you to crack that safe so quickly. Did you have help?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course not, although the mayor did leave a number of hints lying around."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "That man is a fool. Now give me the jewels."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I seem to have misplaced them."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "You are trying my patience. Hurry back with the jewels. Don't disappoint me."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Now, your final task is one of the upmost importance. It has come to my attention that there is a traitor in our midst."
+    },
+    {
+      "character": "Player",
+      "line": "Oh really?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Yes, and I want you to root them out."
+    },
+    {
+      "character": "Player",
+      "line": "Why me?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Because I feel like I can trust you. You don't have the emotional baggage that comes with playing the villain your entire life."
+    },
+    {
+      "character": "Player",
+      "line": "You can count on me to find out."
+    },
+    {
+      "character": "Player",
+      "line": "Aw! You can count on me to find the traitor."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Well then get to it."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "How is the search for the traitor going?"
+    },
+    {
+      "character": "Player",
+      "line": "Still no breakthrough."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Make sure you interview our other members. They may know more than they let on."
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering if you could help me?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Tell me what your problem is and I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "I've heard there's a traitor among the Menaphites. What do you know about it?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "It wasn't me, I swear!"
+    },
+    {
+      "character": "Player",
+      "line": "Really? So what do you know?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "I just can't believe one of my friends could be a traitor."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Well, I suppose there is Traitorous Ali."
+    },
+    {
+      "character": "Player",
+      "line": "'Traitorous Ali'?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Oh yes. The most untrustworthy, backstabbing little rat to scamper across Tumeken's fair desert. He'd sell his own mother to slavers if he hadn't already betrayed her and had her locked up for the last job he pulled."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose the name is a bit of a giveaway."
+    },
+    {
+      "character": "Player",
+      "line": "That was a little too simple, are you sure it was him?"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Positive, he was turned by the offer of a set of waterproofs and a ride on a camel."
+    },
+    {
+      "character": "Player",
+      "line": "I see he drives a hard bargain."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "Well what can I say? We don't call him 'Ali of the Good Decisions', do we?"
+    },
+    {
+      "character": "Player",
+      "line": "I have discovered the identity of the traitor. It was..."
+    },
+    {
+      "character": "Player",
+      "line": "Traitorous Ali!"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "No! I would never have suspected Traitorous Ali."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Well, there was that time he sold out his entire family for a sandpit and an umbrella."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "But I'm sure it took much more for him to betray us!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually he sold you out for..."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Stop, I don't want to know. It hurts too much already. Find him and then kill him, but do it quietly. I don't want a fuss."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Is the deed done?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Well don't waste time talking to me. Get on with it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for Traitorous Ali."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "He was just here! Look, he's even left his drink on the table by those barrels. Must have nipped out to go to the toilet."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "He might be gone a while though. The nearest outhouse is all the way over on Fossil Island."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Hag."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Good day to you too, Blockhead."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Now what do you want? A hex? A spot potion? Power, beauty, eternal youth, etcetera?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually I just want your help to, erm, remove someone. It's simple enough!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Ahh, I see. But I warn you, stranger - extinguishing the flame of life is simple, but people rarely wish to face the consequences, and I doubt you are any different."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry about the consequences - I need it carried out in a manner which would draw no suspicion to me."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Well now this is getting interesting. I'd recommend a poisoning. Who do you wish dead? I need to know so that I may tailor a poison to their specific needs."
+    },
+    {
+      "character": "Player",
+      "line": "'Traitorous Ali', please."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Traitorous Ali? Say no more! That wretch traded his grandmother's house for a jar of pickled aubergines! I believe he'll be easily gotten rid of..."
+    },
+    {
+      "character": "Player",
+      "line": "What payment do you require?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "None at all - I will extract much pleasure from his passing. Just bring me the ingredients I require."
+    },
+    {
+      "character": "Player",
+      "line": "What do you need?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Ah, impatience! Traitorous Ali's time is indeed nigh. Firstly bring me some snake venom, which will act as the main toxin."
+    },
+    {
+      "character": "Player",
+      "line": "Where would I get some snake poison?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "From a snake perhaps?"
+    },
+    {
+      "character": "Player",
+      "line": "What I meant was how do I extract the poison from the snake?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Sheesh! You'd make a terrible hag. Just bring me a snake with teeth in its head - and don't even think of giving me that snake charmer's pet worm, it's about as dangerous as a rubber knife."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Have you got a snake yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm still working on that."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Well don't bother me again until you do!"
+    },
+    {
+      "character": "Player",
+      "line": "I have the snake. What else do you need?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Ah yes, that snake will do nicely. Hello, you wriggly little cutie!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Who's a vindictive little beast? You are! You are!"
+    },
+    {
+      "character": "Player",
+      "line": "Erm, yes. Do you need anything else?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Now that I have the toxin I need something to hide its trace. Fresh camel dung should do the job."
+    },
+    {
+      "character": "Player",
+      "line": "What? That's disgusting."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Do you want the poison or not?"
+    },
+    {
+      "character": "Player",
+      "line": "Fine, fine, I'll get some camel dung."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "And make that fresh camel dung! Nice and stinky. Now hand over that venomous little darling before it takes a bite out of you."
+    },
+    {
+      "character": "Player",
+      "line": "Oops! I almost forgot!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Do you have the camel dung yet?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Well don't come back until you have it!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Here's your poison!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow, that was quick!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Actually I already had it brewing. I just needed the ingredients for another batch."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "You wouldn't believe the demand. It's been murder!"
+    },
+    {
+      "character": "Player",
+      "line": "That's not even remotely funny."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Sorry, I've been dying to say that for ages."
+    },
+    {
+      "character": "Player",
+      "line": "Just stop. Thanks for the poison and good day to you."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Wait! Just remember, this poison isn't designed to be used on a weapon. In fact it's not a contact poison at all. You'll have to do more than just smear it on a blade!"
+    },
+    {
+      "character": "Player",
+      "line": "Got it. Thanks again!"
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering if I could have another batch of poison?"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Why? Was the first batch not good enough?"
+    },
+    {
+      "character": "Player",
+      "line": "Well no, I was just being greedy and wanted another batch for no good reason."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Well if that's the case, no! I have better things to be doing than continuously brewing poisons for people who have no use for it."
+    },
+    {
+      "character": "Player",
+      "line": "I lost the first batch."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "What? How do you just lose a batch of the most potent poison in all of Gielinor? It's even more deadly than the jungle karambwan."
+    },
+    {
+      "character": "Player",
+      "line": "It's a long and not very interesting story."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Well alright, I'll give you another batch this once."
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Have you good reason to disturb me again?"
+    },
+    {
+      "character": "Player",
+      "line": "Nope!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "I warned you about needlessly bothering me. That's it! I'm turning you into a frog!"
+    },
+    {
+      "character": "Player",
+      "line": "Ribbit, ribbit!"
+    },
+    {
+      "character": "Ali the Hag",
+      "line": "Don't taunt me, fool! Once I find a spare minute you'll be ribbiting on the other side of your face, you mark my words!"
+    },
+    {
+      "character": "Player",
+      "line": "Almost, his drink is poisoned. As soon as he gets back, he'll be done for."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Excellent work! Now, go speak with our boss."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "He wants to discuss the future direction of the gang."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "What did the boss say?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't spoken with him yet."
+    },
+    {
+      "character": "Player",
+      "line": "Ali the Operator said you wanted to see me."
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "That's right. I have kept a close eye on your progress. I'm impressed."
+    },
+    {
+      "character": "Player",
+      "line": "So what are your plans for the bandits?"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "The bandits? A mere nuisance, insignificant to my overall goal."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, if you're not warring with the bandits, what are you planning?"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "World domination! First Pollnivneach, then Al Kharid, then the whole of the desert!"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "You do understand who we are, don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually I thought you were a ragtag band of good-for- nothing thieves sucking the life out of this innocent town."
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "Silence! We are the descendants of assassins, the heirs of the revolutionaries who defeated the corrupt pharaoh and his brood!"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "For centuries we have wandered the desert, rebuilding the empire we were promised!"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "Will you join us in our quest to defeat the thralls of Tumeken and reclaim our birthright?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I have this irrational hatred for megalomaniac, despotic zealots! Prepare to meet your maker, you big jerk!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait, your great-great-great-great-grandparents were the ones who killed Osmumten?"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "Who?"
+    },
+    {
+      "character": "Player",
+      "line": "You don't even know his name, and you claim to be the heirs to his empire? Come on."
+    },
+    {
+      "character": "Player",
+      "line": "You're just a bunch of petty tyrants looking for an excuse to hurt people."
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "Be careful what you say! We are loyal servants of the Devourer!"
+    },
+    {
+      "character": "Player",
+      "line": "I hope so, because you're about to meet her in person. This is for Mehhar!"
+    },
+    {
+      "character": "Menaphite Leader",
+      "line": "Fool! You'll never get to me. Guards protect me."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "You treacherous jackal! Prepare to die!"
+    },
+    {
+      "character": "Player",
+      "line": "No doubt I haven't seen the last of you... but what about Ali's nephew?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe the villagers will feel more talkative now that I've rid them of these evil Menaphites. Who knows, they might even give me a reward!"
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "You treacherous jackal! I should never have trusted you."
+    },
+    {
+      "character": "Player",
+      "line": "What can I say, you live and learn."
+    },
+    {
+      "character": "Menaphite Thug",
+      "line": "I will avenge my master!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, I think I have a fair idea of what is going on in the town now."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "I don't know what we did to deserve your presence here, but I for one am filled with regret."
+    },
+    {
+      "character": "Player",
+      "line": "Well that's some show of gratitude! Can't I even get a 'thank you' for ridding your town of one of the gangs?"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Do you understand the concept of consequences?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, I think so?"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Well, the consequences of your little piece of butchery are that the town is now even worse off. The bandits no longer have to waste time and energy fighting with the Menaphites and can direct all their attention"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "towards making us miserable. So for your efforts I thank you, but I wish no-one had asked for your help."
+    },
+    {
+      "character": "Player",
+      "line": "I'll set this town right before I leave, I promise."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Why do I wish that you hadn't said that? Your heavyhanded tactics scare me."
+    },
+    {
+      "character": "Bandit",
+      "line": "Welcome! Your actions surprise me."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Bandit",
+      "line": "It was brilliant the way you got rid of the Menaphite leader."
+    },
+    {
+      "character": "Player",
+      "line": "Er... yes. Thank you."
+    },
+    {
+      "character": "Bandit",
+      "line": "So will you run the rest of them out of town now?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know."
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "Welcome. Our leader would be pleased to congratulate you on your disposal of the Menaphites who plagued this town."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Why did you have to go and ruin everything? We had a beautiful future ahead of us, the town would have been ours!"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I wanted to make it MY town!"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "I see. I knew the hunger for power would get to you eventually."
+    },
+    {
+      "character": "Player",
+      "line": "Evil megalomaniacs set on destruction should be opposed."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "Really? I thought you were meant to follow those types blindly, with unquestioning loyalty."
+    },
+    {
+      "character": "Player",
+      "line": "Look, Gielinor is full of power mad evil-doers. I'm sure another will come along soon enough."
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "No... it just wouldn't be the same. I think I'll just wallow in self pity for a while."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, I didn't mean to upset you. Can we still be friends?"
+    },
+    {
+      "character": "Ali the Operator",
+      "line": "No, I think I'll just wallow in self pity for a while."
+    },
+    {
+      "character": "Villager",
+      "line": "You! You're the one that just made everything worse for us poor villagers!"
+    },
+    {
+      "character": "Player",
+      "line": "What?! I just single-handedly took apart one of the gangs that was ruining your town!"
+    },
+    {
+      "character": "Villager",
+      "line": "You adventurers! You never think, you just act. You think that by killing a powerful bad person, Gielinor will become a better place."
+    },
+    {
+      "character": "Villager",
+      "line": "It's not that simple, things never are. You've created a vacuum, and now all that power will go to whoever's strong enough to take it."
+    },
+    {
+      "character": "Villager",
+      "line": "Who do you think is stronger? Our elderly mayor, or the leader of the bandits?"
+    },
+    {
+      "character": "Player",
+      "line": "Oops. Sorry, I was just trying to help. So are things really that much worse?"
+    },
+    {
+      "character": "Villager",
+      "line": "Yes. Before your intervention the two gangs pretty much cancelled each other out. They spent most of their energy trying to kill each other."
+    },
+    {
+      "character": "Villager",
+      "line": "Now that the balance is lost, the Bandits reign unopposed! They no longer have to deal with the Menaphites and heap misery upon misery on us. You must finish the job that you have started."
+    },
+    {
+      "character": "Player",
+      "line": "You know, this adventuring lark is a lot more complicated than I thought!"
+    },
+    {
+      "character": "Villager",
+      "line": "If you're prepared to change something you must also be prepared to deal with the consequences! Now hurry up and fix this mess you created!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean by fix the mess I created?"
+    },
+    {
+      "character": "Villager",
+      "line": "Do I have to spell it out to you?"
+    },
+    {
+      "character": "Player",
+      "line": "Would you please?"
+    },
+    {
+      "character": "Villager",
+      "line": "Just run the bandits out of town. Incidentally, I spotted their leader to the north-west just a few minutes ago."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll get to it."
+    },
+    {
+      "character": "Bandit",
+      "line": "Welcome! Our leader wants to congratulate you on your swift disposal of the Menaphites who plagued this town."
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Come here my friend, so I may embrace you. You have done us a great turn by disposing of those Menaphites."
+    },
+    {
+      "character": "Player",
+      "line": "Don't jump to conclusions, I didn't do it for you."
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Regardless, I am still very grateful. Now I have the town at my mercy."
+    },
+    {
+      "character": "Player",
+      "line": "That's what I'm here to talk to you about."
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Do you want a reward? A fee? I will not begrudge you that."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm here to give you an ultimatum: either leave the town of your own free will or I will make you."
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "How the worm has turned. This no-name adventurer who was robbing, looting and poisoning not too long ago is now taking the moral high ground! Or are you trying to keep the whole town for yourself?"
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Pollnivneach is mine. You won't run me out without a fight. If you want us gone, you must defeat our strongest warrior in battle."
+    },
+    {
+      "character": "Player",
+      "line": "Start packing your bags!"
+    },
+    {
+      "character": "Player",
+      "line": "I have defeated your champion, now get out of town."
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Adventurer... I have underestimated you. Perhaps we can come to an agreement. How about I work for you? Think of the riches you would make."
+    },
+    {
+      "character": "Player",
+      "line": "Don't try my patience. Tell me where Ali is, and then get out of here?"
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Ali? Which Ali?"
+    },
+    {
+      "character": "Player",
+      "line": "Ali Morrisane's nephew! I know you gangs had something to do with his disappearance, so tell me where he is!"
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Ali Morrisane?! You fool. You've been had!"
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Go have a chat with these precious townspeople of yours. You'll soon learn the truth."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go talk to a villager now, just to prove you wrong. Now get out of here before I really get angry with you!"
+    },
+    {
+      "character": "Player",
+      "line": "I told you to clear off! Why are you still here?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't try my patience. Get out of here, and never return to this town again!"
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Ha! You fancy yourself the people's champion, do you? You are so naive. You don't even realise you've been tricked!"
+    },
+    {
+      "character": "Bandit Leader",
+      "line": "Go have a chat with these precious townspeople of yours. You'll soon see."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go talk to a villager now, just to prove you wrong. Now get out of here before I really get angry with you."
+    },
+    {
+      "character": "Bandit",
+      "line": "You dog! You killed our champion and for that you will die!"
+    },
+    {
+      "character": "Cowardly Bandit",
+      "line": "You dog! You killed our champion and for that I hope you die a slow and painful death."
+    },
+    {
+      "character": "Player",
+      "line": "What was that? Are you looking for a fight?"
+    },
+    {
+      "character": "Player",
+      "line": "Now are you satisfied?"
+    },
+    {
+      "character": "Villager",
+      "line": "Oh, it's you again!"
+    },
+    {
+      "character": "Player",
+      "line": "I have delivered you from two evil tyrants. Where's my thank you?"
+    },
+    {
+      "character": "Villager",
+      "line": "Thank you? For what? You come into our town. You rob, mug, burgle and kill and then expect respect and gratitude? Look, if it's praise and thanks you're looking for, talk to the mayor."
+    },
+    {
+      "character": "Player",
+      "line": "I wonder why I bother sometimes! This place has been nothing but trouble and I still haven't found Ali's nephew."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "My thanks, adventurer. Your methods and motives may be questionable, but none can argue that you have delivered our little town from the wicked gangs who plagued it. I think things will change around here, now"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "that our problems are at a manageable size."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "The least that I can do for you is answer your questions about the whereabouts of Ali Morrisane's nephew. He always was a mischievous young man, full of harebrained schemes."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "He dreamed of being the greatest salesman in all of Gielinor! Unfortunately, he was a little too good."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "He angered a number of people by coercing them into buying things they didn't really want. Completely within the law, of course, but the law could only protect young Ali for so long."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Once he angered the Menaphites and the bandits, I knew I could no longer protect him."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Under cover of darkness I smuggled him out of the town, and he's been gone ever since."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "I can assure you, however, that he is safe and well - and now that you have effectively ended the threat posed by the gangs, he can continue his business elsewhere. Last I heard he planned to open some kind"
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "of trade network with forty of his friends. A 'treasure trove', he claims. I'll believe it when I see it."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "I hope that helps you in your quest. If you speak to Ali Morrisane, do tell him that I wholeheartedly apologise for the way he - er, his family - has been treated."
+    },
+    {
+      "character": "Player",
+      "line": "I think I may be able to help with one other thing. I heard that your house was burgled recently. If you're interested in recovering the goods, you ought to have a word with Ali the Operator."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Now, how would a passing adventurer know where to find my missing jewels?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, let's just put it down to adventurer's intuition."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Thank you once again. Have you spoken to Ali Morrisane yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No not yet."
+    },
+    {
+      "character": "Ali the Mayor",
+      "line": "Perhaps you should! I'm sure he's keen to hear word of his nephew."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Well since you gave the two gangs a good kicking, business has really taken off! Both gangs are spending all their gold here drowning their sorrows."
+    },
+    {
+      "character": "Player",
+      "line": "That's great! So do I get a cut of the profits?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Get out of here, you cheeky rascal. A cut of my profits? As if!"
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell Traitorous Ali that someone has poisoned his drink?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "What?! Poisoned drinks, in my bar?! My reputation would be destroyed if someone died here. Thank you adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "No problem at all."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Here, have a beer - it's on the house."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks but no thanks, I don't drink."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Don't say that around here too loud please, it may catch and then I'd be out of business."
+    },
+    {
+      "character": "Player",
+      "line": "You could always open up a non alcoholic fruit juice bar. You'd have less problems with drunken customers"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "You might be onto something there, but then what would I do with the drunken sailor?"
+    },
+    {
+      "character": "Player",
+      "line": "Who?"
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Drunken Ali. Oh never mind it's a long story."
+    },
+    {
+      "character": "Player",
+      "line": "Yuck! I don't like beer."
+    },
+    {
+      "character": "Ali the Barman",
+      "line": "Fine, suit yourself. There's no need to insult me."
+    },
+    {
+      "character": "Player",
+      "line": "Hey Ali!"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Hello adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "Any news?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Not much really, I just want to thank you for what you have done for this town. I might even stick around now that business is better!"
+    },
+    {
+      "character": "Player",
+      "line": "Any grand plans?"
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Well I've been debating whether I should diversify into camel rental, too. Although I do have all these cages lying around... do you think there's a market for discount jackals?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe! Best of luck, in any case."
+    },
+    {
+      "character": "Ali the Camel Man",
+      "line": "Thank you."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Hello again my friend. I have heard nothing from my troublesome nephew. Have you any news of his whereabouts?"
+    },
+    {
+      "character": "Player",
+      "line": "Indeed I do. I was able to eventually learn of his fortunes, although it was a little bit more challenging than I originally thought."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well then please, tell me what has become of him. Nothing bad I hope."
+    },
+    {
+      "character": "Player",
+      "line": "I was able to discover that he is quite the salesman. Perhaps too good. He has roughly forty people working under him."
+    },
+    {
+      "character": "Player",
+      "line": "Unfortunately a number of people didn't approve of his sales techniques and as a result he is in hiding."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "You make an old man very happy. I'm so proud of young Baba."
+    },
+    {
+      "character": "Player",
+      "line": "But he's considered a thief!"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Yes, by people with too much money and not enough sense. All willingly parted with their money and received what they purchased."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Well, it seems I still am in need of an assistant..."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "..but take the reward anyway."
+    },
+    {
+      "character": "Player",
+      "line": "I've just been thinking Ali, there seems to be a few parallels between yourself and your nephew. Both of you are unscrupulous salesmen, both of you come from the same town and both of you no longer trade there."
+    },
+    {
+      "character": "Player",
+      "line": "Were you sent into exile too?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I have my reasons."
+    },
+    {
+      "character": "Player",
+      "line": "No, now hang on, this seems to me like one of the strangest quests I have ever been involved with. I do not believe that a businessman like you would not know of a competitor, particularly a competitor as talented as"
+    },
+    {
+      "character": "Player",
+      "line": "your nephew."
+    },
+    {
+      "character": "Player",
+      "line": "So what was your motive to get me to visit Pollnivneach? Was it concern for the towns people? Hmm. I don't think so, I'd say you would probably sell your grandmother if you could get a good price for"
+    },
+    {
+      "character": "Player",
+      "line": "her. What was the reason?"
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "My my, you surprise me, you're not as dumb as you look."
+    },
+    {
+      "character": "Player",
+      "line": "Surely you didn't do all this to sell me a fake beard and headpiece."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Ah, once again you underestimate me. I sold you far more than that."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Well I did buy some other odds and ends off you.... no hang on! I get it now, you're in league with Ali the Camel seller, the Kebab seller and the mayor aren't you."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "I like the word 'tourism'. Did you not enjoy your stay in Pollnivneach? Was there not action, intrigue and fun to be had, and did you not notice all the other tourists there too?"
+    },
+    {
+      "character": "Player",
+      "line": "I must apologise for ever doubting you. You really are the greatest salesman in all of Gielinor."
+    },
+    {
+      "character": "Ali Morrisane",
+      "line": "Now that we both agree on that, may I show you my wares?"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ali Morrisane",
+      "description": "Middle-aged male, Middle Eastern accent, smooth and persuasive tone, a cunning and greedy merchant who fancies himself the greatest salesman in the world with a charming but manipulative personality."
+    },
+    {
+      "name": "Ali the Barman",
+      "description": "Adult male, Middle Eastern accent, weary and hassled tone, a stressed bartender who seems perpetually tired from dealing with rowdy patrons in a rough desert town."
+    },
+    {
+      "name": "Ali the Camel Man",
+      "description": "Adult male, Middle Eastern accent, passionate and defensive tone, an enthusiastic animal seller who takes pride in his camels and gets emotional when discussing them."
+    },
+    {
+      "name": "Ali the Hag",
+      "description": "Elderly female, Middle Eastern accent, witty and mischievous tone, a clever old woman with a sharp sense of humor who enjoys wordplay and lives as a mysterious potion-maker."
+    },
+    {
+      "name": "Ali the Mayor",
+      "description": "Middle-aged male, Middle Eastern accent, formal but ineffective tone, a wealthy town mayor who lacks real authority and feels helpless against the criminal gangs controlling his town."
+    },
+    {
+      "name": "Ali the Operator",
+      "description": "Adult male, Middle Eastern accent, smooth and confident tone, a suave gang member who carries himself with calm sophistication and cunning charm."
+    },
+    {
+      "name": "Bandit",
+      "description": "Adult male, Middle Eastern accent, rough and aggressive tone, a vicious desert thief with a tough demeanor who operates outside the law."
+    },
+    {
+      "name": "Bandit Leader",
+      "description": "Middle-aged male, Middle Eastern accent, commanding and pragmatic tone, a cunning gang boss who is willing to negotiate when outmatched but expects respect from others."
+    },
+    {
+      "name": "Cowardly Bandit",
+      "description": "Adult male, Middle Eastern accent, timid and nervous tone, a weak and frightened bandit who lacks the toughness of his peers and is easily intimidated."
+    },
+    {
+      "name": "Drunken Ali",
+      "description": "Adult male, Middle Eastern accent, slurred and rambling tone, a former sailor now perpetually intoxicated who speaks in wandering sentences and loves his ale."
+    },
+    {
+      "name": "Menaphite Leader",
+      "description": "Middle-aged male, Middle Eastern accent, fanatical and grandiose tone, a deranged cult priest with unstable ambitions of world domination who grows impatient and threatening when challenged."
+    },
+    {
+      "name": "Menaphite Thug",
+      "description": "Adult male, Middle Eastern accent, gruff and intimidating tone, a low-ranking gang enforcer with an aggressive demeanor typical of street-level criminals."
+    },
+    {
+      "name": "Rug Merchant",
+      "description": "Adult male, Middle Eastern accent, businesslike and matter-of-fact tone, a practical carpet merchant who runs magic carpet transportation services across the desert."
+    },
+    {
+      "name": "Street urchin",
+      "description": "Young male, Middle Eastern accent, mischievous and cunning tone, a scrappy street thief with a roguish personality who expects payment for any help he provides."
+    },
+    {
+      "name": "Villager",
+      "description": "Elderly male, Middle Eastern accent, weary and resigned tone, an ordinary desert town resident caught between warring criminal factions."
+    }
+  ]
+}

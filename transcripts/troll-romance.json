@@ -1,0 +1,588 @@
+{
+  "branch": "quest/troll-romance",
+  "quest_name": "Troll Romance",
+  "lines": [
+    {
+      "character": "Arrg",
+      "line": "Aaaarrrrrghhh!"
+    },
+    {
+      "character": "Player",
+      "line": "O-oh, he seems cheesed off..."
+    },
+    {
+      "character": "Aga",
+      "line": "What man-thing want?"
+    },
+    {
+      "character": "Player",
+      "line": "Errr... I've got to go."
+    },
+    {
+      "character": "Ug",
+      "line": "Arrrghhh, die man-thing!"
+    },
+    {
+      "character": "Ug",
+      "line": "Ahhh, it no use, I too sad!"
+    },
+    {
+      "character": "Player",
+      "line": "Awww, you poor troll. What seems to be the problem?"
+    },
+    {
+      "character": "Ug",
+      "line": "I love Aga, she so beautiful, she smell so nice, like rotting dead ice wolf!"
+    },
+    {
+      "character": "Ug",
+      "line": "But Arrg that... arrrrrg! He together with Aga and he much stronger than Ug. He rip Ug apart!"
+    },
+    {
+      "character": "Player",
+      "line": "Who is Aga?"
+    },
+    {
+      "character": "Ug",
+      "line": "She most beautiful troll in world."
+    },
+    {
+      "character": "Ug",
+      "line": "Ug want to marry Aga, but she with Arrg!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry now, I'll see what I can do."
+    },
+    {
+      "character": "Ug",
+      "line": "You help Ug? You nice, maybe Ug not eat you!"
+    },
+    {
+      "character": "Player",
+      "line": "Errrr... thanks... I think?"
+    },
+    {
+      "character": "Player",
+      "line": "I will go and talk to Aga."
+    },
+    {
+      "character": "Player",
+      "line": "A crying troll who's in love?! This just gets better and better!"
+    },
+    {
+      "character": "Player",
+      "line": "Hahahahaha... a crying Troll."
+    },
+    {
+      "character": "Player",
+      "line": "I bet all the other trolls laugh at you!"
+    },
+    {
+      "character": "Ug",
+      "line": "Go away, man-thing, leave Ug alone!"
+    },
+    {
+      "character": "Player",
+      "line": "Hahahahaa!"
+    },
+    {
+      "character": "Aga",
+      "line": "What you want, man-thing?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... you're big and hairy?"
+    },
+    {
+      "character": "Aga",
+      "line": "Thanks, me very careful about looks!"
+    },
+    {
+      "character": "Player",
+      "line": "Errr..."
+    },
+    {
+      "character": "Player",
+      "line": "So... how's your... um... love life?"
+    },
+    {
+      "character": "Aga",
+      "line": "It ok, I with Arrg, he very strong and mighty but sometimes..."
+    },
+    {
+      "character": "Aga",
+      "line": "I not know if he love Aga, He say he will show he love by bringing me flower Trollweiss."
+    },
+    {
+      "character": "Aga",
+      "line": "It a very rare, beautiful flower, it very special!"
+    },
+    {
+      "character": "Aga",
+      "line": "It grow somewhere in these mountains."
+    },
+    {
+      "character": "Player",
+      "line": "And Arrg said he would get you the flower?"
+    },
+    {
+      "character": "Aga",
+      "line": "He very strong, if he love Aga he will get Trollweiss."
+    },
+    {
+      "character": "Player",
+      "line": "So... what do you think about Ug?"
+    },
+    {
+      "character": "Aga",
+      "line": "Who?"
+    },
+    {
+      "character": "Player",
+      "line": "You know that wimpy, crying... nevermind."
+    },
+    {
+      "character": "Aga",
+      "line": "Aga can't wait for Trollweiss. Arrg will show his love!"
+    },
+    {
+      "character": "Arrg",
+      "line": "Whaaaaaaaat?"
+    },
+    {
+      "character": "Player",
+      "line": "Ehh, Excuse me... Mr. Troll, sir,"
+    },
+    {
+      "character": "Player",
+      "line": "How did you grow so big and strong?"
+    },
+    {
+      "character": "Arrg",
+      "line": "Get away from Arrg, puny man-maggot. Or you lunch!"
+    },
+    {
+      "character": "Player",
+      "line": "Your girlfriend said you know where to find Trollweiss?"
+    },
+    {
+      "character": "Arrg",
+      "line": "Girlfriend? Which one?"
+    },
+    {
+      "character": "Player",
+      "line": "Errr... Aga."
+    },
+    {
+      "character": "Arrg",
+      "line": "Yes, she good cook and wash but talk too many. Arrg strong troll, Arrg mighty troll, Arrg have many girlfriends!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes, you're great, but what about the Trollweiss?"
+    },
+    {
+      "character": "Arrg",
+      "line": "I no know, I just say to make Aga shut up!"
+    },
+    {
+      "character": "Player",
+      "line": "So you don't actually know where to find the Trollweiss?"
+    },
+    {
+      "character": "Player",
+      "line": "Great..."
+    },
+    {
+      "character": "Player",
+      "line": "I've got to go."
+    },
+    {
+      "character": "Ug",
+      "line": "You talk to Aga yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, she said that she really wants a certain flower! Trollweiss, I think she called it."
+    },
+    {
+      "character": "Ug",
+      "line": "Oh no! Then Ug no chance, Trollweiss not found in years!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry I'll find it for you!"
+    },
+    {
+      "character": "Ug",
+      "line": "You no chance, Ug no chance, need someone who live whole life in mountains. Ug no know anyone like that..."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on a sec..."
+    },
+    {
+      "character": "Ug",
+      "line": "Have you got flowers yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I'm still looking."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I can find Trollweiss?"
+    },
+    {
+      "character": "Tenzing",
+      "line": "It has been a long time since someone has asked me about Trollweiss."
+    },
+    {
+      "character": "Tenzing",
+      "line": "In the old days Trollweiss could be found all over the mountains, but recently it has been disappearing!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "There is one place, where I am sure it still grows, but it is impossible to get to."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing's impossible, if you put your mind to it!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Ahhh, the youth of today. So sure of their prowess. But who am I to stop you from walking into your doom, if that is what you wish to do!"
+    },
+    {
+      "character": "Player",
+      "line": "Spare me with the lectures and tell me where to find this flower!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Well, you will need to enter the domain of the ice trolls! This is an area full of wicked beasts and biting cold. From there you will find a way down a slope to a plateau where the Trollweiss grows."
+    },
+    {
+      "character": "Tenzing",
+      "line": "It used to be easy to get to this plateau, but it is now snowed over and virtually inaccessible. That's global warming for you!"
+    },
+    {
+      "character": "Player",
+      "line": "There must be a way to get there."
+    },
+    {
+      "character": "Tenzing",
+      "line": "There is maybe one thing..."
+    },
+    {
+      "character": "Player",
+      "line": "Go on."
+    },
+    {
+      "character": "Tenzing",
+      "line": "If you could make some sort of sled, you could probably get down there but I don't know where that would lead you, as you will not be able to go up the mountain again."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't sound like a very good idea to me!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Pah, who are you to talk? Without me you would never have found the secret path to the plateau!!"
+    },
+    {
+      "character": "Player",
+      "line": "What would I need to make such a sled?"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Well, I'm no expert. Maybe you should speak to someone who knows more about such technical stuff."
+    },
+    {
+      "character": "Player",
+      "line": "Like who?"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Why don't you ask Dunstan. He's always helped me with my spiked boots."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you very much for the information."
+    },
+    {
+      "character": "Tenzing",
+      "line": "See you later"
+    },
+    {
+      "character": "Player",
+      "line": "Hi!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Hi! Did you want something?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I need a sled!!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Dunstan",
+      "line": "So why do you need a sled then?"
+    },
+    {
+      "character": "Player",
+      "line": "I need the sled to get to a certain location in the mountains."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Hahahaha."
+    },
+    {
+      "character": "Player",
+      "line": "No, I actually still like rolling around in the snow."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Well, I guess some of us never grow up!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Well, since you've helped my family out a couple of times, I'd be glad to build a sled for you."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Let me think..."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Yeah, that should do it. I will need some yew or maple logs, a bar of iron and some rope."
+    },
+    {
+      "character": "Dunstan",
+      "line": "I should have my designs ready by the time you have brought me all the materials"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Have you got all the materials for the sled yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't got everything yet."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Well, unfortunately I can't make the sled without all the materials."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have all the materials for the sled."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Well, here's the sled but it will need to be waxed. The wax will need to both protect the sled as well as smoothen it."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Maybe if you mix some wax with a bit of swamp tar it will achieve the desired effect. You'll also need something to store the wax in... like a cake tin."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get wax from?"
+    },
+    {
+      "character": "Dunstan",
+      "line": "I don't know. I'm a smith! But maybe you should look for some bees."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get swamp tar from?"
+    },
+    {
+      "character": "Dunstan",
+      "line": "The swamp of course! It's south of Lumbridge."
+    },
+    {
+      "character": "Player",
+      "line": "What else do I need?"
+    },
+    {
+      "character": "Dunstan",
+      "line": "You will also need a cake tin to store the wax in."
+    },
+    {
+      "character": "Player",
+      "line": "See you!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Thank you, come again."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Hello again."
+    },
+    {
+      "character": "Ug",
+      "line": "Have you got flower yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've got it right here."
+    },
+    {
+      "character": "Ug",
+      "line": "Thanks man-thing. Ug so happy!"
+    },
+    {
+      "character": "Ug",
+      "line": "But me too scared to give Trollweiss to Aga because Arrg will eat Ug for breakfast."
+    },
+    {
+      "character": "Player",
+      "line": "What? So I have to get rid of Arrg as well? After all this trouble I should be the one getting the girl..."
+    },
+    {
+      "character": "Player",
+      "line": "Then again maybe not."
+    },
+    {
+      "character": "Ug",
+      "line": "You no touch Aga. Ug kill you."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll tell Arrg you said that. Shall I tell him to meet you here?"
+    },
+    {
+      "character": "Ug",
+      "line": "No, no, no, wait! Ug just joke, oh great man-legend. Ug puny, you strong."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I am a bit of a legend. Ok I'll do it!"
+    },
+    {
+      "character": "Ug",
+      "line": "You defeat Arrg yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet. Something like this requires careful planning."
+    },
+    {
+      "character": "Player",
+      "line": "I am here to kill you!"
+    },
+    {
+      "character": "Arrg",
+      "line": "Very good, Arrg was getting hungry."
+    },
+    {
+      "character": "Player",
+      "line": "But not in front of the lady, let's take it outside."
+    },
+    {
+      "character": "Player",
+      "line": "Aga deserves better than you."
+    },
+    {
+      "character": "Arrg",
+      "line": "What you mean? Arrg strong troll, Arrg mighty troll. Every troll woman want Arrg."
+    },
+    {
+      "character": "Player",
+      "line": "But you don't love her!"
+    },
+    {
+      "character": "Arrg",
+      "line": "This concept of 'love' confuses and infuriates Arrg."
+    },
+    {
+      "character": "Player",
+      "line": "Looks like I'm going to have to teach you a lesson in 'love'."
+    },
+    {
+      "character": "Arrg",
+      "line": "Oh mighty man-warrior, please no hurt Arrg."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, he has been defeated."
+    },
+    {
+      "character": "Ug",
+      "line": "You very strong and nice. Take pretty rocks as thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, Ug. So, now you can go and speak to Aga!"
+    },
+    {
+      "character": "Ug",
+      "line": "I too scared."
+    },
+    {
+      "character": "Player",
+      "line": "Has anyone ever told you that you are a useless troll? My grandmother has more guts than you and she doesn't even have her teeth anymore!"
+    },
+    {
+      "character": "Ug",
+      "line": "Whaaat? Man-thing want to die? Ug no scared of you or your grandmother! Ug show you. Ug go to Aga now."
+    },
+    {
+      "character": "Player",
+      "line": "How did it go with Aga?"
+    },
+    {
+      "character": "Ug",
+      "line": "I give Trollweiss to Aga and she say it taste very nice. She very happy and we together now."
+    },
+    {
+      "character": "Player",
+      "line": "What?! I went through all that trouble to get a snack for a hungry troll?"
+    },
+    {
+      "character": "Ug",
+      "line": "Thank you many for getting Ug together with Aga. We much happy together! I so happy I can't stop crying!"
+    },
+    {
+      "character": "Aga",
+      "line": "Thanks for getting Aga and Ug happy. Without you Ug too shy, Aga so in love with Ug!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aga",
+      "description": "Adult female troll, deep gravelly voice with a softer feminine quality, simple speech patterns with broken grammar, romantic and vain about her appearance."
+    },
+    {
+      "name": "Arrg",
+      "description": "Large adult male troll, extremely deep booming voice, aggressive and intimidating tone, arrogant and dismissive, speaks in third person with simple vocabulary."
+    },
+    {
+      "name": "Dunstan",
+      "description": "Middle-aged male human, British accent, friendly and helpful tone, practical craftsman who takes pride in his smithing work, straightforward and matter-of-fact."
+    },
+    {
+      "name": "Tenzing",
+      "description": "Elderly male human, weathered voice with slight breathiness, gruff and direct manner, experienced mountain sherpa who speaks with seasoned wisdom and practicality."
+    },
+    {
+      "name": "Ug",
+      "description": "Adult male troll, higher-pitched gravelly voice for a troll, whiny and emotional tone, timid and lovesick, speaks with broken grammar and frequent despair."
+    }
+  ]
+}

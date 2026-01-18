@@ -1,0 +1,1976 @@
+{
+  "branch": "quest/legends-quest",
+  "quest_name": "Legends' Quest",
+  "lines": [
+    {
+      "character": "Legends' Guard",
+      "line": "Yes, how can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "What is this place?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "This is the Legends' Guild!"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Legendary citizens of Gielinor are invited on a quest in order to become members of the guild."
+    },
+    {
+      "character": "Player",
+      "line": "Can I go on the quest?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Well, it looks as if you are eligible for the quest. Grand Vizier Erkle will give you the details about the quest. You can go and talk to him about it if you like?"
+    },
+    {
+      "character": "Player",
+      "line": "Who is Grand Vizier Erkle?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "He is the head of the Legends Guild. His full name is Radimus Erkle. Would you like to talk to him about the quest?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'd like to talk to Grand Vizier Erkle."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Ok, very well... You need to go into the building on the left, he's in his study."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Good Luck!"
+    },
+    {
+      "character": "Player",
+      "line": "Some other time perhaps?"
+    },
+    {
+      "character": "Player",
+      "line": "What kind of quest is it?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Well, to be honest, I'm not really sure. You'll need to talk to Grand Vizier Erkle to find that out."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for your help."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "You're welcome..."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get in here?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Well, you'll need to be a legendary citizen of Gielinor."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "If you want to enter the Legends' Guild, you'll be invited to complete a quest. Once you have completed that quest, you'll be a fully fledged member of the Guild."
+    },
+    {
+      "character": "Player",
+      "line": "Can I speak to someone in charge?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Well, Radimus Erkle is the Grand Vizier of the Legends Guild. He's a very busy man. And he'll only talk to those people eligible for the quest."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "I'm very sorry but you need to complete more quests before you can go on this quest. Additionally you need to gain more quest points. They don't call it the Legends Guild for nothing you know!"
+    },
+    {
+      "character": "Player",
+      "line": "Which quests do I need to complete?"
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Well, you'll need to complete the following quests:,, and."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "You also need a total of 107 quest points."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "They don't call it the Legends Guild for nothing you know! Best of luck if you intend to become a member!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "That's no problem... Best of luck if you intend to become a member!"
+    },
+    {
+      "character": "Player",
+      "line": "It's ok thanks."
+    },
+    {
+      "character": "Legends' Guard",
+      "line": "Very well!"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Good day to you, adventurer! No doubt you are keen to become a member of the Legends' Guild?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes actually, what's involved?"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Well, you'll need to complete a quest for us as proof that you've got what it takes to be a Legend. How do you fancy mapping the Kharazi Jungle? It's the unexplored southern part of Karamja Island."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "We'd also like you to befriend a Kharazi tribesman, and bring back a token of the tribe's friendship. The Legends' Guild has allies in all corners of the map, and we could always use more."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "What do you say? Are you interested in this quest?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it sounds great!"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Excellent!"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Excellent! I've already started mapping the jungle myself. You can take my research to help you along."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Complete this map when you get to the Kharazi Jungle. It's in the southernmost part of Karamja."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "There's three sections I want you to focus on."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "You'll need additional papyrus and charcoal to complete the map, of course."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "It is likely to be very tough going. You'll need an axe and machete to cut through the dense Kharazi Jungle, so collect a machete from the cupboard before you leave. You'll need to find your own axe, preferably a"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "good one."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Finally, whatever token of friendship you bring back must be fit to display in our hall. I'll know if it's some cheap knock-off, and I will not be best pleased."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "All that aside, I wish you the very best of luck!"
+    },
+    {
+      "character": "Player",
+      "line": "Not just at the moment."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Very well, if you change your mind, please come back and see me."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe some other time."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "As you wish..."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "My name is Radimus Erkle. I am the Grand Vizier of the Legends' Guild. Are you interested in becoming a member?"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Hello there, how is the quest going?"
+    },
+    {
+      "character": "Player",
+      "line": "It's alright, but I've forgotten what to do."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Taken one too many hits to the noggin, have you? Here's what I want you to do."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "You need to find a way into the Kharazi Jungle."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Then you need to explore and map the three areas I asked you to."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "While you're there you need to make contact with the Kharazi tribe and establish friendly relations."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "As proof of all this, I want you to bring back the completed map and a token of the Kharazi's esteem - something we can put on display."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Did you get all that?"
+    },
+    {
+      "character": "Player",
+      "line": "Terrible, I lost my map of the Kharazi Jungle."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Oh dear! Well, luckily one of those friendly foresters sent me a copy. But I'll need to charge you a fee of 30 Gold Pieces. The cost of postage these days is horrendous..."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "It looks as though you don't have the funds for it at the moment. How irritating..."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Do you agree to pay?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll pay for it."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Right then. Please don't lose this one."
+    },
+    {
+      "character": "Player",
+      "line": "No, I won't pay for it."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Well, that's your decision, of course.. but you won't be able to complete the quest without it. Now, if you'll excuse me, I have other business to attend to."
+    },
+    {
+      "character": "Player",
+      "line": "I need another machete."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Well, just get another one from the cupboard."
+    },
+    {
+      "character": "Player",
+      "line": "I've run out of charcoal."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Well, get some more! Have a little initiative, would you?"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "It's hardly legendary to fail a quest because you can't find a little bit of burnt wood!"
+    },
+    {
+      "character": "Player",
+      "line": "I've run out of papyrus."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "It's hardly legendary to fail a quest because you can't find some papyrus!"
+    },
+    {
+      "character": "Player",
+      "line": "I've completed the quest."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Excellent! Does this mean you have a suitable gift from the Kharazi? Becoming a legend is more than just fighting you know. It also requires some careful diplomacy and problem solving skills."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "I'd like to see the completed map, too."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Sorry, but I have no use for that."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Hello friend. You're a long way from Lumbridge!"
+    },
+    {
+      "character": "Player",
+      "line": "How do I get into the Kharazi Jungle?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Well, I don't recommend just walking in! The last guy I saw try that barely escaped with his life."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Apparently he was on a mission to map the area. How foolish is that?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I plan to map the jungle myself."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Oh. Oops. Sorry if I sounded rude, it just seems like a really bad idea."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "I mean it's a noble calling. Lots of people around here could use a proper map to navigate with. But, you know... there's something not quite right about that jungle."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Best of luck though... Guthix knows, you'll need it."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any other tips about the Kharazi Jungle?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Not really. Just be careful - there's a lot of weird stuff going on in there lately."
+    },
+    {
+      "character": "Player",
+      "line": "Are you calling me foolish?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Er... maybe? I'll just be on my way..."
+    },
+    {
+      "character": "Player",
+      "line": "What do you do here?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "I'm a forester, and I specialise in exotic woods. I haven't gone into the Kharazi myself, but I've found some interesting tree specimens out here."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "If you do find a safe path into the jungle, do come and let me know. I'd love to have a nose around in there."
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen any Kharazi tribespeople in the jungle?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Oh yes, I've met loads of them! Lovely lot. I haven't seen many about recently, though."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "If you're looking to say hello, you'll need a Bullroarer. If you swing it above your head it makes a loud noise - that should attract someone's attention."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have a Bullroarer I could borrow?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "I wish I did! But I just have the one, and I've grown fond of it. Besides, I might need it if I ever get lost in the jungle."
+    },
+    {
+      "character": "Player",
+      "line": "Will you trade something for it?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Hmm, maybe. Tell you what, you show me something interesting and I'll see if it's worth my Bullroarer. How about that?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a deal!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "You're welcome! See you around..."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "This is an impressive map! I'm amazed, it's just great! Do you mind if I make a copy of it? I'll give you my Bullroarer in return."
+    },
+    {
+      "character": "Player",
+      "line": "Go ahead, make a copy!"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Many thanks, friend."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Perfect."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "That's a Bullroarer. Swing it above your head and it'll make a funny noise. It's great for attracting people's attention!"
+    },
+    {
+      "character": "Player",
+      "line": "You'll give me what in return?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "My Bullroarer! Look."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "If you swing it above your head it makes a funny noise. It's great for attracting people's attention!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I'm busy questing."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Oh, alright then."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "This is a great map, thanks for letting me have a copy! I'm excited to explore more of the jungle."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "You'll have better luck getting someone's attention if you use it in the jungle."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Greetings, Bwana. Why do you make such strange sounds and disturb the peace of the jungle?"
+    },
+    {
+      "character": "Player",
+      "line": "I was hoping to attract the attention of a Kharazi tribe member."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well, it worked! I am Gujuo, proud member of the Kharazi tribe. What did you want to talk about, Bwana?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been sent by the Legends' Guild. We want to develop friendly relations with your people."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Very good, Bwana... this is indeed a friendly gesture. However, you've come at a bad time."
+    },
+    {
+      "character": "Gujuo",
+      "line": "My people are scattered and in hiding."
+    },
+    {
+      "character": "Player",
+      "line": "Can you get your people together?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "We normally meet regularly around our tribe's totem pole. Unfortunately, ours has been polluted by an evil spirit, and now we are all afraid to approach it."
+    },
+    {
+      "character": "Gujuo",
+      "line": "We send our shaman, Ungadulu, to confront the spirit... but he has not returned."
+    },
+    {
+      "character": "Player",
+      "line": "Is there any way I could help?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "We could work together to make a new totem pole - but I'm afraid it won't be easy. We carve them from the trunk of the sacred Yommi tree."
+    },
+    {
+      "character": "Player",
+      "line": "How do we make a totem pole?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "First we need to plant a sacred Yommi tree. It is a magical tree of great power. Our shaman, Ungadulu, is the only one trusted with the seeds."
+    },
+    {
+      "character": "Gujuo",
+      "line": "And as I said, he hasn't returned from his mission. He was supposed to be communing with the spirits in some caves in the northwestern part of the jungle."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go find Ungadulu."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You mean it? That would be wonderful, Bwana! He was last seen in the northwestern part of the Kharazi Jungle, near the great cliffs. Look there, and you will see three rocks that form a triangle."
+    },
+    {
+      "character": "Gujuo",
+      "line": "They mark the secret entrance to the caves where Ungadulu communes with the spirits. If you rescue him, he will surely entrust you with the Yommi tree seeds, and we can restore our totem."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I have to collect herbs now, Bwana..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh well, sorry to hear about that."
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's okay, Bwana. Ungadulu has probably been torn apart by wild beasts, or driven mad by spirits... there's no point searching for him now."
+    },
+    {
+      "character": "Gujuo",
+      "line": "If my people survive this calamity, it will be a miracle..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks for your help."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You're more than welcome, Bwana."
+    },
+    {
+      "character": "Player",
+      "line": "If I find Ungadulu, what's in it for me?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well, the Kharazi would be forever in your debt. Return our shaman, and we will certainly be able to establish friendly relations with your Legends' Guild."
+    },
+    {
+      "character": "Player",
+      "line": "I'm lost, can you show me the way out?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "I can take you to the edge of the Kharazi Jungle. Shall we go now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes Please..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Follow me..."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "As you wish... Again, Bwana, What is it that brings you to the Kharazi Jungle?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, it was a mistake?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's quite alright, Bwana. But I have to ask... what are you doing in the Kharazi Jungle?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Bwana! Have you found Ungadulu?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't find the caves."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well, they were still there last time I checked... go west through the jungle until you reach the see, then walk eastwards again with the barrier rocks to the north."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Walk past the covered pass and you'll find three rocks, arranged in a triangle shape on slightly elevated ground. You'll find the caves there."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I am tired, Bwana, I must go and rest..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Please, come no closer! The flames will incinerate you."
+    },
+    {
+      "character": "Player",
+      "line": "How can I extinguish the flames?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Please, don't try-"
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Yes, douse the flames with water... pure water..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Please, leave now! Don't listen... I beg you, leave now, and do not return!"
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get pure water from?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "No... I will not tell you!"
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "...from the sacred pool, in the lands above... hurry and release me..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "N-no! Please, Bwana, just leave while you still can!"
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Hurry, Vacu, the heat of these flames is killing me... ha ha ha!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "I am Ungadulu, shaman of the Kharazi tribe."
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Bring me pure water! Douse the flames, lest ye -"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Please, Bwana, don't listen to me! Run, tell my people I am lost..."
+    },
+    {
+      "character": "Player",
+      "line": "Ungadulu looks a little strange."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Be wary, Bwana. The jungle is full of strange and powerful spirits. You may have been tricked..."
+    },
+    {
+      "character": "Player",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Farewell Bwana, good luck."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of trick?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Our forefathers summoned many strange spirits, in an attempt to learn their wisdom."
+    },
+    {
+      "character": "Gujuo",
+      "line": "But something went wrong. Now they haunt the caves around this area, and make our lives miserable. Only the magic of the totem keeps them at bay."
+    },
+    {
+      "character": "Gujuo",
+      "line": "These spirits are full of tricks. Take nothing as it first appears."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry for bothering you."
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's fine Bwana, not to worry. I hope your quest is going well."
+    },
+    {
+      "character": "Player",
+      "line": "How did they summon the spirits?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Such matters are best left to the shamans. I am told that certain patterns, scored on the ground, can bind a spirit and prevent it from doing harm... but that's all I know."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... I think I might have seen one of those patterns recently."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure what to do."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I wish I could help, but I'm as confused as you. Normally I'd call upon Ungadulu to solve a mystery like this... but he's part of the puzzle!"
+    },
+    {
+      "character": "Player",
+      "line": "I need some pure water to douse some magic flames."
+    },
+    {
+      "character": "Gujuo",
+      "line": "This all sounds very odd. You're not possessed, are you Bwana?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think so. I need the water to help Ungadulu!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well, then I suppose there's no harm in telling you. There is a sacred pool, right at the centre of the Kharazi jungle."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The water contains special properties, but they will only be retained if it's stored in a blessed vessel made from the metal of the sun. It's no easy task, but I'm sure an adventurer like you could manage it."
+    },
+    {
+      "character": "Player",
+      "line": "Metal of the sun... what is that?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "It is a bright and precious metal, much sought after, but uncommonly found. It is the same bright colour as the sun, and yet its light never fades. A blessed vessel made of this metal protects the purity of the water."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find this metal?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "By mining it, of course!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "But be careful. This metal can influence people in strange ways. Fall under its power, and you will think of nothing else for the rest of your days, no matter how much of it you find."
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's why we only use it to create blessed vessels for the sacred water."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of a vessel?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "A bowl would hold plenty of water. However, it must be made from the metal of the sun, and it must be blessed."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Here, this is what the vessel should look like... I hope that helps."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Similar to the one in the picture I have already given you."
+    },
+    {
+      "character": "Player",
+      "line": "How do I bless the vessel?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "When you have made the vessel, bring it to me. I will help but you need to ensure that you are devout and have faith. Your Prayer will be thoroughly tested."
+    },
+    {
+      "character": "Player",
+      "line": "Ungadulu called me 'Vacu'. What does that mean?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "It seems that Ungadulu has started to lose his senses. In the days of our forefathers, the 'Vacu' were shamans who could summon powerful, wise spirits."
+    },
+    {
+      "character": "Gujuo",
+      "line": "But they asked too much, and were enslaved by the spirits they sought to command."
+    },
+    {
+      "character": "Player",
+      "line": "How terrible..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Indeed. Every Kharazi child knows not to mess with evil spirits. What has our shaman gotten himself into?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "I have work to do Bwana, best of luck on your quest..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Greetings, Bwana. Ah, I see you have the golden bowl! Would you like me to bless it for you?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Bwana... your faith is not strong enough to bless this vessel."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Very well, Bwana..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well done, Bwana! This is a fine vessel for the sacred water. Shall I show you how to bless it?"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, I'll wait."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Very well, let me know when you want to try."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Sorry, but I don't need that, Bwana."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Please, just run..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Go... go now...!"
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Welcome Vacu, to eternal..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Run, Bwana! Stay away from here!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Thank you, Bwana! You have released me from the demon's grasp, but only for a short while! You must seek out the Book of Binding - it's hidden in these caves somewhere!."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "There are many trials you must pass... but please, you're my only hope of escape!"
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Foolish Vacu... come for me again and thou shalt taste more of my power!"
+    },
+    {
+      "character": "Player",
+      "line": "Easy as pie..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "How goes your quest to release Ungadulu, Bwana?"
+    },
+    {
+      "character": "Player",
+      "line": "Ungadulu mumbled something about 'pure' water?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "That sounds odd. Perhaps our shaman has lost his mind. My apologies, Bwana, it seems that I've sent you on a fool's errand. Unless..."
+    },
+    {
+      "character": "Player",
+      "line": "Unless what?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "We do have a sacred pool which contains pure water. I don't know why Ungadulu would need it, though. Maybe you should talk to him again and get more information."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do that. Goodbye!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Farewell, Bwana, and good luck on your quest."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Hmm... we have a pool of pure, sacred water nearby. I wonder if that's what Ungadulu meant?"
+    },
+    {
+      "character": "Player",
+      "line": "Can we still get the people together?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "I am sorry, Bwana. Without the totem pole, it isn't safe to gather together. The evil spirits could strike at any time..."
+    },
+    {
+      "character": "Player",
+      "line": "Where is this sacred pool of yours?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "If Ungadulu has requested your help, I suppose I can tell you. It's in the centre of the Kharazi jungle."
+    },
+    {
+      "character": "Gujuo",
+      "line": "But be careful! The water contains special properties which will only be retained if it's stored in a blessed vessel made from the metal of the sun."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Don't you need to take some pure water down to the caves? If you haven't got the water yet, try getting some from the pool."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "I am sorry Bwana, but I have no adventuring experience to speak of. I would only get in your way..."
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Vile serpent, thou wilt pay for that!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "...What, what happened? Why am I all wet?"
+    },
+    {
+      "character": "Ungadulu (possessed)",
+      "line": "Curse you... foul intruder... wretched Vacu! Thy meddling ways hath brought thee to thy doom!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "I hope that teaches you to respect your elders!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Bwana, you've saved me from the demon Nezikchened! How can I ever repay this favour?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to collect some Yommi tree seeds for Gujuo."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Yommi tree seeds? To grow a new totem? Then Nezikchened's influence has spread further than I thought..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "You should know that growing a Yommi tree is no simple task - but I'll help you as much as I can."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Here you are, take these with my gratitude. You'll need to soak them in sacred water to germinate them before planting them."
+    },
+    {
+      "character": "Player",
+      "line": "How do I grow the Yommi tree?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "First you will need to soak the seeds in some sacred water. This will help them germinate and begin the growing process."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Next, you'll need to find a patch of fertile soil and plant the seeds."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Yommi trees are magical, and grow very quickly. You'll need to water them often with more sacred water - there should be plenty in the spring."
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about the sacred water?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "The sacred water comes from a magical spring, the source of which lies deep underground."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Legend has it that the water is protected by spirits of long-dead adventurers who went in search of the spring's source. But you don't need to worry about that."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get out of here?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Now that you have defeated the demon you can come and go as you please. I cast a spell on you which means that you can pass through the flames without harm."
+    },
+    {
+      "character": "Player",
+      "line": "What will you do now?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "I will remain here in the protection of the flaming octagram and continue my research into the spirit world. My recent experience has made me something of an authority on the subject!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "But do please visit me here if you have any problems with your Yommi tree. I remember carving my first totem... it's no easy feat!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "It's the least I can do!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "How goes your quest to free Ungadulu?"
+    },
+    {
+      "character": "Player",
+      "line": "Ungadulu is free! He was possessed by a demon and I killed it."
+    },
+    {
+      "character": "Gujuo",
+      "line": "A demon? You are truly brave, Bwana. Well done, and thank you for freeing our shaman."
+    },
+    {
+      "character": "Player",
+      "line": "I have the Yommi tree seeds."
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's great, Bwana. Now you just need to germinate the seeds and then plant them in some fertile soil. I'm sure that Ungadulu has explained all this to you already."
+    },
+    {
+      "character": "Player",
+      "line": "What do I do now?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "If you have the Yommi tree seeds, you will need to germinate them."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Place the seeds into pure water, and they will begin to sprout tiny shoots. You can then plant them in fertile soil."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Thank you for releasing Ungadulu! My fellow Kharazi and I feel much safer now that our shaman is back. Is the Yommi tree growing well?"
+    },
+    {
+      "character": "Player",
+      "line": "I have germinated the Yommi tree seeds."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well done, Bwana. Thanks to your hard work we'll soon have a new totem pole. Now you need to plant the seed in the fertile earth."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find fertile soil?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "There's lots of fertile ground in the Kharazi jungle. My people have marked the patches we've seen with old wood."
+    },
+    {
+      "character": "Gujuo",
+      "line": "If you find a rotten tree, or what looks like a rotten totem pole, it's probably on fertile soil."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You'll need to chop the markers down with a sharp Woodcutting axe."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I have visited Ungadulu in the caves. He's hard at work studying, but he looks well! Have you grown the Yommi tree yet?"
+    },
+    {
+      "character": "Player",
+      "line": "The water pool has dried up, but I need more pure water."
+    },
+    {
+      "character": "Gujuo",
+      "line": "This is indeed a bad omen, Bwana. I've never known the sacred pool to dry up before..."
+    },
+    {
+      "character": "Player",
+      "line": "Does the Yommi tree have to have pure water?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Of course! It is a magical tree and can only survive on the water from the sacred pool."
+    },
+    {
+      "character": "Player",
+      "line": "Where's the source of the pure water?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Oh, Bwana, it is a terrible place. Be thankful you don't have to go there."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Bwana, you cannot be thinking of travelling to the source!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "But I suppose we have no choice..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Deep in the caves where you found Ungadulu is a terrible place, guarded by the angry spirits of the undead."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The legends say they died trying to find the source of the sacred water, and now they are cursed to guard it for all eternity."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The first to die was a powerful sorcerer, and his strange magic lingers in the cave. Now all who venture near are struck by terror, and cannot proceed."
+    },
+    {
+      "character": "Gujuo",
+      "line": "With all my heart, Bwana, nothing could convince me to go near such a place."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I won't go..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's sensible of you, Bwana. It would be a waste of a perfectly fine life. We will just have to restore the totem some other way... or else leave our home forever..."
+    },
+    {
+      "character": "Player",
+      "line": "If I looked for the source, could you help me?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "If you're determined to find the source, I will help as much as I can. First, you must overcome the curse of fear that blocks the cave."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I know a potion that may help with that."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You will need to find two herbs, Snake Weed and Ardrigal. Add them both to a Vial of Water, and you will feel braver than a lion!"
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find Snake Weed?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Snake Weed is usually found in swampy, marshy areas."
+    },
+    {
+      "character": "Gujuo",
+      "line": "There's some marsh to the south of Tai Bwo Wannai village - maybe you could check there? It likes to grow near jungle vines, so look carefully."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find Ardrigal?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Ardrigal is often found growing near large groups of palms. If you head east out of Tai Bwo Wannai village you should come across a big group of them."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The herb grows in the shade of the palm, so check carefully."
+    },
+    {
+      "character": "Player",
+      "line": "Will I really need this Potion? I'm already pretty brave."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The caves are protected by a supernatural curse which would leave even the bravest adventurer a trembling wreck."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You must take the potion if you plan to journey there."
+    },
+    {
+      "character": "Player",
+      "line": "I searched the caves thoroughly and didn't find any sacred water..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The source of the sacred water is a terribly dangerous place. Perhaps the elders have hidden the path, or buried it under rubble?"
+    },
+    {
+      "character": "Player",
+      "line": "The Yommi tree died."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well, it requires pure, sacred water for it to grow. It is a very special tree..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I have visited Ungadulu in the caves. He's hard at work studying, but he looks well! How is your quest going, Bwana?"
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get more water for the Yommi tree?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "If the pool of sacred water has dried up, there may be a way to get to the source of the spring. But it is said to be very, very dangerous."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Hello, Bwana! How is your Yommi tree doing?"
+    },
+    {
+      "character": "Player",
+      "line": "I am on a quest to get more sacred water."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Well, if it's sacred water you want, you'd do well to have a look around here."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Long ago, the elders blocked off the entrance to the Viyeldi caves, somewhere in this same cave system. There's bound to be evidence of the entrance somewhere."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Beware though - the caves are deeply cursed, and should you fall, your spirit will be trapped within the caves forever, sworn to protect their secret."
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about the source of the sacred water?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Many people have tried, and failed, to find it. My great-grandfather told me he once even saw an expedition of dwarves down there!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Something terrible must have happened to them, because they never returned."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "They say the spirits of those poor adventurers linger still, cursed to protect the water even in undeath... forever..."
+    },
+    {
+      "character": "Player",
+      "line": "I need more Yommi tree seeds."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "You already have some Yommi tree seeds. Use those first and then come back to me if you need any more."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Take better care of these, please. They're very rare."
+    },
+    {
+      "character": "Player",
+      "line": "No! It's too scary!"
+    },
+    {
+      "character": "Player",
+      "line": "Something funny's going on in these caves... I wonder if the Kharazi can help me get past this?"
+    },
+    {
+      "character": "Viyeldi",
+      "line": "Beware, adventurer. You are brave, but braver folk than you have fallen in pursuit of the sacred water."
+    },
+    {
+      "character": "Viyeldi",
+      "line": "Perilous dangers do await thee, Tojalon, Senay and Devere make three. None hold malice but will test your might, pray you do not lose these fights."
+    },
+    {
+      "character": "Viyeldi",
+      "line": "If, however, you win this day, take heart that see the spring you may."
+    },
+    {
+      "character": "Viyeldi",
+      "line": "Through Dragon's eye will you gain new heart. Heed these words, else swiftly depart."
+    },
+    {
+      "character": "Viyeldi",
+      "line": "Adventurer, I am already deceased, and therefore impervious to your attacks. Still, I can tell when I'm not wanted..."
+    },
+    {
+      "character": "Ranalph Devere",
+      "line": "You have proved yourself worthy of this prize."
+    },
+    {
+      "character": "Ranalph Devere",
+      "line": "Your aim was true, challenger."
+    },
+    {
+      "character": "Irvig Senay",
+      "line": "I am humbled by your honourable deeds."
+    },
+    {
+      "character": "Irvig Senay",
+      "line": "You fought well, adventurer."
+    },
+    {
+      "character": "San Tojalon",
+      "line": "You have proved yourself an honourable foe."
+    },
+    {
+      "character": "San Tojalon",
+      "line": "You have fought the good fight this day."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Who disturbs the rocks of Zekin?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... me?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "So, you desire the sacred water that flows here?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I need it for my quest."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "The water babbles so loudly and I am already so tortured. I cannot abide the sound, so I have stoppered the streams. Care you not for my torment and pain?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really, I just wondered if I could push that big rock."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "The rock must remain! I placed it there to stop the sound of the water's babbling. The noise troubles my soul and I seek a little rest... rest from this terrible torture..."
+    },
+    {
+      "character": "Player",
+      "line": "Why are you tortured?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I was robbed of my life by a cruel man named Viyeldi. For centuries I have searched for him, so I might enact my vengeance."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "But, oh! Tragedy of tragedies, while searching for the source of the sacred water, his spirit became trapped! Now he is neither living nor dead, and I will never be released from my torment."
+    },
+    {
+      "character": "Player",
+      "line": "What can I do about that?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I was brutally murdered by a vicious man called Viyeldi. I sense his presence nearby."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "My spirit burns with the need for revenge. While that fiend yet lives, I cannot rest. If you seek the sacred water, you must ensure he meets his end."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "If you refuse, then I swear, the sacred water shall never flow again! Will you put an end to Viyeldi for me?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll do what I must to get the water."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Destroy Viyeldi, and the sacred water is yours. But beware, for this is no simple task."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I will furnish you with a weapon which will destroy Viyeldi for good. Here, take this."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "To complete your task you must use this weapon on Viyeldi."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Use this dagger to slay the fiendish Viyeldi, and bring it back to me once he is dead... for good, this time."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll do it."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "You've made the right decision. Soon, the sacred water will be yours. Bring the dagger back to me when you have completed your task."
+    },
+    {
+      "character": "Player",
+      "line": "I've changed my mind, I can't do it."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "That's your decision. Are you sure you don't need the sacred water, though? Deny me, and it will forever be out of your reach..."
+    },
+    {
+      "character": "Player",
+      "line": "No, I won't take someone's life for you."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "A noble sentiment, but Viyeldi is not alive! He is merely a vessel for the sacred water's power."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "If that is your decision then so be it, but I cannot allow access to the stream until Viyeldi is dead."
+    },
+    {
+      "character": "Player",
+      "line": "Can't I just get some water?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "First, you must help me. Revenge is the only thing that keeps my spirit in this place."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Help me take vengeance on Viyeldi and I will gladly remove the rocks and allow you access to the water. What say you, adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "Who's asking?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I am Echned Zekin, and I seek peace from my eternal torture..."
+    },
+    {
+      "character": "Player",
+      "line": "Do I know you?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I am long since dead and buried, lost in the passages of time. My kin have departed and I am forgotten by all who knew me... so it is unlikely that you were one of them. I am but a poor tortured soul, trying to get"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "some rest..."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Why do you return when your task is still incomplete?"
+    },
+    {
+      "character": "Player",
+      "line": "Who am I supposed to kill again?"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I seek revenge on Viyeldi, the cruel fiend who slew me centuries ago."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "I sense he is nearby. Kill him, and I will grant you access to the sacred water."
+    },
+    {
+      "character": "Player",
+      "line": "Er, I've had second thoughts."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "It is too late for second thoughts... do as you promised and return to me, with haste! Viyeldi's presence torments me so..."
+    },
+    {
+      "character": "Player",
+      "line": "I have to be going..."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Return the dagger to me when your task is complete."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Does this mean you do not wish to help me take vengeance on Viyeldi?"
+    },
+    {
+      "character": "Player",
+      "line": "Here, take the dagger back."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Very well, I respect your decision - but I cannot allow you to access the sacred water while my tormentor lives."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'll complete the task."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Very well, return to me when it is done."
+    },
+    {
+      "character": "Player",
+      "line": "I have found the source of the sacred water!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "That's great, Bwana! But please, be careful..."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything more about the caves?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "I have told you everything I know, Bwana."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know the name 'Viyeldi'?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "It seems familiar. Maybe I heard it from the Elders...?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Of course! Viyeldi was the name of the sorcerer who first went in search of the sacred water's source."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Have you encountered his spirit? Be careful, Bwana... he must be very powerful."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Ouch! The mosquitoes are biting! I'm going for a swim..."
+    },
+    {
+      "character": "Player",
+      "line": "Can you remind me where the source of the sacred water is?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Deeper in the caves where you found Ungadulu is a terrible place, guarded by the angry spirits of the undead."
+    },
+    {
+      "character": "Player",
+      "line": "I've forgotten how I got to the sacred water."
+    },
+    {
+      "character": "Gujuo",
+      "line": "The path must be well hidden. You should take another look around the cave where you found Ungadulu. The entrance is most certainly there somewhere!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Hello, Bwana. How goes your search for the sacred water?"
+    },
+    {
+      "character": "Player",
+      "line": "I have killed Viyeldi!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Why would you do that?!"
+    },
+    {
+      "character": "Player",
+      "line": "A spirit called Echned Zekin said I had to avenge his spirit by killing Viyeldi if I wanted him to unblock the sacred spring."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Bwana, I'm afraid this spirit has tricked you! Viyeldi was the spirit of a powerful sorcerer, who controlled the spirits of those bound to the sacred water."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "If he is truly dead, then those spirits are now free to be controlled by other, far worse forces - that lying spirit is probably one of them."
+    },
+    {
+      "character": "Player",
+      "line": "I met a spirit in the Viyeldi Caves."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "You did well to come to me, Bwana. As I said before, I am an expert in these matters."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Spirits are tricky creatures. In most circumstances you should just ignore them - but be especially wary if they ask you for favours. They may be trying to trick you..."
+    },
+    {
+      "character": "Player",
+      "line": "The spirit told me to kill Viyeldi!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Goodness! That sounds like a fiendish spirit indeed. You're better off banishing it - I have a spell that will do the trick."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "But I need an item that belongs to the spirit to make it work."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "If you have something like that, please show it to me."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about daggers?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "I know some things about them - especially the magical kind. Do you have one of those?"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "This dagger has been made for one purpose only... thank goodness you brought it to me."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Now we can turn the tables! I can make you a spell with this item which will force the spirit to reveal its true self. Once activated, you will be able to attack it like any normal creature."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Use this spell on the spirit. It will force it to show its true self and make it vulnerable to attack."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "You seem filled with determination. Have you slain Viyeldi? Give me the dagger, quickly!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the dagger."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Bring it to me with all haste, or feel my wrath!"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't killed Viyeldi yet."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Go now and slay him, as you agreed. Unless you'd like me to take vengeance on you, instead?"
+    },
+    {
+      "character": "Player",
+      "line": "I have something else in mind!"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Worthless Vacu! How dare you lie to me! Go and slay Viyeldi, as you promised, or I will lay upon you all the pain and torment I have endured these long years!"
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Aha, I see you have completed your task. I'll take that dagger from you now."
+    },
+    {
+      "character": "Echned Zekin",
+      "line": "Ahhhhh, yes... I feel my power returning. Now, to deal with thee..."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Blessings upon you Bwana. Did you use the spell I gave you to deal with the spirit? And did you find the sacred water?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've killed the spirit."
+    },
+    {
+      "character": "Player",
+      "line": "Well, actually, it wasn't a spirit at all - it was Nezikchened!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Nezikchened returned? And you defeated him a second time? You truly are a legend, Bwana."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Did you find the source of the sacred water, too?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've got the water."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "That's wonderful, Bwana. Well done!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Well, you should be able to plant the Yommi tree and keep it alive by watering it with the sacred water. After that, you can carve your totem pole!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Let us hope we've seen the last of Nezikchened... who knows what he might try next?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Bwana! You're alive! I'm pleased to see you."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Something feels different about the jungle... I suspect it's down to your good deeds."
+    },
+    {
+      "character": "Player",
+      "line": "I found the source of the spring and I got some sacred water."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You are truly a brave warrior, Bwana. Now your Yommi tree can grow to be just as strong as you are - and we'll have a new totem pole in no time."
+    },
+    {
+      "character": "Player",
+      "line": "I defeated the demon - for good this time!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Can it be true? My people and I have noticed a difference in the jungle. The trees seem to sing again, the air tastes fresh and cool... and we have you to thank."
+    },
+    {
+      "character": "Player",
+      "line": "How do I make the totem pole?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "First, your Yommi tree must be fully grown. Then, you must chop it down - quickly, before it rots!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Once you have felled the tree, trim the branches."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Finally, you can craft a new totem pole from the bare trunk."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You'll need a very sharp, very tough axe for all of this."
+    },
+    {
+      "character": "Gujuo",
+      "line": "But when you're done, you can replace one of the rotten totem poles, and the Kharazi will be forever in your debt!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "I must check in on my people... these are dangerous times."
+    },
+    {
+      "character": "Player",
+      "line": "I've made the totem pole, now what do I do with it?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Well Bwana, that's a very interesting piece of work! Not bad at all."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Now we need to replace an existing corrupted totem pole with your newly constructed one. You should be able to find totems within the Kharazi Jungle."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Tales of your exploits are told throughout the jungle!"
+    },
+    {
+      "character": "Ungadulu",
+      "line": "How goes your quest to grow the sacred Yommi tree?"
+    },
+    {
+      "character": "Player",
+      "line": "I've already made the totem pole."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "That's great news, Bwana. Once you replace the corrupted one, our people will be able to gather together once more."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure what to do with the totem pole."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "Simply replace a corrupted totem pole with the one you've made. That should make any nearby spirits think twice about bothering my people!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Greetings, Bwana! I can tell you've already placed the totem. The jungle feels alive again, and my people can finally gather without being bothered by evil spirits."
+    },
+    {
+      "character": "Gujuo",
+      "line": "You have done us a great service, Bwana."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Please accept this token of our friendship."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Take this to your Legends' Guild - let them know that you are a friend of the Kharazi. And please, come back and visit us anytime."
+    },
+    {
+      "character": "Gujuo",
+      "line": "I must go and hunt now, Bwana..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Good day, Bwana. The Kharazi Jungle is especially beautiful today, isn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any news?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "None at all! Everything is fine now, thanks to you."
+    },
+    {
+      "character": "Player",
+      "line": "Where are all your people?"
+    },
+    {
+      "character": "Gujuo",
+      "line": "The evil spirits you vanquished have haunted this jungle for many years. It will take some time for my people to fully trust strangers - even strangers as famous as you!"
+    },
+    {
+      "character": "Gujuo",
+      "line": "Rest assured, you will always be a friend of the Kharazi."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the totem pole you gave me."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Lost it? That totem pole was a sign of our friendship, Bwana..."
+    },
+    {
+      "character": "Gujuo",
+      "line": "Luckily, I made an extra one. Please be more careful with it this time."
+    },
+    {
+      "character": "Ungadulu",
+      "line": "You have done well, Bwana, to have succeeded where so many others have failed. You are a true legend."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Well, it looks as if you have something interesting there. Let's have a look!"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "This is truly amazing..."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "This totem pole will take pride of place in the Legends' Guild, as a reminder of your quest. The legends of the future will surely be inspired by such a feat of craftsmanship."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Well, you've completed the tasks I set you. That map of the Kharazi jungle will be very helpful for future expeditions."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Congratulations, welcome to the Legends' Guild. Please, go through to the main Legends' Guild building, and I will join you shortly."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Congratulations, welcome to the Legends' Guild. Please, go through to the main Legends' Guild building and I will join you shortly."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Welcome to the Legends' Guild Main Hall. As you can see, the totem pole you brought us has pride of place. Every member of the Legends' Guild can see it as soon as they come through the doors, and they'll know that it"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "was you who brought it back."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Now that you're a fully-fledged member of the guild, I'd like to offer you some training. Shall we get started now?"
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "You can choose skill to increase your abilities in."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Right, that's all the training I can offer you. I hope you're happy with your new skills. Do feel free to explore the rest of the building."
+    },
+    {
+      "character": "Player",
+      "line": "No, I've got something else to do at the moment."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Very well. Return when you are able, but don't leave it too long. You'll benefit considerably from this training."
+    },
+    {
+      "character": "Radimus Erkle",
+      "line": "Now, please excuse me for a while. I have other matters to attend to. Do feel free to explore the rest of the building."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Echned Zekin",
+      "description": "Ancient male spirit, ethereal and whispering voice with a sinister undertone, deceptive and manipulative. Speaks with false sorrow to mask malevolent intent, as this is actually the demon Nezikchened in disguise."
+    },
+    {
+      "name": "Gujuo",
+      "description": "Adult male, deep warm voice with an African tribal accent, calm and wise but concerned for his people. A proud Kharazi warrior who speaks formally, often addressing others as 'Bwana'."
+    },
+    {
+      "name": "Irvig Senay",
+      "description": "Undead male warrior, hollow and echoing spectral voice, solemn and honorable. A ghostly conquistador who died searching for the sacred spring and now guards it with dignity."
+    },
+    {
+      "name": "Jungle forester",
+      "description": "Middle-aged male, casual British accent, friendly and approachable but cautious about the jungle. A practical woodsman who specializes in exotic lumber and enjoys trading stories with travelers."
+    },
+    {
+      "name": "Legends' Guard",
+      "description": "Adult male, formal British accent, professional and dutiful. A proud guard who takes his role at the prestigious Legends' Guild seriously, speaking with authority and respect."
+    },
+    {
+      "name": "Radimus Erkle",
+      "description": "Elderly male, refined aristocratic British accent, authoritative yet encouraging. The Grand Vizier of the Legends' Guild and a former adventurer himself, he speaks with the wisdom of experience."
+    },
+    {
+      "name": "Ranalph Devere",
+      "description": "Undead male warrior, hollow spectral voice with a knightly bearing, honorable and direct. A ghostly skeleton who died as an adventurer and now tests worthy challengers in combat."
+    },
+    {
+      "name": "San Tojalon",
+      "description": "Undead male warrior, deep echoing spectral voice, formal and chivalrous. The strongest of the three spirit guardians, he speaks with ancient dignity and tests the mettle of those who seek the sacred water."
+    },
+    {
+      "name": "Ungadulu",
+      "description": "Elderly male, deep African tribal accent, wise and spiritual but distressed. The Kharazi tribe's shaman who speaks with mystical knowledge and genuine concern, often warning others of danger."
+    },
+    {
+      "name": "Ungadulu (possessed)",
+      "description": "Elderly male possessed by a demon, voice shifting between Ungadulu's distressed tones and a dark demonic growl. Speaks with conflicting intentions as the demon Nezikchened struggles for control."
+    },
+    {
+      "name": "Viyeldi",
+      "description": "Ancient male spirit, soft ethereal voice with mystical resonance, cryptic and prophetic. A wise sorcerer's ghost who speaks in riddles and verse, warning adventurers of the dangers ahead."
+    }
+  ]
+}

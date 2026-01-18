@@ -1,0 +1,2156 @@
+{
+  "branch": "quest/throne-of-miscellania",
+  "quest_name": "Throne of Miscellania",
+  "lines": [
+    {
+      "character": "Queen Sigrid",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Er...Hello, Your Majesty."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Have you come for a particular reason? I am a busy Queen, you know. I had to attend the opening of a new orphanage this morning."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I..."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "And this afternoon I shall be receiving the Embassador of Karamja and accompanying him on his week-long tour of Etceteria."
+    },
+    {
+      "character": "Player",
+      "line": "Er, I..."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Then this evening we shall be putting on a grand ball! All of the kingdom's nobility will be present!"
+    },
+    {
+      "character": "Player",
+      "line": "If I m..."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Oh, who am I kidding...nothing ever happens here. I always wanted to be a princess when I was a girl. If I'd been told it would be like this, I wouldn't have bothered."
+    },
+    {
+      "character": "Player",
+      "line": "Your Majesty!"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Yes? Did you want something?"
+    },
+    {
+      "character": "Player",
+      "line": "...actually, no."
+    },
+    {
+      "character": "Guard",
+      "line": "Halt! Who goes there?"
+    },
+    {
+      "character": "Player",
+      "line": "My name is, will you not let me through?"
+    },
+    {
+      "character": "Guard",
+      "line": "I'm afraid the King won't give an audience to anyone except a worthy hero."
+    },
+    {
+      "character": "Guard",
+      "line": "If you become a member of the Heroes' Guild, he will definitely grant you an audience."
+    },
+    {
+      "character": "Player",
+      "line": "I am a member of the Heroes' Guild; does that not show my worth?"
+    },
+    {
+      "character": "Guard",
+      "line": "Then you may pass."
+    },
+    {
+      "character": "Guard",
+      "line": "."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Your Royal Highness."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "The King needs someone to take over the rule of the Kingdom. If I were you, I should consider the position."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Who are you? Who seeks audience with the King of this fair land of Miscellania?"
+    },
+    {
+      "character": "Player",
+      "line": "I am known in these lands as, Your Majesty. I come in search of a quest."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Ah, it pleases me to see such enthusiasm!"
+    },
+    {
+      "character": "King Vargas",
+      "line": "I was once an adventurer such as yourself; even while fulfilling my duties as King of Miscellania, I would roam the lands in search of adventure, and strike down mighty foes with a single blow!"
+    },
+    {
+      "character": "King Vargas",
+      "line": "Unfortunately, I was a little too daring, and attempted to brave the icelands, where I finally met my match."
+    },
+    {
+      "character": "King Vargas",
+      "line": "I survived, barely, but I was cursed for the rest of my life to stay in this form. Which leaves me incapable of performing my duties as ruler."
+    },
+    {
+      "character": "King Vargas",
+      "line": "This is why I am looking for an exceptional soul to be regent of this fair kingdom of Miscellania."
+    },
+    {
+      "character": "Player",
+      "line": "If I may be so bold, Your Majesty, I think Miscellania would rest in capable hands with me."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Hahaha! You are bold, but then I have yet to see a good ruler who was not."
+    },
+    {
+      "character": "King Vargas",
+      "line": "You will first have to demonstrate your worth. You are a good warrior, that I do not doubt; however ruling also requires a good grasp of diplomacy."
+    },
+    {
+      "character": "King Vargas",
+      "line": "We have been at war with neighbouring Etceteria for hundreds of years; however, I think both of us have rather lost our appetite for hostilities."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Now may be an opportune time to make amends. If you manage to negotiate peace with them, then you will truly have shown your skill as a diplomat."
+    },
+    {
+      "character": "Player",
+      "line": "Then do not stray far, Your Majesty, for I shall soon return."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Wait! There is one more matter to discuss... a mere formality, of course."
+    },
+    {
+      "character": "King Vargas",
+      "line": "By Miscellanious tradition, one may not become regent of the kingdom unless in the trust of the royal family."
+    },
+    {
+      "character": "King Vargas",
+      "line": "This includes that of the future king or queen. It is yet too early for me to decide which of my children should inherit the throne."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Until then, gaining the trust of one of them should suffice. Who knows? Your choice might help me make a decision later."
+    },
+    {
+      "character": "King Vargas",
+      "line": "So tell me! Which of my children will you attempt to gain the trust of?"
+    },
+    {
+      "character": "Player",
+      "line": "I would like to choose Prince Brand."
+    },
+    {
+      "character": "Player",
+      "line": "And you say this is a mere formality, Your Majesty?"
+    },
+    {
+      "character": "King Vargas",
+      "line": "I am sure you can form a good working relationship with him. You can ask Ghrim for advice; that's what he's here for, after all."
+    },
+    {
+      "character": "Player",
+      "line": "I would like to choose Princess Astrid."
+    },
+    {
+      "character": "King Vargas",
+      "line": "I am sure you can form a good working relationship with her. You can ask Ghrim for advice; that's what he's here for, after all."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I must decline, Your Majesty. The call of adventure is too strong for me to accept a sedentary life."
+    },
+    {
+      "character": "King Vargas",
+      "line": "I can assure you that I managed to heed that same call, and ruling this land was no hindrance to me. However, I understand your decision. Fare thee well!"
+    },
+    {
+      "character": "Player",
+      "line": "Your Majesty."
+    },
+    {
+      "character": "King Vargas",
+      "line": "How are you getting on, ? Have you talked to Queen Sigrid of Etceteria?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, Your Majesty."
+    },
+    {
+      "character": "Player",
+      "line": "I want to earn Prince Brand's approval instead."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Your Majesty."
+    },
+    {
+      "character": "King Vargas",
+      "line": "As you wish. Good luck!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I changed my mind."
+    },
+    {
+      "character": "King Vargas",
+      "line": "As you wish. I will keep this conversation between us."
+    },
+    {
+      "character": "Player",
+      "line": "I want to earn Princess Astrid's approval instead."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Is that so? I can let them both know, but you may find that the Prince has taken the news rather coldly. A broken trust is difficult to mend."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Is that so? I can let them both know, but you may find that the Princess has taken the news rather coldly. A broken trust is difficult to mend."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to be doing again?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I make peace with Etceteria?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You should go talk to Queen Sigrid of Etceteria."
+    },
+    {
+      "character": "Player",
+      "line": "How am I supposed to gain the trust of the Prince?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "I think you may find that talking to him would be a good way to start."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "A ring may be an appropriate gift to formalise your friendship"
+    },
+    {
+      "character": "Player",
+      "line": "How am I supposed to gain the trust of the Princess?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "I think you may find that talking to her would be a good way to start."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything else you can tell me?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "What would you like to know, ?"
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the King?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "King Vargas was once a brave and noble adventurer, well-loved by his subjects. Unfortunately, he was cursed while seeking a quest in the icelands to the north, and is now unable to reign."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the Prince?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Prince Brand has always dreamed of becoming a famous bard; unfortunately, his musical and literary skills are somewhat lacking."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "He has no interest in ruling the kingdom, and seems to spend his time daydreaming or composing quite awful poems, and sagas of totally mundane events."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "He is rather vain, if you'll pardon my saying so; he will greatly appreciate any compliments on his poetry. He also has quite a sweet tooth."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the Princess?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Princess Astrid thinks she'd be perfectly capable of ruling the kingdom, but her father doesn't trust her enough by herself."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Especially since she devotes herself to the - as the King sees it - cowardly skill of archery rather than the noble skill of melee combat..."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "She is fond of jewellery, and of course she collects bows. She is also quite the conversationalist."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Many have tried to capture her attention, but she has yet to be impressed by any of them."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Many have tried to capture her attention, but you are the first to succeed."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about Queen Sigrid?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Queen Sigrid is quite envious of King Vargas, since he has the larger kingdom."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "The King and she have never seen eye-to-eye, but I think if you approach her you may find her quite reasonable."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Hello!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": ", I suggest you find my brother."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm staying right here."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "What's so funny, ?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Hmph!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": ", but I'm not interested."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I suggest you find my brother."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I couldn't possibly accept this."
+    },
+    {
+      "character": "Player",
+      "line": "As I'm sure you are aware, your father the King is seeking someone to rule the Kingdom in his stead. I have put myself forward, but in order for me to become ruler..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "...you have to earn my approval?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Your Royal Highness."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Ahahahaha!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Come now, what interest would I have in a crass adventurer like yourself? What would you know of the poetry that flows through my veins like an avalanche through a peaceful mountain village?"
+    },
+    {
+      "character": "Player",
+      "line": "I think you may find I know good poetry when I see it, Your Royal Highness..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "This may be the case. I am willing to give you a chance; if you impress me enough, I will consider trusting you as our regent."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I composed a poem, would you like to hear it?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, I'd love to."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I got up This morning, And had an egg For breakfast"
+    },
+    {
+      "character": "Player",
+      "line": "And then what happened?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "No, that's the whole poem."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. I see."
+    },
+    {
+      "character": "Player",
+      "line": "Be still, my heart."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm glad you liked it."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't even rhyme!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Quiet! What would you know about poetry?"
+    },
+    {
+      "character": "Player",
+      "line": "I am surprised you do not have hordes of admirers vying to be your significant other, Your Highness."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "?"
+    },
+    {
+      "character": "Player",
+      "line": "No-one's ever heard of you."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "!"
+    },
+    {
+      "character": "Player",
+      "line": "They don't understand your poetry as I do."
+    },
+    {
+      "character": "Player",
+      "line": "They're all already married."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Hm, no, I don't think that's the right reason."
+    },
+    {
+      "character": "Player",
+      "line": "So, you practice the harp? I see you have one over there."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Yes; I play the lyre and the harp, and compose songs, poems and sagas to move you, to delight you and entertain you! Sadly, my father does not think much of the art. What do you think?"
+    },
+    {
+      "character": "Player",
+      "line": "You should listen to your father."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm sorry you feel that way."
+    },
+    {
+      "character": "Player",
+      "line": "You will be the greatest bard!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm so glad you agree!"
+    },
+    {
+      "character": "Player",
+      "line": "You're an awful bard."
+    },
+    {
+      "character": "Player",
+      "line": "Beards? Dangerous, flammable and make you look mad!"
+    },
+    {
+      "character": "Player",
+      "line": "Care to sign my petition for pet frogs?"
+    },
+    {
+      "character": "Player",
+      "line": "Cattle prod? Weapon of choice I reckon."
+    },
+    {
+      "character": "Player",
+      "line": "Don't threaten me with a dead fish!"
+    },
+    {
+      "character": "Player",
+      "line": "He is clearly 1 cup short of a full service."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a little teapot, short and stout..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm rubber you're glue.........!"
+    },
+    {
+      "character": "Player",
+      "line": "Lies!!! It's all lies!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Look over there! A King Black Dragon!"
+    },
+    {
+      "character": "Player",
+      "line": "Lumbridge? No, I wouldn't be seen dead there."
+    },
+    {
+      "character": "Player",
+      "line": "Nah, that Kalphite was weedier than your garden."
+    },
+    {
+      "character": "Player",
+      "line": "Selling ring of poverty 30 mil!"
+    },
+    {
+      "character": "Player",
+      "line": "Sneaky sneaky stick da chompy."
+    },
+    {
+      "character": "Player",
+      "line": "What level do you need to cook cats?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "...What?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Are these for me? Really?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, Your Royal Highness."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Thank you! They're lovely!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I was just showing you."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Oh, all right."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You've already given me some, but thank you."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Hello!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Thank you. It's nice to be appreciated."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm staying right here."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You are silly!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm flattered to hear you say so, Your Royal Highness."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Oh, but I realise you have not yet told me your name!"
+    },
+    {
+      "character": "Player",
+      "line": "My name is, Your Highness."
+    },
+    {
+      "character": "Prince Brand",
+      "line": ", sir/Then I shall I call you, madam/Then I shall I call you ], and you shall call me Prince."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, Prince."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "What's wrong, ?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "What's so funny, ?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You dance well,."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Let's not get ahead of ourselves now, !"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Thank you,."
+    },
+    {
+      "character": "Player",
+      "line": "So, why did you decide to become a bard?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Poetry and music have always fascinated me. I am drawn to them like a moth to an overenthusiastic mage who has set himself on fire."
+    },
+    {
+      "character": "Player",
+      "line": "How poetic."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Why thank you. Sometimes I amaze even myself."
+    },
+    {
+      "character": "Player",
+      "line": "That's a strange metaphor..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "It is a simile, but what do you know of poetry?"
+    },
+    {
+      "character": "Player",
+      "line": "Wait, are you the moth or the mage?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "The moth!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I composed a saga, would you like to hear it?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know if I have time for a whole saga..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Don't worry, it's quite short. Here we go!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Once upon a time there was a Prince, And Brand was his name, He always had a song in his heart, And a rhyme in his head,"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "And he became the world's greatest bard, And delighted one and all, With his songs and sagas, And Brand was his name!"
+    },
+    {
+      "character": "Player",
+      "line": "How inspiring!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Thank you! I thought I would compose something for future generations, to tell them my story."
+    },
+    {
+      "character": "Player",
+      "line": "I think my ears are bleeding."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "If you don't appreciate my singing, you are free to leave!"
+    },
+    {
+      "character": "Player",
+      "line": "That's not a saga!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "It's a short one, I'll admit..."
+    },
+    {
+      "character": "Player",
+      "line": "What would you do if you became ruler of Miscellania?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Oh, I would never concern myself with such trivial matters as those involved in ruling a Kingdom. My interests lie solely in the arts."
+    },
+    {
+      "character": "Player",
+      "line": "A much nobler pursuit, to be sure."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I am glad you agree."
+    },
+    {
+      "character": "Player",
+      "line": "If only you were any good at them..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I am insulted, !"
+    },
+    {
+      "character": "Player",
+      "line": "You're just afraid of responsibility."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Perhaps you are right..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Good day,."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, my Prince."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "No thank you,."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Is this for me? Really?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, Prince."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Thank you! It's lovely!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You've already given me one, but thank you."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I must admit I am growing quite fond of you,."
+    },
+    {
+      "character": "Player",
+      "line": "Could it be, my Prince, that you would consider trusting a crass adventurer such as myself to run your kingdom?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Not quite yet, my good friend; let us just say, the future is a maze of inescapable decisions, and you are one possible answer."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "No thank you, dear."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I wrote a song about you. Would you like to hear it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd love to!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Your hair is like a waterfall Or perhaps a bramble bush Your eyes are like an ocean on which I want to sail the ship of our connection!"
+    },
+    {
+      "character": "Player",
+      "line": "Eyes...ship...sail...what?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Was it really that hard to understand?"
+    },
+    {
+      "character": "Player",
+      "line": "That was awful!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Fine! See if I write you any more songs!"
+    },
+    {
+      "character": "Player",
+      "line": "That was lovely. I'm touched!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm glad you liked it, my dear."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Tell me, have you ever composed any poems yourself?"
+    },
+    {
+      "character": "Player",
+      "line": "I wouldn't presume to have the skill..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You're right, it takes great skill and inspiration to be a great poet such as myself."
+    },
+    {
+      "character": "Player",
+      "line": "Not really, but it can't be that hard."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You don't seem to understand poetry at all..."
+    },
+    {
+      "character": "Player",
+      "line": "There once was a man from Varrock..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Don't lower the art of poetry with such bawdy rhymes!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you think of your sister?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "We don't always see eye-to-eye, but she understands my art better than our father."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad to hear it."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Of course, she couldn't understand as well as you do, my dear."
+    },
+    {
+      "character": "Player",
+      "line": "What art is that?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Music and poetry. Surely you haven't forgotten already?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm sorry you think so."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Hello, dear"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, my Prince."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "What's wrong, dear?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "What's so funny, dear?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You dance well, dear."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You flatter me, my dear."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Thank you, dear."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, a gift fit for my prince!"
+    },
+    {
+      "character": "Player",
+      "line": "Prince Brand, will you marry me?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "My heart is an open book to you, my dear, and all the pages say yes... ''Yes''!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "What a beautiful gift! I think you'd make a great Thane running our realm. Can you inform my father that you have earned my trust?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "How fares the kingdom?"
+    },
+    {
+      "character": "Player",
+      "line": "All is well, my Prince"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Oh, my dear, you've made me the happiest person alive."
+    },
+    {
+      "character": "Player",
+      "line": "Is that a yes?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Yes! We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+    },
+    {
+      "character": "Player",
+      "line": "No, my dear, I was just showing you."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You've already given me one, remember?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "How are you doing, dear? Have you convinced my father yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, my dear."
+    },
+    {
+      "character": "Player",
+      "line": "I'm having second thoughts about the wedding. This marriage would change things, with an increase in responsibilities and duties you were keen to avoid."
+    },
+    {
+      "character": "Player",
+      "line": "While I want to support the kingdom, I don't want that to end up impacting your life negatively. Maybe it's too soon to make this kind of decision."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You're right, I am not interested in more responsibilities. I would have less time for poetry! Is that your final decision?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I think it's for the best."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Well, I think you'll make a great Thane for our kingdom."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe not. It is hard, for I am so very fond of you. Let's leave it as it is for now and see what the future holds."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Agreed."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Hmph!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": ", but I'm not interested."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I couldn't possibly accept this."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "...you have to earn my approval?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You realise, I hope, that many have tried to impress me."
+    },
+    {
+      "character": "Player",
+      "line": "I take it you are not especially inspired by any of them?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "That is true. However, I am willing to give you a chance; if you impress me enough, I will consider trusting you as our regent."
+    },
+    {
+      "character": "Player",
+      "line": "So, you practice archery? I see you have a bow mounted on your wall."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Yes; my father thinks it is a cowardly art, but I find there is just as much courage, and more skill, involved in going into combat with just a bow and quiver. What do you think?"
+    },
+    {
+      "character": "Player",
+      "line": "Archers are all cowards!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "!"
+    },
+    {
+      "character": "Player",
+      "line": "Archery is a noble art!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm so glad you agree!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm sorry you feel that way."
+    },
+    {
+      "character": "Player",
+      "line": "So, tell me about all these other admirers you have."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "They never cease to bother me. They swarm around me like flies, all hoping to win my heart."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Perhaps I should use them for target practice!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know why they bother..."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I don't know why YOU bother."
+    },
+    {
+      "character": "Player",
+      "line": "You monster!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I was only joking."
+    },
+    {
+      "character": "Player",
+      "line": "Hahahaha!"
+    },
+    {
+      "character": "Player",
+      "line": "I can hold them still for you if you like."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "How do you know I wouldn't hit you as well?"
+    },
+    {
+      "character": "Player",
+      "line": "I have confidence in your skills, Your Royal Highness."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think of Advisor Ghrim?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "He's a bit scary sometimes, but he's always so nice to me! When I was young, I called him Uncle Ghrim."
+    },
+    {
+      "character": "Player",
+      "line": "I think he's far too grumpy."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm sure he'd lighten up if you were nicer."
+    },
+    {
+      "character": "Player",
+      "line": "He's been very helpful."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Yes, my father made a wise decision when he chose him to be his advisor."
+    },
+    {
+      "character": "Player",
+      "line": "No wonder you turned out like this..."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "...What?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Are these for me? Really?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Thank you! They're lovely!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Oh, all right."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You've already given me some, but thank you."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You are silly!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Impressive. I like someone who knows how to dance."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Oh, but I realise you have not yet told me your name!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": ", sir/Then may I call you, madam/Then may I call you ]?"
+    },
+    {
+      "character": "Player",
+      "line": "If I may call you Astrid, Your Royal Highness."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You may call me 'Princess'."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, Princess."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "What's wrong, ?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "If you want to cheer someone on, I suggest you find my brother."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Let's not get ahead of ourselves now, !"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "If you want to applaud someone, I suggest you find my brother."
+    },
+    {
+      "character": "Player",
+      "line": "What would you do if you ruled this Kingdom?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Very little. It's not as if there's much to it... I might try to set up trade with other islands."
+    },
+    {
+      "character": "Player",
+      "line": "That's not very enterprising."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Fine. You try to do better!"
+    },
+    {
+      "character": "Player",
+      "line": "That sounds like a good idea."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "What a silly idea! As if anyone would be interested!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Watch it, or you won't get the chance to do better."
+    },
+    {
+      "character": "Player",
+      "line": "So what's the history of these islands?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Well, nothing very exciting ever happened until my father declared war on Etceteria..."
+    },
+    {
+      "character": "Player",
+      "line": "Why did he do that?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Queen Sigrid of Etceteria insulted him."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "It's not that funny."
+    },
+    {
+      "character": "Player",
+      "line": "Well excuse me, Princess!"
+    },
+    {
+      "character": "Player",
+      "line": "He probably deserved it."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm insulted, !"
+    },
+    {
+      "character": "Player",
+      "line": "What happened next?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "He realised that neither of us have an army."
+    },
+    {
+      "character": "Player",
+      "line": "So why are you so interested in archery?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm not sure. Even when I was little, archery always fascinated me."
+    },
+    {
+      "character": "Player",
+      "line": "I'm quite fond of it myself."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "It's good to know someone who shares my interests."
+    },
+    {
+      "character": "Player",
+      "line": "You should stick to knitting."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'll knit you a lovely jumper, shall I? It'll keep you warm when I have you exiled to the icelands."
+    },
+    {
+      "character": "Player",
+      "line": "You should try swordfighting instead."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "That's not really the kind of thing I'm interested in."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Good day,."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Princess."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "No thank you,."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Is this for me? Really?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, Princess."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Thank you! It's lovely!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You've already given me one, but thank you."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I must admit I am growing quite fond of you,."
+    },
+    {
+      "character": "Player",
+      "line": "My, could it be that I have succeeded where so many before me have failed, and finally earned the trust of the Princess?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Not yet, my dear; let us just say you have made it onto the shortlist."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "No thank you, dear."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "So, my dear, what do you think of Miscellania?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a lovely little country."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm glad you like it."
+    },
+    {
+      "character": "Player",
+      "line": "It's boring."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Then perhaps you shouldn't be thinking of becoming its ruler."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've seen better..."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm quite fond of it myself..."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think of your brother?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "We don't always get along, but I'm sure he's a nice guy at heart."
+    },
+    {
+      "character": "Player",
+      "line": "And what a great bard he makes!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Haha! Oh yes, quite the bard, he is."
+    },
+    {
+      "character": "Player",
+      "line": "I have heard better drains!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You don't sound like a nightingale yourself!"
+    },
+    {
+      "character": "Player",
+      "line": "I really don't like him."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "That's not a nice thing to say."
+    },
+    {
+      "character": "Player",
+      "line": "Do you go out into battle often?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Not often, no. I sometimes go hunting..."
+    },
+    {
+      "character": "Player",
+      "line": "And you call yourself an archer?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I take what chance for practice I can get."
+    },
+    {
+      "character": "Player",
+      "line": "Hunting the mighty rabbits outside the castle? Slaying the foul fowl that terrorises the town?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "That's not funny."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose you don't have much opportunity to."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Exactly! Perhaps you could take me with you sometime, dear."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "What's wrong, dear?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "If you want to cheer someone on, dear, I suggest you find my brother."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "What's so funny, dear?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "*giggle* My, aren't you the charmer?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "That's very sweet, darling."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "If you want to applaud someone, dear, I suggest you find my brother."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Hello, dear."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, darling."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, a gift fit for my Princess!"
+    },
+    {
+      "character": "Player",
+      "line": "Princess Astrid, will you marry me?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Oh, my dear, I thought you'd never ask! Of course I'll marry you!"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "What a beautiful gift! I think you'd make a great Thane running our realm. Can you inform my father that you have earned my trust?"
+    },
+    {
+      "character": "Player",
+      "line": "No, my darling, I was just showing you."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "How fares the kingdom?"
+    },
+    {
+      "character": "Player",
+      "line": "All is well, Princess."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Oh, my dear, you've made me the happiest person alive."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Yes! We'll have to put off the actual ceremony until we can find a priest, but you can tell my father I have agreed to marry you."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "You've already given me one, remember?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "How are you doing, darling? Have you convinced my father yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, my darling."
+    },
+    {
+      "character": "Player",
+      "line": "I'm having second thoughts about the wedding. This marriage would change things, with an increase in responsibilities and duties that would overshadow the activities you like."
+    },
+    {
+      "character": "Player",
+      "line": "While I want to support you and the kingdom, I don't want that to end up impacting your life negatively. Maybe it's too soon to make this kind of decision."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "My darling, that is very thoughtful of you and you make a convincing point. Are you... absolutely sure?"
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I think you'll make a great Thane for our kingdom."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe not. It it hard, for I am so very fond of you. Let's leave it as it is for now and see what the future holds."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Agreed."
+    },
+    {
+      "character": "Player",
+      "line": "I think Princess Astrid would make the best heir."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Is that your honest opinion after having spent time with my son? The Prince might receive the news rather coldly. A broken trust is difficult to mend."
+    },
+    {
+      "character": "King Vargas",
+      "line": "As you wish. I will pay heed to your recommendation."
+    },
+    {
+      "character": "Player",
+      "line": "I think Prince Brand would make the best heir."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Is that your honest opinion after having spent time with my daughter? The Princess might receive the news rather coldly. A broken trust is difficult to mend."
+    },
+    {
+      "character": "Player",
+      "line": "I have been sent by King Vargas to negotiate a treaty of peace between your two great nations."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Great nations? Don't make me laugh. Still, peace sounds like a nice idea. He will, of course, have to recognise Etceteria officially as a sovereign nation."
+    },
+    {
+      "character": "Player",
+      "line": "This isn't already the case?"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "I'm afraid not. Last time we met I called him a pompous old fool for thinking he was still worth anything as an adventurer."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "He promptly declared war, claiming the land of Etceteria belonged to Miscellania."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "When he realised neither of us had an army, he was ever so angry!"
+    },
+    {
+      "character": "Player",
+      "line": "What happened then?"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "He set off for the icelands to prove me wrong and, well, I expect you saw what happened to him."
+    },
+    {
+      "character": "Player",
+      "line": "I shall go ask him to officially recognise Etceteria."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Hello. Have you talked to Vargas yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I have, Your Majesty. She says she will agree to peace as long as Miscellania recognises Etceteria as a sovereign nation."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Hmph! You can tell her I'll officially recognise her country as soon as she changes the Etceterian national anthem."
+    },
+    {
+      "character": "Player",
+      "line": "Why is that, Your Majesty?"
+    },
+    {
+      "character": "King Vargas",
+      "line": "It's insulting! The title alone, \"You're Stupid, We're the Best\", should be enough to give you an idea!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure I can convince her there are better anthems."
+    },
+    {
+      "character": "King Vargas",
+      "line": "How are you getting on, ? Have you convinced Sigrid yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I have, Your Majesty. He says he will recognise the country when you change your anthem."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "What? But it's a great anthem, I composed it myself! Listen!"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "\"You're stupid, we're the best, Etceteria beats the rest! and Queen Sigrid is very pretty, King Vargas is a fool, hey, nonny-nonny!\""
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid he insisted, Your Majesty."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Well, it can't be helped I suppose..."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "You'll have to find a bard to write a new one though. And there isn't a bard to be had for love nor money in Etceteria."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do, Your Majesty."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Hello. Have you found a new anthem yet?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You should find someone to compose a new anthem for Etceteria."
+    },
+    {
+      "character": "Player",
+      "line": "I need someone to compose a new anthem for Etceteria."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "You've come to the right bard! I'll write one for you immediately!"
+    },
+    {
+      "character": "Player",
+      "line": "You can take your time, really..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "No problem, I'm already done! Here, listen!"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "'Etceteria, Etceteria, Oh what a great country it is, Etceteria, Etceteria, So I wrote a song about it.'"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "'It's somewhere in the sea, And it looks very nice, If it weren't for your ancestors, It wouldn't be there at all,'"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "'And when things aren't going too well, We sing this lovely song, And then we'll all feel so much better, It won't take very long.'"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Here's a copy, you can keep it!"
+    },
+    {
+      "character": "Player",
+      "line": "...that's lovely, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I lost my copy of the *ahem* theme you composed..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Fear not! I made many, many more!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Your Majesty, but I'm afraid it isn't very good."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Let's see now..."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "'Etceteria, Etceteria, Oh what a great country it is, Etceteria, Etceteria, So I wrote a song about it.'"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "'It's somewhere in the sea, And it looks very nice, If it weren't for your ancestors, It wouldn't be there at all,'"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "'And when things aren't going too well, We sing this lovely song, And then we'll all feel so much better, It won't take very long.'"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Oh dear, no, this simply won't do. Find a better one."
+    },
+    {
+      "character": "Player",
+      "line": "I got Prince Brand to compose a new Etceterian anthem for me, but it's awful!"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Oh dear. Well, that is only to be expected. May I see it, please?"
+    },
+    {
+      "character": "Player",
+      "line": "Here you go."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Hmm, yes...allow me to make a few adjustments."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": ". Are there any other matters in which I may be of assistance?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You should get another copy of the anthem."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You should show the anthem to Queen Sigrid."
+    },
+    {
+      "character": "Player",
+      "line": "I lost the corrected anthem you gave me."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Do you have another copy of the prince's anthem for me to correct?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, here it is."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I don't have one."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "If you bring me another, I can correct it. Are there any other matters in which I may be of assistance?"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "'Etceteria, Etceteria, Of our country we are proud! Etceteria, Etceteria, Let all sing its name out loud!'"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "'Rising high above the water, The jewel of the North! Our mothers and our fathers, To build this land came forth!'"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "'And in the times of darkness, Sing praises of our land! And in our hearts we can be sure, Our victory is at hand!'"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Why, this is quite good! I'm surprised!"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Here is a treaty declaring what we've mutually agreed to. I've already signed, so all it needs is King Vargas' signature and it'll be official."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Hello. Has Vargas signed the treaty yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I lost it, Your Majesty."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "How silly of you. I'll make you another."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You should show the treaty to the King."
+    },
+    {
+      "character": "Player",
+      "line": "I have here a treaty awaiting your signature."
+    },
+    {
+      "character": "King Vargas",
+      "line": "I doubt I will be able to hold an ordinary pen well enough to sign the treaty. You will have to find a pen large enough for me to hold."
+    },
+    {
+      "character": "King Vargas",
+      "line": "How are you getting on, ? Have you found me a pen yet?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You should find a way to make the nib and body for a very large pen."
+    },
+    {
+      "character": "Derrik",
+      "line": "Good day,. Can I help you with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "I have a slightly strange request..."
+    },
+    {
+      "character": "Player",
+      "line": "The King needs to sign a treaty, but is unable to because he lacks a pen large enough for him to hold. Could you make me a nib of the right size?"
+    },
+    {
+      "character": "Derrik",
+      "line": "Hm... I may be able to manage that. What sort of size?"
+    },
+    {
+      "character": "Player",
+      "line": "About the size of a helm should do it."
+    },
+    {
+      "character": "Derrik",
+      "line": "All right, but I'll need an iron bar to make it from."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have one with me."
+    },
+    {
+      "character": "Derrik",
+      "line": "Well, come back when you have one."
+    },
+    {
+      "character": "Player",
+      "line": "I have one here."
+    },
+    {
+      "character": "Derrik",
+      "line": "Good. Just a minute..."
+    },
+    {
+      "character": "Derrik",
+      "line": "Here you go! One giant pen nib!"
+    },
+    {
+      "character": "Player",
+      "line": "Here it is, Your Majesty."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Excellent! And now, with a flourish, I sign the end of the rivalry between our two proud kingdoms!"
+    },
+    {
+      "character": "King Vargas",
+      "line": "Now, how's it going with my, will they accept you as regent?"
+    },
+    {
+      "character": "Player",
+      "line": "will, your Majesty."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Excellent, excellent."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Ghrim tells me that the population is not yet very supportive of the idea of having you as ruler. You should try to gain their support."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "I should tell you right away that killing the people of this Kingdom will not make you popular with anyone."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Currently, % of the population supports you."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "This is enough for you to become Regent; I should talk to King Vargas if I were you."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "You will need 75 % of the population in your support in order to become Regent."
+    },
+    {
+      "character": "Player",
+      "line": "How do I gain the support of the population?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "King Vargas would often go and help out his subjects in their daily tasks, when he was still able to do so, and they loved him dearly for it."
+    },
+    {
+      "character": "King Vargas",
+      "line": "Ghrim tells me that the population would be glad to have you as a ruler."
+    },
+    {
+      "character": "King Vargas",
+      "line": "I see no reason to delay your regency any further. Ghrim, please proceed with the ceremony."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Yes, Your Majesty, I will proceed at once. Ahem..."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "We are gathered here today to witness the rise of a new hero to the regency of the Kingdom of Miscellania, to continue the work of our great King Vargas who is unfortunately now no longer able to rule."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "By the powers invested in me by the Miscellaneous Constitution, I declare thee, to be the new Regent of this fair kingdom."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "May you bring success and prosperity to Miscellania and to all of its people."
+    },
+    {
+      "character": "Player",
+      "line": "...is that all?"
+    },
+    {
+      "character": "King Vargas",
+      "line": "That is all. I wish you luck as Regent. Speak to Ghrim if you require assistance."
+    },
+    {
+      "character": "King Vargas",
+      "line": "That fool Sigrid! What does she think she's doing?"
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me, your Majesty?"
+    },
+    {
+      "character": "King Vargas",
+      "line": "Ah,. I apologise, but I'm rather busy at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on, your Majesty?"
+    },
+    {
+      "character": "King Vargas",
+      "line": "I'm busy,. You'd better talk to Ghrim."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Princess Astrid."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Oh, my, you've made me the happiest person alive."
+    },
+    {
+      "character": "Player",
+      "line": "Have you found a priest for our marriage yet?"
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I'm afraid not, dear. I don't think there is one to be had on these islands for love nor money..."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "Do not fear, though; I shall call for you as soon as one is found."
+    },
+    {
+      "character": "Prince Brand",
+      "line": "I think you'll make a great Thane for our kingdom."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Prince Brand."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Oh, my darling, you've made me the happiest person alive."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "I'm afraid not, darling. I don't think there is one to be had on these islands for love nor money..."
+    },
+    {
+      "character": "Princess Astrid",
+      "line": "Do not fear, though; I shall call for you as soon as one is found."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Greetings, Your Royal Highness."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Greetings, Thane."
+    },
+    {
+      "character": "Player",
+      "line": "How is the Kingdom faring?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Your subjects are worried about the possibility of war, but they are still happy to work for you."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Your current approval rating is 75%. I'm afraid your subjects have not yet collected anything."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "This is how your subjects are distributing their effort."
+    },
+    {
+      "character": "Player",
+      "line": "Has anything been happening in the kingdom recently?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I manage the kingdom?"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Your loyal subjects work hard to collect resources for you. Every day they bring what they have collected to the castle. The resources which they collect are coal from the rocks to the north, maple logs from the trees"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "to the east, herbs from the garden just outside the castle, and tuna and swordfish fished at the port to the south. They are paid from the money in the coffers; each day, one-tenth of the money in the coffers is"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "distributed to them. A maximum of 50k is paid to your subjects and the coffers can store up to 5 million gp. Another thing which affects the amounts of resources collected is your approval rating. The more your"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "subjects love you, the more they will be motivated to work hard. King Vargas would often go and help out his subjects in their daily tasks, when he was still able to do so, and they loved him dearly for it. Finally, you"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "can choose how much of their efforts your subjects devote to each resource; of course, the harder they work at collecting one, the less time they have to spend collecting the others."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Have you got a copy of my book? It explains everything in more detail."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't..."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Here, you can have this one, I have plenty spare."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Dealing with all the little troubles that come up from time to time, Thane."
+    },
+    {
+      "character": "Advisor Ghrim",
+      "line": "Such as the predicament we are now in."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Your Majesty..."
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Vargas, you irritating fool. 'Warmongering harpy', indeed!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry?"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "Oh, I apologise. I was merely thinking out loud."
+    },
+    {
+      "character": "Player",
+      "line": "How is your kingdom faring?"
+    },
+    {
+      "character": "Queen Sigrid",
+      "line": "It could be better. Now, if you don't mind, I'm rather busy."
+    },
+    {
+      "character": "Player",
+      "line": "Very well, your Majesty."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Advisor Ghrim",
+      "description": "Elderly male, Scandinavian accent, stern and formal tone. A serious royal advisor who rarely smiles, devoted to his duties and knowledgeable about kingdom affairs."
+    },
+    {
+      "name": "Derrik",
+      "description": "Middle-aged male, Scandinavian accent, practical and straightforward tone. A humble blacksmith who takes pride in his craft, helpful and no-nonsense."
+    },
+    {
+      "name": "Guard",
+      "description": "Adult male, Scandinavian accent, authoritative and dutiful tone. A loyal castle guard who takes his role seriously, only allowing worthy heroes to pass."
+    },
+    {
+      "name": "King Vargas",
+      "description": "Older male, deep resonant voice with Scandinavian accent, noble and adventurous spirit despite his cursed yeti form. A former adventurer-king who speaks with warmth and wisdom."
+    },
+    {
+      "name": "Prince Brand",
+      "description": "Young adult male, Scandinavian accent, dramatic and self-important tone. A vain aspiring bard who fancies himself a great poet despite his lacking talent, prone to flowery speech."
+    },
+    {
+      "name": "Princess Astrid",
+      "description": "Young adult female, Scandinavian accent, confident and witty tone. An independent princess skilled in archery who is sharp-tongued and not easily impressed by suitors."
+    },
+    {
+      "name": "Queen Sigrid",
+      "description": "Middle-aged female, Scandinavian accent, bored yet regal tone. A queen who finds ruling tedious, somewhat petty in her rivalry with King Vargas but reasonable when approached diplomatically."
+    }
+  ]
+}

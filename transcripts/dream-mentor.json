@@ -1,0 +1,2200 @@
+{
+  "branch": "quest/dream-mentor",
+  "quest_name": "Dream Mentor",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Uuummmpf..."
+    },
+    {
+      "character": "Player",
+      "line": "Can you hear me?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Owww... paaaain."
+    },
+    {
+      "character": "Player",
+      "line": "Don't move, don't move!"
+    },
+    {
+      "character": "Player",
+      "line": "You'll be okay. You'll be fine."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Help me."
+    },
+    {
+      "character": "Player",
+      "line": "I will, just stay still."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Just about."
+    },
+    {
+      "character": "Player",
+      "line": "Just don't worry."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You think things will turn out okay?"
+    },
+    {
+      "character": "Player",
+      "line": "Well..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, probably not, to be honest."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I thought so. I'm doomed!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm going to have to go soon."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no, please don't leave me alone!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I have work to do."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I don't think I will survive much longer."
+    },
+    {
+      "character": "Player",
+      "line": "It's quite dark down here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I hadn't noticed. Who knows what danger lurks in the shadows. I'm so scared."
+    },
+    {
+      "character": "Player",
+      "line": "Did you hear that noise?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "What!"
+    },
+    {
+      "character": "Player",
+      "line": "I thought I heard something..."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no, they're coming to get us!"
+    },
+    {
+      "character": "Player",
+      "line": "No, it's okay. I must have been imagining things."
+    },
+    {
+      "character": "Player",
+      "line": "You're looking better now."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You're lying. I look dreadful."
+    },
+    {
+      "character": "Player",
+      "line": "No, honest."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Really? In what way?"
+    },
+    {
+      "character": "Player",
+      "line": "You don't look dead any more, for a start."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Well it's a start, I suppose. Doesn't sound too promising."
+    },
+    {
+      "character": "Player",
+      "line": "Well, you look and sound more lively."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That's promising. Perhaps I will make it out of here."
+    },
+    {
+      "character": "Player",
+      "line": "How long have you been down here?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I don't know, probably days. I just can't remember."
+    },
+    {
+      "character": "Player",
+      "line": "That's quite terrible."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I know."
+    },
+    {
+      "character": "Player",
+      "line": "This place gives me the creeps!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Me too. I'm so scared. Please don't leave me."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I shall have to soon."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no."
+    },
+    {
+      "character": "Player",
+      "line": "Feeling positive?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Not really."
+    },
+    {
+      "character": "Player",
+      "line": "Oh."
+    },
+    {
+      "character": "Player",
+      "line": "Are you looking forward to getting out?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Definitely. A good wash, fresh clothes, a nice meal."
+    },
+    {
+      "character": "Player",
+      "line": "Just take it a step at a time."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Sorry, I was getting a bit over-excited there, I think."
+    },
+    {
+      "character": "Player",
+      "line": "That's the spirit!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Thank you, your help really is appreciated."
+    },
+    {
+      "character": "Player",
+      "line": "Why do you look so sad?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Wouldn't you if you were about to die?"
+    },
+    {
+      "character": "Player",
+      "line": "I imagine so."
+    },
+    {
+      "character": "Player",
+      "line": "Cheer up, it may never happen!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "True, I may never get out of here."
+    },
+    {
+      "character": "Player",
+      "line": "Always so negative. It's not good for you!"
+    },
+    {
+      "character": "Player",
+      "line": "Those are some deep cuts on your legs."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Cuts? I hadn't noticed. Where?"
+    },
+    {
+      "character": "Player",
+      "line": "There, just above your shin."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no, oh no, oh no."
+    },
+    {
+      "character": "Player",
+      "line": "Stop panicking!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Easy for you to say!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I feel a bit ill."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Ill? You can't feel ill, I'm depending on you!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't help being ill."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh dear."
+    },
+    {
+      "character": "Player",
+      "line": "You seem like a nice guy."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Ah, thanks. That's a really nice thing to say."
+    },
+    {
+      "character": "Player",
+      "line": "I thought I had better say it before it's too late."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh, I see. I understand."
+    },
+    {
+      "character": "Player",
+      "line": "Just being honest."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Thank you. Right back at ya!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't believe how many suqahs are on this island."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You're right. I really should never have come to this island."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps you're right."
+    },
+    {
+      "character": "Player",
+      "line": "Don't you think you should give up being an adventurer?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "What makes you say that?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, erm... you know."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "No, what?"
+    },
+    {
+      "character": "Player",
+      "line": "You don't seem to be doing too well at the moment."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Thanks for the support, friend."
+    },
+    {
+      "character": "Player",
+      "line": "When we get out of here I'll buy you a drink!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Really?"
+    },
+    {
+      "character": "Player",
+      "line": "Naturally."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That's nice, what kind?"
+    },
+    {
+      "character": "Player",
+      "line": "Whatever and wherever you want - my treat."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That's really appreciated. Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "Something cheap. Although it's my pleasure, helping you is costing me."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Okay. Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "Hope you don't mind me saying, but you smell a bit."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I'm sorry."
+    },
+    {
+      "character": "Player",
+      "line": "It's okay."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "No it's not, this is so embarrassing."
+    },
+    {
+      "character": "Player",
+      "line": "It'll be a while before we get out."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no. I don't think I can stand much more."
+    },
+    {
+      "character": "Player",
+      "line": "Well you have to. You just have to."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Air. I wish I could breathe fresh air."
+    },
+    {
+      "character": "Player",
+      "line": "I'm very impressed you managed to get into this cave."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I must admit it was hard to crawl this far."
+    },
+    {
+      "character": "Player",
+      "line": "I would have given up personally."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Really? I was determined to survive."
+    },
+    {
+      "character": "Player",
+      "line": "That's good!"
+    },
+    {
+      "character": "Player",
+      "line": "Congratulations on not dying!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh. Erm. Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Good job you didn't find more suqah down here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I suppose so. But now that I think about it, I don't know why there are none down here."
+    },
+    {
+      "character": "Player",
+      "line": "I wonder why nothing lives down here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I haven't really thought about it."
+    },
+    {
+      "character": "Player",
+      "line": "It's probably not very easy to survive down here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Good point."
+    },
+    {
+      "character": "Player",
+      "line": "I trust you usually look smarter."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Yes, I am a bit scruffy at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "Just a bit."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Not to worry."
+    },
+    {
+      "character": "Player",
+      "line": "It's a bit damp in here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Is it? I suppose so. Why do you say that?"
+    },
+    {
+      "character": "Player",
+      "line": "Just concerned that it will make your condition worse."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "It wouldn't surprise me. I don't seem to be having much luck recently."
+    },
+    {
+      "character": "Player",
+      "line": "Spider!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Arrghh! Where?"
+    },
+    {
+      "character": "Player",
+      "line": "Just kidding."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh, you scared me to death."
+    },
+    {
+      "character": "Player",
+      "line": "You'll survive this easily."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I'm not so sure."
+    },
+    {
+      "character": "Player",
+      "line": "Come on. Think positive!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "What's the point?"
+    },
+    {
+      "character": "Player",
+      "line": "Think of all the places you can visit when you get out!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That's true."
+    },
+    {
+      "character": "Player",
+      "line": "Such possibilities and adventures!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Yes. I can't wait!"
+    },
+    {
+      "character": "Player",
+      "line": "Because otherwise you'll fail."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Failure..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. So you must think positive."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I'll try, maybe when I feel a bit stronger."
+    },
+    {
+      "character": "Player",
+      "line": "I had better be going now."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no please don't go."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Please."
+    },
+    {
+      "character": "Player",
+      "line": "But why?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I... I... need you to help me."
+    },
+    {
+      "character": "Player",
+      "line": "What are you going to do when you get out of here?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Well I don't know. What should I do?"
+    },
+    {
+      "character": "Player",
+      "line": "That's up to you. You could travel with me!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You'd do that for me? That sounds marvellous! I will look forward to it."
+    },
+    {
+      "character": "Player",
+      "line": "If I were you I'd stay indoors."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You have a good point there."
+    },
+    {
+      "character": "Player",
+      "line": "Any chance you could pay me for this?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Perhaps. Oh, but I don't think I have any money left on me."
+    },
+    {
+      "character": "Player",
+      "line": "Shame."
+    },
+    {
+      "character": "Player",
+      "line": "It's very cold down here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Yes. Could you perhaps give me a blanket?"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry. I don't have any on me."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I'll probably be okay. Thanks, though."
+    },
+    {
+      "character": "Player",
+      "line": "It's a good thing you have me to look after you."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That is true."
+    },
+    {
+      "character": "Player",
+      "line": "I rule!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You ought to be careful with that attitude."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't have to worry about anything because I'm the best!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "We'll see."
+    },
+    {
+      "character": "Player",
+      "line": "Not that I'm bragging or anything."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That's okay. I think you deserve it a bit for saving my life."
+    },
+    {
+      "character": "Player",
+      "line": "What would you do if I wasn't here?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Probably be dead I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "Quite the coincidence that I found you!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Yes, I think I've been very lucky."
+    },
+    {
+      "character": "Player",
+      "line": "That you have."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't know how long you've been down here?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "No. Could have been days. I don't remember much after stumbling down the ladder: just crawling."
+    },
+    {
+      "character": "Player",
+      "line": "That's quite scary."
+    },
+    {
+      "character": "Player",
+      "line": "Not long now and you'll be back on your feet!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh, my friend, you really think so?"
+    },
+    {
+      "character": "Player",
+      "line": "That kind of depends."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "On what?"
+    },
+    {
+      "character": "Player",
+      "line": "On whether we have to amputate your legs or not."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Amputate! You can't be serious?"
+    },
+    {
+      "character": "Player",
+      "line": "Ooops, erm, no I'm sure it won't come to that."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh no. Why can't I die peacefully?"
+    },
+    {
+      "character": "Player",
+      "line": "On whether you mind me helping you further."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I'm so glad to have your help. I would never turn it down!"
+    },
+    {
+      "character": "Player",
+      "line": "I am glad."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think there is anyone else down here?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Depends on what the person is like."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, hopefully someone nice."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh I do hope so!"
+    },
+    {
+      "character": "Player",
+      "line": "You've got quite the collection of bruises there!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I know. It hurts to move."
+    },
+    {
+      "character": "Player",
+      "line": "They will mend in time."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Time is something I don't have much of."
+    },
+    {
+      "character": "Player",
+      "line": "Since when did you only have one leg?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "One leg! What the?"
+    },
+    {
+      "character": "Player",
+      "line": "Hahaha."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "So mean."
+    },
+    {
+      "character": "Player",
+      "line": "I'm tired, I think I'll take a nap."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Now?"
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh, no reason. Just thought you would help me out."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think this cave is stable?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I'm not too sure. What do you think?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know, hence why I asked you."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh. I hope it's safe."
+    },
+    {
+      "character": "Player",
+      "line": "You're sounding much better."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "My voice, you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, much more positive. Which is great."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "But you probably want to sort out the bad breath."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "I'll let you off. But just this once."
+    },
+    {
+      "character": "Player",
+      "line": "If you need anything, just let me know."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Will do."
+    },
+    {
+      "character": "Player",
+      "line": "You have a big appetite."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I am hungry. Sorry for eating all your food."
+    },
+    {
+      "character": "Player",
+      "line": "I'll let you off I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "Let's sing a song!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Is it really the time to?"
+    },
+    {
+      "character": "Player",
+      "line": "Half a pound of tuppenny rice, half a pound of treacle."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "But..."
+    },
+    {
+      "character": "Player",
+      "line": "That's the way the money goes. Pop goes the weasel!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Please go away..."
+    },
+    {
+      "character": "Player",
+      "line": "It's quite cosy in here."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That's a strange thing to say."
+    },
+    {
+      "character": "Player",
+      "line": "You don't like it?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "No, not really."
+    },
+    {
+      "character": "Player",
+      "line": "There's no pleasing you, is there?"
+    },
+    {
+      "character": "Player",
+      "line": "How about a joke!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Please, I don't..."
+    },
+    {
+      "character": "Player",
+      "line": "How does the queen bee get around her hive?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Okay, go on."
+    },
+    {
+      "character": "Player",
+      "line": "She's throne."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "That was bad."
+    },
+    {
+      "character": "Player",
+      "line": "This would probably make a nice home."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You think?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, do you?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Not really, I think I'll stick to living ABOVE ground."
+    },
+    {
+      "character": "Player",
+      "line": "We could do with something for you to sit on."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Why?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I just thought it would be a bit more civil."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "You're a bit weird."
+    },
+    {
+      "character": "Player",
+      "line": "Can you smell gas?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Gas? Why would you smell gas?"
+    },
+    {
+      "character": "Player",
+      "line": "I just thought I could, you know... mines often have poisonous gases."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Please, let's talk about something else."
+    },
+    {
+      "character": "Player",
+      "line": "Let me tell you about myself!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Oh, okay."
+    },
+    {
+      "character": "Player",
+      "line": "I started off my life as a simple adventurer, battling goblins, picking up coins on the floor..."
+    },
+    {
+      "character": "Player",
+      "line": "I remember the day when I was excited to find a thousand coins."
+    },
+    {
+      "character": "Player",
+      "line": "Now it is nothing!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Sorry to stop you, but are you going to help me?"
+    },
+    {
+      "character": "Player",
+      "line": "Not a fan of stories, then? Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "What do you want to talk about?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "I don't know, I don't think I feel like talking."
+    },
+    {
+      "character": "Player",
+      "line": "Your loss."
+    },
+    {
+      "character": "Player",
+      "line": "Is it okay if I talk to you?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "No, I think I'd rather be left alone."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me a bit about yourself."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, you."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Well, I grew up in Ardougne. Erm, I quite enjoy Fishing."
+    },
+    {
+      "character": "Player",
+      "line": "Fishing?"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds a bit boring to me."
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Don't knock it till you've tried it."
+    },
+    {
+      "character": "Player",
+      "line": "Fishing!"
+    },
+    {
+      "character": "Player",
+      "line": "I like fishing too!"
+    },
+    {
+      "character": "Fallen Man",
+      "line": "Perhaps we can fish together one day?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd love to!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm so pleased you're getting better! You must stay still though. You're not fit to walk yet."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Where am I? Who are you?"
+    },
+    {
+      "character": "Player",
+      "line": "My name's. You're on Lunar Isle, in a cave."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm Cyrisus. Oh yes, I remember, I was on the island and..."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Suqahs! There were suqah monsters!"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "They attacked! I ran and ran. I crawled down here."
+    },
+    {
+      "character": "Player",
+      "line": "It's okay, it's okay. You're safe now."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I am?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I was so afraid."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Oh my head hurts. And my legs. I'm so tired."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Please, just leave me, I'm a waste of effort, my body is in ruin."
+    },
+    {
+      "character": "Player",
+      "line": "No, just trust me, I'll see that you get out of here. Don't give up."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there. How are you feeling?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Still painful."
+    },
+    {
+      "character": "Player",
+      "line": "There we are."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Thank you. I would surely be dead without you."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry. So what were you doing on this island?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Exploring. I greatly enjoy travelling the world and taking in all the experiences available."
+    },
+    {
+      "character": "Player",
+      "line": "I can relate to that, and Lunar Isle is definitely worth a visit. Where else have you been?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Well, I've travelled from the frozen wastes in the Wilderness to the pyramids of the Kharidian Desert. I've lived with the monkeys of Ape Atoll and dined with the TzHaar under the volcano of Karamja."
+    },
+    {
+      "character": "Player",
+      "line": "Impressive. You must have a great many stories and mastered loads of skills."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "You could say that."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I could smith you full rune, farm spirit trees and still have time to cook you a summer pie for tea."
+    },
+    {
+      "character": "Player",
+      "line": "Wow. No need to say more."
+    },
+    {
+      "character": "Player",
+      "line": "But why have you had such difficulty with the suqah? Surely you're a skilled warrior?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Err, well..."
+    },
+    {
+      "character": "Player",
+      "line": "You must have mastered all forms of combat?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "No. Not really."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I... erm..."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Please, let's leave that line of conversation."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay. If you wish. So, what now?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I still don't feel fit enough to go outside. I could also do with some armour."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I could loan you some armour?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Oh, there's really no need to worry."
+    },
+    {
+      "character": "Player",
+      "line": "Oh?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Trust, me, there's no need. Please, just go to the bank on this island, I have a friend working there. Just tell him I sent you."
+    },
+    {
+      "character": "Player",
+      "line": "And what does he look like? What's his name?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Trust me: when you see him, you'll know."
+    },
+    {
+      "character": "Player",
+      "line": "Okaaay."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Oh, and if you want, you can contact me with the NPC Contact spell in the Lunar Spellbook. It might save you running back and forth."
+    },
+    {
+      "character": "Player",
+      "line": "So you're in need of some armour?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "It would be good, yes. You should be able to talk to my friend in the bank on this island."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Hi! Managed to get my armour yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I had best visit the bank and see what I can get."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Well, I would appreciate it if you could hurry."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm getting a bit cold."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there, this may sound a bit random, but do you know Cyrisus?"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "That I do. But I must say you seem quite familiar too."
+    },
+    {
+      "character": "Player",
+      "line": "I do?"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Why! You're that insolent fool who insulted my navigational skills!"
+    },
+    {
+      "character": "Player",
+      "line": "What!"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Accusing me of navigating in circles!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait a minute! Now I recognise you; you're the navigator on the ship that first took me to Lunar Isle! The first time I visited this place your navigation was useless!"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "How dare you! It was a jinx."
+    },
+    {
+      "character": "Player",
+      "line": "Ahh."
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Player",
+      "line": "Well, if it wasn't for me you would never have reached this place."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Oh, behold the great adventurer. How the world would crumble without her."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, the wit."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Better than yours."
+    },
+    {
+      "character": "Player",
+      "line": "Er, no it isn't."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Er. Yes it is."
+    },
+    {
+      "character": "Player",
+      "line": "Er. No, it..."
+    },
+    {
+      "character": "Player",
+      "line": "Stop. Let's not do that again. So, why are you working here now?"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Why, you have a problem with it?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh no. It's just that the job of banker doesn't seem quite as... 'exotic' as 'pirate'. Seems like a step-down to me."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "How dare you! I'll have you know that the job of a banker is far more exciting than that of a pirate!"
+    },
+    {
+      "character": "Player",
+      "line": "Er, yeah, whatever you say mate."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "It is! And it's an honest living."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "I was tired of looting and hunting for treasure. It was time to turn my life around."
+    },
+    {
+      "character": "Player",
+      "line": "What a heart touching story."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Don't patronise me."
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, as I was saying, do you know Cyrisus?"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Yes."
+    },
+    {
+      "character": "Player",
+      "line": "Well, he's down in the caves at the north of this island, and I need your help."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Listening."
+    },
+    {
+      "character": "Player",
+      "line": "I need to get some items out of his bank account. Is that possible?"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "I suppose. Knock yourself out."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "I suppose you had better take this chest to carry his stuff. Don't want you losing any of it."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Ah, I would if you had any space."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. Could I access Cyrisus's bank account again."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Okay. You best help him quickly or else I'll be after you!"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Ah, you can't unless you have the chest."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm afraid I have lost it."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Well, I don't suppose it would be a problem to give you another. Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I think I left it in my bank account."
+    },
+    {
+      "character": "Player",
+      "line": "I have got a chest and filled it with some items."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Superb! What have you got?"
+    },
+    {
+      "character": "Player",
+      "line": "There is..."
+    },
+    {
+      "character": "Player",
+      "line": "Robin hood hat"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "It doesn't particularly impress me..."
+    },
+    {
+      "character": "Player",
+      "line": "Karil's leathertop"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "No comment."
+    },
+    {
+      "character": "Player",
+      "line": "Black d'hide chaps"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Not too sure about that."
+    },
+    {
+      "character": "Player",
+      "line": "Ranger boots"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "That's spot-on."
+    },
+    {
+      "character": "Player",
+      "line": "Magic shortbow"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Hmmm, I'd rather something else."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad you know what you want."
+    },
+    {
+      "character": "Player",
+      "line": "Dragon med helm"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Perfect!"
+    },
+    {
+      "character": "Player",
+      "line": "Ahrim's robetop"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Oh, good choice!"
+    },
+    {
+      "character": "Player",
+      "line": "Ahrim's robeskirt"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Very good."
+    },
+    {
+      "character": "Player",
+      "line": "Abyssal whip"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Superb!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I've been to see 'Bird's-Eye' Jack, and I've got a chest."
+    },
+    {
+      "character": "Player",
+      "line": "I've also filled it with some armour; what do you think?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Okay, I'll try it on. No peeking!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I won't. I'll close my eyes."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Still changing."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Hmmm...."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I've put the clothes back in the chest, they're not too bad."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "But not too good either. I need a different combination."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm confused, any tips?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I can't stand the item of headgear you've chosen - get rid of that straight away!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "What's with the body armour? Totally not my style!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'd much rather have something else protecting my legs."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "The footwear has to go. I can't rely on them to help me."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm not all that good at using the type of weapon you offered. Please bring something else."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Perfect! I couldn't ask for a better set-up!"
+    },
+    {
+      "character": "Player",
+      "line": "Excellent!"
+    },
+    {
+      "character": "Player",
+      "line": "Looking good in your kit!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Thanks."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Perfect! I feel healthy, I'm positively charged and I'm dressed like a war machine!"
+    },
+    {
+      "character": "Player",
+      "line": "You certainly look the part!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Why thanks, I feel it too!"
+    },
+    {
+      "character": "Player",
+      "line": "Now, Cyrisus. Please tell me."
+    },
+    {
+      "character": "Player",
+      "line": "Why did you have such difficulty against the suqahs?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Ah, well. Best I tell you. The thing is... the thing that I should say... the problem I have, for which you should know..."
+    },
+    {
+      "character": "Player",
+      "line": "Just tell me."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Okay."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm afraid of combat."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I've tried so hard over the years, but I simply cannot gather the courage to fight monsters."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I've learnt the techniques, I've got the equipment. I just get so afraid. My legs turn to jelly, I'm dripping with sweat. All I can do is run."
+    },
+    {
+      "character": "Player",
+      "line": "Now that surprises me."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I know it seems bad, but honestly, I've tried. It was part of the reason I came to Lunar Isle to see the Moon Clan. I trust you've gone through the ceremony to visit the Dreamland?"
+    },
+    {
+      "character": "Player",
+      "line": "I have indeed. A very strange day I must say, but very valuable! Especially gaining the Lunar spells."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Yes, so I came to the Moon Clan again to see if they could help me visit my dreams again and conquer my fear of combat. But then I came across the suqah."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Say, would you come with me to the Oneiromancer? Perhaps you can give me some support or guidance?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I suppose. Can't see why not."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Excellent! Please, you go on ahead, I'll make my way there myself. I'm not walking out of this cave past those suqahs again!"
+    },
+    {
+      "character": "Player",
+      "line": "Ready?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Of course! You just go speak with the Oneiromancer and I'll be right with you, faster than you'd think."
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "How's Cyrisus? Where is he?"
+    },
+    {
+      "character": "Player",
+      "line": "He's fine now. Back to full health."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Good, I'm pleased."
+    },
+    {
+      "character": "Player",
+      "line": "No problem."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Don't think that this means I like you now!"
+    },
+    {
+      "character": "Player",
+      "line": "Look at my face."
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Yes? What about it."
+    },
+    {
+      "character": "Player",
+      "line": "Does it look like I care?"
+    },
+    {
+      "character": "Bird's-Eye' Jack",
+      "line": "Not really."
+    },
+    {
+      "character": "Player",
+      "line": "Well, there you go."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Hello there. What do you want to talk about?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Oh hello ! It has been a while."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "What brings you here again? Creating more astral runes?"
+    },
+    {
+      "character": "Player",
+      "line": "Not at the moment. I've come on behalf of a friend. You will probably have met him - his name is Cyrisus."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Oh yes, I know him. A bright man. What is it about him, my dear?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I..."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Oh my."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Hello!"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Cyrisus. It's been a while. Your kind friend here was just talking about you."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Good. We were hoping you could help us."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Yes? I can try."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I need to get over my fear of combat. Surely I can sort that out in the Dreamland?"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Of course. With the Potion of Shared Dreaming. It'll send you both into the Dreamland, and sort out your biggest issue."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds simple."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "In most ways, yes. However, it will be dangerous."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "To get you into the dream together, the potion works by binding your subconsciousnesses together. The brazier has its own intelligence in interpreting your subconscious so it will understand your intentions when"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "placing you in the dream."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Okay, I shall just take your word for that bit, but I still can't see the dangerous part..."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "With your minds melded as one, you need each other to survive. If one of you dies, you both die for real. Unlike before, you will die just as if you were killed by a monster in the wild."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm not so sure about this anymore."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry Cyrisus, we can do this. Oneiromancer, how do we make the potion?"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Simple. I shall give you a vial, within which you should place water followed by one ground astral rune and goutweed. Then just use it on the brazier. Oh! You'll have to light it first, of course."
+    },
+    {
+      "character": "Player",
+      "line": "Very well."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Good luck!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Wait. Do we need to wear the clothes we had to wear to go to the dreamland before."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Oh no, no need. They were simply ceremonial clothes, you can wear whatever you want."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "See you at the brazier!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Cyrisus."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Hi. I must admit to being a bit nervous. Could you talk to the Oneiromancer? I want to get this out of the way quickly."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "How's it going?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still making the potion. Can you tell me what ingredients it takes again?"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Water, an astral rune and goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "Any chance you have a vial you can give me?"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "And the magic word is?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm. Lunar?"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Oh dear, of course not!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry. PLEASE!"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Now that wasn't difficult, was it?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently so. I don't have any free space to take a vial. I'll be back in a second."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I have the Potion of Shared Dreaming; now what?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Best you light the brazier with a tinderbox first, then give me the potion."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, let's go!"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Let me know when you're ready."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, so we need to make the Potion of Shared Dreaming."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Yes. Water, goutweed and one astral rune all in that..."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Wait, where did you put the vial?"
+    },
+    {
+      "character": "Player",
+      "line": "Oops."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Ask the Oneiromancer nicely, I'm sure she will have another."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Yes. Water, goutweed and one astral rune all in that tiny vial."
+    },
+    {
+      "character": "Player",
+      "line": "Very well so far, we have the Potion of Shared Dreaming."
+    },
+    {
+      "character": "Player",
+      "line": "We just need to visit Cyrisus's dreams and come to a solution."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "I like your spirit!"
+    },
+    {
+      "character": "Player",
+      "line": "Arrghhh!!!"
+    },
+    {
+      "character": "Player",
+      "line": "What on Gielinor is that?"
+    },
+    {
+      "character": "Player",
+      "line": "Cyrisus?"
+    },
+    {
+      "character": "Player",
+      "line": "Cyrisus..."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "That lectern is rather pretty."
+    },
+    {
+      "character": "Player",
+      "line": "Cyrisus."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Turn."
+    },
+    {
+      "character": "Player",
+      "line": "Around."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Huh?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Arghh!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "What's that?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't ask me, it's your dream!"
+    },
+    {
+      "character": "Player",
+      "line": "You must really be afraid of combat!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Why?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean 'why'? This huge creature must symbolise your fears!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm guessing we're going to be fighting my fears."
+    },
+    {
+      "character": "Player",
+      "line": "Cyrisus. Let's do this!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I'm still scared. Show me how you fight, and I should gain courage."
+    },
+    {
+      "character": "Player",
+      "line": "Not bad. We've been into the dream, but we are yet to conquer it."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Very good."
+    },
+    {
+      "character": "Player",
+      "line": "We're probably going to need more of that potion."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Perhaps Cyrisus can help you out there, he's a resourceful chap."
+    },
+    {
+      "character": "Player",
+      "line": "We need to go into the dream again."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Do we have to?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "It looks like there is a little potion left in the bottle."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "That may be the case, but you need to light the brazier with a tinderbox first."
+    },
+    {
+      "character": "Player",
+      "line": "Now, now, now! Cyrisus! Get it!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Okay! Take this!"
+    },
+    {
+      "character": "Player",
+      "line": "You did it!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I did! Yes! Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "I knew you'd do it."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "What now?"
+    },
+    {
+      "character": "Player",
+      "line": "Back to reality, I suppose, and on to the Oneiromancer!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "See you there!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "No, WE did it. Thank you. It really is appreciated."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, no worries, it was fun."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Well I'm not sure I enjoyed almost getting killed, but yes, it was good."
+    },
+    {
+      "character": "Player",
+      "line": "We did it!"
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "You did?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Yes, I've conquered my fear of combat."
+    },
+    {
+      "character": "Player",
+      "line": "We beat those monsters well and good, didn't we?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "We sure did! I was very afraid to start off with, but once I saw how you dealt with combat I felt sure I could do it too."
+    },
+    {
+      "character": "Oneiromancer",
+      "line": "Oh, I'm pleased. Congratulations."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Thank you. I really couldn't have done it without your help. Please, let me pass some of my knowledge onto you."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Ah, sorry but could you do me a favour and clear some inventory space first?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, in what way?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "On my last visit to this island I spent a good while with the Moon Clan. It seems it isn't all that impossible to instantly transfer knowledge to one another."
+    },
+    {
+      "character": "Player",
+      "line": "Huh?"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I shall just use lunar magic to pass some information onto you."
+    },
+    {
+      "character": "Cyrisus",
+      "line": "Just keep your mind blank, relax and hold still."
+    },
+    {
+      "character": "Player",
+      "line": "Ooooh. That was a weird sensation."
+    },
+    {
+      "character": "Player",
+      "line": "I must admit, I do feel enlightened already. Thank you!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "My pleasure. And I best be off, I think I am going to put my courage to the test! I have a new goal to reach - the ultimate warrior!"
+    },
+    {
+      "character": "Player",
+      "line": "Be careful!"
+    },
+    {
+      "character": "Cyrisus",
+      "line": "I will. I'll see you around, I'm sure!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bird's-Eye' Jack",
+      "description": "Middle-aged male, gruff British pirate accent, sardonic and slightly irritable tone, a former ship navigator turned banker who retains his weathered maritime mannerisms and takes pride in his professionalism."
+    },
+    {
+      "name": "Cyrisus",
+      "description": "Adult male, British accent, initially weak and fearful but grows more confident and enthusiastic, a highly skilled adventurer who despite his abilities has been paralyzed by combat anxiety until overcoming his inner demons."
+    },
+    {
+      "name": "Fallen Man",
+      "description": "Adult male, British accent, weak and trembling voice filled with pain and despair, speaking in exhausted gasps, a severely injured adventurer found barely conscious in a cave who slowly regains strength."
+    },
+    {
+      "name": "Oneiromancer",
+      "description": "Middle-aged female, mystical British accent, authoritative and perceptive tone with hints of dry humor, the wise spiritual leader of the Moon Clan who guides others through dream magic ceremonies."
+    }
+  ]
+}

@@ -1,0 +1,2668 @@
+{
+  "branch": "quest/kings-ransom",
+  "quest_name": "King's Ransom",
+  "lines": [
+    {
+      "character": "Gossip",
+      "line": "Oh, I remember you. You're the one that discovered Lord Sinclair's murderer. Well, I can tell you, strange things are afoot once again."
+    },
+    {
+      "character": "Player",
+      "line": "Really? What's happened?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, you didn't hear it from me, but I've heard the Sinclair family have vamoosed! Just up and left the mansion."
+    },
+    {
+      "character": "Player",
+      "line": "You mean they let the murderer get away?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Of course not! Anna's safely locked in the Seers' Village jail. She'll be going to trial soon, so I've heard."
+    },
+    {
+      "character": "Player",
+      "line": "Anna? Is that who they arrested? I thought...hmm, never mind."
+    },
+    {
+      "character": "Gossip",
+      "line": "Yes, the guards received evidence from one of the family members that conclusively proved Anna did it. All other evidence was thrown out, it was that good."
+    },
+    {
+      "character": "Gossip",
+      "line": "So they arrested her and soon the case will go to court."
+    },
+    {
+      "character": "Player",
+      "line": "So, why is it a big deal that the Sinclairs have left, then? Maybe they wanted to get away from the memory of their father's death."
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, it wouldn't be suspicious at all, but King Arthur has also disappeared."
+    },
+    {
+      "character": "Gossip",
+      "line": "No one has seen him or the knights in quite a while. Quite a coincidence, don't you think?"
+    },
+    {
+      "character": "Player",
+      "line": "How curious. Maybe I should investigate it."
+    },
+    {
+      "character": "Gossip",
+      "line": "You didn't hear it from me, but I believe that guard in the garden is also investigating it. He might be able to tell you more."
+    },
+    {
+      "character": "Player",
+      "line": "Very odd coincidence, but I don't really have time to look into it now."
+    },
+    {
+      "character": "Gossip",
+      "line": "Ah, too bad. I'll have to get news from my other sources."
+    },
+    {
+      "character": "Gossip",
+      "line": "Have you spoken to the guard by the mansion? He won't tell me much, he called me a gossip - the nerve - but he might be willing to speak to you."
+    },
+    {
+      "character": "Player",
+      "line": "You know, this has been bugging me for a while: Why do the Sinclairs have a dog handler on the payroll when they only have one dog?"
+    },
+    {
+      "character": "Pierre",
+      "line": "Have you seen that dog? It's a nasty piece of work. Even I don't like going near it."
+    },
+    {
+      "character": "Stanford",
+      "line": "'Allo. I don't think you'll be able to visit the mansion today, it's been locked up tight for a while now."
+    },
+    {
+      "character": "Guard",
+      "line": "Good day,. I'm afraid we meet under strange circumstances again."
+    },
+    {
+      "character": "Player",
+      "line": "So I have heard. The town gossip informed me that something was amiss. I've come to offer my assistance."
+    },
+    {
+      "character": "Guard",
+      "line": "Finally, that man serves a purpose. I'm glad to have your help. I'm baffled again and my hands are tied."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Guard",
+      "line": "The Sinclairs have disappeared, though I'm not sorry to see them go, but what worries me is the disappearance of King Arthur and his knights around the same time."
+    },
+    {
+      "character": "Player",
+      "line": "They haven't returned to their other realm have they?"
+    },
+    {
+      "character": "Guard",
+      "line": "No, there's no evidence to suggest that. It never sat well with the Sinclair children when their old man gave the castle to King Arthur and"
+    },
+    {
+      "character": "Guard",
+      "line": "moved the family to this mansion. I suspect the murder of old Sinclair was just the first step in a deeper plot to retake their 'birthright'."
+    },
+    {
+      "character": "Player",
+      "line": "How goes the investigation, then? What evidence have you gathered so far?"
+    },
+    {
+      "character": "Guard",
+      "line": "That's the problem. The Seers' Village council has forbidden the guards from breaking into Camelot or the Sinclair Mansion for further investigation."
+    },
+    {
+      "character": "Guard",
+      "line": "They claim it's a breach of privacy or something like that. My suspicions mean nothing without proof to back them up, but I can't get proof without losing my job."
+    },
+    {
+      "character": "Player",
+      "line": "Which is why you're happy to see me, right? A rogue party could break into the mansion and investigate further, without the fear of losing their job. Am I right?"
+    },
+    {
+      "character": "Guard",
+      "line": "Exactly! I'm sure you'll manage to find a way into the house."
+    },
+    {
+      "character": "Pierre",
+      "line": "Good day."
+    },
+    {
+      "character": "Player",
+      "line": "Hi. I was wondering, do you know why the mansion is all locked up?"
+    },
+    {
+      "character": "Pierre",
+      "line": "I'm not meant to talk to anyone outside the family. On pain of death."
+    },
+    {
+      "character": "Player",
+      "line": "That's a bit harsh. Thanks anyway."
+    },
+    {
+      "character": "Stanford",
+      "line": "'Allo, what can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to get into the mansion. Do you know why it's all locked up?"
+    },
+    {
+      "character": "Stanford",
+      "line": "I wasn't privy to the reason, but the whole family upped and left not long ago. Since then, I haven't heard a peep from anyone. I was told not to enter the mansion or to speak about their departure."
+    },
+    {
+      "character": "Player",
+      "line": "But you're willing to speak to me?"
+    },
+    {
+      "character": "Stanford",
+      "line": "Didn't say I was going to obey them, did I?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Soooooo? What did the guard have to say?"
+    },
+    {
+      "character": "Player",
+      "line": "Promise you won't tell?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Of course, of course."
+    },
+    {
+      "character": "Player",
+      "line": "The guard asked me to break into the Sinclair Mansion and search for clues about where they had gone."
+    },
+    {
+      "character": "Player",
+      "line": "He said..."
+    },
+    {
+      "character": "Player",
+      "line": "that you were a gossip and I shouldn't divulge privileged information."
+    },
+    {
+      "character": "Hobbes",
+      "line": "What are you doing here? I thought the house was locked up tight."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, it is, except for that broken window... Very convenient."
+    },
+    {
+      "character": "Player",
+      "line": "Where has the Sinclair family gone?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "I'm under strict orders not to speak to anyone not of the Sinclair family."
+    },
+    {
+      "character": "Hobbes",
+      "line": "I was told if I left the house that I would be killed!"
+    },
+    {
+      "character": "Player",
+      "line": "I think you need to look for a new job. Your employers are a bit scary."
+    },
+    {
+      "character": "Louisa",
+      "line": "What are you doing in here? I didn't think anyone could enter or leave this place."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for clues as to where the Sinclair family has gone. Why can't anyone enter or leave?"
+    },
+    {
+      "character": "Louisa",
+      "line": "We were told a curse had been placed on us. If we left the mansion we'd be struck down in an instant."
+    },
+    {
+      "character": "Player",
+      "line": "How peculiar."
+    },
+    {
+      "character": "Mary",
+      "line": "Who...? Oh, I remember you! You were asking all those questions about Lord Sinclair's murder. You had all sorts of evid-whats-its."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that was me. Now I'm trying to find out where the Sinclair family has gone."
+    },
+    {
+      "character": "Mary",
+      "line": "I don't know. They got really secretive after Lord Sinclair was killed and then suddenly left. That's all I know."
+    },
+    {
+      "character": "Player",
+      "line": "Right."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "You aren't here to murder us in our sleep are you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'd not be doing a very good job of it, if I was, considering you're not asleep."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "So, you are here to kill us!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, no. I'm just browsing."
+    },
+    {
+      "character": "Mary/Donovan/Louisa/Hobbes/Pierre/Stanford",
+      "line": "I don't know anything about that."
+    },
+    {
+      "character": "Guard",
+      "line": "Any luck getting into the mansion? Did you get some evidence?"
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that the Sinclairs have left."
+    },
+    {
+      "character": "Guard",
+      "line": "A form? What does this prove?"
+    },
+    {
+      "character": "Player",
+      "line": "Don't you see? The Sinclairs have left for good. They premeditated their departure from the mansion."
+    },
+    {
+      "character": "Guard",
+      "line": "Ah! Of course. Unfortunately, they filled in all of the form except where their new address is."
+    },
+    {
+      "character": "Guard",
+      "line": "Really? Where?"
+    },
+    {
+      "character": "Player",
+      "line": "Errr, I seem to have left it somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that links the Sinclairs to Camelot."
+    },
+    {
+      "character": "Guard",
+      "line": "Aha! They've gone to the desert. They're meeting up with a camel."
+    },
+    {
+      "character": "Player",
+      "line": "No...It's not camel, like the animal. The note isn't whole, they were writing the word Camelot. They were meeting at Camelot, this is our evidence to connect the Sinclairs to King Arthur."
+    },
+    {
+      "character": "Guard",
+      "line": "Oh, right. Well, it connects them to King Arthur, but it doesn't prove that they had any bad intent towards him. For all we know they were going to a party."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof of foul play."
+    },
+    {
+      "character": "Guard",
+      "line": "Hmm, this armour resembles Black Knight armour. The only Black Knights on this side of White Wolf Mountain are those that work for Morgan Le Faye."
+    },
+    {
+      "character": "Player",
+      "line": "Exactly. And we know Morgan Le Faye has a history of harassing Merlin and King Arthur."
+    },
+    {
+      "character": "Player",
+      "line": "Since there is no sign of a struggle inside the Sinclair Mansion, we can only assume the knights were there by request."
+    },
+    {
+      "character": "Guard",
+      "line": "Oh right! With this evidence and the note you brought me, we know they had intentions to do harm to King Arthur."
+    },
+    {
+      "character": "Guard",
+      "line": "Thank you,. We have all the proof we need to present to the Seers' Village council that something suspicious is going on."
+    },
+    {
+      "character": "Guard",
+      "line": "They'll review the evidence and hopefully give me permission to take a team to Camelot. It shouldn't be too difficult to get to the bottom of this."
+    },
+    {
+      "character": "Player",
+      "line": "When do you expect to go to Camelot? Perhaps I could assist you?"
+    },
+    {
+      "character": "Guard",
+      "line": "Oh the Seers' Village council convenes in a month or so, I'll present it then. No doubt they'll want a few days to review the evidence."
+    },
+    {
+      "character": "Guard",
+      "line": "We'll go sometime after that...if none of the other guards are on holiday. There are only four of us, ya know."
+    },
+    {
+      "character": "Player",
+      "line": "WHAT?"
+    },
+    {
+      "character": "Player",
+      "line": "A month or more? King Arthur could be in grave danger. Morgan Le Faye is involved and she is not one to be trifled with. One of the Sinclairs has already committed murder, who's to say another won't?"
+    },
+    {
+      "character": "Player",
+      "line": "And you're going to wait a MONTH?"
+    },
+    {
+      "character": "Guard",
+      "line": "I have to follow procedure, my hands are tied."
+    },
+    {
+      "character": "Guard",
+      "line": "However, were a rogue adventurer to take the matter in to their own hands..."
+    },
+    {
+      "character": "Player",
+      "line": "Aye, what then?"
+    },
+    {
+      "character": "Guard",
+      "line": "Well, if I were them, I would learn as much as I can about the Sinclair family history."
+    },
+    {
+      "character": "Player",
+      "line": "That's all the advice you can give?"
+    },
+    {
+      "character": "Guard",
+      "line": "Well, often the best historians are the town gossips. I'd start there. Good luck, brave adventurer!"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "What should I be doing again?"
+    },
+    {
+      "character": "Guard",
+      "line": "Find out all you can about the Sinclair family history. I'm sure there is a clue or two there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. Can you tell me about the Sinclair family history?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Hmph. I don't see why I should tell you anything."
+    },
+    {
+      "character": "Player",
+      "line": "What? Why not?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Perhaps if you had been less rude to me, I would have been willing to tell you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry I was rude. You are a vital part of this investigation. Unless you tell me about the Sinclairs, I won't be able to continue."
+    },
+    {
+      "character": "Gossip",
+      "line": "Vital part, you say? So, I'll get credit for assistance? Well...I do know quite a bit about their history. I suppose I can't hold up an investigation as important as this. What do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the family."
+    },
+    {
+      "character": "Gossip",
+      "line": "I've heard plenty about each of them...but I'll try to keep it as short as I can."
+    },
+    {
+      "character": "Gossip",
+      "line": "Old Lord Sinclair was a well respected man this side of White Wolf. He was great friends with King Ulthas and did many good works for the kingdom."
+    },
+    {
+      "character": "Gossip",
+      "line": "His children on the other hand were spoiled and horrid. They cared for no one but themselves and gave themselves such aires. Each had their own vice, but I didn't expect any of them would be driven to murder!"
+    },
+    {
+      "character": "Player",
+      "line": "What have they been up to since the arrest of their sibling?"
+    },
+    {
+      "character": "Gossip",
+      "line": "They've been living very quietly, a nice change from the norm. But almost too quietly. I always thought they'd get into more trouble. No good will come from them, let me tell you!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the mansion."
+    },
+    {
+      "character": "Gossip",
+      "line": "The mansion? The mansion is quite new. Originally, the Sinclair family lived in Camelot, although it went under a different name then."
+    },
+    {
+      "character": "Gossip",
+      "line": "But when King Arthur and his knights appeared, old Lord Sinclair agreed with King Ulthas that the knights had greater need for the castle than the Sinclair family."
+    },
+    {
+      "character": "Gossip",
+      "line": "So, Lord Sinclair had the mansion built, packed his family up and vacated. His children were furious with him for doing it."
+    },
+    {
+      "character": "Gossip",
+      "line": "They felt themselves far better than the knights and felt insulted at having to live in a stuffy mansion."
+    },
+    {
+      "character": "Player",
+      "line": "What happened next?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, you should know best... Anna killed her father. Poor man."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Anna Sinclair."
+    },
+    {
+      "character": "Gossip",
+      "line": "Anna? The guards are keeping her in the jail in the courthouse in Seers' Village. I hear she's been acting like a royal pain."
+    },
+    {
+      "character": "Player",
+      "line": "But what is she like? Can she be reasoned with?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Reasoned with? She killed her own father!"
+    },
+    {
+      "character": "Gossip",
+      "line": "I hear she's being so unreasonable that no lawyer in Gielinor will represent her. She's going to get a guilty verdict for sure."
+    },
+    {
+      "character": "Gossip",
+      "line": "Still, I go and visit her at the Seers' Village courthouse sometimes to try and keep her spirits up."
+    },
+    {
+      "character": "Player",
+      "line": "Could I ask you about the Sinclair family again?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, I'm not one to gossip, but as it's for your investigation... What would you like to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Where is Anna Sinclair being held?"
+    },
+    {
+      "character": "Guard",
+      "line": "At the Seers' Village courthouse."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about Anna Sinclair?"
+    },
+    {
+      "character": "Pierre",
+      "line": "Nothing."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing?"
+    },
+    {
+      "character": "Pierre",
+      "line": "What? I'm no gossip; I've got nothing to say about it."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about Anna?"
+    },
+    {
+      "character": "Stanford",
+      "line": "Why do you want to know about her?"
+    },
+    {
+      "character": "Player",
+      "line": "I may need her help to get in touch with the rest of the Sinclairs."
+    },
+    {
+      "character": "Stanford",
+      "line": "Good luck, mate. She's a right pain in the..."
+    },
+    {
+      "character": "Player",
+      "line": "In the...?"
+    },
+    {
+      "character": "Stanford",
+      "line": "Sorry, you still here? I started thinking about turnips."
+    },
+    {
+      "character": "Hobbes",
+      "line": "Anna? She was a spoiled brat, that's for sure."
+    },
+    {
+      "character": "Player",
+      "line": "Can't you tell me anything more useful than that?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "I'm afraid not."
+    },
+    {
+      "character": "Louisa",
+      "line": "Anna? Why?"
+    },
+    {
+      "character": "Player",
+      "line": "Because she may be responsible for murder!"
+    },
+    {
+      "character": "Louisa",
+      "line": "Oh yes. Well, I can't say I ever liked Anna. She was always chasing after some boy or other."
+    },
+    {
+      "character": "Mary",
+      "line": "Anna? I don't know very much."
+    },
+    {
+      "character": "Player",
+      "line": "You must have been privy to some of the children's secrets. Anything would be helpful."
+    },
+    {
+      "character": "Mary",
+      "line": "No, I don't know anything like that. I kept my head down and did my work."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Anna?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Anna."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Well, she's a murderer. What more could you need to know?"
+    },
+    {
+      "character": "Guard",
+      "line": "That Sinclair woman is such a pain! She keeps demanding gourmet meals and ridiculous things like silk sheets."
+    },
+    {
+      "character": "Player",
+      "line": "Can I speak to her?"
+    },
+    {
+      "character": "Guard",
+      "line": "Go ahead. It means she won't be demanding things from me."
+    },
+    {
+      "character": "Guard",
+      "line": "Mother said to join the guards, see the world! What do I end up doing? Guarding some stuck-up brat in a backwater village full of hippies."
+    },
+    {
+      "character": "Player",
+      "line": "May I speak to the prisoner?"
+    },
+    {
+      "character": "Guard",
+      "line": "I don't see why not."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Do you remember me?"
+    },
+    {
+      "character": "Anna",
+      "line": "Hmmm...yes, you were that nosy person asking all those questions about daddy's murder."
+    },
+    {
+      "character": "Player",
+      "line": "So he's 'daddy' now is he? If he was so dear to you why did you kill him?"
+    },
+    {
+      "character": "Anna",
+      "line": "I didn't! No one will believe me. It was my brother. He set me up."
+    },
+    {
+      "character": "Player",
+      "line": "But there's hard evidence against you."
+    },
+    {
+      "character": "Anna",
+      "line": "It's forged! I swear, I never touched that dagger or poisoned my father."
+    },
+    {
+      "character": "Player",
+      "line": "I didn't come here to just chit-chat. I need to know where your family has disappeared to. I have suspicions they've reclaimed Camelot."
+    },
+    {
+      "character": "Anna",
+      "line": "How should I know? I've been locked up here since you stuck your nose into our family's business."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'll be off then. Have fun spending the rest of your life in jail."
+    },
+    {
+      "character": "Anna",
+      "line": "Wait!"
+    },
+    {
+      "character": "Anna",
+      "line": "I... I might know how to find them...but I need a favour from you in return."
+    },
+    {
+      "character": "Player",
+      "line": "Name your price."
+    },
+    {
+      "character": "Anna",
+      "line": "I need a defence lawyer. None of the ones around here will represent me, they all think I'm guilty."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe it's because you ARE guilty. Your sibling offered hard proof you did it!"
+    },
+    {
+      "character": "Anna",
+      "line": "No he didn't! He just said he saw me in the room. Why does everyone believe him?"
+    },
+    {
+      "character": "Anna",
+      "line": "Can't you see he framed me? I was the scapegoat so they could all inherit their fortunes and live the good life."
+    },
+    {
+      "character": "Player",
+      "line": "Why should I believe you? As far as I know you did kill your father."
+    },
+    {
+      "character": "Anna",
+      "line": "I don't care if you don't believe me. I know I'm innocent...but I'm also the only one that can show you how to get into Camelot. There's a secret passage that I discovered as a child when we lived there."
+    },
+    {
+      "character": "Player",
+      "line": "So, if I agree to get you a 'not guilty' verdict at trial, you promise to tell me how to get into this secret passage that will lead me straight into Camelot?"
+    },
+    {
+      "character": "Anna",
+      "line": "Yes! Exactly. So, what do you say?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I guess I don't have much of a choice. I'll go start gathering evidence."
+    },
+    {
+      "character": "Anna",
+      "line": "Try speaking to the servants at the Mansion. They'll probably be able to give you useful testimony."
+    },
+    {
+      "character": "Anna",
+      "line": "Wait, take this."
+    },
+    {
+      "character": "Anna",
+      "line": "You can use it as evidence."
+    },
+    {
+      "character": "Player",
+      "line": "Of what, your guilt?"
+    },
+    {
+      "character": "Anna",
+      "line": "No, show it to the servants. You'll find one of my siblings wears similar colours."
+    },
+    {
+      "character": "Player",
+      "line": "No, thank you."
+    },
+    {
+      "character": "Anna",
+      "line": "Have you made any progress?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it. It's not exactly easy to unprove something that's true."
+    },
+    {
+      "character": "Player",
+      "line": "I need a piece of thread from the clothes you wore the night of the murder."
+    },
+    {
+      "character": "Anna",
+      "line": "Whatever for?"
+    },
+    {
+      "character": "Player",
+      "line": "I might need to show it to people when I ask them questions about the murder. It's evidence in the case."
+    },
+    {
+      "character": "Gossip",
+      "line": "I hear you're the defence lawyer for Anna, now."
+    },
+    {
+      "character": "Player",
+      "line": "How can you possibly know that already?"
+    },
+    {
+      "character": "Gossip",
+      "line": "I'm the town gossip, I'm supposed to know this stuff. Are you preparing for the trial?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm going to talk to the servants and see if I can learn anything new from them...but other than that, I don't really know what I'm doing."
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, my father was in the guards and he attended many trials. As a defence lawyer you need to disprove any evidence presented by the prosecution. Disproving it gives reasonable doubt as to whether or not your"
+    },
+    {
+      "character": "Gossip",
+      "line": "client actually committed the crime."
+    },
+    {
+      "character": "Player",
+      "line": "But how do I know what evidence will be presented?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Some of it will be the evidence you found: the dagger, the poison and the thread. There was also an eyewitness saying they saw Anna tamper with Lord Sinclair's dinner. Start asking questions about those things and"
+    },
+    {
+      "character": "Gossip",
+      "line": "see where you get."
+    },
+    {
+      "character": "Player",
+      "line": "I'm representing Anna Sinclair as a defence lawyer."
+    },
+    {
+      "character": "Guard",
+      "line": "Ha, ha, ha. That's a good one. Whoo, I needed a laugh."
+    },
+    {
+      "character": "Player",
+      "line": "Err, I'm not joking. I have to prove she is innocent."
+    },
+    {
+      "character": "Guard",
+      "line": "WHAT?"
+    },
+    {
+      "character": "Guard",
+      "line": "But the proof against her is conclusive. Someone saw her tamper with Sinclair's dinner!"
+    },
+    {
+      "character": "Player",
+      "line": "One of her siblings claims to have seen that, but who can say if they're telling the truth?"
+    },
+    {
+      "character": "Player",
+      "line": "Besides, it's for King Arthur. Anna is the only lead I have on how to find the King and his knights."
+    },
+    {
+      "character": "Guard",
+      "line": "This is a sad, sad day. I can't stop you from doing it, but I wish with all my heart you wouldn't. You'll be aiding a murderer."
+    },
+    {
+      "character": "Player",
+      "line": "I'm representing Anna Sinclair as her defence lawyer. I need to ask you some questions about what happened the night of Lord Sinclair's murder."
+    },
+    {
+      "character": "Pierre",
+      "line": "Dang, that's too bad for you. Isn't it a bit of conflict of interest, considering you were part of the investigation that proved she was guilty?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, anyways, I need to ask you some questions."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the night of the murder?"
+    },
+    {
+      "character": "Pierre",
+      "line": "I fed the dog and went to the inn in town. When I got back the guards were all over the place."
+    },
+    {
+      "character": "Player",
+      "line": "Where did you last see Anna Sinclair on that fateful night?"
+    },
+    {
+      "character": "Pierre",
+      "line": "Didn't see any of the family. I was outdoors most of the evening, tending to things, then went to town."
+    },
+    {
+      "character": "Player",
+      "line": "Did you ever see Anna in possession of the dagger that was found embedded in Lord Sinclair's body?"
+    },
+    {
+      "character": "Pierre",
+      "line": "That dagger? I think Lord Sinclair kept it in the library. It was only decorative, so never paid much attention to it."
+    },
+    {
+      "character": "Player",
+      "line": "So, any of the family or servants would have had access to it."
+    },
+    {
+      "character": "Pierre",
+      "line": "Yes, I suppose they would."
+    },
+    {
+      "character": "Player",
+      "line": "Err, I seem to have forgotten the thread I was going to show you. I'll need to get it from Anna Sinclair at the jail."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me which Sinclair family member this thread belongs to?"
+    },
+    {
+      "character": "Pierre",
+      "line": "I'm not sure; it could be Anna's or David's."
+    },
+    {
+      "character": "Player",
+      "line": "So, you can't identify the owner of the thread for certain?"
+    },
+    {
+      "character": "Pierre",
+      "line": "I can't."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the poison?"
+    },
+    {
+      "character": "Pierre",
+      "line": "The poison salesman came around the mansion and practically everyone bought some."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me exactly who bought poison from him?"
+    },
+    {
+      "character": "Pierre",
+      "line": "Each of the Sinclair kids did. They all had chores they were meant to do. I had a chat with that salesman. Whoo, you any idea how strong that stuff was? Just a small amount would be enough to kill a cow."
+    },
+    {
+      "character": "Player",
+      "line": "So, you're completely certain all of the Sinclair children bought poison? And it would only have needed a small portion to kill Lord Sinclair."
+    },
+    {
+      "character": "Pierre",
+      "line": "Yup, that's what the poison salesman said. I had a chat with him at the pub."
+    },
+    {
+      "character": "Player",
+      "line": "That means someone could have used a small amount to frame Anna and still have done their chore. That's great news."
+    },
+    {
+      "character": "Stanford",
+      "line": "Why in Gielinor would you want to do that? That's a lost cause if I ever heard one."
+    },
+    {
+      "character": "Player",
+      "line": "I know, I know, but circumstances... Well, I just need to ask you some questions, alright?"
+    },
+    {
+      "character": "Stanford",
+      "line": "Not all that much. I worked out here 'til late. I was getting ready to come in for dinner when all the commotion started."
+    },
+    {
+      "character": "Stanford",
+      "line": "She must have been in the house, since I didn't see her out here."
+    },
+    {
+      "character": "Player",
+      "line": "Didn't you hear the glass breaking when the window was smashed by the murderer?"
+    },
+    {
+      "character": "Stanford",
+      "line": "No, I was on this side of the garden and you can't hear much but the dog from over here."
+    },
+    {
+      "character": "Player",
+      "line": "Was the dog barking that night?"
+    },
+    {
+      "character": "Stanford",
+      "line": "No."
+    },
+    {
+      "character": "Stanford",
+      "line": "Hmm, not that I can remember. It was kept on display as some sort of replica of a great weapon. I'm not much good at history so I can't remember any details."
+    },
+    {
+      "character": "Player",
+      "line": "Did you see anyone else handle the dagger?"
+    },
+    {
+      "character": "Stanford",
+      "line": "I think the maid may have dusted it, but I don't really know, I work outside."
+    },
+    {
+      "character": "Stanford",
+      "line": "I'm not sure; it could be Anna's or David's."
+    },
+    {
+      "character": "Stanford",
+      "line": "This salesman came around selling this poison that could fix anything. I think most everyone bought some to use for chores around the mansion."
+    },
+    {
+      "character": "Player",
+      "line": "Did you buy any?"
+    },
+    {
+      "character": "Stanford",
+      "line": "No, but I requested one of the Sinclairs buy some to use on the compost. I can't remember if they did or not."
+    },
+    {
+      "character": "Player",
+      "line": "Did Anna Sinclair buy any poison?"
+    },
+    {
+      "character": "Stanford",
+      "line": "Yes, she did. I definitely remember seeing her buying some. I'm pretty sure she didn't use it for her chore either."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear. That's not good."
+    },
+    {
+      "character": "Hobbes",
+      "line": "Didn't you already ask me questions about this? You were investigating the case and got all that evidence. Besides, Anna was proven guilty - by one of her own siblings."
+    },
+    {
+      "character": "Player",
+      "line": "Errr, well, circumstances have changed. Anyway, I need to ask you some questions."
+    },
+    {
+      "character": "Hobbes",
+      "line": "I was tidying the bedrooms most of the afternoon and then assisted Louisa in the kitchen, preparing dinner. I gave Lord Sinclair's dinner to Mary, and shortly there after heard her screaming."
+    },
+    {
+      "character": "Hobbes",
+      "line": "I'm afraid I didn't see her. I didn't meet anyone when I walked from the bedrooms to the kitchen."
+    },
+    {
+      "character": "Hobbes",
+      "line": "No, I only saw Lord Sinclair handle it."
+    },
+    {
+      "character": "Player",
+      "line": "No one else ever touched it?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "Well, now that you have me thinking about it, I believe I saw David handle it once. I'm not really sure what he was doing with it, but I do remember him looking at it."
+    },
+    {
+      "character": "Player",
+      "line": "That's wonderful? Why didn't you mention it before? It means it could have been planted to make it seem like Anna did it."
+    },
+    {
+      "character": "Hobbes",
+      "line": "I'm not sure; it could be Anna's or David's."
+    },
+    {
+      "character": "Player",
+      "line": "So, you can't identify the owner of the thread, for certain?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "There were various chores around the house that required poison."
+    },
+    {
+      "character": "Player",
+      "line": "Do you remember who bought poison?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "I personally did not; I do not know about the others."
+    },
+    {
+      "character": "Louisa",
+      "line": "About the murder? Well, there's not much to tell, honestly."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry to trouble you, but I really need some answers."
+    },
+    {
+      "character": "Louisa",
+      "line": "I was with Hobbes the butler and Mary the maid in the kitchen. We were preparing dinner. I gave Mary Lord Sinclair's meal and sent her on her way."
+    },
+    {
+      "character": "Player",
+      "line": "So, you didn't see Mary deliver the food to Lord Sinclair?"
+    },
+    {
+      "character": "Louisa",
+      "line": "Of course not. I was here cooking, she was taking the meal to him. That's when she found the body."
+    },
+    {
+      "character": "Player",
+      "line": "Then someone could have tampered with the meal while she was on the way?"
+    },
+    {
+      "character": "Louisa",
+      "line": "I can't imagine how. Mary carries the meal right in front of her the entire way!"
+    },
+    {
+      "character": "Louisa",
+      "line": "But now that you mention it, I do remember seeing Anna Sinclair hanging about the kitchen earlier that day. She looked a bit shifty."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, right. That doesn't bode well."
+    },
+    {
+      "character": "Louisa",
+      "line": "I was in the kitchen almost all day, but I did see her just before I began cooking the evening meal. She was wandering aimlessly. So, I snapped at her to get out of the way."
+    },
+    {
+      "character": "Player",
+      "line": "What did she do then?"
+    },
+    {
+      "character": "Louisa",
+      "line": "Stuck her tongue out at me and wandered away. Useless girl."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that's not very conclusive."
+    },
+    {
+      "character": "Louisa",
+      "line": "Not that I can remember. None of the children seemed to pay any attention to it, as it was just a replica and not worth anything."
+    },
+    {
+      "character": "Player",
+      "line": "Did you see anyone else in possession of it?"
+    },
+    {
+      "character": "Louisa",
+      "line": "I suppose Mary dusted it now and then, but I think it just sat on one of the bookshelves."
+    },
+    {
+      "character": "Louisa",
+      "line": "It could be Anna's or David's."
+    },
+    {
+      "character": "Louisa",
+      "line": "I'm afraid not."
+    },
+    {
+      "character": "Louisa",
+      "line": "I told Carol to buy some for the drains. I haven't a clue if she actually did or not, she rarely paid me any heed."
+    },
+    {
+      "character": "Player",
+      "line": "Who else bought poison?"
+    },
+    {
+      "character": "Louisa",
+      "line": "I don't know. The Sinclairs were so stingy about money that I'm surprised any of them bought some."
+    },
+    {
+      "character": "Mary",
+      "line": "I don't like talking about that night. I still have nightmares about it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry to put you through it again, but I really have to get some answers."
+    },
+    {
+      "character": "Mary",
+      "line": "What an awful night. It started out normally, I was in the kitchen with Hobbes and Louisa, helping with dinner. They gave me Lord Sinclair's meal. I went to deliver it and I found him..."
+    },
+    {
+      "character": "Player",
+      "line": "There, there. I don't need you to tell me any more of that. What about on the way to the study? Did you see Anna?"
+    },
+    {
+      "character": "Mary",
+      "line": "No, I didn't pass Anna, I'm sure of that. I think I passed one of the other young Sinclairs though. A man."
+    },
+    {
+      "character": "Player",
+      "line": "Really? So, you can't place Anna at the murder scene, but there was a man there? David, Bob or Frank?"
+    },
+    {
+      "character": "Mary",
+      "line": "I can't remember. I just remember it being a man."
+    },
+    {
+      "character": "Player",
+      "line": "That's great news."
+    },
+    {
+      "character": "Mary",
+      "line": "I was cleaning the library. I saw her come into the room."
+    },
+    {
+      "character": "Player",
+      "line": "What was she doing?"
+    },
+    {
+      "character": "Mary",
+      "line": "Nothing really, just wandering."
+    },
+    {
+      "character": "Player",
+      "line": "She wasn't acting suspicious?"
+    },
+    {
+      "character": "Mary",
+      "line": "No, nothing like that."
+    },
+    {
+      "character": "Player",
+      "line": "Did you see her anywhere near the scene of the murder?"
+    },
+    {
+      "character": "Mary",
+      "line": "No, I never did. And I walked from the kitchen to Lord Sinclair's room, so I would have."
+    },
+    {
+      "character": "Player",
+      "line": "Very interesting. That's very helpful."
+    },
+    {
+      "character": "Mary",
+      "line": "Not that I can think of."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure?"
+    },
+    {
+      "character": "Mary",
+      "line": "Not really. I can't remember who handled it, if anyone."
+    },
+    {
+      "character": "Mary",
+      "line": "Hmm, it could be Anna's or David's."
+    },
+    {
+      "character": "Mary",
+      "line": "I can't."
+    },
+    {
+      "character": "Mary",
+      "line": "Nothing, really. I didn't buy any."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know who did?"
+    },
+    {
+      "character": "Mary",
+      "line": "No, I was upstairs cleaning when the salesman came by, so I didn't know until after he left that he'd been here."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "But she was proven guilty! There was even evidence."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I have my doubts."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "I went to bed early as I'd been up very early fixing some garden equipment."
+    },
+    {
+      "character": "Player",
+      "line": "So, you didn't see or hear anything unusual?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "No, I'm a very heavy sleeper. I didn't even hear the maid scream when she found the body. Louisa, the cook, had to come wake me."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Let's see. I'd finished up early for the day and was heading to bed. I can't remember seeing any one on my way there."
+    },
+    {
+      "character": "Player",
+      "line": "Are you certain?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Pretty certain. I usually tried to avoid being near any of the Sinclairs."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Hmm, I seem to remember her looking at it a few days before the murder."
+    },
+    {
+      "character": "Player",
+      "line": "Really? That's not good. Not good at all."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "I'm not sure; it could be Anna's or David's."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "I can't."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Nothing much. I didn't buy any and I don't remember who did."
+    },
+    {
+      "character": "Player",
+      "line": "You're certain you don't remember anything?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Yup, I don't pay heed to salesmen, they're a dodgy lot."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, I think I'll gather more evidence, first."
+    },
+    {
+      "character": "The judge",
+      "line": "This court is now in session."
+    },
+    {
+      "character": "The judge",
+      "line": "This trial is to determine the guilt or innocence of Anna Sinclair for the murder of Lord Sinclair."
+    },
+    {
+      "character": "The judge",
+      "line": "Is the prosecution ready?"
+    },
+    {
+      "character": "Prosecutor",
+      "line": "The prosecution is ready, Your Honour."
+    },
+    {
+      "character": "The judge",
+      "line": "Is the defence ready?"
+    },
+    {
+      "character": "Player",
+      "line": "The defence is ready, Your Honour."
+    },
+    {
+      "character": "The judge",
+      "line": "Very well. The prosecution may present its case."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Thank you, Your Honour."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Members of the jury, I am going to present you with evidence that decisively proves Anna Sinclair is a murderer."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "First, the dagger. The dagger was found stabbed into Lord Sinclair's body; it has the fingerprints of Anna Sinclair all over it."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Second, the thread. This thread was found at the scene of the crime; it matches Anna Sinclair's clothes."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Last, but certainly not least, the poison that actually killed Lord Sinclair; it was found at the scene of the crime and had been bought by the defendant. Members of the jury, this woman is guilty."
+    },
+    {
+      "character": "The judge",
+      "line": "Thank you, prosecutor."
+    },
+    {
+      "character": "The judge",
+      "line": "Defence, as this is your first time in court, I'm going to explain how we do things around here."
+    },
+    {
+      "character": "The judge",
+      "line": "You may call for a recess at any time by leaving through the gate behind you. You'll have to start the trial over when you return. You may call witnesses by speaking to me. When you are finished with a witness"
+    },
+    {
+      "character": "The judge",
+      "line": "simply speak to me and call the next one."
+    },
+    {
+      "character": "The judge",
+      "line": "Your job is to disprove the evidence presented by the prosecution by having your witnesses testify. If you need to hear the prosecution's case again, just speak to him. Let's begin."
+    },
+    {
+      "character": "The judge",
+      "line": "Who would you like to call as a witness?"
+    },
+    {
+      "character": "Player",
+      "line": "The defence calls the Sinclairs' handyman."
+    },
+    {
+      "character": "Player",
+      "line": "The defence calls the Sinclairs' dog handler."
+    },
+    {
+      "character": "Player",
+      "line": "The defence calls the Sinclairs' butler."
+    },
+    {
+      "character": "Player",
+      "line": "The defence calls the Sinclairs' maid."
+    },
+    {
+      "character": "Player",
+      "line": "What's your name and occupation?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "Hobbes; I am the butler."
+    },
+    {
+      "character": "Hobbes",
+      "line": "No, I only saw Lord Sinclair handle it. It was on display in the library."
+    },
+    {
+      "character": "Hobbes",
+      "line": "Well, now that you have me thinking about it, I believe I saw Frank handle it once. I'm not really sure what he was doing with it, but I do remember him looking at it."
+    },
+    {
+      "character": "Player",
+      "line": "You are saying that you saw someone other than Anna handle the dagger?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "Yes, I am."
+    },
+    {
+      "character": "Player",
+      "line": "Not only has a person other than my client been identified handling the weapon, but the dagger was within easy access to anyone in the household."
+    },
+    {
+      "character": "Player",
+      "line": "My client's fingerprints could have been planted on it by another party."
+    },
+    {
+      "character": "The judge",
+      "line": "Order! ORDER!"
+    },
+    {
+      "character": "Donovan",
+      "line": "Donovan; I'm the handyman."
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell us who this thread belongs to?"
+    },
+    {
+      "character": "Donovan",
+      "line": "That thread could be Anna's or David's; they always seemed to be wearing that colour."
+    },
+    {
+      "character": "Player",
+      "line": "So, you can't say for certain who this thread belongs to."
+    },
+    {
+      "character": "Donovan",
+      "line": "No, sorry, I can't."
+    },
+    {
+      "character": "Player",
+      "line": "Then this thread could have come from either of Anna or David's clothes, and they had many of this colour. A fact that would be known to anyone of the household."
+    },
+    {
+      "character": "Donovan",
+      "line": "Sure, anybody would have seen that."
+    },
+    {
+      "character": "Player",
+      "line": "Then the thread could have been planted by someone else to throw suspicion on my client. I think we can all see this thread is very questionable evidence."
+    },
+    {
+      "character": "Pierre",
+      "line": "Pierre; I'm the dog handler."
+    },
+    {
+      "character": "Pierre",
+      "line": "Each of the Sinclair kids did; they all had chores they were meant to do. I had a chat with that salesman. Whoo-boy, you any idea how strong that stuff was? Just a small amount would be enough to kill a cow."
+    },
+    {
+      "character": "Player",
+      "line": "So, only a small amount of poison would be enough to kill a man, I suppose?"
+    },
+    {
+      "character": "Pierre",
+      "line": "Yeah, I s'pose it would."
+    },
+    {
+      "character": "Player",
+      "line": "Therefore, any one of the Sinclairs who bought poison could have done their chore and poisoned Lord Sinclair as well. Just because my client was too lazy to do her chore doesn't mean she poisoned Lord Sinclair."
+    },
+    {
+      "character": "Mary",
+      "line": "Mary; I'm the maid."
+    },
+    {
+      "character": "Player",
+      "line": "Where did you last see Anna on that fateful night?"
+    },
+    {
+      "character": "Mary",
+      "line": "I was in the kitchen with Hobbes and Louisa, helping with dinner. They gave me Lord Sinclair's meal. I went to deliver it and I found him..."
+    },
+    {
+      "character": "Player",
+      "line": "What about on the way to the study? Did you see Anna?"
+    },
+    {
+      "character": "Mary",
+      "line": "No, I didn't pass Anna, I'm sure of that. I think I passed one of the other young Sinclairs, though. A man."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed. Well, if my client can't be placed at the murder scene, and there is evidence that a man was there, I think it casts a great deal of doubt on the case."
+    },
+    {
+      "character": "The judge",
+      "line": "I believe we've heard enough."
+    },
+    {
+      "character": "The judge",
+      "line": "Would the jury please pronounce their verdict?"
+    },
+    {
+      "character": "The judge",
+      "line": "Very well. Anna Sinclair, you are hereby declared 'not guilty' by a jury of your peers. You are free to go."
+    },
+    {
+      "character": "Anna",
+      "line": "I can't believe you did it. I'm free!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but what about our deal?"
+    },
+    {
+      "character": "Anna",
+      "line": "Shhh. Don't talk about that here! The guards are going to take me back to my cell for paperwork. Meet me there and I'll explain how to get into Camelot."
+    },
+    {
+      "character": "Player",
+      "line": "What's with the balloons?"
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Ah, the court house was built over the Party Room..."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Balloons we can handle, it's when those dancing knights show up that it gets troublesome."
+    },
+    {
+      "character": "Player",
+      "line": "Well, being an attorney was an interesting experience."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "Those were some dirty tricks you played. Your so- called 'proof' doesn't hold up under any scrutiny."
+    },
+    {
+      "character": "Player",
+      "line": "I know, but I needed to get a 'not guilty' verdict."
+    },
+    {
+      "character": "Prosecutor",
+      "line": "You've let a cold-blooded murderer go free. I hope the guilt eats away at you."
+    },
+    {
+      "character": "The judge",
+      "line": "Ah, the court house was built over the Party Room..."
+    },
+    {
+      "character": "The judge",
+      "line": "Balloons we can handle, it's when those dancing knights show up that it gets troublesome."
+    },
+    {
+      "character": "The judge",
+      "line": "That was a well presented case. Court is now over, so you may leave when you like."
+    },
+    {
+      "character": "Player",
+      "line": "Can I speak to my client?"
+    },
+    {
+      "character": "The judge",
+      "line": "Of course. You can speak to them here or back at the jail cell. They'll be released later today after some paperwork gets filled out."
+    },
+    {
+      "character": "Anna",
+      "line": "I can't believe such an incompetent fool as you managed to prove me innocent."
+    },
+    {
+      "character": "Player",
+      "line": "You need to hold up your end of the bargain. Tell me how to get into Camelot or I go back to the judge and tell him I have doubts about your innocence."
+    },
+    {
+      "character": "Anna",
+      "line": "You are demanding for a peasant, aren't you. Walk around the edge of Camelot towards the back of the castle. From the hedges, you should be able to see the garden temple. There's a statue back there, if you pull"
+    },
+    {
+      "character": "Anna",
+      "line": "the arm a secret entrance will appear. Go inside and it will take you straight into Camelot."
+    },
+    {
+      "character": "Player",
+      "line": "What are you going to be doing? Aren't you coming with me?"
+    },
+    {
+      "character": "Anna",
+      "line": "I have to sign some paper work before I can leave here. Besides, the last thing I want to do is go hang out with my family. I'm sure you can manage this on your own."
+    },
+    {
+      "character": "Player",
+      "line": "Riiight."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get into Camelot again?"
+    },
+    {
+      "character": "Anna",
+      "line": "Walk around the edge of Camelot towards the back of the castle. From the hedges, you should be able to see the garden temple. There's a statue back there, if you pull the arm a secret entrance will appear. Go inside"
+    },
+    {
+      "character": "Anna",
+      "line": "and it will take you straight into Camelot."
+    },
+    {
+      "character": "Anna",
+      "line": "You see, I told you that adventurer would turn up. He believed my every word."
+    },
+    {
+      "character": "David",
+      "line": "Well done, sibling. I knew you'd manage to get a 'not guilty' verdict, but to lure this cretin here as well..."
+    },
+    {
+      "character": "David",
+      "line": "What can I say, I'm impressed."
+    },
+    {
+      "character": "Anna",
+      "line": "Why thank you. What are we going to do with him now?"
+    },
+    {
+      "character": "Anna",
+      "line": "Enough! I'm sick of having to listen to your drivel."
+    },
+    {
+      "character": "Anna",
+      "line": "Do you think 'she' would want to see him?"
+    },
+    {
+      "character": "David",
+      "line": "Most definitely. Have someone go and fetch her."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "I hear you have something of interest to me."
+    },
+    {
+      "character": "Anna",
+      "line": "Yes, my lady. The meddling adventurer who helped King Arthur in the past."
+    },
+    {
+      "character": "Player",
+      "line": "I knew it. I knew Morgan Le Faye had to be involved. Where is King Arthur and his knights? What have you done with them?"
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "Oh, they are quite safe. You'll be seeing them soon, although not Arthur. He's a bit...busy at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "I'll foil your plans Morgan, just like I always do. I won't let you win. Good alwa-"
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "I'm tired of this."
+    },
+    {
+      "character": "Player",
+      "line": "I should speak to Merlin first."
+    },
+    {
+      "character": "Player",
+      "line": "How did you let a bunch of Black Knights get the better of you? I thought you guys were the toughest knights around."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "We are true knights who fight for honour. Those Black Knights didn't fight fair, so we were unprepared. Most unchivalrous of them."
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "Isn't it terrible what happened to King Arthur? He was turned to stone before my eyes! I have failed him, I am not worthy of being his knight. To allow such lowlifes to take Camelot right from under our noses... It's unforgivable."
+    },
+    {
+      "character": "Player",
+      "line": "Buck up, man. We'll escape from here and set everything to right."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "I will wreak havoc upon those worthless Sinclairs. Betraying their father's wishes like that, it's despicable."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "I could have taken all of them on! Those Black Knights wouldn't stand a chance against me, the greatest knight in the land."
+    },
+    {
+      "character": "Player",
+      "line": "Then why are you in this jail?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "They attacked while I was in the bath. What was I to do?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "Hey, are you laughing at me, the greatest knight in the land?"
+    },
+    {
+      "character": "Player",
+      "line": "Huh, oh no. I wouldn't laugh at the greatest knight in the land."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "Please, don't ask me any questions. I am still too upset from our defeat at the hands of those treacherous Sinclairs."
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "Greetings, brave knight. I believe you should speak to Merlin, he probably has need of your assistance."
+    },
+    {
+      "character": "Merlin",
+      "line": "Oh dear, did Morgan capture you too?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, no. It was all part of my brilliant plan. I allowed her to capture me so I could find out where she was keeping all of you."
+    },
+    {
+      "character": "Merlin",
+      "line": "Eh, is that so? Very clever. Now that you've found us, what is your plan, oh brilliant leader?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, why do I have to do all the thinking here? You're the brilliant wizard."
+    },
+    {
+      "character": "Merlin",
+      "line": "Well, all great plans start with knowledge. Let me bring you up to speed with the situation. What do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Where is King Arthur now? He's not in the jail cell with us."
+    },
+    {
+      "character": "Merlin",
+      "line": "As the final blow to our morale, Morgan turned Arthur into a granite statue before our very eyes. He was taken away by the Black Knights, for what purposes I know not."
+    },
+    {
+      "character": "Player",
+      "line": "What is the connection between Morgan Le Faye and the Sinclairs?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Morgan Le Faye has been itching to get revenge upon Arthur and myself for some time. When she heard of the murder of old Sinclair, she learned she was not the only one with a vendetta against Camelot."
+    },
+    {
+      "character": "Merlin",
+      "line": "The Sinclairs have wanted to get their slimy hands on Camelot since their father's death. With Morgan's cunning and their riches, they make a formidable team. They bought the services of the Black Knights from"
+    },
+    {
+      "character": "Merlin",
+      "line": "Lord Daquarius and overran Camelot. We were outnumbered and taken by surprise."
+    },
+    {
+      "character": "Merlin",
+      "line": "The Sinclairs stole our home, but Morgan struck the greater blow by stealing the Holy Grail, Arthur's most prized possession."
+    },
+    {
+      "character": "Player",
+      "line": "So what's the plan of escape? Are you going to teleport us all away? Turn us into fish and swim to sea?"
+    },
+    {
+      "character": "Merlin",
+      "line": "During the battle at Camelot, Morgan cast a spell against me which appears to have stripped me of my powers. I must admit, the loss of my magic has left me befuddled, making it difficult to create a plan."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm sure if we put our heads together we will think of something."
+    },
+    {
+      "character": "Player",
+      "line": "Let's talk about a plan of escape."
+    },
+    {
+      "character": "Merlin",
+      "line": "Escape is only a short-term plan. We should discuss the long-term goals as well."
+    },
+    {
+      "character": "Player",
+      "line": "How will we go about reclaiming Camelot?"
+    },
+    {
+      "character": "Merlin",
+      "line": "I think I could reclaim Camelot from the Sinclairs on my own."
+    },
+    {
+      "character": "Player",
+      "line": "How do you plan to do that? You couldn't even defend it from them."
+    },
+    {
+      "character": "Merlin",
+      "line": "They don't know I've lost my magic. Besides, I've got a few tricks up my sleeves. For all their snobberies, they're still just spoiled brats. It shouldn't be difficult, but time is of the essence. I need you to break me out"
+    },
+    {
+      "character": "Merlin",
+      "line": "of here quickly and quietly, so Morgan cannot alert them."
+    },
+    {
+      "character": "Player",
+      "line": "So to reclaim Camelot, I need to break you out of jail quietly."
+    },
+    {
+      "character": "Merlin",
+      "line": "Precisely."
+    },
+    {
+      "character": "Player",
+      "line": "How do I retrieve the Holy Grail? Do you know where it is?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Morgan always keeps things of power near her. So the Grail will be somewhere in Keep Le Faye. However, it will most likely be disguised and booby-trapped. Morgan has a thing about transmogrifying."
+    },
+    {
+      "character": "Player",
+      "line": "The last time I was in Keep Le Faye, it was pretty well guarded. I don't think I'll be able to sneak in quietly."
+    },
+    {
+      "character": "Merlin",
+      "line": "No, that won't work. Better to break out of the jail with all of the Round Table Knights. Let them deal with the guards while you retrieve the Grail."
+    },
+    {
+      "character": "Player",
+      "line": "So, I need to break eight knights out of jail? That could be troublesome."
+    },
+    {
+      "character": "Merlin",
+      "line": "Often the most complicated things have the simplest answers. Try leaving through the door."
+    },
+    {
+      "character": "Player",
+      "line": "But it's locked."
+    },
+    {
+      "character": "Merlin",
+      "line": "When has that ever stopped an intrepid adventurer such as yourself?"
+    },
+    {
+      "character": "Player",
+      "line": "Assuming I can escape from this jail, how can I save King Arthur?"
+    },
+    {
+      "character": "Merlin",
+      "line": "I believe he's been taken to the headquarters of the Black Knights. I'm afraid I'm not well travelled on that side of the world, so I don't know its exact location. However, it's trickier than just finding Arthur. You'll"
+    },
+    {
+      "character": "Merlin",
+      "line": "need to free him of the spell that turned him into a granite statue."
+    },
+    {
+      "character": "Player",
+      "line": "And how do I go about doing that?"
+    },
+    {
+      "character": "Merlin",
+      "line": "I have no idea."
+    },
+    {
+      "character": "Merlin",
+      "line": "Let me finish. I may have no idea, but a wizard friend of mine should. His name is Wizard Cromperty, and he's very experienced in freeing people from stone since he keeps teleporting them into it. Speak to him in East"
+    },
+    {
+      "character": "Merlin",
+      "line": "Ardougne, he'll help you."
+    },
+    {
+      "character": "Player",
+      "line": "Any thoughts on how we could escape?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "No, but when we do, I'm going to make those Black Knights black and blue all over."
+    },
+    {
+      "character": "Player",
+      "line": "Have you had any brilliant ideas on how to get out of here?"
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "You usually leave rooms through doors, but this one is locked."
+    },
+    {
+      "character": "Player",
+      "line": "Any thoughts on how we can get out of this cell?"
+    },
+    {
+      "character": "Sir Kay",
+      "line": "I saw a grate high up on the wall of the cell. I think someone could slip through that, but I'm not sure how they would reach it."
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "I have great faith that you will lead us to victory. But first we must win the battle, then worry about the war. If you require my assistance in escaping from this wretched cell, please tell me."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, I will let you know."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas..."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "Please, no questions. I am in mourning for our King."
+    },
+    {
+      "character": "Player",
+      "line": "Any thoughts on how we could break out of this cell?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "Well, I would have thought picking the lock was really the best way, but I don't have the knowledge or tools to do it."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on how to get out of this cell?"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "Sir Kay and I noticed a grate high up on the wall that leads to the small docks at the back of the keep, but it's too high up to reach and we couldn't figure out a way to boost our height."
+    },
+    {
+      "character": "Player",
+      "line": "We don't have a ladder...but we do have a lot of knights."
+    },
+    {
+      "character": "Player",
+      "line": "Hey guys! I've got an idea..."
+    },
+    {
+      "character": "Player",
+      "line": "Hey guys, do you think you could lift me out too? I need to run some errands. I'll come back and free you all as soon as I can!"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure yet. Have you got any useful objects in your pockets?"
+    },
+    {
+      "character": "Player",
+      "line": "Pie? How very useful to our cause."
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Player",
+      "line": "We need to get through the cell door, but I haven't got anything to open it. Have you got any useful objects in your pockets?"
+    },
+    {
+      "character": "Player",
+      "line": "Great, these will be a huge help."
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Player",
+      "line": "Gee, thanks. You've contributed so much to my plan."
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it. Have you got any useful objects in your pockets?"
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "I'm sorry, I don't have any pockets."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "I'm afraid not. I didn't have anything with me when we were captured."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for inspiration. Have you got any useful objects in your pockets?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks... I think."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Player",
+      "line": "The quickest way is through the cell door, but I don't have anything to pick the lock with. Have you got any useful objects in your pockets?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, thanks."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "How are you going to get all of us out of here?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Need a hand?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "No, my revenge will be my own. You must retrieve the Holy Grail!"
+    },
+    {
+      "character": "Player",
+      "line": "WHOO! Get 'em! Show no mercy."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "They shall pay for what they have done."
+    },
+    {
+      "character": "Player",
+      "line": "Give me an R. Give me an O. Give me a U..."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "In the amount of time it will take you to spell out Round Table Knights, you could have found the Grail."
+    },
+    {
+      "character": "Player",
+      "line": "Give him a right hook!"
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "How would I do that when I'm holding a sword? Leave me to the fighting, you find the Holy Grail!"
+    },
+    {
+      "character": "Player",
+      "line": "You guys deal with the guards, I'll get the Holy Grail"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "Consider it done."
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "DIE SCUM!"
+    },
+    {
+      "character": "Player",
+      "line": "How's it going, Sir Lancelot?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "How dare you attempt to imprison the greatest knight in the land? Have at thee!"
+    },
+    {
+      "character": "Renegade Knight",
+      "line": "Please! Stop the hurting!"
+    },
+    {
+      "character": "Player",
+      "line": "Show them what for!"
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "What for what?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "I'll make them pay for what they've done to King Arhtur."
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "I fear we may never escape this dank dungeon."
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "How could this have happened to us?"
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "1,001, 1,002, 1,003..."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "How could this have happened to us?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "Sad is the day when the Round Table Knights fail their King."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "I shall avenge Arthur for this misdeed!"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "Let me out! Let me out, I say!"
+    },
+    {
+      "character": "Player",
+      "line": "Now I just need to get out of here and see Wizard Cromperty."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Hello there. My name is Cromperty. I am a wizard, and an inventor."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "You must be. My good friend Sedridor has told me about you. As both wizard and inventor, he has aided me in my great invention!"
+    },
+    {
+      "character": "Player",
+      "line": "Wizard Cromperty! Merlin sent me. King Arthur has been kidnapped and turned into a granite statue."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Why would he want to be a statue?"
+    },
+    {
+      "character": "Player",
+      "line": "He didn't WANT to be a statue. Morgan Le Faye turned him into one."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh yes, I see now. Why are you telling me all this?"
+    },
+    {
+      "character": "Player",
+      "line": "Merlin said you might know how to free King Arthur."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh, well, I don't know anything about rocks. I'm a teleportation expert, myself. But there was this one time I teleported a girl right into a rock. What a mess that was."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Wizard Cromperty, I remember, I was there."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh were you? Of course you were. Well, I suppose being turned into a statue is very similar to being teleported into a rock. Let me see what we'll need."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "If my calculations are correct, this spell will need a bit more 'oomph' than last time around."
+    },
+    {
+      "character": "Player",
+      "line": "Why is that?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Well, before you were simply reanimating the person within the rock. This time you need to unravel Morgan Le Faye's spell first."
+    },
+    {
+      "character": "Player",
+      "line": "How do I do that?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "You'll need King Arthur's most prized possession. That will unravel Morgan's spell. Then you'll need a piece of granite, the same rock Arthur was turned into."
+    },
+    {
+      "character": "Player",
+      "line": "That's not so difficult. I already have the Holy Grail, King Arthur's most prized possession, and I know he was turned into a granite statue."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Let me just get that spell scroll for you..."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh, it looks like you still have the scroll I gave you."
+    },
+    {
+      "character": "Player",
+      "line": "So what do I do with this spell?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Take the scroll, the Holy Grail and a piece of granite, any amount will do, to the statue of King Arthur. Once in front of him, read the scroll and the magic should do the rest."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Where is King Arthur being kept, anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "Merlin suspects King Arthur had been taken to the Black Knights' Fortress. The last time I was there I needed to disguise myself in a bronze medium helm and an iron chainbody just to get past the door."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Well, that should still get you into the fortress, but I imagine you'll need a better disguise than that to reach King Arthur. He's a very important person and will be well guarded by the Black Knights."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Don't underestimate them."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, Wizard Cromperty!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Hmm...I wonder...if you used a magical object that turned you into stone on the statue, would it turn him back to being human? I must research that..."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh, are you still here? Go on then, you've got a king to save!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Wizard Cromperty."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Why hello, Rautapets, what can I do for you?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "There you go."
+    },
+    {
+      "character": "Player",
+      "line": "What did I need for the spell to work?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Take the scroll, the Holy Grail and a piece of granite, of any size, shape or weight, to the statue of King Arthur. Once in front of him, read the scroll and the magic should do the rest."
+    },
+    {
+      "character": "Player",
+      "line": "How do I get into the Black Knights' Fortress?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "How should I know, I'm just a simple wizard."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "However, from what you said about having to wear a helm and chainmail, it sounds like you were disguised as a mere guard."
+    },
+    {
+      "character": "Player",
+      "line": "And..."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Well, King Arthur's statue wouldn't be trusted to mere guards. Only fully-fledged Black Knights will guard it. So you'll need to disguise yourself as one of them if you want to get access to the statue."
+    },
+    {
+      "character": "Player",
+      "line": "Of course! Thanks, Wizard Cromperty."
+    },
+    {
+      "character": "Fortress Guard",
+      "line": "I heard something happened to King Arthur and that Lord Daquarius was behind it."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Where is King Arthur now?"
+    },
+    {
+      "character": "Fortress Guard",
+      "line": "I have no idea, but it's a great victory for Lord Daquarius. To take such a mighty supporter of the White Knights down... Truly brilliant."
+    },
+    {
+      "character": "Fortress Guard",
+      "line": "Good day, brave knight. Congratulations on your victory against King Arthur."
+    },
+    {
+      "character": "Player",
+      "line": "Errr, thanks. Why don't you tell me in your own words how glorious you thought our victory was."
+    },
+    {
+      "character": "Fortress Guard",
+      "line": "Of course. It was so clever of Lord Daquarius to lend our men to Morgan Le Faye in exchange for our prize. We got the better end of the deal, no doubt."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have everything necessary to cast the spell."
+    },
+    {
+      "character": "Player",
+      "line": "I need to bring you some guard armour to disguise yourself in or you'll never be able to escape."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Very well. I'll await you here."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Thank you! I was afraid that would be the end of me."
+    },
+    {
+      "character": "Player",
+      "line": "It's no trouble. But we need to get you out of here quickly before any of the Black Knights suspect something."
+    },
+    {
+      "character": "King Arthur",
+      "line": "The Black Knights? I thought Morgan did this to me."
+    },
+    {
+      "character": "Player",
+      "line": "There's no time to explain; here, take this disguise."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Very well."
+    },
+    {
+      "character": "King Arthur",
+      "line": "You leave first and I'll sneak out in a few minutes. Meet me back at Camelot and I shall reward you generously for your aid."
+    },
+    {
+      "character": "Player",
+      "line": "I should go meet King Arthur at Camelot. He should have escaped by now."
+    },
+    {
+      "character": "Player",
+      "line": "I see you made it back safely."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Indeed, thanks to the disguise you gave me. I arrived back just as Merlin had kicked out the Sinclair children. He scared them off with a few puffs of smoke and frogs. He told them if any of them left their house"
+    },
+    {
+      "character": "King Arthur",
+      "line": "again, he'd turn them all into rabbits."
+    },
+    {
+      "character": "Player",
+      "line": "I guess we won't be hearing a peep out of them for awhile."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Indeed. We of the Round Table are greatly indebted to you for all of your help. I wish to reward you for all the help you have given us..."
+    },
+    {
+      "character": "Gossip",
+      "line": "Do you have any interesting news?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, no?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Then what are you standing around for!"
+    },
+    {
+      "character": "Guard",
+      "line": "I'm afraid I'm too busy to speak to you right now."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Welcome, brave knight. I am always happy to see you back at my court. Please feel free to roam the castle and make use of the training grounds."
+    },
+    {
+      "character": "Player",
+      "line": "What training grounds?"
+    },
+    {
+      "character": "King Arthur",
+      "line": "My knights train daily on the top floor of Camelot. There they test their skills and strength against each other. Because of all the help you have given us, I open this training ground to you as well."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Speak to the squire on the top floor of Camelot - he will explain the rules of the training grounds in detail."
+    },
+    {
+      "character": "Player",
+      "line": "So how did you remove the Sinclairs from Camelot?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Well, after I climbed out the vent, I snuck aboard a passing trade ship that dropped me at Catherby. From there, I returned to Camelot and used the Sinclairs own secret entrance against them. I used some of my"
+    },
+    {
+      "character": "Merlin",
+      "line": "own inventions to create a great deal of chaos and drove them from the house. Then I made sure they returned to their mansion and told them if they ever stepped foot from it again, I'd turn them all into rabbits."
+    },
+    {
+      "character": "Player",
+      "line": "How did you get your magic powers back?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Ah, Morgan's spell was not hard to break once I had access to my workshop. It's rather technical, so I won't bore you with the details."
+    },
+    {
+      "character": "Player",
+      "line": "You had an exciting day!"
+    },
+    {
+      "character": "Squire",
+      "line": "Greetings, brave knight!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello. What's through that door?"
+    },
+    {
+      "character": "Squire",
+      "line": "That door leads to the training ground for the Knights of the Round Table."
+    },
+    {
+      "character": "Player",
+      "line": "Can I go in there?"
+    },
+    {
+      "character": "Squire",
+      "line": "Of course, my lord. But I must tell you the rules first. Would you like to hear them now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Squire",
+      "line": "The training ground is a melee combat area only. Merlin has cast a spell over the grounds to prevent anyone using Prayer, Ranged or Magic."
+    },
+    {
+      "character": "Squire",
+      "line": "Upon entering the grounds, you will fight each of the Round Table Knights in turn. Each knight is more skilled than the last, but all have different attack styles that can be exploited. There are eight knights in all, and"
+    },
+    {
+      "character": "Squire",
+      "line": "each will do damage not only to your hitpoints, but also your combat stats. If you should die in the grounds, Merlin will teleport you back here. You will not lose any of your items."
+    },
+    {
+      "character": "Squire",
+      "line": "If you feel you cannot complete the battle, you may exit the training grounds. However, if you exit or die, you will have to start over with the first knight the next time you enter."
+    },
+    {
+      "character": "Squire",
+      "line": "If you are a great warrior and defeat Sir Lancelot, mightiest of all knights, you will receive great rewards. Two new prayers will become available to you and your respawn point will be set to Camelot, as well as 20,000"
+    },
+    {
+      "character": "Squire",
+      "line": "XP in to each of your combat stats."
+    },
+    {
+      "character": "Squire",
+      "line": "If you do not want your respawn set to Camelot, Merlin can change it for you."
+    },
+    {
+      "character": "Squire",
+      "line": "Would you like me to repeat any of that for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the training ground."
+    },
+    {
+      "character": "Squire",
+      "line": "Only melee combat is allowed within the training grounds. Merlin will prevent the use of Prayer, Ranged and Magic."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Squire",
+      "line": "These grounds are for only the best knights of the land. It is not just testing your combat ability, but your honour and your chivalry. You must face your enemy head on, honourably and bravely."
+    },
+    {
+      "character": "Squire",
+      "line": "Be watchful of your stats, as the Knights can do damage to your combat stats as well as your hitpoints."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about dying or leaving the grounds."
+    },
+    {
+      "character": "Squire",
+      "line": "As these are only training grounds, we keep our knights safe. If you should die, you will be teleported back to here and all of your items will be safe."
+    },
+    {
+      "character": "Squire",
+      "line": "However, leaving the training grounds, in anyway, will mean you will have to start from the beginning the next time you enter. These grounds do not favour cowards."
+    },
+    {
+      "character": "Player",
+      "line": "I have to start again? What do you mean?"
+    },
+    {
+      "character": "Squire",
+      "line": "You fight each knight of the Round Table, starting with Sir Bedivere and finishing with Sir Lancelot. Leaving means you will have to begin fighting Sir Bedivere again and work your way back up."
+    },
+    {
+      "character": "Player",
+      "line": "What if I log out during the fights?"
+    },
+    {
+      "character": "Squire",
+      "line": "If you log out during a fight, upon logging back in you will fight the knight you were fighting when you logged out."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the rewards."
+    },
+    {
+      "character": "Squire",
+      "line": "King Arthur believes in rewarding his knights for their chivalry. Having proven yourself in combat against his knights, and in your services rendered to Camelot, you will be rewarded with two new prayers, and a new"
+    },
+    {
+      "character": "Squire",
+      "line": "respawn at Camelot, as well as 20,000 XP in to each of your combat stats."
+    },
+    {
+      "character": "Player",
+      "line": "What do the new prayers do?"
+    },
+    {
+      "character": "Squire",
+      "line": "Ah, patience is a virtue in knights, my lord. Fight in the training ground and earn your reward to find out!"
+    },
+    {
+      "character": "Player",
+      "line": "Then tell me about the respawn - how will it work?"
+    },
+    {
+      "character": "Squire",
+      "line": "Ah, Merlin has offered, as a reward for your help, to let your respawn in the safety of Camelot, should you befall misfortune elsewhere in the world. Should you wish to change your respawn back to Lumbridge, simply"
+    },
+    {
+      "character": "Squire",
+      "line": "speak to Merlin."
+    },
+    {
+      "character": "Squire",
+      "line": "Good day, my lord. Is there anything I can do for you?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Well done, young adventurer. You truly are a worthy knight."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Merlin",
+      "line": "Excuse me for rushing off like this, but I must get back to my workroom."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Anna",
+      "description": "Young adult female, British accent, entitled and manipulative tone, a scheming noblewoman who plays innocent while hiding sinister intentions."
+    },
+    {
+      "name": "David",
+      "description": "Young adult male, British accent, aggressive and temperamental tone, a hot-headed nobleman with anger management issues who bullies the household staff."
+    },
+    {
+      "name": "Donovan",
+      "description": "Middle-aged male, British accent, weary and matter-of-fact tone, a hardworking handyman who sleeps heavily after long days of endless repairs."
+    },
+    {
+      "name": "Donovan the Family Handyman",
+      "description": "Middle-aged male, British accent, weary and matter-of-fact tone, a hardworking handyman who sleeps heavily after long days of endless repairs."
+    },
+    {
+      "name": "Fortress Guard",
+      "description": "Adult male, British accent, gruff and authoritative tone, a disciplined soldier loyal to the Black Knights with a no-nonsense demeanor."
+    },
+    {
+      "name": "Gossip",
+      "description": "Middle-aged male, British accent, conspiratorial and chatty tone, a nosy busybody who loves spreading rumors but claims innocence when confronted."
+    },
+    {
+      "name": "Guard",
+      "description": "Adult male, British accent, professional and dutiful tone, a loyal Seers' Village guard who takes his job seriously despite being frequently baffled."
+    },
+    {
+      "name": "Hobbes",
+      "description": "Elderly male, British accent, formal and proper tone, a devoted butler whose loyalty to Lord Sinclair is beyond question despite his uptight demeanor."
+    },
+    {
+      "name": "King Arthur",
+      "description": "Middle-aged male, regal British accent, noble and commanding tone, a legendary king who leads with wisdom and honor."
+    },
+    {
+      "name": "Louisa",
+      "description": "Middle-aged female, British accent, practical and no-nonsense tone, the Sinclair family cook who keeps the household running."
+    },
+    {
+      "name": "Mary",
+      "description": "Young adult female, British accent, timid and nervous tone, a quiet maid who witnessed more than she lets on."
+    },
+    {
+      "name": "Mary/Donovan/Louisa/Hobbes/Pierre/Stanford",
+      "description": "Mixed voices, British accent, various tones representing the household staff speaking in unison or sequence."
+    },
+    {
+      "name": "Merlin",
+      "description": "Elderly male, British accent, wise and mystical tone, a powerful wizard and close confidant of King Arthur with knowledge surpassing most sorcerers."
+    },
+    {
+      "name": "Morgan Le Faye",
+      "description": "Middle-aged female, British accent, sinister and cunning tone, a powerful sorceress and nemesis of King Arthur whose magic rivals even Merlin's abilities."
+    },
+    {
+      "name": "Pierre",
+      "description": "Adult male, French-accented English, dismissive and wary tone, the Sinclair dog handler who fears the vicious guard dog he tends."
+    },
+    {
+      "name": "Prosecutor",
+      "description": "Middle-aged male, British accent, formal and accusatory tone, a stern legal official who methodically presents evidence in the courthouse."
+    },
+    {
+      "name": "Renegade Knight",
+      "description": "Adult male, British accent, menacing and loyal tone, a dark warrior devoted to serving Morgan Le Faye who will beg for mercy when defeated."
+    },
+    {
+      "name": "Sir Bedivere",
+      "description": "Adult male, British accent, noble and steadfast tone, a loyal knight of the Round Table who drains strength from his foes in combat."
+    },
+    {
+      "name": "Sir Gawain",
+      "description": "Adult male, British accent, chivalrous and determined tone, a legendary knight based on the hero of Sir Gawain and the Green Knight."
+    },
+    {
+      "name": "Sir Kay",
+      "description": "Adult male, British accent, stern and dependable tone, a reliable knight of the Round Table known for his defensive prowess."
+    },
+    {
+      "name": "Sir Lancelot",
+      "description": "Adult male, British accent, heroic and confident tone, the strongest of King Arthur's knights with unmatched combat skill."
+    },
+    {
+      "name": "Sir Lucan",
+      "description": "Adult male, British accent, stalwart and brave tone, a trusted knight of the Round Table who fights with unwavering courage."
+    },
+    {
+      "name": "Sir Palomedes",
+      "description": "Adult male, British accent, honorable and skilled tone, a distinguished knight known for his combat versatility."
+    },
+    {
+      "name": "Sir Pelleas",
+      "description": "Adult male, British accent, earnest and loyal tone, a devoted knight of the Round Table who serves with dedication."
+    },
+    {
+      "name": "Sir Tristram",
+      "description": "Adult male, British accent, romantic and passionate tone, a legendary knight known for his tragic love story and multi-faceted combat abilities."
+    },
+    {
+      "name": "Squire",
+      "description": "Young adult male, British accent, eager and helpful tone, an aspiring knight who manages the training grounds at Camelot."
+    },
+    {
+      "name": "Stanford",
+      "description": "Adult male, working-class British accent, friendly and down-to-earth tone, a gardener who once had an affair with Anna Sinclair."
+    },
+    {
+      "name": "The judge",
+      "description": "Elderly male, British accent, authoritative and impartial tone, a dignified official who presides over court proceedings with measured fairness."
+    },
+    {
+      "name": "Wizard Cromperty",
+      "description": "Elderly male, British accent, eccentric and friendly tone, a wizard-inventor living in Ardougne known for his comic manner of speaking and teleportation magic."
+    }
+  ]
+}

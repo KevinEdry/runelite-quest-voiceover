@@ -1,0 +1,1220 @@
+{
+  "branch": "quest/murder-mystery",
+  "quest_name": "Murder Mystery",
+  "lines": [
+    {
+      "character": "Hobbes",
+      "line": "This is private property! Please leave!"
+    },
+    {
+      "character": "Louisa",
+      "line": "I'm far too upset to talk to random people right now."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "I have no interest in talking to gawkers."
+    },
+    {
+      "character": "Pierre",
+      "line": "The guards told me not to talk to anyone."
+    },
+    {
+      "character": "Stanford",
+      "line": "Have you no shame? We are all grieving at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on here?"
+    },
+    {
+      "character": "Guard",
+      "line": "Oh, it's terrible! Lord Sinclair has been murdered and we don't have any clues as to who or why. We're totally baffled!"
+    },
+    {
+      "character": "Guard",
+      "line": "If you can help us we will be very grateful."
+    },
+    {
+      "character": "Player",
+      "line": "Sure, I'll help!"
+    },
+    {
+      "character": "Guard",
+      "line": "Thanks a lot!"
+    },
+    {
+      "character": "Player",
+      "line": "What should I be doing to help?"
+    },
+    {
+      "character": "Guard",
+      "line": "Look around and investigate who might be responsible. The Sarge said every murder leaves clues to who done it, but frankly we're out of our depth here."
+    },
+    {
+      "character": "Player",
+      "line": "You should do your own dirty work."
+    },
+    {
+      "character": "Guard",
+      "line": "Get lost then, this is private property!...Unless you'd like to be taken in for questioning yourself?"
+    },
+    {
+      "character": "Player",
+      "line": "How did Lord Sinclair die?"
+    },
+    {
+      "character": "Guard",
+      "line": "Well, it's all very mysterious. Mary, the maid, found the body in the study next to his bedroom on the east wing of the ground floor."
+    },
+    {
+      "character": "Guard",
+      "line": "The door was found locked from the inside, and he seemed to have been stabbed, but there was an odd smell in the room. Frankly, I'm stumped."
+    },
+    {
+      "character": "Player",
+      "line": "I know who did it!"
+    },
+    {
+      "character": "Guard",
+      "line": "Really? That was quick work! Who?"
+    },
+    {
+      "character": "Player",
+      "line": "It was an intruder!"
+    },
+    {
+      "character": "Guard",
+      "line": "That's what we were thinking too. That someone broke in to steal something, was discovered by Lord Sinclair, stabbed him and ran."
+    },
+    {
+      "character": "Guard",
+      "line": "It's odd that apparently nothing was stolen though... Find out something has been stolen,"
+    },
+    {
+      "character": "Guard",
+      "line": "and the case is closed, but the murdered man was a friend of the King, and it's more than my job's worth not to investigate fully."
+    },
+    {
+      "character": "Player",
+      "line": "The butler did it!"
+    },
+    {
+      "character": "Guard",
+      "line": "I hope you have proof to that effect. We have to arrest someone for this and it seems to me that only the actual murderer would gain by falsely accusing someone."
+    },
+    {
+      "character": "Guard",
+      "line": "Although having said that the butler is kind of shifty looking..."
+    },
+    {
+      "character": "Player",
+      "line": "It was one of the servants!"
+    },
+    {
+      "character": "Guard",
+      "line": "Oh really? Which one?"
+    },
+    {
+      "character": "Player",
+      "line": "It was one of the women"
+    },
+    {
+      "character": "Guard",
+      "line": "Great work. Show me the evidence, and we'll take them to the dungeons."
+    },
+    {
+      "character": "Guard",
+      "line": "You DO have evidence of their crime, right?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...."
+    },
+    {
+      "character": "Guard",
+      "line": "Tch. You wouldn't last a day in the guards with sloppy thinking like that. Come see me when you have some proof of your accusations."
+    },
+    {
+      "character": "Player",
+      "line": "It was one of the men..."
+    },
+    {
+      "character": "Player",
+      "line": "It was one of his family!"
+    },
+    {
+      "character": "Player",
+      "line": "It was one of the women..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm here to help the guards with their investigation."
+    },
+    {
+      "character": "Anna",
+      "line": "Oh really? What do you want to know then?"
+    },
+    {
+      "character": "Player",
+      "line": "Who do you think was responsible?"
+    },
+    {
+      "character": "Anna",
+      "line": "It was clearly an intruder."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I don't think it was."
+    },
+    {
+      "character": "Anna",
+      "line": "It was one of our lazy servants then."
+    },
+    {
+      "character": "Player",
+      "line": "Where were you when the murder happened?"
+    },
+    {
+      "character": "Anna",
+      "line": "In the library. No one else was there so you'll just have to take my word for it."
+    },
+    {
+      "character": "Player",
+      "line": "Do you recognise this thread?"
+    },
+    {
+      "character": "Anna",
+      "line": "Not really, no. Thread is fairly common."
+    },
+    {
+      "character": "Bob",
+      "line": "I suppose I had better talk to you then."
+    },
+    {
+      "character": "Bob",
+      "line": "I don't really care as long as no one thinks it's me. Maybe it was that strange poison seller who headed towards the seers village."
+    },
+    {
+      "character": "Bob",
+      "line": "I was walking by myself in the garden."
+    },
+    {
+      "character": "Player",
+      "line": "And can anyone vouch for that?"
+    },
+    {
+      "character": "Bob",
+      "line": "No. But I was."
+    },
+    {
+      "character": "Bob",
+      "line": "It's some thread. great clue. No, really."
+    },
+    {
+      "character": "Carol",
+      "line": "Well, ask what you want to know then."
+    },
+    {
+      "character": "Carol",
+      "line": "I don't know. I think it's very convenient that you have arrived here so soon after it happened. Maybe it was you."
+    },
+    {
+      "character": "Carol",
+      "line": "Why? Are you accusing me of something? You seem to have a very high opinion of yourself I was in my room if you must know, alone."
+    },
+    {
+      "character": "Carol",
+      "line": "It's some thread. Sorry, do you have a point here? Or do you just enjoy wasting peoples time?"
+    },
+    {
+      "character": "David",
+      "line": "And? Make this quick, I have better things to do than be interrogated by halfwits all day."
+    },
+    {
+      "character": "David",
+      "line": "I don't really know or care. Frankly, the old man deserved to die."
+    },
+    {
+      "character": "David",
+      "line": "There was a suspicious red headed man who came to the house the other day selling poison now I think about it. Last I saw he was headed towards the tavern in the Seers village."
+    },
+    {
+      "character": "David",
+      "line": "That is none of your business. Are we finished now, or are you just going to stand there irritating me with your idiotic questions all day?"
+    },
+    {
+      "character": "David",
+      "line": "No. Can I go yet? Your face irritates me."
+    },
+    {
+      "character": "Elizabeth",
+      "line": "What's so important you need to bother me with then?"
+    },
+    {
+      "character": "Elizabeth",
+      "line": "Could have been anyone. The old man was an idiot. He's been asking for it for years."
+    },
+    {
+      "character": "Elizabeth",
+      "line": "I was out."
+    },
+    {
+      "character": "Player",
+      "line": "Care to be any more specific?"
+    },
+    {
+      "character": "Elizabeth",
+      "line": "Not really. I don't have to justify myself to the likes of you, you know. I know the King personally you know. Now are we finished here?"
+    },
+    {
+      "character": "Elizabeth",
+      "line": "It's some thread. You're not very good at this whole investigation thing are you?"
+    },
+    {
+      "character": "Frank",
+      "line": "Good for you. Now what do you want?"
+    },
+    {
+      "character": "Frank",
+      "line": "...And can you spare me any money? I'm a little short..."
+    },
+    {
+      "character": "Frank",
+      "line": "I don't know."
+    },
+    {
+      "character": "Frank",
+      "line": "You don't know how long it takes an inheritance to come through do you? I could really use that money pretty soon..."
+    },
+    {
+      "character": "Frank",
+      "line": "I don't know, somewhere around here probably."
+    },
+    {
+      "character": "Frank",
+      "line": "Could you spare me a few coins? I'll be able to pay you double tomorrow it's just there's this poker night tonight in town..."
+    },
+    {
+      "character": "Frank",
+      "line": "It looks like thread to me, but I'm not exactly an expert. Is it worth something? Can I have it? Actually, can you spare me a few gold?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "Who do you think is responsible?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Oh... I really couldn't say. I wouldn't really want to point any fingers at anybody. If I had to make a guess I'd have to say it was probably Bob though."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "I saw him arguing with Lord Sinclair about some missing silverware from the Kitchen. It was a very heated argument."
+    },
+    {
+      "character": "Player",
+      "line": "Where were you at the time of the murder?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Me? I was sound asleep here in the servants Quarters. It's very hard work as a handyman around here, There's always something to do!"
+    },
+    {
+      "character": "Player",
+      "line": "Did you hear any suspicious noises at all?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Hmmm..... No, I didn't, but I sleep very soundly at night."
+    },
+    {
+      "character": "Player",
+      "line": "So you didn't hear any sounds of a struggle or any barking from the guard dog next to his study window?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Now you mention it, no. It is odd I didn't hear anything like that. But I do sleep very soundly as I said and wouldn't necessarily have heard it if there was any such noise."
+    },
+    {
+      "character": "Player",
+      "line": "I'm investigating the murder up at the Sinclair place."
+    },
+    {
+      "character": "Gossip",
+      "line": "Murder is it? Well, I'm not really surprised..."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the Sinclairs?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, what do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Lord Sinclair."
+    },
+    {
+      "character": "Gossip",
+      "line": "Old Lord Sinclair was a great man with a lot of respect in these parts. More than his worthless children have anyway."
+    },
+    {
+      "character": "Player",
+      "line": "His children? They have something to gain by his death?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Yes. You could say that. Not that I'm one to gossip."
+    },
+    {
+      "character": "Player",
+      "line": "Why do the Sinclairs live so far from town?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, they used to live in the big castle, but old Lord Sinclair gave it up so that those strange knights could live there instead. So the king built him a new house to the North."
+    },
+    {
+      "character": "Gossip",
+      "line": "It's more cramped than his old place, but he seemed to like it. His children were furious at him for doing it though!"
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about his sons?"
+    },
+    {
+      "character": "Gossip",
+      "line": "His sons eh? They all have their own skeletons in their cupboards. You'll have to be more specific. Who are you interested in exactly?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Bob."
+    },
+    {
+      "character": "Gossip",
+      "line": "Bob is an odd character indeed... I'm not one to gossip, but I heard Bob is addicted to Tea. He can't make"
+    },
+    {
+      "character": "Gossip",
+      "line": "it through the day without having at least 20 cups!"
+    },
+    {
+      "character": "Gossip",
+      "line": "You might not think that's such a big thing, but he has spent thousands of gold to feed his habit!"
+    },
+    {
+      "character": "Gossip",
+      "line": "At one point he stole a lot of silverware from the kitchen and pawned it just so he could afford to buy his daily tea allowance."
+    },
+    {
+      "character": "Gossip",
+      "line": "If his father ever found out, he would be in so much trouble... he might even get disowned!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about David."
+    },
+    {
+      "character": "Gossip",
+      "line": "David... oh David... not many people know this, but David really has an anger problem. He's always screaming and shouting"
+    },
+    {
+      "character": "Gossip",
+      "line": "at the household servants when he's angry, and they live in a state of fear, always walking on eggshells around him, but none of them have the courage"
+    },
+    {
+      "character": "Gossip",
+      "line": "to talk to his father about his behaviour. If they did, Lord Sinclair would almost certainly"
+    },
+    {
+      "character": "Gossip",
+      "line": "kick him out of the house, as some of the servants have been there longer than he has, and he definitely has no right to treat them like he does... but I'm not one to gossip about people."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Frank."
+    },
+    {
+      "character": "Gossip",
+      "line": "I'm not one to talk ill of people behind their back, but Frank is a real piece of work. He is an absolutely terrible gambler... he can't pass 2 dogs in the street without putting a bet on which one will bark first!"
+    },
+    {
+      "character": "Gossip",
+      "line": "He has already squandered all of his allowance, and I heard he had stolen a number of paintings of his fathers to sell to try and cover his debts, but he still owes a lot of"
+    },
+    {
+      "character": "Gossip",
+      "line": "people a lot of money. If his father ever found out, he would stop his income, and then he would be in serious trouble!"
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about his daughters?"
+    },
+    {
+      "character": "Gossip",
+      "line": "His daughters eh? They're all nasty pieces of work. which of them specifically did you want to know about?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Anna."
+    },
+    {
+      "character": "Gossip",
+      "line": "Anna... ah yes... Anna has 2 great loves:"
+    },
+    {
+      "character": "Gossip",
+      "line": "Sewing and gardening. But one thing she has kept secret is that she once had an affair with Stanford the gardener, and tried to get him fired when they broke up,"
+    },
+    {
+      "character": "Gossip",
+      "line": "by killing all of the flowers in the garden. If her father ever found out she had done that he would be so furious he would probably disown her."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Carol."
+    },
+    {
+      "character": "Gossip",
+      "line": "Oh Carol... she is such a fool. You didn't hear this from me, but I heard a while ago she was conned out of a lot of money by a travelling salesman who sold her a box full"
+    },
+    {
+      "character": "Gossip",
+      "line": "of beans by telling her they were magic. But they weren't. She sold some rare books from the library to cover her debts, but"
+    },
+    {
+      "character": "Gossip",
+      "line": "her father would be incredibly annoyed if he ever found out - he might even throw her out of the house!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Elizabeth."
+    },
+    {
+      "character": "Gossip",
+      "line": "Elizabeth? Elizabeth has a strange problem... She cannot help herself, but is always stealing small objects - it's pretty sad that she is rich enough to afford to buy things, but would rather steal them instead."
+    },
+    {
+      "character": "Gossip",
+      "line": "Now, I don't want to spread stories, but I heard she even stole a silver needle from her father that had great sentimental value for him."
+    },
+    {
+      "character": "Gossip",
+      "line": "He was devastated when it was lost, and cried for a week thinking he had lost it!"
+    },
+    {
+      "character": "Gossip",
+      "line": "If he ever found out that it was her who had stolen it he would go absolutely mental, maybe even disowning her!"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, I guess it could have been an intruder, but with that big guard dog of theirs I seriously doubt it. I suspect it was someone closer to home..."
+    },
+    {
+      "character": "Gossip",
+      "line": "Especially as I heard that the poison salesman in the Seers' village made a big sale to one of the family the other day."
+    },
+    {
+      "character": "Player",
+      "line": "I think the butler did it."
+    },
+    {
+      "character": "Gossip",
+      "line": "And I think you've been reading too many cheap detective novels. Hobbes is kind of uptight, but his loyalty to old Lord Sinclair is beyond question."
+    },
+    {
+      "character": "Player",
+      "line": "I am so confused about who did it..."
+    },
+    {
+      "character": "Player",
+      "line": "Think you could give me any hints?"
+    },
+    {
+      "character": "Gossip",
+      "line": "Well, I don't know if it's related, but I heard from that Poison Salesman in town that he sold some poison to one of the Sinclair family"
+    },
+    {
+      "character": "Gossip",
+      "line": "the other day. I don't think he has any stock left now though..."
+    },
+    {
+      "character": "Hobbes",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "Well, in my considered opinion it must be David. The man is nothing more than a bully And I happen to know that poor Lord Sinclair and David had a massive argument in the living"
+    },
+    {
+      "character": "Hobbes",
+      "line": "room about the way he treats the staff, the other day. I did not intend to overhear their conversation, but they were shouting so loudly I could not help but Overhear it. David definitely used the words"
+    },
+    {
+      "character": "Hobbes",
+      "line": "'I am going to kill you!' as well. I think he should be the prime suspect. He has a nasty temper that one."
+    },
+    {
+      "character": "Hobbes",
+      "line": "I was assisting the cook with the evening meal. I gave Mary His Lordships' dinner, and sent her to take it to him, then heard the scream as she found the body."
+    },
+    {
+      "character": "Hobbes",
+      "line": "How do you mean 'suspicious'?"
+    },
+    {
+      "character": "Player",
+      "line": "Any sounds of a struggle with Lord Sinclair?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "No, I definitely didn't hear anything like that."
+    },
+    {
+      "character": "Player",
+      "line": "How about the guard dog barking at all?"
+    },
+    {
+      "character": "Hobbes",
+      "line": "You know, now you come to mention it I don't believe I did. I suppose that is Proof enough that it could not have been an intruder who is responsible."
+    },
+    {
+      "character": "Louisa",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Louisa",
+      "line": "Elizabeth."
+    },
+    {
+      "character": "Louisa",
+      "line": "Her father confronted her about her constant petty thieving, and was devestated to find she had stolen a silver needle which had meant a lot to him."
+    },
+    {
+      "character": "Louisa",
+      "line": "You could hear their argument from Lumbridge!"
+    },
+    {
+      "character": "Louisa",
+      "line": "I was right here with Hobbes and Mary. You can't suspect me surely!"
+    },
+    {
+      "character": "Louisa",
+      "line": "suspicious? what do you mean suspicious?"
+    },
+    {
+      "character": "Player",
+      "line": "Any sounds of a struggle with an intruder for example?"
+    },
+    {
+      "character": "Louisa",
+      "line": "No, I'm sure I don't recall any such thing."
+    },
+    {
+      "character": "Player",
+      "line": "How about the guard dog barking at an intruder?"
+    },
+    {
+      "character": "Louisa",
+      "line": "No, I didn't. If you don't have anything else to ask can You go and leave me alone now? I have a lot of cooking to do for this evening."
+    },
+    {
+      "character": "Mary",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Mary",
+      "line": "Oh I don't know... Frank was acting kind of funny... After that big argument him and the Lord had the other day by the beehive... so"
+    },
+    {
+      "character": "Mary",
+      "line": "I guess maybe him... but it's really scary to think someone here might have been responsible. I actually hope it was a burglar..."
+    },
+    {
+      "character": "Mary",
+      "line": "I was with Hobbes and Louisa in the Kitchen helping to prepare Lord Sinclair's meal, and then when I took it to his study... I saw... oh, it was horrible... he was...."
+    },
+    {
+      "character": "Mary",
+      "line": "I don't really remember hearing anything out of the ordinary."
+    },
+    {
+      "character": "Player",
+      "line": "No sounds of a struggle then?"
+    },
+    {
+      "character": "Mary",
+      "line": "No, I don't remember hearing anything like that."
+    },
+    {
+      "character": "Player",
+      "line": "How about the guard dog barking?"
+    },
+    {
+      "character": "Mary",
+      "line": "Oh that horrible dog is always barking at nothing but I don't think I did..."
+    },
+    {
+      "character": "Pierre",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Pierre",
+      "line": "Honestly? I think it was Carol."
+    },
+    {
+      "character": "Pierre",
+      "line": "I saw her in a huge argument with Lord Sinclair in the library the other day. It was something to do with stolen books. She definitely seemed upset enough to have done it afterwards."
+    },
+    {
+      "character": "Pierre",
+      "line": "I was in town at the Inn. When I got back the house was swarming with guards who told me what had happened. Sorry."
+    },
+    {
+      "character": "Pierre",
+      "line": "Well, like what?"
+    },
+    {
+      "character": "Pierre",
+      "line": "No, I don't remember hearing anything like that."
+    },
+    {
+      "character": "Pierre",
+      "line": "I hear him bark all the time. It's one of his favorite things to do. I can't say I did the night of the murder though as I wasn't close enough to hear either way."
+    },
+    {
+      "character": "Stanford",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Stanford",
+      "line": "It was Anna. She is seriously unbalanced. She trashed the garden once then tried to blame it on me! I bet it was her. It's just the kind of thing she'd do!"
+    },
+    {
+      "character": "Stanford",
+      "line": "She really hates me and was arguing with Lord Sinclair about trashing the garden a few days ago."
+    },
+    {
+      "character": "Stanford",
+      "line": "Right here, by my little shed. It's very cosy to sit and think in."
+    },
+    {
+      "character": "Stanford",
+      "line": "Not that I remember."
+    },
+    {
+      "character": "Player",
+      "line": "So no sounds of a struggle between Lord Sinclair and an intruder?"
+    },
+    {
+      "character": "Stanford",
+      "line": "Not to the best of my recollection."
+    },
+    {
+      "character": "Stanford",
+      "line": "Not that I can recall."
+    },
+    {
+      "character": "Player",
+      "line": "I'm investigating the murder at the Sinclair house."
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "There was a murder at the Sinclair House??? That's terrible! And I was only there the other day too! They bought the last of my Patented Multi Purpose Poison!"
+    },
+    {
+      "character": "Player",
+      "line": "Patented Multi Purpose Poison?"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Aaaaah... a miracle of modern apothecaries!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "This exclusive concoction has been tested on all known forms of life and been proven to kill them all in varying dilutions from cockroaches to king dragons!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "So incredibly versatile, it can be used as pest control, a cleansing agent, drain cleaner, metal polish and washes whiter than white,"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "all with our uniquely fragrant concoction that is immediately recognisable across the land as Peter Potter's Patented Poison potion!!!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "I'd love to sell you some but I've sold out recently. That's just how good it is! Three hundred and twenty eight people in this area alone cannot be wrong!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Nine out of Ten poisoners prefer it in controlled tests!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Can I help you with anything else?"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Perhaps I can take your name and add it to our mailing list of poison users? We will only send you information related to the use of poison and other Peter Potter Products!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... no, it's ok. Really."
+    },
+    {
+      "character": "Player",
+      "line": "Who did you sell Poison to at the house?"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Well, Peter Potter's Patented Multi Purpose Poison is a product of such obvious quality that I am glad to say I managed to sell a bottle to each of the Sinclairs!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Anna, Bob, Carol, David, Elizabeth and Frank all bought a bottle! In fact they bought the last of my supplies!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Maybe I can take your name and address and I will personally come and visit you when stocks return?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... no, it's ok."
+    },
+    {
+      "character": "Player",
+      "line": "Can I buy some Poison?"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "I'm afraid I am totally out of stock at the moment after my successful trip to the Sinclairs' House the other day."
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "But don't worry! Our factories are working overtime to produce Peter Potter's Patented Multi Purpose Poison!"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Possibly the finest multi purpose poison and cleaner yet available to the general market."
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "And its unique fragrance makes it the number one choice for cleaners and exterminators the whole country over!"
+    },
+    {
+      "character": "Player",
+      "line": "I have this pot I found at the murder scene..."
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Hmmm... yes, that smells exactly like my Patented Multi Purpose Poison, but I don't see how it could be. It quite clearly says on the label of all bottles"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "'Not to be taken internally - EXTREMELY POISONOUS'."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps someone else put it in his wine?"
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "Yes... I suppose that could have happened..."
+    },
+    {
+      "character": "Player",
+      "line": "Why'd you buy poison the other day?"
+    },
+    {
+      "character": "Anna",
+      "line": "That useless Gardener Stanford has let his compost heap fester. It's an eyesore to the garden! So I bought some poison from a travelling salesman so that I could kill off some of the wildlife living in it."
+    },
+    {
+      "character": "Bob",
+      "line": "What's it to you anyway?"
+    },
+    {
+      "character": "Bob",
+      "line": "If you absolutely must know, we had a problem with the beehive in the garden, and as all of our servants are so pathetically useless, I decided I would deal with it myself. So I did."
+    },
+    {
+      "character": "Carol",
+      "line": "I don't see what on earth it has to do with you, but the drain outside was"
+    },
+    {
+      "character": "Carol",
+      "line": "blocked, and as nobody else here has the intelligence to even unblock a simple drain I felt I had to do it myself."
+    },
+    {
+      "character": "David",
+      "line": "There was a nest of spiders upstairs between the two servants' quarters. Obviously I had to kill them before our pathetic servants whined at my father some more."
+    },
+    {
+      "character": "David",
+      "line": "Honestly, it's like they expect to be treated like royalty! If I had my way I would fire the whole workshy lot of them!"
+    },
+    {
+      "character": "Elizabeth",
+      "line": "There was a nest of mosquitos under the fountain in the garden, which I killed with poison the other day. You can see for yourself if you're capable of managing that, which I somehow doubt."
+    },
+    {
+      "character": "Player",
+      "line": "I hate mosquitos!"
+    },
+    {
+      "character": "Elizabeth",
+      "line": "Doesn't everyone?"
+    },
+    {
+      "character": "Frank",
+      "line": "Would you like to buy some? I'm kind of strapped for cash right now, I'll sell it to you cheap, it's hardly been used at all."
+    },
+    {
+      "character": "Frank",
+      "line": "I just used a bit to clean that family crest outside up a bit. Do you think I can get much money For the family crest, actually? It's cleaned up a bit now."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know why so much poison was bought recently?"
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Well, I do know Frank bought some poison recently to clean the family crest that's outside."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "It's very old and rusty, and I couldn't clean it myself, so he said he would buy some cleaner and clean it himself. He probably just got some from that Poison Salesman who came to the door the other day..."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "You'd really have to ask him though."
+    },
+    {
+      "character": "Hobbes",
+      "line": "Well, I do know that Elizabeth was extremely annoyed by the mosquito nest under the fountain in the garden, and was going to do something about it. I suspect any poison she bought would have been"
+    },
+    {
+      "character": "Hobbes",
+      "line": "enough to get rid of it. A Good job too, I hate mosquitos."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, so do I."
+    },
+    {
+      "character": "Hobbes",
+      "line": "You'd really have to ask her though."
+    },
+    {
+      "character": "Louisa",
+      "line": "I told Carol to buy some from that strange poison salesman and clean the drains before they began to smell any worse. She was the one who blocked them in the first place with a load"
+    },
+    {
+      "character": "Louisa",
+      "line": "of beans that she bought for some reason. There were far too many to eat, and they were almost rotten when she bought them anyway! You'd really have to ask her though."
+    },
+    {
+      "character": "Mary",
+      "line": "I overheard Anna saying to Stanford that if he didn't do something about the state of his compost heap, she was going to."
+    },
+    {
+      "character": "Mary",
+      "line": "She really doesn't get on well with Stanford. I really have no idea why. You'd really have to ask her though."
+    },
+    {
+      "character": "Pierre",
+      "line": "Well, I know David said that he was going to do something about the spiders' nest that's between the two servants' quarters upstairs."
+    },
+    {
+      "character": "Pierre",
+      "line": "He made a big deal about it to Mary the Maid, calling her useless and incompetent. I felt quite sorry for her actually. You'd really have to ask him though."
+    },
+    {
+      "character": "Stanford",
+      "line": "Well, Bob mentioned to me the other day he wanted to get rid of the bees in that hive over there. I think I saw him buying poison"
+    },
+    {
+      "character": "Stanford",
+      "line": "from that poison salesman the other day. I assume it was to sort out those bees. You'd really have to ask him though."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that it wasn't any of the servants!"
+    },
+    {
+      "character": "Player",
+      "line": "All the servants dress in black so it couldn't have been one of them."
+    },
+    {
+      "character": "Guard",
+      "line": "That's some good work there. I guess it wasn't a servant. You still haven't proved who did do it though."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that Anna is lying about the poison."
+    },
+    {
+      "character": "Guard",
+      "line": "Oh really? How did you get that?"
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that Bob is lying about the poison."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that Carol is lying about the poison."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that David is lying about the poison."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that Elizabeth is lying about the poison."
+    },
+    {
+      "character": "Player",
+      "line": "I have proof that Frank is lying about the poison."
+    },
+    {
+      "character": "Guard",
+      "line": "Hmm. That's some good detective work there. We need more evidence before we can close the case though. Keep up the good work!"
+    },
+    {
+      "character": "Player",
+      "line": "I have the finger prints of the culprit!"
+    },
+    {
+      "character": "Player",
+      "line": "I have Anna's finger prints here. You can see for yourself they match the finger prints on the murder weapon exactly."
+    },
+    {
+      "character": "Player",
+      "line": "I have Bob's finger prints here. You can see for yourself they match the finger prints on the murder weapon exactly."
+    },
+    {
+      "character": "Player",
+      "line": "I have Carol's finger prints here. You can see for yourself they match the finger prints on the murder weapon exactly."
+    },
+    {
+      "character": "Player",
+      "line": "I have David's finger prints here. You can see for yourself they match the finger prints on the murder weapon exactly."
+    },
+    {
+      "character": "Player",
+      "line": "I have Elizabeth's finger prints here. You can see for yourself they match the finger prints on the murder weapon exactly."
+    },
+    {
+      "character": "Player",
+      "line": "I have Frank's finger prints here. You can see for yourself they match the finger prints on the murder weapon exactly."
+    },
+    {
+      "character": "Guard",
+      "line": "... I'm impressed. How on earth did you think of something like that? I've never heard of such a technique for finding criminals before!"
+    },
+    {
+      "character": "Guard",
+      "line": "This will come in very handy in the future but we can't arrest someone on just this. I'm afraid you'll still need to find more evidence before we can close this case completely."
+    },
+    {
+      "character": "Player",
+      "line": "I have conclusive proof who the killer was."
+    },
+    {
+      "character": "Guard",
+      "line": "You do? That's excellent work. Let's hear it then."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think it was an intruder, and I don't think Lord Sinclair was killed by being stabbed."
+    },
+    {
+      "character": "Guard",
+      "line": "Hmmm? Really? Why not?"
+    },
+    {
+      "character": "Player",
+      "line": "Nobody heard the guard dog barking, which it would have if it had been an intruder who was responsible."
+    },
+    {
+      "character": "Player",
+      "line": "Nobody heard any signs of a struggle either. I think the knife was there to throw suspicion away from the real culprit."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes, that makes sense. But who did do it then?"
+    },
+    {
+      "character": "Guard",
+      "line": "Yes, I'd have to agree with that... but we need more evidence!"
+    },
+    {
+      "character": "Guard",
+      "line": "Excellent work - have you considered a career as a detective? But I'm afraid it's still not quite enough..."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes. There's no doubt about it. It must have been Anna who killed her father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes. There's no doubt about it. It must have been Bob who killed his father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes. There's no doubt about it. It must have been Carol who killed her father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes. There's no doubt about it. It must have been David who killed his father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes. There's no doubt about it. It must have been Elizabeth who killed her father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+    },
+    {
+      "character": "Guard",
+      "line": "Yes. There's no doubt about it. It must have been Frank who killed his father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+    },
+    {
+      "character": "Guard",
+      "line": "We don't have many murders here in Gielinor and I'm afraid we wouldn't have been able to solve it by ourselves. We will hold her here under house arrest until such time as we bring her to trial."
+    },
+    {
+      "character": "Guard",
+      "line": "You have our gratitude, and I'm sure the rest of the family's as well, in helping to apprehend the murderer. I'll just take the evidence from you now."
+    },
+    {
+      "character": "Guard",
+      "line": "Please accept this reward from the family!"
+    },
+    {
+      "character": "Guard",
+      "line": "Excellent work on solving the murder! All of the guards I know are very impressed, and don't worry, we have the murderer under guard until they can be taken to trial."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything else I can do?"
+    },
+    {
+      "character": "Guard",
+      "line": "No, your work here is done."
+    },
+    {
+      "character": "Anna",
+      "line": "Apparently you aren't as stupid as you look."
+    },
+    {
+      "character": "Bob",
+      "line": "Apparently you aren't as stupid as you look."
+    },
+    {
+      "character": "Carol",
+      "line": "Apparently you aren't as stupid as you look."
+    },
+    {
+      "character": "David",
+      "line": "Apparently you aren't as stupid as you look."
+    },
+    {
+      "character": "Elizabeth",
+      "line": "Apparently you aren't as stupid as you look."
+    },
+    {
+      "character": "Frank",
+      "line": "Apparently you aren't as stupid as you look."
+    },
+    {
+      "character": "Donovan the Family Handyman",
+      "line": "Thank you for all your help in solving the murder."
+    },
+    {
+      "character": "Hobbes",
+      "line": "Thank you for all your help in solving the murder."
+    },
+    {
+      "character": "Louisa",
+      "line": "Thank you for all your help in solving the murder."
+    },
+    {
+      "character": "Mary",
+      "line": "Thank you for all your help in solving the murder."
+    },
+    {
+      "character": "Stanford",
+      "line": "Thank you for all your help in solving the murder."
+    },
+    {
+      "character": "Poison Salesman",
+      "line": "I hear you're pretty smart to have solved the Sinclair Murder!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Anna",
+      "description": "Young adult female, British accent, cold and dismissive tone, an entitled noblewoman who enjoys gardening and sewing but harbors vindictive tendencies."
+    },
+    {
+      "name": "Bob",
+      "description": "Young adult male, British accent, aloof and sarcastic tone, an aristocrat with a secret tea addiction who deflects suspicion with dry indifference."
+    },
+    {
+      "name": "Carol",
+      "description": "Young adult female, British accent, defensive and irritable tone, a paranoid noblewoman who was once swindled and now distrusts everyone."
+    },
+    {
+      "name": "David",
+      "description": "Young adult male, British accent, aggressive and contemptuous tone, an arrogant nobleman with serious anger issues who bullies the household staff."
+    },
+    {
+      "name": "Donovan the Family Handyman",
+      "description": "Middle-aged male, British accent, weary and humble tone, a hardworking handyman who is exhausted from constant tasks but remains cooperative and helpful."
+    },
+    {
+      "name": "Elizabeth",
+      "description": "Young adult female, British accent, haughty and condescending tone, a snobbish noblewoman with kleptomaniac tendencies who flaunts her connections to royalty."
+    },
+    {
+      "name": "Frank",
+      "description": "Young adult male, British accent, nervous and pleading tone, a desperate gambling addict constantly in debt who shamelessly begs for money at every opportunity."
+    },
+    {
+      "name": "Gossip",
+      "description": "Middle-aged male, British accent, conspiratorial and eager tone, a village busybody who claims not to gossip while gleefully sharing everyone's secrets."
+    },
+    {
+      "name": "Guard",
+      "description": "Adult male, British accent, professional but overwhelmed tone, an honest lawman out of his depth investigating a murder far beyond his usual duties."
+    },
+    {
+      "name": "Hobbes",
+      "description": "Elderly male, British accent, formal and stuffy tone, a loyal butler with an air of superiority who maintains proper decorum despite the tragic circumstances."
+    },
+    {
+      "name": "Louisa",
+      "description": "Middle-aged female, British accent, warm but busy tone, a dedicated cook who enjoys her work and wants to be helpful despite being distracted by her duties."
+    },
+    {
+      "name": "Mary",
+      "description": "Young adult female, British accent, nervous and timid tone, a frightened maid who discovered the body and is visibly shaken by the traumatic experience."
+    },
+    {
+      "name": "Pierre",
+      "description": "Adult male, French accent, matter-of-fact and somewhat detached tone, a seasoned dog handler with an eyepatch who provides information reluctantly."
+    },
+    {
+      "name": "Poison Salesman",
+      "description": "Middle-aged male, British accent, enthusiastic and fast-talking tone, an overly cheerful travelling salesman who aggressively promotes his patented poison products."
+    },
+    {
+      "name": "Stanford",
+      "description": "Adult male, British accent, bitter and resentful tone, a weathered gardener who harbors grudges from his failed romance with Anna and suspects her of the murder."
+    }
+  ]
+}

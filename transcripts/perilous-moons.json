@@ -1,0 +1,2064 @@
+{
+  "branch": "quest/perilous-moons",
+  "quest_name": "Perilous Moons",
+  "lines": [
+    {
+      "character": "Attala",
+      "line": "What do you think you're doing, human?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... Admiring these lovely gates?"
+    },
+    {
+      "character": "Attala",
+      "line": "You can admire them from back here!"
+    },
+    {
+      "character": "Builder 1",
+      "line": "It's a bit rude of 'em to take up the whole bridge with their conversation, isn't it, mate?"
+    },
+    {
+      "character": "Builder 2",
+      "line": "Aye, mate, but wouldn't it be just as rude for us to interrupt?"
+    },
+    {
+      "character": "Builder 1",
+      "line": "A good point well made, mate. Who are we to decide that the dig is more impor'ant than a personal disagreement between two people?"
+    },
+    {
+      "character": "Builder 2",
+      "line": "You're not wrong, mate. We often place matters of industry above those of people, and it's chippin' away at our ability to relate to each other on a human level."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on here?"
+    },
+    {
+      "character": "Builder 1",
+      "line": "We're part of a dig into some ruins beneath Cam Torum, but the way's blocked by these folks."
+    },
+    {
+      "character": "Player",
+      "line": "Have you tried asking them to move?"
+    },
+    {
+      "character": "Builder 2",
+      "line": "We're considering the moral implications of doing exactly that, mate."
+    },
+    {
+      "character": "Player",
+      "line": "Are you two philosophers?"
+    },
+    {
+      "character": "Builder 1",
+      "line": "No mate, builders."
+    },
+    {
+      "character": "Builder 2",
+      "line": "But thinking, talking, discussing, it's what makes us human, mate."
+    },
+    {
+      "character": "Player",
+      "line": "It's not just humans that do those things."
+    },
+    {
+      "character": "Builder 2",
+      "line": "Fair play, mate. I guess we're reflecting more on the condition of sen'ience in general then."
+    },
+    {
+      "character": "Player",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Builder 2",
+      "line": "Have a good one, mate."
+    },
+    {
+      "character": "Zuma",
+      "line": "It is my right and duty as a follower of Ranul to document that which has been found beneath your city."
+    },
+    {
+      "character": "Attala",
+      "line": "Your beliefs do not grant you a right to anything in Cam Torum, not to document things, and especially not to get yourself killed."
+    },
+    {
+      "character": "Attala",
+      "line": "I don't want to give Fortis any excuses to come knocking on our door to investigate your untimely and idiotic demise."
+    },
+    {
+      "character": "Zuma",
+      "line": "I won't take no for an answer. I am bound by my divine oath."
+    },
+    {
+      "character": "Attala",
+      "line": "Oh yes? And will your divine oath feed you in there? Light your way? Keep you safe from cave-ins and monsters?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know about cave-ins, but I can handle monsters."
+    },
+    {
+      "character": "Attala",
+      "line": "Sorry, but I'm busy with a different arrogant human. You'll have to wait in line."
+    },
+    {
+      "character": "Zuma",
+      "line": "Ranul provides..."
+    },
+    {
+      "character": "Attala",
+      "line": "No! We've more than enough humans in Cam Torum with this blasted Fortis mandated dig! I don't care how many deals it secured, it's not worth all this trouble!"
+    },
+    {
+      "character": "Guard",
+      "line": "Advisor Attala..."
+    },
+    {
+      "character": "Attala",
+      "line": "What?!"
+    },
+    {
+      "character": "Guard",
+      "line": "Apologies, but I was sent to tell you that one of the creatures from the ruins managed to bypass our defenses."
+    },
+    {
+      "character": "Guard",
+      "line": "It escaped through the mountain's outflow spring, to the north east."
+    },
+    {
+      "character": "Attala",
+      "line": "The one that leads to the aqueduct?! We'll have Fortis guards barging into the city if they catch wind..."
+    },
+    {
+      "character": "Player",
+      "line": "It sounds like you need help."
+    },
+    {
+      "character": "Attala",
+      "line": "Cam Torum does not need help, much less that of any humans!"
+    },
+    {
+      "character": "Attala",
+      "line": "Wake the off-duty guards and put them to work. I'll ensure they're paid handsomely."
+    },
+    {
+      "character": "Guard",
+      "line": "I'm afraid we already have."
+    },
+    {
+      "character": "Attala",
+      "line": "Argh! Get back to your post!"
+    },
+    {
+      "character": "Attala",
+      "line": "Alright, fine! Human, you look like you've seen a fight or two. Deal with the escaped creature by the mountain outflow spring."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on, what's in it for me?"
+    },
+    {
+      "character": "Attala",
+      "line": "What do you want?!"
+    },
+    {
+      "character": "Player",
+      "line": "Access to the city sounds nice."
+    },
+    {
+      "character": "Attala",
+      "line": "Fine, get to it!"
+    },
+    {
+      "character": "Player",
+      "line": "On secound thoughts, I don't like your attitude."
+    },
+    {
+      "character": "Attala",
+      "line": "Then go away!"
+    },
+    {
+      "character": "Attala",
+      "line": "Have you killed that creature yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Working on it."
+    },
+    {
+      "character": "Attala",
+      "line": "It's up by the mountain outflow spring, north east of here. Get to it before it makes its way to the aqueduct!"
+    },
+    {
+      "character": "Player",
+      "line": "I should head back to Attala and let her know that the aqueduct is secure."
+    },
+    {
+      "character": "Player",
+      "line": "Good work team! Let's let Attala know we all killed it, together!"
+    },
+    {
+      "character": "Player",
+      "line": "Technically I helped kill it... Without me, the others might have been overwhelmed... Yes... I should let Attala know the aqueduct is secure."
+    },
+    {
+      "character": "Player",
+      "line": "I've taken care of the... What was that thing anyway?"
+    },
+    {
+      "character": "Attala",
+      "line": "A spirit of sorts. Something far older than anything your people have bothered to remember. In any case, a deal is a deal. You may enter the city of Cam Torum."
+    },
+    {
+      "character": "Zuma",
+      "line": "What about me?"
+    },
+    {
+      "character": "Attala",
+      "line": "Are you still here?!"
+    },
+    {
+      "character": "Zuma",
+      "line": "Yes, and I'm not going anywhere!"
+    },
+    {
+      "character": "Attala",
+      "line": "Fine! If it'll make you stop pestering me, you can join..."
+    },
+    {
+      "character": "Player",
+      "line": "."
+    },
+    {
+      "character": "Attala",
+      "line": "You can join."
+    },
+    {
+      "character": "Attala",
+      "line": ", he's your responsibility now. If either of you cause any trouble, you're both out!"
+    },
+    {
+      "character": "Player",
+      "line": "Now, hang on..."
+    },
+    {
+      "character": "Zuma",
+      "line": "Thank you,. I'm Zuma, by the way. I'll meet you inside."
+    },
+    {
+      "character": "Builder 1",
+      "line": "Thanks for that, mate. You should speak to Jess inside. She'll be in the north of the city. She could use a problem solver like yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Who's Jess?"
+    },
+    {
+      "character": "Builder 2",
+      "line": "She's the archaeologist in charge of the dig into these ruins they've found. Discovering the mysteries of the past and that."
+    },
+    {
+      "character": "Builder 1",
+      "line": "You should head inside, mate. Remember, Jess will be in the north of the city. She could use a problem solver like yourself."
+    },
+    {
+      "character": "Builder 1",
+      "line": "To me!"
+    },
+    {
+      "character": "Builder 2",
+      "line": "To you!"
+    },
+    {
+      "character": "Guard",
+      "line": "Keep it down!"
+    },
+    {
+      "character": "Guard",
+      "line": "I'm watching you, human."
+    },
+    {
+      "character": "Player",
+      "line": "I'm here to help, you know..."
+    },
+    {
+      "character": "Citizen",
+      "line": "Hmph!"
+    },
+    {
+      "character": "Player",
+      "line": "What did I do?"
+    },
+    {
+      "character": "Citizen",
+      "line": "Every day they let more of your kind in."
+    },
+    {
+      "character": "Player",
+      "line": "There's no need for that."
+    },
+    {
+      "character": "Citizen",
+      "line": "Another human? Do what you need to and then be gone from here."
+    },
+    {
+      "character": "Player",
+      "line": "That was unnecessary."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Excuse me! I don't believe I've given you permission to enter the dig."
+    },
+    {
+      "character": "Attala",
+      "line": "Hello again."
+    },
+    {
+      "character": "Player",
+      "line": "What are you doing here?"
+    },
+    {
+      "character": "Attala",
+      "line": "Well with the suitation outside dealt with, I now need to keep an eye on this expedition. Any mistakes made in these ruins could bring the ground out from beneath our city!"
+    },
+    {
+      "character": "Player",
+      "line": "Is it really that dangerous in there?"
+    },
+    {
+      "character": "Attala",
+      "line": "It might be if you don't know what you're dealing with. Your people often assume they do, which generally makes things worse."
+    },
+    {
+      "character": "Player",
+      "line": "The rest of your people don't seem very happy I'm here."
+    },
+    {
+      "character": "Attala",
+      "line": "The rest?! I'm not happy you're here either."
+    },
+    {
+      "character": "Player",
+      "line": "I helped you with the aqueduct. You could afford to show a little bit of gratitude."
+    },
+    {
+      "character": "Attala",
+      "line": "You'll have my gratitude when you finish you business in Cam Torum and leave."
+    },
+    {
+      "character": "Player",
+      "line": "Will the city's defense be okay without you?"
+    },
+    {
+      "character": "Attala",
+      "line": "As I say, the situation has been dealt with for now. Besides, the only reason that situation existed in the first place is because of these ruins."
+    },
+    {
+      "character": "Attala",
+      "line": "At this point a smart person would call off this dig entirely, but as that doesn't seem set to happen, I'd say it's in our best interests we keep an eye on things."
+    },
+    {
+      "character": "Player",
+      "line": "I take it you don't get on well with the humans?"
+    },
+    {
+      "character": "Attala",
+      "line": "It's not exactly that. You have your virtues, but you have short sight and even shorter memories, which can be very dangerous."
+    },
+    {
+      "character": "Player",
+      "line": "Why not share what you know with us then?"
+    },
+    {
+      "character": "Attala",
+      "line": "I suspect some of your people wouldn't be too pleased if we did. The truth isn't something that everyone desires."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm always open to a bit of truth myself."
+    },
+    {
+      "character": "Attala",
+      "line": "Hmph! I doubt that."
+    },
+    {
+      "character": "Zuma",
+      "line": "Thank you for your help back there,. Dwarves can be very stubborn."
+    },
+    {
+      "character": "Player",
+      "line": "So can you, apparently."
+    },
+    {
+      "character": "Zuma",
+      "line": "It is not stubbornness on my part. It is duty that drives me."
+    },
+    {
+      "character": "Player",
+      "line": "Duty to what?"
+    },
+    {
+      "character": "Zuma",
+      "line": "I am a nelta of Ranul and I am bound by his tenets. One of them is to ensure that knowledge is protected and respected. These ruins they've found could contain all manner of things! I must find out!"
+    },
+    {
+      "character": "Player",
+      "line": "How did you hear about these ruins?"
+    },
+    {
+      "character": "Zuma",
+      "line": "The cave-in that revealed them shook the foundations of the Teomat!"
+    },
+    {
+      "character": "Zuma",
+      "line": "The dwarves tried to hide them from us, but we eventually found out."
+    },
+    {
+      "character": "Player",
+      "line": "What are you expecting to find down there?"
+    },
+    {
+      "character": "Zuma",
+      "line": "I don't know exactly yet, but knowledge of some kind! Maybe even some undiscovered history regarding Ralos and Ranul!"
+    },
+    {
+      "character": "Player",
+      "line": "I take it you don't get on well with the dwarves?"
+    },
+    {
+      "character": "Zuma",
+      "line": "They are arrogant! They think they know it all, and worst of all, they are non-believers!"
+    },
+    {
+      "character": "Player",
+      "line": "Technically I'm a non-believer."
+    },
+    {
+      "character": "Zuma",
+      "line": "But that is because you are ignorant of the truth, not because you outright reject it. Would you like me to tell you of the ways of Ranul?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe some other time."
+    },
+    {
+      "character": "Zuma",
+      "line": "Timoiva."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Nilsal! The name's Jessamine, though most people call me Jess. You must be. I hear you sorted out the situation holding back the arrivial of our supplies. Thanks for that."
+    },
+    {
+      "character": "Player",
+      "line": "Don't mention it. So you're here for these ruins beneath the city?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Yes, a cave-in revealed them! I'm here to lead the dig and see what we can discover."
+    },
+    {
+      "character": "Player",
+      "line": "There seems to be a lot of ancient ruins popping up lately."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Gielinor has been around for a long time. We're really only just starting to scratch its surface!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I be of any help with the dig?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Well it seems our expedition has already gained a couple of new recruits somehow, but what I really need is someone more proactive who can fend for themselves. You seem perfect for the job!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Meet me inside the ruins. We need help setting up some base camps for further exploration."
+    },
+    {
+      "character": "Player",
+      "line": "How come the dwarves let you in?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "I work at the museum in Fortis. The dwarves have a begrudging alliance with the capital, and so they begrudgingly let me in."
+    },
+    {
+      "character": "Jessamine",
+      "line": "They demanded agreement to some absurdly expensive export deals in exchange, and even exclusive rights to some imports from the mainland."
+    },
+    {
+      "character": "Jessamine",
+      "line": "It took weeks of negotiation, and they still don't seem entirely satisfied."
+    },
+    {
+      "character": "Player",
+      "line": "I take it you don't get on too well?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "No. It's a shame. They would be a great source of historical knowledge, if they were just more willing to share it."
+    },
+    {
+      "character": "Jessamine",
+      "line": "See you later."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Nilsal! When you're ready, meet me inside the ruins. We need help setting up some base camps for further exploration."
+    },
+    {
+      "character": "Player",
+      "line": "I should probably speak to the others before I go exploring."
+    },
+    {
+      "character": "Builder 1",
+      "line": "G'day, mate."
+    },
+    {
+      "character": "Player",
+      "line": "I'm surprised to see you both in such high spirits after walking past all those jeering dwarves."
+    },
+    {
+      "character": "Builder 2",
+      "line": "Ah, well it's unfortunate, but no reason to be sad. It's them that ought to be sad."
+    },
+    {
+      "character": "Builder 1",
+      "line": "Aye, mate. Livin' a life unable to connect with others because they look different must be miserable."
+    },
+    {
+      "character": "Builder 2",
+      "line": "We wish 'em the best. Hopefully their paths to personal growth are near and smooth."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Xali.... Ates... Hmm, no, not quite right..."
+    },
+    {
+      "character": "Zuma",
+      "line": "The moon blotting out the sun, could this be..."
+    },
+    {
+      "character": "Attala",
+      "line": "Concerning..."
+    },
+    {
+      "character": "Player",
+      "line": "What have you found?"
+    },
+    {
+      "character": "Attala",
+      "line": "This is an old place,. Older even than much of what we dwarves remember."
+    },
+    {
+      "character": "Player",
+      "line": "That's exciting."
+    },
+    {
+      "character": "Attala",
+      "line": "No, it's dangerous is what it is."
+    },
+    {
+      "character": "Attala",
+      "line": "Now where is that fool priest?"
+    },
+    {
+      "character": "Zuma",
+      "line": "Incredible..."
+    },
+    {
+      "character": "Zuma",
+      "line": "This is sacred ground. This is most obviously a shrine built by emissaries of Ranul."
+    },
+    {
+      "character": "Attala",
+      "line": "You see a picture of a creature eating the sun and instead of a warning, you see evidence of your god? You really are beyond saving."
+    },
+    {
+      "character": "Zuma",
+      "line": "Enough! This mural may depict a scene straight from our holy scriptures! Show some respect!"
+    },
+    {
+      "character": "Player",
+      "line": "Alright, calm down, both of you. Let's go see what the actual archaeologist has to say."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Strange..."
+    },
+    {
+      "character": "Jessamine",
+      "line": "This mural has an inscription beneath it, written in the language of the Old Ones. I think I'm getting there, but I'm going to need more time to decipher it."
+    },
+    {
+      "character": "Attala",
+      "line": "We don't need to be deciphering inscriptions to know that we shouldn't be here. I mean look at that... whatever that floating thing is. This place is dangerous!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "All the more reason to find out more about it then."
+    },
+    {
+      "character": "Player",
+      "line": "Do you need me to do anything in the meantime?"
+    },
+    {
+      "character": "Player",
+      "line": "Could I help with the translations? I actually have a bit of experience with this language."
+    },
+    {
+      "character": "Jessamine",
+      "line": "That's very kind of you to offer, but if it's okay with you, I actually have a different task I could use your help with."
+    },
+    {
+      "character": "Jessamine",
+      "line": "The surrounding caverns are quite large. If you could take some building supplies and set up some camps in each of them, it would make further exploration a lot easier."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get right to it."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Have you finished setting up the camps?"
+    },
+    {
+      "character": "Player",
+      "line": "Not quite."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Let me know when you have. In the meantime, I've got to keep working on this inscription, whilst also making sure these two don't kill each other..."
+    },
+    {
+      "character": "Player",
+      "line": "They're... er... Very passionate."
+    },
+    {
+      "character": "Player",
+      "line": "Speaking of which, what about you? Why a life of archaeology?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "I've always loved it. When I was a child, I had a friend in Fortis who I'd collect old trinkets with."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I guess it was a natural next step then?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Indeed. The employees at the museum already knew me well by the time I applied. I've spent a lot of my life browsing it."
+    },
+    {
+      "character": "Player",
+      "line": "You should visit the museum in Varrock some time. There's a lot to see!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "I've been meaning to! Thing is, I couldn't turn down this opportunity when it came up."
+    },
+    {
+      "character": "Player",
+      "line": "Understandable. Right, I should get back to those camps."
+    },
+    {
+      "character": "Attala",
+      "line": "How can you make those claims so confidently?"
+    },
+    {
+      "character": "Zuma",
+      "line": "It's in the holy scriptures! As I was saying..."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Can't get a word in edgeways with these two."
+    },
+    {
+      "character": "Player",
+      "line": "I should grab the camp building supplies before I do any more exploration."
+    },
+    {
+      "character": "Player",
+      "line": "This entrance looks dangerous. I probably shouldn't go in here without a good reason."
+    },
+    {
+      "character": "Player",
+      "line": "I probably shouldn't touch anything until the others have had a chance to look around."
+    },
+    {
+      "character": "Builder 2",
+      "line": "Thanks for taking care of those base camps, mate."
+    },
+    {
+      "character": "Player",
+      "line": "No problem. I hope there's no hard feelings over Jessamine asking me to do a part of your jobs."
+    },
+    {
+      "character": "Builder 1",
+      "line": "That's no worries, mate, I've no issue admitting you're better cut out for building camps in dangerous dungeons than I am."
+    },
+    {
+      "character": "Builder 2",
+      "line": "We may not be mul'i-disciplined adventurers like you, but we don't need to be. The world needs more than just heroes, don't it?"
+    },
+    {
+      "character": "Builder 1",
+      "line": "Aye, mate, I'm content and proud to just be a hard working, decent builder."
+    },
+    {
+      "character": "Builder 2",
+      "line": "Besides, without us, building supplies wouldn't be there in the first place. Life's all about working together."
+    },
+    {
+      "character": "Player",
+      "line": "Glad to hear it. Keep up the good work then!"
+    },
+    {
+      "character": "Builder 2",
+      "line": "You too, mate."
+    },
+    {
+      "character": "Player",
+      "line": "I've finished setting up the camps."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Thanks. I'm all done deciphering the inscription. Some of it has worn away, so we're missing bits, but between it, the murals and the big floating monolith, we've already found some pretty exciting stuff!"
+    },
+    {
+      "character": "Player",
+      "line": "What does the inscription say?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "'Here in Neypotzli, by ??? of earth and streams, have these emissaries of ??? been sealed, ??? ??? ???.'"
+    },
+    {
+      "character": "Zuma",
+      "line": "Emissaries of Ranul! We must work to free them at once."
+    },
+    {
+      "character": "Attala",
+      "line": "First they built the place, now they're sealed in it. These leaping assumptions are going to get us all killed!"
+    },
+    {
+      "character": "Player",
+      "line": "Well I've only ever had good experiences opening ancient vaults."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Attala is right to be cautious. These murals don't look all too friendly..."
+    },
+    {
+      "character": "Zuma",
+      "line": "But these emissaries may have ancient knowledge lost to the ages! We must investigate further."
+    },
+    {
+      "character": "Jessamine",
+      "line": "These ruins are directly beneath the Teomat... I suppose it's possible there may be some links to Ralos and Ranul."
+    },
+    {
+      "character": "Attala",
+      "line": "I will not allow you to put Cam Torum in danger just because you're curious!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure if these disagreements are really getting us anywhere..."
+    },
+    {
+      "character": "Attala",
+      "line": "You make a good point."
+    },
+    {
+      "character": "Player",
+      "line": "What do we do now?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "I think it would be unwise to go and start freeing emissaries that we know nothing about."
+    },
+    {
+      "character": "Attala",
+      "line": "Agreed!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "But we should still try and learn more about them. They may pose a risk to Cam Torum."
+    },
+    {
+      "character": "Attala",
+      "line": "Hmph! Very well."
+    },
+    {
+      "character": "Jessamine",
+      "line": "We know they were sealed by the power of earth and streams. This magic presumably originates from somewhere within these ruins. I also wonder if these talismans I found might be connected..."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting..."
+    },
+    {
+      "character": "Attala",
+      "line": "Hmm... Nahta will know what to do with these., take them to him in Cam Torum's magic shop. Tell him I sent you."
+    },
+    {
+      "character": "Attala",
+      "line": "Come back to me when you have space and I'll give you the talismans."
+    },
+    {
+      "character": "Player",
+      "line": "What does the western mural depict?"
+    },
+    {
+      "character": "Attala",
+      "line": "It's raining blood! It is clearly a depiction of death!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "It's not clear from the mural whether the creature depicted is calling the rain or lamenting its arrival."
+    },
+    {
+      "character": "Zuma",
+      "line": "It's an emissary of the blood moon! A bringer of rain and bountiful harvests!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Blood moons don't usually bring good harvests, and I don't see any thriving crops depicted in the mural."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you make of it?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "The blood moon is nothing more than a cosmic occurrence. We need more context to come to any conclusions."
+    },
+    {
+      "character": "Player",
+      "line": "What does the eastern mural depict?"
+    },
+    {
+      "character": "Zuma",
+      "line": "An emissary of the eclipsed moon! A herald of Ximoua!"
+    },
+    {
+      "character": "Attala",
+      "line": "Ximoua? It is eating the sun, you fool! If it's a herald of anything, it's death!"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Given what is taught about Ximoua, that isn't too surprising."
+    },
+    {
+      "character": "Player",
+      "line": "What is Ximoua again?"
+    },
+    {
+      "character": "Zuma",
+      "line": "An eclipse that marks the end of a cycle! The destruction of the world and its rebirth!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I remember now. Very pleasant."
+    },
+    {
+      "character": "Zuma",
+      "line": "Indeed, it is an event we all look forward to. It is said that when it happens, Ralos and Ranul unite all life as one! Can you imagine such an honour?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe we should focus on something else."
+    },
+    {
+      "character": "Player",
+      "line": "What does the northern mural depict?"
+    },
+    {
+      "character": "Attala",
+      "line": "A creature snapping a mountain in half. Care to explain this one, Zuma?"
+    },
+    {
+      "character": "Zuma",
+      "line": "It's an emissary of the blue moon! Clearly... er... bringing an end to the winter?"
+    },
+    {
+      "character": "Player",
+      "line": "Any thoughts on this one, Jess?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Blue moons are exceedinly rare... They're only seen occasionally during volcanic eruptions. It's possible that this cracking mountain signals the appearance of a volcano."
+    },
+    {
+      "character": "Jessamine",
+      "line": "You'll need to make some space for those two talismans."
+    },
+    {
+      "character": "Attala",
+      "line": "You'll need to make some space for those two talismans."
+    },
+    {
+      "character": "Zuma",
+      "line": "You'll need to make some space for those two talismans."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Do you have the enchanted talismans yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Still working on it."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Let Attala know if you need any help."
+    },
+    {
+      "character": "Player",
+      "line": "Good job mediating those two."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Thanks. It does feel a bit like I'm walking a tightrope over a scorpion nest at times."
+    },
+    {
+      "character": "Player",
+      "line": "Attala might be worse than a pit of scorpions!"
+    },
+    {
+      "character": "Attala",
+      "line": "Did I hear my name?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Yes! We were just saying how helpful you've been!"
+    },
+    {
+      "character": "Attala",
+      "line": "Hmph."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Quite!"
+    },
+    {
+      "character": "Player",
+      "line": "So how did you end up getting assigned to these ruins?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "The museum suspected there might be an Old One connection. It's one of my specialties, so exploring these kinds of places is what I do."
+    },
+    {
+      "character": "Attala",
+      "line": "Take the talismans to Nahta in Cam Torum's magic shop. Tell him I sent you."
+    },
+    {
+      "character": "Player",
+      "line": "What if I lost them?"
+    },
+    {
+      "character": "Attala",
+      "line": "Then you'll need to find some more yourself, and take better care with them once you have!"
+    },
+    {
+      "character": "Zuma",
+      "line": "Any word on the enchanted talismans?"
+    },
+    {
+      "character": "Zuma",
+      "line": "I'm afraid you'll need to talk to Attala if you need any help."
+    },
+    {
+      "character": "Player",
+      "line": "What lead you to be such a devout follower of Ranul?"
+    },
+    {
+      "character": "Zuma",
+      "line": "Ralos appeals to many who wish to live fast-paced lives."
+    },
+    {
+      "character": "Zuma",
+      "line": "I do see that appeal, but there is a calmness and peace in Ranul that calls to me."
+    },
+    {
+      "character": "Player",
+      "line": "Doesn't Ranul govern over death? That doesn't put you off?"
+    },
+    {
+      "character": "Zuma",
+      "line": "Making peace with death is one of the things that attracted me to Ranul's teachings."
+    },
+    {
+      "character": "Zuma",
+      "line": "That, and all the time I get to spend in nice and quiet libraries."
+    },
+    {
+      "character": "Player",
+      "line": "So is this place what you were expecting?"
+    },
+    {
+      "character": "Zuma",
+      "line": "Far more so! As much as Attala refuses to believe it, I think these ruins are connected to Ranul."
+    },
+    {
+      "character": "Player",
+      "line": "Is it because of all the moon symbology?"
+    },
+    {
+      "character": "Zuma",
+      "line": "That's part of it, but there's also that thing at the centre of this room. Some of the markings remind me of something I once read about."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting, if a bit vague. Care to elaborate on what it is you read about?"
+    },
+    {
+      "character": "Zuma",
+      "line": "I can't really. I'm still not done putting my theory together."
+    },
+    {
+      "character": "Player",
+      "line": "Well I look forward to hearing more once you've done so."
+    },
+    {
+      "character": "Nahta",
+      "line": "Are you in need of some runes?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I've been sent by Attala."
+    },
+    {
+      "character": "Nahta",
+      "line": "Attala? Why's that?"
+    },
+    {
+      "character": "Player",
+      "line": "We're trying to find out more about a source of magic in the ruins beneath the city. She asked me to bring some talismans to you."
+    },
+    {
+      "character": "Nahta",
+      "line": "If she needs me to get involved, then no doubt this is something well beyond your people and probably highly dangerous."
+    },
+    {
+      "character": "Nahta",
+      "line": "But I suppose if she's okay with that... Go on then, let's have a look."
+    },
+    {
+      "character": "Player",
+      "line": "Er... I seem to have misplaced them."
+    },
+    {
+      "character": "Nahta",
+      "line": "Then you'd better go and find them."
+    },
+    {
+      "character": "Nahta",
+      "line": "How in the... Where did you get these?"
+    },
+    {
+      "character": "Nahta",
+      "line": "Actually, on second thoughts, I'm not sure I want to know."
+    },
+    {
+      "character": "Nahta",
+      "line": "There. Now take them to the blacksmith. Tell him they've been enchanted to react to naguanil magic and they need some finishing touches."
+    },
+    {
+      "character": "Player",
+      "line": "Naguanil? What's that?"
+    },
+    {
+      "character": "Nahta",
+      "line": "A type of magic your people have forgotten, alongside many other things. I don't have time to catch you up on the history of the word though, so you'll need to learn more somewhere else."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks for the help."
+    },
+    {
+      "character": "Nahta",
+      "line": "And I already attuned your talismans. Take them to the blacksmith. Tell him they've been enchanted to react to naguanil magic and they need some finishing touches."
+    },
+    {
+      "character": "Player",
+      "line": "I think I've lost one of the talismans you gave me."
+    },
+    {
+      "character": "Nahta",
+      "line": "Well luckily for you, I expected this might happen."
+    },
+    {
+      "character": "Nahta",
+      "line": "Make some room and I'll get you sorted out."
+    },
+    {
+      "character": "Player",
+      "line": "I think I've lost the talismans you gave me."
+    },
+    {
+      "character": "Attala",
+      "line": "You're meant to be in Cam Torum sorting those talismans out. Return here once you have done so."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "A human? Either buy something or get out!"
+    },
+    {
+      "character": "Player",
+      "line": "I need your help with these talismans."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "I'm sure you could use my help with many things, human, but I'm very busy."
+    },
+    {
+      "character": "Player",
+      "line": "I was sent by Attala."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Attala? What's she got to do with you?"
+    },
+    {
+      "character": "Player",
+      "line": "We're investigating whether the ruins beneath the city pose any threat to its citizens."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Oh... Well I suppose I can help then, as long as you make it quick. What did you say you needed?"
+    },
+    {
+      "character": "Player",
+      "line": "The owner of the magic shop said something about these talismans detecting... aguatil?"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Naguanil. Hmm..."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help?"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Of course. This sort of magic is child's play. Where are the talismans?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... I seem to have lost them."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Then stop wasting my time!"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Of course. This sort of magic is child's play. Give me a moment..."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "All done. Take these back to Attala. She'll tell you what to do with them."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Now, get out!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about magic? Aren't you a blacksmith?"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "I am one of the Dwarves of Cam Torum, human! Our metalwork and our magic are one. I am an expert in both."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds interesting. Could you teach me how to mix smithing and magic?"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Hah, that's a good joke!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh... But can you help with the talismans?"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "I already told you to take them back to Attala. She'll tell you what to do with them."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Humans! You're lucky I prepared for this!"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Make some room if you want my help!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the talismans you gave me."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. I managed to get the dwarves to cooperate for just long enough to make them."
+    },
+    {
+      "character": "Jessamine",
+      "line": "That's no small feat! You should speak to Attala about it."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. The dwarves of Cam Torum are quite skilled, so it was relatively quick."
+    },
+    {
+      "character": "Zuma",
+      "line": "Hmph! All the skill in the world couldn't make up for their attitude."
+    },
+    {
+      "character": "Player",
+      "line": "I have the enchanted talismans."
+    },
+    {
+      "character": "Attala",
+      "line": "Good. Now let's not waste any more time. In theory, the talismans should guide you to the point in this place where these magics of earth and streams resonate most strongly."
+    },
+    {
+      "character": "Attala",
+      "line": "Of course, we've not tried something like this before, so I imagine it will require you to do some testing."
+    },
+    {
+      "character": "Player",
+      "line": "You seem to be well known by the other dwarves in Cam Torum."
+    },
+    {
+      "character": "Attala",
+      "line": "Of course. I am a key advisor to Highlord Katlo himself. Few dwarves hold as much sway as I do. Not just anyone can authorise the entry of a human."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I should thank you for letting me in then."
+    },
+    {
+      "character": "Attala",
+      "line": "Hmph! Don't make me regret it."
+    },
+    {
+      "character": "Player",
+      "line": "Your friends weren't very happy to see me."
+    },
+    {
+      "character": "Attala",
+      "line": "That doesn't surprise me. They're busy people with much less patience for humans than I have."
+    },
+    {
+      "character": "Player",
+      "line": "You have patience for humans?"
+    },
+    {
+      "character": "Attala",
+      "line": "Excuse me?"
+    },
+    {
+      "character": "Player",
+      "line": "Nevermind."
+    },
+    {
+      "character": "Attala",
+      "line": "Have you managed to find the source of these earth and stream magics yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Attala",
+      "line": "Remember, the talismans should guide you to the point in this place where these magics resonate most strongly."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Nilsal,."
+    },
+    {
+      "character": "Player",
+      "line": "Nilsal, Jess."
+    },
+    {
+      "character": "Zuma",
+      "line": "How goes the search, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Not too bad, thank you."
+    },
+    {
+      "character": "Player",
+      "line": "Argh!"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Euat xita kemo? Euat iknil?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... What?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "A human? Interesting... In that case, allow me to use a language more familiar to you."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks... I think. So who are you?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "I am Eyatlalli, a nagua of earth and streams."
+    },
+    {
+      "character": "Player",
+      "line": "Right... And what is this place?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Neypotzli. A prison."
+    },
+    {
+      "character": "Player",
+      "line": "A prison? For who? You?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "For the Moons of Peril, and their long dead summoner."
+    },
+    {
+      "character": "Player",
+      "line": "Moons of Peril?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Yes. Powerful and terrible nagua summoned to wreak havoc."
+    },
+    {
+      "character": "Player",
+      "line": "Why would anyone want to do that?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "In the face of inevitable death, a powerful shaman decided to lash out and inflict death on others."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Her fellows disagreed with her actions. They created this prison, and they summoned me to watch over it."
+    },
+    {
+      "character": "Player",
+      "line": "What was that?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The icosahedron..."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Argh!"
+    },
+    {
+      "character": "Jessamine",
+      "line": ", what's going on?!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure!"
+    },
+    {
+      "character": "Attala",
+      "line": "Hang on... is that..."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "I am Eyatlalli, a nagua of-"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Never mind the introductions, what was that shaking?!"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The icosahedron has been disturbed."
+    },
+    {
+      "character": "Player",
+      "line": "The icosa-who?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Icosahedron. An object of twenty facets, floating at the centre of this room."
+    },
+    {
+      "character": "Player",
+      "line": "Did anybody touch that thing whilst I was gone?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "Zuma did something. We were discussing the murals and when we turned around, he was gone!"
+    },
+    {
+      "character": "Attala",
+      "line": "I knew I shouldn't have let that fool priest in!"
+    },
+    {
+      "character": "Player",
+      "line": "What does the icosahedron do?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "It is key to the magics that keep the Moons of Peril contained. It reshapes and reweaves the magical seals as the Moons attempt to break them."
+    },
+    {
+      "character": "Player",
+      "line": "Isn't it a good thing it moved then?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "For it to have moved means that the seals must have needed reshaping. That has not happened for decades."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Zuma must have done something!"
+    },
+    {
+      "character": "Player",
+      "line": "Can we fix it?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "For centuries, the magic used to seal the Moons has been woven into Neypotzli and the creatures that inhabit it."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Naguanil is the magic of nature. A ritual involving the living parts of this place could re-infuse the icosahedron."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Living parts? As in the animals?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Yes. Bring me scales of a bream, the tail of a moss lizard and paste made of moonlight grubs. I will begin preparing the rest of the ritual."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The Moons of Peril rage against their bindings. Holding them back is exhausting. Please bring me the bream scales, moss lizard tail and moonlight grub paste from elsewhere in Neypotzli."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find bream?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "They can be fished in the north east section of Neypotzli."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find moss lizards?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "They can be caught in the north west section of Neypotzli. They'll likely be hiding in the bushes."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find moonlight grubs?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "They can be picked off of the saplings growing all around the north of Neypotzli."
+    },
+    {
+      "character": "Player",
+      "line": "I have the items."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Good. Arrange them as follows:"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Place the scales in the shape of the sun at high noon."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Place the lizard tail beneath it as the earth."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Now carve the earth in two with the paste, as the stream carves the earth."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The ritual is in motion, but the wound to the seal will not close with the Moons still raging against it. I must ask you for one more small favour."
+    },
+    {
+      "character": "Player",
+      "line": "Please, no..."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The Moons cannot be killed, but they can be distracted whilst I repair the seal. Enter their chambers here in Neypotzli and engage them in combat."
+    },
+    {
+      "character": "Player",
+      "line": "Aren't these things like unstoppable forces of nature or something? Am I going to be alright in there?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Ordinarily, no. Their mere presence is enough to bring most creatures to an early death. However, you have my help."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Whilst you fight them, look for my glyphs. They will protect and guide you. If the Moons become too enraged, I will transport you out of their chambers."
+    },
+    {
+      "character": "Player",
+      "line": "Could you remind me what your glyphs look like?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Here. This is what to look for."
+    },
+    {
+      "character": "Player",
+      "line": "What should I expect from the Blood Moon?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "When it starts to rain blood, look to your feet. When the jaguars are summoned, prepare to leap back."
+    },
+    {
+      "character": "Player",
+      "line": "What should I expect from the Blue Moon?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Be prepared to fight without your weapon. Ensure the room's braziers remain lit, for the cold will restore the Moon's strength."
+    },
+    {
+      "character": "Player",
+      "line": "What should I expect from the Eclipse Moon?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Ensure it doesn't catch you with your back turned. Make sure to take cover when it fires its searing hot rays."
+    },
+    {
+      "character": "Player",
+      "line": "Anything else I should know?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Any time the Moons of Peril inflict pain, they can heal themselves, freeze your joints, or blind your eyes. A defensive approach should be used against them."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The Moons of Peril rage against their bindings. Holding them back is exhausting. Please bring me the moss lizard tail and moonlight grub paste from elsewhere in Neypotzli"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "The Moons of Peril rage against their bindings. Holding them back is exhausting. Please bring me the moonlight grub paste from elsewhere in Neypotzli."
+    },
+    {
+      "character": "Player",
+      "line": "This is quite the dilemma."
+    },
+    {
+      "character": "Jessamine",
+      "line": "It is, although I'd be lying if I didn't admit that it is also fascinating."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Naguanil magic, ancient spirits of nature... This is the discovery of the century!"
+    },
+    {
+      "character": "Player",
+      "line": "Let's make sure that Cam Torum is safe before we start celebrating."
+    },
+    {
+      "character": "Attala",
+      "line": "I'm sorry..."
+    },
+    {
+      "character": "Player",
+      "line": "What for?"
+    },
+    {
+      "character": "Attala",
+      "line": "After berating you about keeping an eye on the priest, I failed to do the same myself. I was caught up in the mystery."
+    },
+    {
+      "character": "Attala",
+      "line": "Perhaps there's a little human in me after all!"
+    },
+    {
+      "character": "Player",
+      "line": "It's okay, we'll figure this out."
+    },
+    {
+      "character": "Player",
+      "line": "You seem remarkably calm considering everything that's going on."
+    },
+    {
+      "character": "Builder 2",
+      "line": "Life's unpredictable, mate. No sense stressin' over what's out of your control."
+    },
+    {
+      "character": "Builder 1",
+      "line": "It's not like we're not aware of the danger we're in, but worryin' about it ain't productive."
+    },
+    {
+      "character": "Player",
+      "line": "Shouldn't you be getting out of here if you feel like you're in danger?"
+    },
+    {
+      "character": "Builder 2",
+      "line": "We may not be in total control of our surroundings, but we can still impact them positively through our actions. Like bein' here to support you."
+    },
+    {
+      "character": "Builder 1",
+      "line": "Even if that's just emotionally. We believe in you, mate."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Builder 2",
+      "line": "No worries, mate. Go get 'em."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Thank you, iknil. The Moons are sufficiently distracted. You should now return to me."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Thank you, iknil. The Blue Moon of Peril is sufficiently distracted. You should now proceed on to the next one."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Thank you, iknil. The Blood Moon of Peril is sufficiently distracted. You should now proceed on to the next one."
+    },
+    {
+      "character": "Zuma",
+      "line": "I can't believe it... An emissary of my god, standing before me..."
+    },
+    {
+      "character": "Player",
+      "line": "Zuma, no! Step back!"
+    },
+    {
+      "character": "Player",
+      "line": "Get out of here!"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Thank you, iknil. Eclipse Moon of Peril is sufficiently distracted. You should now proceed on to the next one."
+    },
+    {
+      "character": "Player",
+      "line": "I've done everything I need to here. I should check in with Eyatlalli."
+    },
+    {
+      "character": "Zuma",
+      "line": "I am a fool..."
+    },
+    {
+      "character": "Player",
+      "line": "Well... yes, a bit."
+    },
+    {
+      "character": "Builder 1",
+      "line": "You meant well. You thought you were helpin'. Can't fault you for that part, mate."
+    },
+    {
+      "character": "Builder 2",
+      "line": "You made a mistake. Coulda been any of us. Just gotta make sure we learn from our mistakes is all."
+    },
+    {
+      "character": "Builder 1",
+      "line": "And if yer genuinely sorry, best you can do is work to be better, not mope around. So keep your chin up, mate!"
+    },
+    {
+      "character": "Zuma",
+      "line": "Thank you..."
+    },
+    {
+      "character": "Player",
+      "line": "What did you do, anyway?"
+    },
+    {
+      "character": "Zuma",
+      "line": "I saw sun and moon runes on that thing. Recalled something from Ranul's teachings, a rite he once performed..."
+    },
+    {
+      "character": "Zuma",
+      "line": "I tried to emulate it, and it worked. I thought I had freed his emissaries. But they weren't that at all..."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting. Maybe there was some sort of connection between Ranul and this place after all."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Did you do it?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Good work,. We made many significant discoveries today, even if it was a bit precarious."
+    },
+    {
+      "character": "Player",
+      "line": "Perilous, even."
+    },
+    {
+      "character": "Jessamine",
+      "line": "I'll be sticking around here for some time I reckon. There's still so much to discover in this place. See you around."
+    },
+    {
+      "character": "Attala",
+      "line": "The nagua seems to have relaxed. I assume you were successful?"
+    },
+    {
+      "character": "Attala",
+      "line": "You have my gratitude,. You have helped to ensure Cam Torum's safety. You will always be welcome back."
+    },
+    {
+      "character": "Player",
+      "line": "Something tells me the rest of your people won't be too happy about that."
+    },
+    {
+      "character": "Attala",
+      "line": "Well it's not their choice, so they'll just have to suck it up. Who knows, maybe given long enough, you might start to grow on them!"
+    },
+    {
+      "character": "Zuma",
+      "line": "I suppose I should think about heading back to the Teomat. I might not mention everything that happened down here to the others..."
+    },
+    {
+      "character": "Player",
+      "line": "I guess that's understandable."
+    },
+    {
+      "character": "Zuma",
+      "line": "I suppose I still have plenty to share. Maybe I'll write a book about it!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure it will be a great one. Until next time, Zuma."
+    },
+    {
+      "character": "Builder 1",
+      "line": "Well, all's well that ends well."
+    },
+    {
+      "character": "Builder 2",
+      "line": "We never had any doubts! Always knew you'd get it sorted, mate."
+    },
+    {
+      "character": "Builder 2",
+      "line": "No worries, mate."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "You have done well. The seal is repaired, but the Moons have seen a glimpse of freedom. Even now they rage against their bindings. It is... taxing."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can do to help?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "You could. Distracting them again will afford me some rest. In return, I am willing to repay you with trinkets from ancient times."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds interesting."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Very well. Come and claim your rewards from the chamber to the south east. Should you aid in containing them again, you can return there to receive more rewards."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "For now though, thank you for your help, iknil."
+    },
+    {
+      "character": "Player",
+      "line": "Do you ever get tired of guarding this place?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "Care to explain further?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Does the stream tire of eroding the earth? Does the earth tire of forming the mountain?"
+    },
+    {
+      "character": "Player",
+      "line": "Not that I can tell."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "I have more in common with them than I do with most of your kind, iknil. Think of me as you do them."
+    },
+    {
+      "character": "Player",
+      "line": "This place is beautiful. I thought it was supposed to be a prison?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "It is a prison. Everything around us serves that purpose."
+    },
+    {
+      "character": "Player",
+      "line": "Even the plants and the streams?"
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "I am a nagua of earth and stream. Being close to both empowers me to do my task."
+    },
+    {
+      "character": "Eyatlalli",
+      "line": "Just as being far from moonlight weakens the Moons of Peril."
+    },
+    {
+      "character": "Builder 1",
+      "line": "Good to see you again, mate."
+    },
+    {
+      "character": "Player",
+      "line": "Good to see you both as well. How's things?"
+    },
+    {
+      "character": "Builder 2",
+      "line": "Never better, mate. Never better. This here ruin was the find of the century!"
+    },
+    {
+      "character": "Builder 1",
+      "line": "All credit to Jess, o'course, but we're glad to be doing our bit!"
+    },
+    {
+      "character": "Player",
+      "line": "Glad to hear it."
+    },
+    {
+      "character": "Jessamine",
+      "line": "Nilsal,. How are things going?"
+    },
+    {
+      "character": "Player",
+      "line": "Pretty good, thanks. How about you? Made any more discoveries down here?"
+    },
+    {
+      "character": "Jessamine",
+      "line": "More than you can count! I've found so much new information on the Old Ones and naguanil. The museum are hoping to include it all in some new exhibits soon!"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds awesome! I'll be sure to keep an eye out for them. On that note, I'll let you get back to it."
+    },
+    {
+      "character": "Attala",
+      "line": "Hello there,. What can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "How are things?"
+    },
+    {
+      "character": "Attala",
+      "line": "Now that the situation in the ruins is under control, things are nice and quiet, which is just what we need. That whole buisness down there got a lot of dwarves riled up."
+    },
+    {
+      "character": "Attala",
+      "line": "Naturally, most blame you humans."
+    },
+    {
+      "character": "Player",
+      "line": "Of course. Have you tried explaining to them that we actually helped?"
+    },
+    {
+      "character": "Attala",
+      "line": "Ha! Good one. You think I'm going to make a laughing stock of myself by daring to claim a human did something positive? Keep dreaming!"
+    },
+    {
+      "character": "Player",
+      "line": "So how long has Cam Torum been around?"
+    },
+    {
+      "character": "Attala",
+      "line": "What am I, a historian?"
+    },
+    {
+      "character": "Player",
+      "line": "No, but you're the only dwarf here that might be willing to share that sort of information with me."
+    },
+    {
+      "character": "Attala",
+      "line": "Hmph. Very well. The Varlamorians won't mention this, but we were the first to settle here. Our ancestors saw the writing on the wall when Xeric came to power in Kourend. They chose not to stick around."
+    },
+    {
+      "character": "Player",
+      "line": "Must have been a big thing for them, leaving their home."
+    },
+    {
+      "character": "Attala",
+      "line": "Doubtful. My people are all too familiar with that sort of thing. The Lovakengj dwarves have mostly forgotten their history, but we Dwarves of Cam Torum remember it all too well."
+    },
+    {
+      "character": "Player",
+      "line": "Remember what?"
+    },
+    {
+      "character": "Attala",
+      "line": "Before Lovakengj, there was Imcandoria. Our ancestors there were forced to abandon their home, just as we were forced to leave Kourend."
+    },
+    {
+      "character": "Attala",
+      "line": "If you humans had had your way, we might have had to abandon Cam Torum by now as well."
+    },
+    {
+      "character": "Player",
+      "line": "You don't know that."
+    },
+    {
+      "character": "Attala",
+      "line": "But I do know that. As I said, we remember our history, and we know that those who don't are doomed to repeat it."
+    },
+    {
+      "character": "Attala",
+      "line": "The Varlamorians nearly destroyed themselves in their War of Betrayal, but it was not them who were betrayed, it was us."
+    },
+    {
+      "character": "Attala",
+      "line": "I was a young dwarf when their war risked destroying our home. I saw the results of their pride. Meanwhile, they've all but forgotten it."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry. I didn't mean to dig up old wounds."
+    },
+    {
+      "character": "Attala",
+      "line": "Hmph. It's fine. Your intentions are good, which is more than can be said for most of your kind. Who knows, maybe one or two dwarves here might even grow to tolerate you."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get going."
+    },
+    {
+      "character": "Zuma",
+      "line": "Nilsal,."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Zuma. How are things?"
+    },
+    {
+      "character": "Zuma",
+      "line": "A lot less stressful up here. I think I might leave the adventuring to people like you from now on."
+    },
+    {
+      "character": "Zuma",
+      "line": "Still, at least it gave me a lot to talk about. Those Moons of Peril are concerning, but exciting! I just wish we knew more about their potential links to Ranul."
+    },
+    {
+      "character": "Player",
+      "line": "So you still think there is a link?"
+    },
+    {
+      "character": "Zuma",
+      "line": "Oh yes. It may not have been the one I originally thought, but there must be something! They're called Moons after all!"
+    },
+    {
+      "character": "Zuma",
+      "line": "The all-powerful Ranul wouldn't have just let some random creatures take on a name like that!"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... It's an interesting thought."
+    },
+    {
+      "character": "Zuma",
+      "line": "Indeed. And on that note, I have some research to do! Until next time."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Attala",
+      "description": "Middle-aged female dwarf, deep authoritative voice with a Scottish accent, impatient and stern but pragmatic. A high-ranking advisor who distrusts humans but respects competence."
+    },
+    {
+      "name": "Blacksmith",
+      "description": "Adult male dwarf, gruff Scottish accent, brusque and dismissive toward humans. A master craftsman who takes pride in his metalwork and has no patience for small talk."
+    },
+    {
+      "name": "Builder 1",
+      "description": "Adult male human, working-class British accent with dropped consonants, friendly and philosophical despite his simple job. Often says 'mate' and speaks with calm optimism."
+    },
+    {
+      "name": "Builder 2",
+      "description": "Adult male human, working-class British accent similar to his partner, thoughtful and supportive. Offers wisdom through simple words and maintains a positive outlook."
+    },
+    {
+      "name": "Citizen",
+      "description": "Adult dwarf, Scottish accent, curt and unwelcoming toward humans. Speaks with barely concealed disdain and keeps interactions brief."
+    },
+    {
+      "name": "Eyatlalli",
+      "description": "Ancient female nagua spirit, ethereal and flowing voice with an otherworldly quality. Speaks calmly and deliberately, embodying the patience of earth and streams."
+    },
+    {
+      "name": "Guard",
+      "description": "Adult male dwarf, stern Scottish accent, short-tempered and suspicious. A dutiful soldier who takes his job seriously and views humans as potential threats."
+    },
+    {
+      "name": "Jessamine",
+      "description": "Young adult female human, British accent, enthusiastic and curious. An optimistic archaeologist who balances academic excitement with diplomatic skill when mediating conflicts."
+    },
+    {
+      "name": "Nahta",
+      "description": "Adult female dwarf, Scottish accent, businesslike and slightly dismissive of humans. A knowledgeable mage who runs the rune shop and speaks with practiced efficiency."
+    },
+    {
+      "name": "Zuma",
+      "description": "Adult male human, reverent and passionate tone with a slight Varlamore accent. A devout follower of Ranul whose religious fervor sometimes overrides his better judgment."
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "branch": "quest/the-restless-ghost",
+  "quest_name": "The Restless Ghost",
+  "lines": [
+    {
+      "character": "Father Aereck",
+      "line": "Welcome to the church of holy Saradomin."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a quest."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "That's lucky, I need someone to do a quest for me."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let me help then."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Thank you. The problem is, there is a ghost in the church graveyard. I would like you to get rid of it."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "If you need any help, my friend Father Urhney is an expert on ghosts."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "I believe he is currently living as a hermit in Lumbridge swamp. He has a little shack in the far west of the swamps."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Exit the graveyard through the south gate to reach the swamp. I'm sure if you told him that I sent you he'd be willing to help."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "My name is Father Aereck by the way. Pleased to meet you."
+    },
+    {
+      "character": "Player",
+      "line": "Likewise."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Take care travelling through the swamps, I have heard they can be quite dangerous."
+    },
+    {
+      "character": "Player",
+      "line": "I will, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't have time right now."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Oh well. If you do have some spare time on your hands, come back and talk to me."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Have you got rid of the ghost yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't find Father Urhney at the moment."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Well, you can get to the swamp he lives in by going south through the cemetery."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "You'll have to go right into the far western depths of the swamp, near the coastline. That is where his house is."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Go away! I'm meditating!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, that's friendly."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "I SAID go AWAY."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay... sheesh, what a grouch."
+    },
+    {
+      "character": "Player",
+      "line": "Father Aereck sent me to talk to you."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "I suppose I'd better talk to you then. What problems has he got himself into this time?"
+    },
+    {
+      "character": "Player",
+      "line": "He's got a ghost haunting his graveyard."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Oh, the silly fool."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "I leave town for just five months, and ALREADY he can't manage."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Well, I can't go back and exorcise it. I vowed not to leave this place. Until I had done a full two years of prayer and meditation."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Tell you what I can do though; take this amulet."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "It is an Amulet of Ghostspeak."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "So called, because when you wear it you can speak to ghosts. A lot of ghosts are doomed to be ghosts because they have left some important task uncompleted."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Maybe if you know what this task is, you can get rid of the ghost. I'm not making any guarantees mind you, but it is the best I can do right now."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I'll give it a try!"
+    },
+    {
+      "character": "Player",
+      "line": "You mean he gets himself into lots of problems?"
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Yeah. For example, when we were trainee priests he kept on getting stuck up bell ropes."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Anyway. I don't have time for chitchat. What's his problem THIS time?"
+    },
+    {
+      "character": "Player",
+      "line": "I've come to repossess your house."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Under what grounds???"
+    },
+    {
+      "character": "Player",
+      "line": "Repeated failure on mortgage repayments."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "What?"
+    },
+    {
+      "character": "Father Urhney",
+      "line": "But... I don't have a mortgage! I built this house myself!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry. I must have got the wrong address. All the houses look the same around here."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "What? What houses? What ARE you talking about???"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "I don't know. I just wanted this house..."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Oh... go away and stop wasting my time!"
+    },
+    {
+      "character": "Player",
+      "line": "I had a talk with Father Urhney. He has given me this funny amulet to talk to the ghost with."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "I always wondered what that amulet was... Well, I hope it's useful. Tell me when you get rid of the ghost!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the Amulet of Ghostspeak."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "What are you talking about? I can see you've got it with you!"
+    },
+    {
+      "character": "Father Urhney",
+      "line": "You come here wasting my time... Has it even occurred to you that you've got it stored somewhere? Now GO AWAY!"
+    },
+    {
+      "character": "Father Urhney",
+      "line": "How careless can you get? Those things aren't easy to come by you know! Now clear some space in your inventory and I'll give you another one."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "How careless can you get? Those things aren't easy to come by you know! It's a good job I've got a spare."
+    },
+    {
+      "character": "Father Urhney",
+      "line": "Be more careful this time."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll try to be."
+    },
+    {
+      "character": "Player",
+      "line": "Hello ghost, how are you?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooo wooo wooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't speak ghost."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Woo woo?"
+    },
+    {
+      "character": "Player",
+      "line": "Nope, still don't understand you."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "WOOOOOOOOO!"
+    },
+    {
+      "character": "Player",
+      "line": "Ooh, THAT'S interesting."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Woo wooo. Woooooooooooooooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "Did he really?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Woo."
+    },
+    {
+      "character": "Player",
+      "line": "My brother had EXACTLY the same problem."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Woo Wooooo!"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooooo Woo woo woo!"
+    },
+    {
+      "character": "Player",
+      "line": "You'll have to give me the recipe some time..."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooooooo woo woooooooo."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... I'm not so sure about that."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooo woo?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, if you INSIST."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooooooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah well, better be off now..."
+    },
+    {
+      "character": "Player",
+      "line": "Bye."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, that's what I thought."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooo woooooooooooooo..."
+    },
+    {
+      "character": "Player",
+      "line": "Goodbye. Thanks for the chat."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooo wooo?"
+    },
+    {
+      "character": "Player",
+      "line": "Any hints where I can find some treasure?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooooooo woo! Wooooo woo wooooo woowoowoo woo Woo wooo. Wooooo woo woo? Woooooooooooooooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. You've been very helpful."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Wooooooo."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Not very good actually."
+    },
+    {
+      "character": "Player",
+      "line": "What's the problem then?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Did you just understand what I said???"
+    },
+    {
+      "character": "Player",
+      "line": "Yep, now tell me what the problem is."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "WOW! This is INCREDIBLE! I didn't expect anyone to ever understand me again!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, Ok, I can understand you!"
+    },
+    {
+      "character": "Player",
+      "line": "But have you any idea WHY you're doomed to be a ghost?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Well, to be honest... I'm not sure."
+    },
+    {
+      "character": "Player",
+      "line": "I've been told a certain task may need to be completed so you can rest in peace."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "I should think it is probably because a warlock has come along and stolen my skull. If you look inside my coffin there, you'll find my corpse without a head on it."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where this warlock might be now?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "I think it was one of the warlocks who lives in the big tower by the sea south-west from here."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. I will try and get the skull back for you, then you can rest in peace."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Ooh, thank you. That would be such a great relief!"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "It is so dull being a ghost..."
+    },
+    {
+      "character": "Player",
+      "line": "No, you sound like you're speaking nonsense to me."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Oh that's a pity. You got my hopes up there."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, it is a pity. Sorry about that."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Hang on a second... you CAN understand me!"
+    },
+    {
+      "character": "Player",
+      "line": "No I can't."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Great. The first person I can speak to in ages...and they're a moron."
+    },
+    {
+      "character": "Player",
+      "line": "Yep, clever aren't I?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "I'm impressed. You must be very powerful. I don't suppose you can stop me being a ghost?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, ok. Do you know WHY you're a ghost?"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Nope. I just know I can't do much of anything like this!"
+    },
+    {
+      "character": "Player",
+      "line": "No, you're scary!"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Great."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "The first person I can speak to in ages..."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "..and they're an idiot."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, this amulet works!"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Oh! It's your amulet that's doing it! I did wonder. I don't suppose you can help me? I don't like being a ghost."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "How are you doing finding my skull?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I can't find it at the moment."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Ah well. Keep on looking."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "I'm pretty sure it's somewhere in the tower south-west from here. There's a lot of levels to the tower, though. I suppose it might take a little while to find."
+    },
+    {
+      "character": "Player",
+      "line": "I've found out that the ghost's corpse has lost its skull. If I can find the skull, the ghost should leave."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "That WOULD explain it."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Hmmmmm. Well, I haven't seen any skulls."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I think a warlock has stolen it."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "I hate warlocks."
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Ah well, good luck!"
+    },
+    {
+      "character": "Player",
+      "line": "I've finally found the ghost's skull!"
+    },
+    {
+      "character": "Father Aereck",
+      "line": "Great! Put it in the ghost's coffin and see what happens!"
+    },
+    {
+      "character": "Player",
+      "line": "I have found it!"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Hurrah! Now I can stop being a ghost! You just need to put it in my coffin there, then I'll be free!"
+    },
+    {
+      "character": "Restless ghost",
+      "line": "If you just put it in my coffin that should do the trick..."
+    },
+    {
+      "character": "Restless ghost",
+      "line": "Release! Thank you stranger.."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Father Aereck",
+      "description": "Elderly male, British accent, warm and gentle tone with a hint of world-weariness. A kindly but slightly clumsy priest who runs Lumbridge church and often finds himself in mishaps."
+    },
+    {
+      "name": "Father Urhney",
+      "description": "Older male, British accent, gruff and irritable tone. A hermit priest who values his solitude and meditation but is frequently interrupted, making him perpetually exasperated yet fundamentally helpful."
+    },
+    {
+      "name": "Restless ghost",
+      "description": "Male ghost, hollow and ethereal voice with mournful undertones. A spectral being trapped in the mortal realm due to his stolen skull, conveying both supernatural otherness and genuine anguish."
+    }
+  ]
+}

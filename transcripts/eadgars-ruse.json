@@ -1,0 +1,756 @@
+{
+  "branch": "quest/eadgars-ruse",
+  "quest_name": "Eadgar's Ruse",
+  "lines": [
+    {
+      "character": "Sanfew",
+      "line": "What can I do for you young 'un?"
+    },
+    {
+      "character": "Player",
+      "line": "Have you any more work for me, to help reclaim the circle?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Not just yet, young 'un."
+    },
+    {
+      "character": "Sanfew",
+      "line": "'m afraid you are not yet learned enough in the art of Herblore to be able to help me, adventurer..."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Ah, you've come just in time. I need a certain herb for the next part of the purification ritual..."
+    },
+    {
+      "character": "Sanfew",
+      "line": "It used to be quite common, but nowadays only the trolls know where to find it. They use it in their cooking, you see. It's a very prized ingredient."
+    },
+    {
+      "character": "Player",
+      "line": "And what exactly do you want me to do?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Journey to the north into the land of the trolls, and find the secret of the herb the trolls call 'goutweed'."
+    },
+    {
+      "character": "Sanfew",
+      "line": "My friend Eadgar lives in the area, and he may be able to help you. Bring some goutweed back and I will teach you something useful."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do it."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Thank you, adventurer!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Oh well. No doubt some other adventurer will eventually come who can help me."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't need to speak to you."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Well, we all make mistakes sometimes."
+    },
+    {
+      "character": "Player",
+      "line": "What was I meant to be doing again?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "I've told you already."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Journey to the north into the land of the trolls, and find the secret of the herb the trolls call goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get on with it."
+    },
+    {
+      "character": "Player",
+      "line": "So, you're doing laundry, eh?"
+    },
+    {
+      "character": "Tegid",
+      "line": "Yes. What is it to you?"
+    },
+    {
+      "character": "Player",
+      "line": "Nice day for it."
+    },
+    {
+      "character": "Tegid",
+      "line": "I suppose it is."
+    },
+    {
+      "character": "Player",
+      "line": "Hi!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Welcome to Mad Eadgar's! Happiness in a bowl!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Would you care to sample our delicious home cooking?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to find some goutweed. Sanfew said you might be able to help."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Sanfew, you say? Ah, haven't seen him in a while..."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Goutweed is used as an ingredient in troll cooking. You should ask one of their cooks."
+    },
+    {
+      "character": "Player",
+      "line": "Why do you live so close to the trolls? Isn't it dangerous?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Well, I suppose I do keep getting captured by the trolls and thrown in prison...But they always release me in the end, I'm far too old and skinny for their tastes."
+    },
+    {
+      "character": "Eadgar",
+      "line": "In any case, this is my home, and I'm not leaving it. And this area has the tastiest goats!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you have to offer?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "The chef's recommendation for today is mountain goat stew. I'll give some stew in exchange for logs for my fire. They're hard to come by around here."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like some mountain goat stew, please."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Here you go! Enjoy!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, Eadgar."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Your loss!"
+    },
+    {
+      "character": "Player",
+      "line": "Er, hi."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Hmm? What human do in troll kitchen? Burntmeat tired of cooking goats. Human look tasty."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, you don't want to eat me! I'm a tough, hardened adventurer, not tender or tasty at all!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Hmm. Burntmeat think you probably right. What human doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm on a quest to find some goutweed."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Bwahahaha! Burntmeat not give his greatest cooking secret away so easily."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "But Burntmeat also has quest for human!"
+    },
+    {
+      "character": "Player",
+      "line": "Really? What is it?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Bring back a tasty human for Burntmeat's stew. If you find tasty human, Burntmeat will give you good reward."
+    },
+    {
+      "character": "Player",
+      "line": "Right. I'll just...go fetch that for you then. Bye!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Did you find tasty human?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm, not yet, but I'm working on it..."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Oh, it's you. Have you talked to the troll cook yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I talked to the troll cook but he wouldn't tell me anything, and now he wants me to find him some tasty human for his stew."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Oh dear, that's no good. You can't just go hand over a human to those trolls..."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Aha! I have a plan!"
+    },
+    {
+      "character": "Player",
+      "line": "Really?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Yes! It's bound to work. First of all, I will need a parrot!"
+    },
+    {
+      "character": "Player",
+      "line": "A PARROT? Where am I going to find one of those?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "At the zoo, where else?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Anything else I can do for you?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Oh, it's you. Have you got me a parrot yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't been able to find one yet."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Well, go see if the zoo have one."
+    },
+    {
+      "character": "Player",
+      "line": "Where's the zoo?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "It's in Ardougne, south west of here."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be right back."
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "Good day, good day. Come to admire the new parrot aviary have we?"
+    },
+    {
+      "character": "Player",
+      "line": "It's very nice."
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "Isn't it just?"
+    },
+    {
+      "character": "Player",
+      "line": "When did you add it?"
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "Just recently. It would have been sooner, but some wretch thought it would be amusing to replace their drinking water with vodka. The vet had to nurse them back to health for weeks!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you feed them?"
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "Well, fruit and grain mostly. I try to give them a balanced diet, but their favourite treat is pineapple chunks."
+    },
+    {
+      "character": "Player",
+      "line": "They won't drink it straight from the bottle..."
+    },
+    {
+      "character": "Player",
+      "line": "I need some way to slow it down..."
+    },
+    {
+      "character": "Player",
+      "line": "Hah! Got you now!"
+    },
+    {
+      "character": "Parrot",
+      "line": "Sqwaawk...*hic*"
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "Hey! What are you doing with that parrot?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "It looks drunk! You should NEVER feed alcohol to a parrot!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, good thing I found it! I'll just take it to the vet for you, shall I?"
+    },
+    {
+      "character": "Parroty Pete",
+      "line": "Oh, thank you! We're ever so busy here at the Zoo."
+    },
+    {
+      "character": "Parrot",
+      "line": "Raaawk! Polly wanna cracker!"
+    },
+    {
+      "character": "Player",
+      "line": "Here it is! Now are you going to explain your plan?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Yes, yes, of course. It's quite ingenious really!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "What we need is something that looks like a human, sounds like a human, smells like a human and tastes like a human."
+    },
+    {
+      "character": "Player",
+      "line": "How are we going to make it look like a human?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "We'll just make a scarecrow. We'll need logs, and 10 sheaves of wheat for stuffing."
+    },
+    {
+      "character": "Player",
+      "line": "How are we going to make it sound like a human?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "That's what the parrot's for, of course."
+    },
+    {
+      "character": "Parrot",
+      "line": "Who's a pretty boy then?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Although the trolls might get suspicious if it doesn't say what they expect a human to say..."
+    },
+    {
+      "character": "Eadgar",
+      "line": "You should hide it for a while somewhere it can pick up some more appropriate catchphrases."
+    },
+    {
+      "character": "Player",
+      "line": "How are we going to make it smell like a human?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Well, we'll need to dress it up anyway; if we use dirty clothes it'll smell human to the trolls."
+    },
+    {
+      "character": "Eadgar",
+      "line": "I'm a man of few clothes myself, so you might want to ask old Sanfew about that one."
+    },
+    {
+      "character": "Player",
+      "line": "And how are we going to make it taste like a human?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "That's easy, we'll just stuff it with a few chickens. Everything tastes like chicken! Five raw chickens should be enough."
+    },
+    {
+      "character": "Eadgar",
+      "line": "That's the plan. Anything else I can do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "What should I do with this parrot?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "I told you, put it somewhere it'll learn to say the sort of thing the trolls will expect it to say."
+    },
+    {
+      "character": "Eadgar",
+      "line": "This is likely to be screaming. There's bound to be a good spot somewhere in the troll prison."
+    },
+    {
+      "character": "Parrot",
+      "line": "Polly wanna cracker!"
+    },
+    {
+      "character": "Parrot",
+      "line": "Pieces of eight! Pieces of eight!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think it's done yet."
+    },
+    {
+      "character": "Player",
+      "line": "I hid the parrot under the rack in the troll prison."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Good work. How about those other items?"
+    },
+    {
+      "character": "Player",
+      "line": "I have logs, of grain and dirty clothes."
+    },
+    {
+      "character": "Eadgar",
+      "line": "You now need logs, of grain and dirty clothes."
+    },
+    {
+      "character": "Player",
+      "line": "Eadgar says he needs some dirty clothes for his plan, and he said you might be able to help."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Now why would he need that?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a long story."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Never mind then... I think Tegid is doing his laundry outside. You could ask him if you can borrow one of his dirty robes."
+    },
+    {
+      "character": "Player",
+      "line": "You wouldn't be able to spare any of those dirty robes by any chance? It's a matter of the utmost importance."
+    },
+    {
+      "character": "Tegid",
+      "line": "What? No! These are my robes!"
+    },
+    {
+      "character": "Player",
+      "line": "Fine."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure Sanfew won't be happy when I tell him it's your fault he can't perform the purification ritual."
+    },
+    {
+      "character": "Tegid",
+      "line": "What? Oh well, if it's a matter of that much importance, I suppose you can borrow one..."
+    },
+    {
+      "character": "Player",
+      "line": "You'll give me those robes right now...or I'm going to cut down trees until you do."
+    },
+    {
+      "character": "Tegid",
+      "line": "You wouldn't dare!"
+    },
+    {
+      "character": "Player",
+      "line": "Of course I would. They're just trees."
+    },
+    {
+      "character": "Tegid",
+      "line": "You monster! Take the robes and leave this place!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "How are you getting on?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "That's everything!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Good, good, everything is almost finished."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Of course, we can't just give him the dummy and expect to get anything useful out of him."
+    },
+    {
+      "character": "Player",
+      "line": "Oh?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "No, of course not. We need to make sure he'll tell you what you need to know."
+    },
+    {
+      "character": "Player",
+      "line": "And how do we do that?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "I happen to know that the trolls are susceptible to a certain kind of plant that grows around this mountain. I call it Troll Thistle. If properly prepared, it can be made into a sort of Troll truth potion."
+    },
+    {
+      "character": "Player",
+      "line": "How do you prepare it?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "You'll have to dry it in a fire, then grind it and mix it into a potion with Ranarr weed."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back with that soon."
+    },
+    {
+      "character": "Player",
+      "line": "How do I make the troll truth potion again?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Troll Thistle grows around this mountain. If properly prepared, it can be made into a sort of Troll truth potion."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better not mess around with Eadgar's stew!"
+    },
+    {
+      "character": "Player",
+      "line": "I've got the troll truth potion."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Excellent, thank you. Now just go fetch that poor parrot back, it's probably had enough by now."
+    },
+    {
+      "character": "Parrot",
+      "line": "Ah, hello Sir. Could you please free me? I seem to have... OW! What are you doing? That's my spleen!"
+    },
+    {
+      "character": "Player",
+      "line": "I think it's probably heard enough."
+    },
+    {
+      "character": "Player",
+      "line": "The parrott flew off, I wonder where it went? Silly thing prefered Eadgar to me!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Oh, it's you. You didn't lose your parrot did you? One flew over here and I managed to capture it."
+    },
+    {
+      "character": "Eadgar",
+      "line": "That's what I thought."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Just give me a moment...there we go! Can you tell this isn't a bona fide human being? I sure can't!"
+    },
+    {
+      "character": "Player",
+      "line": "I've brought the parrot."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Hand it here...there we go! Can you tell this isn't a bona fide human being? I sure can't!"
+    },
+    {
+      "character": "Fake man",
+      "line": "What am I doing here? Ow! Where's the rest of the Guard? Agh! I won't tell you anything!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Have you given the fake man to the troll cook yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Go on then, give it to the cook!"
+    },
+    {
+      "character": "Player",
+      "line": "No. I lost it."
+    },
+    {
+      "character": "Eadgar",
+      "line": "You bumbling imbecile!"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Never mind, here's one I prepared earlier."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Did you find tasty human? Burntmeat smell something good."
+    },
+    {
+      "character": "Player",
+      "line": "Yes! Look!"
+    },
+    {
+      "character": "Fake man",
+      "line": "Heeeeeeelp!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Ah, dat look like nice tasty human."
+    },
+    {
+      "character": "Fake man",
+      "line": "Aaaargh! Somebody save me!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Yep, sound like human too. Burntmeat put it in stew. Good work, human. Burntmeat give precious reward."
+    },
+    {
+      "character": "Player",
+      "line": "This is burnt meat."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "It first thing I ever try to cook! Very precious to Burntmeat."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you... and how's the stew?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Slurp, mmm... Human stew cheer Burntmeat up!"
+    },
+    {
+      "character": "Player",
+      "line": "So, where can I get some goutweed?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Hah! Trolls pick it all until none left, many years ago. Only remaining stock in storeroom."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "It well guarded, and Burntmeat hide key in fake bottom of kitchen drawer. Nobody find it there."
+    },
+    {
+      "character": "Player",
+      "line": "That's some well-guarded secret alright. I'll just be off on my way now."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be going now."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Bye, bye."
+    },
+    {
+      "character": "Player",
+      "line": "How's the stew?"
+    },
+    {
+      "character": "Eadgar",
+      "line": "Well? Did the plan work?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! I can get into the storeroom now."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Glad to hear it!"
+    },
+    {
+      "character": "Player",
+      "line": "I have some goutweed!"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Excellent! I will be able to complete the next part of the ritual now. I will teach you a new spell and give you some of my knowledge in Herblore as a token of thanks."
+    },
+    {
+      "character": "Sanfew",
+      "line": "If you ever come across more goutweed, bring it to me; I don't need any more for the ritual, but it's still quite difficult for me to get. I'll exchange it for some other herbs."
+    },
+    {
+      "character": "Eadgar",
+      "line": "Welcome to Mad Eadgar's! Serving all day, every day!"
+    },
+    {
+      "character": "Player",
+      "line": "I have some more goutweed for you."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Ah, good. Here are some herbs in exchange."
+    },
+    {
+      "character": "Player",
+      "line": "Have you any more work for me to help reclaim the stone circle?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Well, not right now I don't think young 'un. In fact, I need to make some more preparations myself for the ritual. Rest assured, if I need any more help I will ask you again."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Burntmeat",
+      "description": "Deep, gruff male voice with a slow, simple-minded tone. Speaks in third person with broken grammar like a dim-witted troll. British accent, menacing yet comically oblivious."
+    },
+    {
+      "name": "Eadgar",
+      "description": "Elderly male, British accent, eccentric and theatrical with a gleeful, slightly unhinged tone. A mad hermit who speaks with enthusiasm about his wild schemes."
+    },
+    {
+      "name": "Fake man",
+      "description": "Squawky parrot voice mimicking human distress calls. High-pitched, exaggerated screaming sounds with a comedic bird-like quality."
+    },
+    {
+      "name": "Parrot",
+      "description": "Classic parrot voice, high-pitched and squawky. Speaks in short, repetitive phrases typical of a trained bird. Slightly drunk-sounding in early dialogue."
+    },
+    {
+      "name": "Parroty Pete",
+      "description": "Middle-aged male, cheerful British accent with a friendly, enthusiastic tone. A dedicated zoo employee who takes pride in his parrots."
+    },
+    {
+      "name": "Sanfew",
+      "description": "Elderly male, wise and gentle with a soft British accent. Speaks with warmth, using old-fashioned terms like 'young un'. A patient druid leader."
+    },
+    {
+      "name": "Tegid",
+      "description": "Middle-aged male, British accent, curt and slightly irritable tone. A druid who is protective of his belongings and annoyed by interruptions to his chores."
+    }
+  ]
+}

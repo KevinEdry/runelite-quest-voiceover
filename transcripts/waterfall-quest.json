@@ -1,0 +1,428 @@
+{
+  "branch": "quest/waterfall-quest",
+  "quest_name": "Waterfall Quest",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Almera",
+      "line": "Ah, hello there. Nice to see an outsider for a change. Are you busy? I have a problem."
+    },
+    {
+      "character": "Player",
+      "line": "How can I help?"
+    },
+    {
+      "character": "Almera",
+      "line": "It's my son Hudon, he's always getting into trouble. The boy's convinced there's hidden treasure in the river and I'm a bit worried about his safety, the poor lad can't even swim."
+    },
+    {
+      "character": "Player",
+      "line": "I could go and take a look for you if you like?"
+    },
+    {
+      "character": "Almera",
+      "line": "Would you? You are kind. You can use the small raft out back if you wish, do be careful, the current down stream is very strong."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I'm in a rush."
+    },
+    {
+      "character": "Almera",
+      "line": "Oh okay, never mind."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Almera."
+    },
+    {
+      "character": "Almera",
+      "line": "Hello adventurer, have you seen my boy yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not, but I'm sure he hasn't gone far."
+    },
+    {
+      "character": "Almera",
+      "line": "I do hope so, you can't be too careful these days."
+    },
+    {
+      "character": "Gerald",
+      "line": "Hello there."
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen a small boy?"
+    },
+    {
+      "character": "Gerald",
+      "line": "Nope, plenty of small fish though."
+    },
+    {
+      "character": "Player",
+      "line": "Hello son, are you okay? You need help?"
+    },
+    {
+      "character": "Hudon",
+      "line": "It looks like you need the help."
+    },
+    {
+      "character": "Player",
+      "line": "Your mum sent me to find you."
+    },
+    {
+      "character": "Hudon",
+      "line": "Don't play nice with me, I know you're looking for the treasure too."
+    },
+    {
+      "character": "Player",
+      "line": "Where is this treasure you talk of?"
+    },
+    {
+      "character": "Hudon",
+      "line": "Just because I'm small doesn't mean I'm dumb! If I told you, you would take it all for yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could help."
+    },
+    {
+      "character": "Hudon",
+      "line": "I'm fine alone."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... I wonder what this treasure is."
+    },
+    {
+      "character": "Player",
+      "line": "So you're still here."
+    },
+    {
+      "character": "Hudon",
+      "line": "I'll find that treasure soon, just you wait and see."
+    },
+    {
+      "character": "Gerald",
+      "line": "Blimey! Where did you come from? Not another one of those treasure hunters are you?"
+    },
+    {
+      "character": "Player",
+      "line": "Treasure hunters?"
+    },
+    {
+      "character": "Gerald",
+      "line": "They say there's treasure hidden within the waterfall, left behind by the old elven king. Not that anyone's ever found anything."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting, is there somewhere I can learn more about this?"
+    },
+    {
+      "character": "Gerald",
+      "line": "You could ask Hadley the tourist guide. He'll be in this building just here."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Almera",
+      "line": "Well hello, you're still around then."
+    },
+    {
+      "character": "Player",
+      "line": "I saw Hudon by the river but he refused to come back with me."
+    },
+    {
+      "character": "Almera",
+      "line": "Yes he told me, the foolish lad came in drenched to the bone, he had fallen into the waterfall, lucky he wasn't killed! Now he can spend the rest of the summer in his room."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas what I could do while I'm here?"
+    },
+    {
+      "character": "Almera",
+      "line": "Why don't you visit the tourist centre south of the waterfall?"
+    },
+    {
+      "character": "Gerald",
+      "line": "Hello traveller. Are you here to fish or to hunt for treasure?"
+    },
+    {
+      "character": "Player",
+      "line": "Why do you say that?"
+    },
+    {
+      "character": "Gerald",
+      "line": "Adventurers pass through here every week, they never find anything though."
+    },
+    {
+      "character": "Player",
+      "line": "What treasure are they looking for?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Hadley",
+      "line": "Are you on holiday? If so you've come to the right place. I'm Hadley the tourist guide, anything you need to know just ask me. We have some of the most unspoilt wildlife and scenery in Gielinor."
+    },
+    {
+      "character": "Hadley",
+      "line": "People come from miles around to fish in the clear lakes or to wander the beautiful hillsides."
+    },
+    {
+      "character": "Player",
+      "line": "It is quite pretty."
+    },
+    {
+      "character": "Hadley",
+      "line": "Surely pretty is an understatement kind sir. Beautiful, amazing or possibly life-changing would be more suitable wording. Have you seen Baxtorian Falls? Named after the elven king who was buried beneath them."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me what happened to the elven king?"
+    },
+    {
+      "character": "Hadley",
+      "line": "Baxtorian? I guess he died a long long time ago, it's quite sad really. After leaving his kingdom to deal with invading forces, Baxtorian returned to find his wife Glarial had been captured by the enemy."
+    },
+    {
+      "character": "Hadley",
+      "line": "This destroyed Baxtorian, after years of searching he became a recluse. He went into the secret home he had made for Glarial under the waterfall and sealed himself in. To this day, no one has managed to enter."
+    },
+    {
+      "character": "Hadley",
+      "line": "Anyway, I believe we have a book on him upstairs if you want to learn more."
+    },
+    {
+      "character": "Player",
+      "line": "Where else is worth visiting around here?"
+    },
+    {
+      "character": "Hadley",
+      "line": "There is a lovely spot for a picnic on the hill to the north east, there's a monument to the elven queen Glarial. It really is quite pretty."
+    },
+    {
+      "character": "Player",
+      "line": "Who was Glarial?"
+    },
+    {
+      "character": "Hadley",
+      "line": "Baxtorian's wife, the only other person who could also enter the waterfall apart from him. She was queen when this land was inhabited by elven kind."
+    },
+    {
+      "character": "Hadley",
+      "line": "Glarial was kidnapped while Baxtorian was away, but they eventually recovered her body and brought her home to rest."
+    },
+    {
+      "character": "Player",
+      "line": "That's sad."
+    },
+    {
+      "character": "Hadley",
+      "line": "True, I believe we have a book on Baxtorian and Glarial upstairs if you want to learn more."
+    },
+    {
+      "character": "Player",
+      "line": "Is there treasure under the waterfall?"
+    },
+    {
+      "character": "Hadley",
+      "line": "Ha ha... Another treasure hunter. Well if there is no one's been able to get to it. They've been searching that river for decades, all to no avail."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, goodbye."
+    },
+    {
+      "character": "Hadley",
+      "line": "Enjoy your visit."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again Almera."
+    },
+    {
+      "character": "Almera",
+      "line": "Well hello again brave adventurer, are you enjoying the tranquil scenery of these parts?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, very relaxing."
+    },
+    {
+      "character": "Almera",
+      "line": "Well I'm glad to hear it The authorities wanted to dig up this whole area for a mine, but the few locals who lived here wouldn't budge and they gave up."
+    },
+    {
+      "character": "Player",
+      "line": "Good for you."
+    },
+    {
+      "character": "Almera",
+      "line": "Good for all of us!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello Hudon."
+    },
+    {
+      "character": "Hudon",
+      "line": "Oh it's you, trying to find my treasure again are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I didn't know it belonged to you."
+    },
+    {
+      "character": "Hudon",
+      "line": "It will do when I find it. I just need to get into this blasted waterfall I've been washed downstream three times already."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, are you okay?"
+    },
+    {
+      "character": "Golrie",
+      "line": "It's just those blasted hob-gobs. I locked myself in here for protection. But I've left the key somewhere and now I'm stuck."
+    },
+    {
+      "character": "Player",
+      "line": "Okay... I'll have a look for a key."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, who are you?"
+    },
+    {
+      "character": "Golrie",
+      "line": "I'm Golrie, I've been stuck in here for ages. those hob-gobs are trying to steal my family's heirlooms. My grandad gave me all sorts of old junk."
+    },
+    {
+      "character": "Player",
+      "line": "Do you mind if I have a look?"
+    },
+    {
+      "character": "Golrie",
+      "line": "No, of course not."
+    },
+    {
+      "character": "Player",
+      "line": "Could I take this old pebble?"
+    },
+    {
+      "character": "Golrie",
+      "line": "Oh that, yes have it, it's just some old elven junk I believe."
+    },
+    {
+      "character": "Golrie",
+      "line": "Thanks a lot for the key traveller. I think I'll wait in here until those hob-gobs get bored and leave."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, take care Golrie."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Golrie."
+    },
+    {
+      "character": "Golrie",
+      "line": "Hello again."
+    },
+    {
+      "character": "Player",
+      "line": "Do you mind if I have another look through this stuff?"
+    },
+    {
+      "character": "Almera",
+      "line": "Hello adventurer, how's your treasure hunt going?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I'm just sight seeing."
+    },
+    {
+      "character": "Almera",
+      "line": "No adventurer stays here this long just to sight see. But your business is yours alone, if you need to use the raft go ahead. But please try not crash it this time!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Almera."
+    },
+    {
+      "character": "Hudon",
+      "line": "Not you still, why don't you give up?"
+    },
+    {
+      "character": "Player",
+      "line": "And miss all the fun!"
+    },
+    {
+      "character": "Hudon",
+      "line": "You do understand that anything you find you have to share with me."
+    },
+    {
+      "character": "Player",
+      "line": "Why's that?"
+    },
+    {
+      "character": "Hudon",
+      "line": "Because I told you about the treasure."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I wouldn't count on it."
+    },
+    {
+      "character": "Hudon",
+      "line": "That's not fair."
+    },
+    {
+      "character": "Player",
+      "line": "Neither is life kid."
+    },
+    {
+      "character": "Hudon",
+      "line": "You stole my treasure. I saw you!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll make sure it goes to a good cause."
+    },
+    {
+      "character": "Hudon",
+      "line": "Hmmmm!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Almera",
+      "description": "Middle-aged female, British accent, warm and motherly tone with underlying worry. A caring parent who lives near Baxtorian Falls, constantly concerned about her adventurous son's safety."
+    },
+    {
+      "name": "Gerald",
+      "description": "Middle-aged male, working-class British accent, relaxed and friendly tone. A weathered fisherman who enjoys sharing local history and lore with passing travelers."
+    },
+    {
+      "name": "Golrie",
+      "description": "Adult male gnome, higher-pitched voice with a slightly nervous and flustered delivery. A well-meaning but scatterbrained gnome who locked himself in a dungeon room to escape hobgoblins."
+    },
+    {
+      "name": "Hadley",
+      "description": "Middle-aged male, cheerful British accent, enthusiastic and informative tone. A jovial tourist guide who takes great pride in the local scenery and elven history of Baxtorian Falls."
+    },
+    {
+      "name": "Hudon",
+      "description": "Young boy around 10-12 years old, British accent, stubborn and defiant tone with youthful energy. An adventurous but bratty lad obsessed with finding treasure, quick to accuse others of stealing his discoveries."
+    }
+  ]
+}

@@ -1,0 +1,1852 @@
+{
+  "branch": "quest/tai-bwo-wannai-trio",
+  "quest_name": "Tai Bwo Wannai Trio",
+  "lines": [
+    {
+      "character": "Timfraku",
+      "line": "I am the Chief of Tai Bwo Wannai Village! Who dares set foot in my hut?"
+    },
+    {
+      "character": "Player",
+      "line": "I am a roving adventurer."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Well then adventurer, you would do better to rove elsewhere."
+    },
+    {
+      "character": "Player",
+      "line": "I am a travelling explorer."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Well then explorer, you would do better to travel elsewhere."
+    },
+    {
+      "character": "Player",
+      "line": "I am a wandering wayfarer."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Well then wayfarer, you would do better to wander elsewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Who me? Oh I'm just a nobody."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Well then NoBody, you would do better to go elsewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Why should I leave?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "This place has been cursed. Our people have angered the gods and have fled the village."
+    },
+    {
+      "character": "Player",
+      "line": "Where is this place?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "You ask too many questions. Now begone!"
+    },
+    {
+      "character": "Player",
+      "line": "Who are the gods?"
+    },
+    {
+      "character": "Player",
+      "line": "Where have your people fled to?"
+    },
+    {
+      "character": "Player",
+      "line": "Right, I'm going then."
+    },
+    {
+      "character": "Player",
+      "line": "Trufitus sent me."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Trufitus Shakaya? What news does he send?"
+    },
+    {
+      "character": "Player",
+      "line": "Trufitus has communed with the gods. Your village was never cursed and your people are free to return."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Bwana, do you speak the truth?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I helped Trufitus gather ingredients for a commune potion."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Then it must be true."
+    },
+    {
+      "character": "Timfraku",
+      "line": "I cannot thank you enough for what you have done so far."
+    },
+    {
+      "character": "Player",
+      "line": "Your gratitude is all I deserve."
+    },
+    {
+      "character": "Timfraku",
+      "line": "No, Bwana, you deserve much more."
+    },
+    {
+      "character": "Timfraku",
+      "line": "I now ask you to do one last thing for our village."
+    },
+    {
+      "character": "Player",
+      "line": "And what is that?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "I ask you to deliver the good news to my three sons Tamayu, Tinsay & Tiadeche, and then return them to the village."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll do it."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Thank you very much. I shall reward you greatly if you succeed."
+    },
+    {
+      "character": "Player",
+      "line": "If I succeed? How hard can it be?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "We shall see, Bwana."
+    },
+    {
+      "character": "Player",
+      "line": "No, I've had quite enough of the jungle already."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Very well. Return when you are ready."
+    },
+    {
+      "character": "Player",
+      "line": "So far??"
+    },
+    {
+      "character": "Player",
+      "line": "What do you do here?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "It should be clear to anyone that I am the chief of Tai Bwo Wannai. I ensure that things run smoothly in this village."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything interesting to do here?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Yes Bwana, plenty of interesting things to do. Firstly you could make an effort to tidy the place up a little. Equip yourself with a machete and start cutting down the jungle that seems to be growing all around here."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Go and have a chat with Murcaily for information, he's tending the hardwood grove to the east of here."
+    },
+    {
+      "character": "Player",
+      "line": "I've been doing some work around the village."
+    },
+    {
+      "character": "Timfraku",
+      "line": "That's good Bwana, I would hate to think that you were just being lazy while you're in my kingdom!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Are you ready to help me?"
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Welcome back, roving adventurer."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Welcome back, travelling explorer."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Welcome back, wandering wayfarer."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Welcome back, Nobody."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about your sons?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "My first son is Tamayu. After him was born Tinsay. And after him was born Tiadeche."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about Tamayu?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Tamayu was a natural born hunter. He killed his first monkey at the age of three!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about Tinsay?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Tinsay was brought up to be a priest. Be careful with him - he has acted strange since the accident."
+    },
+    {
+      "character": "Player",
+      "line": "What accident?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "It involved Jogres. We don't talk about it."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about Tiadeche?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Tiadeche always wanted to hunt fish. However, he has not had much success."
+    },
+    {
+      "character": "Player",
+      "line": "How come?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "He needs to improve his technique - but he does not heed my advice."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find your sons?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "On our island of Karamja. They will not have fled far."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I need?"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Patience, Bwana, patience."
+    },
+    {
+      "character": "Timfraku",
+      "line": "And good conversation skills."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back later."
+    },
+    {
+      "character": "Player",
+      "line": "Are you Tiadeche?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I am."
+    },
+    {
+      "character": "Player",
+      "line": "Tiadeche, I bring good news. Trufitus has communed with the gods - your village is once again safe."
+    },
+    {
+      "character": "Player",
+      "line": "Your father requests that you return to the village."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I will return only when I have caught a Karambwan."
+    },
+    {
+      "character": "Player",
+      "line": "What is a Karambwan?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "You don't know? The Karambwan is a species of octopus native to these waters."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "They have a monopoly on its sale in the pirate town of Brimhaven."
+    },
+    {
+      "character": "Player",
+      "line": "When will you be finished?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "At this rate, it could take forever."
+    },
+    {
+      "character": "Player",
+      "line": "We don't have forever."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Sometimes, oblivion is all I crave..."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can do to help?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I just don't know. You can try."
+    },
+    {
+      "character": "Player",
+      "line": "What would you have me do?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Something... helpful?"
+    },
+    {
+      "character": "Player",
+      "line": "How are you fishing for the Karambwan?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I'm trying to catch them with a net as they swim by."
+    },
+    {
+      "character": "Player",
+      "line": "And... ?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "They keep fighting loose of the twining."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I refuse to take your offerings. I must catch this Karambwan myself."
+    },
+    {
+      "character": "Player",
+      "line": "Tiadeche, instead of using your net, try using this vessel."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "It has been specially constructed to catch Karambwan. Once they enter it, they cannot return.."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "As you say, Bwana."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "This vessel is useless! The Karambwan are not even interested in entering it!"
+    },
+    {
+      "character": "Player",
+      "line": "I've been told that the Karambwan feed only on the Karambwanji. This will make good bait."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "The Holy Friend? Bwana, it is sacrilege to feed these fish to Karambwan!"
+    },
+    {
+      "character": "Player",
+      "line": "Just try it."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "This attracts many more Karambwan, but they still break free of the net."
+    },
+    {
+      "character": "Player",
+      "line": "Also, it has been loaded with Karambwanji. The Karambwan will not be able to resist this bait."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Bwana! I cannot believe my eyes!"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I, Tiadeche, who would never amount to anything, have managed to trap a Karambwan!"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Let me offer to you my first catch as a sign of gratitude."
+    },
+    {
+      "character": "Player",
+      "line": "Your father would be proud."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Hmph... my father would not care."
+    },
+    {
+      "character": "Player",
+      "line": "Speaking of your father, can we make way to the village? He awaits your return."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I cannot return just yet. We witness the change of a turning tide. The secrets of the Karambwan are to be unlocked!"
+    },
+    {
+      "character": "Player",
+      "line": "I have no need for it, Tiadeche."
+    },
+    {
+      "character": "Player",
+      "line": "We must return to the village now."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Before I return, I must ask you to do one thing."
+    },
+    {
+      "character": "Player",
+      "line": "And that is?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Take a Karambwan vessel to my brother Tinsay. He is the academic amongst us. Tell him I have asked him to study it so that we may craft more of its type."
+    },
+    {
+      "character": "Player",
+      "line": "Can I have the vessel back then?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I need this to practice with. Why don't you craft another one?"
+    },
+    {
+      "character": "Player",
+      "line": "I... never mind."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I have caught another Karambwan! I think I ought to give it to you."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Have you taken the Karambwan vessel to Tinsay?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Did you ask for crafting instructions as I said?"
+    },
+    {
+      "character": "Player",
+      "line": "I did, but I think I've lost them..."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Well go back and ask him to make another copy!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. He gave me this."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Thank you so much. You cannot understand what all of this means to me and our people."
+    },
+    {
+      "character": "Player",
+      "line": "Will you return to the village now?"
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Yes. I will do as I promised."
+    },
+    {
+      "character": "Player",
+      "line": "I am glad to hear this. Let us go."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Not yet. I will stay here a while to catch more Karambwan."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I will meet you in the village once you have helped my brothers and spoken to my father."
+    },
+    {
+      "character": "Player",
+      "line": "Tamayu, first son of Timfraku!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "What do you want, stranger?"
+    },
+    {
+      "character": "Player",
+      "line": "Tamayu, I bring good news. Trufitus has communed with the gods - your village is once again safe."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Then know this, stranger."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I vow upon the blood of my fallen kin that I shall not set foot in that godforsaken village till I have slain the Shaikahan."
+    },
+    {
+      "character": "Player",
+      "line": "You could slay it after we return to the village."
+    },
+    {
+      "character": "Tamayu",
+      "line": "No! Your pitiful whining tires me. Now let me prepare."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more of the Shaikahan."
+    },
+    {
+      "character": "Tamayu",
+      "line": "A source of indescribable evil. A beast more foul than your dreams could imagine. It hunts the jungle for anything foolish enough to cross its path."
+    },
+    {
+      "character": "Tamayu",
+      "line": "It stands a full man's length in height. Its fore claws are sharp enough to rip through metal. In its eyes glow the embers of death."
+    },
+    {
+      "character": "Player",
+      "line": "How long have you been hunting the Shaikahan?"
+    },
+    {
+      "character": "Tamayu",
+      "line": "Since before I was born, stranger. It is my destiny."
+    },
+    {
+      "character": "Player",
+      "line": "When will you succeed?"
+    },
+    {
+      "character": "Tamayu",
+      "line": "When the gods bless me with success. You may join me on my next hunt, but you may not take part."
+    },
+    {
+      "character": "Player",
+      "line": "Lead the way."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Shaikhan is at present far too agile for me!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "I cannot do enough damage with this spear..."
+    },
+    {
+      "character": "Tamayu",
+      "line": "... and it seems to be healing too quickly!"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps later, Tamayu, first son of Timfraku."
+    },
+    {
+      "character": "Player",
+      "line": "I could slay the Shaikahan for you."
+    },
+    {
+      "character": "Tamayu",
+      "line": "You offer to kill the beast for me? Stop this nonsense, lest I kill you first. It is I who must avenge the death of my kin."
+    },
+    {
+      "character": "Player",
+      "line": "Take me on your next hunt for the Shaikahan."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Very well, but you must not interfere."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I'm not going to skin that! In the jungle, we help only those who help us."
+    },
+    {
+      "character": "Player",
+      "line": "I've noticed you commenting on the Shaikahan's agility. Try drinking this potion."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I am beginning to match Shaikahan's agility!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "I cannot do enough damage..."
+    },
+    {
+      "character": "Player",
+      "line": "Tamayu, try using this weapon."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Thank you Bwana. Now I must prepare for my next hunt."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I can do enough damage..."
+    },
+    {
+      "character": "Tamayu",
+      "line": "... but it seems to be healing too quickly!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "I feel much more agile, but I am not sure whether I can match the Shaikahan..."
+    },
+    {
+      "character": "Player",
+      "line": "Tamayu, I have brought you more agility potion."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I feel agile enough to finally match the Shaikahan!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "I have matched the Shaikahan in agility! He can no longer avoid my strikes!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "... and it does seem quite sick! Perhaps another poison would be more effective?"
+    },
+    {
+      "character": "Tamayu",
+      "line": "I did it! I, Tamayu, first son of Timfraku, did slay the Shaikahan!"
+    },
+    {
+      "character": "Tamayu",
+      "line": "The deaths of my kin have been avenged. You are my witness."
+    },
+    {
+      "character": "Player",
+      "line": "Worry not - I am your witness. Shall we return to the village now?"
+    },
+    {
+      "character": "Tamayu",
+      "line": "Yes. Go on ahead without me. I have further matters to attend to here."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I will meet you in the village once you have helped my brothers and spoken to my father."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Let me guess - you want me to skin that monkey. Very well: I shall, since you have assisted me."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Watch where you're going, young whippersnapper!"
+    },
+    {
+      "character": "Player",
+      "line": "I wasn't going anywhere..."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well then go away from here!"
+    },
+    {
+      "character": "Player",
+      "line": "What's a whippersnapper?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "It's a whip. Which snaps. Like me. Now leave!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "I am Lubufu - the only fisherman who knows the secret of the Karambwan!"
+    },
+    {
+      "character": "Player",
+      "line": "What's a Karambwan?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "What a foolish question! Now leave!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "You again! I thought I told you to go away!"
+    },
+    {
+      "character": "Player",
+      "line": "You did. I came back."
+    },
+    {
+      "character": "Lubufu",
+      "line": "So I see. What would a fool like you want with me?"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "I am Lubufu, son of Kedoaba, brother of Kedenda and second cousin twice removed of Ibeli!"
+    },
+    {
+      "character": "Player",
+      "line": "Who is Kedoaba?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Kedoaba is my father, the father of Kedenda and second uncle twice removed of Ibeli!"
+    },
+    {
+      "character": "Player",
+      "line": "Who is Kedenda?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Kedenda is the son of my father, my brother and second cousin twice removed of Ibeli!"
+    },
+    {
+      "character": "Player",
+      "line": "Who is Ibeli?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Ibeli is the second nephew twice removed of my father, and the second cousin twice removed of myself and my brother!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any children?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Alas, no. Focussed and determined in my trade as I was, I never found a suitable wife."
+    },
+    {
+      "character": "Lubufu",
+      "line": "It is a great shame that the secret of the Karambwan has to die with me."
+    },
+    {
+      "character": "Player",
+      "line": "You could tell me the secret..."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Hah! What a stupid thought! The secret is mine and mine alone!"
+    },
+    {
+      "character": "Player",
+      "line": "Where are you from?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Our island of Karamja. Long ago, before you were even a thought in the back of a mind, I used to play on these beaches with the pebbles and stones."
+    },
+    {
+      "character": "Player",
+      "line": "So you didn't have many friends then?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Silence!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "As I grew older the ways of the world became apparent to me, and my attention turned from the rocks of the land to the fish in the sea."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Despite what you might hear, there are plenty of fish in the sea! Especially when they can only be caught by me!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you do?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Nowadays I mostly fish for Karambwan and collect their bait. Collecting the bait has become increasingly tiresome, what with my age and health."
+    },
+    {
+      "character": "Player",
+      "line": "How old are you?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "An order of magnitude older than you! What an impudent question! Collecting bait has become hard enough at this age as it is without having to endure the chiding of you young people!"
+    },
+    {
+      "character": "Player",
+      "line": "Which other young people come by here?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Hmm... nobody I can recall right now."
+    },
+    {
+      "character": "Player",
+      "line": "What do you use for bait?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "That is part of the secret! Why would I tell you?"
+    },
+    {
+      "character": "Player",
+      "line": "I could help collect the bait."
+    },
+    {
+      "character": "Lubufu",
+      "line": "And why would you help me?"
+    },
+    {
+      "character": "Player",
+      "line": "You sound like you could do with the help."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well perhaps you're right. It's nigh time I could do with some help after all."
+    },
+    {
+      "character": "Lubufu",
+      "line": "I have a fair amount of bait left over since last time I collected some, but I will be needing more shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. Where can I find the bait? I don't even know what it is!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Patience. I have kept the nature of the Karambwan a closely guarded secret. There is nobody alive who knows more about them than I do. Furthermore, there is nobody alive who even knows how they feed."
+    },
+    {
+      "character": "Lubufu",
+      "line": "You must therefore understand that what I am about to tell you is given in complete trust, and that you are to tell nobody else."
+    },
+    {
+      "character": "Player",
+      "line": "I understand."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Very well. The Karambwan are a form of octopus native to our island of Karamja. They feed solely on Karambwanji, a brightly coloured fish which also inhabits the coastal waters surrounding the island."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Karambwanji congregate in coastal shoals near the Holy Lake. You will find it easiest to fish for them there."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the Holy Lake?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Just to the south of Tai Bwo Wannai Village. I'm sure you've met the locals already."
+    },
+    {
+      "character": "Player",
+      "line": "And what do I use to fish for the bait?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Any small net will do. Return here as soon as you have caught 20 Karambwanji."
+    },
+    {
+      "character": "Player",
+      "line": "You sound like you need help."
+    },
+    {
+      "character": "Lubufu",
+      "line": "How dare you say such a thing! Be off with you!"
+    },
+    {
+      "character": "Player",
+      "line": "I enjoy collecting meaningless items for people."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Meaningless? You know nothing of the Karambwan! Now leave!"
+    },
+    {
+      "character": "Player",
+      "line": "You're right. I don't want to help."
+    },
+    {
+      "character": "Lubufu",
+      "line": "I didn't for one moment think you did."
+    },
+    {
+      "character": "Lubufu",
+      "line": "A species of octopus native to the island which I and I alone know how to catch."
+    },
+    {
+      "character": "Player",
+      "line": "What do you do with your Karambwan?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "I eat what I need and sell the rest to the Shrimp and Parrot restaurant."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the Shrimp and Parrot?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "You don't know anything do you? Just north of here, in Brimhaven!"
+    },
+    {
+      "character": "Player",
+      "line": "What does Karambwan taste like?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "That depends entirely on how it is cooked..."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Novicely cooked Karambwan is often poisonous to large mammals such as humans. If you buy some and cook it, be careful."
+    },
+    {
+      "character": "Player",
+      "line": "I have come for your soul."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well you've wasted your time. My soul is long gone, along with my compassion."
+    },
+    {
+      "character": "Player",
+      "line": "I'm from the Fishing Guild Anti-Monopoly Department."
+    },
+    {
+      "character": "Lubufu",
+      "line": "And I'm from the Island Karamja. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "We demand that you hand over the secret of the Karambwan."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Erm... no."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, ok then. It was worth a try."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any spare monkey skin lying around?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Funny you should say that..."
+    },
+    {
+      "character": "Player",
+      "line": "Why's that? Do you have any?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well, people have been asking me for monkey skins all day!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "But no, I'm out of monkey skin."
+    },
+    {
+      "character": "Player",
+      "line": "I've heard something about an accident."
+    },
+    {
+      "character": "Lubufu",
+      "line": "You will want to ask one of the tribesmen. I don't usually talk about it."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Have you retrieved the Karambwanji yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have some here."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Thank you! This should tide me over for the next month."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Hurry along now. I still need more."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm still fishing for them."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well hurry! My reserves are beginning to run low."
+    },
+    {
+      "character": "Lubufu",
+      "line": "I still need more."
+    },
+    {
+      "character": "Lubufu",
+      "line": "You should really ought to know that by now."
+    },
+    {
+      "character": "Player",
+      "line": "What do you use to catch Karambwan?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well... since you ask, a specially constructed octopus pot. But don't tell anybody - that's part of the secret!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "My, you're keen aren't you?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "How would you feel about becoming my apprentice?"
+    },
+    {
+      "character": "Player",
+      "line": "That's a slight change in attitude..."
+    },
+    {
+      "character": "Lubufu",
+      "line": "As much as I need to protect the secret, I should not carry it to the grave."
+    },
+    {
+      "character": "Lubufu",
+      "line": "You seem a trustworthy type of person. Do you want to train as my apprentice?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "I'm glad to hear it. I'm sure the secrets of the Karambwan will be safe with you."
+    },
+    {
+      "character": "Lubufu",
+      "line": "In our language, Karambwan literally means 'Friend of Karamja.' As a friend of mine I will now show you how to fish for them."
+    },
+    {
+      "character": "Lubufu",
+      "line": "There are two aspects to fishing for Karambwan. Firstly, you must have the correct bait. Secondly, you must have the correct equipment."
+    },
+    {
+      "character": "Lubufu",
+      "line": "You already know of the Karambwanji, which shoal in the Holy Lake to the south. As I have explained, the Karambwan feed only on the Karambwanji, which are therefore the perfect bait."
+    },
+    {
+      "character": "Player",
+      "line": "But what kind of equipment do you use?"
+    },
+    {
+      "character": "Lubufu",
+      "line": "It is futile to attempt to catch Karambwan with something as basic as a net. They are too strong and vicious to be caught in such a fashion."
+    },
+    {
+      "character": "Lubufu",
+      "line": "I have spent many years designing a specially shaped vessel, into which Karambwan may pass but from which they may not return."
+    },
+    {
+      "character": "Lubufu",
+      "line": "If this vessel is loaded with Karambwanji, and then repeatedly lowered into a Karambwan shoal, then you should shortly find a Karambwan octopus trapped inside."
+    },
+    {
+      "character": "Lubufu",
+      "line": "I will now give you a Karambwan fishing vessel with which you can practise. Make sure you do not lose it. Under no circumstance may you give or show this to anybody. Do you understand?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I understand."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Feel free to practise on my fishing spot."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well the offer remains open. You're the most trustworthy person I have met in a long time."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Let me know if you change your mind."
+    },
+    {
+      "character": "Lubufu",
+      "line": "How fares my apprentice?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm fine thanks."
+    },
+    {
+      "character": "Lubufu",
+      "line": "And I'm glad to hear it!"
+    },
+    {
+      "character": "Player",
+      "line": "I've been catching a whole load of Karambwan!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Look at you - outgrowing your boots already!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I've lost my Karambwan vessel."
+    },
+    {
+      "character": "Lubufu",
+      "line": "You did what!? I hope nobody else has seen it..."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry - nobody will find it..."
+    },
+    {
+      "character": "Player",
+      "line": "... a shark ate it!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well you'd better hope for your sake that this shark is never caught!"
+    },
+    {
+      "character": "Player",
+      "line": "... a Karambwan stole it!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well you'd better hope for your sake that this Karambwan is never caught!"
+    },
+    {
+      "character": "Player",
+      "line": "... it floated away!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Well you'd better hope for your sake that it never floats back!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "In the meantime, you can practise with this."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you so much."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Don't mention it. I mean that."
+    },
+    {
+      "character": "Player",
+      "line": "Awful!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Why?"
+    },
+    {
+      "character": "Player",
+      "line": "Everybody keeps asking me to run around and do their errands!"
+    },
+    {
+      "character": "Lubufu",
+      "line": "Living the hard life of a fisherman now, eh."
+    },
+    {
+      "character": "Lubufu",
+      "line": "Ah... you again. Have you changed your mind yet? Do you want to train as my apprentice?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Braaar! Tinsay's the name!"
+    },
+    {
+      "character": "Player",
+      "line": "Tinsay, I bring good news. Trufitus has communed with the gods - your village is once again safe."
+    },
+    {
+      "character": "Tinsay",
+      "line": "I will return only once I have repaired the tribal statue. Bones!!"
+    },
+    {
+      "character": "Player",
+      "line": "Where is the tribal statue?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Just near my father's hut."
+    },
+    {
+      "character": "Player",
+      "line": "But that's in the village!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I know."
+    },
+    {
+      "character": "Player",
+      "line": "So what are you doing here?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I'm... er... collecting materials to repair the statue with."
+    },
+    {
+      "character": "Player",
+      "line": "And I suppose you want me to fetch them for you?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Good idea! Yes!"
+    },
+    {
+      "character": "Player",
+      "line": "You mean you were just sitting here waiting for people to bring you things you need?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Yes..."
+    },
+    {
+      "character": "Player",
+      "line": "And you don't see anything wrong with that?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "No..."
+    },
+    {
+      "character": "Player",
+      "line": "Right... what do you need?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Hmm... I think I need banana in Karamjan rum."
+    },
+    {
+      "character": "Player",
+      "line": "I see. And you're going to use this to repair the statue?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "But of course! Bwahaha!"
+    },
+    {
+      "character": "Player",
+      "line": "... I'll be back later."
+    },
+    {
+      "character": "Player",
+      "line": "Your brother Tiadeche has sent me. He asks you to study this vessel and produce crafting instructions."
+    },
+    {
+      "character": "Tinsay",
+      "line": "You first help me, then I'll help you."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Have you found my banana in Karamjan rum yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it right here."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Well, hand it here then."
+    },
+    {
+      "character": "Player",
+      "line": "Erm... I think I lost it in the wash."
+    },
+    {
+      "character": "Player",
+      "line": "Uh... I think I left it in my other trousers."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, my pet monkey ate it."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I have this."
+    },
+    {
+      "character": "Tinsay",
+      "line": "I can't use this - there is a banana blocking the bottle!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Find some way of actually getting the banana inside the bottle."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Yes... that's it! Hits just the spot!"
+    },
+    {
+      "character": "Player",
+      "line": "What? I thought you needed that for tribal statue repair!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I did!"
+    },
+    {
+      "character": "Player",
+      "line": "Can we return to the village now?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Not yet. I need one more thing..."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I'm thinking..."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Seaweed... Yes - a seaweed sandwich will do the trick."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Aha! A seaweed in monkey skin sandwich!"
+    },
+    {
+      "character": "Player",
+      "line": "Is this really necessary?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Yes. Essential."
+    },
+    {
+      "character": "Player",
+      "line": "How do I find Karamjan rum?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "It's available in any respectable drinking establishment."
+    },
+    {
+      "character": "Player",
+      "line": "How do I find bananas?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "They grow everywhere!"
+    },
+    {
+      "character": "Player",
+      "line": "How do I convince you to return to the village?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Oblige me by fetching my drink."
+    },
+    {
+      "character": "Player",
+      "line": "Just how insane are you?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "On a scale of 1 to barmy, I'm about."
+    },
+    {
+      "character": "Tinsay",
+      "line": "On a scale of 1 to kooky, I'm about."
+    },
+    {
+      "character": "Tinsay",
+      "line": "On a scale of 1 to mad, I'm about."
+    },
+    {
+      "character": "Tinsay",
+      "line": "On a scale of 1 to loopy, I'm about."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Maurhah!! Jooooogre bones!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Ahem. Sorry. We don't usually talk about it."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm still looking."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Have you found my seaweed in monkey skin sandwich yet?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Yes... perfect! You really do not understand how necessary that was."
+    },
+    {
+      "character": "Player",
+      "line": "Can we go now?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Erm..."
+    },
+    {
+      "character": "Player",
+      "line": "Say something!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "No!"
+    },
+    {
+      "character": "Player",
+      "line": "Does that mean you're not coming or not saying anything?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I'm not coming."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I need one more thing... I need... Jogre bones..."
+    },
+    {
+      "character": "Player",
+      "line": "Jogre bones? Why do you keep-"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Yes... burnt Jogre bones."
+    },
+    {
+      "character": "Player",
+      "line": "... burnt Jogre bones?? How am I-"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Indeed. Burnt Jogre bones marinated in... Marinated in..."
+    },
+    {
+      "character": "Player",
+      "line": "Marinated???"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Marinated in Karambwanji!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Mmm... Yes... That will be good..."
+    },
+    {
+      "character": "Player",
+      "line": "You're just going to eat it, aren't you?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "No! Burnt Jogre bones marinated in Karambwanji are in fact essential in the trade of tribal statue repair!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back... eventually."
+    },
+    {
+      "character": "Tinsay",
+      "line": "I can't use this - there is far too much monkey flesh in it."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Try to find some way of removing the monkey flesh."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Have you found my burnt Jogre bones marinated in Karambwanji yet?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I think this needs a bit of Karambwanji. They also don't seem quite burnt enough.}}"
+    },
+    {
+      "character": "Tinsay",
+      "line": "That was awful! The Jogre bones were not nearly burnt enough."
+    },
+    {
+      "character": "Tinsay",
+      "line": "And the Jogre bones were hardly even marinated!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "You'll have to make it again. Remember to burn the Jogre bones!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "I think this needs a bit of Karambwanji."
+    },
+    {
+      "character": "Tinsay",
+      "line": "That was awful! The Jogre bones were hardly even marinated!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "You'll have to make it again. Remember to marinate the Jogre bones!"
+    },
+    {
+      "character": "Player",
+      "line": "How do I burn Jogre bones?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "You must either be very skilled or find a way to make them super hot."
+    },
+    {
+      "character": "Player",
+      "line": "How do I marinate something?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "You cook it in a sauce, obviously."
+    },
+    {
+      "character": "Player",
+      "line": "How do I find Karambwanji?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "They're fish. Do I look like a fisherman?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I end this silly quest?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Patience, Bwana, patience."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure Tinsay said to use Karambwanji paste, not Karambwan paste..."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Finally! A near lifetime of craving satisfied!"
+    },
+    {
+      "character": "Player",
+      "line": "I assume you're now able to repair the statue..."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Perfectly able, my friend, thanks to your ministrations!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Probably best you don't go cooking any more Karambwanji from now on, they can be a bit volatile!"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Must I... ?"
+    },
+    {
+      "character": "Player",
+      "line": "I insist - and so does your father."
+    },
+    {
+      "character": "Tinsay",
+      "line": "He will not be pleased with me..."
+    },
+    {
+      "character": "Tinsay",
+      "line": "It's complicated - we don't really talk about it."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Very well. I will meet you in the village once you have helped my brothers and spoken to my father."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Very well - hand it over."
+    },
+    {
+      "character": "Tinsay",
+      "line": "I hope that's what he wanted."
+    },
+    {
+      "character": "Timfraku",
+      "line": "My sons have returned to the village!"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Roving adventurer, please accept my eternal gratitude!"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Travelling explorer, please accept my eternal gratitude!"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Wandering wayfarer, please accept my eternal gratitude!"
+    },
+    {
+      "character": "Timfraku",
+      "line": "Nobody, please accept my eternal gratitude!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh it was nothing really."
+    },
+    {
+      "character": "Timfraku",
+      "line": "It was? Very well. I still would that you accept my reward.}}"
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather have some gold please."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Of course. That is in your nature."
+    },
+    {
+      "character": "Player",
+      "line": "You know your sons have serious issues..."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Of course. I sometimes wonder if they know they have issues. Anyway, please accept also my reward."
+    },
+    {
+      "character": "Player",
+      "line": "Eternal gratitude accepted."
+    },
+    {
+      "character": "Timfraku",
+      "line": "Very good. The spirits of my family will watch over you. And now, I would that you also accept a small token of my appreciation."
+    },
+    {
+      "character": "Timfraku",
+      "line": "You should go and see my sons in the village. I think they have something for you."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Hello, Bwana! We three have finally returned to the village!"
+    },
+    {
+      "character": "Player",
+      "line": "So I see."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I wish to reward you in return for helping me."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "I have been attempting to cook the Karambwan. As we all know, they are poisonous if not cooked properly."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. It's how I, or rather Tamayu, killed the Shaikahan."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Indeed. I have determined precisely how long to cook them for so that they are edible."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Thanks to you, Lubufu's Karambwan monopoly is over. If you ever need some, then come to me and not the store in Brimhaven."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Tiadeche."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Hello, Bwana! Would you like to buy some Karambwan?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Tiadeche",
+      "line": "Very well. Let me know if you change your mind."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Braaar! Your meals are truly excellent, Bwana..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad to hear it."
+    },
+    {
+      "character": "Tinsay",
+      "line": "... but there are some areas which could use some... improvement."
+    },
+    {
+      "character": "Player",
+      "line": "Such as?"
+    },
+    {
+      "character": "Tinsay",
+      "line": "Let me show you."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Oh, and before you go: I finally got around to repairing that statue. You might want to take a look.... Jogre bones!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Tinsay."
+    },
+    {
+      "character": "Tinsay",
+      "line": "Why hello there! What are you doing back here?"
+    },
+    {
+      "character": "Player",
+      "line": "Just passing through."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Welcome back to Tai Bwo Wannai, stranger."
+    },
+    {
+      "character": "Player",
+      "line": "I no longer feel a stranger here."
+    },
+    {
+      "character": "Tamayu",
+      "line": "And neither do we, thanks to you. My father has requested I give you something of value."
+    },
+    {
+      "character": "Tamayu",
+      "line": "I have not much of worth to give, apart from my fighting technique."
+    },
+    {
+      "character": "Tamayu",
+      "line": "This is the one thing I can give. My family have honoured me with this spear. But the honour is truly yours."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Take care, Bwana."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Tamayu, first son of Timfraku."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Stranger, why you have returned?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm just passing through."
+    },
+    {
+      "character": "Tamayu",
+      "line": "Using your new found poison I have been creating spears. Would you like to buy some?"
+    },
+    {
+      "character": "Tamayu",
+      "line": "As you wish, stranger."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Lubufu",
+      "description": "Elderly male, Caribbean accent, crotchety and cantankerous tone, a grumpy old fisherman who guards his secrets jealously and has no patience for younger people."
+    },
+    {
+      "name": "Tamayu",
+      "description": "Adult male, Caribbean accent, fierce and intense tone, a natural-born hunter consumed by bloodlust who speaks with the confidence of a warrior on a sacred mission."
+    },
+    {
+      "name": "Tiadeche",
+      "description": "Young adult male, Caribbean accent, melancholic and downtrodden tone, a struggling fisherman plagued by self-doubt who often sounds defeated and wistful."
+    },
+    {
+      "name": "Timfraku",
+      "description": "Middle-aged male, Caribbean accent, imposing and authoritative tone, a village chief who commands respect and speaks with the weight of leadership and paternal concern."
+    },
+    {
+      "name": "Tinsay",
+      "description": "Adult male, Caribbean accent, erratic and unhinged tone, an eccentric priest driven mad by a traumatic accident who speaks unpredictably with sudden outbursts."
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "branch": "quest/regicide",
+  "quest_name": "Regicide",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "I received your message my liege. How may I serve the kingdom?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "Ahh... adventurer. The repair work on the Well of Voyage has been completed. We're finally ready to move against my brother."
+    },
+    {
+      "character": "Player",
+      "line": "I assume you have a plan?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "I do indeed. I recently managed to make contact with the elves that inhabit the western lands."
+    },
+    {
+      "character": "Player",
+      "line": "Elves? I’ve never seen an elf before."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Well that may well change soon. Apparently, my brother has been causing them quite a bit of trouble. As such, they've agreed to help us get rid of him once and for all."
+    },
+    {
+      "character": "Player",
+      "line": "So what do I need to do?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "You are to head into the Underground Pass and through the Well of Voyage. Lord Iorwerth, the leader of the elves, will send some representatives to meet you on the other side."
+    },
+    {
+      "character": "King Lathas",
+      "line": "With their help, you are to find my brother and kill him. Once that's done, return to me."
+    },
+    {
+      "character": "Player",
+      "line": "Very well. Anything else I should know?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "My brother may not be the only threat you face. I hear the elves are currently dealing with a rebellion. The rebels likely won't take kindly to you working with their enemy so be on the look out."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I'll be careful."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Good luck adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't think I'm ready for this yet."
+    },
+    {
+      "character": "King Lathas",
+      "line": "As you wish. Return to me when you are ready and we will begin."
+    },
+    {
+      "character": "Player",
+      "line": "What's the deal with your brother again?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "My brother, King Tyras, was always a bit of an explorer. He went on numerous expeditions to the lands west of here. On one of these expeditions, he was captured by the forces of the Dark Lord."
+    },
+    {
+      "character": "King Lathas",
+      "line": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity. The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil…"
+    },
+    {
+      "character": "King Lathas",
+      "line": "As a result, I had a wall built around West Ardougne to act as a barrier between him and the rest of the world. Tyras is king of West Ardougne, sealing off the city was the only way to stop him and the Dark Lord."
+    },
+    {
+      "character": "King Lathas",
+      "line": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe."
+    },
+    {
+      "character": "Player",
+      "line": "But now we’re ready to stop him."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Indeed we are. My brother has been gathering strength in the west, preparing to move against us. But now that we have a way through, we can move against him first."
+    },
+    {
+      "character": "Player",
+      "line": "Excellent. Do you have a plan in place?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good. See you later."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Farewell adventurer. Return to me once you are ready to begin."
+    },
+    {
+      "character": "Idris",
+      "line": "Halt human! What are you doing here?"
+    },
+    {
+      "character": "Idris",
+      "line": "Wait! What was that? What the..."
+    },
+    {
+      "character": "Morvran",
+      "line": "Are you the human by the name of ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes that's me."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Good... We've been expecting you. King Lathas sent word of your coming."
+    },
+    {
+      "character": "Essyllt",
+      "line": "You should speak with Lord Iorwerth. He will help you track down that brigand Tyras. You'll find his camp in the north west of the forest."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, I'm. Your scouts said that I should come and see you."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Ahh.... Welcome to Tirannwn. I understand you've been sent here to rid us of that criminal Tyras. I offer my full support."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Unfortunately, most of my troops are currently dealing with a group of renegade elves. That does mean we're a bit more limited than we otherwise would be."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I'll need to play this smart then."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Indeed. Now, Tyras and his forces moved camp recently so your first step will be to find their new camp. I have a tracker currently working in that area. I suggest you join up with him."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "You'll find him at Tyras's old camp. It's south east of here, just north of that poisoned lake. Once you've found the camp, come and let me know."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I shall return when my task is complete."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "Human! You must be one of Tyras's men..."
+    },
+    {
+      "character": "Player",
+      "line": "No I'm ! Lord Iorwerth said you might be able to help me."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "And you have something to prove this?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... Err... No."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "As I was saying... I have no time for brigands or outlaws."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Good day. How may I help you now?"
+    },
+    {
+      "character": "Player",
+      "line": "Your scout refused to help. He asked for proof that you sent me."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Bless his loyalty but curse his suspicion. Here he will recognise this."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "That's Lord Iorwerth's pendant. He must have a lot of faith in you. Now, what is it I can help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to find Tyras and kill him. Do you know where his camp is?"
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "Well this was his old camp. After the battle a few days ago they moved. We're yet to find them again."
+    },
+    {
+      "character": "Player",
+      "line": "Can I help at all?"
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "As it goes I'm not actually tracking them at the moment. I'm currently trying to trace our renegade brethren instead. This here is the best lead we've found so far."
+    },
+    {
+      "character": "Player",
+      "line": "What is?"
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "Ahh I guess you can't see it with those human eyes."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "I tell you what. Now that you're here I may as well give you a hand. I'll search here on the east side. You check out the west end of the camp. Come and tell me if you find anything."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": ", how goes your search? Any luck hunting down that brigand?"
+    },
+    {
+      "character": "Player",
+      "line": "I've found no trace of him as yet."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "I'm sure you will find something at his old camp that can help you."
+    },
+    {
+      "character": "Player",
+      "line": "I'll take a look and see what I can find."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Good. Come find me when you've located the camp."
+    },
+    {
+      "character": "Player",
+      "line": "What should I be doing again?"
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "Check out the west end of the camp and see if you can find anything. I'll keep looking here. Let me know if you find anything."
+    },
+    {
+      "character": "Player",
+      "line": "I've found tracks leading off to the west. But they trail off into the trees. Beyond that I am unable to follow."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "These forests aren't always as dense as you'd think. If you look closer, you might see ways that you can get through. With that in mind, why don't you give it another go?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks... I'll see what I can find."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "How goes the hunt for that bandit camp?"
+    },
+    {
+      "character": "Player",
+      "line": "I found it a short distance west of here."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "I'm sure Lord Iorwerth will be pleased to hear that. You should let him know."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "how goes your search... Any luck hunting down that brigand?"
+    },
+    {
+      "character": "Player",
+      "line": "I've finally tracked the brute down. His camp is in a secluded bit of forest, almost directly south of here."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Good job. As we don't have the troops available to take on his forces directly, I suggest we try some alternative tactics."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "I have this book here which details an explosive reaction. We should be able to use it to create a bomb."
+    },
+    {
+      "character": "Player",
+      "line": "Well that should make short work of Tyras."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Indeed. Have a read through and see what you think. Once you have, let me know if you have any questions."
+    },
+    {
+      "character": "Player",
+      "line": "I lost my copy of The Big Book of Bangs."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Its lucky I had a scribe make a few copies then, is it not?"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Good day. Have you had any luck with that book?"
+    },
+    {
+      "character": "Player",
+      "line": "I need some quicklime."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Quicklime?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently it's made by heating limestone."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Ah, I see. There's a mine directly east of here where you can mine limestone."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Is there anything else I can help with?"
+    },
+    {
+      "character": "Player",
+      "line": "I need some sulphur."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Check the shore south of the old camp you were at earlier. I've seen sulphur there in the past, it comes from that poisoned lake."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I need some naphtha."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Naphtha?"
+    },
+    {
+      "character": "Player",
+      "line": "According to the book, you get it through the fractional distillation of coal tar."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Well you should be able to get some coal tar from that poisoned lake to the south. As for the rest, I'm afraid I don't have the chemistry knowledge to understand it."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... I know someone from Ardougne who might be able to help. She knows a thing or two about chemistry."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Perfect! Take the book to her and see if she can help. Just don't tell her what it's for. Even if she's trustworthy, we can't take any risks."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Anyway, is there anything else I can help with?"
+    },
+    {
+      "character": "Player",
+      "line": "I need a barrel."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Have a look around the camp, there should be some empty barrels lying around."
+    },
+    {
+      "character": "Player",
+      "line": "Will do, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I need a fuse."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Some sort of fabric should work. You can use the loom here if needed."
+    },
+    {
+      "character": "Player",
+      "line": "That's all thanks."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Let me know if you need anything else."
+    },
+    {
+      "character": "Player",
+      "line": "Good day. I was hoping you could help me with something. I have a book which mentions the fractional distillation of coal tar. I don't know how to do that though."
+    },
+    {
+      "character": "Chemist",
+      "line": "Ah, you'll be wanting to use the still then. It's just outside."
+    },
+    {
+      "character": "Player",
+      "line": "How do I use it?"
+    },
+    {
+      "character": "Chemist",
+      "line": "It's quite simple really. You have to get the still heat up very high for it to work. However, if it gets too hot it will burn out and you will have to start over."
+    },
+    {
+      "character": "Chemist",
+      "line": "You must also watch the pressure, if it gets too high you will also have to start over. There are valves to control pressure and tar flow. These will also affect the heat of the still."
+    },
+    {
+      "character": "Player",
+      "line": "Is that all?"
+    },
+    {
+      "character": "Chemist",
+      "line": "You'll also need plenty of coal to keep the still hot."
+    },
+    {
+      "character": "Player",
+      "line": "I see, thanks for the information."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Good day Have you had any luck with that book?"
+    },
+    {
+      "character": "Player",
+      "line": "I have finished the bomb."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Excellent work. Now we can finally deal with Tyras."
+    },
+    {
+      "character": "Player",
+      "line": "So what should I do? Plant it in his camp?"
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "No, you'll be spotted by the guards if you try that. You'll need to get it in from outside."
+    },
+    {
+      "character": "Player",
+      "line": "Any suggestions?"
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Tyras and his men have used catapults against us in the past. Maybe you can turn one of them against him."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Now you'd better get going. Don't forget, you'll need a tinderbox to light that fuse. Return to me once the deed is done."
+    },
+    {
+      "character": "Tyras guard",
+      "line": "Oi! Don't mess with that."
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Tyras guard",
+      "line": "Yeah, what ya want?"
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering what you were doing out here?"
+    },
+    {
+      "character": "Tyras guard",
+      "line": "I was just wondering what I was doing here too. I'm meant to be looking after this catapult but I can't keep my mind on the job. We've been living off field rations for almost a year now."
+    },
+    {
+      "character": "Tyras guard",
+      "line": "I keep seeing rabbits in this forest. What I wouldn't give to eat one, but I'm not quick enough to kill any and I'm no good with a bow."
+    },
+    {
+      "character": "Player",
+      "line": "I can see how that would be distracting."
+    },
+    {
+      "character": "Player",
+      "line": "Well I have one here for you."
+    },
+    {
+      "character": "Tyras guard",
+      "line": "You cooked me a rabbit! Thanks a lot. You don't mind watching things while I take five to eat it, do you?"
+    },
+    {
+      "character": "Player",
+      "line": "All right."
+    },
+    {
+      "character": "Tyras guard",
+      "line": "They say the king died from a flying fire ball. Are you certain no one messed with the catapult while I was eating?"
+    },
+    {
+      "character": "Player",
+      "line": "I was the only one here. I was watching the whole time."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "I take it that the huge explosion I just heard was you?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've finally dealt with Tyras, he should cause you no more problems."
+    },
+    {
+      "character": "Elf Tracker",
+      "line": "This is good news indeed. Lord Iorwerth will be very happy. You should go and let him know."
+    },
+    {
+      "character": "Player",
+      "line": "Lord Iorwerth, it is done."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Good good... One of my scouts reported that they saw his tent in a ball of flames. You have done well."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "I'm sure you will want to get back to your king and tell him. He will undoubtedly want some proof. He should trust me enough in this matter, Give him this letter, it verifies that the job is done."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "As a token of my own thanks, I give you access to the pass through Arandar. You'll find the start of the trail in the far north east of the woods."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you my lord."
+    },
+    {
+      "character": "Player",
+      "line": "Lord Iorwerth, I have lost the message for King Lathas."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Here have another copy, but don't let it fall into the wrong hands."
+    },
+    {
+      "character": "Player",
+      "line": "Good day Lord Iorwerth."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "Have you delivered the message to King Lathas yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet my lord."
+    },
+    {
+      "character": "Lord Iorwerth",
+      "line": "There is no time for delay, he'll need to see it."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Are you the human by the name ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's me?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Thank Seren, maybe all is not yet lost."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I am Arianwyn, leader of the Elven Resistance. We've been watching you since you arrived in Tirannwn. We know it was you that murdered King Tyras."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "There is much to explain and little time. You carry a message from Lord Iorwerth, do you not?"
+    },
+    {
+      "character": "Player",
+      "line": "Well you seem to know everything else so I'll not lie. Yes."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Good, we understand each other well. Now hand it here and find the truth of who your real employer is."
+    },
+    {
+      "character": "Player",
+      "line": "I had no idea! Why would the king do this?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I have a few ideas, now is not the time to discuss them though. For now, you should go to King Lathas as normal. Give him the message and act like nothing unusual has happened."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Once you are done, return to Tirannwn and seek out Islwyn and Eluned. You'll find them roaming the Isafdar forest. They will bring you to me."
+    },
+    {
+      "character": "Player",
+      "line": "You want me to help you? Okay, what's in it for me?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "The chance for redemption after all you've done? If that doesn't take your fancy, consider this..."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "This isn't a struggle for land or title. It is a war for life, all life. If Iorwerth and Lathas manage to summon Zamorak, we all die."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Deliver your message, act normal. We'll meet again soon."
+    },
+    {
+      "character": "Player",
+      "line": "My lord, Tyras is dead!"
+    },
+    {
+      "character": "King Lathas",
+      "line": "This is grand news indeed! You'll forgive me if I'm a little apprehensive about this, but I take it you do have proof?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I have nothing to corroborate this."
+    },
+    {
+      "character": "King Lathas",
+      "line": "I am sure you have done as you say, but on this matter I can afford no doubts. You must find something to confirm your story."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have a letter sent by Lord Iorwerth."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Yes... Good... This will do nicely. Well done, you've done an excellent job."
+    },
+    {
+      "character": "Player",
+      "line": "Does this mean we can reveal the truth about the plague?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "Not yet I'm afraid. Even with my brother gone, the Dark Lord remains a threat. For now, the plague must remain."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Anyway, I'll send word when I next require your services. Oh, and I guess you'll be wanting your reward."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Arianwyn",
+      "description": "Ancient male elf, Welsh accent, measured and authoritative tone with underlying concern. A resistance leader who speaks with quiet conviction and urgency, balancing wisdom with growing desperation."
+    },
+    {
+      "name": "Chemist",
+      "description": "Middle-aged male, British accent, patient and instructive tone. A practical craftsman absorbed in his work, speaks matter-of-factly about chemical processes without drama."
+    },
+    {
+      "name": "Elf Tracker",
+      "description": "Adult male elf, Welsh accent, professional and suspicious tone. A military scout who is cautious with strangers, speaks with clipped efficiency and wariness until trust is established."
+    },
+    {
+      "name": "Essyllt",
+      "description": "Adult male elf, Welsh accent, deep and commanding tone with cold authority. A ruthless military commander and henchman, speaks with calculated control and underlying menace."
+    },
+    {
+      "name": "Idris",
+      "description": "Adult male elf, Welsh accent, alert and confrontational tone. A hunter on patrol, speaks with urgency and suspicion when encountering strangers in the forest."
+    },
+    {
+      "name": "King Lathas",
+      "description": "Middle-aged male, regal British accent, smooth and polished tone that masks cunning. A manipulative monarch who speaks with courtly formality while concealing his true treacherous nature."
+    },
+    {
+      "name": "Lord Iorwerth",
+      "description": "Ancient male elf, Welsh accent, commanding and dignified tone with zealous conviction. A clan leader consumed by dark purpose, speaks with formal authority and unwavering determination."
+    },
+    {
+      "name": "Morvran",
+      "description": "Adult male elf, Welsh accent, cold and slightly unsettling tone. A warrior loyal to Lord Iorwerth with a creepy presence, speaks with brief efficiency and underlying menace."
+    },
+    {
+      "name": "Tyras guard",
+      "description": "Adult male, working-class British accent, weary and distracted tone. A common soldier tired of military life and field rations, speaks casually and is easily bribed with food."
+    }
+  ]
+}

@@ -1,0 +1,2768 @@
+{
+  "branch": "quest/wanted",
+  "quest_name": "Wanted!",
+  "lines": [
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "What ho,. Jolly good show on the old training grounds thingy, what?"
+    },
+    {
+      "character": "Player",
+      "line": "So Tiffy, now that I'm a Temple Knight Initiate do you have any jobs for me to do?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any quests for a hard-working adventurer?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well old, looking at the old dossier we have on you here there seems to be a tiny problem, what?"
+    },
+    {
+      "character": "Player",
+      "line": "Problem? What problem? Er... and you have a dossier on me???"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well OF COURSE we have a dossier on you! We have a dossier on EVERYONE! It's our job, dontchaknow!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... okay... So what's the problem?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well now, seems we made a tiny blunder when we first contacted you to join the Temple Knights, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Entirely our own fault, could have been avoided and all that, but a bit of a show-stopper, what?"
+    },
+    {
+      "character": "Player",
+      "line": "What is?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well, here's the thing: Only members of the White Knights may join the Temple Knights. By ancient decree, dontchaknow."
+    },
+    {
+      "character": "Player",
+      "line": "What? But I am a member of the White Knights! I went and did that stuff with the cabbage and the potion!"
+    },
+    {
+      "character": "Player",
+      "line": "And I've already done your stupid little mind test thing! You can't get rid of me that easily!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Calm yourself down... We have no intention of 'getting rid of you', we are very keen on seeing you join us..."
+    },
+    {
+      "character": "Player",
+      "line": "Then what's the problem?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well, it's like this: Although you have performed a mission on behalf of the White Knights, you were never actually working for them."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "As I say, when our order was founded, we were expected to take the best of the best, and it was assumed that anyone worth having on the team would have been a White Knight already, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Sadly, this is not the case anymore, and the fact that you have to serve as a Squire to a White Knight for a minimum period of five years before you can actually become one tends to put the more short-attention spanned adventurers off joining, what?"
+    },
+    {
+      "character": "Player",
+      "line": "You want me to be a squire for five years?!?!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Haw Haw Haw! No, no, goodness me, no!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Five years is a very long period of time nowadays – ANYTHING could happen in that time, and we need capable like yourself as soon as possible."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "No, I had a bit of a chat with Sir Vey, and we came up with... A different solution to the problem. Assuming you're still interested, of course."
+    },
+    {
+      "character": "Player",
+      "line": "Yes I'm interested."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still up for joining the Temple Knights, I just don't really feel like spending five years running around shining peoples boots for them."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Haw Haw Haw!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "I quite understand, what? No, don't worry, we were doing a little research into the White Knight Charter, and found an interesting loophole, what?"
+    },
+    {
+      "character": "Player",
+      "line": "Loophole? What kind of loophole?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, you don't need to worry about the details, you just do as I tell you and it will all work out for us both, what?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess... I don't really like blindly following orders though..."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm bored now."
+    },
+    {
+      "character": "Player",
+      "line": "No, to be honest I'm getting sick of all these excuses and procrastination. Plus being an initiate was nowhere near as fun as I thought it would be."
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather just go off by myself and kill stuff for cash."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well, sorry to hear you say that old boy, but I can't hold it against you."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "You will of course still be entitled to all that we can provide you with at an initiate level, but sadly you will never advance beyond that in our order. Was there anything you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "So what exactly do you want me to do?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well now, it's really very simple. I want you to go to Sir Amik, tell him that you have decided to not join the Temple Knights, and that you have decided to become a White Knight instead."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "He will then offer you to join as a squire; you will then decline his offer, and ask if you can be deputised instead."
+    },
+    {
+      "character": "Player",
+      "line": "Okaaaay...."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "If you run into any problems with that, come and see me."
+    },
+    {
+      "character": "Player",
+      "line": "How will all that help?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't exactly understand how that will help me become a White Knight..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Ah, your curiosity does you credit old boy! Let me tell you a little history lesson."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Many centuries ago, the founders of the White Knights realized that in times of crisis, a long waiting period for new Knights could be disastrous for the kingdom, so they added a clause to the founding charter that would"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "allow any citizen who has performed an act in the name of the White Knight to become deputised on a purely temporary basis to a full-fledged White Knight."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well now, your actions in the Black Knights' Fortress on behalf of the White Knights make you eligible to be deputised."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Besides, you passed the trials to become a Temple Knight, what? If you're good enough to join the elite, then we'd not hesitate to deputise you into the White Knights."
+    },
+    {
+      "character": "Player",
+      "line": "But if deputisation's only temporary, and I have to be a 'proper' White Knight to then become a Temple Knight, doesn't that mean that I am still going to have to squire for Amik for five years?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Ah, well this is where the beauty of the plan lies, dontchaknow?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Once you have been deputised, for the time that you are still working for their order, you are subject to all of the same rules and regulations that normal White Knights are, which means you are also eligible for battlefield"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "promotions."
+    },
+    {
+      "character": "Player",
+      "line": "I... don't understand..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Let me put it like this; As a deputy you will be considered the lowest possible rank of the White Knight, and may be removed entirely from their order at a whim."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "However, should you achieve some great feat while serving as a White Knight that you would be eligible for a promotion from, then by their own rules you would then have to be raised to a higher level within their order, and"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "it would therefore become impossible to remove your rank, or make you no longer a deputy."
+    },
+    {
+      "character": "Player",
+      "line": "So I get to be a White Knight without having to do five years of pointless busywork?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Indeed. We Temple Knights have our reputation for a reason, donchaknow?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I guess that makes sense... But we're not in a time of crisis, so doesn't that mean I won't actually get deputised?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Ah, do not concern yourself with THAT old ; Crisis is such a subjective term, and as you will find out when you join us fully in the Temple Knights, is always some potential crisis or other brewing."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "If we weren't as good at our jobs we were, almost every day would be a day of crisis!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "All we really need to do is allow the old White Knights to handle a problem that we would normally deal with, and that should be a sufficient crisis to allow you to be deputised, donchaknow."
+    },
+    {
+      "character": "Player",
+      "line": "But... Do I really need to quit the Temple Knights"
+    },
+    {
+      "character": "Player",
+      "line": "You seem pretty cool, and I really like the armour..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "No, not at all, this is merely a ruse; Sir Amik knows full well that his authority over our organization is limited, so he will not deputise you unless he thinks that you are entirely unaffiliated with us."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "You are simply going to tell him that you have decided not to join us so that he will in turn deputise you to join the White Knights! We of course still want you to join us, it is just a"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "little... misdirection."
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing again?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "You are to go to Sir Amik Varze, leader of the White Knights of Falador, and are to tell him that you have decided not to join the Temple Knights."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "We will send him a messenger confirming this. He will offer you the opportunity to become his squire, you are to decline, and ask if you can be deputised instead."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "If you run into any problems with that, you are then to come and see me for further advice."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Understood?"
+    },
+    {
+      "character": "Player",
+      "line": "Um, yeah, I think so..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Sir. Amik"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Hello Friend"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Well, I did have something you may have been interested in, but I've been given orders not to approach you for trivial matters now that you are a member of the Temple Knights."
+    },
+    {
+      "character": "Player",
+      "line": "Aaaaawwwww..."
+    },
+    {
+      "character": "Player",
+      "line": "got any jobs for me to do today?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Well, I did have something you may be interested in, but I've been given orders not to-"
+    },
+    {
+      "character": "Player",
+      "line": "Can I just stop you right there?"
+    },
+    {
+      "character": "Player",
+      "line": "I am no longer a member of the Temple Knights, I have entirely renounced my application because after many hours of soul searching I have come to the conclusion that I desperately want to become a White Knight instead!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You don't want to be a Temple Knight anymore?"
+    },
+    {
+      "character": "Player",
+      "line": "That is correct, yes."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "But you are wearing their armour!"
+    },
+    {
+      "character": "Player",
+      "line": "So? Did you hear me bad mouth their armour? The armour is cool, I kept the armour!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "I'm not sure I understand... You wish to desert the Temple Knights in favour of my own humble White Knights?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely!"
+    },
+    {
+      "character": "Player",
+      "line": "And this is definitely not some kind of elaborate hoax to get my application processed faster."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "I'm sorry, did you say something just then?"
+    },
+    {
+      "character": "Player",
+      "line": "No... Not if you didn't hear it..."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "...Well anyway, for the fine work you achieved at that incident in the Black Knights Fortress, I would be honoured to accept you as my squire."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "So what do you say?"
+    },
+    {
+      "character": "Player",
+      "line": "So what exactly does being a squire consist of, then?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You will spend the next five years of your life running various errands for me."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "If I consider you to have done a more than adequate job of this, then I will begin to consider possibly moving your name forwards to becoming a full-fledged member of the Order of the White Knights."
+    },
+    {
+      "character": "Player",
+      "line": "So... No killing stuff for you, or anything fun like that...?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Not as such, no. Unless you consider killing time by running errands fun...?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, erm..."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "So what say you Player? Spend five long years of your life doing pointless busywork without pay for me, on the off chance that at some point in the future I may put your name forward as a novice White Knight?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please! I would LOVE to be your squire!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait... Didn't Sir Tiffy tell me to decline...?"
+    },
+    {
+      "character": "Player",
+      "line": "Nah, Squire me up, Amik!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "As you wish, from this day forth you are my Squire!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... As tempting an offer as that sounds Sir Amik, I am really not a fan of waiting around..."
+    },
+    {
+      "character": "Player",
+      "line": "Now I heard from some completely random stranger that was definitely not Sir Tiffy Cashien as part of an elaborate ruse to fast track my application into the White Knights, that I could be deputised directly as a White"
+    },
+    {
+      "character": "Player",
+      "line": "Knight, and entirely bypass that while boring waiting for five year thing..."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "That is entirely correct, but I have no idea where you might have heard that for it is a secret guarded only to members of our order!"
+    },
+    {
+      "character": "Player",
+      "line": "Right. Well, Can I do that instead?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Well, a fine adventurer would be a perfect candidate as a deputy in my eyes, but fortunately this can only be done in a time of crisis, and all is currently well."
+    },
+    {
+      "character": "Player",
+      "line": "All is well huh? I'll be right back, I just have to go ask..."
+    },
+    {
+      "character": "Player",
+      "line": "nobody in particular if they can organise...nothing at all to happen."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You are a strange one..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Sir Amik."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Hello, friend!"
+    },
+    {
+      "character": "Player",
+      "line": "Got any jobs for me to do today?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Only to become my Squire. Do you wish to become my squire?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not really. So there isn't a crisis yet?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Thank Saradomin, no! We have not had a crisis for many years now!"
+    },
+    {
+      "character": "Player",
+      "line": "Right. Well, I'll go and see if Tiffy can fix that for me then."
+    },
+    {
+      "character": "Player",
+      "line": "Er, I mean: How fortunate for us all that nothing terrible has happened or is conveniently about to happen."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Indeed!"
+    },
+    {
+      "character": "Player",
+      "line": "So do you have any squiring for me today Amik?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Yes, yes in fact I do. I would like you to bring me an Asgarnian Ale."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "No matured Ale, no other brand, simply an Asgarnian Ale."
+    },
+    {
+      "character": "Player",
+      "line": "Okay boss."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "That is 'Sir Amik' or 'My Liege' – not 'Boss'."
+    },
+    {
+      "character": "Player",
+      "line": "Gotcha, boss."
+    },
+    {
+      "character": "Player",
+      "line": "Hi boss."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Call me Sir Amik, or liege."
+    },
+    {
+      "character": "Player",
+      "line": "Sure thing, boss. I brought you a beer."
+    },
+    {
+      "character": "Player",
+      "line": "Anything else you want boss?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Well, another Asgarnian Ale would be greatly appreciated. And stop calling me Boss."
+    },
+    {
+      "character": "Player",
+      "line": "Sure thing boss!"
+    },
+    {
+      "character": "Player",
+      "line": "I did it Tiffy! I became Sir Amik's squire!"
+    },
+    {
+      "character": "Player",
+      "line": "That means in just five short years I can be a White Knight!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "...What? I told you to decline!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeeeesssssss.... But I thought it would be more fun to do this?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "*sigh* This is a less than illustrious start to your career with us."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Never mind, all is not lost, I have sent word to Amik that a dangerous criminal we once thought exiled is on the loose again, and that he should send all available White Knights to confront him."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "This should give him enough of a scare to deputise you immediately."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Go and speak to Amik again, and then immediately come back here, we will need to prepare you for your mission."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again Tiffy. I've just spoken to Amik, and he says he's fine for me to be deputised as a White Knight, there just needs to be a crisis first."
+    },
+    {
+      "character": "Player",
+      "line": "I assume you can arrange a small crisis for me?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Haw Haw Haw, fitting right in with the Temple Knight way of thinking, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well as a matter of fact, I will not have to organise anything, there is a particularly vicious and dangerous criminal currently at loose!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "I have already notified Sir Amik through the usual channels, so just go and speak to him quickly, then pop back here and we'll get you equipped for the hunt, what?"
+    },
+    {
+      "character": "Player",
+      "line": "You know... Is all this back and forth strictly necessary?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't mean to sound ungrateful for the help you're giving me here, but you could have just got this sorted out before sending me off there in the first place!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Ah, yes, well most awfully sorry about all the running around you've been doing old bean, but when it comes to our line of work, sometimes the indirect route is the best, what?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand...?"
+    },
+    {
+      "character": "Player",
+      "line": "And stop calling me bean! I am not a vegetable, I am a human bean, er, being!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Awfully sorry dear heart, it's just a term of affection, what? Anyway..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "This criminal is a very dangerous fellow, and has some very dangerous friends."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "If he has no reason to suspect you to be working for us, then he will be a little sloppier than he otherwise might be, because he will just assume you to be one of those stupid White Knights."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "We want this man caught, for the good of the country, and if we need to fool a few people into thinking you're nothing to do with us, and you have to do a little extra walking, then that's what is going to happen, what?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess... But this spy stuff is a lot more boring than it sounded at first..."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Tiffy. What am I supposed to be doing again?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Go and report to Sir Amik for 'orders'. You will be unsurprised to find out he will now be prepared to deputise you."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "After you have spoken to him return here immediately, your life will be at risk without our assistance, and we don't want you dying on your first mission for us, what?"
+    },
+    {
+      "character": "Player",
+      "line": "Speak about the Wanted! Quest"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Thank Saradomin you have come back here!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "We have received word from one of our scouts that the evil Solus Dellagar has returned to Asgarnia!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "What is worse, it seems he is in possession of dangerous new magics we are powerless against!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Please, I implore you in the name of all that is holy, assist us in banishing him from our kingdom once more!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "I cannot bear to think of the troubles he may bring us..."
+    },
+    {
+      "character": "Player",
+      "line": "Solus Dellagar? Who - or what - is that?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You have not heard of the infamous murder-mage? He terrorised these lands many years past, thinking himself above the law with his powerful enchantments, but the White Knights finally managed to bring him to"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "justice and he was permanently exiled."
+    },
+    {
+      "character": "Player",
+      "line": "Exiled? Why didn't you just kill him? Or, you know, imprison him or whatever?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Kill an unarmed foe? That is not the way of Saradomin, nor of the White Knights."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "As for imprisonment...Solus is a highly dangerous man not just because of his mastery of the magical arts, but for his uncanny resourcefulness."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "To tell you the truth, I fear that I would be unable to guarantee his captivity in any holding cell belonging to us..."
+    },
+    {
+      "character": "Player",
+      "line": "So if you can't imprison him, and exile obviously didn't work, you want me to kill him?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "I did not say that. I did not say that at all. That is against all of our codes of honour."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "However, should you find yourself in combat with him, and there is no other way, then perhaps for him to die would be best for us all."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You understand me, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes. You've made yourself very clear."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "So will you aid us in this fight?"
+    },
+    {
+      "character": "Player",
+      "line": "So what will I get if I help you out against this, er, solus doolalala guy then?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Why, you will help keep Asgarnia free of malicious influence, and perform a good deed in the name of King Vallance and of the White Knights!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes I see. So...No monetary compensation or other actual reward then?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "As Saradomin has told us, 'a good deed is its own reward'."
+    },
+    {
+      "character": "Player",
+      "line": "So I don't actually get anything out of this then?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Nothing tangible, no, but you will be deputized to act as a White Knight, and you will feel a warm glow inside of having done the right thing."
+    },
+    {
+      "character": "Player",
+      "line": "But you can't buy things with a warm glow..."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "So what say you ? Fight with honour in the name of the White Knights against the terrible Solus?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, there's nothing I like more than fighting! Deputise me up, and I'll go get this guy for you!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Very well then; In the name of King Vallance, and for the honour of Saradomin, I now pronounce you a fully deputised White Knight."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "May honour and glory follow you in every action."
+    },
+    {
+      "character": "Player",
+      "line": "So where should I start looking for this Solus guy anyway?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "I haven't the faintest idea. Good Luck!"
+    },
+    {
+      "character": "Player",
+      "line": "A scary mage huh? Sounds like I could get KILLED!"
+    },
+    {
+      "character": "Player",
+      "line": "Forget that and forget you! No way am I risking my neck unless there is a big fat reward on the table for it!"
+    },
+    {
+      "character": "Player",
+      "line": "And sometimes not even then..."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "It is a tragedy to hear you speak so, but we must trust in our valour and the wisdom of Saradomin to protect us from this evil man if we can not enlist help against him."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "... Solus Dellagar is still loose... Please, for the safety of my lands you must find him immediately..."
+    },
+    {
+      "character": "Player",
+      "line": "Any hints on where he might be?"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "We have no idea where he might be now... His magic is too powerful for us, I do not know how to stop him..."
+    },
+    {
+      "character": "Player",
+      "line": "Hum. I wonder if Sir Tiffy might be able to help?"
+    },
+    {
+      "character": "Player",
+      "line": "Tiffy, it worked exactly to plan! Sir Amik deputised me to take care of this Solus Doolally dude, so let's go get him!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "His name is Solus Dellagar, and honestly, he is one of the most dangerous men on the planet."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Not only is he extremely adapt at magic, he is also quite prepared to use that magic at a moments notice, because he is quite, quite mad."
+    },
+    {
+      "character": "Player",
+      "line": "So... Dragonhide armour and an elemental shield and I'm laughing?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "No, no, no. Listen to me ; You are under NO CIRCUMSTANCES to engage him directly in combat!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "You are to act as our agent and track him down, when you have managed to corner him somewhere then we will send in a field recovery team directly to take him away without incident."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "I cannot stress this enough; You are to observe and locate, you are NOT to enter a combat situation!"
+    },
+    {
+      "character": "Player",
+      "line": "Riiiiight.... So I'm just going to scout him out for you then."
+    },
+    {
+      "character": "Player",
+      "line": "Any tips on how to find him?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well old, we need to equip you for the task, but you'll need to get something for me first, what?"
+    },
+    {
+      "character": "Player",
+      "line": "What kind of stuff?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well, we teach our operatives the value of their equipment by making them pay for it, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "You have two choices here, you can either give me the cash directly, and I will hand it over, or you can bring me the raw materials and I will make you one."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well we in the Temple Knights have some specific equipment for situations such as this dontchaknow, but you'll need to free up some inventory space first!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "It's 10,000 coins for the Temple Knight Communication Orb. You have that kind of money with you?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah, I got your money."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Then you wish to purchase a Temple Knight Communication Orb?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Here take this Communications Orb, or 'CommOrb' for short."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "It is a precise magical mechanism that we can use to track him, by sending data of the surrounding area back to one of our information operatives at the Temple Knight Headquarters."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Your information operative is known as Savant, I suggest you contact them using your CommOrb at your earliest convenience."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "They will be able to send you any useful data about Solus directly through it for your perusal, dontchaknow."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks Tiffy!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, no thanks."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "As you wish, what?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that kind of money with me..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Perhaps you would like to just bring me the components of it then, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Bring me one law rune, one slayer gem and one piece of molten glass and I will make you a Communication Orb."
+    },
+    {
+      "character": "Player",
+      "line": "Can I give you the components I have with me now?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Heavens, boy! I am not a pawn shop, to be holding bits and pieces for you while you go off and do something else!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "No, no you bring me all three components at the same time, what?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay Tiffy."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Bring me one Law Rune, one Slayer Gem and one piece of Molten Glass and I will make you a Communication Orb."
+    },
+    {
+      "character": "Player",
+      "line": "I have all three components for you to make me a Communication Orb out of now Tiffy."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Excellent! You wish me to make you one now then, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Bringing me either cash or items so that I can equip you for your mission correctly."
+    },
+    {
+      "character": "Player",
+      "line": "Hey Tiffy, I lost my CommOrb..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Very careless of you, what? Here, take another, but be careful of this one!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "You are hunting for Solus Dellagar, the evil criminal mastermind."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "I suggest you contact Savant through your CommOrb and see if she can send you any relevant information about your assignment."
+    },
+    {
+      "character": "Player",
+      "line": "Hello...?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, hello! You must be ? Sir Tiffy told me to expect you to call in on this frequency!"
+    },
+    {
+      "character": "Savant",
+      "line": "So what do you think? Pretty nifty little piece of kit this crystal, huh?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, it must be very useful."
+    },
+    {
+      "character": "Savant",
+      "line": "Oh, trust me you'll find out exactly how useful! Now, was there something you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Savant! I was wondering if you could give me details on my current assignment?"
+    },
+    {
+      "character": "Savant",
+      "line": "Okaaaaay... Bringing up your current assignment details..."
+    },
+    {
+      "character": "Savant",
+      "line": "Oh! You're chasing Solus Dellagar?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah! So any information you can give me?"
+    },
+    {
+      "character": "Savant",
+      "line": "Listen. Solus is an incredibly dangerous criminal, and I don't think his grasp on reality is too tight, if you understand what I'm saying."
+    },
+    {
+      "character": "Savant",
+      "line": "You really need to take care with this one. I'm amazed you got an assignment as tough as this one as a first assignment to be honest!"
+    },
+    {
+      "character": "Player",
+      "line": "So, how would you suggest I go about finding him?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, this CommOrb can use the scan function to find him, but its range is very limited."
+    },
+    {
+      "character": "Player",
+      "line": "So I have to just wander around the place looking for him?"
+    },
+    {
+      "character": "Savant",
+      "line": "No, that would take far too long... Listen, I am going to transfer all information on Solus that we currently have to your CommOrb."
+    },
+    {
+      "character": "Savant",
+      "line": "You should be able to find a hint of where to find him by examining it."
+    },
+    {
+      "character": "Savant",
+      "line": "The Library tells me that we have two visual recordings from SpyOrbs available to you, as well as a standard dossier."
+    },
+    {
+      "character": "Savant",
+      "line": "I would suggest the people that the SpyOrbs were observing, when they picked up records of Solus, would be a good place to start your investigation."
+    },
+    {
+      "character": "Player",
+      "line": "Who are these people then?"
+    },
+    {
+      "character": "Savant",
+      "line": "Okay just checking now..."
+    },
+    {
+      "character": "Savant",
+      "line": "Record one is from a routine monitoring of Lord Daquarius."
+    },
+    {
+      "character": "Savant",
+      "line": "In case you haven't heard of him, he is the leader of the Kinshra, also known as Black Knights."
+    },
+    {
+      "character": "Savant",
+      "line": "As a major enemy of the White Knights we have had him under observation for some time now, so it was pretty lucky that Solus decided to visit him."
+    },
+    {
+      "character": "Player",
+      "line": "So where would I find this Lord Daquarius?"
+    },
+    {
+      "character": "Savant",
+      "line": "He has a secret Black Knight training ground deep in the heart of Taverley dungeon, along with holding facilities for prisoners who they wish to interrogate later."
+    },
+    {
+      "character": "Savant",
+      "line": "He is almost certain to be found thereabouts."
+    },
+    {
+      "character": "Player",
+      "line": "And what is Record 2 about?"
+    },
+    {
+      "character": "Savant",
+      "line": "Just checking... Ah yes."
+    },
+    {
+      "character": "Savant",
+      "line": "This shady fellow is a member of the Zamorakian Magical Institute."
+    },
+    {
+      "character": "Savant",
+      "line": "We suspect them to be the group responsible for destroying the Wizards Tower all of those years ago, as well as other more recent acts of sabotage."
+    },
+    {
+      "character": "Savant",
+      "line": "We also suspect that they have been responsible for a number of thefts of a mysterious rock that the Wizards Tower has started producing, but don't have much intelligence about that."
+    },
+    {
+      "character": "Savant",
+      "line": "We set up an observation SpyOrb in a known Zamorakian shrine in south-east Varrock, but he moves between there and the wilderness just north of Edgeville quite frequently."
+    },
+    {
+      "character": "Savant",
+      "line": "He doesn't seem much of a threat, but we placed him under observation anyway, which seems to have paid off by getting some more information about Solus."
+    },
+    {
+      "character": "Savant",
+      "line": "From the look of the record, he would be worth talking to as well."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Savant!"
+    },
+    {
+      "character": "Savant",
+      "line": "Any time,. Over and out."
+    },
+    {
+      "character": "Player",
+      "line": "So... Savant... That's an unusual name..."
+    },
+    {
+      "character": "Savant",
+      "line": "Well, obviously it's not my real name!"
+    },
+    {
+      "character": "Savant",
+      "line": "My real name is Elyssa Van Lendes, but for operational purposes I am called Savant."
+    },
+    {
+      "character": "Player",
+      "line": "So what exactly do you do for the Temple Knights?"
+    },
+    {
+      "character": "Savant",
+      "line": "I am the S.M.R. and Chief Librarian for the Temple Knights."
+    },
+    {
+      "character": "Player",
+      "line": "S.M.R? What's that?"
+    },
+    {
+      "character": "Savant",
+      "line": "It stands for Senior Mystical Researcher. The Temple Knights have a world class research team investigating new types of magic constantly. As senior researcher, and liaison, I can pass on information to the rest of the Temple Knights."
+    },
+    {
+      "character": "Savant",
+      "line": "Many of the devices used by the Temple Knights such as our CommOrbs and SpyOrbs were first designed by my team as experimental devices, and have since become standard field equipment!"
+    },
+    {
+      "character": "Savant",
+      "line": "I have always had a gift for magic, and have spent most of my life trying to find applications for it that would serve our order and give us an edge over our opponents."
+    },
+    {
+      "character": "Player",
+      "line": "Your opponents?"
+    },
+    {
+      "character": "Savant",
+      "line": "Oh yes, don't think for a second that we are the only secret organisation in Gielinor!"
+    },
+    {
+      "character": "Savant",
+      "line": "There are many factions in these lands, some almost as magically advanced and organised as ourselves!"
+    },
+    {
+      "character": "Savant",
+      "line": "It is a constant struggle to keep our operatives with advanced magical equipment that our opponents don't have - this is why we have the self-destruct safeguards, to prevent our equipment ever falling into unfriendly hands."
+    },
+    {
+      "character": "Player",
+      "line": "So how did you end up working for the Temple Knights?"
+    },
+    {
+      "character": "Player",
+      "line": "I would have thought someone like you would have ended up researching at the Wizards' Tower or something instead..."
+    },
+    {
+      "character": "Savant",
+      "line": "Oh yes... The Wizards' Tower..."
+    },
+    {
+      "character": "Savant",
+      "line": "Let me tell you something, the mages who work there are idiots! They told me that magical research wasn't suitable for 'just a girl' and that I would be 'too scared' to research for them effectively!"
+    },
+    {
+      "character": "Savant",
+      "line": "Luckily the Temple Knights are far more open minded about things, and I really feel like my work is making a difference to them!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks Savant, that was very interesting."
+    },
+    {
+      "character": "Savant",
+      "line": "Hey, we're all Temple Knights here, right? Glad I could help,"
+    },
+    {
+      "character": "Savant",
+      "line": "Savant over and out."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Savant. I was just wondering if you could give me a little information about the Temple Knights?"
+    },
+    {
+      "character": "Player",
+      "line": "I've just realised that I really don't know very much about them..."
+    },
+    {
+      "character": "Savant",
+      "line": "Well, you are not officially a full fledged Temple Knight now, are you Initiate ?"
+    },
+    {
+      "character": "Savant",
+      "line": "I am afraid that means for security reasons I can only give you a brief overview of the organisation..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that's better than nothing right?"
+    },
+    {
+      "character": "Savant",
+      "line": "That is usually the case, yes, I agree. Well, let's see if I remember how this goes... 'Legends tell us that Lord Saradomin once walked these lands amongst us, and delivered his wisdom unto us personally, so that we could grow wise in his honour."
+    },
+    {
+      "character": "Savant",
+      "line": "But then came the war, that shattered our lands, and the interloper banished our land from us!"
+    },
+    {
+      "character": "Savant",
+      "line": "But the wisdom of Saradomin knew that such events might occur, and he laid plans in secret amongst his most devout followers!"
+    },
+    {
+      "character": "Savant",
+      "line": "Those warriors whose hearts were as pure as their minds were sharp were called to him, and were made into his Temple Knights, for they were the Knights that guarded his very first Temple."
+    },
+    {
+      "character": "Savant",
+      "line": "All who dwelled in his lands knew that the Temple Knights were the honoured, the blessed, the personally chosen warriors of Saradomin, and thus were they given great freedom and authority in all of our Lords lands."
+    },
+    {
+      "character": "Savant",
+      "line": "But with Saradomin no longer with us, the Temple Knights were no longer honoured and respected by all!"
+    },
+    {
+      "character": "Savant",
+      "line": "Rather, they were made targets by Saradomins enemies, and driven from the lands unjustly!"
+    },
+    {
+      "character": "Savant",
+      "line": "Thus it was that they became a secret force, hidden from the eyes of Saradomins enemies, that could strike against evil in his name swiftly and quietly whenever they may be needed.'"
+    },
+    {
+      "character": "Savant",
+      "line": "Something like that I think, it's been a long time since I heard it last..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks Savant."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Lord Daquarius! Still festering in your pathetic little dungeon, I see."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Solus. I thought you dead many moons past..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Ha! Wishful thinking, perhaps?"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Cut the banter, Solus. What do you want? You know you are not welcome here."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Now is that any way to talk to a fellow Zamorakian?"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "You are not a Zamorakian! You worship nothing but your own selfish greed."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Ah... Such mistrust of your forgotten ally! Why did I ever leave these lands?"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "You left because your own stupidity brought the wrath of the Temple Knights upon you. Now I ask you a final time before I draw my blade: WHAT do you WANT?"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Oh... nothing much. I just thought you would like to know that I have returned as your new master."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "The Kinshra are not your personal soldiers Solus! I will not waste any of my warriors in your foolish schemes!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "And that is your final answer Daquarius?"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Leave. Now. Or there will be blood shed between us."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "You would threaten Solus Dellagar? Have you forgotten just who I am? Perhaps you need reminding!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Still alive Daquarius? Good! I won't have to remind you of my power again next time! Make sure you are more prepared to follow orders next time I come to your little Taverley hideout!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "I swear... in the name of *cough* Zamorak... I will see you rot for this Solus..."
+    },
+    {
+      "character": "Mage",
+      "line": "What? Who dares... Oh no. Oh no, no, no."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well, what have we here? A shrine to Zamorak in the middle of Varrock?"
+    },
+    {
+      "character": "Mage",
+      "line": "S-S-Solus???"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "I assume my reputation precedes me!"
+    },
+    {
+      "character": "Mage",
+      "line": "Please. Please don't kill me. I have no riches, I am but a magical researcher..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Kill you? HAH HAH HAH! My dear fellow, if I wanted you dead, you ALREADY WOULD BE!"
+    },
+    {
+      "character": "Mage",
+      "line": "I... I don't know w-what you want Solus...but whatever it is, please, just t-take it and leave, please."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well I am particularly interested in your brains at the moment! But you wouldn't want me taking those and leaving, now would you?"
+    },
+    {
+      "character": "Mage",
+      "line": "My b-brains? I... I don't understand..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "I am interested in your research!"
+    },
+    {
+      "character": "Mage",
+      "line": "My... r-research? I c-cannot let you have my research it is being done in order to assist my lord Zamorak."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Ah! But he is not here, is he?"
+    },
+    {
+      "character": "Mage",
+      "line": "No...I..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Ah-ah-ah!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "You are going nowhere just yet sir."
+    },
+    {
+      "character": "Mage",
+      "line": "P-please I meant no disrespect Solus, please do not kill me..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "With your most interesting research! No, I will be content with simply taking your money sir!"
+    },
+    {
+      "character": "Mage",
+      "line": "Take it, take it all!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well a most productive trip on all accounts! I will see you again...Very soon!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "What want you with lord of Kinshra? Speak!"
+    },
+    {
+      "character": "Player",
+      "line": "I am here on behalf of the White Knights..."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Pah! Begone, fool, or prepare to taste my blade!"
+    },
+    {
+      "character": "Player",
+      "line": "Now wait a minute, this concerns a friend of yours...."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "A friend of mine? What friend of mine would the Temple Knights show any intere-"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Oh. This... Is about Solus, isn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "Bingo."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Then let me assure you, that monster is no 'friend' of mine - if indeed such a creature even has 'friends'!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "No, that man is certainly no friend of mine nor the Kinshra."
+    },
+    {
+      "character": "Player",
+      "line": "So you will help me find him?"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "No fool... You and your White Knight cronies are no friend of the Kinshra either."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "I will help neither of you, and I wish you all a slow and painful death."
+    },
+    {
+      "character": "Player",
+      "line": "You know...I'm sure I could MAKE you tell me where he is..."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Is that a threat, whelp? Do your worst. I care not for my own life, I stand only for the protection of the Kinshra!"
+    },
+    {
+      "character": "Savant",
+      "line": "Player? I've been monitoring you. He's telling the truth, so don't try to bluff him by starting a fight."
+    },
+    {
+      "character": "Savant",
+      "line": "All of our records show that the only thing he will make a stand for is the protection of his men, and he has little regard for his own safety in comparison."
+    },
+    {
+      "character": "Savant",
+      "line": "You're going to have to find some other way to intimidate him into giving you the information we need."
+    },
+    {
+      "character": "Player",
+      "line": "Understood. Player out."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "What want you, with the Lord of the Kinshra? Speak!"
+    },
+    {
+      "character": "Player",
+      "line": "I still want to know the whereabouts of Solus Dellagar!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Well you will not hear that from me, White Knight dog!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "And you can threaten me all you want, I care for nothing in this world save the welfare of my Kinshra brothers!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Stop! I will tell you what you want! Please... leave my men be..."
+    },
+    {
+      "character": "Player",
+      "line": "Ok Daquarius, you tell me the whereabouts of Solus Dellagar right now, or I will put every Black Knight here to their death in front of you!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "*Sigh* I should have known the White Knights would be my ruin once again..."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "I do not know his exact whereabouts, and when last we met we did not leave...on the best of terms."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "All I know is that he left behind some fur when he left, I would expect him to be in an area with furred creatures of some sort."
+    },
+    {
+      "character": "Player",
+      "line": "What king of fur? Dog? Wolf? Bear?"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "I do not know, I am a warrior, not a zoo keeper. It was not bear fur, I know that much."
+    },
+    {
+      "character": "Player",
+      "line": "That's it? That's your help? You'd better not be lying Daquarius, or..."
+    },
+    {
+      "character": "Savant",
+      "line": "Calm yourself Player, he is telling the truth."
+    },
+    {
+      "character": "Player",
+      "line": "How do you know?"
+    },
+    {
+      "character": "Savant",
+      "line": "I am monitoring your conversation through the CommOrb, his physiology shows none of the changes we usually get when someone lies to us."
+    },
+    {
+      "character": "Player",
+      "line": "So this CommOrb thing can work as a lie-detector? That's pretty useful!"
+    },
+    {
+      "character": "Savant",
+      "line": "Yes, it is, but back to the task at hand. I suggest you head to the next subject of our observations, he might be more help in locating Solus."
+    },
+    {
+      "character": "Player",
+      "line": "You mean that Zamorakian mage in Varrock?"
+    },
+    {
+      "character": "Savant",
+      "line": "Yes, he would seem a likely bet. Savant out."
+    },
+    {
+      "character": "Player",
+      "line": "Okay Daquarius, tell me all that you know of Solus, or I will kill some more Black Knights!"
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "I have already told you, I know nothing except that he left some fur behind."
+    },
+    {
+      "character": "Lord Daquarius",
+      "line": "Now leave me and my men be, or it will be the worse for you!"
+    },
+    {
+      "character": "Player",
+      "line": "I am looking for information about a very dangerous man... I believe he visited you quite recently."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Ah, you mean that accursed Solus!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, him. I need to find him and make sure he doesn't come back to these lands."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "You are working for the Temple Knights correct?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "No, don't deny it, I recognise the magical signature of your Communication Orb, a very nice piece of equipment indeed."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I will tell you what I know in exchange for it, I believe such a device could be very useful to my research..."
+    },
+    {
+      "character": "Savant",
+      "line": ", I've been monitoring your conversation; You can't let him have Temple Knight equipment, he is a Zamorakian!"
+    },
+    {
+      "character": "Savant",
+      "line": "Even if we wanted to let the ZMI have access to our research, the built in security magics would destroy it before trading anyway!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I cannot trade you my Communications Orb..."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Ah well, it was worth a try, but I did not seriously expect you to part with it."
+    },
+    {
+      "character": "Player",
+      "line": "Then perhaps you will be willing to trade something else for your information...?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I have little information, and would give it freely to make sure Solus is... disposed of... but unfortunately I am somewhat... financially distraught at the moment due to a recent... incident."
+    },
+    {
+      "character": "Player",
+      "line": "You mean Solus robbed you of all of your money?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "...Yes. He took a large degree of my research into various things as well, but my research is inside my mind and easily replaceable, the money I possessed was essential for my experimentation, and as I have no real skills to speak of, is not so easily replaceable..."
+    },
+    {
+      "character": "Player",
+      "line": "You want me to pay you for information?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "No... not as such. You know of the substance known as 'rune essence' yes?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "A small number of those will allow me to create runes from them, which I may then sell and get myself back on my feet."
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "Twenty parts of rune essence is the price for my information. You may take it or leave it..."
+    },
+    {
+      "character": "Savant",
+      "line": "Hi, it sounds like a pretty good deal for this kind of information to me, but it's your call. We REALLY need to find Solus as soon as possible though, who knows what kind of damage he might cause now he is at large again!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "So you have information about the whereabouts of Solus Dellagar?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I do indeed. My price for this information is 20 pieces of rune essence."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. I'll go get those for you then."
+    },
+    {
+      "character": "Player",
+      "line": "I have some essences with me, if you would take those...?"
+    },
+    {
+      "character": "Mage of Zamorak",
+      "line": "I will not haggle you on my price. 20 Rune essences, and not a single essence less."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll go get those for you then."
+    },
+    {
+      "character": "Player",
+      "line": "I have your essences right here, take them."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, now you have your essence, give me my information."
+    },
+    {
+      "character": "Mage",
+      "line": "Certainly. As I say, I have little information, but the cost was not too dear, was it?"
+    },
+    {
+      "character": "Player",
+      "line": "Get on with it, I haven't got all day to waste."
+    },
+    {
+      "character": "Mage",
+      "line": "As you wish. As a powerful magician, I could sense his aura once I had encountered him, and it definitely moved East of here when he left me."
+    },
+    {
+      "character": "Player",
+      "line": "He went East. That's it? That's your 'information'?"
+    },
+    {
+      "character": "Mage",
+      "line": "I am sorry I cannot be more specific, but that is all of the information I have to offer..."
+    },
+    {
+      "character": "Savant",
+      "line": "Okay, so Daquarius told us he was probably somewhere with furry animals of some kind, and this mage has told us that he is East of here..."
+    },
+    {
+      "character": "Savant",
+      "line": "Any ideas? Frankly, I'm stumped. I just don't have enough information to work out where he might be..."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. Wolf fur... and the East... I know where he is."
+    },
+    {
+      "character": "Savant",
+      "line": "You do?"
+    },
+    {
+      "character": "Player",
+      "line": "He will be in Canifis. He must be."
+    },
+    {
+      "character": "Savant",
+      "line": "Wow, that's some good thinking ! Okay, let's head there and get him!"
+    },
+    {
+      "character": "Savant",
+      "line": "Ok Player, I'm going to begin a low level scan for Solus now..."
+    },
+    {
+      "character": "Player",
+      "line": "Any signs?"
+    },
+    {
+      "character": "Savant",
+      "line": "Hmmm... These readings are very strange..."
+    },
+    {
+      "character": "Savant",
+      "line": "There's... SOMETHING here... You know, I'm sure I've seen readings like this somewhere before..."
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong?"
+    },
+    {
+      "character": "Savant",
+      "line": "Just give me a minute to cross reference the records in the Library. I know that I've seen readings like this before..."
+    },
+    {
+      "character": "Savant",
+      "line": "GAH! This is infuriating! It's on the tip of my tongue..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that Zamorakian mage mentioned that he had a strong magical aura, perhaps that is it?"
+    },
+    {
+      "character": "Savant",
+      "line": "No...no, it is something..."
+    },
+    {
+      "character": "Savant",
+      "line": "Oh my! I know what it is!"
+    },
+    {
+      "character": "Player",
+      "line": "Savant...?"
+    },
+    {
+      "character": "Savant",
+      "line": "Many years ago the Temple Knights were studying teleportation techniques, and found a strange dimension that was accessed when teleporting.."
+    },
+    {
+      "character": "Savant",
+      "line": "We stopped the research as it was too dangerous to be practically useful, but our initial studies showed that we could use the entire dimension as a kind of scrying glass to see a precise point where we wished to teleport to, then teleport extremely slowly between two points."
+    },
+    {
+      "character": "Player",
+      "line": "How is teleporting really slowly particularly useful?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, basically, you are stretched so thinly between dimensions that you effectively become invisible!"
+    },
+    {
+      "character": "Savant",
+      "line": "From your perspective you can see three places simultaneously, and can choose to move between all three at will!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm... not sure I follow..."
+    },
+    {
+      "character": "Savant",
+      "line": "Let me give you an example: If you were in Falador castle, and wished to teleport to Varrock, then you could use this 'slow-teleport' technique to be in both places simultaneously, but invisible to anyone in either."
+    },
+    {
+      "character": "Savant",
+      "line": "You could also move freely between the two invisibly and then choose which place you wished to end up, simply by concentrating on the location you wanted to appear in."
+    },
+    {
+      "character": "Savant",
+      "line": "Needless to say, in our line of work this could come in very handy for sneaking around unobserved..."
+    },
+    {
+      "character": "Player",
+      "line": "But you abandoned this research? Why?"
+    },
+    {
+      "character": "Savant",
+      "line": "It is far too dangerous. In my example I only used two places, but in practice there is a third place involved. It is a strange, empty dimension that teleports seem to pass through."
+    },
+    {
+      "character": "Savant",
+      "line": "Frankly, the human mind isn't equipped to cope with processing so much information simultaneously, and the test subjects started to display... behavioral problems..."
+    },
+    {
+      "character": "Player",
+      "line": "Er... That doesn't sound good..."
+    },
+    {
+      "character": "Savant",
+      "line": "No, it wasn't: Aggressiveness was highly increased, and there were numerous perceptual faults, hallucinations and the like."
+    },
+    {
+      "character": "Savant",
+      "line": "We ceased experimentation immediately, there are enough things in this world to haunt a Temple Knight, we did not see the need to create anymore."
+    },
+    {
+      "character": "Player",
+      "line": "But this signature you are finding is the same as this 'slow-teleport' experiment created?"
+    },
+    {
+      "character": "Savant",
+      "line": "No... it is not exactly the same..."
+    },
+    {
+      "character": "Savant",
+      "line": "But it is close enough to be a cause of concern."
+    },
+    {
+      "character": "Savant",
+      "line": "Either someone else has found this strange dimension and begun their own research, and reached the same conclusions that we did..."
+    },
+    {
+      "character": "Savant",
+      "line": "Or... We have had a security leak within the Temple Knights and abandoned research has been sold to our enemies!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I can see how that might be a cause for concern, but right now our priority is Solus, right?"
+    },
+    {
+      "character": "Savant",
+      "line": "Yes, you're right. But if he is using this 'slow-teleport' technique, then that means it is going to be a lot harder to catch him!"
+    },
+    {
+      "character": "Player",
+      "line": "Because he is invisible and in three separate places simultaneously?"
+    },
+    {
+      "character": "Savant",
+      "line": "Exactly. Listen, I might be able to block his teleportation magics using your CommOrb, but I will need you to get close to him, and if we're unlucky then he will end up teleporting to the point away from you instead of appearing in front of you"
+    },
+    {
+      "character": "Player",
+      "line": "Well, we have nothing else to try, right? What will I have to do?"
+    },
+    {
+      "character": "Savant",
+      "line": "Use the 'Scan' function of your CommOrb, if he is in the vicinity it should knock him out of his 'in-between' state, and make him appear."
+    },
+    {
+      "character": "Player",
+      "line": "So I should try a scan here in Canifis?"
+    },
+    {
+      "character": "Savant",
+      "line": "That would seem best... Savant over and out."
+    },
+    {
+      "character": "Savant",
+      "line": "Hello there. What can I help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Savant. Where am I supposed to look for Solus again?"
+    },
+    {
+      "character": "Savant",
+      "line": "The clue was that Solus is somewhere where you might find Fur, East of Varrock..."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing thanks Savant, I was just checking this thing still worked!"
+    },
+    {
+      "character": "Savant",
+      "line": "You shouldn't really waste my time like this,..."
+    },
+    {
+      "character": "Savant",
+      "line": "Still no harm done, I guess! Call me if you need me!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay Savant, will do."
+    },
+    {
+      "character": "Savant",
+      "line": "Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "There doesn't seem to be anything unusual about these readings Player... Looks like your hunch was wrong. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Negative result, Player. Looks like you're barking up the wrong tree. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Scan results are negative, Player. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Background magical levels all seem within normal tolerable limits Player..."
+    },
+    {
+      "character": "Savant",
+      "line": "I don't think this can be the right place... Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Checking incoming data..."
+    },
+    {
+      "character": "Savant",
+      "line": "Nope, all clear here. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Nope... I'm not picking up anything unusual near here... Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Analysis is negative I'm afraid, Player. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "The background magical levels are slightly above average here, but not enough to signify anything."
+    },
+    {
+      "character": "Savant",
+      "line": "I think you're in the wrong place. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Results are all-clear, Player. Savant out."
+    },
+    {
+      "character": "Savant",
+      "line": "Not picking up any unusual readings here, Player... Savant out."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "What the...?"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well well well! I was wondering when the White Knights would come looking for me!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well you'll have to be quicker than that, my friend!"
+    },
+    {
+      "character": "Savant",
+      "line": "Argh!"
+    },
+    {
+      "character": "Savant",
+      "line": "He got away..."
+    },
+    {
+      "character": "Player",
+      "line": "So what can we do now?"
+    },
+    {
+      "character": "Savant",
+      "line": "Wait a second..."
+    },
+    {
+      "character": "Savant",
+      "line": "There was another item in the teleport with him..."
+    },
+    {
+      "character": "Player",
+      "line": "What does that mean?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, I might be able to retrieve it from the slow-teleport!"
+    },
+    {
+      "character": "Savant",
+      "line": "It might give us a clue as to the second location Solus is in!"
+    },
+    {
+      "character": "Player",
+      "line": "Well what are you waiting for? Try and get it!"
+    },
+    {
+      "character": "Savant",
+      "line": "It's a beer?"
+    },
+    {
+      "character": "Player",
+      "line": "I doubt he's getting drunk in hiding..."
+    },
+    {
+      "character": "Savant",
+      "line": "That type of beer is only sold in one place that I know of"
+    },
+    {
+      "character": "Savant",
+      "line": "It's...a wizard hat?"
+    },
+    {
+      "character": "Player",
+      "line": "So he is improving his dress sense you think?"
+    },
+    {
+      "character": "Savant",
+      "line": "I think it's more likely he happens to be in an area where there are many wizards around."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... ear muffs?"
+    },
+    {
+      "character": "Player",
+      "line": "Why on gielinor would he be wearing those?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, they are standard equipment for any slayer looking to kill Banshees..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... goblin armour?"
+    },
+    {
+      "character": "Player",
+      "line": "Goblin armour? Why would he wear that?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, it must be a place here there is a lot of it around for it to have been caught in his teleport..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's...a fake beard?"
+    },
+    {
+      "character": "Player",
+      "line": "What the...? You think he is in disguise somewhere?"
+    },
+    {
+      "character": "Savant",
+      "line": "I've seen this design of beard before... But I cannot remember where..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... fur?"
+    },
+    {
+      "character": "Player",
+      "line": "Fur? How does that help us find him?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, this is not fur directly from an animal, look it has been prepared for sale..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... an eye patch?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you think he might be injured?"
+    },
+    {
+      "character": "Savant",
+      "line": "No, I think he must be somewhere where there are a lot of people who wear eye patches..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a hat?"
+    },
+    {
+      "character": "Player",
+      "line": "How does a hat help us?"
+    },
+    {
+      "character": "Savant",
+      "line": "I'm sorry, I don't know. Maybe somewhere where hats like this are common?"
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a ticket?"
+    },
+    {
+      "character": "Player",
+      "line": "I am sure I have seen tickets like that somewhere before..."
+    },
+    {
+      "character": "Savant",
+      "line": "Well, wherever it is that you have seen them, I would guess he is nearby!"
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a cloak?"
+    },
+    {
+      "character": "Player",
+      "line": "Very stylish, but it doesn't seem to be his colour."
+    },
+    {
+      "character": "Savant",
+      "line": "I don't think he would have been wearing it... But he might be nearby somewhere that sells this type of cloak."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a toy horse?"
+    },
+    {
+      "character": "Player",
+      "line": "What a weird thing to be carrying..."
+    },
+    {
+      "character": "Savant",
+      "line": "Well, bear in mind that it might just be an object that as in the vicinity rather than something he was carrying..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... some big frog legs?"
+    },
+    {
+      "character": "Player",
+      "line": "The frog those came from must be huge!"
+    },
+    {
+      "character": "Savant",
+      "line": "I have heard rumours of giant frogs in a subterranean area..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... an unholy symbol!"
+    },
+    {
+      "character": "Player",
+      "line": "The symbol of Zamorak? That tells us nothing."
+    },
+    {
+      "character": "Savant",
+      "line": "Yes, sadly there are many Zamorakians in these lands...But it must be somewhere of special significance..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a worm?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe he's doing a little fishing?"
+    },
+    {
+      "character": "Savant",
+      "line": "No, this is a very specific worm that is only found in one place..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a banana?"
+    },
+    {
+      "character": "Player",
+      "line": "A banana? How is that a clue to where he is?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, for it to have got caught in his teleport, it must be a place where there are many around..."
+    },
+    {
+      "character": "Savant",
+      "line": ", I want you to search for him, and use your Comm-Orb to scan for him if you think he is nearby!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay I'll head off immediately. Let's hope we're not too late."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "You again???"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "I warn you, if you interfere with my plans I will see you suffer!"
+    },
+    {
+      "character": "Player",
+      "line": "Solus! I am here by authority of the White Knights of Falador!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Ha! Like I care!"
+    },
+    {
+      "character": "Savant",
+      "line": "Okay, I am attempting to block his teleport..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Oh, we have a little magical skill do we?"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Then let's see how you deal with this!"
+    },
+    {
+      "character": "Savant",
+      "line": "I should have known he would try something like that!"
+    },
+    {
+      "character": "Savant",
+      "line": "I'm sorry, I should have stopped him using that spell..."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't matter right now Savant, did you get a reading of where his teleport was coming from?"
+    },
+    {
+      "character": "Savant",
+      "line": "The spell is still running, wait a moment... There!"
+    },
+    {
+      "character": "Player",
+      "line": "Well?"
+    },
+    {
+      "character": "Savant",
+      "line": "It's a cape..."
+    },
+    {
+      "character": "Savant",
+      "line": "I'm not sure how much help in tracking him that is."
+    },
+    {
+      "character": "Player",
+      "line": "More than you might think Savant. This type of cape used to be called the Cape of Champions..."
+    },
+    {
+      "character": "Savant",
+      "line": "Well I still don't know what help that is, but if you have an idea here he might be you should head there immediately!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well now, I am beginning to get sick of your constant interference!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Or at least I would be if you weren't so laughably easy to escape from."
+    },
+    {
+      "character": "Player",
+      "line": "*cough* Savant? *cough* I can't... *cough*"
+    },
+    {
+      "character": "Player",
+      "line": "He threw some kind of smoke at me or something..."
+    },
+    {
+      "character": "Savant",
+      "line": "Don't worry about it, he may have escaped AGAIN, but I still have him on my tracking spell..."
+    },
+    {
+      "character": "Savant",
+      "line": "Okay, the smoke's cleared, and you don't seem to have been damaged by it!"
+    },
+    {
+      "character": "Savant",
+      "line": "You're lucky I think, readings show it was highly poisonous!"
+    },
+    {
+      "character": "Savant",
+      "line": "Let's see if I grabbed anything useful from him while he was teleporting..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'm on my way. This Solus guy is really beginning to get on my nerves!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "This is getting very tiresome!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Little White Knight, I command powers beyond your imagination!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "If you do not cease pursuing me, I will be forced to use them upon you!"
+    },
+    {
+      "character": "Player",
+      "line": "You can't threaten me old man..."
+    },
+    {
+      "character": "Player",
+      "line": "Dead or alive, you're coming with me."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "This charade bores me!"
+    },
+    {
+      "character": "Savant",
+      "line": "I am reading a huge power surge from Solus, be very careful..."
+    },
+    {
+      "character": "Savant",
+      "line": "!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Ow! What happened?"
+    },
+    {
+      "character": "Savant",
+      "line": "I managed to shield you from most of his attack, and bring you back to Falador Castle, but you are lucky I was monitoring, that could have killed you!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand though Savant, you said he could only be in a few places simultaneously..."
+    },
+    {
+      "character": "Player",
+      "line": "But he keeps getting away! And he keeps moving around!"
+    },
+    {
+      "character": "Savant",
+      "line": "You're right, I don't know how he is doing it..."
+    },
+    {
+      "character": "Savant",
+      "line": "But he can't run forever, and every time he tries something against you, I can update your CommOrb to prevent it."
+    },
+    {
+      "character": "Player",
+      "line": "So he isn't going to shoot me like that again?"
+    },
+    {
+      "character": "Savant",
+      "line": "No,. I am sorry that I let him hurt you like that..."
+    },
+    {
+      "character": "Savant",
+      "line": "But keep chasing him, together we are going to bring him to justice!"
+    },
+    {
+      "character": "Player",
+      "line": "You're right about that, there's no way I'm letting him get away with treating me like that!"
+    },
+    {
+      "character": "Player",
+      "line": "So did we get any clues to his real location from that last scan?"
+    },
+    {
+      "character": "Savant",
+      "line": "That's the spirit ! Just awaiting the data to come through..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's... a very strange weapon?"
+    },
+    {
+      "character": "Player",
+      "line": "I recognise that..."
+    },
+    {
+      "character": "Player",
+      "line": "It's the type of spear used by the Dorgeshuun goblins."
+    },
+    {
+      "character": "Savant",
+      "line": "The who? I've never heard of them before..."
+    },
+    {
+      "character": "Savant",
+      "line": "Well, if you know who or what they are, you should go and see them, Solus must be nearby!"
+    },
+    {
+      "character": "Savant",
+      "line": "You should probably take a minute to restock on supplies and heal up though."
+    },
+    {
+      "character": "Savant",
+      "line": "I know we can find him and bring him to justice, but we don't want you dying while doing so!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay Savant, I'll heal up, then go looking for him amongst the Dorgeshuun."
+    },
+    {
+      "character": "Woman",
+      "line": "Oh thank you, you have freed me!"
+    },
+    {
+      "character": "Player",
+      "line": "W-what? Who are you?"
+    },
+    {
+      "character": "Woman",
+      "line": "Oh, I am but a poor maiden kidnapped by the evil Solus!"
+    },
+    {
+      "character": "Woman",
+      "line": "But you chased him so hard, that now I am free..."
+    },
+    {
+      "character": "Savant",
+      "line": ", I am getting some strange readings from this 'maiden'..."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Muhahaha! Sucker!"
+    },
+    {
+      "character": "Savant",
+      "line": "Sorry, I should have spotted his little trick earlier..."
+    },
+    {
+      "character": "Savant",
+      "line": "Are you okay? That looked like a nasty sucker punch..."
+    },
+    {
+      "character": "Player",
+      "line": "Oooohhhh..."
+    },
+    {
+      "character": "Player",
+      "line": "Did anyone get the number of that wagon?"
+    },
+    {
+      "character": "Savant",
+      "line": "Don't worry, I am reconfiguring your CommOrb to compensate for any camouflage magics."
+    },
+    {
+      "character": "Player",
+      "line": "Please tell me you have a reading on his actual location by now, this chasing him around the houses is becoming irritating..."
+    },
+    {
+      "character": "Savant",
+      "line": "No, but every time he escapes you I am shutting down his teleport to a specific area."
+    },
+    {
+      "character": "Savant",
+      "line": "I think we are on the final stretch now !"
+    },
+    {
+      "character": "Savant",
+      "line": "I will be able to shut his teleports down permanently in 2, perhaps 3, more scans..."
+    },
+    {
+      "character": "Savant",
+      "line": "Keep up the chase ! We nearly have him cornered!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh... Out of interest, what am I going to do with an insane super-powerful murderous mage when he's cornered?"
+    },
+    {
+      "character": "Savant",
+      "line": "Leave that to me and the Temple Knights."
+    },
+    {
+      "character": "Savant",
+      "line": "Just follow your orders and continue the chase, and his days are numbered."
+    },
+    {
+      "character": "Player",
+      "line": "Well okay then, where should I head now?"
+    },
+    {
+      "character": "Savant",
+      "line": "Examining readings now..."
+    },
+    {
+      "character": "Savant",
+      "line": "Let's see what we managed to snag in the scan this time!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'm on my way – and Solus had better watch out, I am up to here with his annoying tricks!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Well you ARE a persistent aren't you?"
+    },
+    {
+      "character": "Player",
+      "line": "I am here to take you in Solus. You can forget your little tricks."
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Little tricks, you say? Well how about this one!"
+    },
+    {
+      "character": "Solus",
+      "line": "Say hello to my little friend! And goodbye to me!"
+    },
+    {
+      "character": "Savant",
+      "line": "Okay, we have our scan results..."
+    },
+    {
+      "character": "Savant",
+      "line": "It's some kind of highly magically susceptible rock..."
+    },
+    {
+      "character": "Savant",
+      "line": "Isn't that the same rock that you gave that Zamorakian mage in Varrock?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah it is, which means I know where he is, and how to get there!"
+    },
+    {
+      "character": "Player",
+      "line": "It's a mine for Rune Essence, but there are only supposed to be a few people who know how to get there..."
+    },
+    {
+      "character": "Savant",
+      "line": "Let's worry about that later; Go get Solus!"
+    },
+    {
+      "character": "Savant",
+      "line": "There he is!"
+    },
+    {
+      "character": "Savant",
+      "line": "Okay, I've blocked all exits from this place except for Temple Knight teleports..."
+    },
+    {
+      "character": "Savant",
+      "line": "I think we finally have him!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Argh! I am so sick of your interference!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "I think it is time we end this once and for all!"
+    },
+    {
+      "character": "Player",
+      "line": "Agreed."
+    },
+    {
+      "character": "Player",
+      "line": "In the name of the White Knights of Falador, and of the Temple Knights of Saradomin, I am placing you under arrest!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Oh yes?"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "You and what army?"
+    },
+    {
+      "character": "Savant",
+      "line": "This one, Solus!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "Ha!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "You'll never take me alive!"
+    },
+    {
+      "character": "Solus Dellagar",
+      "line": "You... You meddlesome... You meddlesome freak!"
+    },
+    {
+      "character": "Savant",
+      "line": "Player, Solus is very weakened, and we don't have any more fighters to spare!"
+    },
+    {
+      "character": "Savant",
+      "line": "Take him out now! This might be your only chance!"
+    },
+    {
+      "character": "Savant",
+      "line": "Now that Solus is defeated you should take his hat to Sir Amik to prove that you were responsible."
+    },
+    {
+      "character": "Savant",
+      "line": "Now let's head back..."
+    },
+    {
+      "character": "Savant",
+      "line": "...and may I say:"
+    },
+    {
+      "character": "Savant",
+      "line": "VERY well done,. Very well done indeed."
+    },
+    {
+      "character": "Savant",
+      "line": "Hello there Player. What can I help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Savant. Where am I supposed to be looking for Solus again?"
+    },
+    {
+      "character": "Savant",
+      "line": "You're not looking for Solus Player, you are supposed to be taking his hat to Sir Amik of the White Knights as proof that you have defeated him."
+    },
+    {
+      "character": "Player",
+      "line": "But I lost his hat..."
+    },
+    {
+      "character": "Savant",
+      "line": "I have sent you a duplicate, try not to lose it."
+    },
+    {
+      "character": "Savant",
+      "line": "Go and take it to Sir Amik so that he can make you a full-fledged White Knight!"
+    },
+    {
+      "character": "Player",
+      "line": "I did it Tiffy! I brought Solus in for capture!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Had a little help doing it though, didn't you, what?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes... But I did all the legwork..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "That you did Initiate, that you did."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Now take that hat of Solus over to Sir Amik, and we can begin to process your application form as a Temple Knight again, what?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay Tiffy, I'll be back in a jiffy!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Sir Amik."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Hello, friend."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You are supposed to be looking for Solus Dellagar!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "The insane magician who is loose once more upon these lands? Remember?"
+    },
+    {
+      "character": "Player",
+      "line": "But... I've already done that!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You have??? Then you must have some proof of your encounter!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "A weapon perhaps, or an item of clothing?"
+    },
+    {
+      "character": "Player",
+      "line": "Well of course I do! I mean I did...Look, I lost it okay? Stop hassling me!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Look, I am very sorry Player, but if you have no proof of your encounter, I can hardly promote you to be a full White Knight, now can I?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh man...I think I've messed up...Maybe Savant can help me out somehow? I'd better speak to her."
+    },
+    {
+      "character": "Player",
+      "line": "Well of course I do! I just happened to think it would be a good idea to leave it in the bank for safe keeping."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Well bring it here so that I can authenticate your claim and make you a White Knight!"
+    },
+    {
+      "character": "Player",
+      "line": "Well of course I do! I have it right here!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Well hand it over then, and let's see it!"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Now that you are a White Knight I should perhaps explain a little about how our system works."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Sadly we are not as rich as we once were, and there are many White Knights who foolishly lose their combat equipment."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "We do not think it fair to make a profit from our brethren, so we will sell you equipment at cost, and rebuy it at the same cost, but we will only sell equipment to those we consider responsible enough to"
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "wield it correctly."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "By killing Black Knights, you will increase your reputation with us, by killing White Knights we will obviously think less of you."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "You can check your White Knight reputation level by looking at your quest journal for the Wanted! Quest, or Sir Vyvin will let you know what level you are at when you go to purchase equipment."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Sir Vyvin can be found in Falador Castle, and he will sell you any equipment appropriate to your reputation level."
+    },
+    {
+      "character": "Sir Amik Varze",
+      "line": "Have fun, and go kill some Black Knights for me!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay Amik, thanks for explaining!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Lord Daquarius",
+      "description": "Middle-aged male, British accent, calm and diplomatic tone. The youngest leader of the Kinshra, he is noble, articulate, and respected by both allies and enemies."
+    },
+    {
+      "name": "Mage",
+      "description": "Male, British accent, nervous and frightened tone. A Zamorakian magical researcher who becomes terrified when confronted by the dangerous Solus Dellagar."
+    },
+    {
+      "name": "Mage of Zamorak",
+      "description": "Middle-aged male, British accent, cryptic and mystical tone with subtle irreverence. A devoted Zamorak disciple who operates as a teleportation specialist."
+    },
+    {
+      "name": "Savant",
+      "description": "Female, British accent, professional and intellectual tone. A Temple Knight researcher who overcame discrimination to become a magical expert, communicating through the Commorb device."
+    },
+    {
+      "name": "Sir Amik Varze",
+      "description": "Middle-aged male, formal British accent, authoritative and duty-bound. The regent of Asgarnia and leader of the White Knights, strategic and professional."
+    },
+    {
+      "name": "Sir Tiffy Cashien",
+      "description": "Elderly male, stereotypical British upper-class accent, jovial and eccentric. Uses distinctive vernacular like 'What ho!' and 'dontchaknow', head of Temple Knights recruitment."
+    },
+    {
+      "name": "Solus",
+      "description": "Male, British accent, menacing and confident tone. A dangerous warrior mage known as 'The Murder-mage', cunning and ruthless with powerful magical abilities."
+    },
+    {
+      "name": "Solus Dellagar",
+      "description": "Male, British accent, menacing and confident tone. A dangerous warrior mage known as 'The Murder-mage', cunning and ruthless with powerful magical abilities."
+    },
+    {
+      "name": "Woman",
+      "description": "Female, British accent, distressed and relieved tone. A maiden kidnapped by Solus who is grateful to be rescued."
+    }
+  ]
+}

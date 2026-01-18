@@ -1,0 +1,836 @@
+{
+  "branch": "quest/holy-grail",
+  "quest_name": "Holy Grail",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Now I am a knight of the round table, do you have any more quests for me?"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Aha! I'm glad you are here! I am sending out various knights on an important quest. I was wondering if you too would like to take up this quest?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me of this quest."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Well, we recently found out that the Holy Grail has passed into Gielinor."
+    },
+    {
+      "character": "King Arthur",
+      "line": "This is most fortuitous!"
+    },
+    {
+      "character": "King Arthur",
+      "line": "None of my knights ever did return with it last time. Now we have the opportunity to give it another go, maybe this time we will have more luck!"
+    },
+    {
+      "character": "Player",
+      "line": "I'd enjoy trying that."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Go speak to Merlin. He may be able to give a better clue as to where it is now you have freed him from that crystal."
+    },
+    {
+      "character": "King Arthur",
+      "line": "He has set up his workshop in the room next to the library."
+    },
+    {
+      "character": "Player",
+      "line": "I may come back and try that later."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Be sure that you come speak to me soon then."
+    },
+    {
+      "character": "Player",
+      "line": "I am weary of questing for the time being..."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Maybe later then?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe so."
+    },
+    {
+      "character": "King Arthur",
+      "line": "How goes thy quest?"
+    },
+    {
+      "character": "Player",
+      "line": "I am making progress, but I have not recovered the Grail yet."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Well, the Grail IS very elusive, it may take some perseverance."
+    },
+    {
+      "character": "King Arthur",
+      "line": "As I said before, speak to Merlin in the workshop by the library."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. King Arthur has sent me on a quest for the Holy Grail. He thought you could offer some assistance."
+    },
+    {
+      "character": "Merlin",
+      "line": "Ah yes... the Holy Grail..."
+    },
+    {
+      "character": "Merlin",
+      "line": "That is a powerful artefact indeed. Returning it here would help Camelot a lot."
+    },
+    {
+      "character": "Merlin",
+      "line": "Due to its nature the Holy Grail is likely to reside in a holy place."
+    },
+    {
+      "character": "Player",
+      "line": "Any suggestions?"
+    },
+    {
+      "character": "Merlin",
+      "line": "I believe there is a holy island somewhere not far away... I'm not entirely sure... I spent too long inside that crystal! Anyway, go and talk to someone over there."
+    },
+    {
+      "character": "Merlin",
+      "line": "I suppose you could also try speaking to Sir Galahad?"
+    },
+    {
+      "character": "Merlin",
+      "line": "He returned from the quest many years after everyone else. He seems to know something about it, but he can only speak about those experiences cryptically."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you for the advice."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find Sir Galahad?"
+    },
+    {
+      "character": "Merlin",
+      "line": "Galahad now lives a life of religious contemplation. He lives somewhere west of McGrubor's Wood I think."
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "Hello there adventurer, what do you want of me?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like some advice on finding the Grail."
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "Sorry, I cannot help you with that."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "Hello there adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "I seek the Grail of legend!"
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "I'm afraid I don't have any suggestions..."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. I'll try and find someone who does."
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "Good day to you!"
+    },
+    {
+      "character": "Player",
+      "line": "I seek the Grail in the name of Camelot!"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "The Grail? That is truly a noble quest indeed. None but Galahad have come close."
+    },
+    {
+      "character": "Player",
+      "line": "Galahad? Who is he?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "He used to be one of the Knights of the Round Table, but he mysteriously disappeared many years ago."
+    },
+    {
+      "character": "Player",
+      "line": "Why would he quit being a Knight?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "That is a good question."
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "I'm afraid I don't have the answer."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "Good morrow!"
+    },
+    {
+      "character": "Sir Kay",
+      "line": "I hear you are questing for the Holy Grail?!"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. Any hints?"
+    },
+    {
+      "character": "Sir Kay",
+      "line": "Unfortunately not, Sirrah."
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "Hail Arthur, King of the Britons!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... Hello."
+    },
+    {
+      "character": "Player",
+      "line": "I am seeking the Grail..."
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "Good luck with that!"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "Greetings to the court of King Arthur!"
+    },
+    {
+      "character": "Player",
+      "line": "Any suggestions on finding the Grail?"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "My best guess would be some sort of spell. Merlin is our magic expert. Ask him?"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "Although having said that, I believe Galahad found its location once..."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Know where I can find him?"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "I'm afraid not. He left here many moons ago and I know not where he went."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "May I help you?"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "You are looking for the Grail now adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "The best of luck to you! Make the name of Camelot proud, and bring it back to us."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I am questing for the Holy Grail."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "The Grail? Ha! Frankly, friend, you're not in that league."
+    },
+    {
+      "character": "Player",
+      "line": "Why do you say that?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "You got lucky with freeing Merlin but there's no way a puny wannabe like you is going to find the Holy Grail where so many others have failed."
+    },
+    {
+      "character": "Player",
+      "line": "We'll see about that."
+    },
+    {
+      "character": "High Priest",
+      "line": "Many greetings. Welcome to our fair island."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I am in search of the Holy Grail."
+    },
+    {
+      "character": "High Priest",
+      "line": "The object of which you speak did once pass through holy Entrana. I know not where it is now however."
+    },
+    {
+      "character": "High Priest",
+      "line": "Nor do I really care."
+    },
+    {
+      "character": "Crone",
+      "line": "Did you say the Grail? You are a Grail knight, yes? Well you'd better hurry. A Fisher King is in pain."
+    },
+    {
+      "character": "Player",
+      "line": "Well I would, but I don't know where I am going!"
+    },
+    {
+      "character": "Crone",
+      "line": "Go to where the six heads face, blow the whistle and away you go!"
+    },
+    {
+      "character": "Player",
+      "line": "What are the six heads?"
+    },
+    {
+      "character": "Crone",
+      "line": "The six stone heads have appeared just recently in the world. They all face the point of realm crossing. Find where two of the heads face,"
+    },
+    {
+      "character": "Crone",
+      "line": "and you should be able to pinpoint where it is."
+    },
+    {
+      "character": "Player",
+      "line": "What's a Fisher King?"
+    },
+    {
+      "character": "Crone",
+      "line": "The Fisher King is the owner and slave of the Grail..."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I will go searching."
+    },
+    {
+      "character": "Crone",
+      "line": "Good luck with that."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean by the whistle?"
+    },
+    {
+      "character": "Crone",
+      "line": "You don't know about the whistles yet? The whistles are easy."
+    },
+    {
+      "character": "Crone",
+      "line": "You will need one to get to and from the Fisher King's realm. They reside in a haunted manor house in Misthalin, though you may not perceive them unless you carry something from the realm of the Fisher"
+    },
+    {
+      "character": "Crone",
+      "line": "King..."
+    },
+    {
+      "character": "Player",
+      "line": "The point of realm crossing?"
+    },
+    {
+      "character": "Crone",
+      "line": "The realm of the Fisher King is not quite of this reality. It is of a reality very close to ours though... Where it is easiest to cross, THAT is a point of realm crossing."
+    },
+    {
+      "character": "Galahad",
+      "line": "Welcome to my home. It's rare for me to have guests! Would you like a cup of tea? I'll just put the kettle on."
+    },
+    {
+      "character": "Player",
+      "line": "I'm on a quest to find the Holy Grail!"
+    },
+    {
+      "character": "Galahad",
+      "line": "Ah... the Grail... yes... that did fill me with wonder! Oh, that I could have stayed forever! The spear, the food, the people..."
+    },
+    {
+      "character": "Player",
+      "line": "What are you talking about?"
+    },
+    {
+      "character": "Galahad",
+      "line": "The Grail castle... It's... hard to describe with words. It mostly felt like a dream!"
+    },
+    {
+      "character": "Player",
+      "line": "Why did you leave?"
+    },
+    {
+      "character": "Galahad",
+      "line": "Apparently the time is getting close when the world will need Arthur and his knights of the round table again."
+    },
+    {
+      "character": "Galahad",
+      "line": "And that includes me."
+    },
+    {
+      "character": "Galahad",
+      "line": "Leaving was tough for me, so I took this small cloth from the table as a keepsake."
+    },
+    {
+      "character": "Player",
+      "line": "Why didn't you bring the Grail with you?"
+    },
+    {
+      "character": "Galahad",
+      "line": "...I'm not sure. Because... it seemed to be... NEEDED in the Grail castle? Half a moment, your cup of tea is ready."
+    },
+    {
+      "character": "Player",
+      "line": "So how can I find it?"
+    },
+    {
+      "character": "Galahad",
+      "line": "I did not find it through looking - though admittedly I looked long and hard - eventually, it found me."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'd better be going then."
+    },
+    {
+      "character": "Galahad",
+      "line": "Half a moment, your cup of tea is ready."
+    },
+    {
+      "character": "Galahad",
+      "line": "If you do come across any particularily difficult obstacles on your quest, do not hesitate to ask my advice."
+    },
+    {
+      "character": "Galahad",
+      "line": "I know more about the realm of the Grail than many, and I have a feeling you may need to come back and speak to me anyway..."
+    },
+    {
+      "character": "Player",
+      "line": "I seek an item from the realm of the Fisher King."
+    },
+    {
+      "character": "Galahad",
+      "line": "Funny you should mention that, but when I left there I took this small cloth from the table as a keepsake."
+    },
+    {
+      "character": "Player",
+      "line": "I don't suppose I could borrow that? It could come in useful on my quest."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, have at ye oh evil knight!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually I think I'll run away!"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Hi! I don't get many visitors here!"
+    },
+    {
+      "character": "Player",
+      "line": "How's the fishing?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Not amazing. Not many fish can live in this gungey stuff. I remember when this was a pleasant river teeming with every sort of fish..."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea how to get into the castle?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Why, that's easy!"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Just ring one of the bells outside."
+    },
+    {
+      "character": "Player",
+      "line": "...I didn't see any bells."
+    },
+    {
+      "character": "Fisherman",
+      "line": "You must be blind then. There's ALWAYS bells there when I go to the castle."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, well, this place is a dump!"
+    },
+    {
+      "character": "Fisherman",
+      "line": "This place used to be very beautiful, however, as our king grows old and weak, the land seems to be dying too."
+    },
+    {
+      "character": "Peasant",
+      "line": "Woe is me! Our crops are all failing... how shall I feed myself this winter?"
+    },
+    {
+      "character": "Grail Maiden",
+      "line": "Welcome to the Grail castle. You should come inside, it's cold out here."
+    },
+    {
+      "character": "Grail Maiden",
+      "line": "Welcome to the Grail castle."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "Ah! You got inside at last! You spent all that time fumbling around outside, I thought you'd never make it here."
+    },
+    {
+      "character": "Player",
+      "line": "How did you know what I have been doing?"
+    },
+    {
+      "character": "The Fisher King",
+      "line": "Oh, I can see what is happening in my realm. I have sent clues to help you get here, such as the fisherman, and the crone."
+    },
+    {
+      "character": "Player",
+      "line": "I seek the Holy Grail."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "Ah excellent. A knight come to seek the Holy Grail. Maybe our land can be restored to its former glory."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "At the moment the Grail cannot be removed from the castle. Legend has it a questing knight will one day work out how to restore our land; then he will claim the Grail as his prize."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas how I can restore the land?"
+    },
+    {
+      "character": "The Fisher King",
+      "line": "None at all."
+    },
+    {
+      "character": "Player",
+      "line": "You don't look too well."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "Nope, I don't feel so good either."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "I fear my life is running short... Alas, my son and heir is not here. I am waiting for my son to return to this castle."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "If you could find my son, that would be a great weight off my shoulders."
+    },
+    {
+      "character": "Player",
+      "line": "Who is your son?"
+    },
+    {
+      "character": "The Fisher King",
+      "line": "He is known as Percival."
+    },
+    {
+      "character": "The Fisher King",
+      "line": "I believe he is a knight of the round table."
+    },
+    {
+      "character": "Player",
+      "line": "I shall go and see if I can find him."
+    },
+    {
+      "character": "Player",
+      "line": "Do you mind if I have a look around?"
+    },
+    {
+      "character": "The Fisher King",
+      "line": "No, not at all. Please, be my guest."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, do you have a knight named Sir Percival?"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Ah yes. I remember young Percival. He rode off on a quest a couple of months ago. We are getting a bit worried, he's not back yet..."
+    },
+    {
+      "character": "King Arthur",
+      "line": "He was going to try and recover the golden boots of Arkaneeses."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea which way that would be?"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Not exactly. We discovered some magic golden feathers that are said to point the way to the boots..."
+    },
+    {
+      "character": "King Arthur",
+      "line": "They certainly point somewhere."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Just blowing gently on them will supposedly show the way to go."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Free up some space and I'll give you a feather."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "Wow, thank you! I could hardly breathe in there!"
+    },
+    {
+      "character": "Player",
+      "line": "How did you end up in a sack?"
+    },
+    {
+      "character": "Sir Percival",
+      "line": "It's a little embarrassing really."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "After going on a long and challenging quest to retrieve the boots of Arkaneeses, defeating many powerful enemies on the way, I fell into a goblin trap!"
+    },
+    {
+      "character": "Sir Percival",
+      "line": "I've been kept as a slave here for the last 3 months!"
+    },
+    {
+      "character": "Sir Percival",
+      "line": "A day or so ago, they decided it was a fun game to put me in this sack: then they forgot about me!"
+    },
+    {
+      "character": "Sir Percival",
+      "line": "I'm now very hungry, and my bones feel very stiff."
+    },
+    {
+      "character": "Player",
+      "line": "Come with me, I shall make you a king."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "What are you talking about?"
+    },
+    {
+      "character": "Sir Percival",
+      "line": "The king of where?"
+    },
+    {
+      "character": "Player",
+      "line": "Your father is apparently someone called the Fisher King. He is dying and wishes you to be his heir."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "I have been told that before."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "I have not been able to find that castle again though..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I do have the means to get us there - wait, let me go get the magic whistle!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I do have the means to get us there - a magic whistle!"
+    },
+    {
+      "character": "Sir Percival",
+      "line": "Ok, I will see you there then!"
+    },
+    {
+      "character": "Player",
+      "line": "Your father wishes to speak to you."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "My father? You have spoken to him recently?"
+    },
+    {
+      "character": "Player",
+      "line": "He is dying and wishes you to be his heir."
+    },
+    {
+      "character": "Sir Percival",
+      "line": "I said I will see you there then!"
+    },
+    {
+      "character": "King Percival",
+      "line": "You missed all the excitement!"
+    },
+    {
+      "character": "King Percival",
+      "line": "I got here and agreed to take over duties as king here, then before my eyes the most miraculous changes occured here... grass and trees were growing outside before our very eyes!"
+    },
+    {
+      "character": "King Percival",
+      "line": "Thank you very much for showing me the way home."
+    },
+    {
+      "character": "Player",
+      "line": "I have retrieved the Grail!"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Wow! Incredible! You truly are a splendid knight!"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Thank you for retrieving the Grail! You shall be long remembered as one of the greatest heroes amongst the Knights of the Round Table!"
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "After your help freeing Merlin, my help is the least I can offer as a man of honour."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing right now, but I'll bear it in mind. Thanks."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "Congratulations on freeing Merlin!"
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "Thanks for freeing Merlin."
+    },
+    {
+      "character": "Player",
+      "line": "No problem. It was easy."
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "You are a very talented Knight indeed to have freed Merlin so quickly. You have all of our gratitude."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "All Knights of the Round thank you for your assistance in this trying time for us."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "Hmmm. I heard you freed Merlin. Either you're better than you look or you got lucky. I think the latter."
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Player",
+      "line": "Know you of any quests sir knight?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "I think you've done the main quest we were on right now..."
+    },
+    {
+      "character": "Merlin",
+      "line": "Congratulations, brave knight, on aiding Camelot in so many ways! If we ever require help again, I will make sure to call upon you!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Crone",
+      "description": "Elderly female, British accent, mysterious and cryptic tone, a wise oracle who speaks in riddles and prophecies about the Holy Grail."
+    },
+    {
+      "name": "Fisherman",
+      "description": "Middle-aged male, British accent, weary and nostalgic tone, a weathered fisherman with an eyepatch who remembers better times before the land's decay."
+    },
+    {
+      "name": "Galahad",
+      "description": "Elderly male, British accent, gentle and contemplative tone, a retired knight turned monk who lives in peaceful solitude and offers hospitality to visitors."
+    },
+    {
+      "name": "Grail Maiden",
+      "description": "Young adult female, British accent, serene and ethereal tone, a calm and graceful servant of the Holy Grail who guards the sacred castle."
+    },
+    {
+      "name": "High Priest",
+      "description": "Elderly male, British accent, formal and reserved tone, a powerful Saradominist religious leader who speaks with measured ecclesiastical authority."
+    },
+    {
+      "name": "King Arthur",
+      "description": "Middle-aged male, British accent, regal and commanding tone, the legendary King of the Britons who leads with dignity and inspires his knights."
+    },
+    {
+      "name": "King Percival",
+      "description": "Young adult male, British accent, relieved and grateful tone, a newly crowned king filled with wonder at the miraculous restoration of his realm."
+    },
+    {
+      "name": "Merlin",
+      "description": "Elderly male, British accent, wise and mystical tone, a powerful wizard advisor with a white beard who speaks with careful judgment and ancient knowledge."
+    },
+    {
+      "name": "Peasant",
+      "description": "Middle-aged male, British accent, sorrowful and despairing tone, a melancholic servant suffering from the cursed land's failing crops."
+    },
+    {
+      "name": "Sir Bedivere",
+      "description": "Middle-aged male, British accent, humble and supportive tone, one of the gentler Knights of the Round Table who encourages others."
+    },
+    {
+      "name": "Sir Gawain",
+      "description": "Middle-aged male, British accent, noble and friendly tone, a renowned knight who greets visitors warmly and speaks of legendary quests."
+    },
+    {
+      "name": "Sir Kay",
+      "description": "Middle-aged male, British accent, formal and courteous tone, a well-mannered knight who speaks with traditional medieval politeness."
+    },
+    {
+      "name": "Sir Lancelot",
+      "description": "Middle-aged male, British accent, arrogant and dismissive tone, the strongest Knight of the Round Table who boasts of his superiority."
+    },
+    {
+      "name": "Sir Lucan",
+      "description": "Middle-aged male, British accent, polite but unhelpful tone, a reserved knight who acknowledges visitors but offers little guidance."
+    },
+    {
+      "name": "Sir Palomedes",
+      "description": "Middle-aged male, British accent, honorable and straightforward tone, a man of principle who respects those who helped free Merlin."
+    },
+    {
+      "name": "Sir Pelleas",
+      "description": "Middle-aged male, British accent, appreciative and thoughtful tone, a knight who offers practical suggestions and shows gratitude."
+    },
+    {
+      "name": "Sir Percival",
+      "description": "Young adult male, British accent, embarrassed yet determined tone, a knight who fell into a goblin trap but remains resilient despite his ordeal."
+    },
+    {
+      "name": "Sir Tristram",
+      "description": "Middle-aged male, British accent, cheerful and casual tone, a knight who maintains good spirits and humor even in difficult circumstances."
+    },
+    {
+      "name": "The Fisher King",
+      "description": "Elderly male, British accent, weak and weary tone, a dying king who speaks with fading strength as he awaits his heir's return."
+    }
+  ]
+}

@@ -1,0 +1,1036 @@
+{
+  "branch": "quest/fairytale-i-growing-pains",
+  "quest_name": "Fairytale I - Growing Pains",
+  "lines": [
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Hello, you look familiar. Didn't I catch you going through my pockets not that long ago?"
+    },
+    {
+      "character": "Player",
+      "line": "Me? No, I'm afraid you must have me confused with somebody else!"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I could have sworn..."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Oh well, never mind. I have bigger problems to worry about right now."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I can't chat now, I have too many things to worry about."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I certainly could do with some help."
+    },
+    {
+      "character": "Player",
+      "line": "So tell me about your problems."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "It all seemed to start about a month ago. I grow roses, you know?"
+    },
+    {
+      "character": "Player",
+      "line": "Um, you seem to be getting side-tracked already."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "What? Oh sorry."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "As I was saying about a month ago I noticed that the yield on my prize rose bushes had dropped slightly. I immediately suspected Crown Gall, a disease that can be fatal to a Mister Lincoln."
+    },
+    {
+      "character": "Player",
+      "line": "You're not making much sense. Who's Mister Lincoln?"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Sorry, Mister Lincoln's are the variety of roses that I specialise in. None of the plants showed any other symptoms of disease though. Then I noticed a reduced yield occurring in most of my other crops too."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I spoke to other gardeners that I know, and they had all noticed similar problems."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Vegetable patches are growing fewer vegetables, bushes are producing fewer berries and everything that is planted seems to be more prone to disease!"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "If you were more interested in turning your hand to farming, you would have noticed it too."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "You've done some farming, haven't you noticed a decrease in the amount of produce you are getting lately?"
+    },
+    {
+      "character": "Player",
+      "line": "So what do you want me to do?"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I'd like you to find out what is causing this terrible problem and to try and rectify whatever the problem is."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any ideas where I should start?"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "If I were you I would start by speaking to some of the other gardeners."
+    },
+    {
+      "character": "Player",
+      "line": "This doesn't sound like something I can help with. Good luck."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I'm not sure I can, but I guess I have to try."
+    },
+    {
+      "character": "Player",
+      "line": "What is the banner for?"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "That banner is the emblem of the Group of Advanced Gardeners. We're a loosely affiliated group of gardeners that are united in our concern for declining vegetable production."
+    },
+    {
+      "character": "Player",
+      "line": "Err, of course you are."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Say, you're a brave adventurer, would you be interested in trying to get to the root of our woes? There would be a cash reward if you could help us."
+    },
+    {
+      "character": "Player",
+      "line": "Of course I'll help."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I'm so glad to hear that."
+    },
+    {
+      "character": "Player",
+      "line": "You don't look it."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Sorry, what was that?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, nothing. Don't worry about it."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I have better things to do."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Oh. Oh dear. Oh well, if there's nothing I can do to make you change your mind..."
+    },
+    {
+      "character": "Player",
+      "line": "No, nothing. My mind is made up."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Well come back and chat to me if you change it."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Have you spoken to any other members of the Gardening Group yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't had a chance yet."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Well please hurry, otherwise I won't be able to make enough produce to feed my 13 children soon."
+    },
+    {
+      "character": "Player",
+      "line": "Are you a member of the Group of Advanced Gardeners?"
+    },
+    {
+      "character": "Gardener",
+      "line": "Why, yes I am. Why do you ask?"
+    },
+    {
+      "character": "Player",
+      "line": "Martin has asked me to investigate why all the crops are failing."
+    },
+    {
+      "character": "Gardener",
+      "line": "No, I'm afraid I don't know anything about that."
+    },
+    {
+      "character": "Gardener #1",
+      "line": "Why, yes I am. Why do you ask?"
+    },
+    {
+      "character": "Gardener #1",
+      "line": "Ah, Martin sent you, why didn't you say so? I personally think that our problems are all down to the fact that we haven't had enough rain of late. It's plain to see - just look at the levels of the rivers."
+    },
+    {
+      "character": "Gardener #1",
+      "line": "We need more rain. I don't suppose you can do anything about that?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm afraid not."
+    },
+    {
+      "character": "Gardener #1",
+      "line": "Well there you go then. Until you find out how to make it rain you're going to have a hard time solving our problems."
+    },
+    {
+      "character": "Player",
+      "line": "I've spoken to one of your members and they reckon that it's the lack of rain that we've had recently."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "I'm afraid that can't be the problem. It never rains on the farming patches. That's why we have to water the crops."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, yeah. I hadn't thought of that."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Go chat to some other group members. Maybe somebody has a different idea."
+    },
+    {
+      "character": "Gardener #2",
+      "line": "Why, yes I am. Why do you ask?"
+    },
+    {
+      "character": "Gardener #2",
+      "line": "Insects! That's what you can tell him! Insects! Stop the insects from eating so many of our crops and we'd get maximum yield, I tell you!"
+    },
+    {
+      "character": "Player",
+      "line": "Insects! You need to get rid of the insects! They're eating the crops."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Good idea, but I spray my crops with insecticide every week. No, that's not the problem."
+    },
+    {
+      "character": "Gardener #3",
+      "line": "Why, yes I am. Why do you ask?"
+    },
+    {
+      "character": "Gardener #3",
+      "line": "How can you ask such a thing? It's obvious! It's all you adventurers. Every time I get a crop planted, some adventurer comes along and digs it up and plants crops of their own, as if they owned my farming patch!"
+    },
+    {
+      "character": "Gardener #3",
+      "line": "It's really annoying! You should speak to your friends about their rude behaviour!"
+    },
+    {
+      "character": "Player",
+      "line": "But...but...they're not my friends! I've never even spoken to most of them!"
+    },
+    {
+      "character": "Gardener #3",
+      "line": "Don't give me that! You're an adventurer, they're all adventurers. I bet you have some sort of secret guild and you gather there and say things like 'let's annoy the gardeners this week', don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I mean yes. There is a heroes guild, but...!"
+    },
+    {
+      "character": "Gardener #3",
+      "line": "Aha, so you admit it then! You should be ashamed of yourselves!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I give up!"
+    },
+    {
+      "character": "Player",
+      "line": "One of your members is implying that the gardeners' problems are all caused by adventurers using the plots. I would like to point out that these plots are communal property and that we have as much right as anyone to"
+    },
+    {
+      "character": "Player",
+      "line": "grow plants here!"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "All right! All right! You're absolutely right! I never said there was a problem with anybody using my plots. Besides, we get part of our income from watching crops for adventurers. I'm afraid that our problem is"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "something totally different."
+    },
+    {
+      "character": "Gardener #4",
+      "line": "Why, yes I am. Why do you ask?"
+    },
+    {
+      "character": "Gardener #4",
+      "line": "Well obviously it's the seasons. They all seem to be out-of-wack these days. Summer comes earlier and earlier each year, but then it simply rushes by!"
+    },
+    {
+      "character": "Gardener #4",
+      "line": "If you find out what is upsetting the seasons you'll find out what is causing the harvest to fail."
+    },
+    {
+      "character": "Player",
+      "line": "I don't suppose you have any ideas about what could cause the seasons to be mixed up?"
+    },
+    {
+      "character": "Gardener #4",
+      "line": "No, sorry, but find that out and you'll get to the root of our problems."
+    },
+    {
+      "character": "Player",
+      "line": "Apparently, the seasons are all mixed up. Late summers and early winters. I don't know what I can do to solve that problem, though."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Yes, I've noticed that the seasons seem to be slightly confused, but that hasn't been a big enough change to affect the crops so badly. I'm afraid you should try a different branch of investigation to get to the root"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "of our problems."
+    },
+    {
+      "character": "Player",
+      "line": "Ha ha!"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "What are you laughing at? These are serious problems!"
+    },
+    {
+      "character": "Player",
+      "line": "You're absolutely right. Don't worry, I'll find out what the problem is."
+    },
+    {
+      "character": "Gardener #5",
+      "line": "Why, yes I am. Why do you ask?"
+    },
+    {
+      "character": "Gardener #5",
+      "line": "Well I can tell by the look on your face that I'm not the first person you've asked. Why don't you tell me what you've heard from other members of the group so far?"
+    },
+    {
+      "character": "Player",
+      "line": "Why not? They all seem to be a bunch of loonies anyway."
+    },
+    {
+      "character": "Player",
+      "line": "I've been told that it's the lack of rain, plagues of insects and recently I was told that the entire order of seasons is confused!"
+    },
+    {
+      "character": "Gardener #5",
+      "line": "Did you ever consider that all those theories might be correct?"
+    },
+    {
+      "character": "Player",
+      "line": "But they're all different, how could they all be correct?"
+    },
+    {
+      "character": "Gardener #5",
+      "line": "I'll let you into a little secret that'll explain it all to you. In a word - fairies!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh no! Not another crack-pot theory!"
+    },
+    {
+      "character": "Gardener #5",
+      "line": "I'm serious!"
+    },
+    {
+      "character": "Gardener #5",
+      "line": "Think it through. There are fairies who control everything natural from the weather to the seasons."
+    },
+    {
+      "character": "Player",
+      "line": "Right, well thanks for your input. I'll think over what you said."
+    },
+    {
+      "character": "Gardener",
+      "line": "I've already told you everything I suspect."
+    },
+    {
+      "character": "Gardener",
+      "line": "I don't think the crops ARE failing, now leave me alone, I have work to do."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Hello again,. How are you getting on with solving the Gardening Group's problems?"
+    },
+    {
+      "character": "Player",
+      "line": "To be honest I'm worried about the sort of person you let join your organisation."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Why is that?"
+    },
+    {
+      "character": "Player",
+      "line": "I've heard theories ranging from climate change to fairies from your members."
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "Hmm, that's an interesting idea. Now that I think about it that does make some sense. Yes, maybe you should talk to a fairy about it."
+    },
+    {
+      "character": "Player",
+      "line": "O-kay! You're the boss, any idea which flower I should look under to find a fairy?"
+    },
+    {
+      "character": "Martin the Master Gardener",
+      "line": "No, sorry, but I did hear that there were some adventurers with a similar problem in the swamps near Lumbridge. Just don't mention my name if you talk to them, they're trying to keep it a secret, but everybody actually knows what they're up to."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've spoken to them before."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you? Where's the Fairy Queen? What's going on here? Where's the Fairy Queen's throne gone?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Ciao esploratore! So many questions. Whicha one would you hava me answer first?"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Me?! I am-a da Fairy Godfather."
+    },
+    {
+      "character": "Player",
+      "line": "...?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "I see-a by your face dat you have-a not-a heard of-a me. Irrispettoso, eet iz of no eemportance. You weesh-a to know sometheeng else or no?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Ah, eet iz a trageec-a tale. Da Queen Bee she iz-a, how-you-say, seek?"
+    },
+    {
+      "character": "Player",
+      "line": "You mean sick. What happened?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Ah, a tragedy to be-a struck-a down so young."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "How-a much do ya know about-a da fairy folk, my beeg friend?"
+    },
+    {
+      "character": "Player",
+      "line": "Not actually a whole deal, I'm afraid."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Well, let-a me enlighten yous. Zanaris iz-a a nexus of-a da worlds. Da Queen Bee, she iz-a da guardian of-a all da folk dat live-a in Zanaris."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "So when-a thees Tanglefoot arrives, da Queen Bee she-a goes to da Cosmic Temple area to kill-a eet, but someting goes-a wrong. Da Queen Bee, she gets-a hurt and is-a now inna da magic sleep."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'll go see her then. Goodbye."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Ciao. Oh, and..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "A word-a of advice. You be-a careful not to cause da trouble for da folk while you are Zanaris. Ciao."
+    },
+    {
+      "character": "Player",
+      "line": "?"
+    },
+    {
+      "character": "Player",
+      "line": "What's going on here?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Hmm, an eenteresting question, my friend. I am-a trying to run-a da fairy kingdom, and youz iz-a being da irritating adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "That's not what I mean!"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "No, but-a dat iz da question I answered. Now iz-a dere anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Where's the Fairy Queen's throne gone?"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "An eenteresting place to start... I am-a here, ze Queen Bee iz not. So my chair - eet iz-a here, her throne - eet iz- a not. Eez there anytheeng else? I ama a bizy fairy."
+    },
+    {
+      "character": "Player",
+      "line": "That's all, thanks."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Eef there iz anytheeng I can-a help you weeth whilst you are-a veesiting Zanaris, plsi, do not-a trouble to bother me."
+    },
+    {
+      "character": "Fat Rocco",
+      "line": "Da Boss is a busy fairy! He don' have time to talk to yous humans. Vamoose!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Sorry, I'm very busy and can't chat. If you want to know something go and talk to the Godfather."
+    },
+    {
+      "character": "Player",
+      "line": "I did, he said I should come and talk to you!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Oh!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Sorry, I didn't realise."
+    },
+    {
+      "character": "Player",
+      "line": "Actually it's more a case of what I can help you with? I told the Fairy Godfather that I would help you find a cure for the Queen."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Oh, thank you! I really need help, I have no idea what ails the Queen. You must be a mighty healer!"
+    },
+    {
+      "character": "Player",
+      "line": "Err...no, not me."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "A great druid then?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm...'fraid not."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "A shaman?"
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "A surgeon?"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "A doctor, medic, nurse?"
+    },
+    {
+      "character": "Player",
+      "line": "No, no and no."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "So what are you then?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm a mighty adventurer!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "A what?!"
+    },
+    {
+      "character": "Player",
+      "line": "A mighty adventurer!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Yes, I heard. It's just not what I was expecting to hear."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "But hang on, you might be just the sort of person I need to help me!"
+    },
+    {
+      "character": "Player",
+      "line": "How is that then?"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "I'm sure the Godfather told you that the Queen is in an enchanted sleep?"
+    },
+    {
+      "character": "Player",
+      "line": "Well sort of, I couldn't really understand everything he was talking about."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Shhh, somebody might hear. Look you're a visitor, so I'll tell you this much; it doesn't pay to talk about the Godfather behind his back."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "But back to the problem at hand - the Fairy Queen. She was brought here after her battle with the Tanglefoot in a terrible state, extremely weak and barely able to fly!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "When the Queen got back here, she was clearly weakening fast. It appears as if the magic force that is her life essence is slowly unravelling."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Now, what I need you to do is find a mage by the name of Zandar Horfyre. He has spent many years studying magical illness. Take the list to him and ask him if he knows what ails the Queen, please."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't sound too difficult, where will I find him."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "I believe he now resides in the Dark Wizard's tower near Falador, and, please hurry. I fear the Queen doesn't have much time left!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "You're back soon! Did you find out what ails the Fairy Queen?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm afraid I've lost the list of symptoms you gave me."
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "Well not to worry, I have a copy of it here."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I need your help."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "And why should I help you, fool? You attack my brethren and I, and then you demand my help! I think not!"
+    },
+    {
+      "character": "Player",
+      "line": "But Fairy Nuff said you would help me!"
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Fairy Nuff sent you!"
+    },
+    {
+      "character": "Player",
+      "line": "The Fairy Queen is extremely ill. She was in a battle with a Tanglefoot and her injuries have resulted in her being in a coma."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "This is grave news indeed!"
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "You think the Tanglefoot is responsible? I don't see how that could be. A Tanglefoot will normally kill its victim outright...unless...hmmmm...I wonder..."
+    },
+    {
+      "character": "Player",
+      "line": "Fairy Nuff gave me a list of her symptoms. Here, have a look at it."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Hmm...yes...slow discorporation of ethreal body, eh? Hmm...I think I know what the problem might be."
+    },
+    {
+      "character": "Player",
+      "line": "You do? That's great! What is it?"
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "From what I know about fairies, their basic lifeforce is pure magic. Much as we humans would refer to our souls as our life essence, so too does a fairy have a life essence of pure magic."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "You could actually refer to fairies as magic embodied and not be wrong."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but about the Fairy Queen?"
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Patience, I'm getting to that. It appears the Fairy Queen has lost a large part, indeed the majority, of her life essence. Either it was drained from her by the Tanglefoot or she did it voluntarily."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Although why she would do that is beyond me."
+    },
+    {
+      "character": "Player",
+      "line": "So I guess I need to go and kill this Tanglefoot and get back her magic essence if I am to help her?"
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Yes, but if I were you I would seek out a necromancer by the name of Malignus Mortifer. I believe that he once fought a Tanglefoot, many years ago."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "You should probably ask him for advice on how to combat it."
+    },
+    {
+      "character": "Player",
+      "line": "Malignus Mortifer. Any idea where I can find him?"
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "He's rumoured to have been seen near Port Sarim with his followers recently. Rumour has it that he's working on a spell that has something to do with fungus!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks very much."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Don't mention it, and give my regards to Nuff, when you see her next."
+    },
+    {
+      "character": "Player",
+      "line": "Fairy Nuff gave me a list of her symptoms, but I don't have it with me."
+    },
+    {
+      "character": "Zandar Horfyre",
+      "line": "Well, I can't diagnose the problem without knowing the symptoms. You'd better go and find that list, or get Fairy Nuff to give you another one."
+    },
+    {
+      "character": "Player",
+      "line": "I need help with fighting a Tanglefoot. Can you help me?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Almost certainly, I am a great practitioner of the magic arts, after all."
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks. I was told by Zandar Horfyre that you fought one once."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "That is true and an epic battle it was too."
+    },
+    {
+      "character": "Player",
+      "line": "That's great! I presume you won as you are here to tell me about it, could you tell me how to defeat one, please?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Of course I won! As I've already stated I am a master of the magic arts."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Why do you want to know how to kill a Tanglefoot?"
+    },
+    {
+      "character": "Player",
+      "line": "There is a Tanglefoot in the lost city of Zanaris and I have been asked to kill it."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "I see. Well I could tell you how to defeat your Tanglefoot, however I would need you to perform a little undertaking for me first."
+    },
+    {
+      "character": "Player",
+      "line": "What exactly did you have in mind?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "To the north-east of here is a haunted manor. Bring me a skull from a grave you find there and you shall have your answer."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I have it right here."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Excellent, hand it over then."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Right then, to business. A Tanglefoot can not be harmed by might nor magic. The only weapon that can damage them are a pair of enchanted secateurs!"
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get a pair of these enchanted secateurs?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "You will have to make them... listen carefully and I'll tell you how."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Obviously you will need a pair of secateurs, you will also need to gather, and."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Take them to the Nature Spirit and ask him to perform the ceremony of Phasma Phasmatis Natura."
+    },
+    {
+      "character": "Player",
+      "line": "Phasma Phasmatis Natura. Got it! Is that all?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Yes, that's all. You'll be able to use those secateurs to kill the monster."
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks very much."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go and get it then."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Fine, I'll see you soon."
+    },
+    {
+      "character": "Player",
+      "line": "I was asking you about fighting a Tanglefoot..."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "So, have you brought me the skull?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Well come and talk to me once you have it."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "I have already told you all I know about fighting a Tanglefoot. What more would you have of me?"
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell me how to kill a Tanglefoot again, please?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "I guess so. Forgot to take notes did you? Well, listen carefully this time. You will need to enchant a pair of secateurs. Only these can harm a Tanglefoot."
+    },
+    {
+      "character": "Player",
+      "line": "What did I need to take to the Nature Spirit again?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "You will need a pair of secateurs. You will also need to gather, and."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Welcome back, my friend. I sensed that you require my help and so I have once more returned."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you! I need your help in enchanting a pair of secateurs."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Secateurs? That's a strange thing to enchant. Would you care to inform me why you need them?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure. A Tanglefoot has invaded the fairy kingdom of Zanaris and the only way I can fight it is with a pair of enchanted secateurs, apparently."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Ah, a Tanglefoot! Your information is correct, secateurs that have been blessed by a Nature Spirit are the only weapons that can harm such a terrible creature."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "I shall be glad to help you. Do you have all of the required items for the ceremony?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have everything right here."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Then let us begin..."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "It is done!"
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Farewell, and good luck with your coming battle."
+    },
+    {
+      "character": "Player",
+      "line": "No, I still need to collect some things."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Alright, my friend. Return to me when you have all that is required. I shall be waiting."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Hello,. Why have you returned so soon after your last visit?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad you're here. I'm afraid I've lost the secateurs you enchanted for me."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "That's alright; if you bring me the components for the spell, I'll enchant another pair for you. Would you happen to have all of the required items for the ceremony with you now?"
+    },
+    {
+      "character": "Player",
+      "line": "What are you doing all the way over here? Shouldn't you be at the market door?"
+    },
+    {
+      "character": "Gatekeeper",
+      "line": "Yes, that's my usual spot, but the Godfather said I should be here, so here I am."
+    },
+    {
+      "character": "Gate Keeper",
+      "line": "I've received orders to let you through if you want. Good luck."
+    },
+    {
+      "character": "Gate Keeper",
+      "line": "Be careful in there, there are still some of those baby Tanglefootii around."
+    },
+    {
+      "character": "Player",
+      "line": "I did it! I've got the Fairy Queens' enchanted secateurs!"
+    },
+    {
+      "character": "Fairy Nuff",
+      "line": "That's fantastic! You'd better take them to the Fairy Godfather though; he'd be cross if he knew you brought them to me first. But, come back to me once the queen has had a chance to recover. I'm sure she'll want to thank you personally."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Ciao. I am-a glad to see-a yous back! I was-a worried that the Tanglefoot would-a kill-a you too."
+    },
+    {
+      "character": "Player",
+      "line": "You needn't have worried I managed to kill it!"
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Ben fatto, my friend! Da folk-a dey owe yous a great-a deal! So did-a youss getta back da Queen Bee's magic power?"
+    },
+    {
+      "character": "Player",
+      "line": "I retrieved this pair of Enchanted secateurs, I think they must contain the Queen's missing magic."
+    },
+    {
+      "character": "Fairy Godfather",
+      "line": "Grazie infinite! I will give-a dem to da healing fairy. Da Queen Bee, she will-a soon be strong again!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Fairy Godfather",
+      "description": "Middle-aged male, exaggerated Italian-American accent, authoritative and menacing tone. A fairy crime boss who speaks in a smooth yet threatening manner, peppering his speech with Italian words."
+    },
+    {
+      "name": "Fairy Nuff",
+      "description": "Adult female, British accent, professional and caring tone. A fairy physician who is calm and measured, with underlying determination and occasional dry wit."
+    },
+    {
+      "name": "Fat Rocco",
+      "description": "Adult male, gruff New York Italian-American accent, intimidating tone. A fairy bodyguard who tries to sound tough and menacing while guarding his boss."
+    },
+    {
+      "name": "Gardener",
+      "description": "Elderly male, British countryside accent, dismissive and gruff tone. A tired working-class gardener who has little patience for questions."
+    },
+    {
+      "name": "Gardener #1",
+      "description": "Middle-aged male, British countryside accent, earnest and slightly pompous tone. A gardener who is convinced he knows the cause of the crop problems."
+    },
+    {
+      "name": "Gardener #2",
+      "description": "Adult male, British accent, excitable and animated tone. A passionate gardener who gets worked up about insects destroying crops."
+    },
+    {
+      "name": "Gardener #3",
+      "description": "Middle-aged male, British accent, irritable and accusatory tone. A grumpy gardener who blames adventurers for all the farming problems."
+    },
+    {
+      "name": "Gardener #4",
+      "description": "Elderly male, British countryside accent, thoughtful and observant tone. A contemplative gardener who studies the changing seasons."
+    },
+    {
+      "name": "Gardener #5",
+      "description": "Adult female, British accent, wise and knowing tone. A perceptive gardener who believes in fairies and connects the dots others miss."
+    },
+    {
+      "name": "Gate Keeper",
+      "description": "Deep male voice, slow and deliberate speech, neutral and dutiful tone. A tree-like guardian creature who follows orders without question."
+    },
+    {
+      "name": "Gatekeeper",
+      "description": "Deep male voice, slow and deliberate speech, neutral and dutiful tone. A tree-like guardian creature who follows orders without question."
+    },
+    {
+      "name": "Malignius Mortifer",
+      "description": "Middle-aged male, theatrical British accent, arrogant and sinister tone. A pompous Zamorakian necromancer who revels in his dark magical expertise and speaks with condescending superiority."
+    },
+    {
+      "name": "Martin the Master Gardener",
+      "description": "Middle-aged male, British accent, worried and distracted tone. A knowledgeable master farmer who is stressed about the failing crops but remains methodical in his approach."
+    },
+    {
+      "name": "Nature Spirit",
+      "description": "Ethereal male voice, soft and otherworldly tone with a calm, wise presence. A supernatural being who speaks with ancient knowledge and serene benevolence."
+    },
+    {
+      "name": "Zandar Horfyre",
+      "description": "Middle-aged male, deep commanding British accent, authoritative and somewhat hostile tone. A dark wizard leader who is territorial about his tower but willing to help when properly approached."
+    }
+  ]
+}

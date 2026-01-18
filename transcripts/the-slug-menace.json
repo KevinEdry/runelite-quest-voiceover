@@ -1,0 +1,2220 @@
+{
+  "branch": "quest/the-slug-menace",
+  "quest_name": "The Slug Menace",
+  "lines": [
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Jolly good show on getting into the White Knights, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Now how can I help you old ?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... So when can I start doing missions for the Temple Knights, and get some better Temple Knight armour and weapons and stuff?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well, I may have a mission for you, but it seems you are not quite ready for it yet."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Now how can I help you young ?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Well, now that you are a White Knight we can process your application form correctly."
+    },
+    {
+      "character": "Player",
+      "line": "And how long will that take?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Already done, old bean! The scales of justice never sleep."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, right."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "So then, dear gal; with that in mind, we have a mission for you."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Great! Am I to be flung to some far off and exotic land to defeat some evil genius?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "What? Ah, no actually. We're sending you to Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "Ardougne?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Hmm, what's happening in Ardougne?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know, you were about to tell me."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "No, no, no, nothing happening in Ardougne. However, there is something going on in Witchaven to the south-east of Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure? I mean, you're not a little... senile, maybe?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Haw, Haw, Haw, very funny old bean. I need you to report to Col O'Niall in Witchaven. He's a retired Temple Knight, but his clearance is still active. He will be able to fill you in."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Remember to use the Temple Knight code phrase: 'In Falador, the geese fly backwards on Tuesdays'."
+    },
+    {
+      "character": "Player",
+      "line": "You know, I'm still not sure this isn't some giant wind up."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Nonsense, my, we take our work very seriously. The fate of the world rests in our hands, don't you know."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Hmm, you'll need to get your CommOrb before I send you off old bean."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Oh, before you go, I just need to update your CommOrb with the new mission parameters."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Now, is there anything else I can do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, but I'm not interested."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "As you wish, old bean. Do let me know if you reconsider."
+    },
+    {
+      "character": "Player",
+      "line": "Hey Tiffy, I lost my CommOrb..."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Free up some inventory space first, what?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Very careless of you, what? Here, take another, but be careful of this one!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Sir Tiffy."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Greetings,. Anything to report?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, sir, but I'm working on it."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Good show! That's the spirit."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Savant! Good to speak to you again!"
+    },
+    {
+      "character": "Savant",
+      "line": ", I am so glad you've been assigned this mission."
+    },
+    {
+      "character": "Player",
+      "line": "Me too. So, do you have anything you can tell me?"
+    },
+    {
+      "character": "Savant",
+      "line": "Only what is already available through your CommOrb I'm afraid. I'm currently collating a lot of other data pertaining to Witchaven. I'll keep you updated if anything turns up."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Savant. I know I can count on you."
+    },
+    {
+      "character": "Savant",
+      "line": "Savant out."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Well hello there; welcome to our little village. Pray, stay awhile."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "The blessings of Saradomin be with you child."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me sir, would you be Col. O'Niall?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "I might. Who's asking?"
+    },
+    {
+      "character": "Player",
+      "line": ", sir. Sir Tiffy Cashien sent me."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm... In Falador the geese fly backwards on Tuesdays?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "What? Are you mad ?"
+    },
+    {
+      "character": "Player",
+      "line": "Uhh. I thought it was a Temple Knight, secret code phrase."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "I see Sir Tiffy still has his fun with the Initiates. Sigh, I asked for a Knight and I get a whelp."
+    },
+    {
+      "character": "Player",
+      "line": "Whelp? I am a full member of the Temple Knights, sir!"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Like I said, a whelp. And don't 'Sir' me, I work for a living."
+    },
+    {
+      "character": "Player",
+      "line": "Right sir, I mean Colonel."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Jake will do fine."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Now what do you want to know."
+    },
+    {
+      "character": "Player",
+      "line": "What's the mission?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Well, I started to notice something about three weeks ago."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "The Mayor called a meeting of the town council. Nothing too strange about that, in and of itself."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "He was acting a bit strange, like he'd taken a blow to the head or something. At the end of the meeting he announces that he's going to be renovating the shrine just west of the town."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Now, I thought that was a bit off since he's about as religious as a dead dog on a termite mound."
+    },
+    {
+      "character": "Player",
+      "line": "Eeew!"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Quiet down, I'm talking here."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "I could have let that slip, save for the things he's been bringing in."
+    },
+    {
+      "character": "Player",
+      "line": "What, like surface to air ballistas, intercontinental exploding fireballs and quasi-futuristic henchman uniforms?"
+    },
+    {
+      "character": "Player",
+      "line": "The essential tools for world domination?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "No, mining equipment."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't sound very evil?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "As well as the mining equipment, he's been bringing in rune essence in large quantities."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Far beyond what's needed for a small village such as this."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, that sounds suspicious. I'll look into it."
+    },
+    {
+      "character": "Player",
+      "line": "Anything else?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Yes, some of the villagers have been disappearing overnight and reappearing the next day in a dazed and confused state."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure they're not just getting drunk?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "They could be I suppose, but I'd rather you made sure."
+    },
+    {
+      "character": "Player",
+      "line": "Sure thing."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Anything else you need to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about Witchaven."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Well, what's to say. This place is falling apart."
+    },
+    {
+      "character": "Player",
+      "line": "I noticed it's a bit run down."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Run down? Hah! This place used to be a bustling hive of industry."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to it?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "The Fishing Platform happened to it."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "When you introduce a large scale operation like the Fishing Platform, it takes away the business from the little guy."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Almost overnight Witchaven became a ghost town."
+    },
+    {
+      "character": "Player",
+      "line": "That's very sad. However, you can't stand in the way of progress."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "I'm going to pretend you didn't say that girl."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Remember, bigger is not always better."
+    },
+    {
+      "character": "Player",
+      "line": "Who are the important people in Witchaven?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Hmm. There are only three people I recommend speaking to."
+    },
+    {
+      "character": "Player",
+      "line": "Right, who would that be?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Firstly go speak to Mayor Hobb. He was the first to be acting strangely."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "As well as that, he isn't looking too healthy."
+    },
+    {
+      "character": "Player",
+      "line": "Speak to the Mayor, check."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Next, speak to Brother Maledict at the church."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "He speaks to a lot of the villagers and has a good feel for what's going on in town."
+    },
+    {
+      "character": "Player",
+      "line": "Brother Maledict, right."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Finally, speak to Holgart the fisherman. I haven't seen him sailing in a while. That is definitely a bit off."
+    },
+    {
+      "character": "Player",
+      "line": "Holgart, oh yes I've spoken to him before."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "That covers about everyone, but don't just limit yourself to those three. Others may have some insight into what's been happening."
+    },
+    {
+      "character": "Player",
+      "line": "Will do Col. O'Niall. Thanks for the advice."
+    },
+    {
+      "character": "Player",
+      "line": "That's enough for now."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Stay sharp."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me Col. O'Niall. I need some more information."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "What do you want to know?"
+    },
+    {
+      "character": "Jeb",
+      "line": "You are not part of us. Leave us alone."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again, Holgart."
+    },
+    {
+      "character": "Holgart",
+      "line": "Well, hello again m'hearty. How're yer fare?"
+    },
+    {
+      "character": "Player",
+      "line": "Busy as always. Is everything okay?"
+    },
+    {
+      "character": "Holgart",
+      "line": "'Fraid not. I've been washed up and left to dry."
+    },
+    {
+      "character": "Player",
+      "line": "Pardon?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Scuppered I am, keelhauled and bottomed out."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Holgart",
+      "line": "I'm destitute. I can sail no more."
+    },
+    {
+      "character": "Player",
+      "line": "Oh my, that's terrible! What happened?"
+    },
+    {
+      "character": "Holgart",
+      "line": "About two weeks ago, I was hauled up in front of the Mayor and he tells me I've broken his new 'Articles of sailing'."
+    },
+    {
+      "character": "Holgart",
+      "line": "He tells me that under his new laws my boat is forfeit."
+    },
+    {
+      "character": "Player",
+      "line": "He took your boat?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Aye. The Mayor has given it to Jeb Wormwood. He is running the boat to the Fishing Platform now."
+    },
+    {
+      "character": "Holgart",
+      "line": "Speaking of which, since you were last there it's got a might bit stranger. You really should take a look."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do that Holgart. I hope you get your boat back soon."
+    },
+    {
+      "character": "Holgart",
+      "line": "Aye. Fare thee well."
+    },
+    {
+      "character": "Holgart",
+      "line": "I don't know what to do without my boat."
+    },
+    {
+      "character": "Player",
+      "line": "I understand you can take me to the Fishing Platform."
+    },
+    {
+      "character": "Jeb",
+      "line": "Yes, we can do that."
+    },
+    {
+      "character": "Player",
+      "line": "Will you take me please?"
+    },
+    {
+      "character": "Jeb",
+      "line": "Board the boat and we shall depart."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Bailey."
+    },
+    {
+      "character": "Bailey",
+      "line": "Well, hello again,. What brings you back out here?"
+    },
+    {
+      "character": "Player",
+      "line": "Just looking around."
+    },
+    {
+      "character": "Bailey",
+      "line": "Are you insane? Have you seen what's happening out there?"
+    },
+    {
+      "character": "Player",
+      "line": "You mean the sickly looking lobsters?"
+    },
+    {
+      "character": "Bailey",
+      "line": "Yes the mutant lobsters! I swear at any minute they are going to break down the door and attack me."
+    },
+    {
+      "character": "Player",
+      "line": "They seem fairly peaceful so far."
+    },
+    {
+      "character": "Bailey",
+      "line": "Well, true, but you can't be too careful."
+    },
+    {
+      "character": "Player",
+      "line": "When did they start appearing?"
+    },
+    {
+      "character": "Bailey",
+      "line": "Not long after you rescued Kennith."
+    },
+    {
+      "character": "Bailey",
+      "line": "They get hauled out of the sea as ordinary giant lobsters, the fishermen hit them with a mallet then a Sea Slug jumps into the crack."
+    },
+    {
+      "character": "Bailey",
+      "line": "After a while they turn green, before jumping back into the sea and swimming off towards the mainland."
+    },
+    {
+      "character": "Player",
+      "line": "This sounds very serious. Hmm, I'd best get back to the mainland and see where these lobsters are heading."
+    },
+    {
+      "character": "Bailey",
+      "line": "Please be quick, I can't leave whilst those things are out there."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Jeb."
+    },
+    {
+      "character": "Jeb",
+      "line": "Business here is complete. Do you wish to return to the dry land?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm going to stay a while."
+    },
+    {
+      "character": "Jeb",
+      "line": "Then stay if that is your wish."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let's go back."
+    },
+    {
+      "character": "Jeb",
+      "line": "Then board the rowing boat."
+    },
+    {
+      "character": "Player",
+      "line": "Good day to you, sir."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "And a good day to you my."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "I am Brother Maledict, at your service."
+    },
+    {
+      "character": "Player",
+      "line": ", at yours. How are you?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Well, to be perfectly honest with you, I am a little concerned."
+    },
+    {
+      "character": "Player",
+      "line": "Really, what's up?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "It's my congregation. They seem to be drifting away from me."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "With all the hardships this small village has endured in the past few years, the people of Witchaven have never needed the solace of Saradomin more."
+    },
+    {
+      "character": "Player",
+      "line": "Well that's understandable."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Yes indeed. However, less and less people have been attending my services lately."
+    },
+    {
+      "character": "Player",
+      "line": "I can see why that would worry you. Do you have any idea why they would not attend?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "The only thing I can think of, is that the Mayor has asked them to help improve the shrine."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that would make sense. Hmm, one more thing."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me again, what's worrying you?"
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about the shrine?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Ah yes, one of the wonders of Witchaven. That particular shrine has existed since before Witchaven was even founded."
+    },
+    {
+      "character": "Player",
+      "line": "Wow! Now that is old."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Over one hundred and fifty years old in fact."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "The role I now fulfill was originally given to one of the Temple Guardians, but in time that has been delegated to one of the ordained, such as myself."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "The shrine was abandoned when the village came into being. Since then it has fallen into disrepair and other less savoury elements have moved in."
+    },
+    {
+      "character": "Player",
+      "line": "You must be pleased that the Mayor is renovating the shrine."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Well yes, it came as something of a pleasant shock. I only hope he will let me visit it soon."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "He wants me to wait until it's ready to unveil."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Anything else I can help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the people of Witchaven."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Ah, the people of Witchaven are the salt of the earth. Hardworking and very generous. Well, usually that is."
+    },
+    {
+      "character": "Player",
+      "line": "Not anymore?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Oh, most of them certainly. It's just that something has changed over the past few weeks."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "It's nothing I can put my finger on. My flock aren't exactly unfriendly anymore, just different."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Well, they used to be very rigorous in attending my services. Now they seem almost apathetic."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "They wander around the village in a listless state, everyone except the Mayor that is."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Since the opening of the Fishing Platform he was a man beset by worries. The only thing that occupied his mind was how to rescue his village from financial collapse."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Ordinarily, I would welcome his new found drive and energy, especially as it is directed towards renovating the shrine"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "I'm not sure but something about him has me worried."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps he thinks the shrine could bring new interest to the village?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Perhaps. Maybe I'm being a little paranoid. I'll give it some thought."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "In the meantime, is there anything else I can help you with?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Peace be with you child."
+    },
+    {
+      "character": "Player",
+      "line": "Good day to you, Brother Maledict."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "And a good day to you again,. How can I help?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Well hello there; welcome to our little village. Pray, stay a while."
+    },
+    {
+      "character": "Player",
+      "line": "Good day to you. Would you be the Mayor?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Indeed. Mayor Eustace Hobb, in fact. Do you like our home?"
+    },
+    {
+      "character": "Player",
+      "line": "It's certainly very quiet."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Yes, quiet and undisturbed. Just how we like it."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Tell me, what brings you to Witchaven?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm here to relax."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "That's good, yes, that's good. Witchaven is a nice quiet village - very relaxing, good fishing."
+    },
+    {
+      "character": "Player",
+      "line": "Are you alright? You seem a little, hazy."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "It's nothing, I'm just a little tired at the moment. So much work, so much to do."
+    },
+    {
+      "character": "Player",
+      "line": "Really, what are you working on?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "To the West, the shrine needs... work, yes work. Things must be made better."
+    },
+    {
+      "character": "Player",
+      "line": "Well, um. Yes. Indeed. I'm sure Saradomin would be pleased."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Saradomin... Why are you really here?"
+    },
+    {
+      "character": "Player",
+      "line": "Like I said, I'm here to..."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Are you sure that's the only reason you are here, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm also here to visit a friend, Jake O'Niall."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Ahh, then this all makes sense. Yes, this is very good."
+    },
+    {
+      "character": "Player",
+      "line": "Err, how did you know my name?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "You told me when you came in."
+    },
+    {
+      "character": "Player",
+      "line": "No, no I didn't."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "It does not matter. One of my... villagers, must have mentioned that you are here."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Is there anything else you need to know?"
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about Witchaven?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "The land has seen much sorrow, much loss."
+    },
+    {
+      "character": "Player",
+      "line": "Are you talking about the Fishing Platform?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Fishing Platform? Oh yes, that. No. The platform will do much for this place."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "The platform heralds a new beginning for Witchaven, undreamed of by those who built it."
+    },
+    {
+      "character": "Player",
+      "line": "I thought it took away all the trade?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "This is true, but it has brought us so much more in return, so much more."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, and I thought the village hated the Fishing Platform."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "It was... a necessary step."
+    },
+    {
+      "character": "Player",
+      "line": "What improvements are you making to the shrine?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Ahh, the shrine - the future, our destiny, our heritage."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "That which the shrine holds can unlock a new path for all the village of Witchaven. And in time the whole of Gielinor."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, the whole of Gielinor? I thought it was just some old shrine to Saradomin."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "The history of that shrine should not be overlooked. It is ancient beyond your knowledge and much that shaped our history is contained within its walls."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a very interesting place. I may have to take a look."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "There is much to be done before it is opened."
+    },
+    {
+      "character": "Player",
+      "line": "So it's not completed yet?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "When you are ready, it may be that you will be unable to keep yourself away."
+    },
+    {
+      "character": "Player",
+      "line": "You know, you really are a strange person."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know you look very ill?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Ill? No, merely tired."
+    },
+    {
+      "character": "Player",
+      "line": "But you've turned a slightly sickly colour."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "A touch of food poisoning perhaps."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "This has been known to turn the face and give the impression of severe illness."
+    },
+    {
+      "character": "Player",
+      "line": "I've seen food poisoning. People normally don't look like... that."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Time is all that is needed. Yes, time to... get better."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I hope you get better soon."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Soon, all will be well again. Have no fear."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing at the moment thanks."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Then please feel free to stay in our village a while longer. Farewell."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Hello again,."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "So, what have you learned?"
+    },
+    {
+      "character": "Player",
+      "line": "Something is definitely very wrong here."
+    },
+    {
+      "character": "Player",
+      "line": "Mayor Hobb has confiscated Holgart's boat and given it to someone else."
+    },
+    {
+      "character": "Player",
+      "line": "As well as this, there's something very... fishy about him."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Hmm, fishy you say. Anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Brother Maledict is worried that his congregation is being led astray."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Did he say anything more?"
+    },
+    {
+      "character": "Player",
+      "line": "The shrine to the west of the village has been consecrated to Saradomin for centuries."
+    },
+    {
+      "character": "Player",
+      "line": "However, last time he was there, there was a very definite unpleasant feeling in the air."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Sounds like this shrine needs a thorough investigation."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "I recommend taking a good look down there - see if anything is amiss."
+    },
+    {
+      "character": "Player",
+      "line": "I was thinking the same thing. I'll get right on it."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Anything else I can do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd better carry my CommOrb so that Savant can see what's in there."
+    },
+    {
+      "character": "Savant",
+      "line": "Hello,. What can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing thanks Savant. I was just checking this thing still worked!"
+    },
+    {
+      "character": "Savant",
+      "line": "You shouldn't really waste my time like this,..."
+    },
+    {
+      "character": "Savant",
+      "line": "Still, no harm done I guess! Call me if you need me!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay Savant, will do."
+    },
+    {
+      "character": "Savant",
+      "line": ", hang on a second."
+    },
+    {
+      "character": "Player",
+      "line": "What's the problem?"
+    },
+    {
+      "character": "Savant",
+      "line": "The markings on that door look familiar. Can you take a scan for me please?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll get right on it."
+    },
+    {
+      "character": "Savant",
+      "line": "I thought so. Those glyphs look similar to some ancient Saradomin runes I studied at the academy."
+    },
+    {
+      "character": "Savant",
+      "line": "Hmm, I know a man who can translate them for us, just be careful as he's not a member of the Knights."
+    },
+    {
+      "character": "Player",
+      "line": "Um... So how am I supposed to show him the glyphs?"
+    },
+    {
+      "character": "Savant",
+      "line": "Empty some space out of your pack and use the CommOrb to get a transcription of the glyphs."
+    },
+    {
+      "character": "Savant",
+      "line": "I have added a transcript of the runes into your pack."
+    },
+    {
+      "character": "Savant",
+      "line": "The man you need to see is called Jorral. You can find him in his tower north-west of Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "Fantastic - I'll get right on it."
+    },
+    {
+      "character": "Player",
+      "line": "Hey Savant?"
+    },
+    {
+      "character": "Savant",
+      "line": "Yes, ?"
+    },
+    {
+      "character": "Player",
+      "line": "What did you think of those doors? Spooky hey?"
+    },
+    {
+      "character": "Savant",
+      "line": "Very, though I can't shake the feeling that I've seen something like that before."
+    },
+    {
+      "character": "Player",
+      "line": "They did look really out of place. I wonder who put them there?"
+    },
+    {
+      "character": "Savant",
+      "line": "The answer is probably contained within those strange glyphs."
+    },
+    {
+      "character": "Player",
+      "line": "I only hope that Jorral can translate them."
+    },
+    {
+      "character": "Savant",
+      "line": "He has a very good track record in translation of ancient runes."
+    },
+    {
+      "character": "Savant",
+      "line": "Although, to be fair he does tend to get a bit obsessive at times."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the warning Savant."
+    },
+    {
+      "character": "Player",
+      "line": "Speak to you soon."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Yes, can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "I understand that you are something of a historian?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Hah! I am the foremost historian in the world."
+    },
+    {
+      "character": "Player",
+      "line": "Great, I was wondering if you could translate something for me please?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Possibly, I am very busy you see and my services don't come cheap."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, how much are we talking?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Well, I am very busy, but I could fit you in sometime next month."
+    },
+    {
+      "character": "Player",
+      "line": "That was a bit longer than I was willing to wait. Can't you fit me in anytime sooner?"
+    },
+    {
+      "character": "Jorral",
+      "line": "I'm afraid not. You see, I have this ongoing series of texts that need to be catalogued as soon as possible."
+    },
+    {
+      "character": "Savant",
+      "line": "Psst,."
+    },
+    {
+      "character": "Player",
+      "line": "Savant?"
+    },
+    {
+      "character": "Jorral",
+      "line": "What?"
+    },
+    {
+      "character": "Savant",
+      "line": "Drat, I was hoping he wouldn't notice."
+    },
+    {
+      "character": "Jorral",
+      "line": "Excuse me, but are you talking to your backpack?"
+    },
+    {
+      "character": "Player",
+      "line": "Um, no. (whispers) Savant, help."
+    },
+    {
+      "character": "Savant",
+      "line": "Uh. Tell him that you're working for a wizard who's sending you telepathic instructions."
+    },
+    {
+      "character": "Player",
+      "line": "I, err, am working for a wizard who is giving me telepathic instructions."
+    },
+    {
+      "character": "Jorral",
+      "line": "Riiiight. Okay. What does this err, voice, want you to do?"
+    },
+    {
+      "character": "Savant",
+      "line": "We have a front company who's keeping Jorral on retainer."
+    },
+    {
+      "character": "Player",
+      "line": "We have a..."
+    },
+    {
+      "character": "Savant",
+      "line": "No! Hang on, I wasn't finished."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry."
+    },
+    {
+      "character": "Jorral",
+      "line": "Pardon?"
+    },
+    {
+      "character": "Player",
+      "line": "Not you."
+    },
+    {
+      "character": "Savant",
+      "line": "Can I finish now? Anyway, tell him you are working for Petmel Books."
+    },
+    {
+      "character": "Player",
+      "line": "Apparently, I'm working for Petmel Books and this document is from them."
+    },
+    {
+      "character": "Jorral",
+      "line": "Oh, right! That explains the mild insanity. No problem; hand over the document and I'll have a look"
+    },
+    {
+      "character": "Player",
+      "line": "Um, I don't appear to have it on me."
+    },
+    {
+      "character": "Jorral",
+      "line": "Well, run along and fetch it then."
+    },
+    {
+      "character": "Jorral",
+      "line": "Hmm. Interesting, very interesting."
+    },
+    {
+      "character": "Jorral",
+      "line": "It's an early variation on a script used by the priests of Saradomin a long time ago."
+    },
+    {
+      "character": "Player",
+      "line": "What does it say?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Look, you can see how the sentence structure and grammar evolved from the..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes I'm sure it's very interesting but what does it say?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Hmph. It seems this text pertains to a great battle between the temple of Saradomin and something called the Mahey'ish Medron."
+    },
+    {
+      "character": "Player",
+      "line": "The Mavis Merton?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Mahey'sh Medron. I think it's a corruption of an even earlier language and actually refers to something called Mother Mallum."
+    },
+    {
+      "character": "Player",
+      "line": "And?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Well, there isn't a whole lot more. They managed to trap the Mother Mallum behind a mystical prison where she was to wait for all time."
+    },
+    {
+      "character": "Player",
+      "line": "Well, thanks for that. You have been a great help."
+    },
+    {
+      "character": "Jorral",
+      "line": "Any time. I recommend a doctor for those voices, though."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, right. Goodbye."
+    },
+    {
+      "character": "Savant",
+      "line": ", come in. This is Savant."
+    },
+    {
+      "character": "Player",
+      "line": "Fantastic, I'm here Savant."
+    },
+    {
+      "character": "Savant",
+      "line": "That was the final piece of the puzzle I needed."
+    },
+    {
+      "character": "Savant",
+      "line": "I've cross-referenced the name Mahey'ish Medron with some other texts and been able to piece together some of the history."
+    },
+    {
+      "character": "Player",
+      "line": "Finally, some solid information."
+    },
+    {
+      "character": "Savant",
+      "line": "Indeed. It seems this isn't the first time the Temple Knights have run across this Mother Mallum character."
+    },
+    {
+      "character": "Player",
+      "line": "Now, why doesn't that surprise me?"
+    },
+    {
+      "character": "Savant",
+      "line": "Yes, it seems that centuries ago we discovered that a great evil had taken control of some of the most influential people in the world."
+    },
+    {
+      "character": "Savant",
+      "line": "That great evil was the Mother Mallum."
+    },
+    {
+      "character": "Player",
+      "line": "So what happened?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, it took the few remaining uncorrupted knights all their wit and strength to devise a method of removing sea slug possession."
+    },
+    {
+      "character": "Player",
+      "line": "Great, that means we can free those poor people who have already fallen."
+    },
+    {
+      "character": "Savant",
+      "line": "Once freed, the Temple Knights pursued a great crusade to destroy the Mother Mallum. Unfortunately, she was too powerful and the best they could do was to trap her inside a mystical prison."
+    },
+    {
+      "character": "Player",
+      "line": "It looks like she's breaking free of that prison."
+    },
+    {
+      "character": "Savant",
+      "line": "Right, the best thing we can do then is to repair or reenforce it before she escapes."
+    },
+    {
+      "character": "Player",
+      "line": "Did your research reveal how she was trapped in the first place?"
+    },
+    {
+      "character": "Savant",
+      "line": "No, I hit a brick wall after that. We had a dragon crash land on our headquarters a few years ago and the resulting fire destroyed a lot of our records."
+    },
+    {
+      "character": "Player",
+      "line": "Drat, that complicates things."
+    },
+    {
+      "character": "Savant",
+      "line": "I think the best thing you can do is take a look around Witchaven, speak to some of the locals and see if there are any clues to be found."
+    },
+    {
+      "character": "Player",
+      "line": "Righty ho. I'll get to it. Thanks Savant."
+    },
+    {
+      "character": "Savant",
+      "line": "Don't mention it,."
+    },
+    {
+      "character": "Player",
+      "line": "So, Savant. Can you tell me about the Mother Mallum again please?"
+    },
+    {
+      "character": "Savant",
+      "line": "Sure thing,."
+    },
+    {
+      "character": "Savant",
+      "line": "Well, this isn't the first time the Temple Knights have encountered the Mother Mallum."
+    },
+    {
+      "character": "Savant",
+      "line": "Centuries ago we discovered that a great evil had taken control of some of the most influential people in the world."
+    },
+    {
+      "character": "Savant",
+      "line": "It took the few remaining uncorrupted knights all their wit and strength to devise a method of removing sea slug possession."
+    },
+    {
+      "character": "Savant",
+      "line": "Now the best thing we could to is to repair or reinforce it before she escapes."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the reminder Savant."
+    },
+    {
+      "character": "Player",
+      "line": "Col. O'Niall, this is worse than we thought."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "I doubt that, but go on."
+    },
+    {
+      "character": "Player",
+      "line": "There is something trapped under the town of Witchaven."
+    },
+    {
+      "character": "Player",
+      "line": "Something the Temple Knights fought in ages past."
+    },
+    {
+      "character": "Player",
+      "line": "Something ancient and very, very evil."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "That's an awful big something girl."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Care to be more specific?"
+    },
+    {
+      "character": "Player",
+      "line": "It's called the Mother Mallum and may have some connection to the sea slugs."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Hmm, it can't be a coincidence that the Mayor is 'renovating' the shrine. He must be preparing to break the Mother Mallum free."
+    },
+    {
+      "character": "Player",
+      "line": "I agree, but what can we do about it?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Hmm, it might be worth speaking to that priest of Saradomin."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "See if he's got any more light to shed on this."
+    },
+    {
+      "character": "Player",
+      "line": "Of course! The temple of Saradomin has had a shrine here for centuries. I'll get right on it."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Anything new to report?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, but I was wondering if I could ask you some more questions?"
+    },
+    {
+      "character": "Player",
+      "line": "So Maledict."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, Maledict."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Hmm. Oh, yes. We are Maledict."
+    },
+    {
+      "character": "Player",
+      "line": "Are you feeling alright?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "It's nothing, just a little tired at the moment. So much work, so much to do."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds hauntingly familiar."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Was there something you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "I wanted to ask you something about the Shrine to Saradomin."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I have discovered a hidden passageway leading to a huge pair of double doors."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "And I thought you might know something about what is behind them."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Ahh. Right. No."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean, no?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Most of the history of the shrine is contained within the holy book of Saradomin. We have yet to read that portion of the text."
+    },
+    {
+      "character": "Player",
+      "line": "Great! Can I have a look please?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "Again with this no business. Why not?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Because the three pages pertaining to the shrine's history have been stolen."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, right, sorry. Would you like me to find them for you?"
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "It is imperative that you find them."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "Peace be with you."
+    },
+    {
+      "character": "Brother Maledict",
+      "line": "The joys of family are not to be underestimated child."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Hello again,. How are things?"
+    },
+    {
+      "character": "Player",
+      "line": "Frustrating, to be honest."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Sorry to hear that."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Is there any way I can help?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm not sure. Brother Maledict has asked me to find some pages that were torn out of his holy book."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "What, like this?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, just like that, but I can't seem to find..."
+    },
+    {
+      "character": "Player",
+      "line": "Where on Gielinor did you get that?"
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Someone pushed it under my door just before you arrived. I went outside to see who it was but they'd already gone by the time I got there."
+    },
+    {
+      "character": "Player",
+      "line": "Strange. Do you mind if I take that?"
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Sure, but I don't think you have enough space in your pack to hold it."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on, I'll just make some room."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Sure, here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks very much."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Glad I could be of service. Anything else you need?"
+    },
+    {
+      "character": "Player",
+      "line": "You know, you sound just like the mayor?"
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Really? That's the nicest thing anyone has ever said."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "I admire him a great deal. He works so hard for this town."
+    },
+    {
+      "character": "Player",
+      "line": "You look like him as well?"
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Hmm, I don't think I do."
+    },
+    {
+      "character": "Player",
+      "line": "No really, what with the unhealthy skin tone and bulging eyes. The resemblance is uncanny."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Well, I haven't spoken to him in a while. I don't get out much."
+    },
+    {
+      "character": "Player",
+      "line": "I can see why."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Maybe the Mayor has finally seen how much I admire him and has grown to admire me?"
+    },
+    {
+      "character": "Player",
+      "line": "Anything's possible I suppose. Wait a minute, you mean you've always looked that odd?"
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Hey, I resent that!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, it's just... Nevermind."
+    },
+    {
+      "character": "Player",
+      "line": "You are a bit too strange for me. Bye."
+    },
+    {
+      "character": "Ezekial Lovecraft",
+      "line": "Sniff. Yes, everyone says that."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": ", there you are."
+    },
+    {
+      "character": "Player",
+      "line": "Jake, I hope you can help me out here."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Perhaps. What is it that you need?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I... Hang on a moment, you're looking a bit sickly."
+    },
+    {
+      "character": "Player",
+      "line": "Oh no. They got to you too, didn't they?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Are you sure this is not some elaborate deception on my part, to fool them?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I don't know, but how can I trust you?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Because you seek the last page of Maledict's holy book. It is right here for you."
+    },
+    {
+      "character": "Player",
+      "line": "That seems a tad convenient."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Perhaps, but at the end of the day it is what you need. Do you want it or not?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not so sure that this is a good idea, but yes, I'll take it."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Well, you'll need to free up space for three items in your backpack first."
+    },
+    {
+      "character": "Player",
+      "line": "Right, I'll do that now."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "It has been torn into three pieces. You will need to stick them back together before you can use them."
+    },
+    {
+      "character": "Player",
+      "line": "Great, another complication I didn't need. I wonder if swamp paste will do the trick?"
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Don't mention it."
+    },
+    {
+      "character": "Savant",
+      "line": ", stop!"
+    },
+    {
+      "character": "Player",
+      "line": "What? I'm only trying to glue these pages back together."
+    },
+    {
+      "character": "Savant",
+      "line": "Please don't use oil-rich swamp paste on an ancient parchment. It'll ruin it."
+    },
+    {
+      "character": "Player",
+      "line": "So, how do I stick the pages back together?"
+    },
+    {
+      "character": "Savant",
+      "line": "Well, lucky for you, my preliminary sea slug analysis has just finished."
+    },
+    {
+      "character": "Savant",
+      "line": "It shows that if you render the slug down, it will form a very sticky glue that will dry clear."
+    },
+    {
+      "character": "Savant",
+      "line": "You will need to find someone who has years of experience in aquatic cooking or it could go horribly wrong."
+    },
+    {
+      "character": "Player",
+      "line": "No problem Savant. I'll snap to it right away."
+    },
+    {
+      "character": "Bailey",
+      "line": "Waaaaah!"
+    },
+    {
+      "character": "Player",
+      "line": "Arrrgh!"
+    },
+    {
+      "character": "Bailey",
+      "line": "Oh, sorry,. I thought you were one of those fishermen."
+    },
+    {
+      "character": "Player",
+      "line": "N-No problem. It was just a surprise that's all."
+    },
+    {
+      "character": "Bailey",
+      "line": "Well, I am scared half to death out here."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I have something that could help you out."
+    },
+    {
+      "character": "Bailey",
+      "line": "Really, great!"
+    },
+    {
+      "character": "Bailey",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I have a page that should give me the instructions on how to eliminate what could be the source of the sea slugs."
+    },
+    {
+      "character": "Bailey",
+      "line": "Then why haven't you used it?"
+    },
+    {
+      "character": "Player",
+      "line": "It's been torn up into three pieces."
+    },
+    {
+      "character": "Player",
+      "line": "I have it on good authority that you may be able to help me out by rendering a dead sea slug down for glue."
+    },
+    {
+      "character": "Bailey",
+      "line": "Well, you are in luck. I had been cooking a new batch of gumbo for my dinner. However, I've let it cook too long and it's become very thick and sticky."
+    },
+    {
+      "character": "Bailey",
+      "line": "It should make the perfect base for your glue."
+    },
+    {
+      "character": "Player",
+      "line": "Wow! That was good timing wasn't it."
+    },
+    {
+      "character": "Bailey",
+      "line": "Uncanny really."
+    },
+    {
+      "character": "Bailey",
+      "line": "Do you have a dead sea slug I can use?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah. Um. No, not at the moment."
+    },
+    {
+      "character": "Bailey",
+      "line": "Well, get back to me when you have."
+    },
+    {
+      "character": "Player",
+      "line": "Sure."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, here you go."
+    },
+    {
+      "character": "Bailey",
+      "line": "Right, I'll get cooking."
+    },
+    {
+      "character": "Bailey",
+      "line": "Right, there you go."
+    },
+    {
+      "character": "Bailey",
+      "line": "That should do the trick."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks very much. I'll get right to work on the parchment."
+    },
+    {
+      "character": "Bailey",
+      "line": "Good luck."
+    },
+    {
+      "character": "Player",
+      "line": "Um Colonel, I lost my CommOrb..."
+    },
+    {
+      "character": "Col. O'Niall",
+      "line": "Very careless of you, what? Here, take another, but be careful with this one!"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Ah, so good of you to finally join us. To be honest, I never thought you'd make it this far."
+    },
+    {
+      "character": "Player",
+      "line": "What? Mayor Hobb."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Oh come now. Surely you are smart enough to know when you've been played for a fool?"
+    },
+    {
+      "character": "Player",
+      "line": "Ahh, the penny drops. You got me to do your dirty work for you."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Indeed. The enchantment placed upon this door by the Temple Knights prevented anyone not working in their interests from opening it."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "With your superb timing, our plans have been advanced quicker than even we could have anticipated."
+    },
+    {
+      "character": "Player",
+      "line": "And what are they? What are your plans?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "You'd really like to know? Well, it seems the least I can do for you after all your hard work."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Behold, the beauteous visage of our beloved Prince."
+    },
+    {
+      "character": "Player",
+      "line": "So this is the Mother Mallum?"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Mwahahaha... Fool. No, this is not our Great Mother, though I sincerely wish you had the chance to gaze upon her."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Sadly for you, this will be the last thing you ever see."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "No! Do you realise what you have done?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. I have destroyed one of the great evils infesting this world."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "You fool! Did you think it would be so easy? The Prince will be reborn in all his glory!"
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "Now you face the true wrath of the Mother Mallum!"
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "Calm yourself, my child. We anticipated this eventuality. Go now and prepare the throne for our arrival."
+    },
+    {
+      "character": "Mayor Hobb",
+      "line": "By your command, my queen."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "So then, it is just us. What shall we do with you?"
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "Your mind is like an open book to us. Your very essence laid bare before our sight."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "You have great potential,. We should destroy you now, lest you interfere with our plans further."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "Or we could take you whole and make you an extension of our will."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "After millennia, this husk is almost spent and requires replacement. Yes, you will make an excellent host."
+    },
+    {
+      "character": "Player",
+      "line": "Never! I'll never serve you. I shall fight until my last breath before giving in."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "Yes, that's it, fight, fight with all your heart."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "It's always so much sweeter when they resist us."
+    },
+    {
+      "character": "Player",
+      "line": "Nooooooooo!"
+    },
+    {
+      "character": "Savant",
+      "line": ", are you there? We've been having a few technical problems..."
+    },
+    {
+      "character": "Player",
+      "line": "Savant! Help me, please, for the love of Saradomin!"
+    },
+    {
+      "character": "Savant",
+      "line": "By the gods! I'll get you out of there immediately! Initiating emergency teleport."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "Come with us,. Come and be with us for all eternity."
+    },
+    {
+      "character": "Player",
+      "line": "Savant!"
+    },
+    {
+      "character": "Savant",
+      "line": "She's blocking my magic! One second, I'll try something else."
+    },
+    {
+      "character": "Mother Mallum",
+      "line": "Ahh, it is useless to resist. Now we shall become as one."
+    },
+    {
+      "character": "Player",
+      "line": "Savant, now would be a good time!"
+    },
+    {
+      "character": "Savant",
+      "line": "Right, I think I've got it this time. Just one more second."
+    },
+    {
+      "character": "Savant",
+      "line": ", are you there?"
+    },
+    {
+      "character": "Savant",
+      "line": ", are you okay? Speak to me!"
+    },
+    {
+      "character": "Player",
+      "line": "Phew! Yes, Savant. That was too close for comfort."
+    },
+    {
+      "character": "Savant",
+      "line": "Thank Saradomin!"
+    },
+    {
+      "character": "Savant",
+      "line": "I thought we'd lost you there for a moment."
+    },
+    {
+      "character": "Savant",
+      "line": "I think you'd better talk to Sir Tiffy about this."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed. I'll just get my breath back first."
+    },
+    {
+      "character": "Player",
+      "line": "Sir Tiffy, it's all gone horribly wrong!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Nonsense, dear gal, it can't be as bad as all that."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Why don't you relax a little and tell Sir Tiffy what's wrong, hmm?"
+    },
+    {
+      "character": "Player",
+      "line": "The town of Witchaven has been overrun by mind controlling sea slugs!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Hmm, go on."
+    },
+    {
+      "character": "Player",
+      "line": "Well, the Mayor of the town was first, then brother Maledict, and finally Colonel O'Niall."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Oh dear, that is a shame. Please go on."
+    },
+    {
+      "character": "Player",
+      "line": "Well, they tricked me into opening the prison that kept their Queen imprisoned."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Ahh, the Mother Mallum. Dear-oh-dear, this isn't good news at all."
+    },
+    {
+      "character": "Player",
+      "line": "Well, it isn't all bad. I did manage to kill the Prince."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Excellent! That should delay her plans somewhat. If she follows the same pattern as last time, the important figures of Gielinor will be her next targets."
+    },
+    {
+      "character": "Player",
+      "line": "That cannot be allowed to happen! What can we do about it?"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "I think we are going to have to increase our surveillance somewhat."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Seeing as you already have a familiarity with the sea slugs, I am going to place you personally in charge of this mission."
+    },
+    {
+      "character": "Player",
+      "line": "If you think I'm ready for it, Sir Tiffy."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Of course you are, my gal. Now you will need access to some of the more restricted resources of the Temple Knights."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "So, with immediate effect, I am promoting you within the Temple Knights. Congratulations!"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "I only wish it were under better circumstances."
+    },
+    {
+      "character": "Player",
+      "line": "Wow! I am honoured."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Tish, pashaw and nonsense. It's about time you were rewarded for your work."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Now, with this promotion comes some new responsibilities. In due time you will have access to the Temple Knight headquarters, but for now we need to collate our"
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "information and plan ahead."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Report back to me in a little while and I'll have some new tasks for you."
+    },
+    {
+      "character": "Player",
+      "line": "Yes sir, I'll keep my eyes open for any signs of sea slug infiltration."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Good lass. Oh and Colonel O'Niall has been placed on our disavowed list. He should be considered extremely dangerous and is to be killed on sight."
+    },
+    {
+      "character": "Player",
+      "line": "Right, no problem. Well, I'll see you soon."
+    },
+    {
+      "character": "Sir Tiffy Cashien",
+      "line": "Ta ta, old bean."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bailey",
+      "description": "Middle-aged male, British accent, nervous and fearful tone. A paranoid fisherman trapped on the Fishing Platform, constantly worried about the mutant lobsters and sea slug threat surrounding him."
+    },
+    {
+      "name": "Brother Maledict",
+      "description": "Middle-aged male, soft British accent, gentle and pious tone. A Saradominist priest with a calm pastoral demeanor who becomes increasingly monotone and detached as the sea slugs take control."
+    },
+    {
+      "name": "Col. O'Niall",
+      "description": "Older male, gruff military British accent, no-nonsense and authoritative tone. A retired Temple Knight colonel who is direct, practical, and shows little patience for formalities or inexperience."
+    },
+    {
+      "name": "Ezekial Lovecraft",
+      "description": "Middle-aged male, British accent, awkward and slightly peculiar tone. A socially isolated fishing tackle shop owner with an odd appearance who admires the mayor and has an unusual family history."
+    },
+    {
+      "name": "Holgart",
+      "description": "Older male, nautical British accent with sailor slang, weathered and melancholic tone. A seasoned fisherman who speaks in maritime expressions and laments the loss of his confiscated boat."
+    },
+    {
+      "name": "Jeb",
+      "description": "Adult male, British accent, flat and emotionless monotone. A Witchaven villager possessed by sea slugs, speaking in detached robotic phrases with no personality or warmth."
+    },
+    {
+      "name": "Jorral",
+      "description": "Middle-aged male, refined British accent, pompous and scholarly tone. A self-important historian who considers himself the foremost expert in the world and becomes easily distracted by academic tangents."
+    },
+    {
+      "name": "Mayor Hobb",
+      "description": "Middle-aged male, British accent, unsettling and cryptic tone. The possessed mayor speaks in strange fragmented sentences with an eerie calmness, hinting at dark secrets while appearing sickly and dazed."
+    },
+    {
+      "name": "Mother Mallum",
+      "description": "Ancient female entity, deep resonant voice with otherworldly echo, sinister and seductive tone. The queen of the sea slugs speaks with terrifying power and malevolent intelligence spanning millennia."
+    },
+    {
+      "name": "Savant",
+      "description": "Young adult female, clear British accent, intelligent and professional tone. A brilliant Temple Knight researcher who communicates via magical orb, quick-thinking and resourceful in crisis situations."
+    },
+    {
+      "name": "Sir Tiffy Cashien",
+      "description": "Elderly male, upper-class British accent with old-fashioned vernacular, cheerful and eccentric tone. A jovial Temple Knight recruiter who uses phrases like 'what ho' and 'old bean' while maintaining a surprisingly sharp mind."
+    }
+  ]
+}

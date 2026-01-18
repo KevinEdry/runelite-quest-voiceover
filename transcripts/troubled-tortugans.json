@@ -1,0 +1,976 @@
+{
+  "branch": "quest/troubled-tortugans",
+  "quest_name": "Troubled Tortugans",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello? Are you okay? That's a pretty nasty looking injury you've got there..."
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "I'm... I'm fine... Please... leave me alone..."
+    },
+    {
+      "character": "Player",
+      "line": "Leave you alone? Look at you! You've been badly hurt and need help."
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "No... No help... I'll fix it myself..."
+    },
+    {
+      "character": "Player",
+      "line": "Now look, there is no way you're going to be able to fix this on your own. Either you let me help, or you die here. Is that what you want?"
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "No..."
+    },
+    {
+      "character": "Player",
+      "line": "Then what can I do to help?"
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "Bandages... I was trying to make... bandages. Seaweed and a... a palm leaf."
+    },
+    {
+      "character": "Player",
+      "line": "Right, you take it easy. I'll get your bandages sorted as quick as possible."
+    },
+    {
+      "character": "Player",
+      "line": "You're definitely not okay, but I guess I can't force help upon you if you don't want it. I'll be on my way, but please, you really should reconsider."
+    },
+    {
+      "character": "Player",
+      "line": "How are you doing there?"
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "I feel... fine."
+    },
+    {
+      "character": "Player",
+      "line": "You're a terrible liar, you know? I'll get your bandages sorted as quick as possible. Seaweed and a palm leaf, right?"
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "Right..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I've got those bandages. Let's get you sorted out..."
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "You... helped me?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course! Did you expect me to just leave you to die? I'm not a monster!"
+    },
+    {
+      "character": "Injured Tortugan",
+      "line": "I'm sorry for not trusting you, it's just... Well, I guess it doesn't matter now. I'm Floopa. Thank you for saving my life."
+    },
+    {
+      "character": "Player",
+      "line": "Don't mention it. I'm. Pleased to meet you, Floopa."
+    },
+    {
+      "character": "Floopa",
+      "line": "Thank you,."
+    },
+    {
+      "character": "Player",
+      "line": "Now, those bandages should do the job for the time being, but we need to get you some proper help."
+    },
+    {
+      "character": "Floopa",
+      "line": "Help? No, I'll be fine now. I can sort the rest out myself."
+    },
+    {
+      "character": "Player",
+      "line": "Can you? What is your medical background?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Well, I read a book once..."
+    },
+    {
+      "character": "Player",
+      "line": "Floopa, I understand that you don't trust me, but I promise I'm only here to help."
+    },
+    {
+      "character": "Floopa",
+      "line": "It's not that..."
+    },
+    {
+      "character": "Player",
+      "line": "What then?"
+    },
+    {
+      "character": "Floopa",
+      "line": "I'd have to go home..."
+    },
+    {
+      "character": "Player",
+      "line": "Home? What's bad about home?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Nothing, but... if I go there, then I'll have failed."
+    },
+    {
+      "character": "Player",
+      "line": "Failed at what?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Everything!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, those bandages aren't going to last forever, and unfortunately I don't think that book of yours can help... not unless you use the pages as replacement bandages."
+    },
+    {
+      "character": "Floopa",
+      "line": "You don't understand!"
+    },
+    {
+      "character": "Player",
+      "line": "Please, Floopa, let me take you home. We can use my boat."
+    },
+    {
+      "character": "Floopa",
+      "line": "But..."
+    },
+    {
+      "character": "Player",
+      "line": "But?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Alright, fine!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, Floopa. So, where is home?"
+    },
+    {
+      "character": "Floopa",
+      "line": "The Great Conch, to the south east. I guess I'll join you on your boat."
+    },
+    {
+      "character": "Floopa",
+      "line": "No point wasting time I guess. I'll join you on your boat."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I need to be going, Floopa?"
+    },
+    {
+      "character": "Floopa",
+      "line": "You need to head [north/north west/north east/south/south west/south east."
+    },
+    {
+      "character": "Floopa",
+      "line": "Head to the south of the island. You can dock there."
+    },
+    {
+      "character": "Floopa",
+      "line": "Right, we're here. I'll meet you ashore."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Goodness, Floopa, look at you!"
+    },
+    {
+      "character": "Floopa",
+      "line": "I'm sorry, Korel. I didn't want to come back, but..."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Nonsense! It would have been foolish to try and deal with this yourself! Now, get yourself over to Elder Raley's at once!"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Ah, human. I take it we have you to thank for getting Floopa to us?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right, though she wasn't overly keen on coming."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "That's not surprising, but it's good that she did. She would have been unlikely to survive that injury on her own."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think she'll be okay?"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "She will survive. With Elder Raley looking after her, I have no doubt of that. However, it is a nasty wound, and much of the damage will be permanent. Did she say how it happened?"
+    },
+    {
+      "character": "Player",
+      "line": "No. She seemed reluctant to tell me much at all, to be honest."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "I see. Well, thank you for helping her, human. Now, I've no doubt you have plenty to be doing. You should be on your way."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, would it be possible to stay? I'd be keen to make sure she's doing okay."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Don't take this the wrong way, human, but as you may have worked out from Floopa, we tortugans aren't always the biggest fans of company. We generally don't allow humans on the Conch."
+    },
+    {
+      "character": "Player",
+      "line": "Generally?"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "There are exceptions."
+    },
+    {
+      "character": "Player",
+      "line": "Could I be an exception?"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "I suppose it is within my right to invite you to remain here for a short time as what we call a tourist. It will allow you to stay on the island while Floopa recovers."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "However, you should be aware that the only way to permanently remain on the Conch is to undergo our Trial by Water and become an honorary tortugan."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... Well, let's do this tourist thing for now and we can worry about what happens after that once Floopa is doing better."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Very well. I will see that it is done. Now, if you'd like to check in on Floopa, you'll find her at Elder Raley's home. It's the first one on the right as you head into town."
+    },
+    {
+      "character": "Player",
+      "line": "I'll head right over."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Hello again, human. If you'd like to check in on Floopa, you'll find her at Elder Raley's home. It's the first one on the right as you head into town."
+    },
+    {
+      "character": "Mag",
+      "line": "Hello, human. I'm afraid I can't help you with anything until we've sorted out all the problems that gryphon caused."
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Sorry, but I can't stop to talk. That gryphon attack has caused more than a few problems that need sorting first."
+    },
+    {
+      "character": "Elder Krill",
+      "line": "Sorry, but I'm too busy to talk right now. I'm still getting things sorted after that gryphon attack."
+    },
+    {
+      "character": "Elder Strom",
+      "line": "No time to talk, human. That gryphon caused no end of problems that need to be dealt with. You'll need to come back later."
+    },
+    {
+      "character": "Elder Coco",
+      "line": "Sorry, human, but I don't have time to talk right now. I need to keep working on sorting out all the problems that gryphon caused."
+    },
+    {
+      "character": "Elder Reggle",
+      "line": "Sorry, human, but I'm not particularly interested in making conversation with those that I don't trust."
+    },
+    {
+      "character": "Chet",
+      "line": "Hello, human. Please be careful around the coral nurseries."
+    },
+    {
+      "character": "Chet",
+      "line": "Leave the coral nurseries alone please."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "... really no fuss at all! Anyway, has that potion done anything for you yet?"
+    },
+    {
+      "character": "Floopa",
+      "line": "I think so. I feel a lot less... like death."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Very good! Very good! A positive first step indeed! We'll give it a bit longer to make sure it properly kicks in, and then we can start on cleaning up that wound."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Oh look, a human! Is this the one you mentioned, Floopa?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Yes, but..., what are you doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, your friend on the docks gave me permission to stick around until you were feeling better."
+    },
+    {
+      "character": "Floopa",
+      "line": "Oh, thank you, but you really don't need..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Come now, Floopa. You should be more welcoming to the human."
+    },
+    {
+      "character": "Floopa",
+      "line": "Of course, you're right. I'm sorry,. I didn't mean to be rude. This is all just... a lot."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You can say that again! It looks like you've been in a fight with the Sharhai itself!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Ah, but you must forgive me, human. Here I am admonishing Floopa for her manners while not showing any myself! I'm Raley, one of the elders here on the Great Conch."
+    },
+    {
+      "character": "Player",
+      "line": "It's good to meet you. I'm."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You'll have to forgive me, but I'm a bit all over the place at the moment. We're still dealing with the aftermath of another blasted gryphon attack!"
+    },
+    {
+      "character": "Floopa",
+      "line": "An attack? Was anyone hurt?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "A few cuts and scrapes, but nothing serious. It did manage to make quite the mess around town though. At some point I'll need to help some of the more senior elders with repairs, but one thing at a time."
+    },
+    {
+      "character": "Player",
+      "line": "If you need help with repairs, maybe I could lend a hand? That way you can focus on looking after Floopa."
+    },
+    {
+      "character": "Floopa",
+      "line": "You've helped enough,. You don't need to trouble yourself further."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "I wouldn't say no to a bit of extra help, though Floopa is right,. Do not feel like you need to do any more."
+    },
+    {
+      "character": "Player",
+      "line": "It's not a problem. What repairs need doing?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Most of the elders will handle their own repair work, so it's just the more senior ones who'll need your help. I've made a list of the work that needs to be done."
+    },
+    {
+      "character": "Player",
+      "line": "What sort of materials will I need?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You'll need a mix of jatoba logs, sea shells and our very own scutes. You'll find some jatoba trees growing to the west of town and the shells are easy enough to find on the various beaches."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "As for the scutes, they get shed quite regularly, so it shouldn't be too hard to find a few dotted around the island."
+    },
+    {
+      "character": "Player",
+      "line": "Great! I'll get right to it."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Just come back and let me know if you get stuck with anything. Now, Floopa, I think that potion will have fully done its work now, so let's get to work on that wound."
+    },
+    {
+      "character": "Floopa",
+      "line": "This is going to hurt, isn't it?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Yes, it will probably sting a bit..."
+    },
+    {
+      "character": "Player",
+      "line": "How are you doing, Floopa?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Argh..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You might want to leave her to it for a bit. Tidying the wound isn't the most pleasant of experiences."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Welcome back,. How are those repairs going?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Player",
+      "line": "Could I have another list of the work that needs doing?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Of course!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Don't forget, you'll need a mix of jatoba logs, sea shells and our very own scutes. You'll find some jatoba trees growing to the west of town and the shells are easy enough to find on the various beaches."
+    },
+    {
+      "character": "Player",
+      "line": "Great! Thanks!"
+    },
+    {
+      "character": "Elder Krill",
+      "line": "You must be the human that Korel spoke of. Welcome to the Conch."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you! I hear you have a couple of things in need of repair. I've offered to get them sorted."
+    },
+    {
+      "character": "Elder Krill",
+      "line": "That is very generous of you, human. Thank you."
+    },
+    {
+      "character": "Elder Strom",
+      "line": "Ah, you must be the new tourist."
+    },
+    {
+      "character": "Player",
+      "line": "That's me! I've offered to help out with some repairs around town."
+    },
+    {
+      "character": "Elder Strom",
+      "line": "Well, in that case, you should get stuck right in."
+    },
+    {
+      "character": "Elder Coco",
+      "line": "Hello there, human. Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm here to help you. I'm sorting out some of the repairs that need doing."
+    },
+    {
+      "character": "Elder Coco",
+      "line": "Oh, I see. That's very generous of you."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Hello again, human. I have finished making arrangements for you to remain on the island as a tourist until Floopa recovers."
+    },
+    {
+      "character": "Player",
+      "line": "Perfect! Thank you for sorting that."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "It's not a problem."
+    },
+    {
+      "character": "Player",
+      "line": "I think that's everything. I should head back to Raley and Floopa."
+    },
+    {
+      "character": "Elder Krill",
+      "line": "Thank you for helping with those repairs, human. It shouldn't be long now until I can start selling my goods again."
+    },
+    {
+      "character": "Elder Strom",
+      "line": "Not bad on those repairs. Still plenty of things I need to do though. If you need something, you'll have to come back later."
+    },
+    {
+      "character": "Elder Coco",
+      "line": "Hello there, human. Thank you for helping with those repairs. I should hopefully have the stall open again soon."
+    },
+    {
+      "character": "Player",
+      "line": "Good news! The repairs are all sorted."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Wonderful! And, you'll be pleased to know that I was successful in properly tidying up Floopa's wound. I'll need her to stay here for a while to make sure it properly heals, but I expect a full recovery!"
+    },
+    {
+      "character": "Player",
+      "line": "That's fantastic!"
+    },
+    {
+      "character": "Floopa",
+      "line": "Is it? Even if I recover, my flipper... it's gone. Without it I'm... useless..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Floopa, this is a highly traumatic experience you've gone through, and I won't lie to you, it will change your life forever. But Floopa, you are not, and never will be, useless."
+    },
+    {
+      "character": "Floopa",
+      "line": "I hope you're right..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You should get some rest. We will sort you out with a place to stay here for as long as you need, and I will be on hand to help you however I can."
+    },
+    {
+      "character": "Player",
+      "line": "I'm happy to help as well. Is there anything I can do?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "For Floopa? No. Rest is what she now needs. However, and please do say no if it's too much to ask, you might be able to help us out some more with that gryphon problem."
+    },
+    {
+      "character": "Player",
+      "line": "Of course. What do you need?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Unfortunately, while we were able to injure it, the gryphon managed to escape before we could finish it off. One that aggressive can't be allowed to return."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Korel was planning to deal with it himself, but other matters have required his attention."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure I can track it down."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Very good! You really are too kind! It seemed like the injury prevented the gryphon from flying, so you hopefully won't have much trouble picking up its trail. I suggest you start in the middle of town."
+    },
+    {
+      "character": "Player",
+      "line": "Will do. I'm sure I'll have it dealt with in no time!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Very good!"
+    },
+    {
+      "character": "Player",
+      "line": "Why are humans generally not allowed here?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Oh, I hope you haven't taken offense! It's really nothing personal. It's just how we do things."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "It's not just limited to humans either. You might have noticed that there are no adult tortugans here on the Conch, just juveniles and elders."
+    },
+    {
+      "character": "Player",
+      "line": "So it's a societal thing?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Yes, I suppose it is. We tortugans like our privacy, and we don't like being overly dependent on others. It is these preferences that have formed our way of life."
+    },
+    {
+      "character": "Player",
+      "line": "I see. I guess that gives me another question then. If the adults aren't here, where are they?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Out in the wider world, living their lives. They return here from time to time, usually when it is time to mate."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, so that explains why Floopa was reluctant to return here."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Yes, there can be a certain level of... pride, shall we say, amongst the younger adults. They have been known to see independence as a constant requirement."
+    },
+    {
+      "character": "Floopa",
+      "line": "I can hear you, you know?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "It's rude to eavesdrop, Floopa! You should be resting!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Anyway, as I was saying, it is a trait seen amongst many of the younger adults. They soon grow out of it. No one wants to be a burden of course, but we elders understand that there is no shame in asking for help."
+    },
+    {
+      "character": "Player",
+      "line": "It sounds like a good balance."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Indeed it is."
+    },
+    {
+      "character": "Player",
+      "line": "Are gryphons a common problem for your people?"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Unfortunately so. They are the main predator we have to deal with here on the Conch, and it seems they have decided that we are quite the delicacy."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Thankfully, most of them keep to the quieter parts of the island, making them easier to handle. However, from time to time, one will grow bold enough to try and target the town."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry. It can't be nice living with that threat."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Ah, it is nothing to be sad about. We have grown used to it. Besides, while the gryphons may prey upon us, in many ways, we prey upon them as well."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Killing them keeps their numbers under control, and their claws and feathers come in quite useful. In fact, all tortugans must obtain a gryphon claw as part of their Trial by Water."
+    },
+    {
+      "character": "Player",
+      "line": "Trial by Water? Korel mentioned that as well."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "It is a rite of passage that all juvenile tortugans must go through on their journey to adulthood. On rare occasions, members of other races have undergone the Trial themselves, becoming honourary tortugans."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Perhaps at some point you will be able to take on the trial yourself. You have already shown yourself to be both capable and trustworthy. However, that is a conversation for another day."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get to it."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Floopa."
+    },
+    {
+      "character": "Floopa",
+      "line": "Sorry, but Raley says I need to get some rest. We'll talk later, once you've sorted out that gryphon."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Welcome back,. Any luck with that gryphon?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it, but I'm sure I'll have it dealt with soon."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You should hopefully be able to pick up its trail in the middle of town. Good luck!"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "... holding it at bay, but they need support quick!"
+    },
+    {
+      "character": "Player",
+      "line": "What's going on?"
+    },
+    {
+      "character": "Floopa",
+      "line": "Another gryphon attack, but this time on the Little Pearl!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "This doesn't make sense! They've never attacked the Pearl before!"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "I'm heading over right away. The eggs must be protected!"
+    },
+    {
+      "character": "Player",
+      "line": "What can I do?"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Join me, human! Sail to the Little Pearl as fast as you can and help protect our eggs!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You'll find the Pearl south east of the Conch. It shouldn't take you long to get there, but make sure you don't go underprepared! It sounds like this gryphon is one of the larger ones."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Yes, make sure you speak to Elder Blunn outside first. He can sort you out with a suitable shield."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll grab one of those shields and set off right away!"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "I will meet you there, human."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Quickly, human! You need to sail to the Little Pearl, south east of the Conch. I will meet you there. Oh, and don't forget to pick up a shield from Elder Blunn outside!"
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Hurry, ! You need to head to the Little Pearl!"
+    },
+    {
+      "character": "Floopa",
+      "line": "You need to get to the Pearl, ! We can't lose those eggs!"
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Hello, human. Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "I need a shield to protect me against one of the larger gryphons. I'm afraid it's quite urgent."
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Ah, now that is something I can sort for you. I started making these at the suggestion of a human tourist. They're fashioned in the style of our own shells."
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "We use them alongside our spears, but for a being of your size, wearing them on your back would work best."
+    },
+    {
+      "character": "Player",
+      "line": "Like my very own shell?"
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Precisely! Normally I would charge for one of these, but you claim the situation is urgent, and I trust you are not lying. As such, I will grant you one for free."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Do not lose it, human, for I won't be able to give you another for free. Any more will come at a cost."
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Hello again, human. I assume you're here for that shield?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right."
+    },
+    {
+      "character": "Elder Blunn",
+      "line": "Do not lose it, for I won't be able to give you another for free. Any more will come at a cost."
+    },
+    {
+      "character": "Player",
+      "line": "What's all that about?"
+    },
+    {
+      "character": "Crewmate",
+      "line": "Er... Problem over here, Captain!"
+    },
+    {
+      "character": "Elder Hubber",
+      "line": "Thank you for your help with that gryphon, human."
+    },
+    {
+      "character": "Elder Root",
+      "line": "The eggs are safe once more! Good work, human."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Very good work, human!"
+    },
+    {
+      "character": "Player",
+      "line": "Are the eggs okay?"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "As good as can be expected. We lost a fair few, but it could have been much worse."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry about the ones that were lost."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Even without a gryphon involved, not all eggs make it. It is an unfortunate reality of life. You need not apologise."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "Now, I need to get to work on finding out how this happened. To our knowledge, no gryphon has ever travelled this far from the Conch before."
+    },
+    {
+      "character": "Player",
+      "line": "About that... It may be nothing, but when I arrived here, I saw a ship with red sails sailing away from the island. You don't think it's connected, do you?"
+    },
+    {
+      "character": "Elder Korel",
+      "line": "A ship with red sails? Curious... and concerning... Hmm..."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "You should return to Raley and Floopa on the Conch, human. Tell them what you have told me. See if they can make any sense of it."
+    },
+    {
+      "character": "Player",
+      "line": "Alright. I'll head back right away."
+    },
+    {
+      "character": "Elder Korel",
+      "line": "You should return to Raley and Floopa on the Conch, human. Tell them what you told me about that ship with the red sails. See if they can make any sense of it."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "You're back, ! What news from the Pearl?"
+    },
+    {
+      "character": "Player",
+      "line": "The gryphon has been dealt with. The eggs are safe."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Fantastic news!"
+    },
+    {
+      "character": "Floopa",
+      "line": "Did you see anything that might explain why the gryphon attacked?"
+    },
+    {
+      "character": "Player",
+      "line": "Possibly, but it's hard to say for sure. There was a ship near the island. It had red sails."
+    },
+    {
+      "character": "Floopa",
+      "line": "Red sails? Surely not..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "What is it, Floopa?"
+    },
+    {
+      "character": "Floopa",
+      "line": "It's... I'm not sure. It might... It might have something to do with my injury."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Floopa",
+      "line": "My captain... My crew... They betrayed me. Stabbed me with my own spear and abandoned me to the waves..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "Floopa... I'm so sorry..."
+    },
+    {
+      "character": "Player",
+      "line": "This ship? Does it have something to do with your old crew?"
+    },
+    {
+      "character": "Floopa",
+      "line": "I think so... but I need time to think... I need to work out what it all means..."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "More than that! You need more rest as well., we should give her the time she needs. Return to us later once she has rested."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "In the meantime, may I suggest you take this opportunity to further explore our island. I'm sure you'll find it has a lot to offer."
+    },
+    {
+      "character": "Player",
+      "line": "I might just do that. Thank you."
+    },
+    {
+      "character": "Elder Raley",
+      "line": "No, no, no! Thank you, ! We will talk again soon."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Chet",
+      "description": "Youthful male, soft British accent, earnest and eager tone, a juvenile Tortugan gardener still learning his craft who takes his responsibility over the coral nurseries seriously."
+    },
+    {
+      "name": "Crewmate",
+      "description": "Adult male, rough seafaring British accent, panicked and urgent tone, a sailor caught off guard by unexpected danger."
+    },
+    {
+      "name": "Elder Blunn",
+      "description": "Elderly male, warm British accent, measured and patient tone, a wise Tortugan elder who specializes in smithing and speaks with quiet authority."
+    },
+    {
+      "name": "Elder Coco",
+      "description": "Elderly female, gentle British accent, kind and apologetic tone, a Tortugan elder who specializes in crafting and speaks politely even when busy."
+    },
+    {
+      "name": "Elder Hubber",
+      "description": "Elderly male, gravelly British accent, grateful and stoic tone, a Tortugan elder responsible for protecting the eggs on the Little Pearl."
+    },
+    {
+      "name": "Elder Korel",
+      "description": "Elderly male, authoritative British accent, stern but fair tone, a Tortugan elder who specializes in hunting and serves as a leader figure who maintains order."
+    },
+    {
+      "name": "Elder Krill",
+      "description": "Elderly male, weathered British accent, curt and practical tone, a Tortugan elder who specializes in fishing and has little time for small talk."
+    },
+    {
+      "name": "Elder Raley",
+      "description": "Elderly male, cheerful British accent, warm and scattered tone, a Tortugan elder who specializes in herblore and is excitable, kind-hearted, and a bit all over the place."
+    },
+    {
+      "name": "Elder Reggle",
+      "description": "Elderly male, gruff British accent, suspicious and dismissive tone, a Tortugan elder who specializes in farming and is distrustful of outsiders."
+    },
+    {
+      "name": "Elder Root",
+      "description": "Elderly female, calm British accent, dignified and reassuring tone, a Tortugan elder responsible for protecting the eggs on the Little Pearl."
+    },
+    {
+      "name": "Elder Strom",
+      "description": "Elderly male, brusque British accent, no-nonsense and direct tone, a Tortugan elder who specializes in hunting and wastes no words."
+    },
+    {
+      "name": "Floopa",
+      "description": "Adult female, tired British accent, vulnerable and stubborn tone, a Tortugan explorer who has suffered trauma and struggles between her pride and accepting help."
+    },
+    {
+      "name": "Injured Tortugan",
+      "description": "Adult female, weak British accent, pained and reluctant tone, a wounded Tortugan who is distrustful of help and speaks with labored breath."
+    },
+    {
+      "name": "Mag",
+      "description": "Youthful male, polite British accent, helpful but apologetic tone, a juvenile Tortugan who is learning herblore and assists at Elder Raley's stall."
+    }
+  ]
+}

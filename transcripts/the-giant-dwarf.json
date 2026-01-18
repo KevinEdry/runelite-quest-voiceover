@@ -1,0 +1,2520 @@
+{
+  "branch": "quest/the-giant-dwarf",
+  "quest_name": "The Giant Dwarf",
+  "lines": [
+    {
+      "character": "Dwarven Boatman",
+      "line": "Ho there, human!"
+    },
+    {
+      "character": "Player",
+      "line": "."
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Ho there, ! Want to take a ride with me?"
+    },
+    {
+      "character": "Player",
+      "line": "Where are you going? Across the river?"
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "No no, that's what the ferryman is for! I'm going to Keldagrim, my home!"
+    },
+    {
+      "character": "Player",
+      "line": "How much will that cost me then?"
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "For a human like you, I can do it for free!"
+    },
+    {
+      "character": "Player",
+      "line": "That's a deal!"
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Excellent! I'm just waiting for my ship to arrive and then we can go."
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Mind, this trip could take a few minutes! Are you sure you're ready to go as well?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm ready and don't mind it taking a few minutes."
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Well, let's not waste any more time then!"
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Look, there's the statue of King Alvis, guarding the entrance to Keldagrim!"
+    },
+    {
+      "character": "Player",
+      "line": "Amazing! And we're going to go straight past it?"
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "That's right!"
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Er, hold on! There's something wrong!"
+    },
+    {
+      "character": "Both",
+      "line": "Aaargh!"
+    },
+    {
+      "character": "Black Guard Berserker",
+      "line": "Halt! By order of the Black Guard, you are under arrest!"
+    },
+    {
+      "character": "Player",
+      "line": "What?? I didn't do anything! It wasn't me!"
+    },
+    {
+      "character": "Black Guard Berserker",
+      "line": "Come with us, human! Commander Veldaban wants a word with you!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Identify yourself, human!"
+    },
+    {
+      "character": "Player",
+      "line": "I err, I'm. I was told I was under arrest. I had a little accident on the way in here."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Ah, so you're the one who knocked over the statue of our glorious king!"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so... I mean, I didn't do it on purpose or anything..."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Ah, don't worry about it!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "We haven't been ruled by a king for many a year... that statue was long overdue for replacement anyway. You're not under arrest, I merely wanted to talk to you."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "But let me introduce myself. I am Veldaban, son of Dondakan. I am the Commander of the Black Guard in Keldagrim."
+    },
+    {
+      "character": "Player",
+      "line": "Dondakan, you say?"
+    },
+    {
+      "character": "Player",
+      "line": "I helped your father in the mines south of the city."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Ah, so you are the one! I heard you banished a demon by defeating its avatar, most impressive."
+    },
+    {
+      "character": "Player",
+      "line": "I'm helping your father in the mines south of the city."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Ah, he is forever trying to break open that rock of his, until his death I sometimes think."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't think it's possible?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Perhaps, human, perhaps... but if even our multicannon does not dent it, what chance is there really?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, ehm... nice to meet you, Veldaban."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Now listen carefully. I have a task for you."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "I want you to go and see the local sculptor and help him build a new statue."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Will you do this for us?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I can't be bothered."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "You destroy our statue and you cannot be bothered to help rebuild it? By Guthix, you are rude... even for a human!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I will do this."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "You are a good human,."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Now, I need you to go to Blasidar, he is a sculptor who lives in Keldagrim-East."
+    },
+    {
+      "character": "Player",
+      "line": "To be honest I'm not much of a sculptor myself."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Oh, don't worry! I just need you to help him out while he rebuilds the statue."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "I'm sure there are many tasks that he needs doing."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't have time right now, I'll be back later."
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Sure, sure! Come back when you need to!"
+    },
+    {
+      "character": "Player",
+      "line": "I prefer the mines to the city."
+    },
+    {
+      "character": "Dwarven Boatman",
+      "line": "Well, suit yourself then!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "How are you getting on with rebuilding our statue, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't really done much yet..."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Get back to it as soon as you can, please!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, can you help me?"
+    },
+    {
+      "character": "Riki the sculptor's model",
+      "line": "Talk... to Blasidar."
+    },
+    {
+      "character": "Player",
+      "line": "What? No, I was wondering if you could help me."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, alright."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me, are you Blasidar, the famous sculptor?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Why, yes, yes, that I am!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, well, I'm. Veldaban of the Black Guard sent me to you, you see. Said you might need some help with the statue."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Oh, I don't need an assistant sculptor, really, I can do just fine on my own."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not a sculptor."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "And I've also got a model here, you see, to base my statue on."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not a model!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "But come to think of it, I do need some errands run. Yes, quite important errands too."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Yes, you will do just fine."
+    },
+    {
+      "character": "Player",
+      "line": "Ehm, right, okay."
+    },
+    {
+      "character": "Player",
+      "line": "So what did you need doing?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Well, see... the Consortium has commisioned me to rebuild the statue exactly the way it was."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "But the statue itself has broken into a million pieces... and we dwarves aren't very good painters, you know, so we don't have any paintings of it either."
+    },
+    {
+      "character": "Player",
+      "line": "Not a very artistic race, then, are you?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "No, that's not what I said, I said we're not very good painters."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "We're excellent with, for example, stone. Oh yes, quite good if I say so myself."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "But I digress... simply speaking, I need some help with getting some items that I can base the new statue on."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Will you be able to help me with this, ?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "How rude is that? I don't think the Black Guard will be very pleased with you!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Excellent, excellent! Now what I need is the following..."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "I will need a pair of boots, the most exquisite boots you can find. The more they look like the original the better, but I don't think you'll be able to find an exact match."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "For the torso, I need clothes that look like King Alvis' clothes. I'm not sure where you would be able to find that, but I'm sure you'll manage."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Also, I need a battleaxe. Now this is particularly important. You are in luck, however, as I believe King Alvis' original axe still survives."
+    },
+    {
+      "character": "Player",
+      "line": "Right, so I need a pair of boots, a piece of clothing and a battleaxe. Is that all?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "For now, for now! I wish you good luck, and hurry back with the items!"
+    },
+    {
+      "character": "Player",
+      "line": "But... wait, wait, how am I supposed to find all this?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "I don't know! You're supposed to find that out for me!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "But it's a beautiful city, Keldagrim is, I'm sure you'll see many things while you do these tasks!"
+    },
+    {
+      "character": "Player",
+      "line": "What was it you needed doing again?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Welcome to my clothes stall, can I help you with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm looking for some special clothes."
+    },
+    {
+      "character": "Vermundi",
+      "line": "Oh, that sounds interesting, what's this about?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm helping the sculptor to rebuild the statue of King Alvis. But he wants to know what his clothes looked like."
+    },
+    {
+      "character": "Vermundi",
+      "line": "Oh dear, that statue is in a terrible mess, isn't it?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "I could hear the tumult from over here!"
+    },
+    {
+      "character": "Player",
+      "line": "But the clothes, do you have any similar clothes?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Oh no, no, I can't quite recall what the clothes looked like. But I know someone who can!"
+    },
+    {
+      "character": "Player",
+      "line": "Who's that?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Well, I'm sure Hugi the librarian in West can help you along."
+    },
+    {
+      "character": "Player",
+      "line": "West?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Keldagrim-West, dear... on the other side of the Kelda, towards the north end of the city."
+    },
+    {
+      "character": "Vermundi",
+      "line": "I'm sure he can show you the exact designs of the clothes."
+    },
+    {
+      "character": "Player",
+      "line": "But I need the actual clothes themselves, not just the designs."
+    },
+    {
+      "character": "Vermundi",
+      "line": "Oh, just bring the designs to me then, I'll fix you up some nice clothes!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Sounds like a fun little thing to do!"
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks a lot, I'll check out the library!"
+    },
+    {
+      "character": "Librarian",
+      "line": "Welcome to the Keldagrim library, human traveller!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about King Alvis's clothes?"
+    },
+    {
+      "character": "Librarian",
+      "line": "His clothes? How do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm helping Blasidar the sculptor to rebuild the statue of King Alvis, but he needs to know the design of his clothes."
+    },
+    {
+      "character": "Librarian",
+      "line": "I see, I see."
+    },
+    {
+      "character": "Librarian",
+      "line": "There is a book, somewhere in the library, that may help you. It is the 'Scholars Guide to Dwarven Costumes' and it contains the designs of the costumes of a lot of old Kings and dwarven dignitaries."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like just the thing. Where exactly could I find it?"
+    },
+    {
+      "character": "Librarian",
+      "line": "Let me think... I believe it is on the top shelf of one of the bookcases in the library, because it is such an old book."
+    },
+    {
+      "character": "Player",
+      "line": "Can you be any more specific? Upstairs, downstairs?"
+    },
+    {
+      "character": "Librarian",
+      "line": "I don't remember, sorry. You will have to try several bookcases. You will probably need the ladders, tall a human though you are."
+    },
+    {
+      "character": "Player",
+      "line": "Well, thanks, I'll have a look."
+    },
+    {
+      "character": "Player",
+      "line": "Bah. Annoying dwarven ladders, they're much too flimsy."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, about those special clothes again..."
+    },
+    {
+      "character": "Vermundi",
+      "line": "Oh yes, did you get those designs from the librarian?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't actually spoken to the librarian yet, let me do that now."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't have them yet, but I can get them for you. The librarian has a book."
+    },
+    {
+      "character": "Vermundi",
+      "line": "A book, how wonderful!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have a book right here, have a look at it!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Oh, I see, I see!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "I can definitely help you with this."
+    },
+    {
+      "character": "Vermundi",
+      "line": "I only have one small problem, you see... I've run out of fuel for my spinning machine."
+    },
+    {
+      "character": "Player",
+      "line": "What does it run on?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Steam, of course!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "But I've used up all my coal and wood and I don't have the time to leave my stall to get them."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll get them for you. Let's see... some coal and some logs. Shouldn't be too hard."
+    },
+    {
+      "character": "Vermundi",
+      "line": "Well, like I said, I can't do anything really without my spinning machine."
+    },
+    {
+      "character": "Player",
+      "line": "Right, and what did you need again to start the engine?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Some coal and logs should do it!"
+    },
+    {
+      "character": "Player",
+      "line": "I've got them right here!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Then put them in the machine dear!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Well, the spinning machine is all ready now, except that it needs to be powered up."
+    },
+    {
+      "character": "Vermundi",
+      "line": "As soon as it's up and running, I can spin your clothes for you."
+    },
+    {
+      "character": "Player",
+      "line": "How does that work?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Why, you light the logs of course!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay, I'll do it! Just a moment."
+    },
+    {
+      "character": "Player",
+      "line": "Can I have those clothes now?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "Yes, I can spin them for you, but I will have to ask you for a small payment of money for them."
+    },
+    {
+      "character": "Player",
+      "line": "What, after all that work?"
+    },
+    {
+      "character": "Vermundi",
+      "line": "I'm sorry, but the cloth to spin this is expensive. But for you, I can make the clothes for a nominal fee of 200 credits."
+    },
+    {
+      "character": "Player",
+      "line": "I'll pay, I'll pay."
+    },
+    {
+      "character": "Vermundi",
+      "line": "Wonderful, let me get started then!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "There we go! And look how beautiful these clothes look!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you very much!"
+    },
+    {
+      "character": "Player",
+      "line": "I won't pay, that's outrageous!"
+    },
+    {
+      "character": "Vermundi",
+      "line": "I'm sorry you feel that way, I was looking forward to making these clothes."
+    },
+    {
+      "character": "Player",
+      "line": "These clothes are too small for me, I might ruin them if I put them on. I'd better take them to the sculptor instead."
+    },
+    {
+      "character": "Saro",
+      "line": "Welcome to my store, human! Are you interested in buying anything?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm looking for a pair of special boots."
+    },
+    {
+      "character": "Saro",
+      "line": "Boots, you say? What kind of boots?"
+    },
+    {
+      "character": "Player",
+      "line": "The best you have! Boots fit for a king!"
+    },
+    {
+      "character": "Saro",
+      "line": "Hmm, let's see... Well, I've got this pair of very exclusive boots. They're not armoured, but they look nice."
+    },
+    {
+      "character": "Saro",
+      "line": "Or rather, I had. I'm afraid I sold them, come to think of it."
+    },
+    {
+      "character": "Player",
+      "line": "And you don't have anything else?"
+    },
+    {
+      "character": "Saro",
+      "line": "I don't normally stock boots, no, nothing that's appropriate for... what did you say? A king?"
+    },
+    {
+      "character": "Player",
+      "line": "Please, tell me! Who did you sell the boots to?"
+    },
+    {
+      "character": "Saro",
+      "line": "Old chap here in the west part of town, his name is Dromund. He's quite well known, not only for his wealth, but also for his... pecularities."
+    },
+    {
+      "character": "Player",
+      "line": "What house does he live in?"
+    },
+    {
+      "character": "Saro",
+      "line": "Go out the door, and head north. You'll have the headquarters of the Black Guard on your left and the bank on your right. Keep heading north and you'll find Dromund's house on your right. Can't miss it!"
+    },
+    {
+      "character": "Saro",
+      "line": "And if you're going to try to get the boots off him, good luck. You'll need it."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Saro",
+      "line": "I thought I already told you where to get them?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes. The old dwarf north of the bank has them, I remember now."
+    },
+    {
+      "character": "Dromund",
+      "line": "You're trespassing, get out!"
+    },
+    {
+      "character": "Player",
+      "line": "Calm down! I just want to ask you a few questions."
+    },
+    {
+      "character": "Dromund",
+      "line": "Are you with the Black Guard or something?"
+    },
+    {
+      "character": "Dromund",
+      "line": "No, you wouldn't be, you're just a human."
+    },
+    {
+      "character": "Dromund",
+      "line": "What do you want from me?"
+    },
+    {
+      "character": "Player",
+      "line": "I went to the Quality Armour shop. The proprietor told me you have just recently purchased a pair of boots from him."
+    },
+    {
+      "character": "Dromund",
+      "line": "Right, and nice they look too on my display tables."
+    },
+    {
+      "character": "Player",
+      "line": "You're not actually using them then? Might I be able to buy them off you?"
+    },
+    {
+      "character": "Dromund",
+      "line": "Good one, human!"
+    },
+    {
+      "character": "Dromund",
+      "line": "They're mine and the last thing I'll do is part with them!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me, how much will you accept for these boots?"
+    },
+    {
+      "character": "Dromund",
+      "line": "Get out you pesky human! The boots are mine and you're not having them!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure you don't want to give me those boots?"
+    },
+    {
+      "character": "Dromund",
+      "line": "Get out of here before I get one of my servants to throw you out!"
+    },
+    {
+      "character": "Dromund",
+      "line": "What are you doing there?!"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing..."
+    },
+    {
+      "character": "Cat",
+      "line": "Get your hands off that, you dirty human!"
+    },
+    {
+      "character": "Dromund",
+      "line": "Stay away from there! Who do you think you are, coming into my house like that?"
+    },
+    {
+      "character": "Dromund",
+      "line": "What are you doing, casting spells in my house? Get out!"
+    },
+    {
+      "character": "Dromund",
+      "line": "Hey! Is there someone at my window?"
+    },
+    {
+      "character": "Dromund",
+      "line": "Scram before I get the Black Guard to arrest you!"
+    },
+    {
+      "character": "Player",
+      "line": "What, wear just one boot? Besides, the boot is too precious for that."
+    },
+    {
+      "character": "Player",
+      "line": "I shouldn't wear these boots, I don't want anything to happen to them before I bring them to the sculptor."
+    },
+    {
+      "character": "Santiri",
+      "line": "Welcome, human, to the Quality Weapons Shop! Can I interest you in a purchase?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'm looking for a particular battleaxe."
+    },
+    {
+      "character": "Santiri",
+      "line": "Fancy a particular colour then? Blue is quite popular at the moment, and red is on the rise."
+    },
+    {
+      "character": "Player",
+      "line": "No, actually, I'm looking for King Alvis' axe."
+    },
+    {
+      "character": "Santiri",
+      "line": "The King's axe!"
+    },
+    {
+      "character": "Santiri",
+      "line": "What would a human want with it?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been tasked by Veldaban, Commander of the Black Guard in Keldagrim, to assist in every way possible with the rebuilding of King Alvis' statue."
+    },
+    {
+      "character": "Santiri",
+      "line": "Oh yes, the statue... a most unfortunate incident."
+    },
+    {
+      "character": "Santiri",
+      "line": "Not that I'm entirely sure that it was merely an accident, of course."
+    },
+    {
+      "character": "Player",
+      "line": "How do you mean?"
+    },
+    {
+      "character": "Santiri",
+      "line": "I'm not entirely sure what I mean, human. But the axe, you say, what exactly did you need it for?"
+    },
+    {
+      "character": "Player",
+      "line": "Just give me the axe already, I know you have it!"
+    },
+    {
+      "character": "Santiri",
+      "line": "I'll give it to you, embedded into your head!"
+    },
+    {
+      "character": "Player",
+      "line": "I've had just about enough of this! Goodbye!"
+    },
+    {
+      "character": "Player",
+      "line": "Blasidar the sculptor needs it for his statue. He wants a model for the axe, you see, and he believes the original axe still survives."
+    },
+    {
+      "character": "Santiri",
+      "line": "And so it does!"
+    },
+    {
+      "character": "Santiri",
+      "line": "It's been in my family's care for a few generations now, after it has been lost for a long time."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to it?"
+    },
+    {
+      "character": "Santiri",
+      "line": "I do not know how it got lost, but my great-grandfather found it at the banks of the Kelda, further downstream from the city."
+    },
+    {
+      "character": "Player",
+      "line": "Can I see it?"
+    },
+    {
+      "character": "Santiri",
+      "line": "There is not much left of it, to be honest. The blade has almost completely rusted away, and the sapphires on the hilt were either stolen or were washed away by the river before it was found."
+    },
+    {
+      "character": "Santiri",
+      "line": "I doubt it is useful to Blasidar in this state, master sculptor though he is."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure this is the real axe then?"
+    },
+    {
+      "character": "Santiri",
+      "line": "Not entirely, no, but it matches the description well enough, and the holes for the sapphires are still clearly visible on the hilt. But since no one has a similar claim, I don't really care. It's genuine to me."
+    },
+    {
+      "character": "Player",
+      "line": "This is tedious, I've lost interest."
+    },
+    {
+      "character": "Santiri",
+      "line": "I'll get back to work then."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I can repair the axe?"
+    },
+    {
+      "character": "Santiri",
+      "line": "On your own? I doubt it. The sapphires, perhaps, if you are a skilled enough crafter. But the blade..."
+    },
+    {
+      "character": "Santiri",
+      "line": "Your feeble smithing skills will be of no use. No, you will need expert help on this."
+    },
+    {
+      "character": "Santiri",
+      "line": "You're a decent smith, but this is far beyond your capabilities."
+    },
+    {
+      "character": "Santiri",
+      "line": "Formidable though your smithing skills are, this is beyond your capabilities."
+    },
+    {
+      "character": "Santiri",
+      "line": "Clearly you are a master smith, perhaps one of the best human smiths in all of Gielinor. Yet this is beyond even you."
+    },
+    {
+      "character": "Santiri",
+      "line": "What you need is the skills of an Imcando dwarf... but they must all be dead by now."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I could try and find one?"
+    },
+    {
+      "character": "Santiri",
+      "line": "Yes, perhaps, perhaps..."
+    },
+    {
+      "character": "Santiri",
+      "line": "Perhaps the librarian, just due east of here, can help you."
+    },
+    {
+      "character": "Santiri",
+      "line": "Yes, I like the sound of this!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I know where I can find an Imcando dwarf!"
+    },
+    {
+      "character": "Player",
+      "line": "He actually made a sword for me a while ago. I'm sure I can get him to help me again."
+    },
+    {
+      "character": "Santiri",
+      "line": "Really? That is amazing news."
+    },
+    {
+      "character": "Player",
+      "line": "He lives on a cliff at the very south end of Asgarnia, just south of Port Sarim. I can visit him again if you like."
+    },
+    {
+      "character": "Santiri",
+      "line": "Excellent! You can take a cart to Ice Mountain from the station here, that should help you get there faster."
+    },
+    {
+      "character": "Santiri",
+      "line": "I will entrust you with King Alvis' battleaxe, then, human."
+    },
+    {
+      "character": "Santiri",
+      "line": "Help to restore it to its former glory!"
+    },
+    {
+      "character": "Santiri",
+      "line": "And please ask Blasidar to return it to me after he's done with it, I would sure love to see the restored blade again."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I will not disappoint you."
+    },
+    {
+      "character": "Player",
+      "line": "I don't really care for it after all."
+    },
+    {
+      "character": "Santiri",
+      "line": "Then stop wasting my time."
+    },
+    {
+      "character": "Santiri",
+      "line": "Ah, you mean King Alvis' axe? You still have it, yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but I was just wondering what I should be doing with this piece of junk."
+    },
+    {
+      "character": "Santiri",
+      "line": "Piece of junk??"
+    },
+    {
+      "character": "Santiri",
+      "line": "I thought you were going to put sapphires on it and bring it to an Imcando dwarf?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, of course, that's what I was going to do!"
+    },
+    {
+      "character": "Player",
+      "line": "I... sort of... ehm..."
+    },
+    {
+      "character": "Player",
+      "line": "Look, I lost it!"
+    },
+    {
+      "character": "Santiri",
+      "line": "At least you are honest, human."
+    },
+    {
+      "character": "Santiri",
+      "line": "I found it, actually, after you lost it. I'm not happy with giving it to you again, but the rebuilding of the statue is important."
+    },
+    {
+      "character": "Santiri",
+      "line": "Be careful with it this time, alright?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and I've crafted some sapphires on the hilt, look!"
+    },
+    {
+      "character": "Santiri",
+      "line": "That's a great start! Now if you can find an Imcando dwarf so the blade can be repaired, that would be even better!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and I got Thurgo the Imcando dwarf to fix it up nice and proper! Look!"
+    },
+    {
+      "character": "Santiri",
+      "line": "Oh, that's beautiful! All it needs now is three sapphires crafted onto the hilt."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and look, it's all fixed up now! I got Thurgo the Imcando dwarf to fix the blade, and I've crafted three sapphires onto the hilt."
+    },
+    {
+      "character": "Santiri",
+      "line": "That is amazing! Absolutely astounding work!"
+    },
+    {
+      "character": "Santiri",
+      "line": "Go and give Blasidar a hand with it then, and make sure to tell him to send it back to me when he's done with it!"
+    },
+    {
+      "character": "Santiri",
+      "line": "Ah, you mean King Alvis' axe? Didn't you give it to Blasidar?"
+    },
+    {
+      "character": "Player",
+      "line": "I did, actually, I was just wondering if he returned it to you yet."
+    },
+    {
+      "character": "Santiri",
+      "line": "No, I believe he's still using it."
+    },
+    {
+      "character": "Santiri",
+      "line": "But thanks for your help with restoring the axe to its former glory!"
+    },
+    {
+      "character": "Player",
+      "line": "I should be very careful with this battleaxe, it's almost a museum piece! I don't want to damage it by wielding it."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me find an Imcando dwarf?"
+    },
+    {
+      "character": "Librarian",
+      "line": "An Imcando dwarf, you say?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I need the help of an Imcando dwarf to repair an ancient battleaxe."
+    },
+    {
+      "character": "Librarian",
+      "line": "Ah, I'm afraid I can't help you here, Keldagrim lost contact with that particular tribe of dwarves a long time ago."
+    },
+    {
+      "character": "Player",
+      "line": "Is there no one else who can help me?"
+    },
+    {
+      "character": "Librarian",
+      "line": "I suppose you could try Reldo, in the palace of Varrock. He is a most capable human librarian and knows quite a bit about us dwarves."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think he can help me?"
+    },
+    {
+      "character": "Librarian",
+      "line": "He lives quite a good deal closer to where the Imcando used to live than we do, so it is not unlikely. Tell him Hugi the librarian sent you and I'm sure he'll be happy to help."
+    },
+    {
+      "character": "Librarian",
+      "line": "And take a cart to Ice Mountain from the station in the east side of the city. It'll help you get to Varrock faster."
+    },
+    {
+      "character": "Player",
+      "line": "What do you know about the Imcando dwarves?"
+    },
+    {
+      "character": "Reldo",
+      "line": "The Imcando dwarves, you say? Let's see..."
+    },
+    {
+      "character": "Reldo",
+      "line": "Ah, yes... For many hundreds of years, they were the world's most skilled smiths. They used secret smithing knowledge passed down from generation to generation."
+    },
+    {
+      "character": "Reldo",
+      "line": "Unfortunately, about a century ago, the once thriving group was wiped out during the barbarian invasions of that time."
+    },
+    {
+      "character": "Reldo",
+      "line": "I believe a few of them survived, but with the bulk of their population destroyed, their numbers dwindled even further. If any are left now, they'll no doubt keep to themselves."
+    },
+    {
+      "character": "Reldo",
+      "line": "However, I have heard tales of their love for redberry pie. Perhaps one of those could convince one to reveal their true heritage."
+    },
+    {
+      "character": "Player",
+      "line": "So I just go around offering random dwarves redberry pie?"
+    },
+    {
+      "character": "Reldo",
+      "line": "Well, not totally random. Apparently some of the surviving Imcando made a home for themselves near the cliffs on the Asgarnian southern peninsula. That would be a good place to start."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me with this ancient axe?"
+    },
+    {
+      "character": "Thurgo",
+      "line": "No. I don't do that anymore. I'm getting old."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Well, you know what to do! Get me another redberry pie and I'll have a look at that axe of yours!"
+    },
+    {
+      "character": "Player",
+      "line": "Would you like a redberry pie?"
+    },
+    {
+      "character": "Thurgo",
+      "line": "I'd never say no to a redberry pie! We Imcando dwarves love them - they're GREAT!"
+    },
+    {
+      "character": "Thurgo",
+      "line": "By Guthix! THAT was good pie! Anyone who makes pie like THAT has got to be alright!"
+    },
+    {
+      "character": "Thurgo",
+      "line": "You make excellent redberry pies, so how can I refuse? Let me see what's wrong with it then."
+    },
+    {
+      "character": "Player",
+      "line": "Here... the blade of this axe has become extremely dull and brittle. I need it restored to its former glory."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Its former glory eh? May I ask where exactly you got this axe from?"
+    },
+    {
+      "character": "Player",
+      "line": "It was given to me by someone in Keldagrim. I prefer not to say any more than that."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Ah, Keldagrim. We have not been there for a long time."
+    },
+    {
+      "character": "Player",
+      "line": "We?"
+    },
+    {
+      "character": "Thurgo",
+      "line": "Never mind."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Hand me the axe and I'll fix it right up for you."
+    },
+    {
+      "character": "Player",
+      "line": "Will you need any materials?"
+    },
+    {
+      "character": "Player",
+      "line": "You don't want any blurite this time?"
+    },
+    {
+      "character": "Thurgo",
+      "line": "Oh no, blurite is not appropriate here. No no, this is going to be a very delicate piece of work, requiring only a small amount in the way of raw materials."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Can you get me one bar of iron? Then I'll be able to start my work on this."
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Player",
+      "line": "I've got one right here."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Good, good! Hand me the axe and I'll get to work."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Here's your axe,. It looks like there's some damage to the hilt as well, probably some missing sapphires. But I'm sure you can take care of that yourself."
+    },
+    {
+      "character": "Thurgo",
+      "line": "Here you go, good as new."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for your help Thurgo!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "How are you getting along with those items, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have your boots yet."
+    },
+    {
+      "character": "Player",
+      "line": "I have your boots!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Excellent, excellent! Go and give them to Riki over there so I can start my work on the base of the statue!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "What else?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have your clothes yet."
+    },
+    {
+      "character": "Player",
+      "line": "I also don't have your clothes yet, I'm afraid."
+    },
+    {
+      "character": "Player",
+      "line": "I had Vermundi make these clothes!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Oh yes, Vermundi is a good woman, she's very reliable. Wonderful clothing. Give it to Riki please."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "And? The battleaxe?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, no, I'm still looking for it."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Look a little harder please!"
+    },
+    {
+      "character": "Player",
+      "line": "Look, I've got it right here."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "What, that old thing? Is that a piece of rubbish you found in the garbage?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "It looks so brittle it might well fall apart at any moment. I can't base my statue on that!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Besides, from what I recall of the original axe, this doesn't even look anything like it."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, yes, I've got it right here!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Good job! Riki is your man, right over there. Give it to him please!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll be back later with all those items!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll be back with the rest of the items later!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back with the last item before you know it!"
+    },
+    {
+      "character": "Player",
+      "line": "I have some clothes for you to wear."
+    },
+    {
+      "character": "Riki the sculptor's model",
+      "line": "Thank... you."
+    },
+    {
+      "character": "Player",
+      "line": "I have this battleaxe for you."
+    },
+    {
+      "character": "Player",
+      "line": "Here, I have these boots for you to wear."
+    },
+    {
+      "character": "Player",
+      "line": "And look, I have some clothes as well!"
+    },
+    {
+      "character": "Player",
+      "line": "And finally, I have this battleaxe for you!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, you're looking nice in that outfit!"
+    },
+    {
+      "character": "Riki the sculptor's model",
+      "line": "Yes... I do."
+    },
+    {
+      "character": "Player",
+      "line": "So is the job done now?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello?"
+    },
+    {
+      "character": "Riki the sculptor's model",
+      "line": "No... it isn't."
+    },
+    {
+      "character": "Player",
+      "line": "Care to tell me why not?"
+    },
+    {
+      "character": "Player",
+      "line": "It's very tiring trying to talk to you, you know?"
+    },
+    {
+      "character": "Player",
+      "line": "I've all the items you asked me to get you. Can you make the statue now?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Yes, yes, that will do just fine. There is only one problem now, I still need to make the head."
+    },
+    {
+      "character": "Player",
+      "line": "So you need me to find a crown now as well?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Oh no, no no, apparantly the Consortium has decided that crowns are out of fashion. As well as kings. Well, kings have been out of fashion here for hundreds of years."
+    },
+    {
+      "character": "Player",
+      "line": "So what is the head supposed to look like now?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "I don't think they've quite made a decision on that. You see, I think each of the directors of the Consortium fancies their own face on top of the statue."
+    },
+    {
+      "character": "Player",
+      "line": "What? But I thought the whole point was that it would look like king what's-his-face?"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Yes, the Consortium can be a little fickle like that, unfortunately."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "But can you go and see if they've made a decision yet? I can't very well continue working on this statue without knowing what the face should look like, can I?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I suppose you can't. Alright, I'll check it out."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Great! In the mean time, I'll build the statue up to the neck!"
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Any word from the Consortium yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, the directors have not made a decision yet."
+    },
+    {
+      "character": "Blasidar the sculptor",
+      "line": "Then please, try to persuade one of the directors to force the Consortium into a decision. I must finish this statue before I can move onto my other work."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad I don't have to talk to you anymore!"
+    },
+    {
+      "character": "Riki the sculptor's model",
+      "line": "Hrm."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "What can I do for you, human?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Can I help you with anything?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Was there anything you wanted?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "What did you need of the ?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Is there anything you need assistance with?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "And what can I do for you?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Oh, hello there ! Nice to see you!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "And what can I do for you on this fine day?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Welcome back to the palace of Keldagrim, !"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Come in, come in! And tell us what you need!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "How may the assist you today?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Come to help us out some more, ?"
+    },
+    {
+      "character": "Purple Pewter Secretary",
+      "line": "Oh, by the way, I really like that outfit of yours!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything I can help you with?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Have you completed your task yet? Did you get our pieces of ?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Then please, hurry up before time runs out."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "You should speak directly to the director."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I'm afraid I have no more work to offer you, please speak to the director."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "There's always work to be done, yes."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Just a moment."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Yes, the always has work to do!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Yes, I think we do have something for you."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Let's see... yes, yes, I do have a task for you."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I believe we have some work available, yes."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Oh yes, as you know the always has work!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Ah, always looking for ways to help us!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Of course, we reserve our best tasks just for you, !"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The is pleased to offer more work to an eager worker such as yourself, !"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I do believe we do, yes!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I dare say we have something for you, yes."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Naturally, my good human, naturally!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "We need pieces of in the next minutes."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "That ore needs to go on the trade floor soon, please hurry back with it."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I will await your return soon, then."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The clock is ticking, please hurry back."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Thanks, it's appreciated."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The has noted your willingness to help."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Excellent, I thought you'd like this!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "You never disappoint, !"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The appreciates the hard work you do."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Thanks! But hurry back please, we really need that ore!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I'm happy to hear that!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "That's unfortunate to hear."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "That does not reflect well on you."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Please, it would be appreciated if you made up your mind before you ask. I'm very busy you know."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Fair enough, maybe some other time?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I can't say I'm too pleased to hear that, to be honest."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The isn't too pleased to hear that."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Please, in that case, you're wasting my time."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Oh. Didn't know you were the type to refuse work."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "That's a great shame,."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I suppose you have other important business to attend to?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Is everything okay? I didn't think you normally refused our tasks."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "No? That's unusual for you,."
+    },
+    {
+      "character": "Player",
+      "line": "I need to speak to the director."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "And I would grant you such a request, why?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "You need to prove yourself to the company first before such a privilege is bestowed on you."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I don't see any reason to grant such a privilege to a lowly worker. No, first you must prove yourself."
+    },
+    {
+      "character": "Player",
+      "line": "But you don't understand. I've come from Blasidar the sculptor."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Blasidar does not command the."
+    },
+    {
+      "character": "Player",
+      "line": "But... Commander Veldaban of the Black Guard has instructed me to do this!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Nor does the Black Guard. They are under the command of the Consortium, not the other way around."
+    },
+    {
+      "character": "Player",
+      "line": "How can I prove myself?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "It's all very simple. You perform some tasks for us, help us out a little when we need something done urgently, and in reward you will rise in our estimation."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "That is not a request that I can grant you yet, even though I am impressed with you so far."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The appreciates what you have done so far, but the director will only speak to the most loyal of followers."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I see. This sounds like a most serious matter, but I cannot bend the rules."
+    },
+    {
+      "character": "Player",
+      "line": "What else must I do to prove myself?"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Keep up what you're doing, ! The more you help us out, the more we appreciate you!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I'm sure the director will be happy to talk to you once the time is right."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Why, naturally ! The director is standing right over there!"
+    },
+    {
+      "character": "Player",
+      "line": "I've completed your task! Here is your ore!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "And not a minute too late as well. Well done."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I am happy to see that the trust we put in you has not been in vain."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "The recognizes your performance."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "That's good to hear, thanks."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I have to admit, I was worried for a moment, but I'm glad to see you came through for us."
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Well done, well done!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "You're always reliable, !"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "You have done a great service to the !"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Wonderful! I will personally oversee that it goes to the trade floor on time!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "I knew you were the right human for the job!"
+    },
+    {
+      "character": "[company name] Secretary",
+      "line": "Thanks, I will make sure the director hears of your expeditiousness!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have another task for me?"
+    },
+    {
+      "character": "Red Axe Secretary",
+      "line": "Don't bother me!"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Brown Engine Secretary",
+      "line": "I am the head secretary of the Brown Engine."
+    },
+    {
+      "character": "Player",
+      "line": "The what?"
+    },
+    {
+      "character": "Brown Engine Secretary",
+      "line": "The Brown Engine. We are one of the eight major mining companies, but our standard is higher than that of all the others."
+    },
+    {
+      "character": "Player",
+      "line": "How is that?"
+    },
+    {
+      "character": "Brown Engine Secretary",
+      "line": "Our policy is strictly gentlemen only, you see."
+    },
+    {
+      "character": "Player",
+      "line": "I don't quite see how that is good, but if you say so..."
+    },
+    {
+      "character": "Player",
+      "line": "And this is a good thing, how?"
+    },
+    {
+      "character": "Brown Engine Secretary",
+      "line": "Oh, my dear, please don't take it personally."
+    },
+    {
+      "character": "Player",
+      "line": "Don't patronise me. I've had enough of this."
+    },
+    {
+      "character": "Brown Engine Secretary",
+      "line": "The Brown Engine is a gentleman only society, I'm afraid."
+    },
+    {
+      "character": "Player",
+      "line": "How rude."
+    },
+    {
+      "character": "Yellow Fortune Secretary",
+      "line": "I am the head secretary of the Yellow Fortune."
+    },
+    {
+      "character": "Yellow Fortune Secretary",
+      "line": "The Yellow Fortune! We are the grandest of the mining companies that make up the Consortium!"
+    },
+    {
+      "character": "Yellow Fortune Secretary",
+      "line": "Why, because men are not allowed to work in our company, of course!"
+    },
+    {
+      "character": "Player",
+      "line": "Ha, I see what you mean!"
+    },
+    {
+      "character": "Player",
+      "line": "That's a bit drastic, don't you think?"
+    },
+    {
+      "character": "Yellow Fortune Secretary",
+      "line": "We simply consider men to be weak and inferior."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'd better go now, I don't like being insulted."
+    },
+    {
+      "character": "Yellow Fortune Secretary",
+      "line": "The Yellow Fortune does not employ the services of men."
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Yellow Fortune Secretary",
+      "line": "We often find that they are too weak or too slow to be of sufficient use."
+    },
+    {
+      "character": "Player",
+      "line": "You shouldn't say such things to people."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "How did you get in here? I don't have time to talk to you!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Talk to my secretary, I don't have time to deal with you."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "My secretary will deal with any inquiries you have about the."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I'm busy, please leave."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I'm too important to talk to the likes of you, leave."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I can't help you, go and see my secretary."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Do you mind? You're blocking my view."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Today is not a good day, can you come back tomorrow?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "My secretary is sitting just over there, thank you."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "If you're looking for the market, it's downstairs."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "You are an exceptional member of the."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "! I've been hearing great things about you!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Come in, my secretary has been saying good things about you."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "What have you come to ask of us, honourable ?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Have you come to serve the again, ?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Come, let us converse a while on your future with us."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "You are proving yourself a loyal member of the, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Hello again, come in!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Come in, come in my friend!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "The is pleased to see you again!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Welcome back, it's great to see you again!"
+    },
+    {
+      "character": "Player",
+      "line": "It's an honour to meet you!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I'm always happy to make time for you, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "And I'm honoured to make some time for you, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Don't mention it, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Almost as much an honour as it is to meet you again, !"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to officially join your company."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Hmm, interesting, a human joining the."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "But no. You may have proven yourself to my head secretary, and much appreciated that is as well, you have not fully proven yourself to me yet."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "So no, I cannot grant you this request yet, but I will certainly keep it in mind. In the mean time make sure you help out the in any way you can."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "But you have certainly proven yourself to be a most worthwhile contributor. I have not seen such dedication in all my years as a director of this company."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "It is agreed then! You are now a 'trusted associate' of the. Welcome!"
+    },
+    {
+      "character": "Player",
+      "line": "I will not disappoint you!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any more tasks for me?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Have you completed your current task yet? Did you get me my bars of ?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it, sorry."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Hurry then, I don't have time for all this."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Verily, I believe I do."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I do believe so, yes."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Why, certainly."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "A moment please, let me check."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Yes, I have something appropriate for you here."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "You don't need to do this anymore, you know?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "We need bars of in the next minutes."
+    },
+    {
+      "character": "Player",
+      "line": "I'll take it."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Happy to hear that!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Admirable attitude, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "The appreciates what you're doing,."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Excellent, get to it now!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Then hurry back, I'm counting on you!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I'm sorry to hear that, the company really needed those bars."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I don't understand, I thought you were a loyal follower?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Then why did you ask, ?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "That is an unusual thing to say for you,."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Oh? I thought you liked doing this kind of work?"
+    },
+    {
+      "character": "Player",
+      "line": "Blasidar the sculptor has sent me."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Oh yes? This is in connection with the statue, presumably?"
+    },
+    {
+      "character": "Player",
+      "line": "He says he needs to know what the head of the statue should look like now that it's no longer going to look like King Alvis."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Oh yes, Hreidmar suggested that it should be one of us. The Era of Kings is long gone, after all. Now the Consortium provides peace and above all prosperity... so the statue should reflect this."
+    },
+    {
+      "character": "Player",
+      "line": "Hreidmar? Who is Hreidmar?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "He is the Director of the Red Axe. Ha, that old fool quite fancies his own head up on that statue, he thinks he can get away with that just because his company is one of the largest in the Consortium."
+    },
+    {
+      "character": "Player",
+      "line": "So I shouldn't tell the sculptor that he should base it on him then?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Certainly not!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "The Consortium has yet to make a decision... all the companies are vying for the honour."
+    },
+    {
+      "character": "Player",
+      "line": "I would support you."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Ah, would you now, would you?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I'm not altogether sure... much appreciated though you are, you are not really part of the. Not as such."
+    },
+    {
+      "character": "Player",
+      "line": "What if I were?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Were what? A part of the ?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Yes, that might certainly change things..."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "This might well work. Yes, an outsider to the city might have considerably more influence than one might expect, if we play our cards right."
+    },
+    {
+      "character": "Player",
+      "line": "How do you mean, play our cards right?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "We wait until the most opportune moment for you to show your support. Yes, you must really come along to one of our meetings."
+    },
+    {
+      "character": "Player",
+      "line": "Now you're really losing me... what meetings?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "A Consortium meeting, when all the directors meet on the top floor of the palace. We have them from time to time. We'll have another one soon, to once and for all solve our little problem with the statue."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "So what do you say, will you speak out for me at the next meeting, so that they will base the head of the statue on me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! Long live the !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Hurrah!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to have a think about that."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Understandable, yes. Just be sure not to think about it for too long."
+    },
+    {
+      "character": "Player",
+      "line": "I hope you lot figure it out soon. This little job is starting to tire me out."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Don't count on it being any time soon. We're rather locked in an impasse on it."
+    },
+    {
+      "character": "Player",
+      "line": "Just my luck."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you for your time."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Not at all, it was a delight to speak to you once more!"
+    },
+    {
+      "character": "Player",
+      "line": "I've completed your task! Here are your bars!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I will get my secretary to send this to the trade floor at once!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "You never fail to satisfy, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "You are a true asset to the !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "I am well pleased with your work, !"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Guthix be praised!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "The can always rely on you,."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Have you ever considered joining the, ? You would truly make a marvelous member."
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "I am conducting a meeting here, begone!"
+    },
+    {
+      "character": "Brown Engine Director",
+      "line": "Hello, are you trying to get in touch with your female side?"
+    },
+    {
+      "character": "Brown Engine Director",
+      "line": "Hello there! You're looking a little feminine today, !"
+    },
+    {
+      "character": "Yellow Fortune Director",
+      "line": "You are looking more and more like a male these days,... be careful now!"
+    },
+    {
+      "character": "Yellow Fortune Director",
+      "line": "Hello there,. You look a little masculine today!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "What news from the Consortium, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I have told the director of the that I will support their bid to be put upon the statue."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Then perhaps they can finally end their impasse! Well, let's go to the meeting then!"
+    },
+    {
+      "character": "Player",
+      "line": "What, now?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Well... not exactly now, no. I believe the Consortium has some other important business to attend to first. Come back in a minute or so."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Yes, now! Are you ready?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "I do have to warn you, this meeting may take a while. Do you want to attend the meeting personally, or do you simply want the minutes of the meetings so you can read what happened afterwards?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to see the meeting."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Happy to hear that! Let's hurry then, I think the meeting is already starting!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Oh, I'm sorry, I was mistaken. The meeting hasn't started yet, we need to wait a bit longer."
+    },
+    {
+      "character": "Player",
+      "line": "I do NOT want to attend, I don't have time to waste."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": ", are you absolutely sure? You might not get another chance like this. Are you sure you just want to read the summary of the meeting instead of seeing the actual meeting?"
+    },
+    {
+      "character": "Player",
+      "line": "On second thought, I can spare a few minutes to attend."
+    },
+    {
+      "character": "Player",
+      "line": "I just have a lot of smithing to do today, I can't attend."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Very well. I'll give you the meeting minutes after it's finished."
+    },
+    {
+      "character": "Player",
+      "line": "No, I need more time."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Very well then. Come back when you're ready, but hurry! You don't want to miss the meeting."
+    },
+    {
+      "character": "Brown Engine Director",
+      "line": "Clearly it is I who is most suitable."
+    },
+    {
+      "character": "Yellow Fortune Director",
+      "line": "You? How preposterous! Evidently, it should be my head atop that statue!"
+    },
+    {
+      "character": "Silver Cog Director",
+      "line": "Surely, your claim to the statue can be no better than anyone else's?"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "Enough of this, everyone! This bickering is pointless."
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "The Red Axe is the largest and wealthiest mining company, we have all rights here!"
+    },
+    {
+      "character": "White Chisel Director",
+      "line": "The fact that The Red Axe does its accounting behind closed doors makes that claim quite dubious!"
+    },
+    {
+      "character": "Blue Opal Director",
+      "line": "We are not assembled here to squabble over accounting details or the economic state of the Consortium."
+    },
+    {
+      "character": "White Chisel Director",
+      "line": "Dondakan's breaking of his rock, and the finding of his gold, has laid doubt to that claim!"
+    },
+    {
+      "character": "Blue Opal Director",
+      "line": "It is not yet clear what consequences that discovery will have on the economy."
+    },
+    {
+      "character": "Green Gemstone Director",
+      "line": "Perhaps, then, we should choose a director for the statue at random?"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "No! I will go on top of that statue! I proposed this in the first place!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Veldaban, Commander of the Black Guard in Keldagrim, presenting himself to the Consortium with a guest."
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "A human, at a Consortium meeting? What is this?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "This human helped to rebuild the statue. this honour, surely?"
+    },
+    {
+      "character": "Purple Pewter Director",
+      "line": "Well then... instead of flipping a coin, why don't we let the human decide?"
+    },
+    {
+      "character": "Brown Engine Director",
+      "line": "Amusing, I accept!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "This is outrageous! I'm warning you, The Red Axe will boycott the Trade Octagon!"
+    },
+    {
+      "character": "Yellow Fortune Director",
+      "line": "Stop your hollow threats and let the human speak."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Well then, what is it going to be?"
+    },
+    {
+      "character": "Player",
+      "line": "I choose..."
+    },
+    {
+      "character": "Player",
+      "line": "The !"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "You'll regret this, all of you!"
+    },
+    {
+      "character": "Yellow Fortune Director",
+      "line": "A male? How preposterous!"
+    },
+    {
+      "character": "Silver Cog Director",
+      "line": "But the statue is clearly male! It can't have a female head!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Black Guard Berserker",
+      "description": "Middle-aged male dwarf, gruff Scottish accent, aggressive and commanding tone, an elite warrior who takes his duties seriously and shows no patience for outsiders."
+    },
+    {
+      "name": "Blasidar the sculptor",
+      "description": "Elderly male dwarf, warm Scottish accent, enthusiastic yet slightly flustered tone, a passionate master craftsman who gets easily distracted but takes immense pride in his artistic work."
+    },
+    {
+      "name": "Blue Opal Director",
+      "description": "Middle-aged male dwarf, refined Scottish accent, measured and diplomatic tone, a composed businessman who prefers reasoned discussion over heated debate."
+    },
+    {
+      "name": "Both",
+      "description": "Two voices in unison - male dwarf and human adventurer, panicked and startled tone, shouting in alarm."
+    },
+    {
+      "name": "Brown Engine Director",
+      "description": "Older male dwarf, posh Scottish accent, condescending and elitist tone, a snobbish aristocrat who believes strongly in traditional gender roles and proper society."
+    },
+    {
+      "name": "Brown Engine Secretary",
+      "description": "Middle-aged male dwarf, formal Scottish accent, polite but dismissive tone, a proper gentleman who maintains strict professional decorum."
+    },
+    {
+      "name": "Cat",
+      "description": "Hissing, angry feline voice, high-pitched and territorial tone, a protective pet that guards its owner's possessions fiercely."
+    },
+    {
+      "name": "Commander Veldaban",
+      "description": "Middle-aged male dwarf, authoritative Scottish accent, stern yet warm-hearted tone, a principled military leader who genuinely cares for his city and its people."
+    },
+    {
+      "name": "Dromund",
+      "description": "Elderly male dwarf, cantankerous Scottish accent, paranoid and possessive tone, an eccentric wealthy recluse who hoards collectibles and threatens servants he doesn't actually have."
+    },
+    {
+      "name": "Dwarven Boatman",
+      "description": "Middle-aged male dwarf, cheerful Scottish accent, friendly and welcoming tone, a hardworking ferryman who takes pride in showing visitors the wonders of Keldagrim."
+    },
+    {
+      "name": "Green Gemstone Director",
+      "description": "Middle-aged male dwarf, practical Scottish accent, pragmatic and level-headed tone, a fair-minded businessman who seeks reasonable solutions to disputes."
+    },
+    {
+      "name": "Librarian",
+      "description": "Elderly male dwarf named Hugi, soft scholarly Scottish accent, thoughtful and helpful tone, a wise keeper of knowledge who embodies the personification of thought."
+    },
+    {
+      "name": "Purple Pewter Director",
+      "description": "Middle-aged male dwarf, jovial Scottish accent, friendly and accommodating tone, an affable director who tries to find diplomatic solutions."
+    },
+    {
+      "name": "Purple Pewter Secretary",
+      "description": "Younger female dwarf, bright Scottish accent, cheerful and complimentary tone, an upbeat secretary who genuinely enjoys helping visitors."
+    },
+    {
+      "name": "Red Axe Director",
+      "description": "Middle-aged male dwarf named Hreidmar, deep menacing Scottish accent, arrogant and threatening tone, a scheming villain with a theatrical presence who believes his company deserves supreme power."
+    },
+    {
+      "name": "Red Axe Secretary",
+      "description": "Middle-aged male dwarf, curt Scottish accent, dismissive and hostile tone, a brusque gatekeeper who has no interest in helping outsiders."
+    },
+    {
+      "name": "Reldo",
+      "description": "Middle-aged male human, educated English accent, calm and scholarly tone, Varrock's palace librarian who is knowledgeable about history and eager to share information."
+    },
+    {
+      "name": "Riki the sculptor's model",
+      "description": "Younger male dwarf, strained Scottish accent, exhausted and monotone delivery, a long-suffering model who can barely speak while holding still for the sculptor."
+    },
+    {
+      "name": "Santiri",
+      "description": "Middle-aged male dwarf, proud Scottish accent, professional and knowledgeable tone, a weapons merchant who respects skilled craftsmanship and dwarven heritage."
+    },
+    {
+      "name": "Saro",
+      "description": "Middle-aged male dwarf, friendly Scottish accent, helpful and conversational tone, an armour merchant who enjoys chatting with customers and sharing local gossip."
+    },
+    {
+      "name": "Silver Cog Director",
+      "description": "Middle-aged male dwarf, sharp Scottish accent, logical and questioning tone, a shrewd businessman who challenges dubious claims with pointed observations."
+    },
+    {
+      "name": "Thurgo",
+      "description": "Elderly male Imcando dwarf, gruff Scottish accent, lonely and nostalgic tone, the last of his legendary smithing clan who perks up considerably when offered redberry pie."
+    },
+    {
+      "name": "Vermundi",
+      "description": "Middle-aged female dwarf, warm Scottish accent, humble and hardworking tone, a modest clothes merchant who takes genuine pride in her craft despite her poor circumstances."
+    },
+    {
+      "name": "White Chisel Director",
+      "description": "Middle-aged male dwarf, assertive Scottish accent, direct and confrontational tone, a no-nonsense businessman who isn't afraid to call out suspicious behavior."
+    },
+    {
+      "name": "Yellow Fortune Director",
+      "description": "Middle-aged female dwarf, haughty Scottish accent, proud and dismissive tone, a feminist leader who considers men weak and inferior but will grudgingly work with them."
+    },
+    {
+      "name": "Yellow Fortune Secretary",
+      "description": "Younger female dwarf, confident Scottish accent, matter-of-fact and slightly condescending tone, a professional who upholds her company's women-only policy."
+    },
+    {
+      "name": "[company name] Director",
+      "description": "Middle-aged dwarf, formal Scottish accent, authoritative yet personable tone, a corporate leader who values loyalty and rewards dedicated workers with increasing warmth."
+    },
+    {
+      "name": "[company name] Secretary",
+      "description": "Middle-aged dwarf, professional Scottish accent, businesslike and efficient tone, a gatekeeping administrator who warms up to those who prove their worth through hard work."
+    }
+  ]
+}

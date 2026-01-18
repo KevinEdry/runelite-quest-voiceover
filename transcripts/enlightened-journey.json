@@ -1,0 +1,824 @@
+{
+  "branch": "quest/enlightened-journey",
+  "quest_name": "Enlightened Journey",
+  "lines": [
+    {
+      "character": "Auguste",
+      "line": "Greetings!"
+    },
+    {
+      "character": "Player",
+      "line": "What are you doing?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Ah, it's a secret I'm afraid."
+    },
+    {
+      "character": "Auguste",
+      "line": "Greetings! Would you like to be my number one accomplice? I mean, assistant?"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I am Auguste. I am going to be the first balloonist in all of Gielinor!"
+    },
+    {
+      "character": "Player",
+      "line": "Balloo-what? I thought only monks lived on Entrana."
+    },
+    {
+      "character": "Auguste",
+      "line": "Well, they do... I was a monk. But I'm so sick of living on this island! I want to explore new frontiers!"
+    },
+    {
+      "character": "Player",
+      "line": "And go where no man has gone before?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Maybe! That sounds good. I was thinking just over to Taverley, though."
+    },
+    {
+      "character": "Player",
+      "line": "Why not take the boat then?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Ugh! Ocean! Don't talk to me about the ocean...oh dear...I feel ill."
+    },
+    {
+      "character": "Player",
+      "line": "Whoa, ok, no ocean. How exactly are you going to get off the island, then?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I have devised a new way to travel. But I need an assistant balloonist to help me build my design."
+    },
+    {
+      "character": "Auguste",
+      "line": "Are you an experienced adventurer willing to help me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! Sign me up."
+    },
+    {
+      "character": "Auguste",
+      "line": "Wonderful! Let's get started."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, I still don't know exactly what we're doing."
+    },
+    {
+      "character": "Auguste",
+      "line": "Of course, of course, how foolish of me. Well, we are going to make a balloon."
+    },
+    {
+      "character": "Player",
+      "line": "Which is what exactly?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Let me show you!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think so."
+    },
+    {
+      "character": "Auguste",
+      "line": "Oh, never mind then."
+    },
+    {
+      "character": "Player",
+      "line": "How exactly do you plan to get to Taverley in that? How will it work?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Have you noticed how ashes float above fires for long periods of time?"
+    },
+    {
+      "character": "Player",
+      "line": "What's your point?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Don't you see? It's the hot air! It rises, taking the ashes with it."
+    },
+    {
+      "character": "Auguste",
+      "line": "I had this epiphany while I was at the glass blower's house. If we pump hot air into an envelope it will rise because it is lighter than the cold air around it."
+    },
+    {
+      "character": "Player",
+      "line": "Come again?"
+    },
+    {
+      "character": "Auguste",
+      "line": "We are going to sew a big sack and light a fire under it. Once the sack fills with hot air it will begin to rise, taking us along with it in the basket."
+    },
+    {
+      "character": "Player",
+      "line": "You seem pretty confident about this. Have you tested it?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Well, no. You see, I don't have the materials here to make any test balloons."
+    },
+    {
+      "character": "Auguste",
+      "line": "That's where you come in!"
+    },
+    {
+      "character": "Auguste",
+      "line": "You are going to collect materials for two test runs of the balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "You will need to get three sheets of papyrus, one ball of wool, one full sack of potatoes, and one unlit candle."
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to do with all of that junk?"
+    },
+    {
+      "character": "Auguste",
+      "line": "When you have all of it, bring it to me and I'll explain what to do next. Any questions?"
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get all this stuff?"
+    },
+    {
+      "character": "Auguste",
+      "line": "You're the adventurer, you should know! Think of logical places, like, churches; they have tons of candles."
+    },
+    {
+      "character": "Player",
+      "line": "Err, no. I can't see that kind of detail."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't? Oh...well...it's just, they rise, you know, from the fire...Maybe you should pay more attention to things!"
+    },
+    {
+      "character": "Auguste",
+      "line": "Have you gotten the materials?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Auguste",
+      "line": "Good, you have everything! Now, I need you to create an origami balloon."
+    },
+    {
+      "character": "Player",
+      "line": "How do you make the origami balloon?"
+    },
+    {
+      "character": "Auguste",
+      "line": "First, use the papyrus on the ball of wool. The papyrus is folded into an origami box and the yarn will support the heat source."
+    },
+    {
+      "character": "Auguste",
+      "line": "Next, add the unlit candle to the balloon structure. It will act as the heat source."
+    },
+    {
+      "character": "Auguste",
+      "line": "Once you have done that let me know and we will begin our experiment."
+    },
+    {
+      "character": "Auguste",
+      "line": "What am I supposed to do with a note? I can't make a balloon from notes!"
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't seem to have any of the materials."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool, three sheets of papyrus, an unlit candle, and a full sack of potatoes."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need more papyrus."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need more papyrus and a ball of wool."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need an unlit candle."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need papyrus and an unlit candle."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a full sack of potatoes."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need more papyrus and a full sack of potatoes."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool and an unlit candle."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool and a full sack of potatoes."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need more papyrus, a full sack of potatoes, and an unlit candle."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need an unlit candle and a full sack of potatoes."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool, an unlit candle, and papyrus."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool, papyrus, and a full sack of potatoes."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a ball of wool, an unlit candle, and a full sack of potatoes."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Auguste",
+      "line": "Failure is not an option."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to get again?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I just need a plain origami balloon. The dye could contaminate the experiment."
+    },
+    {
+      "character": "Player",
+      "line": "I finished the origami balloon!"
+    },
+    {
+      "character": "Auguste",
+      "line": "Wonderful! I'll take that, and we'll conduct our first experiment."
+    },
+    {
+      "character": "Auguste",
+      "line": "That was perfect. My hypothesis was right!"
+    },
+    {
+      "character": "Player",
+      "line": "Did you not see the burning?"
+    },
+    {
+      "character": "Auguste",
+      "line": "One more test. Then we shall proceed."
+    },
+    {
+      "character": "Player",
+      "line": "Burning? Fire? Hello?"
+    },
+    {
+      "character": "Auguste",
+      "line": "We shall meekly go! No...no...it needs to sound grander. We shall cautiously go..."
+    },
+    {
+      "character": "Player",
+      "line": "We're doomed."
+    },
+    {
+      "character": "Auguste",
+      "line": "Do you have the other two sheets of papyrus and a full sack of potatoes?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Commendable. If I may have those, I will construct this experiment."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that went down like a lead balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a full sack of potatoes and more papyrus."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I've misplaced them."
+    },
+    {
+      "character": "Player",
+      "line": "Those peasants...where did they come from?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Ahh, the flash mob phenomenon. Many have hypothesized that they are beings of great power sent to smite those who question the gods."
+    },
+    {
+      "character": "Player",
+      "line": "And this isn't worrying because...?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Don't worry! I know exactly what I'm doing."
+    },
+    {
+      "character": "Auguste",
+      "line": "Those experiments went extraordinarily well."
+    },
+    {
+      "character": "Player",
+      "line": "Was I the ONLY one who saw them burning? BURNING???"
+    },
+    {
+      "character": "Auguste",
+      "line": "Yes, very well indeed. Now we will start building the balloon that will carry us off the island."
+    },
+    {
+      "character": "Auguste",
+      "line": "This task will be much greater than the last two. I hope you are prepared for it."
+    },
+    {
+      "character": "Player",
+      "line": "This is madness."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need to get the following items:"
+    },
+    {
+      "character": "Auguste",
+      "line": "Yellow dye Red dye Ten pieces of silk A clay bowl"
+    },
+    {
+      "character": "Auguste",
+      "line": "and eight sandbags."
+    },
+    {
+      "character": "Auguste",
+      "line": "Sandbags can be made by getting empty sacks and filling them at the sand pit here on Entrana."
+    },
+    {
+      "character": "Auguste",
+      "line": "However, there are other sand pits around the world that will work as well; there is one in Yanille, Rellekka, and Zanaris."
+    },
+    {
+      "character": "Auguste",
+      "line": "You can bring items back to me as you get them, while you are waiting for the tree to grow."
+    },
+    {
+      "character": "Player",
+      "line": "What tree?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I am going to give you a willow sapling and a basket of apples. You must plant the willow sapling at a tree patch."
+    },
+    {
+      "character": "Auguste",
+      "line": "If you give the basket of apples to the gardener near the patch, he will look after the tree for you while it grows."
+    },
+    {
+      "character": "Auguste",
+      "line": "Don't lose the sapling! It took me a long time to save up enough for one. If you do, you'll have to pay me 30,000 coins for a new one."
+    },
+    {
+      "character": "Auguste",
+      "line": "Once the tree is fully grown, cut twelve branches from it using secateurs. Bring the branches back here and use them on the metal frame on the platform to create the basket."
+    },
+    {
+      "character": "Auguste",
+      "line": "Here you go. Now be very careful not to lose it!"
+    },
+    {
+      "character": "Auguste",
+      "line": "Looks like you don't have enough room in your inventory for the basket and the sapling. Come back when you do."
+    },
+    {
+      "character": "Auguste",
+      "line": "Do you have anything for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I want to give you some items."
+    },
+    {
+      "character": "Player",
+      "line": "Here's the dye."
+    },
+    {
+      "character": "Auguste",
+      "line": "Ah, wonderful, yellow dye. Thank you."
+    },
+    {
+      "character": "Auguste",
+      "line": "Red dye! Thank you."
+    },
+    {
+      "character": "Auguste",
+      "line": "That's the last of it!"
+    },
+    {
+      "character": "Auguste",
+      "line": "You just need to build the basket and I can finish the balloon! How are you getting on with the willow?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Use the willow sapling I gave you to grow a willow tree. Cut twelve branches from it using secateurs. Use the branches on the platform here."
+    },
+    {
+      "character": "Player",
+      "line": "Fine thanks."
+    },
+    {
+      "character": "Auguste",
+      "line": "I still need red dye for the balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "I still need yellow dye for the balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't have any dye with you."
+    },
+    {
+      "character": "Auguste",
+      "line": "I need red and yellow dye for the balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "I need red dye for the balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "I need yellow dye for the balloon."
+    },
+    {
+      "character": "Player",
+      "line": "Here are the sandbags."
+    },
+    {
+      "character": "Auguste",
+      "line": "Sandbags, thank you. This will allow us to change height."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't have enough sandbags. Please bring me eight."
+    },
+    {
+      "character": "Auguste",
+      "line": "However, there are other sand pits around the world that will work as well."
+    },
+    {
+      "character": "Player",
+      "line": "Here's the silk."
+    },
+    {
+      "character": "Auguste",
+      "line": "What am I supposed to do with a note?? I can't make a balloon from notes!"
+    },
+    {
+      "character": "Auguste",
+      "line": "Silk for the balloon, thank you."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't have enough silk. Please bring me ten pieces."
+    },
+    {
+      "character": "Player",
+      "line": "Here's the bowl."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need to fire that bowl."
+    },
+    {
+      "character": "Auguste",
+      "line": "Ah the bowl. This will be used to hold the fuel while it heats the air in the balloon."
+    },
+    {
+      "character": "Auguste",
+      "line": "I need a plain clay-fired bowl; they're quite easy to come by."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind."
+    },
+    {
+      "character": "Player",
+      "line": "I'm having some trouble finding some of the items."
+    },
+    {
+      "character": "Auguste",
+      "line": "What do you need help with?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I was told a while ago that there was a witch who made dye in Draynor Village. Maybe you should start by looking there."
+    },
+    {
+      "character": "Auguste",
+      "line": "Hmm, I believe silk is imported from the desert. Perhaps someone there can tell you where to find it."
+    },
+    {
+      "character": "Auguste",
+      "line": "I think there is a spare one in the glass blower's house. I rent a room from him there, so I don't think he'll mind you taking it."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost my willow sapling. Can I buy a replacement?"
+    },
+    {
+      "character": "Auguste",
+      "line": "It will cost you 30,000 gold coins to replace it, do you want to pay that?"
+    },
+    {
+      "character": "Auguste",
+      "line": "You already have one! Don't be greedy."
+    },
+    {
+      "character": "Auguste",
+      "line": "You already have one in your bank! Don't be greedy."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't have enough money for it. You should have been more careful."
+    },
+    {
+      "character": "Auguste",
+      "line": "Looks like you don't have enough room in your inventory. Come back when you do."
+    },
+    {
+      "character": "Auguste",
+      "line": "Here you go. Now be very careful not to lose it again!"
+    },
+    {
+      "character": "Player",
+      "line": "No way!"
+    },
+    {
+      "character": "Auguste",
+      "line": "You need to use that on the balloon frame on the platform."
+    },
+    {
+      "character": "Auguste",
+      "line": "Great! Let me just put it all together and we'll be ready for lift off! Speak to me again in a moment."
+    },
+    {
+      "character": "Auguste",
+      "line": "Well, let's get going!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait; tell me what we're doing."
+    },
+    {
+      "character": "Auguste",
+      "line": "Theoretically, we are ready for the maiden voyage."
+    },
+    {
+      "character": "Player",
+      "line": "Theoretically?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Well, of course. With you piloting I am sure we will survive."
+    },
+    {
+      "character": "Player",
+      "line": "WHAT!? This is your balloon! Why aren't you going to pilot it? And what do you mean 'survive'? You never said anything about me flying this bird!"
+    },
+    {
+      "character": "Auguste",
+      "line": "Don't be silly. I'm not going to pilot it. We will be safe in the basket, the only thing we will lose are the logs."
+    },
+    {
+      "character": "Auguste",
+      "line": "You will pilot it, won't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Fine, I will. So how do I control the balloon?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Wonderful! Let me explain my hypothesis on how to control a balloon."
+    },
+    {
+      "character": "Player",
+      "line": "Oh no, not another hypothesis!"
+    },
+    {
+      "character": "Auguste",
+      "line": "The balloon needs ten normal logs for fuel. I believe the balloon will be controlled based on weight, so you must not have more than 40 kg with you."
+    },
+    {
+      "character": "Auguste",
+      "line": "Also, I seem to have lost my tinderbox...do you think you could bring one? We need it to light the fire."
+    },
+    {
+      "character": "Player",
+      "line": "And here, I thought all the legwork was done. Fine, I'll bring a tinderbox."
+    },
+    {
+      "character": "Auguste",
+      "line": "Right! So, the balloon mechanics. Your prime direction will always be to land the balloon on the target at the end of our route."
+    },
+    {
+      "character": "Auguste",
+      "line": "I've written to some friends in Taverley who have kindly painted one on the ground there."
+    },
+    {
+      "character": "Auguste",
+      "line": "We must avoid everything, because the balloon is very fragile. Even clouds will be dangerous! But if my calculations are correct, we will be able to squeeze through some surprising spaces, if you pilot it well."
+    },
+    {
+      "character": "Auguste",
+      "line": "Those sandbags you made earlier will give the balloon a big lift when dropped, whereas adding the logs will only make it rise a little bit. But don't use them up too quickly! We have no way of replenishing them."
+    },
+    {
+      "character": "Auguste",
+      "line": "If you do run out of logs and sandbags you will not be able to go up any longer. Just make the best of it and hope we can make it to our destination without going upwards."
+    },
+    {
+      "character": "Auguste",
+      "line": "I've added two ropes, the red one is an emergency rope, it will let the hot air out of the balloon and we will drop quickly. The other rope will only drop us a little."
+    },
+    {
+      "character": "Auguste",
+      "line": "If we get into tribb...beg your pardon, trouble, in all likelihood we will crash. But do not fear! We should be fine. Just make sure you come back to Entrana so we can try again."
+    },
+    {
+      "character": "Auguste",
+      "line": "If it all goes horribly wrong, you can always bail. If we're still over Entrana, we can land quickly and try again. However, once past the island, we will crash."
+    },
+    {
+      "character": "Auguste",
+      "line": "Are you ready to go?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need to put your pet into your inventory before the flight."
+    },
+    {
+      "character": "Auguste",
+      "line": "You have too much weight in your bag. You may only bring 40kg of weight."
+    },
+    {
+      "character": "Auguste",
+      "line": "You need a tinderbox."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't have enough logs. You need ten normal logs."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm not ready."
+    },
+    {
+      "character": "Auguste",
+      "line": "Great Scott! Ocean! Ahhh!"
+    },
+    {
+      "character": "Player",
+      "line": "What happened?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Crashed, off course. Ocean! Oh dear... I feel very..."
+    },
+    {
+      "character": "Player",
+      "line": "Contemplative? Concerned for your life? Desperate?"
+    },
+    {
+      "character": "Auguste",
+      "line": "No...more along the lines of ill...You might want to swim away now. Use the plank..."
+    },
+    {
+      "character": "Player",
+      "line": "How are you going to get back? What about the balloon?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I'm sure a fishing trawler will come by and give me a lift. Don't worry, I shall return."
+    },
+    {
+      "character": "Auguste",
+      "line": "Well, that didn't go as planned."
+    },
+    {
+      "character": "Player",
+      "line": "So what now? How will we get the balloon back?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I'll have to get one of the monks to come pick it up. You head back on your own; just follow the path. I'll meet you back at Entrana."
+    },
+    {
+      "character": "Player",
+      "line": "The crash must have really sent us off course; I'm near Falador!"
+    },
+    {
+      "character": "Auguste",
+      "line": "We have travelled in a way that no man has travelled before! The next step will be to go where no men have gone before."
+    },
+    {
+      "character": "Auguste",
+      "line": ", it has been a privilege flying with you."
+    },
+    {
+      "character": "Auguste",
+      "line": "For all your hard work, I give you this jacket and cap for future ballooning adventures."
+    },
+    {
+      "character": "Auguste",
+      "line": "You don't have enough space in your inventory. Speak to me again when you do."
+    },
+    {
+      "character": "Player",
+      "line": "So what are you going to do now?"
+    },
+    {
+      "character": "Auguste",
+      "line": "I am considering starting a balloon enterprise. People all over Gielinor will be able to travel in a new, exciting way."
+    },
+    {
+      "character": "Auguste",
+      "line": "As my first assistant, you will always be welcome to use a balloon. You'll have to bring your own fuel, though."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Auguste",
+      "line": "I will base my operations in Entrana. If you'd like to travel to new places, come see me there."
+    },
+    {
+      "character": "Auguste",
+      "line": "Do you want to use the balloon? Just so you know, some locations require special logs and high Firemaking skills."
+    },
+    {
+      "character": "Auguste",
+      "line": "Weapons are not allowed on Entrana. I must search you first."
+    },
+    {
+      "character": "Auguste",
+      "line": "I'm sorry, no weapons or armour may be worn to Entrana. Come back when you have laid them down."
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell me how to make an origami balloon?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Now you have an origami balloon!"
+    },
+    {
+      "character": "Auguste",
+      "line": "If you use your origami balloon with any dye, you can change the colour."
+    },
+    {
+      "character": "Auguste",
+      "line": "You can release the balloon and watch it float in the air, just use a tinderbox on it."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Auguste",
+      "description": "Middle-aged male, refined European accent, enthusiastic and eccentric inventor tone. A Saradominist monk turned balloonist with intellectual curiosity, prone to dramatic flourishes and blissfully oblivious to danger."
+    }
+  ]
+}

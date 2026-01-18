@@ -1,0 +1,900 @@
+{
+  "branch": "quest/a-night-at-the-theatre",
+  "quest_name": "A Night at the Theatre",
+  "lines": [
+    {
+      "character": "Mysterious Stranger",
+      "line": "Any luck in the Theatre?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Enter the Theatre and beat the challenges within. Doing so would cause great embarrasment to Verzik, and my associates would very much appreciate it."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "My associates prefer to keep their intentions to themselves. However, if you were to assist us with another matter, I might be able to share more."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Your suspicions are correct. My role here is not to embarrass Verzik Vitur. Instead, my associates have a long history with Verzik, and have sent me here to keep an eye on her."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Research."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Yes. As you're aware, of all those that go into the Theatre, the vast majority never come out. That said, some have managed to succeed. Of course, the vampyres would never let the citizens know this."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Thanks to these successes, I've been able to gather information on Verzik and her abilities."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Verzik has abilities unlike any other vampyre. However, she did not always possess these abilities. My associates are keen to discover how she obtained them."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Exactly."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "These were recently recovered from within the Theatre. Take a look at them."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Not just any eggs. These are the eggs of a nylocas, one of Verzik's arachnid pets."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Normally this wouldn't be anything special. After all, Verzik has hundreds of nylocas. However, these eggs are from a variant we've never encountered before."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "What's more interesting than that though is how they were obtained. For lack of a better description, the mercenary who recovered them claimed they 'fell out' of Verzik herself."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Apparently so."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It would line up with some suspicions my associates have had for a while."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "That is correct. I also believe you have a friend who can help."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "A dead one."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Ranis Drakan."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "My kind have the ability to relive our memories as if they are happening again. We can also relive the memories of others if we are able to make physical contact with them. I could show you if you want?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I am not at liberty to say."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "We are lucky that vampyre corpses deteriorate slower than many other species. Enough of his brain should still be intact for me to work with."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Ranis and Verzik were close friends. He interacted with her more than anyone else did. Getting close enough to Verzik to observe her own memories will be... problematic. He is the next best option."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Within his memories we can hopefully learn more about Verzik and her abilities. As for the eggs, they are our catalyst."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It would take years to search through all of Ranis' mind, but I can use these eggs to help us find relevant memories much faster."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Now, I must remain here. That means you will need to recover Ranis for us."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Luckily for us, Ranis always loved the Theatre. As such, he is actually buried deep below it. You can use the staircase to the north east to access his crypt."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Be careful, it's well guarded. Even other vampyres are not allowed in. I suggest you take that flail of yours."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Also, you don't need to bring his whole body back of course. That wouldn't be very subtle. We only need his brain."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I know. That's why I'd recommend you take a saw."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Good luck."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Really?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Very impressive. I had a feeling you would have what it takes."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Verzik will be back soon enough. Death will not come easy for her. However, you have still been of great use to my associates."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You again. Interested in heading back into the Theatre?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You again. What can I do for you?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You can use the staircase to the north east to access his crypt. Remember, you don't need to bring his whole body back. We only need his brain. I'd recommend you take a saw."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Good work. Hand it over."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You should probably go and find it again then."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Hmm... Yes, I think this will work."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It seems that Ranis has many memories of these eggs, or at least of something very similar. Thanks to my abilities, we can view these memories. Hopefully they will reveal the truth about Verzik."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Now, I suggest we start at the beginning. Take my hand."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I require physical contact to share the memory with you."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Prepare yourself!"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Interesting... Very interesting..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It was. However, the memory was from many years ago, before she gained her unique abilities."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "The eggs in that memory were very similar to the ones in my possession, but they were not identical. It sounded like Verzik intended to use them to breed new nylocas."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "And perhaps it was also the starting point for Verzik's abilities."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "We will need to recover some of those eggs for ourselves. With them, we may be able to find further relevant memories."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Good idea. I will remain here."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "My associates would prefer I remain here."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I'm not sure why I asked. I'll be back once I've explored this nest."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "What about it?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It's supposedly just north of Darkmeyer. Go there and see if you can find any eggs matching the ones Ranis gave to Verzik."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Well met!"
+    },
+    {
+      "character": "Daer Krand",
+      "line": "What? What for?"
+    },
+    {
+      "character": "Daer Krand",
+      "line": "I was wondering where she got to. Where is she now?"
+    },
+    {
+      "character": "Daer Krand",
+      "line": "What a disaster! It's going to take forever to find a new willing assistant who's competent as well."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Well I suppose I can give you some. Consider it a thank you for bringing me the news about my assistant."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Come back when you have some room for it."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "No, it's fine. I'll send my new assistant to get me some... Once I find a new assistant anyway."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Yes, here you go."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Looks like you already have some."
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Did I not already give you some?"
+    },
+    {
+      "character": "Daer Krand",
+      "line": "Oh... Well I suppose I can spare some."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Excellent. Let's have a look at them."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Well I'll need you to bring them here. They could be key to understanding Verzik's abilities."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Hmm... How curious..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I believe I can use these new eggs to help us find more memories of note. Hopefully they will start to present a clearer picture for us."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Once we're done, I'll also have the eggs sent to my associates. Assuming they do have a connection to Verzik's abilities, they will come in very useful."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Oh quite the opposite. Their hope is to find a way to counteract them."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Anyway, I think I have found a new memory for us."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Bloat? Not the most elaborate of names, is it?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "A crude name for a crude creation."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Well it's most definitely crude... Quite disgusting as well."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Turns your stomach, does it Ranis? I'm surprised you'd find anything disgusting after what you did to that girl."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "I just think it's important to take a bit of pride in your work. This is a Theatre, Verzik. We should be producing art!"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Ranis darling, I couldn't agree more. Come have a look at this."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "A new nylocas?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "The athanatos! Isn't it magnificent!"
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "It's quite a sight to behold."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "I have you and Lowerniel to thank for this one. This is the result of those eggs you gave me."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "I'm glad you were able to make good use of them."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Oh I've been able to work wonders with them, and I'm not done yet. If all goes well, the athanatos will be just the beginning..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "So Verzik did manage to use those eggs to create new nylocas. However, something is still missing."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Yes, I believe there is. Let us see what it can tell us."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "My my... You've really outdone yourself this time."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Ranis you flatterer!"
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "So was this one also the result of those eggs?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Much more boring I'm afraid. I still have plans for those eggs, but I'm missing a key aspect right now. Don't worry, I'm sure I'll get it worked out."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Perhaps I can help. What are you missing?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Oh Ranis, you're not trying to steal my thunder are you?"
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Verzik, you know I wouldn't..."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Just joking Ranis! I know you're far too noble for that."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "The thing I need is something with the ability to regenerate. Nylocas are strong in numbers, but far too weak on their own."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Hmm... I think I know just the thing. When we created the Maiden, we experimented heavily in that area."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Ah, of course. You and your haemalchemy."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Well in the end it wasn't actually haemalchemy that gave us the answer. It came in the form of a gift from the old queen."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Not another of her plants was it?"
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Precisely that! Specifically the hespori. Their bark has wonderful regenerative abilities."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "I see... Yes, I think that might just work. Thank you, Ranis."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Hespori... Of course."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "They are remarkable plants with a will of their own. Not to mention their many unique properties..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "They were grown here back when this place was still known as Hallowvale. The Saradominist Queen of the region used them as weapons against the vampyres."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "More than most."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It sounds like the vampyres found multiple uses for the hespori. Not only did they play a part in the creation of the Maiden of Sugadinti, but they were also potentially used to make a new nylocas."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You are correct. However, I'd suggest you collect some from a naturally occuring hespori rather than one you've grown yourself."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "They are native to Morytania, but they are quite rare. I'm afraid I'm not an expert on nature."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Perfect. I will await your return."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Indeed. It seems a hespori is key to our next steps."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I'm not sure. They are native to Morytania, but they are quite rare. You mentioned a nature spirit who could help."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Then you should go and speak to him. I will await your return."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Welcome back, my friend. I sense that you need my help with something."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Ah, a hespori. They're wonderful plants. Why are you looking for one?"
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "I see... Well do be very careful. Hespori are rare enough as it is without people damaging them."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Wonderful! Now, let me see..."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Yes! I can sense the presence of a hespori near here. It's to the north east, on a small island in the swamp."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "For you my friend, it is no problem at all."
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "Welcome back, my friend. Did you find that hespori?"
+    },
+    {
+      "character": "Nature Spirit",
+      "line": "I can sense it to the north east, on a small island in the swamp."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Perfect. Do you have some bark from it?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Then you should go and recover some. Be careful, for it will likely fight back. I will await your return."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Excellent. This is just what we needed."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Yes, I think so. Let me see what I can find..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Ah, here we go. I believe we're getting close now."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Power over the Shadow Realm you say? That takes me back to the old empire."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "That was the inspiration. Alas, the experiments didn't really go anywhere in the end."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Such a pity. Still, he will make for a fine new challenge here. As always Ranis, you are far too generous."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Speaking of experiments, did you think any more on my hespori suggestion for that new nylocas?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "That I did. It's going very well so far. Still too early to be sure, but I think this could be the one."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "The one?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Absolutely! The nylocas to end all nylocas."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "That's quite the ambition. So when do we get to see the results?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Patience now Ranis. You can't rush perfection. It won't be long now, I'm sure of it..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Interesting, but not overly illuminating. Still, we are not far off now."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "There is one final memory. Let us hope it provides the answers we seek."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "The last King of the yarasa... I never thought I'd see one of their kind again."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Does this mean Lowerniel finally found a way home?"
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "It would seem so, but he did not enlighten me on how he did it."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Fascinating..."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Anyway, I have something you simply have to see. Come take a look."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Is this...?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "This is the one Ranis. This is my new Queen Nylocas. All that work has finally paid off."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "It's very small."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Oh don't worry darling, it will grow. I'll have to come up with a fancy name as well."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Ouch! You little..."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Oh..."
+    },
+    {
+      "character": "Ranis Drakan",
+      "line": "Not what you were expecting?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "I really thought this was the one..."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Back to square one I guess. What a waste."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "We have still gained a lot here. That bite almost certainly led to her abilities, and we know how the nylocas variant responsible was created."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "We even have the relevant materials as well. Between them and the knowledge we now have, my associates should be able to begin work on new weapons and techniques to use against Verzik."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I admit, while hopefully not essential, clarity on what happened next would be very useful. However, Ranis has no further memories of use to us. There's likely to only be one place to find the truth now."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Correct. But for me to gain access to Verzik's memories, I'd need to make physical contact with her. That would require us to enter the Theatre, something I was quite keen to avoid."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "True, but I am no fighter. However..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I know that there have been times when groups have entered the Theatre and had members not actually participate in the challenges."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Provided the more able members of the group succeed, these individuals are still considered to have beaten the challenge."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "That is an apt way of putting it. If you can get me to Verzik, I should hopefully be able to extract the memories we need. The moment of defeat will be my best opportunity, when she is weakest."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You can still take other people in as well of course. Just use the notice board to set up a party and find suitable allies. Once you're ready, I will join you in the Theatre."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "How so?"
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Verzik made a new nylocas, it bit her and it just died. That was it."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I am. Remember, you need to get me all the way to Verzik herself and then defeat her. When she is at her weakest, I should be able able to extract the memories we need."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Don't forget you can use the notice board to find suitable allies to join us if you don't feel comfortable doing this alone. I will join you inside once you are ready."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You fought well. Now, let us move on. We have to reach Verzik so that I can extract her memories."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "The Maiden of Sugadinti. Such an ironic name."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Not much more than you probably know yourself. Hers is a tragic tale of misguided hope."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You might find it useful to know that she's a powerful user of magic. Unsurprisingly, blood magic is her specialism. I hear she also has a habit of using nylocas to further increase her power."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "The Pestilent Bloat. What a disgusting monstrosity."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Nothing fancier than some crude necromancy. Still, that doesn't mean it's not dangerous. Don't even try to take it head on. Wait for the perfect moment and attack while it is weak."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Nylocas... I've always hated nylocas."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Some types. Alone they're not overly dangerous, but you'll never encounter them alone. Their power is in numbers."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Different variants have different weaknesses. Prioritise your targets, and ensure you use the right weaponry against them."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Sotetseg. One of the greater mysteries of this Theatre."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "He's some sort of modified dark beast. No dark beasts have ever been encountered in Morytania, so who knows how the vampyres got him here. Perhaps he is not of this world at all..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Be careful, for he has a strong affinity with the shadow realm. He will almost certainly use it against you. Expect the unexpected."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Yes. Survivors of the Theatre have spoken of some sort of strange shadowy maze."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "The once great King of the yarasa. This prison is such a sad end for Xarpus."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Death would be preferable to a life of imprisonment. The Theatre is a testament to that."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Anyway, we are close now. Defeat Xarpus, and the path to Verzik is clear."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "He will attempt to power himself up before he fights. Try and stop that where you can. Once the fight begins, be careful of his highly poisonous attacks."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You fought well. Now, only Verzik awaits. Remember, you must fully defeat her for me to have a chance to extract her memories. Let us proceed once you are ready."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Yes and no. I have a memory that I believe has answers for us. However, it is not Verzik's memory."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "I think it's best if I just show you."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Doctor... are you still there?"
+    },
+    {
+      "character": "Vulcan Orvoros",
+      "line": "I'm right here, my lady. I was just finishing my notes."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "I feel... I feel... wrong."
+    },
+    {
+      "character": "Vulcan Orvoros",
+      "line": "My lady, as I've already said, we really should take you to my surgery in Darkmeyer. Whatever that nylocas did, it was no normal bite."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "No! This is my home! You will not take me!"
+    },
+    {
+      "character": "Vulcan Orvoros",
+      "line": "I understand. My notes are finished now. I will leave you in peace."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Peace? Yes..."
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "Doctor... It's... inside me!"
+    },
+    {
+      "character": "Vulcan Orvoros",
+      "line": "My lady?"
+    },
+    {
+      "character": "Verzik Vitur",
+      "line": "I can feel it! Help me!"
+    },
+    {
+      "character": "Vulcan Orvoros",
+      "line": "What..."
+    },
+    {
+      "character": "Nylocas Queen",
+      "line": "Come... Come my pretties..."
+    },
+    {
+      "character": "Nylocas Queen",
+      "line": "Destroy the witness... Let us dine on his corpse!"
+    },
+    {
+      "character": "Vulcan Orvoros",
+      "line": "No!"
+    },
+    {
+      "character": "Nylocas Queen",
+      "line": "The rule of the vampyres is over... The rule of the nylocas has begun..."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "We feared the worst, but we never anticipated something like this."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "...is really just that nylocas in disguise. We must inform my master at once."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "They do not. My master preferred that I keep his involvement a secret, but I feel you are now trusted enough to meet him."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "In a similar way to how my kind can relive our memories, we can also communicate across great distances."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "Another of my kind is with my master. Through the two of us, you will be able to speak with him."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "It can take some getting used to. Now, I will contact my master and inform him of what we have discovered. Once I am done, I expect he will want to speak with you."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "There. Now, when I next speak, it will be my voice you hear. However, the words are from my master."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "Greetings my child. It is good that we are finally able to speak, for you have done a great service to me and my disciples."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "If that were possible, we would make it so. There are many constraints upon us. Still, these constraints are often to our benefit."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "We share many common enemies, you and I. Enemies that infest Hallowvale like a disease."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "By remaining far away from this disease, I keep us all safer. Instead, my disciples act as my eyes, ears, and hands upon Gielinor. They are the harbingers of my will."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "Home."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "She was an old foe. We will not weep for her demise."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "A concerning development. However, you have gathered all that we need to overcome it when the time is right."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "When the time is right."
+    },
+    {
+      "character": "Mysterious Master",
+      "line": "No. For now, we must wait. But once again, you have my thanks. My disciple will ensure you are suitably rewarded. Know that you are now a friend of Sugadinti."
+    },
+    {
+      "character": "Mysterious Stranger",
+      "line": "You again. My master is very impressed with your work. On his behalf, allow me to reward you."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Daer Krand",
+      "description": "Middle-aged male, Eastern European accent, academic and slightly eccentric tone. A dark wizard more skilled in magic than Herblore, frustrated but polite, with a distracted scholarly demeanor."
+    },
+    {
+      "name": "Mysterious Master",
+      "description": "Ancient male, ethereal and commanding tone with archaic speech patterns. The enigmatic master of Sugadinti who communicates through disciples, wise and patient with an air of ancient authority."
+    },
+    {
+      "name": "Mysterious Stranger",
+      "description": "Adult male, British accent, calm and measured tone with underlying secrecy. A shady but knowledgeable figure who observes the Theatre, cryptic yet helpful with a hint of supernatural awareness."
+    },
+    {
+      "name": "Nature Spirit",
+      "description": "Ageless male, gentle ethereal voice with a warm and benevolent tone. A druidic spirit dwelling in Mort Myre Swamp, wise about nature and genuinely helpful to those who respect the natural world."
+    },
+    {
+      "name": "Nylocas Queen",
+      "description": "Ageless female, hissing and predatory tone with an arachnid quality. A parasitic spider creature that consumed Verzik Vitur, sinister and calculating with alien malevolence."
+    },
+    {
+      "name": "Ranis Drakan",
+      "description": "Ancient male vampyre, aristocratic British accent, refined and theatrical tone. An arrogant vampyre noble who takes pride in artistry and enjoys tormenting victims, cultured but cruel."
+    },
+    {
+      "name": "Verzik Vitur",
+      "description": "Ancient female vampyre, aristocratic British accent, sophisticated and playfully sinister tone. A powerful vampyre noble obsessed with nylocas breeding, charming yet unsettling with predatory elegance."
+    },
+    {
+      "name": "Vulcan Orvoros",
+      "description": "Middle-aged male vampyre, Eastern European accent, professional and concerned tone. A vampyre doctor who practiced in Darkmeyer, clinical and dutiful but genuinely worried about his patient."
+    }
+  ]
+}

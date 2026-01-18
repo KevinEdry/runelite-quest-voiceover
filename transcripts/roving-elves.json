@@ -1,0 +1,396 @@
+{
+  "branch": "quest/roving-elves",
+  "quest_name": "Roving Elves",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Islwyn",
+      "line": "You, you're the human that killed Tyras. Arianwyn told us about you."
+    },
+    {
+      "character": "Player",
+      "line": "That's me. Could you take me to Arianwyn?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Why should we? All you human do is take and destroy with no care for others. We don't need your help. You've done enough damage."
+    },
+    {
+      "character": "Player",
+      "line": "Well I admit that I've made a few mistakes, but my intentions were good, I swear."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Maybe, but it's not a risk worth taking. It was the acts of humans that led my grantmother's death. You will bring similar ruin to us."
+    },
+    {
+      "character": "Player",
+      "line": "Your grandmother?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Glarial, wife to King Baxtorian. At one time my grandparents ruled over a great elven kingdom. But your kind put an end to that."
+    },
+    {
+      "character": "Player",
+      "line": "Glarial? I know that name, I visited her tomb. I moved her remians to Baxtorian Falls, I thought that was where she would want to be."
+    },
+    {
+      "character": "Islwyn",
+      "line": "You... you moved her into the waterfall? That... that's the perfect place for her to be."
+    },
+    {
+      "character": "Eluned",
+      "line": "Maybe this human isn't as bad as you think Islwyn"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Maybe... Very well human, we will take you to Arianwyn. But first, there is something you must do. If my grandmother has been moved, then her new tomb must be consecrated. Do this, and you will earn my trust."
+    },
+    {
+      "character": "Player",
+      "line": "Deal, what do I need to do?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "I don't know the consecration process myself. You should speak to Eluned. She is wise in the ways of the ritual."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather not."
+    },
+    {
+      "character": "Islwyn",
+      "line": "If you wish to see Arianwyn, this is the only way. Come find us if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you need to do?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there, Islwyn said you might be able to help me. He told me you'd know how to consecrate ground for an elven burrial. I need to consecrate Glarial's new resting place."
+    },
+    {
+      "character": "Eluned",
+      "line": "That I do... It is also elvish tradition to plant a specially enchanted crystal seed at the graves of our ancestors. The seed will create guardians to protect the area. Unfortunately the crystal seed must be tuned to the person it's protecting... a new seed won't do. But you should be able to recover the seed from her old tomb. I'm not very familiar with the lands to the east so I couldn't tell you where her old tomb is I'm afraid."
+    },
+    {
+      "character": "Player",
+      "line": "That's okay, I've been there before. It's just south east of Baxtorian Falls."
+    },
+    {
+      "character": "Eluned",
+      "line": "Excellent. Now, the tomb's guardians will be protecting the seed, you'll need to defeat one of them to get it. Once you have it, return to me and I will re-enchant it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back as soon as I have it."
+    },
+    {
+      "character": "Eluned",
+      "line": "Hello, any luck finding the consecration seed?"
+    },
+    {
+      "character": "Player",
+      "line": "No not yet."
+    },
+    {
+      "character": "Eluned",
+      "line": "You should be able to find it in her old resting place, I think you said it was south east of Baxtorian Falls. You'll need to defeat one of the old tomb's guardians to obtain it. Bring it to me as soon as you find it, then I can re-enchant it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Good day. Have you spoken to Eluned yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, she told me to retrieve a crystal seed from Glarial's old tomb."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Well I wish I could help but my kind have no place in the east any more."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, she told me to retrieve a crystal seed from Glarial's old tomb. I have it right here."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Good, you should go and show it to her."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, will do."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Yes I have it here."
+    },
+    {
+      "character": "Player",
+      "line": "How odd. I can see her lips moving... But there's no sound."
+    },
+    {
+      "character": "Eluned",
+      "line": "Plant this seed in Glarial's new tomb, close to her remains. With it in place, she will rest in peace."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I lost the crystal seed."
+    },
+    {
+      "character": "Eluned",
+      "line": "Not to worry, now I know the harmonic of Glarial's crystal, I can reproduce another one."
+    },
+    {
+      "character": "Eluned",
+      "line": "Hey, How's it going? Have you managed to reconsecrate Glarial's resting place?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Eluned",
+      "line": "Well when you're ready, plant the seed in Glarial's new tomb, close to her remains. With it in place, she will rest in peace."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Good day. I hear you managed to retrieve the crystal seed."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed I did, all I need to do now is plant it in her new resting place."
+    },
+    {
+      "character": "Islwyn",
+      "line": "This is good to hear. It put me at ease to know she is in my grandfather's home. I will rest even easier once it has been consecrated."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it's done."
+    },
+    {
+      "character": "Eluned",
+      "line": "Well done. You should let Islwyn know."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Islwyn.."
+    },
+    {
+      "character": "Islwyn",
+      "line": "You have returned! Is it done?"
+    },
+    {
+      "character": "Player",
+      "line": "It is, your grandmother's resting place has been consecrated."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Thank you, I admit I was wrong about you. You have showed care and compassion that I didn't think possible for a human. As promised, we will take you to Arianwyn. But first, a reward for you."
+    },
+    {
+      "character": "Islwyn",
+      "line": "We elves use equipment formed out of crystal itself, far superior to your human weapons. However, the crystal does degrade with use and will eventually revert to seed. Both the shield and bow I am carrying have been used, so are not at their full potential. They should still be quite useful though."
+    },
+    {
+      "character": "Player",
+      "line": "Fascinating. What do you mean by 'revert to seed'?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "All elven crystal starts as a seed. It can then be sung into various shapes through the power of the voice. Eventually, it reverts back to seed, ready for the next song. Keep an eye out for an elf named Ilfeen as you wander the forest. She can chant crystal seeds into new items for you."
+    },
+    {
+      "character": "Player",
+      "line": "I will, thanks."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Anyway, I'm sure you will learn more about crystal seeds as you spend time with our kind. For now though, which one of these creations would you like?"
+    },
+    {
+      "character": "Player",
+      "line": "Shields are for wimps! Give me the bow!"
+    },
+    {
+      "character": "Islwyn",
+      "line": "All right. If you ever need a replacement I can sell you another. Remember, the better the condition of crystal equipment, the more potential it has."
+    },
+    {
+      "character": "Player",
+      "line": "I don't like running and hiding behind mushrooms. Shield please!"
+    },
+    {
+      "character": "Player",
+      "line": "I need some time to decide."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Very well. Come find me when you are ready."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Now, let us know when you are ready to be taken to Arianwyn."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Eluned",
+      "line": "Hi, I hear you finished consecrating Glarial's tomb. Well done."
+    },
+    {
+      "character": "Player",
+      "line": "It was a worthy deed."
+    },
+    {
+      "character": "Eluned",
+      "line": "Indeed it was. Anyway, are you ready to be taken to Arianwyn?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Hello there. Are you ready to be taken to Arianwyn?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Sorry friend, but I don't actually think you are."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Very well. Arianwyn will be in Lletya, Eluned can take you there."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I wanted to talk about crystal equipment."
+    },
+    {
+      "character": "Islwyn",
+      "line": "As you wish."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to buy a bow."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Well sorry, but you'll have to get 900,000 coins. Oh well... See you later."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Well sorry, but you don't have space to hold it."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Good hunting."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "Your prices are outrageously expensive! Do I look like a banker to you?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Sorry but they are very expensive to make. But it's your decision."
+    },
+    {
+      "character": "Player",
+      "line": "But that's more expensive than a dwarf multicannon!"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Sloppy bearded mechanics wouldn't know decent craftsmanship if it bit them on the ankle! Besides, they are far too bulky."
+    },
+    {
+      "character": "Player",
+      "line": "Which - the dwarf or the cannon?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Erm, are you trying to be funny?"
+    },
+    {
+      "character": "Player",
+      "line": "Sadly sarcasm is lost on these elves. Oh well."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to buy a shield."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Well sorry, but you'll have to get 750,000 coins. Oh well... See you later."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Looking after yourself."
+    },
+    {
+      "character": "Player",
+      "line": "What should I do with crystal seeds?"
+    },
+    {
+      "character": "Islwyn",
+      "line": "Ilfeen can chant them into new items for you. She'll be wandering the forest somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "I'll keep an eye out for her, thanks."
+    },
+    {
+      "character": "Islwyn",
+      "line": "No problem. Let us know when you are ready to be taken to Arianwyn."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't want anything."
+    },
+    {
+      "character": "Islwyn",
+      "line": "Fair enough. Let us know when you are ready to be taken to Arianwyn."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Eluned",
+      "description": "Young adult female elf, soft Welsh-inspired accent, warm and graceful tone, a wise enchantress who is kind-hearted and supportive of others."
+    },
+    {
+      "name": "Islwyn",
+      "description": "Middle-aged male elf, proud Welsh-inspired accent, initially bitter and distrustful tone that softens over time, a skilled bowyer and grandson of royalty who harbors deep grief over his grandmother Glarial's fate."
+    }
+  ]
+}

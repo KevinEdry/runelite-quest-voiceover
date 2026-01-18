@@ -1,0 +1,1592 @@
+{
+  "branch": "quest/monkey-madness-ii",
+  "quest_name": "Monkey Madness II",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there, King Narnode."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Good of you to stop by, human."
+    },
+    {
+      "character": "Player",
+      "line": "How fares the kingdom today?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Everything seems fine, as far as I can tell... I will let you know if there is any trouble."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "All is not well,. Despite having had Glough under close surveillance since the events on Ape Atoll, he has managed to escape the Stronghold."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I know you have already done so much for our kingdom, but could you look into Glough's disappearance?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll help you look for Glough."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea on where to start?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "You should look anywhere Glough may have left behind clues of his whereabouts. I've already had my men search his home, but perhaps you can find something they missed."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get right to it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm busy at the moment."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Perhaps some other time, then."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "How are you getting on, ?"
+    },
+    {
+      "character": "Player",
+      "line": "What should I be looking for again?"
+    },
+    {
+      "character": "Player",
+      "line": "I wonder who could have left this in Glough's home? The initials A.A. are embroidered into it."
+    },
+    {
+      "character": "Player",
+      "line": "Is this your handkerchief?"
+    },
+    {
+      "character": "Anita",
+      "line": "Why, yes, it is. I must have left it behind somewhere..."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Anita."
+    },
+    {
+      "character": "Anita",
+      "line": "*sob* W-what do you want? *sob*"
+    },
+    {
+      "character": "Anita",
+      "line": "*sob* It's Glough... I fear for the worst!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Anita",
+      "line": "I think he might be seeing someone else! *sob* I hadn't heard from him in a while, and so decided to give him a visit."
+    },
+    {
+      "character": "Anita",
+      "line": "At first, I thought there was nobody home... *sob* But then I heard... *sob*"
+    },
+    {
+      "character": "Player",
+      "line": "Heard what?"
+    },
+    {
+      "character": "Anita",
+      "line": "I've already said too much. *sob* The last time I helped you, Glough lost his job!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you care? He's seeing someone else!"
+    },
+    {
+      "character": "Player",
+      "line": "He might be in trouble, I could help."
+    },
+    {
+      "character": "Anita",
+      "line": "I heard whispering coming from higher up in his tree! I managed to climb the first branch... *sob* But I'm not agile enough to get up to the highest level..."
+    },
+    {
+      "character": "Anita",
+      "line": "Do you really think he might have gotten into trouble? *sob*"
+    },
+    {
+      "character": "Player",
+      "line": "There's another level to his home?"
+    },
+    {
+      "character": "Anita",
+      "line": "*sob* There's nowhere else the voices could have been coming from... *sob* Please, climb up there and let me know what you find!"
+    },
+    {
+      "character": "Player",
+      "line": "Any idea where Glough is?"
+    },
+    {
+      "character": "Anita",
+      "line": "The last time I helped you... *sob* Glough lost his job!"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "The note is blank... I'm not sure what I'm meant to be reading right now."
+    },
+    {
+      "character": "Player",
+      "line": "I need to translate this before it's going to be of any use... Maybe the King can help."
+    },
+    {
+      "character": "Player",
+      "line": "What could the note mean? I should show it to the King, he might be able to make some sense of it."
+    },
+    {
+      "character": "Player",
+      "line": "I found a note in Glough's home which might be of use."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Excellent, do you have it with you?"
+    },
+    {
+      "character": "Player",
+      "line": "I have it right here."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Ah, I see that it is written in the ancient gnome language... Perhaps you could translate it with that translation book you've used before?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have a copy of the translation book any more."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Here's a spare copy."
+    },
+    {
+      "character": "Player",
+      "line": "I'll give it a go."
+    },
+    {
+      "character": "Player",
+      "line": "There's too much missing from this translation book to make much sense of the note."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "It is true that the translation guide is incomplete... Perhaps it would be of more use to go to the author directly?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll see if the author can help translate the note for me, then."
+    },
+    {
+      "character": "Player",
+      "line": "Could you translate these notes? I found them in Glough's home, half of it is missing."
+    },
+    {
+      "character": "Anita",
+      "line": "Hmm... This certainly isn't Glough's handwriting..."
+    },
+    {
+      "character": "Anita",
+      "line": "Here you go, hopefully it helps you find Glough."
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode! With Anita's help I was able to translate the note... It appears Glough had help leaving the stronghold!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "What!? Who could have committed such a crime? Show me the note."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "The note refers to a replacement pilot, we've only had one pilot reassigned recently and that's Lori taking over Le Smith's post as a balloon pilot."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": ", you must find out where Glough might have travelled to. Assistant Lori may be able to help."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Have you been able to find out where Glough has gone,"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, King Narnode."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Please hurry,. Glough is very dangerous and must be stopped!"
+    },
+    {
+      "character": "Assistant Lori",
+      "line": "Do you want to use the balloon? Just so you know, some locations require special logs and high Firemaking skills."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Assistant Lori",
+      "line": "I am Assistant Lori. I've been assigned to the stronghold by Auguste."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to Assistant Le Smith?"
+    },
+    {
+      "character": "Assistant Lori",
+      "line": "I'm not sure, you would have to speak to Auguste about that."
+    },
+    {
+      "character": "Assistant Lori",
+      "line": "Do you want to use the balloon?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Hello,. It is good to see you again. My enterprise has grown since we last met. I've expanded all over Gielinor!"
+    },
+    {
+      "character": "Auguste",
+      "line": "If you'd like to go to a new location, you will have to help fly the balloon again. Some of the routes are very dangerous!"
+    },
+    {
+      "character": "Auguste",
+      "line": "But each route you complete will earn you Firemaking experience."
+    },
+    {
+      "character": "Auguste",
+      "line": "Once you've opened a route, it only costs 1 log of the corresponding type to travel there again, from any location you've already opened!"
+    },
+    {
+      "character": "Auguste",
+      "line": "I have also hired assistants to watch over the balloons at each new location we go to. They will help you get where you want to go."
+    },
+    {
+      "character": "Auguste",
+      "line": "Do you want to use the balloon? Just so you know, some locations require special logs and high Firemaking skills."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to talk about Assistant Le Smith."
+    },
+    {
+      "character": "Auguste",
+      "line": "What a coincidence, he just so happened to visit recently. What's this about?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to know about the route you taught him."
+    },
+    {
+      "character": "Auguste",
+      "line": "Ah... I insisted it was far too dangerous, nobody has attempted to make that journey before!"
+    },
+    {
+      "character": "Player",
+      "line": "Where?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Ape Atoll..."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the information."
+    },
+    {
+      "character": "Player",
+      "line": "Can you teach me the route?"
+    },
+    {
+      "character": "Auguste",
+      "line": "Most certainly not! For all I know, I've already sent one of my finest pilots to his peril!"
+    },
+    {
+      "character": "Player",
+      "line": "I've found evidence that Glough may have headed to Ape Atoll."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "How could this be?"
+    },
+    {
+      "character": "Player",
+      "line": "Assistant Le Smith is involved, it appears he has flown them there."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Agh! We were foolish to allow him to stay here after dismissing him from the glider regiment."
+    },
+    {
+      "character": "Player",
+      "line": "So, what should we do now?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Glough must be working with the monkeys once again. Fortunately, the rest of the 10th squad remained on Ape Atoll after your previous mission, they have been keeping a close eye on Awowogei."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Perhaps they will have spotted something out of the ordinary that could help indicate what Glough is doing."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Glough is a threat to us all... I must hereby re-assign you to Ape Atoll,. Report to Sergeant Garkor on Ape Atoll for further orders."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I have given you orders,. Report to Sergeant Garkor on Ape Atoll for further instruction."
+    },
+    {
+      "character": "Garkor",
+      "line": "Welcome back,."
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode has sent me. I'm investigating the disappearance of Glough."
+    },
+    {
+      "character": "Garkor",
+      "line": "Glough... really? We've not had any indication that he has returned to Ape Atoll."
+    },
+    {
+      "character": "Garkor",
+      "line": "But we have been seeing a lot of activity from Awowogei and his commanders - I assumed the king would send someone soon enough."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea what they're up to?"
+    },
+    {
+      "character": "Garkor",
+      "line": "We're not entirely sure, he has been keeping a tight lid on his plans. I guess it could be tied to Glough's disappearance? Perhaps you could get more information from Awowogei directly..."
+    },
+    {
+      "character": "Garkor",
+      "line": "He may be willing to share his plans with you, assuming you are disguised with a greegree, that is."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds far too dangerous."
+    },
+    {
+      "character": "Garkor",
+      "line": "A member of the 10th squad should never back down in the face of adversity, come back when you're feeling up to the task."
+    },
+    {
+      "character": "Player",
+      "line": "It's worth a shot."
+    },
+    {
+      "character": "Garkor",
+      "line": "Good luck,."
+    },
+    {
+      "character": "Player",
+      "line": "What are you still doing here?"
+    },
+    {
+      "character": "Garkor",
+      "line": "My squad and I are still carrying out reconnaissance. Awowogei has been very occupied as of lately, could this have something to do with why you're here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm only passing through."
+    },
+    {
+      "character": "Garkor",
+      "line": "Have you learned anything from Awowogei yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet..."
+    },
+    {
+      "character": "Garkor",
+      "line": "We can't give up, come back when you've got more information."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get to it right away."
+    },
+    {
+      "character": "Awowogei",
+      "line": "What do you want? I'm very busy right now."
+    },
+    {
+      "character": "Player",
+      "line": "How are things going, Awowogei?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "I don't have time for idle chat! What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm here to discuss military strategies."
+    },
+    {
+      "character": "Awowogei",
+      "line": "I only discuss such matters with my highest ranking military officials. In fact, I am supposed to be in a meeting with my commander right now. Kruk has been consistently late to our meetings recently."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Uwogo, have a messenger fetch him from his post."
+    },
+    {
+      "character": "Uwogo",
+      "line": "I'm afraid all of our messengers are busy."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Hmmm, perhaps you could make yourself useful after all, visitor. Why don't you run along to the gate and remind Kruk of our meeting."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, my king."
+    },
+    {
+      "character": "Player",
+      "line": "Garkor isn't going to be happy when I tell him about this..."
+    },
+    {
+      "character": "Awowogei",
+      "line": "What was that? Is there a problem?"
+    },
+    {
+      "character": "Player",
+      "line": "None at all."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Excellent. I must prepare for my meeting, Uwogo."
+    },
+    {
+      "character": "Uwogo",
+      "line": "I'm afraid your time with the king is up, you should fetch Kruk from his post on the gate."
+    },
+    {
+      "character": "Player",
+      "line": "I don't take orders from you!"
+    },
+    {
+      "character": "Player",
+      "line": "Any idea where I can find Glough?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "I don't know what you're talking about. We haven't been involved with Glough since he failed us."
+    },
+    {
+      "character": "Player",
+      "line": "He won't discuss his plans with anyone but his military commanders."
+    },
+    {
+      "character": "Garkor",
+      "line": "Ah, the monkey has more sense than we give him credit for... Perhaps you could go back in there as one of his commanders?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Zooknock could get you disguised as one of Awowogei's commanders if you retrieved the necessary items for him to make a greegree. We just need to choose which commander to go after..."
+    },
+    {
+      "character": "Player",
+      "line": "Well Awowogei mentioned something about a meeting with Kruk. He wanted me to go to find him."
+    },
+    {
+      "character": "Garkor",
+      "line": "Kruk eh... Captain of the monkey guard would certainly be a useful disguise to have at our disposal. Hopefully you can find him somewhere isolated from the rest of the guards... Once you have defeated him, take his"
+    },
+    {
+      "character": "Garkor",
+      "line": "corpse to Zooknock along with an uncharged monkey talisman, well, you know the routine."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on getting that greegree."
+    },
+    {
+      "character": "Garkor",
+      "line": "Please hurry, we need this information from Awowogei before it's too late."
+    },
+    {
+      "character": "Monkey Archer",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "The king has sent me with a message for Kruk, any idea where I can find him?"
+    },
+    {
+      "character": "Monkey Archer",
+      "line": "Your guess is as good as mine, you didn't hear it from me, but he's been disappearing from his post a lot lately..."
+    },
+    {
+      "character": "Monkey Archer",
+      "line": "You might be able to track him down if you've got what it takes, although I wouldn't want to be the one caught sneaking up on Kruk!"
+    },
+    {
+      "character": "Player",
+      "line": "Any idea where to start looking?"
+    },
+    {
+      "character": "Monkey Archer",
+      "line": "There's only one way off the wall, and that's down the Western ramp to the shore. I know that's where I'd start looking."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Monkey Archer",
+      "line": "Any luck finding Kruk?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Monkey Archer",
+      "line": "You'd best not keep the king waiting, try tracking down Kruk's movements."
+    },
+    {
+      "character": "Player",
+      "line": "Stop right there, Kruk!"
+    },
+    {
+      "character": "Kruk",
+      "line": "I'm impressed you made it so far, human."
+    },
+    {
+      "character": "Kruk",
+      "line": "However, I'm afraid that this is the end of the line for you."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Ah finally, Kruk! I was beginning to think you had run into trouble..."
+    },
+    {
+      "character": "Player",
+      "line": "Uh... No, everything is fine."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Excellent. Have you had any further considerations for our plans?"
+    },
+    {
+      "character": "Player",
+      "line": "And which plans would we be talking about here?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "Are you sure everything is okay Kruk? You seem very distracted lately."
+    },
+    {
+      "character": "Player",
+      "line": "I'm fine, just been very busy thinking over those plans. Could you remind me where we left off last time?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "We decided to move forward with our three-way assault."
+    },
+    {
+      "character": "Awowogei",
+      "line": "You were negotiating an alliance with the ogres and trolls, working on a new fleet of battleships and then developing that secret weapon of yours."
+    },
+    {
+      "character": "Awowogei",
+      "line": "So, how is progress of our plans coming along?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Don't let me down Kruk, we all know what is at stake here."
+    },
+    {
+      "character": "Player",
+      "line": "The monkeys are planning another attack!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Ah, this comes as little surprise. Did you uncover any details of the plans?"
+    },
+    {
+      "character": "Player",
+      "line": "The assault is coming in three stages..."
+    },
+    {
+      "character": "Player",
+      "line": "First, the monkeys wish to join into an alliance with the trolls and ogres..."
+    },
+    {
+      "character": "Garkor",
+      "line": "That makes sense, it's no secret that those races are no fans of humans, other than perhaps as ingredients in a soup... What else did you learn?"
+    },
+    {
+      "character": "Player",
+      "line": "The monkeys have been building a fleet of battleships."
+    },
+    {
+      "character": "Garkor",
+      "line": "That is odd, we have spies posted at the shipyard who haven't reported any news of this to us. I'll get a few scouts to look into it further. What's the final element to this attack?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently Kruk has been working on a secret weapon, I've got no idea what it is."
+    },
+    {
+      "character": "Garkor",
+      "line": "Well then, that sounds ominous. I'll have some men look into it. For now, let's deal with the problems we can solve."
+    },
+    {
+      "character": "Garkor",
+      "line": "You must convince the trolls and ogres not to ally with the monkeys."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on how?"
+    },
+    {
+      "character": "Garkor",
+      "line": "You should pay a visit to the military officials of each race. I believe a troll general by the name of Kob is still filling that role in the Troll Stronghold. As for the ogres, I would recommend finding the head of the city"
+    },
+    {
+      "character": "Garkor",
+      "line": "guard in Gu'Tanoth."
+    },
+    {
+      "character": "Kob",
+      "line": "What you do here, human?"
+    },
+    {
+      "character": "Player",
+      "line": "I know about your deal with the monkeys. I'm here to persuade you not to join their alliance."
+    },
+    {
+      "character": "Kob",
+      "line": "Alliance? We plan to crush the hairy little men as soon as the humans are gone!"
+    },
+    {
+      "character": "Player",
+      "line": "You won't be around to crush anyone when I'm done with you."
+    },
+    {
+      "character": "Kob",
+      "line": "Ah, this food thinks it's a brave one, this will be fun!"
+    },
+    {
+      "character": "Kob",
+      "line": "Here's the game, I kill you, we help little hairy men kill all the humans. You kill me, we call off the attack."
+    },
+    {
+      "character": "Player",
+      "line": "I accept your challenge."
+    },
+    {
+      "character": "Player",
+      "line": "Not right now."
+    },
+    {
+      "character": "Kob",
+      "line": "Maybe human not as brave as Kob thinks!"
+    },
+    {
+      "character": "Player",
+      "line": "What would it take to persuade you not to attack the humans?"
+    },
+    {
+      "character": "Kob",
+      "line": "Humans are all so weak! There is nothing you can offer us to stop the attack!"
+    },
+    {
+      "character": "Kob",
+      "line": "I am Kob, mightiest of the troll generals!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll just be on my way."
+    },
+    {
+      "character": "Kob",
+      "line": "Hurry before I get hungry!"
+    },
+    {
+      "character": "Kob",
+      "line": "Wait! Maybe battle to death is too much..."
+    },
+    {
+      "character": "Player",
+      "line": "What about our deal?"
+    },
+    {
+      "character": "Kob",
+      "line": "You win, I will call off the attack."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for the head of the city guard..."
+    },
+    {
+      "character": "Keef",
+      "line": "You found him! What do you want, little human?"
+    },
+    {
+      "character": "Keef",
+      "line": "Hahaha! Monkeys offer us treasure, land and all the humans we can eat! What do you offer us?"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I could offer you more?"
+    },
+    {
+      "character": "Keef",
+      "line": "I don't think human can offer me cities like the monkey king can!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... that's not going to work."
+    },
+    {
+      "character": "Player",
+      "line": "I offer to spare your life."
+    },
+    {
+      "character": "Keef",
+      "line": "Little human is brave! I think I can offer you a deal..."
+    },
+    {
+      "character": "Keef",
+      "line": "If you can defeat me in battle, I will tell my men not to help the monkeys."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a fight!"
+    },
+    {
+      "character": "Keef",
+      "line": "Hahaha, human is funny! You will barely fill my stomach, stop wasting my time!"
+    },
+    {
+      "character": "Player",
+      "line": "Nevermind."
+    },
+    {
+      "character": "Keef",
+      "line": "Stop! Stop! You prove you are very strong, little human!"
+    },
+    {
+      "character": "Keef",
+      "line": "A deal is a deal. We will not be allies with the monkeys."
+    },
+    {
+      "character": "Player",
+      "line": "I have convinced the ogres and trolls not to form an alliance with the monkeys."
+    },
+    {
+      "character": "Garkor",
+      "line": "Excellent work,."
+    },
+    {
+      "character": "Garkor",
+      "line": "I have had my men look into this supposed fleet of battleships. The shipyard has turned up nothing, although, someone did say they saw a familiar face sneaking around town."
+    },
+    {
+      "character": "Player",
+      "line": "Who?"
+    },
+    {
+      "character": "Garkor",
+      "line": "An old pilot from the stronghold, he went by the name of Le Smith. I hadn't heard of him since he was dismissed from the glider regiment."
+    },
+    {
+      "character": "Player",
+      "line": "Right. He's the one who flew Glough here..."
+    },
+    {
+      "character": "Garkor",
+      "line": "If that's the case then he's likely to have information we could use. You should track him down and see what you can learn."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea where I should start looking?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Your guess is as good as mine - he must be somewhere on Ape Atoll."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Sorry, I don't have an amulet of monkey speak."
+    },
+    {
+      "character": "Player",
+      "line": "That's okay, I am wearing my... uh... amulet of human speak."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Oh, right... What are you doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "I was going to ask you the same question."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Glough told me not to talk to anyone while I'm here."
+    },
+    {
+      "character": "Player",
+      "line": "So you're here with Glough?"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "I've already said too much. Please, leave me be."
+    },
+    {
+      "character": "Player",
+      "line": "Why is that?"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "The fleet must be kept top secret... Agh! Forget I said anything."
+    },
+    {
+      "character": "Player",
+      "line": "Awowogei has already informed me about the battleships. In fact, he sent me here to check up on your progress."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "So what is it you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Where is the fleet? The shipyard still seems pretty bare."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Aha! The shipyard? Of course you aren't going to find anything there!"
+    },
+    {
+      "character": "Player",
+      "line": "Aha... right... Of course?"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "The airships are being built just off the coast of Ape Atoll."
+    },
+    {
+      "character": "Player",
+      "line": "Airships!? I mean... Right."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Anyway, I have to get back to work. Let Awowogei know everything is on schedule."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I know enough already."
+    },
+    {
+      "character": "Player",
+      "line": "What fleet are you talking about?"
+    },
+    {
+      "character": "Player",
+      "line": "King Awowogei has sent me to find Glough."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Well you're not going to find him up here. I'm afraid I'm too busy to chat right now."
+    },
+    {
+      "character": "Player",
+      "line": "I was just admiring the view."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Me too, it's perfect conditions for my test flight."
+    },
+    {
+      "character": "Player",
+      "line": "Good for you, I'll just be on my way."
+    },
+    {
+      "character": "Player",
+      "line": "Test flight?"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Oh sorry, ignore that. I just meant it's a lovely day."
+    },
+    {
+      "character": "Player",
+      "line": "I was just leaving."
+    },
+    {
+      "character": "Player",
+      "line": "Assistant Le Smith?"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Yes? Wait... what are you doing here?"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "I've already said too much, human. Please, leave me be."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Odd, I didn't think Awowogei was the type to work with humans..."
+    },
+    {
+      "character": "Player",
+      "line": "Um.. I am a prisoner of war here, Awowogei gets me to run errands."
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode has sent me to find Glough."
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "I'm afraid I have no idea what you're talking about... I'm just here on vacation!"
+    },
+    {
+      "character": "Player",
+      "line": "I've spoken to Assistant Le Smith."
+    },
+    {
+      "character": "Garkor",
+      "line": "What have you learned?"
+    },
+    {
+      "character": "Player",
+      "line": "He mentioned something about airships being built off the coast of Ape Atoll."
+    },
+    {
+      "character": "Garkor",
+      "line": "Airships? No wonder we didn't find anything at the shipyard... You'll have to do something about them."
+    },
+    {
+      "character": "Player",
+      "line": "What can I do?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Firstly, you have to find out where they're constructing these airships..."
+    },
+    {
+      "character": "Garkor",
+      "line": "Once you've found the location, you'll have to find a way to sabotage the airships."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Monkey guard",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "What's going on here?"
+    },
+    {
+      "character": "Monkey guard",
+      "line": "I'm keeping watch on who comes and goes from the construction platform."
+    },
+    {
+      "character": "Monkey guard",
+      "line": "There's a large scale construction project taking place offshore."
+    },
+    {
+      "character": "Player",
+      "line": "Can I visit the platform?"
+    },
+    {
+      "character": "Monkey guard",
+      "line": "I'm afraid only authorised personnel are allowed to visit the platform."
+    },
+    {
+      "character": "Monkey guard",
+      "line": "Yes, sir. The engineers needed a large open space to construct the fleet, an offshore platform was the obvious solution."
+    },
+    {
+      "character": "Monkey guard",
+      "line": "Of course, sir."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. See you around."
+    },
+    {
+      "character": "Player",
+      "line": "I was just passing through. Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "There must be some kind of explosive somewhere on this platform that I can use..."
+    },
+    {
+      "character": "Player",
+      "line": "That should be enough, now I just have to get back to the boat..."
+    },
+    {
+      "character": "Player",
+      "line": "I've destroyed the airships!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Excellent, !"
+    },
+    {
+      "character": "Garkor",
+      "line": "While you were away, we managed to uncover something quite unsettling."
+    },
+    {
+      "character": "Garkor",
+      "line": "We were investigating the tunnels where you found Kruk, and discovered an entrance to a much deeper cavern."
+    },
+    {
+      "character": "Garkor",
+      "line": "Unfortunately, we were unable to access the entrance ourselves, there was some magical force stopping us from getting through."
+    },
+    {
+      "character": "Garkor",
+      "line": "We are fairly confident this is where the 'secret weapon' Kruk was working on is being developed, you'll have to find a way into the area."
+    },
+    {
+      "character": "Player",
+      "line": "How do you expect me to find a way through the magical barrier?"
+    },
+    {
+      "character": "Garkor",
+      "line": "I'm sure you'll find a way,."
+    },
+    {
+      "character": "Garkor",
+      "line": "Have you found out any more about the 'secret weapon' Kruk was working on?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Please hurry, we need to find out what we're up against here."
+    },
+    {
+      "character": "Glough",
+      "line": "Kruk! Where have you been? The experiments have broken out of their cages again, get them back under control before they destroy any more of my work!"
+    },
+    {
+      "character": "Glough",
+      "line": "Good work getting them back under control Kruk."
+    },
+    {
+      "character": "Glough",
+      "line": "Clearly that last strain of the mutagen was too unstable..."
+    },
+    {
+      "character": "Player",
+      "line": "Mutagen?"
+    },
+    {
+      "character": "Glough",
+      "line": "Right... I forgot I don't keep you around for your brains."
+    },
+    {
+      "character": "Glough",
+      "line": "I've been experimenting on those specimens you've been gathering for me."
+    },
+    {
+      "character": "Glough",
+      "line": "I've been trying to find a mutagen stable enough to allow me to have control over the creatures, whilst keeping them aggressive enough to tear apart anything that stands in our way."
+    },
+    {
+      "character": "Glough",
+      "line": "I think I may have finally found the perfect balance, however, I will need time to carry out some final tests."
+    },
+    {
+      "character": "Player",
+      "line": "How big is this army of creatures?"
+    },
+    {
+      "character": "Glough",
+      "line": "I'm only using our test subjects at the moment, however, once I've processed the mutagen into an airborne form, I'll be able to unleash it across all of Ape Atoll!"
+    },
+    {
+      "character": "Glough",
+      "line": "All that we have to do now is wait for the mutagen to infuse power from these charged onyx gems."
+    },
+    {
+      "character": "Glough",
+      "line": "I'm going to find out where Le Smith has disappeared to, I'll let you know when I next require your services. Farewell, Kruk."
+    },
+    {
+      "character": "Player",
+      "line": "I should check what effect this has had on the mutagen."
+    },
+    {
+      "character": "Player",
+      "line": "I've taken care of Glough's secret weapon, he was working on some kind of mutagen for apes."
+    },
+    {
+      "character": "Garkor",
+      "line": "Good work, ! Now all that's left to do is inform Awowogei of his failed plans. If he has any sense, he will call off his plans for attack."
+    },
+    {
+      "character": "Garkor",
+      "line": "Have you informed Awowogei of his failed plans?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Please hurry, we are so close to victory!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I have bad news."
+    },
+    {
+      "character": "Awowogei",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "The trolls and ogres have backed out of our alliance..."
+    },
+    {
+      "character": "Player",
+      "line": "The fleet of battleships will not be ready in time for our attack..."
+    },
+    {
+      "character": "Awowogei",
+      "line": "This is a disaster! What about your secret weapon?"
+    },
+    {
+      "character": "Player",
+      "line": "Unfortunately there have been some complications, the weapon is still too unstable for use on the battlefield."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Agh! You have left me no choice but to cancel our assault on the mainland..."
+    },
+    {
+      "character": "Awowogei",
+      "line": "You have failed me for the last time, Kruk, you are hereby stripped of your rank and duties. Uwogo, cancel all of my upcoming meetings, I need some time alone."
+    },
+    {
+      "character": "Uwogo",
+      "line": "You are not welcome here, Kruk."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and he has called off the attack!"
+    },
+    {
+      "character": "Garkor",
+      "line": "I knew you could do it, !"
+    },
+    {
+      "character": "Garkor",
+      "line": "It would appear your mission on Ape Atoll is complete. You should inform the king that we've located Glough and thwarted Awowogei's plans. While you're..."
+    },
+    {
+      "character": "Garkor",
+      "line": "Huh? What was that?"
+    },
+    {
+      "character": "Garkor",
+      "line": "You said you dealt with the airships, !"
+    },
+    {
+      "character": "Player",
+      "line": "I thought I did!"
+    },
+    {
+      "character": "Glough",
+      "line": "Huaarghh! I knew I couldn't rely on these primitive apes, I'll just have to do this myself!"
+    },
+    {
+      "character": "Glough",
+      "line": "Le Smith, set our course for the Grand Tree, let's end this once and for all!"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Yes, sir."
+    },
+    {
+      "character": "Garkor",
+      "line": "We have to stop Glough! Get back to the Stronghold and warn the king before it's too late! I'll get the rest of the 10th squad together and we'll meet you there."
+    },
+    {
+      "character": "Garkor",
+      "line": "There's no time for chatting, ! You need to get back to the Gnome Stronghold!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "How is the mission going, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I found Glough, he's headed for the Stronghold! We need to evacuate!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Evacuate? I think you're overreacting... My troops can handle Glough."
+    },
+    {
+      "character": "Player",
+      "line": "You don't understand, he has an airship and army of demonic experiments!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "This is bad... I will put the troops on high alert. And... Well, we do have someone else who may be able to help..."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Nieve is the most highly skilled warrior we have here, get her assistance and defend the Stronghold."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Get Nieve and defend the Stronghold, !"
+    },
+    {
+      "character": "Nieve",
+      "line": "What's wrong?"
+    },
+    {
+      "character": "Player",
+      "line": "Glough is leading an attack on the Stronghold with an army of demonic creatures! We need your help!"
+    },
+    {
+      "character": "Nieve",
+      "line": "What are you talking about?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a long story, the king has requested that you join me in assisting the troops with the Stronghold's defence."
+    },
+    {
+      "character": "Nieve",
+      "line": "I am unable to leave my post unattended, I'll have to bring in a replacement while I'm helping. Are you sure you want me to join you?"
+    },
+    {
+      "character": "Nieve",
+      "line": "You should pick up your pet first. It would only get in the way."
+    },
+    {
+      "character": "Nieve",
+      "line": "What in Gielinor is that thing?"
+    },
+    {
+      "character": "Player",
+      "line": "It's Glough's airship - and it's heading straight for the Grand Tree!"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "Sir, those experiments of yours are out of control back there, isn't there something you can do?"
+    },
+    {
+      "character": "Glough",
+      "line": "Just focus on piloting the ship! Narnode isn't going to know what's hit him!"
+    },
+    {
+      "character": "Assistant Le Smith",
+      "line": "But sir, it's only a matter of time before they... Agghh!"
+    },
+    {
+      "character": "Nieve",
+      "line": "Huh? It completely missed the Grand Tree! We should head North to the crash site..."
+    },
+    {
+      "character": "Nieve",
+      "line": "Wait, look! Some of those things have broken into the Stronghold! We have to stop them, let's go!"
+    },
+    {
+      "character": "Nieve",
+      "line": "Come on, we've got to defend the Stronghold!"
+    },
+    {
+      "character": "Nieve",
+      "line": "I'll meet you back at the Grand Tree,."
+    },
+    {
+      "character": "Nieve",
+      "line": "I think we've dealt with enough of these things, the troops can handle the rest! Let's join the 10th squad by the breach in the outer wall to the North."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Good work, my troops can take it from here. You and Nieve should investigate the crash site."
+    },
+    {
+      "character": "Player",
+      "line": "We'll head there now."
+    },
+    {
+      "character": "Lumo",
+      "line": "Don't just stand there, help us deal with these abominations!"
+    },
+    {
+      "character": "Lumo",
+      "line": "Good work dealing with those abominations, you should talk to the commander."
+    },
+    {
+      "character": "Garkor",
+      "line": "Some of those things have made it into the Stronghold, you've got to defeat them, !"
+    },
+    {
+      "character": "Garkor",
+      "line": "We'll keep the breach secure,. You should head to the crash site to make sure Glough is dealt with, once and for all."
+    },
+    {
+      "character": "Player",
+      "line": "No problem, I'll finish this once and for all."
+    },
+    {
+      "character": "Garkor",
+      "line": "I know you're tough, but it would be unwise to head out there on your own. Get Nieve and then come back."
+    },
+    {
+      "character": "Glough",
+      "line": "You. Always it's you. Have you any idea how sick I am of you? What have you even got against me?"
+    },
+    {
+      "character": "Nieve",
+      "line": "Surrender to us, Glough, or I swear by my shiny blue shield that I will end you right here."
+    },
+    {
+      "character": "Glough",
+      "line": "Oh, will you? The lady talks tough. Let's see how you fare against my best pets!"
+    },
+    {
+      "character": "Glough",
+      "line": "Hahahaha!"
+    },
+    {
+      "character": "Glough",
+      "line": "Bah! Never trust a monkey to do a gnome's work."
+    },
+    {
+      "character": "Glough",
+      "line": "I guess I'll just have to deal with you two meddling buffoons myself!"
+    },
+    {
+      "character": "Nieve",
+      "line": "He has the mutagen! We have to stop him!"
+    },
+    {
+      "character": "Player",
+      "line": "Nieve, wait!"
+    },
+    {
+      "character": "Player",
+      "line": "Nooooooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "You'll pay for this Glough!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh oh!"
+    },
+    {
+      "character": "Zooknock",
+      "line": ", are you okay? We detected a very powerful presence in the caverns and decided to pull you out, I couldn't get a lock on Nieve, is she alright?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid she didn't make it... It was Glough, he injected himself with the demonic mutagen he had been developing... He was too powerful..."
+    },
+    {
+      "character": "Zooknock",
+      "line": "And what of Glough now?"
+    },
+    {
+      "character": "Player",
+      "line": "He's not a problem any longer."
+    },
+    {
+      "character": "Zooknock",
+      "line": "I hope you are right,."
+    },
+    {
+      "character": "Zooknock",
+      "line": "You should report back to the king, I can teleport you to the Grand Tree if you would like?"
+    },
+    {
+      "character": "Carado",
+      "line": "Report back to the king as soon as possible."
+    },
+    {
+      "character": "Player",
+      "line": "Glough has been defeated, and his demonic creations are trapped deep within the caverns to the North."
+    },
+    {
+      "character": "Player",
+      "line": "The monkeys were planning another attack, however, I managed to sabotage their plans."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "This is excellent news,. Where is Nieve?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid she didn't make it."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Her sacrifice will not be forgotten."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I have received word from monkey messengers that Awowogei himself wishes to make a visit to the Stronghold..."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Apparently he wishes to set up an agreement of peace between Ape Atoll and the mainland."
+    },
+    {
+      "character": "Player",
+      "line": "A peace treaty... Do you trust him?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I don't have a choice. It would be foolish to decline such an offer, there may not be many more opportunities for peace between our kingdoms."
+    },
+    {
+      "character": "Player",
+      "line": "So, what now?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Rest, you have earned it. I will have you summoned when the peace agreement is complete, you should be present during a moment of such historic importance."
+    },
+    {
+      "character": "Awowogei",
+      "line": "So, I hear you were the one to foil Glough's plans. Thank you, human, he had been setting our kingdoms against one another for far too long."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Finally, there can be peace between Ape Atoll and the mainland., you are welcome to visit Ape Atoll whenever you please, we will be opening our gates to the outside world for the first time."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Awowogei has allowed us to set up a Gnome glider route to Marim, you are welcome to use it as you wish."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Please, feel free to talk to the new head of the Ape Atoll guard, Duke, about advanced combat training, should you wish to receive it."
+    },
+    {
+      "character": "Awowogei",
+      "line": "I must be heading back now. Farewell, King Narnode, and thank you again,."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "On behalf of the Gnomes I can only thank you,."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Please accept this gift as a token of our gratitude for your services to our people."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "This is one of my personal seed pods, handed down through the generations of my family."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Simply commune with a pod and you'll be teleported right here to the Grand Tree."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, King Narnode!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Anita",
+      "description": "Young adult female gnome, British accent, emotional and worried tone, a devoted girlfriend who is easily upset and prone to sobbing when distressed."
+    },
+    {
+      "name": "Assistant Le Smith",
+      "description": "Middle-aged male gnome, British accent, nervous and subservient tone, a former glider pilot turned traitor who is easily intimidated and follows orders without question."
+    },
+    {
+      "name": "Assistant Lori",
+      "description": "Adult male gnome, British accent, polite and professional tone, a helpful balloon transport assistant who takes his job seriously."
+    },
+    {
+      "name": "Auguste",
+      "description": "Middle-aged male human monk, French accent, enthusiastic and ambitious tone, an eccentric balloonist inventor who dreams of adventure beyond his island monastery."
+    },
+    {
+      "name": "Awowogei",
+      "description": "Adult male monkey king, deep regal voice with an exotic accent, imperious and commanding tone, a dapper monarch who values capability and grows impatient with incompetence."
+    },
+    {
+      "name": "Carado",
+      "description": "Adult male gnome, British accent, gruff military tone, a seasoned foot soldier of the 10th Squad who has seen his share of combat."
+    },
+    {
+      "name": "Garkor",
+      "description": "Middle-aged male gnome, British accent, authoritative and weathered tone, a large battle-hardened sergeant who commands the 10th Squad with experience and determination."
+    },
+    {
+      "name": "Glough",
+      "description": "Middle-aged male gnome, British accent, sinister and contemptuous tone, a misanthropic villain consumed by hatred for humans and delusions of world domination."
+    },
+    {
+      "name": "Keef",
+      "description": "Adult male ogre, deep gravelly voice, aggressive and mocking tone, a brutish city guard commander who respects only strength but will beg for mercy when defeated."
+    },
+    {
+      "name": "King Narnode Shareen",
+      "description": "Elderly male gnome, British accent, dignified and concerned tone, a wise monarch who cares deeply for his kingdom and has a fondness for humans."
+    },
+    {
+      "name": "Kob",
+      "description": "Adult male troll, deep slow voice with broken grammar, brutish and overconfident tone, a powerful troll general who views humans as food but knows when he is beaten."
+    },
+    {
+      "name": "Kruk",
+      "description": "Adult male ninja monkey, gruff exotic accent, menacing and calculating tone, a large and dangerous military commander who operates in the shadows."
+    },
+    {
+      "name": "Lumo",
+      "description": "Adult male gnome, British accent, wry and humorous tone, a seasoned foot soldier who maintains morale through jokes despite harsh conditions."
+    },
+    {
+      "name": "Monkey Archer",
+      "description": "Adult male ninja monkey, quick exotic accent, alert and suspicious tone, a bow-wielding guard who is observant but willing to share information discreetly."
+    },
+    {
+      "name": "Monkey guard",
+      "description": "Adult male gorilla, deep rumbling voice, dutiful and straightforward tone, a brutish but professional temple guard who follows orders without question."
+    },
+    {
+      "name": "Nieve",
+      "description": "Young adult female human, British accent, confident and fearless tone, an elite warrior and Slayer master who charges into danger without hesitation."
+    },
+    {
+      "name": "Uwogo",
+      "description": "Adult male monkey, formal exotic accent, dismissive and skeptical tone, a smartly-dressed royal advisor who views outsiders with suspicion."
+    },
+    {
+      "name": "Zooknock",
+      "description": "Elderly male gnome, British accent, wise and patient tone, a wizened mage dressed in colorful robes who specializes in magical enchantments and greegrees."
+    }
+  ]
+}

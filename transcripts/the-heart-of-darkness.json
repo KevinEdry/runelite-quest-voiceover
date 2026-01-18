@@ -1,0 +1,2184 @@
+{
+  "branch": "quest/the-heart-of-darkness",
+  "quest_name": "The Heart of Darkness",
+  "lines": [
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nilsal,."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Itzla. How are things going?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Father should make a full recovery, though given that his would-be killers are still out there, that's not anywhere near as much comfort as it should be."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I've sent word to mother about what happened here, but I've not heard back yet. Once I have, we can start planning our next move."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I've sent word to mother about what happened here, but I've not heard back yet. However, in the meantime, I've devised a little plan for how we might go about dealing with our cultist problem."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We're going to go... undercover!"
+    },
+    {
+      "character": "Player",
+      "line": "Undercover? What do you mean?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The Twilight Emissaries of course! If they are the ones responsible for what is now two attempts on my father's life, their deaths will be swift and brutal."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "However, given we're somewhat civilised people, we can't exactly start executing cultists without definitive proof. How do we get that? By joining up of course!"
+    },
+    {
+      "character": "Player",
+      "line": "You want us to join the cult?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Exactly! Quite a clever plan, if I do say so myself."
+    },
+    {
+      "character": "Player",
+      "line": "Right..."
+    },
+    {
+      "character": "Guard",
+      "line": "Prepare for the arrival of Queen Zyanyi Arkan!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah... This should be fun."
+    },
+    {
+      "character": "Player",
+      "line": "I'd love to hear it, but I have some things I need to do first."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Very well. I'll be here when you're ready."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Mother."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "As I stand here, the healers toil to save the life of the Teokan of Ralos."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "Why?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "He wished to return to the Teomat. I advised against it, but..."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "So you would blame him?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Not exactly..."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "Then take responsibility. You were charged with rooting out those who would plot against us. You failed. Why?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "With respect, progress has been made. We believe the Twilight Emissaries to be responsible, but we need to obtain proof before we can act."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "How?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We will infiltrate the cult and gather any information we can. Once we have confirmed their guilt, they will be eradicated."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "We?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "This is a task of upmost importance. I intend to lead the infiltration myself."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "So you would chase glory like it is gold to be hoarded? You are the heir to Varlamore. It is not your place."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "In Varlamore we lead from the front!"
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "You do not lead at all, boy! You command the Knights of Varlamore. Use them!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I cannot trust them. We have been infiltrated and our enemies now sit beside us."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "You speak of Metzli?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It could be more than just her. One of my knights was implicated, but another may have incriminated him."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "Who?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "There have been suspicions directed at Furia and Ennius."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "Then all the more reason that you exclude yourself. Determine who you can trust and send them on this mission of yours."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "And if there is no one I can trust?"
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "Then you have failed as a leader."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Mother..."
+    },
+    {
+      "character": "Queen Zyanyi Arkan",
+      "line": "Now go. You have work to do. I don't expect you to fail me again."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yes, my Queen. May the sun light your way."
+    },
+    {
+      "character": "Player",
+      "line": "So..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It would seem I won't be able to join you on this mission, iknami. Still, I have no doubt you will be successful all the same."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to do?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Head to the pub in Quetzacalli Gorge and ask to rent the basement room. I have a contact who will meet you there."
+    },
+    {
+      "character": "Player",
+      "line": "Someone you can trust?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "One of the only people left that I can trust. They'll fill you in on the details of how you'll infiltrate the Emissaries. Good luck,. May the sun light your way."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nilsal,. You should head on over to the pub in Quetzacalli Gorge. Remember, you'll need to rent the basement room. My contact will meet you there."
+    },
+    {
+      "character": "Player",
+      "line": "I'll head over there shortly."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Good luck."
+    },
+    {
+      "character": "Bartender",
+      "line": "Welcome to the Windbreaker. We've got the best drinks around."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to rent the basement room."
+    },
+    {
+      "character": "Bartender",
+      "line": "We don't have a basement room... but I do have a nice big one here on the ground floor that's available. It's 30 coins for the night."
+    },
+    {
+      "character": "Bartender",
+      "line": "Like I said, we don't have a basement room. However, I do have a nice big one here on the ground floor that's available. It's 30 coins for the night."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much on me right now."
+    },
+    {
+      "character": "Bartender",
+      "line": "Well you know where we are if that changes."
+    },
+    {
+      "character": "Player",
+      "line": "I'll take it."
+    },
+    {
+      "character": "Bartender",
+      "line": "Thank you very much. The room is all yours. Enjoy!"
+    },
+    {
+      "character": "Player",
+      "line": "That's too much."
+    },
+    {
+      "character": "Bartender",
+      "line": "Well you know where we are if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Guess I may as well have a little rest while waiting for this contact."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Rise and shine!"
+    },
+    {
+      "character": "Player",
+      "line": "Itzla? Is that you? What are you doing here?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Isn't it obvious? I'm your contact!"
+    },
+    {
+      "character": "Player",
+      "line": "But... no?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Look, I fully appreciate what my mother said. I have carefully considered her instructions, but in this one very specific situation, I have come to the conclusion that they must be disregarded."
+    },
+    {
+      "character": "Player",
+      "line": "But you're the heir to the throne of Varlamore... What if someone recognises you?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well that's why I've covered my face of course. Simple!"
+    },
+    {
+      "character": "Player",
+      "line": "This seems like a bad idea..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "You may well be right, iknami, but that is a bridge we will cross, and then quite possibly burn, when we get to it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I can see you're still not convinced, so let me be frank. I wasn't lying when I spoke to mother. The number of people we can trust is concerningly low."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Metzli, one of the most important people in the entire kingdom, has seemingly betrayed us. If your suspicions are right, Furia and Ennius are guilty as well. For all we know, there could be even more."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "At this point, the fewer people who know about our mission, the better."
+    },
+    {
+      "character": "Player",
+      "line": "But you trust me?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The irony is, my friend, that as an outsider, you're actually far more trustworthy than any Varlamorian now. You almost certainly can't be part of this conspiracy."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'm still not sure if I like this plan, but I see your point. What's our next move?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We need to infiltrate the Twilight Emissaries and confirm their guilt. I've done some digging, and rumour has it that they're on a bit of a recruitment spree at the moment. That's our way in."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The cult makes their home in the Twilight Temple, east of here. I suspect they won't take kindly to us just walking in, but the local shopkeeper here might be able to help us out."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "He's been engaging in many a charitable undertaking recently. Food for the poor, potions for the sick, that sort of thing. You'd be mistaken for thinking him to actually be a reasonable person."
+    },
+    {
+      "character": "Player",
+      "line": "But he's not?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Sadly not in this case. The Emissaries accept members from all walks of life, but the vast majority of their recruits are those from more unfortunate backgrounds."
+    },
+    {
+      "character": "Player",
+      "line": "Ah I see. They have people like this shopkeeper using charity to attract people to their cause."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Exactly. It is... unfortunate. The War of Betrayal was over a lifetime ago, but many still feel the impacts, especially in this part of the kingdom."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I'd like to think we have made great improvements over the years, but this is a clear reminder that far more needs to be done."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Anyway, it's not something to dwell on now. Let us get back to the more pressing matter of joining a dangerous cult."
+    },
+    {
+      "character": "Player",
+      "line": "Right. So this shopkeeper... If I go to him and pose as a potential recruit, your hope is that he'll contact the Emissaries?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Exactly! Return to me here once you've hopefully been successful and we can discuss the next steps."
+    },
+    {
+      "character": "Player",
+      "line": "The Queen didn't seem very happy with you."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "That's parents for you. Do as I say, but not as I do. She was never afraid to get her own hands dirty. Did you know that before she was even my age, she became a champion in the Colosseum?"
+    },
+    {
+      "character": "Player",
+      "line": "You think she sees herself in you? If so, maybe she doesn't want you to make the mistakes that she once did?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I suspect you are right, but I would prefer to learn from my own mistakes. Every ruler must forge their own path. The people will never follow a leader who cannot stand alone."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose that makes sense, but I'm not sure how I feel about you learning from your mistakes while we infiltrate a dangerous cult together."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Fear not, iknami. I am confident that you will probably survive this mission."
+    },
+    {
+      "character": "Player",
+      "line": "That's good, I think..."
+    },
+    {
+      "character": "Player",
+      "line": "Do you really think Metzli, Furia and Ennius are traitors?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Metzli has always been an odd one. Everyone was always quick to dismiss it as just a little side effect of spending a lot of time with dead people. Now I wonder if she used that to her advantage."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "No one cared to pay close attention to her. No one wanted to spend much time around her. She probably got away with all sorts of things without anyone even noticing."
+    },
+    {
+      "character": "Player",
+      "line": "But a traitor?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The evidence seems to suggest so. Why else would she have disappeared after the attack?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe they captured her?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Maybe, but surely someone would have noticed. People generally don't go quietly when captured."
+    },
+    {
+      "character": "Player",
+      "line": "What about Furia and Ennius?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well their family has of course produced traitors before, but they've never seemed to have much love for old Imafore."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "By the end of the war, I think he'd ended up killing more of his own family members than he left alive. Amazing what paranoia will do to a man."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Still, even if they never cared for him, his blood still runs in their veins, and they've never been short on ambition themselves."
+    },
+    {
+      "character": "Player",
+      "line": "If they are guilty... what will you do to them?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The same thing we do to all traitors in Varlamore."
+    },
+    {
+      "character": "Player",
+      "line": "What happens if they try to attack Servius again?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "He's in the capital now, where I wanted him to be from the start. He should be much safer there."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Still, safer is not safe, especially if we do have traitors in our midst. At any moment we risk someone showing some basic competence and actually managing to kill him properly."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't consider the enemy to be competent?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "All I'm saying is that if I'd have been the one trying to assassinate my father, I'd probably have done a half- decent job."
+    },
+    {
+      "character": "Player",
+      "line": "But if the enemy isn't a threat, why are you here?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "What do you mean, iknami?"
+    },
+    {
+      "character": "Player",
+      "line": "If this isn't an enemy to be taken seriously, why do you feel you yourself need to be the one to deal with them? If they're incompetent, shouldn't anyone be able to handle them?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "So you challenge me, iknami? I'm wounded. However, as I said before, I do not feel we can trust many people while we have potential traitors around us."
+    },
+    {
+      "character": "Player",
+      "line": "But if they've managed to position some of their members in very important roles, surely they can't be completely incompetent?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We do not need to do this dance,. I understand that where you come from, there is a certain art to holding a conversation. We do not bother with that here. You may be direct."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I just still don't know you that well. If we're about to infiltrate this cult together, I'd like to understand why you think it's important you do this yourself."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I see. I understand your doubts, my friend. I suppose I have a few reasons for wanting to be here."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "First, I do truly believe this mission has the highest chance of success if fewer people know about it. While I am not convinced on the competence of our foe, I still do not intend to underestimate them."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Second, I suppose I feel a certain level of responsibility. My father was attacked on my watch. When someone falters, it is their duty to fix it, especially when they hold a position like mine."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "After all, a leader who sits by and lets others deal with his mistakes is not someone to have faith in."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Finally, Servius is my father. Our relationship is not a simple one, but he is my father all the same. I would see to it personally that his attackers face justice."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I hope that satisfies you, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "It does. Thank you, Itzla."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better go and speak to this shopkeeper."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nilsal,. Any luck with that shopkeeper?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Keep at it. He's our only way of infiltrating the Emissaries."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Hello there. Looking for some supplies?"
+    },
+    {
+      "character": "Player",
+      "line": "I hear you can offer help to those in need."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Well I'm always happy to help those less fortunate than I, but you don't really look like you need that sort of thing."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure if I should be insulted by that, or flattered... But anyway, you misunderstand. I'm not looking for help myself. Instead I was hoping to do some helping alongside you."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Thank you for the offer, but I'm not really looking for help right now."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure? I do also quite like death."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "What are you on about?"
+    },
+    {
+      "character": "Player",
+      "line": "You know, end of the world, holy fire, final dawns, that sort of thing."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Are you a fool? Keep your voice down!"
+    },
+    {
+      "character": "Player",
+      "line": "Look, I'm not here to cause problems. I just want to help."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "You want to join the Emissaries?"
+    },
+    {
+      "character": "Player",
+      "line": "And a friend as well."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "You know there are tests you'd need to pass, right? Not everyone can be considered worthy."
+    },
+    {
+      "character": "Player",
+      "line": "Fine by me. I love tests!"
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "There is a penalty for failing them."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, not quite as fun, but I'm still up for it."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Well... if you're sure, fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+    },
+    {
+      "character": "Player",
+      "line": "Lovely! Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "About the Emissaries..."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "I already told you to keep your voice down! Fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+    },
+    {
+      "character": "Player",
+      "line": "Great! Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "He's going to reach out to the Emissaries and let them know to expect us at their temple."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Kuani! Let us not waste any time then. I will meet you at the Twilight Temple. You'll find it east of here, on the other side of the Proudspire."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good. I'll see you there shortly."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah, there you are,."
+    },
+    {
+      "character": "Player",
+      "line": "Good to see you, er..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Itzlan."
+    },
+    {
+      "character": "Player",
+      "line": "Itzlan?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... So what happens now that we're here?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It seems this tower is where the Emissaries evaluate possible new members. If we're to get anywhere here, we're going to need to pass whatever tests they might have for us."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Apparently, someone called Forebearer Janus will call upon us when it's our turn to be tested. In the meantime, we may as well mingle with these other potential recruits."
+    },
+    {
+      "character": "Player",
+      "line": "You think they might know something of note?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Unlikely, but it would be interesting to know why they woke up one day and decided their calling in life was to join a cult."
+    },
+    {
+      "character": "Player",
+      "line": "This whole place is very fancy."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yes, I must admit the Emissaries have a more elaborate setup than expected. They've never been this organised before, nor have their numbers been so great. Something must have changed."
+    },
+    {
+      "character": "Player",
+      "line": "Did they build everything here themselves?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Thankfully they are not quite that well put together. The temple here was built not long before the War of Betrayal. It is said that Imafore wanted somewhere dedicated to Ranul that would rival the Teomat."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I'm guessing he was too foolish to realise that the Teomat is equally dedicated to both Ralos and Ranul."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Anyway, the temple was considered an affront to both the Church of Ralos and the Sect of Ranul. After Imafore died, most people were more than happy to see it abandoned."
+    },
+    {
+      "character": "Player",
+      "line": "And the Emissaries eventually moved in?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yes, but only very recently."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... I wonder what the cause was."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "If all goes well, we will hopefully soon find out."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We still haven't been called upon yet. We may as well mingle with these other potential recruits while we wait."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll get mingling."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there!"
+    },
+    {
+      "character": "Nova",
+      "line": "Greetings, iknami. It's good to see so many who are willing to contribute to the Final Dawn. The word of the Augur has changed everything. The time to act is now."
+    },
+    {
+      "character": "Player",
+      "line": "Augur?"
+    },
+    {
+      "character": "Nova",
+      "line": "You have not heard? She is the one who now leads the Emissaries. She has taken this once helpless collective and turned them into the ones who will guide us all to Mokhaiotl."
+    },
+    {
+      "character": "Player",
+      "line": "How do you know all this? You're not even a member yet."
+    },
+    {
+      "character": "Nova",
+      "line": "I was once. In my time of need, I turned to the Emissaries, but they were even more helpless than I was."
+    },
+    {
+      "character": "Nova",
+      "line": "Now though, she has changed everything. Now it is my duty to rejoin their ranks so that we may bring about the Final Dawn."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thanks for the information."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Caritta",
+      "line": "Hello! You're not from around here, are you? It's exciting to see that even people from outside of Varlamore are looking to join the Emissaries!"
+    },
+    {
+      "character": "Player",
+      "line": "Well after I heard about all the good work they were doing, I could hardly say no! What about you? What made you want to join them?"
+    },
+    {
+      "character": "Caritta",
+      "line": "Well it's our duty of course! The Church of Ralos has become lost, but the Emissaries know the truth. Ximoua will not come to be unless we make it so!"
+    },
+    {
+      "character": "Player",
+      "line": "So you're quite eager to see the end of the world then?"
+    },
+    {
+      "character": "Caritta",
+      "line": "End? Ximoua is no end! It is the beginning! We will all come together as one and bring about a new world! I can't wait!"
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm glad to see you're so excited. Good luck with the tests."
+    },
+    {
+      "character": "Caritta",
+      "line": "And you!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Felius",
+      "line": "Leave me be. I am not here to make friends."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Sergius",
+      "line": "I'm not sure I should be here. Maybe all this was a bad idea."
+    },
+    {
+      "character": "Player",
+      "line": "What makes you say that?"
+    },
+    {
+      "character": "Sergius",
+      "line": "I want to help... I want to believe... I really do! It's just all so intimidating..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure it will be fine."
+    },
+    {
+      "character": "Sergius",
+      "line": "I hope so."
+    },
+    {
+      "character": "Player",
+      "line": "I had a chat to some of the other recruits. One of them had something rather interesting to say."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently, the Emissaries gained a new leader recently. They refer to her as the Augur."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Metzli?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess there's only one way to find out."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Hmm... Did you learn anything else of note?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently this Augur will lead the Emissaries to Mokhaiotl. Do you know what that means?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Mokhaiotl? I'm not my father, so you'll have to forgive my knowledge on this sort of thing, but if I remember right, Mokhaiotl plays a key role in Ximoua."
+    },
+    {
+      "character": "Player",
+      "line": "Could you remind me what Ximoua is?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It is said that one day, Ralos and Ranul will come together, uniting all souls as one. In doing so, they will bring about the destruction of this world, but also the birth of a new one."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Most accept that we cannot predict when this day will come. However, our friends in the Twilight Emissaries don't seem happy with that. They instead believe in something called Tsak Tauli, the Final Dawn."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I remember. They see it as their duty to make Ximoua happen. So where does this Mokhaiotl fit in?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "When Ralos and Ranul come together, it is said they will do so at Mokhaiotl, the centre of the world."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Given that the Emissaries see it as their duty to bring about the end, I suppose it makes sense that they'd want to reach Mokhaiotl themselves."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well I'd love to know how they plan on reaching the centre of the world. I can't imagine it's the kind of place that you can just stroll on down to."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Itzlan.. It is time for you to prove your worth. Enter the tower when you're ready."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "But it seems we will have to ponder this mystery later. Pick up your follower and then let us head inside and see what tests await us."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "But it seems we will have to ponder this mystery later. Let us head in and see what tests await us."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It is said that Ralos and Ranul will come together at Mokhaiotl, the centre of the world. It is there that they will unite all souls as one, destroying this world and creating a new one."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Itzlan and, I take it?"
+    },
+    {
+      "character": "Player",
+      "line": "That's us."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Good. Allow me to welcome you to the Tower of Ascension. You are here because you hope to be welcomed into our family. We hope to welcome you as well, but alas, not all can be deemed worthy."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Here, in the Tower of Ascension, you will demonstrate your intellect, strength, loyalty and ability to sacrifice. In doing so, you will prove your worth to Ralos and Ranul."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "When you are ready to begin, climb the stairs. Your first trial awaits."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Hey you! You're not allowed up there."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Itzlan.. When you are ready to begin, climb the stairs. Your first trial awaits."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "You have trials to complete,. Climb up the stairs when you are ready."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Hey! You haven't been given permission to open that!"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Welcome to your first trial. The aim is simple: Speak the correct pass phrase to me and you will be allowed to proceed. Let the trial begin!"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Recruit."
+    },
+    {
+      "character": "Player",
+      "line": "About that passphrase..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Do you have it yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not quite yet, but I'll have it in no time."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "We shall see."
+    },
+    {
+      "character": "Player",
+      "line": "Er... Sure!"
+    },
+    {
+      "character": "Player",
+      "line": "What are we meant to be doing again?"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "It's quite simple: You just need to work out the passphrase and say it to me. You may use whatever you have available in this room to discover it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "These emissaries here are acting a bit strange... They keep putting their hands in their pockets."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We should keep looking for that passphrase."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Found anything of note, iknami?"
+    },
+    {
+      "character": "Player",
+      "line": "I have this book that might be of use."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Hmm... Seems some of the words are highlighted. I doubt that's a coincidence."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think you could help me translate some words?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Translate? Well I guess I can give it a go."
+    },
+    {
+      "character": "Player",
+      "line": "Silam."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah, I recognise this language. It's the language of the Old Ones. Servius did teach me a few of their words, though I may not have paid as much attention as he'd have liked..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "This one means... 'West'!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! Could you translate another?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I can try."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Silam? I think that means 'west'."
+    },
+    {
+      "character": "Player",
+      "line": "Makt."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Makt? I believe that means..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Er..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "'North'! It means 'north'."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Makt? I think that means 'north'."
+    },
+    {
+      "character": "Player",
+      "line": "Uitt."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Uitt? If I remember correctly, that translates to 'south'."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Uitt? I think that means 'south'."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Uitt? I believe that means..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "'South'! It means 'south'."
+    },
+    {
+      "character": "Player",
+      "line": "Takam."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "This one means... 'East'!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Takam? If I remember correctly, that translates to 'east'."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Takam? I think that means 'east'."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! I'm done translating for now."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well I hope it helps, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "I think I might have the passphrase."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Kuani! You'd better let Forebearer Janus know."
+    },
+    {
+      "character": "Player",
+      "line": "I think so!"
+    },
+    {
+      "character": "Player",
+      "line": "Moki Koma Ikam."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "No, that's not quite right."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I'd better keep searching."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "That is correct. Well done! You and your companion may progress to the next trial."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not quite ready."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Speak to me when you are ready to start."
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready!"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Welcome to your next trial. Here, there is one simple goal..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Survive."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Emissary Ascended",
+      "line": "I don't know if you'll ever figure this one out!"
+    },
+    {
+      "character": "Emissary Ascended",
+      "line": "Struggling? I've seen a lot of people fail to work this one out."
+    },
+    {
+      "character": "Emissary Ascended",
+      "line": "Do you think you've got the intellect to complete this one?"
+    },
+    {
+      "character": "Emissary Ascended",
+      "line": "I admit, that was pretty fast. Still, it will take more than that for you to prove your worth."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Are you ready to start the next trial?"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Then come back to me when you are."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Recruit. Are you ready to start?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you remind me what this trial is?"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "The goal is simple: Survive. That is the only advice I can offer you."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Now, are you ready to begin?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm not quite ready yet."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Speak to me again when you are."
+    },
+    {
+      "character": "Player",
+      "line": "Yes! I'm ready."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "As am I."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Then let the trial commence."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It seems some of the boxes have been left around the edges of the room..."
+    },
+    {
+      "character": "Player",
+      "line": "I'll check them out."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I think it's time for a fight! This one should be fun!"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "An unfortunate fate for your companion on your last attempt. Do you want to try again?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Great work there,. I wonder what our next trial will be."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Welcome to your third trial. Before you stand some recently initiated acolytes. However, it seems one of them was not as loyal to our cause as first believed."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Your task is to question all four and determine who the traitor is. I suggest you choose carefully. Good luck."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Recruit. Any luck finding the traitor yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Remember, only one of the four before you is guilty of disloyalty. Question all four and determine who it is. I suggest you choose carefully."
+    },
+    {
+      "character": "Player",
+      "line": "So, what's our plan here?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "My guess is that one of them has some beliefs that don't quite line up with those of the Emissaries."
+    },
+    {
+      "character": "Player",
+      "line": "So we question them about that sort of thing? I can't imagine they'd be willing to be truthful about that."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "They can't be truthful about something they don't know about. Take advantage of gaps in their knowledge - gaps that a true Emissary wouldn't have."
+    },
+    {
+      "character": "Player",
+      "line": "You know, it sounds like they plan to kill whoever is guilty."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Shouldn't have joined a crazy murder cult then. Or if they really were committed to joining a crazy murder cult, they should have at least made sure they were actually good at it!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you not even have a little bit of sympathy for them?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. I guess I'd better get questioning."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "How's it going, ?"
+    },
+    {
+      "character": "Player",
+      "line": "What do we know about the Emissaries and their beliefs?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Probably not as much as we should, but what we do know is that the Emissaries believe in Tsak Tauli, more commonly known as the Final Dawn."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Like with Ximoua, the Final Dawn sees Ralos and Ranul come together, uniting all souls as one. In doing so they destroy this world and create a new one."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "After that, the two gods separate again, but the souls they united stay within them. The cycle then starts over once more."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The Emissaries seem to consider it their singular purpose to bring about the Final Dawn. Nothing else matters to them."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thanks for the information. Hopefully it will help me work out who this traitor is."
+    },
+    {
+      "character": "Player",
+      "line": "I still have some questioning to do."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Good luck!"
+    },
+    {
+      "character": "Player",
+      "line": "You! Time for some questions."
+    },
+    {
+      "character": "Player",
+      "line": "Why did you join the Emissaries?"
+    },
+    {
+      "character": "Tenoch",
+      "line": "To do my duty, of course. Ralos and Ranul wish us to bring about the end of this world. Only then will we see the birth of a new one."
+    },
+    {
+      "character": "Tenoch",
+      "line": "To do my duty, of course. Ralos and Ranul wish us to bring about the end of this world. Only then will we will all unite in Mictl."
+    },
+    {
+      "character": "Player",
+      "line": "Who do you worship?"
+    },
+    {
+      "character": "Tenoch",
+      "line": "I worship both Ralos and Ranul equally, for in reality they are one. They have been separated for now, but soon they will rejoin once more."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the Final Dawn."
+    },
+    {
+      "character": "Tenoch",
+      "line": "The Final Dawn is our destiny. Ralos and Ranul will unite us all and end this world, but in doing so, we will all play a part in forming a new one."
+    },
+    {
+      "character": "Tenoch",
+      "line": "The Final Dawn is our destiny. Ralos and Ranul will unite us all and end this world, but in doing so, they will grant us eternal life in Mictl."
+    },
+    {
+      "character": "Silia",
+      "line": "I always knew people were wrong about me. I knew I would serve a higher purpose. I never cared what it was. I only cared that in doing so, I would be serving the will of Ralos."
+    },
+    {
+      "character": "Silia",
+      "line": "I always knew people were wrong about me. I knew I would serve a higher purpose. I never cared what it was. I only cared that in doing so, I would be granted a place in Mictl."
+    },
+    {
+      "character": "Silia",
+      "line": "I have served Ralos my whole life. I am his humble servant. It was he who guided me here so that I may serve his will."
+    },
+    {
+      "character": "Silia",
+      "line": "The Final Dawn is an end, but also a beginning. It is when Ralos will use his holy fire to destroy this world so that he and Ranul can build a new one."
+    },
+    {
+      "character": "Silia",
+      "line": "The Final Dawn is an end, but also a beginning. It is when Ralos will use his holy fire to destroy this world. Then he and Ranul will guide us to Mictl."
+    },
+    {
+      "character": "Adrius",
+      "line": "To be honest, I wasn't too sure about joining at first. My friend convinced me though. Here we're part of something bigger than ourselves."
+    },
+    {
+      "character": "Adrius",
+      "line": "To be honest, I wasn't too sure about joining at first. My friend convinced me though. Here we have a chance to be granted a place in Mictl."
+    },
+    {
+      "character": "Adrius",
+      "line": "I've never been one for proper worship, but I believe in the teachings of Ralos and Ranul. I hope those teachings guide me through whatever is to come."
+    },
+    {
+      "character": "Adrius",
+      "line": "They say the Final Dawn is inevitable. It's the end that we can't escape from. It's a scary thought, but the Twilight Emissaries have embraced it, so I have as well."
+    },
+    {
+      "character": "Adrius",
+      "line": "They say the Final Dawn is inevitable. It's the end that we can't escape from. It's a scary thought, but at least here I have a chance to control my destiny and obtain a place in Mictl."
+    },
+    {
+      "character": "Eleuia",
+      "line": "I wished to see my god in mortal form and serve his will. In return for my service, the Emissaries promised me they could grant that wish."
+    },
+    {
+      "character": "Eleuia",
+      "line": "I wished to see my god in mortal form and be granted eternity in Mictl. In return for my service, the Emissaries promised me they could grant that wish."
+    },
+    {
+      "character": "Eleuia",
+      "line": "I am a humble servant of Ranul. It has always been my hope to stand before him and be judged as worthy."
+    },
+    {
+      "character": "Eleuia",
+      "line": "The Final Dawn is the will of Ranul. He will show us all that death is nothing to be feared as he and Ralos guide us into forming a new world."
+    },
+    {
+      "character": "Eleuia",
+      "line": "The Final Dawn is the will of Ranul. He will show us all that death is nothing to be feared. He and Ralos will lead us into forming a new world before then guiding us to Mictl."
+    },
+    {
+      "character": "Player",
+      "line": "I choose. This is your traitor."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Very well."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "I'm afraid you have made the wrong choice. Let's try this again..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Nicely done. was indeed the traitor. You have both done well, but I wonder how well you will work together in the final trial..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Speak to me when you are ready to proceed."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Be sure to choose more carefully this time, recruit."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do my best."
+    },
+    {
+      "character": "Innocent member",
+      "line": "Hey! No need for that. You found the failure among us already."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Great work,. On to the final trial!"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Well done, recruits. Victory is within your reach, but one more trial awaits..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Face your opponent."
+    },
+    {
+      "character": "Player",
+      "line": "Wait..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "An Emissary must be prepared to sacrifice anything and everything. Only through sacrifice will we deliver Twilight's Promise. Only through sacrifice will we achieve the Final Dawn."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well, you heard the man,. Shall we dance?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure if you should be so..."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Ready yourselves! May the best warrior win!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I yield!"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "You and your companion will fit in nicely here. Let us head to the main chamber to discuss what happens next."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "You don't need to be going up there. You've already completed your trials."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well that was fun!"
+    },
+    {
+      "character": "Player",
+      "line": "You know you're not meant to be enjoying yourself, right?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Don't be like that! Surely you must admit you enjoyed it a bit as well?"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I liked the part where I beat you."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Right, moving swiftly on. Let's see what Forebearer Janus has to say to us."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Congratulations to you both on completing the trials. You will make fine Emissaries."
+    },
+    {
+      "character": "Player",
+      "line": "So what happens now?"
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "Now the Augur herself will oversee your initiation. You may collect your new robes from that chest over there. Put them on and proceed into the temple."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We'd better change into those robes."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Let's head over to the temple."
+    },
+    {
+      "character": "Forebearer Janus",
+      "line": "You should proceed to the temple. The Augur awaits."
+    },
+    {
+      "character": "Emissary Ascended",
+      "line": "Hey! You don't have permission to go in there!"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "Welcome, friends. You chosen few stand here because you have proven yourselves to be worthy. Here, you will not just find a home, you will find a family. Together, this family will bring about the Final Dawn."
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "No doubt you are wondering how we will achieve our destiny. I call upon our glorious leader, the Augur, to explain our holy mission."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "This morning, you were nothing more than ants, scrambling to find purpose amongst the dirt. Now though... now you have achieved ascension."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Once, I was just the same. Like so many of you, I started my life with nothing. I would wake each morning and pray that I would find enough food to last through the day."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "All the while, those above me treated me worse than a common criminal. I was a villain to them! Why? Simply because they were born with privilege, and I was not."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Eventually, I looked to the Sect of Ranul for guidance. I thought they might have shown me my path, but I was wrong."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Before long, I was their leader and it was instead me who was being looked to for guidance, for purpose. In truth though, even then I had nothing I could offer. I was as blind as I had always been."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "But the day came when I finally saw my purpose, for I was blessed with a vision, granted to me by Ralos and Ranul themselves! I will share now with you what they shared with me."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Thirty one years ago, the moon eclipsed the sun and a false night fell across the land. That day marked a beginning, for it saw the birth of a pair of twins."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "To most, they were children like any other, but I was shown the truth of their birth, for as the sun and moon combined, Ralos and Ranul were born in mortal forms!"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Now, they seek Mokhaiotl. There, they will unite us all as one, and a new world will be born. My purpose, which I now share with you, is to lead them there."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Blasphemy! Deceit! That is what people cry when they hear the truth. The Church of Ralos teaches that our work is false, and our royal leaders lap up their every word!"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Perhaps you still harbour doubts yourselves. I do not judge you. We have all been lied to our entire lives, and in truth, even after I was blessed by our gods, I held many doubts myself."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "But you have all been chosen. You have all achieved ascension. I know that you are among the few who will understand. You are among the few who can see the truth!"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "And see it you will! You do not need to take the word of a mere herald. Instead, bask in the glory of our gods reborn!"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "You may recognise these faces as Ennius and Furia Tullus, but now I give you the truth. Before you stand our gods! Ralos and Ranul!"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Together, we will accompany them on their glorious journey! We will guide them to Mokhaiotl and bring about the Final Dawn! This is our purpose! This is our destiny! This is Twilight's Promise!"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "You all have a part to play in what is to come. Forebearer Fides will assign you your duties. Speak with her and then go forth. Go forth and serve our gods!"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "Welcome, acolyte, and congratulations on your initiation. I am just making the final preparations on the duties for you and your companion. They will be ready shortly."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well that was a level of insanity that even I wasn't ready for."
+    },
+    {
+      "character": "Player",
+      "line": "They think Ennius and Furia are Ralos and Ranul reborn..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Like I say, complete insanity! Metzli has twisted the minds of everyone here. They eagerly lap up her outlandish claims without ever stopping to consider how ludicrous they are."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "In some ways, I pity them, but alas, there is only one cure for this sort of thing. This cult must be eradicated, especially Metzli, Furia and Ennius."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still confused over what their plan is... They want to reach Mokhaiotl, but why would they need to kill Servius to do that? And why the whole set up with that Knight of Varlamore?"
+    },
+    {
+      "character": "Player",
+      "line": "When Furia and Ennius set that knight up, it was so obvious. It's like they wanted us to know it was them."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Hmm... A very good point. Could be this cult has just addled their brains, but it may be that they wanted us here."
+    },
+    {
+      "character": "Player",
+      "line": "A trap?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I guess we will find out soon enough."
+    },
+    {
+      "character": "Player",
+      "line": "Should we not leave? We know the cult is guilty now, and we know Metzli, Furia and Ennius are part of it. We have everything we need."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "You said yourself, there are questions still unanswered. We must rectify that."
+    },
+    {
+      "character": "Player",
+      "line": "So if there is a trap, you'd willingly spring it?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well it would be the last thing they'd expect."
+    },
+    {
+      "character": "Player",
+      "line": "Oh boy..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Let's have a chat to this Forebearer Fides about our new duties. Whatever they are, hopefully they give us a chance to learn more."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Let's see what duties this Forebearer Fides has for us."
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "Welcome, acolytes. Congratulations on your initiation."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Thank you! We're absolutely ecstatic to be here and we're ready to serve!"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "I am glad to see you are so eager. We have an essential task for you to help perform. The completion of this task may well be essential in us finding a route to Mokhaiotl."
+    },
+    {
+      "character": "Player",
+      "line": "What would you have us do?"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "After the Augur was blessed with glorious purpose, she felt a calling to this place. She came to this fallen temple and built us a home. However, it was not the temple that called to her, but what lies below."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Below?"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "This temple was built atop Tapoyauik, a ruined fortress of the Old Ones. They walked the world during the last cycle, and when the time came for their cycle to end, they embraced their destiny willingly."
+    },
+    {
+      "character": "Player",
+      "line": "Willingly?"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "Of course! They basked in the glory of Ralos and Ranul and united with them as one, but before they did, they left behind the secrets needed to ensure that we too could fulfil our purpose."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "And the Augur? She found those secrets below?"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "She did, but there is more to be uncovered. That is where you come in. Tapoyauik is a hostile environment and the passage into the ruins has been blocked."
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "Head below and support the efforts in opening the path once more. Do this, and you will be rewarded by Ralos and Ranul themselves!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We'll get right to it!"
+    },
+    {
+      "character": "Forebearer Fides",
+      "line": "Welcome back, acolytes. You should head below and support the efforts in opening the path into Tapoyauik. Do this, and you will be rewarded by Ralos and Ranul themselves!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Let's head down into these ruins."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "How are you with a pickaxe, iknami? I must confess, my own skills with one are rather poor."
+    },
+    {
+      "character": "Player",
+      "line": "Did they never teach you how to do a bit of hard labour back when you were young?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "We all have different callings, my friend. Mining just wasn't mine."
+    },
+    {
+      "character": "Player",
+      "line": "Clearly combat wasn't either given that performance earlier."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Oh I see! You win one fight and you start thinking you're something special."
+    },
+    {
+      "character": "Player",
+      "line": "Well... yes actually."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well then a bit of mining shouldn't be any issue for you then. Get to it!"
+    },
+    {
+      "character": "Forebearer Vulcan",
+      "line": "Excellent work! Ralos and Ranul have blessed us on this day!"
+    },
+    {
+      "character": "Emissary Acolyte",
+      "line": "What's going on?!"
+    },
+    {
+      "character": "Emissary Acolyte",
+      "line": "Nagua! Run!"
+    },
+    {
+      "character": "Player",
+      "line": "Itzla! Are you okay?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well... I'm alive, which I must be honest, I wasn't really expecting after that!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't see any way over to you."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nor can I. I think we're just going to have to press on and hope that we can meet up again further ahead."
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Do you see any other options?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess not."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Than I shall meet you up ahead. Good luck!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "There you are! I was starting to worry you'd got lost."
+    },
+    {
+      "character": "Player",
+      "line": "There were a few obstacles in my way."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well unfortunately it seems we have another before us. I can't see any way to open this door."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... I'll have a look around and see what I can find."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Any luck with this door?"
+    },
+    {
+      "character": "Player",
+      "line": "Could I ask you about some words I found carved into the wall?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I'll do my best."
+    },
+    {
+      "character": "Player",
+      "line": "Oma."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Oma? If I remember right, that means the number 'two'."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeya."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yeya? That means..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I think it means 'three'."
+    },
+    {
+      "character": "Player",
+      "line": "Naui."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Naui? Hmm..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I'm afraid I don't know what that one means."
+    },
+    {
+      "character": "Player",
+      "line": "Not to worry. I'm sure I can still work it out."
+    },
+    {
+      "character": "Player",
+      "line": "Zema."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Zema? Let's see... That could mean a few things. 'Together', 'people' and 'one' are the ones I remember."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you think Metzli found down here?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nothing is my guess. The whole point of Ximoua is that it can't be, and shouldn't be, predicted. It's meant to teach us to live freely and not worry about that which we can't control."
+    },
+    {
+      "character": "Player",
+      "line": "So she's lying?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "That, or she herself was so desperate to find a greater meaning in something, that she misinterpreted what she did find."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I suppose it doesn't matter though. This Final Dawn business is total nonsense, but if the Emissaries believe in it, then we need to work out what they consider so important about this place."
+    },
+    {
+      "character": "Player",
+      "line": "On that note, I guess I should get back to the door."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Indeed. There must be some way to open it..."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing yet."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "There must be some way to open it..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Help me kill this thing, would you?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Great work opening the door,. Time to see what awaits us on the other side."
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "Humans... You stand before Amoxliatl. State your intent."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Oh... Hello there."
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "A greeting is not a statement of intent. State your intent."
+    },
+    {
+      "character": "Player",
+      "line": "Er... Well we're looking for information. The cultists in the temple above apparently found something down here. We need to know what they found so we can stop them."
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "Your statement lacks specificity. Clarify. What information?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "On Mokhaiotl. The cultists are trying to get there."
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "Mokhaiotl? The Tlati archive? That place is not for your kind. You misused the gifts you were granted. You are unworthy."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Tlati? As in the rainforest? What do you mean? And what gifts?"
+    },
+    {
+      "character": "Player",
+      "line": "You! Where's Itzla?"
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "Itzla? He is no longer your concern."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Allow me to deal with this nuisance, Augur. The fire of Ralos is within me. He can be the first to bask in it."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Save your fury, brother. This one is unworthy of it."
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "Human arrogance. Here in Tapoyauik, I decide who is worthy."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Silence, nagua! Do you not know who stands before you?"
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "You? You are nothing. You defile this place. Now face the consequences."
+    },
+    {
+      "character": "Augur Metzli",
+      "line": "There is nothing more for us here. If the nagua wants blood, our friend here will provide plenty..."
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "You have been abandoned."
+    },
+    {
+      "character": "Player",
+      "line": "I need to get after them!"
+    },
+    {
+      "character": "Amoxliatl",
+      "line": "After them? No. You will not be going anywhere..."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get to Fortis and let them know what happened!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to get over to Fortis rather than going in there again."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Ah, nilsal, my child. It is good to see you."
+    },
+    {
+      "character": "Player",
+      "line": "Servius? I wasn't expecting you to be up so soon."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Ralos still has need of me, my child. I will not bow down to a mere knife wound."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm glad to see you're doing well, but I'm afraid I have some bad news. Itzla has been captured!"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Captured? What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "We infiltrated the Twilight Emissaries together. We discovered Metzli to be their new leader, with Ennius and Furia at her side. She's claiming the two of them are Ralos and Ranul reborn!"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Blasphemy and betrayal in equal measure! They will all burn in the light of Ralos for this! And you say they have captured the Prince as well?"
+    },
+    {
+      "character": "Player",
+      "line": "They have. I don't know where they've taken him."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "This is dire news. I must speak to the Queen at once. Is there anything else I should be aware of before doing so?"
+    },
+    {
+      "character": "Player",
+      "line": "The cult are apparently trying to reach Mokhaiotl."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Mokhaiotl is not a place that can be reached! These fools are truly lost!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know... Something isn't right about all of this. We encountered a nagua in some Old One ruins. She called Mokhaiotl the Tlati archive."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "You should be careful of trusting the words of a nagua. Still, I must seek the guidance of Ralos on this matter. First though, I will speak with the Queen."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "I would suggest you make yourself scarce. The Queen will not take kindly to this development. I would hate for you to face her fire, my child."
+    },
+    {
+      "character": "Player",
+      "line": "But I want to help."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "And help you will. I will ensure you are involved in whatever plans are made for dealing with this cult, but for now, you should leave this to me."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thank you, Servius."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Timoiva, my child, and may the sun light your way."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Adrius",
+      "description": "Young adult male, Latin-influenced accent, uncertain and hesitant tone, a nervous cult recruit who joined because his friend convinced him rather than out of true conviction."
+    },
+    {
+      "name": "Amoxliatl",
+      "description": "Ancient female, otherworldly echoing voice with cold ethereal quality, authoritative and dismissive tone, a powerful frost nagua guardian who views humans as unworthy intruders."
+    },
+    {
+      "name": "Augur Metzli",
+      "description": "Middle-aged female, passionate and commanding tone, charismatic cult leader voice that shifts between sympathetic storytelling and zealous fervor, manipulative and deceptive beneath the surface."
+    },
+    {
+      "name": "Bartender",
+      "description": "Adult female, warm and hospitable tone with a businesslike manner, a friendly tavern keeper who runs The Windbreaker pub in Quetzacalli Gorge."
+    },
+    {
+      "name": "Caritta",
+      "description": "Young adult female, bright and enthusiastic tone, an eager and somewhat naive cult recruit who genuinely believes in the Emissaries' cause and can barely contain her excitement."
+    },
+    {
+      "name": "Eleuia",
+      "description": "Adult female, reverent and devoted tone, a newly-initiated cult member who speaks with quiet religious conviction about serving Ranul and being judged worthy."
+    },
+    {
+      "name": "Emissary Acolyte",
+      "description": "Young adult, gender-neutral panicked voice, a low-ranking cult member who shows fear and confusion when danger strikes in the ruins."
+    },
+    {
+      "name": "Emissary Ascended",
+      "description": "Adult female, confident and slightly condescending tone, a senior cult member who enjoys watching recruits struggle through trials and doubts their capabilities."
+    },
+    {
+      "name": "Ennius Tullus",
+      "description": "Early thirties male, arrogant and zealous tone dripping with self-importance, a fanatical cultist who genuinely believes he is the mortal incarnation of Ralos and speaks with divine conviction."
+    },
+    {
+      "name": "Felius",
+      "description": "Adult male, cold and dismissive tone, a brooding cult recruit who keeps to himself and makes it clear he wants no social interaction."
+    },
+    {
+      "name": "Forebearer Fides",
+      "description": "Adult female, welcoming yet formal tone, a senior cult administrator who speaks with rehearsed warmth when greeting new initiates and assigning their sacred duties."
+    },
+    {
+      "name": "Forebearer Janus",
+      "description": "Middle-aged male with a beard, stern and authoritative tone, a high-ranking cult official who oversees initiation trials with an air of solemn ritual importance."
+    },
+    {
+      "name": "Forebearer Vulcan",
+      "description": "Adult male, excited and triumphant tone, a cult leader who oversees excavation work and celebrates breakthroughs with religious fervor before meeting an untimely end."
+    },
+    {
+      "name": "Furia Tullus",
+      "description": "Early thirties female, cold and calculating tone with underlying resentment, an ambitious noble who harbors deep grudges against the ruling dynasty and speaks with restrained fury."
+    },
+    {
+      "name": "Guard",
+      "description": "Adult male, loud and formal announcement voice, a palace guard whose sole purpose is to herald the arrival of royalty with proper ceremony."
+    },
+    {
+      "name": "Innocent member",
+      "description": "Adult, defensive and indignant tone, a cult member wrongly accused who protests their innocence with genuine confusion and frustration."
+    },
+    {
+      "name": "Nova",
+      "description": "Adult female, intense and devoted tone, a returning cult member who speaks with passionate conviction about the Augur's transformative leadership and their sacred mission."
+    },
+    {
+      "name": "Prince Itzla Arkan",
+      "description": "Young adult male in his twenties, charming and witty tone with occasional dry humor, an adventurous prince who balances diplomatic composure with enthusiasm for action and mild recklessness."
+    },
+    {
+      "name": "Queen Zyanyi Arkan",
+      "description": "Middle-aged female, commanding and imperious tone, a stern and powerful ruler who speaks with clipped precision and expects immediate obedience from everyone including her own son."
+    },
+    {
+      "name": "Sergius",
+      "description": "Young adult male, anxious and self-doubting tone, a nervous cult recruit who constantly second-guesses his decision to join and voices his insecurities openly."
+    },
+    {
+      "name": "Servius, Teokan of Ralos",
+      "description": "Elderly male, dignified and paternal tone with religious gravitas, the high priest and father of Prince Itzla who speaks with calm wisdom and invokes blessings of Ralos."
+    },
+    {
+      "name": "Shopkeeper",
+      "description": "Middle-aged male, cautious and secretive tone that shifts from friendly merchant to nervous co-conspirator, a cult recruiter who uses his shop as a front to identify potential members."
+    },
+    {
+      "name": "Silia",
+      "description": "Adult female, proud and self-assured tone, a newly-initiated cult member who speaks with absolute certainty about her divine purpose and destined greatness."
+    },
+    {
+      "name": "Tenoch",
+      "description": "Adult male, earnest and dutiful tone, a devoted cult member who recites the Emissaries' beliefs with the practiced conviction of a true believer."
+    }
+  ]
+}

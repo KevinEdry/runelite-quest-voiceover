@@ -1,0 +1,788 @@
+{
+  "branch": "quest/getting-ahead",
+  "quest_name": "Getting Ahead",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello. Who are you?"
+    },
+    {
+      "character": "Gordon",
+      "line": "The name's Gordon. Good day to you."
+    },
+    {
+      "character": "Player",
+      "line": "It's a nice farm you've got here."
+    },
+    {
+      "character": "Gordon",
+      "line": "Thank you. We built it ourselves."
+    },
+    {
+      "character": "Player",
+      "line": "Really? So you haven't been here long?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Nope. Not too long ago you couldn't safely travel around these parts. Too many lizardmen. But then some Hosidius explorers discovered how fertile this land was."
+    },
+    {
+      "character": "Gordon",
+      "line": "Lord Hosidius made a deal with Lord Shayzien and the lizardmen were cleared out to make room for the Farming Guild."
+    },
+    {
+      "character": "Gordon",
+      "line": "When we heard, we decided to come up here and start up our own farm."
+    },
+    {
+      "character": "Player",
+      "line": "Need a hand with anything?"
+    },
+    {
+      "character": "Gordon",
+      "line": "I think we're good. Thank you for the offer though."
+    },
+    {
+      "character": "Gordon",
+      "line": "Well actually, there is something we've been having a problem with."
+    },
+    {
+      "character": "Gordon",
+      "line": "Recently, some strange beast has been stealing our livestock at night. The soldiers are too busy dealing with the lizardmen to help, so we haven't been able to stop it."
+    },
+    {
+      "character": "Gordon",
+      "line": "You look like you know your way around a weapon. If you can kill the beast and bring me its head as proof, I'll ensure you are compensated for your trouble."
+    },
+    {
+      "character": "Player",
+      "line": "Bring back the head? I can do that. I'm good at killing things. Do you know where the beast is?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Well it can't be living too far from here, but I don't know exactly where. You might want to check with my wife, Mary. Perhaps she's seen something I haven't."
+    },
+    {
+      "character": "Player",
+      "line": "Very well. I'll return once I have the head of this beast!"
+    },
+    {
+      "character": "Player",
+      "line": "Not something I can help with I'm afraid. Good luck though."
+    },
+    {
+      "character": "Gordon",
+      "line": "I understand. I'm sure someone else will be able to help."
+    },
+    {
+      "character": "Player",
+      "line": "Very nice. Well I hope it goes well for you."
+    },
+    {
+      "character": "Gordon",
+      "line": "Thank you friend. See you later."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. How are things?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Hello there. Not too bad, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Great to hear. All the best."
+    },
+    {
+      "character": "Gordon",
+      "line": "Hello again. Any luck finding that beast?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been trying, but I haven't made much progress yet."
+    },
+    {
+      "character": "Gordon",
+      "line": "Well it can't be living too far from here. You might want to check with my wife, Mary. Perhaps she's seen something I haven't."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. Are you Mary?"
+    },
+    {
+      "character": "Mary",
+      "line": "That's right. Who are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm. Your husband told me that some beast has been causing you both trouble. I've agreed to kill it and bring back its head!"
+    },
+    {
+      "character": "Mary",
+      "line": "Ah, that's good to hear. We've already lost a lot of livestock to it."
+    },
+    {
+      "character": "Player",
+      "line": "Well fear not. I'm sure I'll make short work of it. I do have one issue, however."
+    },
+    {
+      "character": "Mary",
+      "line": "What's that?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't yet know where to find this beast. I was wondering if you'd seen anything?"
+    },
+    {
+      "character": "Mary",
+      "line": "I'm afraid not. It only ever comes in the night, so we haven't been able to get a proper look at it."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm. This is a problem."
+    },
+    {
+      "character": "Mary",
+      "line": "Well let's see now..."
+    },
+    {
+      "character": "Mary",
+      "line": "Oh! I have an idea! If this beast ended up getting coated in flour, it wouldn't be hard for you to track it back to its home."
+    },
+    {
+      "character": "Player",
+      "line": "But how would I get it coated in flour?"
+    },
+    {
+      "character": "Mary",
+      "line": "Oh come on now! You're the adventurer here! Why don't you use your head?"
+    },
+    {
+      "character": "Player",
+      "line": "Use my head? Wait... Did you just...?"
+    },
+    {
+      "character": "Mary",
+      "line": "I don't know what you mean."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm..."
+    },
+    {
+      "character": "Mary",
+      "line": "Hello there. How goes the headhunt?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still trying to come up with a way to cover the beast in flour."
+    },
+    {
+      "character": "Mary",
+      "line": "Well I'm sure you'll think of something. Just remember to use your head."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Do you know anything about the beast causing trouble around here?"
+    },
+    {
+      "character": "Sergeant",
+      "line": "The farmers mentioned it. We haven't seen anything though. Our focus is on the lizardmen."
+    },
+    {
+      "character": "Player",
+      "line": "Surely you'd notice a big beast wondering around though?"
+    },
+    {
+      "character": "Sergeant",
+      "line": "The farmers said it came at night. We're not on shift then."
+    },
+    {
+      "character": "Player",
+      "line": "But then who's guarding the farm at night?"
+    },
+    {
+      "character": "Sergeant",
+      "line": "That's not our problem. We're just here to follow orders."
+    },
+    {
+      "character": "Player",
+      "line": "Fine. I'll find the beast myself."
+    },
+    {
+      "character": "Gordon",
+      "line": "Anything you need from me?"
+    },
+    {
+      "character": "Player",
+      "line": "Just one question. You said this beast has been going for your livestock. Which animals has it been targeting?"
+    },
+    {
+      "character": "Gordon",
+      "line": "It's mainly been going for the cattle. I fixed up a new gate which has kept it out the past couple of nights. Not sure how long it will hold though."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thanks for the information."
+    },
+    {
+      "character": "Player",
+      "line": "There we go. Anything that touches this gate will end up coated in flour. Now just to wait for the beast to come..."
+    },
+    {
+      "character": "Player",
+      "line": "Looks like the beast tried to get in again. Now to see if the flour plan worked..."
+    },
+    {
+      "character": "Player",
+      "line": "Your wife gave me a good idea to help track it down. I'll have its head soon enough!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Great to hear!"
+    },
+    {
+      "character": "Player",
+      "line": "The flour idea worked great. Now I just need to find the beast's home."
+    },
+    {
+      "character": "Mary",
+      "line": "Well keep your head up. I'm sure you'll manage it."
+    },
+    {
+      "character": "Player",
+      "line": "Ah... a headless beast. Can't really bring back the head if there isn't one. Let's hope Gordon is still happy to reward me..."
+    },
+    {
+      "character": "Player",
+      "line": "I've run into a little issue. The beast is dead, but it didn't have a head."
+    },
+    {
+      "character": "Mary",
+      "line": "Oh dear. You should probably talk to Gordon about this."
+    },
+    {
+      "character": "Player",
+      "line": "The beast is dead!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Wonderful! Do you have the head?"
+    },
+    {
+      "character": "Player",
+      "line": "Well that's the thing..."
+    },
+    {
+      "character": "Gordon",
+      "line": "Is there a problem?"
+    },
+    {
+      "character": "Player",
+      "line": "So it didn't actually have a head."
+    },
+    {
+      "character": "Gordon",
+      "line": "Didn't have a head?"
+    },
+    {
+      "character": "Player",
+      "line": "Nope."
+    },
+    {
+      "character": "Gordon",
+      "line": "Like... at all?"
+    },
+    {
+      "character": "Player",
+      "line": "Not even a proper stump."
+    },
+    {
+      "character": "Gordon",
+      "line": "Oh..."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Can I get paid now?"
+    },
+    {
+      "character": "Gordon",
+      "line": "I'm sorry, but no. I agreed to pay you for a head and you don't have one."
+    },
+    {
+      "character": "Player",
+      "line": "Well actually I do have a head. Quite a good looking one in fact. It was the beast that didn't."
+    },
+    {
+      "character": "Gordon",
+      "line": "That's not what I meant. Look, it's nothing personal, but I can't be seen paying someone if they didn't do the job."
+    },
+    {
+      "character": "Player",
+      "line": "But I did the job... How am I meant to bring you the head of a beast with no head?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Maybe you killed the wrong beast? It doesn't make sense that a headless beast would be taking cattle. How would it eat them?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know..."
+    },
+    {
+      "character": "Gordon",
+      "line": "Well if you manage to get hold of the beast's head, let me know. Until then, I can't pay you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Gordon",
+      "line": "Hello again. Do you have the head of that beast yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No..."
+    },
+    {
+      "character": "Gordon",
+      "line": "Well I can't pay you if you don't have the head."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the head of the beast. I do have proof it was headless though."
+    },
+    {
+      "character": "Gordon",
+      "line": "Proof? This doesn't seem like proof to me. Anyone could have written this. Maybe you wrote it?"
+    },
+    {
+      "character": "Player",
+      "line": "You assume I can read and write."
+    },
+    {
+      "character": "Gordon",
+      "line": "Can you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well.. yes. I promise I didn't write this though."
+    },
+    {
+      "character": "Gordon",
+      "line": "Well you would say that. I'm sorry but I'm not having this. Come back when you have the head of the beast."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the head of the beast. I do have the bones though!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Bones? I don't want bones! I want the beast's head!"
+    },
+    {
+      "character": "Player",
+      "line": "Have you considered that you might be being too picky?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Of course not! Besides, these bones could be from anywhere."
+    },
+    {
+      "character": "Player",
+      "line": "Eugh! Fine!"
+    },
+    {
+      "character": "Player",
+      "line": "I have bested the beast and I bring you its head as proof!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Hmmm... I'm not so sure..."
+    },
+    {
+      "character": "Player",
+      "line": "This is literally the head of a dead bear. What is wrong with you?"
+    },
+    {
+      "character": "Gordon",
+      "line": "I can see this is the head of a bear! This beast we're dealing with is more than a mere bear though!"
+    },
+    {
+      "character": "Player",
+      "line": "What? You said you'd never seen the beast! How do you know it wasn't just a bear?"
+    },
+    {
+      "character": "Gordon",
+      "line": "We've dealt with bears before! This is clearly something more! Now, go and find the real beast!"
+    },
+    {
+      "character": "Gordon",
+      "line": "What? But this is clearly just part of a costume!"
+    },
+    {
+      "character": "Player",
+      "line": "Err... No it's not..."
+    },
+    {
+      "character": "Gordon",
+      "line": "It's hollow!"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe it didn't have any brains."
+    },
+    {
+      "character": "Gordon",
+      "line": "The only thing without brains is you! Come back once you have the actual head!"
+    },
+    {
+      "character": "Player",
+      "line": "I've run into a little issue. The beast is dead, but it didn't have a head. Your husband says he won't pay me until I bring him one."
+    },
+    {
+      "character": "Mary",
+      "line": "Oh dear. I'm afraid Gordon can be quite picky sometimes."
+    },
+    {
+      "character": "Player",
+      "line": "But what do I do now? I can't bring him a head if there isn't one."
+    },
+    {
+      "character": "Mary",
+      "line": "Well, between you and me, Gordon is a good farmer but I wouldn't say he's a genius by any means. He also doesn't actually know what the beast looks like."
+    },
+    {
+      "character": "Player",
+      "line": "So I make him a fake head! Great idea!"
+    },
+    {
+      "character": "Mary",
+      "line": "That's the spirit! I've tried my hand at clay modelling in the past. You can make all sorts of things. Just get some soft clay and a knife and I'm sure you'll be able to make a lovely head."
+    },
+    {
+      "character": "Player",
+      "line": "I'll give it a shot!"
+    },
+    {
+      "character": "Mary",
+      "line": "Hello there. Any luck with that head?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Mary",
+      "line": "Keep at it! I've tried my hand at clay modelling in the past. You can make all sorts of things. Just get some soft clay and a knife and I'm sure you'll be able to make a lovely head."
+    },
+    {
+      "character": "Player",
+      "line": "Wow!"
+    },
+    {
+      "character": "Player",
+      "line": "It looks awful!"
+    },
+    {
+      "character": "Player",
+      "line": "Still, maybe it will be enough to convince Gordon."
+    },
+    {
+      "character": "Player",
+      "line": "I've made a head out of clay."
+    },
+    {
+      "character": "Mary",
+      "line": "Wonderful! You should show it to Gordon."
+    },
+    {
+      "character": "Gordon",
+      "line": "Its head? This is its head?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right!"
+    },
+    {
+      "character": "Gordon",
+      "line": "But this just looks like clay... It feels like clay..."
+    },
+    {
+      "character": "Gordon",
+      "line": "It's falling apart... What creature is this?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes! A good question! A very good question! A good question in need of a good answer I'm sure!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Okay... So what is the answer?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes... well... This is the head of a... a claybear!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Claybear? There's no such thing!"
+    },
+    {
+      "character": "Player",
+      "line": "They're quite rare around here."
+    },
+    {
+      "character": "Gordon",
+      "line": "Quite rare because they don't exist! I'm no fool, this is clearly a pretend head! It doesn't even have any fur!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Come back once you have the real head of the beast!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Do you have the head of that beast yet? Or do you just have more clay?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have it yet."
+    },
+    {
+      "character": "Gordon",
+      "line": "No head, no pay."
+    },
+    {
+      "character": "Player",
+      "line": "I made a head out of clay. Gordon didn't buy it though."
+    },
+    {
+      "character": "Mary",
+      "line": "Oh dear. Keep trying. I'm sure with a few tweaks you can make a head that will convince him."
+    },
+    {
+      "character": "Player",
+      "line": "It somehow looks even worse than before!"
+    },
+    {
+      "character": "Player",
+      "line": "Gordon said it needed fur though. Maybe he'll be happy with this one."
+    },
+    {
+      "character": "Player",
+      "line": "I made a head out of clay. Gordon didn't buy it though, so I've now added some fur."
+    },
+    {
+      "character": "Player",
+      "line": "I have bested the beast and I bring you its head as proof! For real this time!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Well there's fur this time. It does look like an actual head, I have to admit."
+    },
+    {
+      "character": "Gordon",
+      "line": "Yes, I think this is the head of a beast."
+    },
+    {
+      "character": "Player",
+      "line": "Wonderful! So about my payment?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Well hang on just a moment..."
+    },
+    {
+      "character": "Player",
+      "line": "Uh oh."
+    },
+    {
+      "character": "Gordon",
+      "line": "Where's the blood? If this is a fresh kill, the head should have blood on."
+    },
+    {
+      "character": "Player",
+      "line": "Ah... Yes... Well the thing about this head is that this is the head of a..."
+    },
+    {
+      "character": "Gordon",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "A... bloodbear?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Bloodbear? What's a bloodbear?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a rare type of bear. One that doesn't have any blood."
+    },
+    {
+      "character": "Gordon",
+      "line": "It's called a bloodbear but it doesn't have blood? Did a fool name it?"
+    },
+    {
+      "character": "Player",
+      "line": "Well actually the one that named it is quite the intellectual... Very cool as well... not that I know them or anything."
+    },
+    {
+      "character": "Gordon",
+      "line": "You must take me for an idiot! This is some head you bought from a taxidermist or something. It's clearly not a fresh kill!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Come back once you have the real head!"
+    },
+    {
+      "character": "Player",
+      "line": "*sigh*"
+    },
+    {
+      "character": "Gordon",
+      "line": "Do you have the head of that beast yet? Or do you just have more fakes?"
+    },
+    {
+      "character": "Gordon",
+      "line": "No head, no reward. Come back once you have it!"
+    },
+    {
+      "character": "Player",
+      "line": "Gordon didn't buy the clay head so I tried adding some fur. He still wasn't convinced though."
+    },
+    {
+      "character": "Mary",
+      "line": "Well I'm sure you're not far off. Keep it up!"
+    },
+    {
+      "character": "Player",
+      "line": "Great! Now it looks bloody!"
+    },
+    {
+      "character": "Player",
+      "line": "Well... it doesn't. It actually looks like someone tried to dye a fur covered clay monstrosity red."
+    },
+    {
+      "character": "Player",
+      "line": "Still, maybe Gordon won't notice..."
+    },
+    {
+      "character": "Player",
+      "line": "Gordon didn't buy the clay head so I tried adding some fur. He still wasn't convinced so I've dyed it red to make it look bloody."
+    },
+    {
+      "character": "Mary",
+      "line": "Wonderful! I'm sure this will convince him. You should show him what you've got."
+    },
+    {
+      "character": "Player",
+      "line": "I have bested the beast and I bring you its head as proof... Again!"
+    },
+    {
+      "character": "Gordon",
+      "line": "Hmm..."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm?"
+    },
+    {
+      "character": "Player",
+      "line": "Well?"
+    },
+    {
+      "character": "Gordon",
+      "line": "It's..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "Gordon",
+      "line": "It's wonderful! This is clearly the head of the beast! Well done adventurer!"
+    },
+    {
+      "character": "Player",
+      "line": "Hooray!"
+    },
+    {
+      "character": "Gordon",
+      "line": "There's just one thing though..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh for the love of-"
+    },
+    {
+      "character": "Gordon",
+      "line": "A head like this deserves a place of honour! My friend, please could you mount it in our home?"
+    },
+    {
+      "character": "Player",
+      "line": "Eugh. Fine."
+    },
+    {
+      "character": "Gordon",
+      "line": "Have you mounted the head of the beast in our home yet?"
+    },
+    {
+      "character": "Gordon",
+      "line": "Well let me know once you have and I'll give you your reward."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Gordon was happy with the head I made. In fact, he was so happy that he wants it mounting in your home."
+    },
+    {
+      "character": "Mary",
+      "line": "Oh dear. Well if it keeps him happy, I suppose. There should be a good spot near the stairs."
+    },
+    {
+      "character": "Player",
+      "line": "What a work of art! I've really outdone myself this time! I guess I should let Gordon know."
+    },
+    {
+      "character": "Mary",
+      "line": "Well I have to say that mounted head looks awful."
+    },
+    {
+      "character": "Mary",
+      "line": "Not to worry. If it keeps Gordon happy, so be it. Anyway, you should go and let him know it's all done."
+    },
+    {
+      "character": "Gordon",
+      "line": "Have you mounted the head of the beast yet?"
+    },
+    {
+      "character": "Player",
+      "line": "It's all done."
+    },
+    {
+      "character": "Gordon",
+      "line": "That's great! I'd say it's about time for your reward. But first, let's have a look at this head..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Gordon",
+      "description": "Middle-aged male, British accent, simple and stubborn farmer who is particular about details but easily fooled, speaks with earnest directness and occasional exasperation."
+    },
+    {
+      "name": "Mary",
+      "description": "Middle-aged female, British accent, practical and clever farmer's wife who enjoys wordplay and puns, speaks with warm patience and subtle wit."
+    },
+    {
+      "name": "Sergeant",
+      "description": "Adult male, British accent, authoritative military officer focused on duty, speaks with a serious, professional tone and dismissive brevity toward matters outside his orders."
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+  "branch": "quest/making-history",
+  "quest_name": "Making History",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Jorral",
+      "line": "Stop! I can't help you unless you help me out first."
+    },
+    {
+      "character": "Player",
+      "line": "Okay then, moving on..."
+    },
+    {
+      "character": "Jorral",
+      "line": "All is lost!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Don't bother, you're not experienced enough to help me!"
+    },
+    {
+      "character": "Jorral",
+      "line": "Just look around you! This great building will soon be in ruin."
+    },
+    {
+      "character": "Player",
+      "line": "Great building?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Of course! This building has a history spanning generations!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, I see, a great history. But why will it be in ruin?"
+    },
+    {
+      "character": "Jorral",
+      "line": "It's to be ripped apart to make way for King Lathas' new alchemists' lab."
+    },
+    {
+      "character": "Player",
+      "line": "Does the king not respect the outpost's GREAT history?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Well, actually nobody knows what the history is. But there must be something."
+    },
+    {
+      "character": "Jorral",
+      "line": "Wait a minute. You could help me!"
+    },
+    {
+      "character": "Player",
+      "line": "Me?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Yes! Uncover the history of this building to convince King Lathas to leave it alone. Do you want to know more?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more."
+    },
+    {
+      "character": "Narration",
+      "line": "With many occupants over the years..."
+    },
+    {
+      "character": "Narration",
+      "line": "...the building has seen much action."
+    },
+    {
+      "character": "Narration",
+      "line": "It started life as an outpost..."
+    },
+    {
+      "character": "Narration",
+      "line": "... its sole purpose being to see invading armies..."
+    },
+    {
+      "character": "Narration",
+      "line": "... before they saw the city of Ardougne."
+    },
+    {
+      "character": "Jorral",
+      "line": "If all goes well, I hope to be able to turn it into a museum as a monument to the area's history. What do you think?"
+    },
+    {
+      "character": "Player",
+      "line": "OK, I will make a stand for history!"
+    },
+    {
+      "character": "Jorral",
+      "line": "Oh thank you so much, you really are my saviour!"
+    },
+    {
+      "character": "Player",
+      "line": "But where should I start?"
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to do now?"
+    },
+    {
+      "character": "Jorral",
+      "line": "There are three people that may be able to help:"
+    },
+    {
+      "character": "Jorral",
+      "line": "There is a silver trader in East Ardougne called Erin, who I believe can help."
+    },
+    {
+      "character": "Player",
+      "line": "In what way can he help?"
+    },
+    {
+      "character": "Jorral",
+      "line": "His Great Grandfather lived in this outpost according to the records. He must know something!"
+    },
+    {
+      "character": "Player",
+      "line": "OK, I'll see what he has to say."
+    },
+    {
+      "character": "Jorral",
+      "line": "I've been told that there's a ghost far off in Port Phasmatys that moans of losing his life to this place."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds ominous. Does he have a name?"
+    },
+    {
+      "character": "Jorral",
+      "line": "He does indeed. It's Droalak."
+    },
+    {
+      "character": "Player",
+      "line": "I'll track him down."
+    },
+    {
+      "character": "Jorral",
+      "line": "It might not be so simple! You'll need an amulet of ghostspeak to talk to him!"
+    },
+    {
+      "character": "Player",
+      "line": "I've conversed with the dead before, that shouldn't be too much of a problem."
+    },
+    {
+      "character": "Jorral",
+      "line": "Up near the mountains, in Rellekka is a warrior called Dron whom I have spoken to in the past. He is always on the lookout for information that can improve his fighting and commanding skills."
+    },
+    {
+      "character": "Player",
+      "line": "And how's he related to this outpost?"
+    },
+    {
+      "character": "Jorral",
+      "line": "He isn't directly, but he's studied many wars, and as this used to be an outpost it should have been involved in some war."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds simple enough."
+    },
+    {
+      "character": "Jorral",
+      "line": "He isn't the easiest person to talk to, so you may need to speak to his brother, Blanin, first."
+    },
+    {
+      "character": "Player",
+      "line": "What's the story so far?"
+    },
+    {
+      "character": "Jorral",
+      "line": "What do you mean? You've discovered nothing!"
+    },
+    {
+      "character": "Player",
+      "line": "Got to go, bye!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't care about some dusty building."
+    },
+    {
+      "character": "Jorral",
+      "line": "It's doomed. DOOMED!"
+    },
+    {
+      "character": "Jorral",
+      "line": "How's it going?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Silver! Silver! Best prices for buying and selling in all Kandarin!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you Erin?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "That I am. What do you want? You realise I'm working here."
+    },
+    {
+      "character": "Player",
+      "line": "This shouldn't take too long. I just want to ask you a bit about your great Grandfather, the one who lived in the outpost?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "What's it to you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm doing some research for a man called Jorral. Apparently the King is going to make the outpost into his very own alchemists' lab."
+    },
+    {
+      "character": "Silver merchant",
+      "line": "That can only cause chaos! Well, my great Grandfather lived and died there according to my mother, but even she knows very little about him."
+    },
+    {
+      "character": "Player",
+      "line": "I see."
+    },
+    {
+      "character": "Silver merchant",
+      "line": "The only thing I have of his is a key. It's a strange key, it changes temperature by itself as you walk around. I'm afraid I don't know what it's for though."
+    },
+    {
+      "character": "Player",
+      "line": "No idea at all?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Well, I imagine it's to some sort of chest of his belongings as it's too small for a door. Perhaps if you find some of his belongings you will discover some clues amongst them."
+    },
+    {
+      "character": "Player",
+      "line": "It's better than nothing. Will you lend it to me then?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Why not. I can't use it anyway. Try feeling its change in temperature as you walk around."
+    },
+    {
+      "character": "Player",
+      "line": "I haven't found anything yet."
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Keep trying. Have you noticed that the key changes temperature as you walk around?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi. I found a chest."
+    },
+    {
+      "character": "Jorral",
+      "line": "Best you look inside then."
+    },
+    {
+      "character": "Player",
+      "line": "Would you like to see the journal I have found?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Let's have a look."
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Very interesting. Best you show it to Jorral at the outpost."
+    },
+    {
+      "character": "Player",
+      "line": "I was just about to. Do you want the key back?"
+    },
+    {
+      "character": "Silver merchant",
+      "line": "Keep it, it may come in handy."
+    },
+    {
+      "character": "Player",
+      "line": "I found a journal!"
+    },
+    {
+      "character": "Jorral",
+      "line": "Good work. Let's see what it says."
+    },
+    {
+      "character": "Jorral",
+      "line": "The person who wrote the journal spent time living in the outpost, following the order of Zamorak."
+    },
+    {
+      "character": "Jorral",
+      "line": "He talks of all the nasty things they did to the people of Ardougne, which I don't care to mention! It looks like they were stopped by someone. But it doesn't say who."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting."
+    },
+    {
+      "character": "Droklak",
+      "line": "wooo wooo"
+    },
+    {
+      "character": "Player",
+      "line": "Hello. Are you Droalak?"
+    },
+    {
+      "character": "Droalak",
+      "line": "Wow. I haven't spoken to the living for... for... I don't remember how long."
+    },
+    {
+      "character": "Player",
+      "line": "So your name IS Droalak?"
+    },
+    {
+      "character": "Droalak",
+      "line": "Sorry, yes I am he."
+    },
+    {
+      "character": "Player",
+      "line": "Great. Do you know anything about the outpost North of Ardougne?"
+    },
+    {
+      "character": "Droalak",
+      "line": "I don't really like to talk about it, but I died there."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear."
+    },
+    {
+      "character": "Droalak",
+      "line": "I do have a scroll which might interest you that describes the timeline of the outpost. But first I wonder if I could ask you to tie up a problem?"
+    },
+    {
+      "character": "Player",
+      "line": "Like what?"
+    },
+    {
+      "character": "Droalak",
+      "line": "Well, I left to go to the outpost against the wishes of my wife. I promised I would return to her, but obviously I did not as I died there. She's a ghost nearby, but won't listen to my apologies."
+    },
+    {
+      "character": "Player",
+      "line": "You want me to patch things up?"
+    },
+    {
+      "character": "Droalak",
+      "line": "Yes, how'd you guess?"
+    },
+    {
+      "character": "Player",
+      "line": "Call it 'traveller's intuition'."
+    },
+    {
+      "character": "Droalak",
+      "line": "OK, well perhaps you could give her a strung sapphire amulet, because this is what I gave her the day I left. Her name is Melina by the way."
+    },
+    {
+      "character": "Player",
+      "line": "No problem."
+    },
+    {
+      "character": "Player",
+      "line": "I have a sapphire amulet!"
+    },
+    {
+      "character": "Droalak",
+      "line": "I said it needed to be a STRUNG sapphire amulet - best get some string!"
+    },
+    {
+      "character": "Droalak",
+      "line": "Good work. Just give it to Melina, who's wandering somewhere nearby."
+    },
+    {
+      "character": "Player",
+      "line": "What do you want me to do again?"
+    },
+    {
+      "character": "Droalak",
+      "line": "Make a strung sapphire amulet and give it to Melina!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok. Ok."
+    },
+    {
+      "character": "Melina",
+      "line": "wooo wooo"
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Melina",
+      "line": "Oh why did he leave me? Did he truly love me?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm. I think you're talking about Droalak. I believe he did love you and he's very sorry for leaving you!"
+    },
+    {
+      "character": "Melina",
+      "line": "You're giving me empty words. That is all."
+    },
+    {
+      "character": "Player",
+      "line": "If you don't mind me asking, are you Melina?"
+    },
+    {
+      "character": "Melina",
+      "line": "That I am. What's it to you?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been talking to Droalak. I believe he left you but never returned."
+    },
+    {
+      "character": "Melina",
+      "line": "He did. I suppose he has asked you to tell me he's sorry. What an empty gesture!"
+    },
+    {
+      "character": "Player",
+      "line": "Well actually he told me to give you this amulet."
+    },
+    {
+      "character": "Melina",
+      "line": "A sapphire amulet! He remembers! It's just like the one he gave me before he left."
+    },
+    {
+      "character": "Player",
+      "line": "I honestly believe he's sorry."
+    },
+    {
+      "character": "Melina",
+      "line": "I'm so glad. Please, tell him I forgive him!"
+    },
+    {
+      "character": "Player",
+      "line": "I will."
+    },
+    {
+      "character": "Melina",
+      "line": "At last I feel complete. Fare well."
+    },
+    {
+      "character": "Player",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Droalak",
+      "line": "wooo wooo"
+    },
+    {
+      "character": "Player",
+      "line": "I've given her the amulet. She was very pleased and said she just wanted to know you still cared."
+    },
+    {
+      "character": "Droalak",
+      "line": "Excellent! I am so glad she believes me. I can finally rest in peace."
+    },
+    {
+      "character": "Player",
+      "line": "Could I have that scroll you mentioned first?"
+    },
+    {
+      "character": "Droalak",
+      "line": "Of course. Let me know if it was of any use and then I can be forever free."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "Thank's for the scroll, but I seem to have lost it."
+    },
+    {
+      "character": "Droalak",
+      "line": "It's a good job I stuck around then isn't it! Have another copy."
+    },
+    {
+      "character": "Droalak",
+      "line": "Take that scroll to Jorral in the outpost."
+    },
+    {
+      "character": "Player",
+      "line": "I have been in contact with the ghost you suggested, and I've recovered this:"
+    },
+    {
+      "character": "Jorral",
+      "line": "Very interesting. So there was a great battle at the outpost. Then one of the survivors became king, and the other started the market place. Good work."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me."
+    },
+    {
+      "character": "Dron",
+      "line": "Look, I don't have time for weaklings, if you want conversation, talk to my brother Blanin!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. Are you the brother of Dron?"
+    },
+    {
+      "character": "Blanin",
+      "line": "That I am. Why? Has he killed one of your family?"
+    },
+    {
+      "character": "Player",
+      "line": "Not that I know of..."
+    },
+    {
+      "character": "Blanin",
+      "line": "Oh good, how can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I'd like to talk to your brother Dron about the outpost North of Ardougne."
+    },
+    {
+      "character": "Blanin",
+      "line": "I'm afraid he's not easy to talk to, so it's good that you came to see me. You'll need to remember a few things when talking to him."
+    },
+    {
+      "character": "Player",
+      "line": "Like?"
+    },
+    {
+      "character": "Blanin",
+      "line": "You must be firm with him and don't mention that I sent you. In case he asks, he wields an iron mace in battle, eats rats for breakfast, kittens for lunch and bunnies for tea!"
+    },
+    {
+      "character": "Blanin",
+      "line": "His favorite drink is red spider blood, he's 36 years, 8 months and 21 days old, studies famous battles of the Fourth and Fifth ages, lives on the North East side of town and his, erm... pet cat is called Fluffy."
+    },
+    {
+      "character": "Player",
+      "line": "O..K...."
+    },
+    {
+      "character": "Blanin",
+      "line": "I know this sounds strange but Dron won't talk to anyone unless they know him well - he's a secretive guy."
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you."
+    },
+    {
+      "character": "Dron",
+      "line": "Why should I?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm, sorry I don't mean to cause offence."
+    },
+    {
+      "character": "Player",
+      "line": "Please don't hurt me."
+    },
+    {
+      "character": "Player",
+      "line": "I'm after important answers."
+    },
+    {
+      "character": "Dron",
+      "line": "But how do you know me?"
+    },
+    {
+      "character": "Player",
+      "line": "I just talked to your brother."
+    },
+    {
+      "character": "Dron",
+      "line": "Don't talk of my brother. He's not on my good side at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "Why, you're the famous warrior Dron!"
+    },
+    {
+      "character": "Dron",
+      "line": "If so, what weapon do I use?"
+    },
+    {
+      "character": "Player",
+      "line": "An iron mace."
+    },
+    {
+      "character": "Dron",
+      "line": "When do I like to eat rats?"
+    },
+    {
+      "character": "Player",
+      "line": "Breakfast."
+    },
+    {
+      "character": "Dron",
+      "line": "When are kittens best devoured?"
+    },
+    {
+      "character": "Player",
+      "line": "Lunch."
+    },
+    {
+      "character": "Dron",
+      "line": "What do I usually eat for tea?"
+    },
+    {
+      "character": "Player",
+      "line": "Bunnies."
+    },
+    {
+      "character": "Dron",
+      "line": "What colour spider blood tastes the best?"
+    },
+    {
+      "character": "Player",
+      "line": "Red."
+    },
+    {
+      "character": "Dron",
+      "line": "How many years old am I?"
+    },
+    {
+      "character": "Player",
+      "line": "36"
+    },
+    {
+      "character": "Dron",
+      "line": "and months?"
+    },
+    {
+      "character": "Player",
+      "line": "8"
+    },
+    {
+      "character": "Dron",
+      "line": "What are the most interesting ages for battles?"
+    },
+    {
+      "character": "Player",
+      "line": "Fifth and Fourth."
+    },
+    {
+      "character": "Dron",
+      "line": "And my house is situated where?"
+    },
+    {
+      "character": "Player",
+      "line": "North East side of town."
+    },
+    {
+      "character": "Dron",
+      "line": "What is my brother's name?"
+    },
+    {
+      "character": "Player",
+      "line": "Blanin."
+    },
+    {
+      "character": "Dron",
+      "line": "And my pet cat is called?"
+    },
+    {
+      "character": "Player",
+      "line": "Fluffy."
+    },
+    {
+      "character": "Dron",
+      "line": "What's 5 plus 7?"
+    },
+    {
+      "character": "Player",
+      "line": "12, but what does that have to do with anything?"
+    },
+    {
+      "character": "Dron",
+      "line": "Everything! Besides, it's 13!"
+    },
+    {
+      "character": "Player",
+      "line": "Er, I think you'll find it's 12."
+    },
+    {
+      "character": "Dron",
+      "line": "Very well, you seem to know me quite well, I'll answer your questions best I can."
+    },
+    {
+      "character": "Player",
+      "line": "Phew!"
+    },
+    {
+      "character": "Dron",
+      "line": "Well what are they then?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to find out the history of the outpost near Ardougne. I was hoping you could help me."
+    },
+    {
+      "character": "Dron",
+      "line": "Let me see. Ah yes, I remember reading of a battle that took place at the outpost many years ago. Two ex- friends led forces in a small battle that ended with them pitted against each other at the top of the outpost as the"
+    },
+    {
+      "character": "Dron",
+      "line": "sole survivors because of their superior strength."
+    },
+    {
+      "character": "Player",
+      "line": "Ex-friends?"
+    },
+    {
+      "character": "Dron",
+      "line": "They were once friends but a difference in their beliefs meant they fell out. One chose to follow the god Zamorak, whilst the other chose Saradomin. But finding themselves in this extreme situation at the top of the"
+    },
+    {
+      "character": "Dron",
+      "line": "outpost caused them to see the errors of their ways, like the waste of life, the lost friendship and the wasted time. They both then decided to unite under Guthix."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, I like happy endings."
+    },
+    {
+      "character": "Dron",
+      "line": "You would."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, I can report this back to Jorral now."
+    },
+    {
+      "character": "Dron",
+      "line": "Anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I was wondering how you get the blood stains out of your clothes?"
+    },
+    {
+      "character": "Dron",
+      "line": "BE GONE!"
+    },
+    {
+      "character": "Player",
+      "line": "Dave."
+    },
+    {
+      "character": "Dron",
+      "line": "Dev?"
+    },
+    {
+      "character": "Player",
+      "line": "No. D-A-V-E"
+    },
+    {
+      "character": "Dron",
+      "line": "What a strange name. Unlike my brothers!"
+    },
+    {
+      "character": "Player",
+      "line": "Kittens."
+    },
+    {
+      "character": "Dron",
+      "line": "Eww. Gross. You have some strange tastes."
+    },
+    {
+      "character": "Player",
+      "line": "You can't lecture ME on eating habits."
+    },
+    {
+      "character": "Dron",
+      "line": "Don't waste my time!"
+    },
+    {
+      "character": "Dron",
+      "line": "You know nothing!"
+    },
+    {
+      "character": "Dron",
+      "line": "Leave me alone!"
+    },
+    {
+      "character": "Dron",
+      "line": "Wrong, wrong, wrong!"
+    },
+    {
+      "character": "Player",
+      "line": "I've talked to the warrior."
+    },
+    {
+      "character": "Jorral",
+      "line": "Excellent! What did he say?"
+    },
+    {
+      "character": "Player",
+      "line": "Well..."
+    },
+    {
+      "character": "Player",
+      "line": "And then I asked him about getting the blood stains out of his clothes, but he didn't like that!"
+    },
+    {
+      "character": "Jorral",
+      "line": "It seems you're lucky he didn't beat you up! Well done, that's another piece of the puzzle."
+    },
+    {
+      "character": "Jorral",
+      "line": "It all makes sense now, I never realised there was quite so much history to this place, it was more than I could have hoped."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad to hear. What's the whole story?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Many years ago, there were two friends who fell out over their difference of opinion in religion. One decided to dedicate his life to Saradomin, the other to Zamorak. Years passed and the follower of Zamorak moved into"
+    },
+    {
+      "character": "Jorral",
+      "line": "this outpost with a group of others to cause havoc for the city of Ardougne. The people of the city called upon some Saradomin followers, who happened to be led by the other friend. A battle ensued that ended with the"
+    },
+    {
+      "character": "Jorral",
+      "line": "two ex-friends at the top of the outpost as the sole survivors. Realising their mistakes they made friends again. One decided to become King and spread the word of equality, and the other chose to start up a"
+    },
+    {
+      "character": "Jorral",
+      "line": "market where all could trade their wares equally and fairly. The one that became king is the great grandfather of the King Lathas that we know!"
+    },
+    {
+      "character": "Player",
+      "line": "So what should I do now?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Well, what I'll do is write down the details you have provided in a more easy to digest manner, along with my plans for using this building as a museum."
+    },
+    {
+      "character": "Jorral",
+      "line": "Well I would give you the letter if you had space to carry it."
+    },
+    {
+      "character": "Player",
+      "line": "Then I suppose you want ME to deliver it to the king?"
+    },
+    {
+      "character": "Jorral",
+      "line": "You've got that right!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't suppose you could give me the letter again?"
+    },
+    {
+      "character": "Jorral",
+      "line": "Ok. Just don't lose it again!"
+    },
+    {
+      "character": "Jorral",
+      "line": "Have you taken that letter to King Lathas in Ardougne yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry."
+    },
+    {
+      "character": "Jorral",
+      "line": "Any time soon would be great."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me. I have been asked to give you from Jorral... Ooops, I had a letter, but I don't have it with me - be right back!"
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me. I have been asked to hand you this from Jorral at the outpost."
+    },
+    {
+      "character": "King Lathas",
+      "line": "I see."
+    },
+    {
+      "character": "King Lathas",
+      "line": "I had no idea that place had any value at all! All this about my Great Grandfather and Jorral's plans to make it into a museum makes for a convincing case."
+    },
+    {
+      "character": "Player",
+      "line": "I am sure he only wants what is best."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Very well, I will comply with his request. Take this letter back to him with my kind regards."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me sire, but I seem to have lost that letter you gave me."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Very well, take another."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Have you taken that letter to Jorral yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it!"
+    },
+    {
+      "character": "Player",
+      "line": "I was given a letter to give to you from the king! But I seem to have lost it!"
+    },
+    {
+      "character": "Jorral",
+      "line": "Perhaps he will give you another one."
+    },
+    {
+      "character": "Player",
+      "line": "I've been to see the king and he gave me this letter."
+    },
+    {
+      "character": "Jorral",
+      "line": "Quick, let me see."
+    },
+    {
+      "character": "Jorral",
+      "line": "Hurrah! Good work, you've done it. You've saved the outpost!"
+    },
+    {
+      "character": "Player",
+      "line": "My pleasure."
+    },
+    {
+      "character": "Jorral",
+      "line": "I can now continue with my plans for this place. Thank you."
+    },
+    {
+      "character": "Jorral",
+      "line": "Take a look at the artefacts in the new museum room. You may find something of interest."
+    },
+    {
+      "character": "Player",
+      "line": "I have delivered the scroll, you can rest in peace now."
+    },
+    {
+      "character": "Droalak",
+      "line": "Thanks for telling me! I've been waiting for ages!"
+    },
+    {
+      "character": "Player",
+      "line": "Good bye."
+    },
+    {
+      "character": "Droalak",
+      "line": "Bye!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Blanin",
+      "description": "Middle-aged male, Nordic accent, calm and measured tone, a docile Fremennik warrior who is helpful and concerned for family matters."
+    },
+    {
+      "name": "Droalak",
+      "description": "Adult male ghost, British accent, sorrowful and weary tone with underlying regret, a spirit trapped by guilt over abandoning his wife."
+    },
+    {
+      "name": "Droklak",
+      "description": "Adult male ghost, British accent, sorrowful and weary tone with underlying regret, a spirit trapped by guilt over abandoning his wife."
+    },
+    {
+      "name": "Dron",
+      "description": "36-year-old male, Nordic accent, gruff and intimidating tone with a short temper, a fierce Fremennik warrior who is hostile to strangers."
+    },
+    {
+      "name": "Jorral",
+      "description": "Middle-aged male, British accent, scholarly and earnest tone, a passionate historian who is focused and sometimes desperate to preserve history."
+    },
+    {
+      "name": "King Lathas",
+      "description": "Adult male, refined British accent, authoritative and regal tone with underlying cunning, the calculating ruler of East Ardougne."
+    },
+    {
+      "name": "Melina",
+      "description": "Adult female ghost, British accent, melancholic and sullen tone, a weary spirit bound by sorrow and resentment toward her husband."
+    },
+    {
+      "name": "Narration",
+      "description": "Adult male, British accent, calm and neutral storytelling tone, a narrator providing historical context during cutscenes."
+    },
+    {
+      "name": "Silver merchant",
+      "description": "Middle-aged male, British accent, businesslike and slightly impatient tone, a well-fed tradesman named Erin who is professional but busy."
+    }
+  ]
+}

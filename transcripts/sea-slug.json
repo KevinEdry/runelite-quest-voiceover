@@ -1,0 +1,764 @@
+{
+  "branch": "quest/sea-slug",
+  "quest_name": "Sea Slug",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Caroline",
+      "line": "Is there any chance you could help me?"
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong?"
+    },
+    {
+      "character": "Caroline",
+      "line": "It's my husband, he works on a fishing platform. Once a month he takes our son, Kennith, out with him."
+    },
+    {
+      "character": "Caroline",
+      "line": "They usually write to me regularly, but I've heard nothing all week. It's very strange."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe the post was lost!"
+    },
+    {
+      "character": "Caroline",
+      "line": "Maybe, but no-one's heard from the other fishermen on the platform. Their families are becoming quite concerned."
+    },
+    {
+      "character": "Caroline",
+      "line": "Is there any chance you could visit the platform and find out what's going on?"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so, how do I get there?"
+    },
+    {
+      "character": "Caroline",
+      "line": "That's very good of you. My friend Holgart will take you there."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll go and see if they're ok."
+    },
+    {
+      "character": "Caroline",
+      "line": "I'll reward you for your time. It'll give me peace of mind to know Kennith and my husband, Kent, are safe."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, I'm too busy."
+    },
+    {
+      "character": "Caroline",
+      "line": "That's a shame."
+    },
+    {
+      "character": "Player",
+      "line": "Bye."
+    },
+    {
+      "character": "Caroline",
+      "line": "Bye."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Caroline."
+    },
+    {
+      "character": "Caroline",
+      "line": "Brave, have you any news about my son and his father?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it now Caroline."
+    },
+    {
+      "character": "Caroline",
+      "line": "Please bring them back safe and sound."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do my best."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Holgart",
+      "line": "Hello m'hearty."
+    },
+    {
+      "character": "Player",
+      "line": "I would like a ride on your boat to the fishing platform."
+    },
+    {
+      "character": "Holgart",
+      "line": "I'm afraid it isn't sea worthy, it's full of holes. To fill the holes I'll need some swamp paste."
+    },
+    {
+      "character": "Player",
+      "line": "Swamp paste?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Yes, swamp tar mixed with flour and heated over a fire."
+    },
+    {
+      "character": "Holgart",
+      "line": "In fact, unless me nose be mistaken, you've got some in yer pack."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, I forgot about that stuff. Can you use it?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Aye, that be perfect."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find swamp tar?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Unfortunately the only supply of swamp tar is in the swamps below Lumbridge. It's too far for an old man like me to travel."
+    },
+    {
+      "character": "Holgart",
+      "line": "If you make me some swamp paste I'll give you a ride in my boat."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Holgart."
+    },
+    {
+      "character": "Holgart",
+      "line": "Hello m'hearty. Did you manage to make some swamp paste?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not."
+    },
+    {
+      "character": "Holgart",
+      "line": "It's simply swamp tar mixed with flour heated over a fire. Unfortunately the only supply of swamp tar is in the swamps below Lumbridge."
+    },
+    {
+      "character": "Holgart",
+      "line": "I can't fix my row boat without it."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll try to find some."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have some here."
+    },
+    {
+      "character": "Holgart",
+      "line": "Hello again land lover. There's some strange goings on, on that platform, I tell you."
+    },
+    {
+      "character": "Player",
+      "line": "Will you take me there?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Of course m'hearty. If that's what you want."
+    },
+    {
+      "character": "Player",
+      "line": "I'm keeping away from there."
+    },
+    {
+      "character": "Holgart",
+      "line": "Fair enough m'hearty."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Holgart."
+    },
+    {
+      "character": "Holgart",
+      "line": "Have you had enough of this place yet? It's really starting to scare me."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm going to stay a while."
+    },
+    {
+      "character": "Holgart",
+      "line": "Okay... you're the boss."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let's go back."
+    },
+    {
+      "character": "Holgart",
+      "line": "Okay m'hearty, jump on."
+    },
+    {
+      "character": "Fisherman",
+      "line": "You are not part of our family..."
+    },
+    {
+      "character": "Player",
+      "line": "Umm. Not last time I checked."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Soon you will be... Soon you will..."
+    },
+    {
+      "character": "Player",
+      "line": "Really?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "She is coming..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Must escape the blue.. Deep deep blue"
+    },
+    {
+      "character": "Player",
+      "line": "Pardon?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Family... Under the blue... Must escape the blue..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Lost to us.. She is Lost to us..."
+    },
+    {
+      "character": "Player",
+      "line": "Who is lost?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Trapped by the light... Lost and trapped..."
+    },
+    {
+      "character": "Player",
+      "line": "Ermm... So you don't want to tell me then?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Trapped... In stone and darkness..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Must find family..."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Soon we will all be together..."
+    },
+    {
+      "character": "Player",
+      "line": "Are you ok?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Must find family... They are all under the blue... Deep deep under the blue..."
+    },
+    {
+      "character": "Player",
+      "line": "Ermm... I'll leave you to it then."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Below the deep, deep blue she waits..."
+    },
+    {
+      "character": "Player",
+      "line": "Who waits?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "They came to her with fire and faith..."
+    },
+    {
+      "character": "Player",
+      "line": "Who? Who came to who?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Too many... Too many..."
+    },
+    {
+      "character": "Player",
+      "line": "Too many what? Make sense!"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Locked away for all eternity..."
+    },
+    {
+      "character": "Player",
+      "line": "You'd better start making sense Sonny Jim or I'll..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Free... Soon to be free..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "Free of the deep blue we are..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "We must find..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "a new home..."
+    },
+    {
+      "character": "Fisherman",
+      "line": "We must leave this place..."
+    },
+    {
+      "character": "Player",
+      "line": "Where will you go?"
+    },
+    {
+      "character": "Fisherman",
+      "line": "Away.. Away to her..."
+    },
+    {
+      "character": "Player",
+      "line": "Riiight."
+    },
+    {
+      "character": "Bailey",
+      "line": "What? Who are you? Come inside quickly!"
+    },
+    {
+      "character": "Bailey",
+      "line": "What are you doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to find out what happened to a boy named Kennith."
+    },
+    {
+      "character": "Bailey",
+      "line": "Oh you mean Kent's son. He's around somewhere, probably hiding if he knows what's good for him."
+    },
+    {
+      "character": "Player",
+      "line": "Hiding from what? What's got you so frightened?"
+    },
+    {
+      "character": "Bailey",
+      "line": "Haven't you seen all those things out there?"
+    },
+    {
+      "character": "Player",
+      "line": "The sea slugs?"
+    },
+    {
+      "character": "Bailey",
+      "line": "It all began about a week ago. We pulled up a haul of deep sea flatfish. Mixed in with them we found those slug things, but thought nothing of it."
+    },
+    {
+      "character": "Bailey",
+      "line": "Not long after that my friends began to change, now they spend all day pulling in hauls of fish, only to throw back the fish and keep those nasty sea slugs."
+    },
+    {
+      "character": "Bailey",
+      "line": "What am I supposed to do with those? I haven't figured out how to kill one yet, if I put them near the stove they squirm and jump away."
+    },
+    {
+      "character": "Player",
+      "line": "I doubt they would taste too good."
+    },
+    {
+      "character": "Bailey",
+      "line": "This is no time for humour."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, I didn't mean to upset you."
+    },
+    {
+      "character": "Bailey",
+      "line": "That's okay. I just can't shake the feeling that this is the start of something... Terrible."
+    },
+    {
+      "character": "Player",
+      "line": "Are you okay young one?"
+    },
+    {
+      "character": "Kennith",
+      "line": "No, I want my daddy!"
+    },
+    {
+      "character": "Player",
+      "line": "Where is your father?"
+    },
+    {
+      "character": "Kennith",
+      "line": "He went to get help days ago."
+    },
+    {
+      "character": "Kennith",
+      "line": "The nasty fishermen tried to throw me and daddy into the sea. So he told me to hide here."
+    },
+    {
+      "character": "Player",
+      "line": "That's good advice, you stay here and I'll go try and find your father."
+    },
+    {
+      "character": "Player",
+      "line": "Are you okay?"
+    },
+    {
+      "character": "Kennith",
+      "line": "I want to see daddy!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it."
+    },
+    {
+      "character": "Player",
+      "line": "Holgart, something strange is going on here."
+    },
+    {
+      "character": "Holgart",
+      "line": "You're telling me, none of the sailors seem to remember who I am."
+    },
+    {
+      "character": "Player",
+      "line": "Apparently Kennith's father left for help a couple of days ago."
+    },
+    {
+      "character": "Holgart",
+      "line": "That's a worry, no-one's heard from him on shore. Come on, we'd better go look for him."
+    },
+    {
+      "character": "Player",
+      "line": "Where are we?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Someway off mainland still. You'd better see if me old matey's okay."
+    },
+    {
+      "character": "Kent",
+      "line": "Oh thank Saradomin! I thought I'd be left out here forever."
+    },
+    {
+      "character": "Player",
+      "line": "Your wife sent me out to find you and your boy. Kennith's fine by the way, he's on the platform."
+    },
+    {
+      "character": "Kent",
+      "line": "I knew the row boat wasn't sea worthy. I couldn't risk bringing him along but you must get him off that platform."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on here?"
+    },
+    {
+      "character": "Kent",
+      "line": "Five days ago we pulled in a huge catch. As well as fish we caught small slug like creatures, hundreds of them."
+    },
+    {
+      "character": "Kent",
+      "line": "That's when the fishermen began to act strange."
+    },
+    {
+      "character": "Kent",
+      "line": "It was the sea slugs, they attach themselves to your body and somehow take over the mind of the carrier."
+    },
+    {
+      "character": "Kent",
+      "line": "I told Kennith to hide until I returned but I was washed up here."
+    },
+    {
+      "character": "Kent",
+      "line": "Please go back and get my boy, you can send help for me later."
+    },
+    {
+      "character": "Kent",
+      "line": "wait!"
+    },
+    {
+      "character": "Kent",
+      "line": "A few more minutes and that thing would have full control of your body."
+    },
+    {
+      "character": "Player",
+      "line": "Yuck! Thanks Kent."
+    },
+    {
+      "character": "Kent",
+      "line": "Oh my, I must get back to shore."
+    },
+    {
+      "character": "Player",
+      "line": "We'd better get back to the platform so we can see what's going on."
+    },
+    {
+      "character": "Holgart",
+      "line": "You're right. It all sounds pretty creepy."
+    },
+    {
+      "character": "Bailey",
+      "line": "Oh, thank the gods it's you. They've all gone mad I tell you, one of the fishermen tried to throw me into the sea!"
+    },
+    {
+      "character": "Player",
+      "line": "They're all being controlled by the sea slugs."
+    },
+    {
+      "character": "Bailey",
+      "line": "I figured as much."
+    },
+    {
+      "character": "Player",
+      "line": "I need to get Kennith off this platform, but I can't get past the fishermen."
+    },
+    {
+      "character": "Bailey",
+      "line": "The sea slugs are scared of heat, I figured that out when I tried to cook them."
+    },
+    {
+      "character": "Bailey",
+      "line": "Here."
+    },
+    {
+      "character": "Bailey",
+      "line": "I doubt the fishermen will come near you if you can get this torch lit."
+    },
+    {
+      "character": "Bailey",
+      "line": "The only problem is all the wood and flint are damp... I can't light a thing!"
+    },
+    {
+      "character": "Player",
+      "line": "I've managed to lose my torch."
+    },
+    {
+      "character": "Bailey",
+      "line": "That was silly, fortunately I have another. Here, take it."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better find a way to light this torch, and soon."
+    },
+    {
+      "character": "Player",
+      "line": "I've managed to light the torch."
+    },
+    {
+      "character": "Bailey",
+      "line": "Well done traveller, you'd better get Kennith out of here soon."
+    },
+    {
+      "character": "Bailey",
+      "line": "The fishermen are becoming stranger by the minute, and they keep pulling up those blasted sea slugs."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry I'm working on it."
+    },
+    {
+      "character": "Bailey",
+      "line": "Just be sure to watch your back. The fishermen seem to have taken notice of you."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Kennith, are you okay?"
+    },
+    {
+      "character": "Kennith",
+      "line": "No, I want my daddy."
+    },
+    {
+      "character": "Player",
+      "line": "You'll be able to see him soon. First we need to get you back to land, come with me to the boat."
+    },
+    {
+      "character": "Kennith",
+      "line": "No!"
+    },
+    {
+      "character": "Player",
+      "line": "What, why not?"
+    },
+    {
+      "character": "Kennith",
+      "line": "I'm scared of those nasty sea slugs. I won't go near them."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, you wait here and I'll go figure another way to get you out."
+    },
+    {
+      "character": "Player",
+      "line": "Kennith, I've made an opening in the wall. You can come out through there."
+    },
+    {
+      "character": "Kennith",
+      "line": "Are there any sea slugs on the other side?"
+    },
+    {
+      "character": "Player",
+      "line": "Not one."
+    },
+    {
+      "character": "Kennith",
+      "line": "How will I get downstairs?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll figure that out in a moment."
+    },
+    {
+      "character": "Kennith",
+      "line": "Ok, when you have I'll come out."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Bailey."
+    },
+    {
+      "character": "Bailey",
+      "line": "Hello again. I saw you managed to get Kennith off the platform. Well done. He wasn't safe around those slugs."
+    },
+    {
+      "character": "Player",
+      "line": "Are you going to come back with us?"
+    },
+    {
+      "character": "Bailey",
+      "line": "No, these fishermen are my friends, I'm sure they can be saved. I'm going to stay and try to get rid of all these slugs."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have a way of removing the slugs once they've attached themselves to someone?"
+    },
+    {
+      "character": "Bailey",
+      "line": "Not yet but I'll keep working on it."
+    },
+    {
+      "character": "Player",
+      "line": "I only hope they stay confined to the fishing platform."
+    },
+    {
+      "character": "Bailey",
+      "line": "Yes, I dread to think what would happen if they got to Witchaven nearby."
+    },
+    {
+      "character": "Bailey",
+      "line": "I guess I'll just have to keep an eye on things here until a way of removing the slugs can be found."
+    },
+    {
+      "character": "Player",
+      "line": "You're braver than most. Take care of yourself Bailey."
+    },
+    {
+      "character": "Bailey",
+      "line": "You too."
+    },
+    {
+      "character": "Player",
+      "line": "Did you get the kid back to shore?"
+    },
+    {
+      "character": "Holgart",
+      "line": "Yes, he's safe and sound with his parents. Your turn to return to land now adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "Looking forward to it."
+    },
+    {
+      "character": "Caroline",
+      "line": "Brave, you've returned!"
+    },
+    {
+      "character": "Caroline",
+      "line": "Kennith told me about the strange goings-on at the platform. I had no idea it was so serious."
+    },
+    {
+      "character": "Caroline",
+      "line": "I could have lost my son and my husband if it wasn't for you."
+    },
+    {
+      "character": "Player",
+      "line": "We found Kent stranded on an island."
+    },
+    {
+      "character": "Caroline",
+      "line": "Yes, Holgart told me and sent a rescue party out. Kent's back home now, resting with Kennith. I don't think he'll be doing any fishing for a while."
+    },
+    {
+      "character": "Caroline",
+      "line": "Here, take these Oyster pearls as a reward. They're worth quite a bit and can be used to make lethal crossbow bolts."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Caroline",
+      "line": "Thank you. Take care of yourself."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bailey",
+      "description": "Middle-aged male, British accent, gruff but resourceful tone. A determined cook who works on the Fishing Platform and remains uninfected by the sea slugs, maintaining his composure despite the horrifying situation around him."
+    },
+    {
+      "name": "Caroline",
+      "description": "Middle-aged female, British accent, worried and anxious tone. A concerned mother and wife from Witchaven who is desperate to find her missing family, speaking with maternal urgency and gratitude."
+    },
+    {
+      "name": "Fisherman",
+      "description": "Adult male, British accent, eerie and monotonous tone. A possessed fisherman whose mind has been taken over by sea slugs, speaking in disjointed, cryptic phrases with an unsettling calm."
+    },
+    {
+      "name": "Holgart",
+      "description": "Elderly male, British accent, jolly and nautical tone. An old sailor who speaks with classic seafaring expressions like 'm'hearty' and 'land lover', friendly but aware of the dangers at the platform."
+    },
+    {
+      "name": "Kennith",
+      "description": "Young male around 8-10 years old, British accent, scared and timid tone. A frightened boy hiding from the possessed fishermen who just wants to be reunited with his father."
+    },
+    {
+      "name": "Kent",
+      "description": "Middle-aged male, British accent, exhausted but protective tone. A tired and hungry fisherman stranded on an island, deeply concerned for his son's safety and grateful for rescue."
+    }
+  ]
+}

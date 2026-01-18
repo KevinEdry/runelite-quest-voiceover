@@ -1,0 +1,3440 @@
+{
+  "branch": "quest/monkey-madness-i",
+  "quest_name": "Monkey Madness I",
+  "lines": [
+    {
+      "character": "King Narnode Shareen",
+      "line": "Adventurer! It is good to see you again."
+    },
+    {
+      "character": "Player",
+      "line": "And you too, King. How fares the tree?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "The tree? It is fine, as it has always been since we foiled Glough's plans."
+    },
+    {
+      "character": "Player",
+      "line": "Good. What ever did happen to Glough?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Oh, I forced him to resign. I have now appointed a new Head Tree Guardian, Daero. He is learning quickly and serves me well."
+    },
+    {
+      "character": "Player",
+      "line": "King, you look worried. Is anything the matter?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Nothing in particular... Well actually, yes - there is."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Well, do you remember Glough's ship building facilities in Karamja?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, they were on the eastern coast. What of them?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "After you defeated Glough's demon I sent an envoy of my Royal Guard, the 10th squad, to oversee the decommission of the shipyard. They were ordered to use force if necessary."
+    },
+    {
+      "character": "Player",
+      "line": "I see... Were they successful?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "I... I don't know. I have heard nothing from them. I do not even know if they reached the shipyard!"
+    },
+    {
+      "character": "Player",
+      "line": "It is a long way..."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "But I need to know what happened. These are elite soldiers - their disappearance cannot simply be ignored. I cannot wait any longer."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "And so I ask you: would you visit Glough's old shipyard in Karamja and find out if the 10th squad ever managed to reach?"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll do it."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Thank you very much. You may need this Royal Seal to identify yourself as my envoy."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Please report to me as soon as you have any information."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I am too busy right now."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "As you wish. Return to me when you have the time."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Are you ready to investigate the shipyard for me?"
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Go to Glough's old shipyard on the eastern coast of Karamja. Find out what happened to the 10th squad of my Royal Guard."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "As I said, they were sent to oversee the decommission of the ship building facilities, but I have heard nothing from them."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Welcome back, adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to do?"
+    },
+    {
+      "character": "Player",
+      "line": "How did the 10th squad travel?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "They would have each flown a Gnome Glider."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back later."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Hey you! What are you up to?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to open the gate!"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "I can see that! Why?"
+    },
+    {
+      "character": "Player",
+      "line": "I am on a special mission for King Narnode of the Gnomes."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Narnode? I don't believe you. He wouldn't send a human!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, he did..."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Tough."
+    },
+    {
+      "character": "Player",
+      "line": "Look, I have the Gnome Royal Seal."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Wow. I haven't seen one of these since..."
+    },
+    {
+      "character": "Player",
+      "line": "Since when?"
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "... since Glough used to visit."
+    },
+    {
+      "character": "Shipyard worker",
+      "line": "Anyway. Please step inside,."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Foreman",
+      "line": "Hello. Do I know you? You seem remarkably familiar..."
+    },
+    {
+      "character": "Player",
+      "line": "Erm, no you don't know me."
+    },
+    {
+      "character": "Foreman",
+      "line": "If you say so. Anyway, what do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen any of King Narnode's Royal Guard recently? They were meant to be doing... some work in the area."
+    },
+    {
+      "character": "Foreman",
+      "line": "I wouldn't know anything about that. You should see Caranock."
+    },
+    {
+      "character": "Player",
+      "line": "Who is Caranock?"
+    },
+    {
+      "character": "Foreman",
+      "line": "Our Gnome Liaison Officer."
+    },
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Who are you? Did Glough send you?"
+    },
+    {
+      "character": "Player",
+      "line": "Glough? No. He has been forced to resign by the King."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Forced to resign??"
+    },
+    {
+      "character": "Player",
+      "line": "He was plotting to start a war between Gnomes and humankind."
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, I am here on a separate mission. I am investigating the mysterious disappearance of the 10th squad of King Narnode's Royal Guard. They were to carry out some work in the area."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Royal Guard? I know nothing about them. Absolutely nothing."
+    },
+    {
+      "character": "Player",
+      "line": "You have no idea why they mysteriously disappeared?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "None whatsoever. What were they here to do?"
+    },
+    {
+      "character": "Player",
+      "line": "They were to oversee the decommission of the shipyard."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Decommission the shipyard... I see. Well, we have had some seriously strong southerly winds of late. They may have been blown off course during flight."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "I shall personally see to the decommission. You should report to the King immediately."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Why are you still here? You should report immediately to the King!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello. I investigated the shipyard."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Thank you for doing this. What did you find?"
+    },
+    {
+      "character": "Player",
+      "line": "I met a Gnome who goes by the name of Caranock. Do you recognise it?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "The name sounds a little familiar, but it is nobody I know personally."
+    },
+    {
+      "character": "Player",
+      "line": "He calls himself a Gnome Liaison Officer. He seemed a little... odd"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Never mind that - did you find anything out about my 10th squad?"
+    },
+    {
+      "character": "Player",
+      "line": "Caranock suggested they were blown off course by extreme southern winds."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Do you believe him?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have any other information right now."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Very well. I will now prepare some orders. You must convey them to my new High Tree Guardian, Daero."
+    },
+    {
+      "character": "Player",
+      "line": "Where will I find Daero?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "You will find him attending to business somewhere on the Grand Tree."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "How goes the mission?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it..."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me..."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Yes, adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "You know those orders you gave me -"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "You've lost them?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes - how did you know?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Oh, it often happens. Luckily I had the foresight to write in a secret code on self-destructing paper."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Here, take a another."
+    },
+    {
+      "character": "Player",
+      "line": "Are you Daero?"
+    },
+    {
+      "character": "Daero",
+      "line": "Indeed I am - and you are?"
+    },
+    {
+      "character": "Player",
+      "line": "I am an adventurer. I am currently in the service of your King."
+    },
+    {
+      "character": "Daero",
+      "line": "I see. You must be the individual who helped defeat my predecessor Glough. I hope you'll find me a more honest replacement."
+    },
+    {
+      "character": "Player",
+      "line": "I have been asked to give you orders from King Narnode."
+    },
+    {
+      "character": "Daero",
+      "line": "Well hand them over here then."
+    },
+    {
+      "character": "Player",
+      "line": "However, I appear to have lost them..."
+    },
+    {
+      "character": "Daero",
+      "line": "Well you'd better retrieve them as soon as possible. Our enemies may extract sensitive information from them."
+    },
+    {
+      "character": "Daero",
+      "line": "It is written in an old military code. Bear with me whilst I decode this."
+    },
+    {
+      "character": "Daero",
+      "line": "I hope you feel like a quest adventurer..."
+    },
+    {
+      "character": "Player",
+      "line": "Why is that?"
+    },
+    {
+      "character": "Daero",
+      "line": "... because you are going to get one."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me what the orders say!"
+    },
+    {
+      "character": "Daero",
+      "line": "Given your recent performance of uncovering and neutralising a threat at the very extremes of the Gnome hierarchy, the King has decreed that you are to undertake a reconnaisance mission."
+    },
+    {
+      "character": "Player",
+      "line": "Where to?"
+    },
+    {
+      "character": "Daero",
+      "line": "You are to be taken far to the south of Karamja, further than any Gnome has purposely travelled before. You are to investigate Caranock's claim that Garkor's squad were blown off course."
+    },
+    {
+      "character": "Daero",
+      "line": "You must really have impressed the King in the past."
+    },
+    {
+      "character": "Player",
+      "line": "What lies to the south of Karamja?"
+    },
+    {
+      "character": "Daero",
+      "line": "We do not know. Initial reports spoke of a large atoll populated by monkeys."
+    },
+    {
+      "character": "Player",
+      "line": "Monkeys? Like on Karamja?"
+    },
+    {
+      "character": "Daero",
+      "line": "From what I have heard, not quite like those monkeys..."
+    },
+    {
+      "character": "Player",
+      "line": "How will I travel?"
+    },
+    {
+      "character": "Daero",
+      "line": "It is my responsibility to make arrangements for your mission. We will shortly visit a colleague of mine who will be accompanying you."
+    },
+    {
+      "character": "Player",
+      "line": "Are you coming with me?"
+    },
+    {
+      "character": "Daero",
+      "line": "I am afraid not. I must remain here to safeguard the Grand Tree. I will assign a Gnome agent to travel with you."
+    },
+    {
+      "character": "Player",
+      "line": "Why did the King send a squad of the Royal Guard?"
+    },
+    {
+      "character": "Daero",
+      "line": "The Royal Guard is composed of particularly elite soldiers who have proven themselves in battle. They are duty bound to protect the Grand Tree its King and his interests."
+    },
+    {
+      "character": "Daero",
+      "line": "In the face of danger, they can more than take care of themselves."
+    },
+    {
+      "character": "Player",
+      "line": "So the King worries we have come across an equally formidable foe?"
+    },
+    {
+      "character": "Daero",
+      "line": "He worries about this, yes."
+    },
+    {
+      "character": "Player",
+      "line": "Who is Garkor?"
+    },
+    {
+      "character": "Daero",
+      "line": "Sergeant Garkor holds the command of the 10th squad. As a soldier, he is extremely able. If his men are in trouble, he will be tirelessly working to save them."
+    },
+    {
+      "character": "Daero",
+      "line": "You should aim to make contact with him."
+    },
+    {
+      "character": "Player",
+      "line": "Why are the 10th squad so famous?"
+    },
+    {
+      "character": "Daero",
+      "line": "They are, as you humans might say, the best of the best. As well as Sergeant Garkor, they have in their company a High Mage, two sappers and battle hardened foot soldiers."
+    },
+    {
+      "character": "Player",
+      "line": "What is a sapper?"
+    },
+    {
+      "character": "Daero",
+      "line": "You might consider the role as that of an engineer. Or perhaps of a munitions expert."
+    },
+    {
+      "character": "Daero",
+      "line": "I have never heard of him. According to the report you made to the King, he is the Gnome Liaison Officer at the eastern Karamja shipyard."
+    },
+    {
+      "character": "Player",
+      "line": "What is a Gnome Liaison Officer?"
+    },
+    {
+      "character": "Daero",
+      "line": "It was a position Glough introduced. Gnome Liaison Officers are in general responsible for coordinating activities between Gnomes and other beings in our remote operations."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not so sure about Caranock..."
+    },
+    {
+      "character": "Daero",
+      "line": "In what way?"
+    },
+    {
+      "character": "Player",
+      "line": "I do not know. He just seemed a little suspicious. He was very keen to see me leave."
+    },
+    {
+      "character": "Daero",
+      "line": "I do not know him; he is from before my time. Glough would presumably have hand picked him."
+    },
+    {
+      "character": "Player",
+      "line": "Let us go then."
+    },
+    {
+      "character": "Daero",
+      "line": "I must first introduce you to a colleague of mine who will be accompanying you on your mission."
+    },
+    {
+      "character": "Player",
+      "line": "Who is it?"
+    },
+    {
+      "character": "Daero",
+      "line": "His name is Flight Commander Waydar."
+    },
+    {
+      "character": "Daero",
+      "line": "We must go now and meet Waydar. For security reasons I must ask you to wear a blindfold."
+    },
+    {
+      "character": "Player",
+      "line": "I work better on my own..."
+    },
+    {
+      "character": "Daero",
+      "line": "Tough. You will be working with Flight Commander Waydar."
+    },
+    {
+      "character": "Waydar",
+      "line": "Sorry, I am not authorised to talk to you."
+    },
+    {
+      "character": "Daero",
+      "line": "Welcome, adventurer, to the Underground Military Glider Hangar."
+    },
+    {
+      "character": "Player",
+      "line": "Wow! Why would Gnomes need such a place?"
+    },
+    {
+      "character": "Daero",
+      "line": "We do not, if the truth be told. This hangar was part of Glough's contingency planning. Had the attacks by land and sea failed, he would have turned to air."
+    },
+    {
+      "character": "Daero",
+      "line": "It is fortunate indeed that you managed to expose him. The military gliders in this hangar are a prototype for a much refined version of the standard variety we currently use."
+    },
+    {
+      "character": "Daero",
+      "line": "Let me introduce you to Flight Commander Waydar."
+    },
+    {
+      "character": "Daero",
+      "line": "Flight Commander Waydar, I would like you to meet."
+    },
+    {
+      "character": "Waydar",
+      "line": "Greetings High Tree Guardian."
+    },
+    {
+      "character": "Waydar",
+      "line": "And greetings to you too, visitor."
+    },
+    {
+      "character": "Daero",
+      "line": "Not just any old visitor Waydar; this is the person who exposed Glough and defeated his demon."
+    },
+    {
+      "character": "Waydar",
+      "line": "I see. Well, there are no more demons left here."
+    },
+    {
+      "character": "Daero",
+      "line": "Quite. now on a secret mission for the King."
+    },
+    {
+      "character": "Daero",
+      "line": "As you know, the 10th squad went missing during their mission to decommission the eastern shipyard of Karamja."
+    },
+    {
+      "character": "Daero",
+      "line": "We still do not know what happened, but evidence suggests they were blown far off course to the south."
+    },
+    {
+      "character": "Waydar",
+      "line": "Their standard gliders must have fallen prey to the tropical weather."
+    },
+    {
+      "character": "Daero",
+      "line": "When reinitialisation has been completed, you are to fly to the south of Karamja with and accompany on the mission."
+    },
+    {
+      "character": "Waydar",
+      "line": "We are no closer to reinitialising sir - the code is too hard. It is likely the only person who could do it is Glough."
+    },
+    {
+      "character": "Daero",
+      "line": "That Gnome is never stepping foot in this hangar again. He always was and still is a menace. Do you understand me?"
+    },
+    {
+      "character": "Waydar",
+      "line": "Yes sir."
+    },
+    {
+      "character": "Daero",
+      "line": "Very well. Notify me when you have managed to reinitialise."
+    },
+    {
+      "character": "Daero",
+      "line": ", you will have to wait till reinitialisation is complete."
+    },
+    {
+      "character": "Daero",
+      "line": "Hello again, adventurer. Would you like to return to the hangar?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Player",
+      "line": "Not right now, thanks."
+    },
+    {
+      "character": "Daero",
+      "line": "Very well. Return to me when you do."
+    },
+    {
+      "character": "Player",
+      "line": "How do I leave?"
+    },
+    {
+      "character": "Daero",
+      "line": "There is a teleporter round the corner. You must use this."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the hangar?"
+    },
+    {
+      "character": "Daero",
+      "line": "We try to ensure the location of the hangar remains a secret. If you must know something, then know that it lies directly beneath the Gnomeball pitch. However, I cannot reveal the location of its entrance."
+    },
+    {
+      "character": "Daero",
+      "line": "There is a teleporter round the corner."
+    },
+    {
+      "character": "Player",
+      "line": "How do I return later?"
+    },
+    {
+      "character": "Daero",
+      "line": "Come and find me on the Grand Tree. I will probably be at the bar."
+    },
+    {
+      "character": "Player",
+      "line": "What is reinitialisation?"
+    },
+    {
+      "character": "Daero",
+      "line": "Glough left a code on the facility which periodically needs to be entered if we wish to maintain the supply of power."
+    },
+    {
+      "character": "Daero",
+      "line": "Without going through this process of reinitiliasation, we cannot power the mechanism which deploys the millitary gliders."
+    },
+    {
+      "character": "Player",
+      "line": "What are military gliders?"
+    },
+    {
+      "character": "Waydar",
+      "line": "As Daero said, they are a prototype for a new version of glider. They are reinforced yet are built out of lighter materials. They can fly much faster and for longer."
+    },
+    {
+      "character": "Player",
+      "line": "Why are the gliders folded against the wall?"
+    },
+    {
+      "character": "Waydar",
+      "line": "It is the most compact way to store them. Unfortunately, they will remain like that until they are powered. We can only fully power the hangar when reinitialisation has been completed."
+    },
+    {
+      "character": "Player",
+      "line": "When will reinitialisation be completed?"
+    },
+    {
+      "character": "Waydar",
+      "line": "I cannot be sure. It is a difficult code; it may happen the next instant - then again it may not."
+    },
+    {
+      "character": "Waydar",
+      "line": "You could even have a go at solving the code yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the reinitialisation code?"
+    },
+    {
+      "character": "Waydar",
+      "line": "The code must be entered at the red control panel just by the wall over there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello?"
+    },
+    {
+      "character": "Glough",
+      "line": "You look frustrated, human."
+    },
+    {
+      "character": "Player",
+      "line": "I've been told to wait for reinitialisation of the hangar. They mentioned your name."
+    },
+    {
+      "character": "Glough",
+      "line": "Of course they would. I'm the only one who knows how to do it."
+    },
+    {
+      "character": "Player",
+      "line": "This is really quite embarrassing, but..."
+    },
+    {
+      "character": "Glough",
+      "line": "Let me guess, you need my help..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I suppose I do."
+    },
+    {
+      "character": "Glough",
+      "line": "I am able to remotely reinitialise..."
+    },
+    {
+      "character": "Player",
+      "line": "But... ?"
+    },
+    {
+      "character": "Glough",
+      "line": "It will cost you..."
+    },
+    {
+      "character": "Player",
+      "line": "How much?"
+    },
+    {
+      "character": "Glough",
+      "line": "Oh... just a measly 200,000 coins. Yes, I think that will do me nicely."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that kind of money on me right now."
+    },
+    {
+      "character": "Player",
+      "line": "Ok then. You win again, Glough."
+    },
+    {
+      "character": "Glough",
+      "line": "It's been a pleasure doing business with you."
+    },
+    {
+      "character": "Player",
+      "line": "Indeed. I wish I could say the same for you."
+    },
+    {
+      "character": "Player",
+      "line": "That's outrageous!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'd rather skin a monkey than take your help!"
+    },
+    {
+      "character": "Glough",
+      "line": "You don't know how to do that yet!"
+    },
+    {
+      "character": "Daero",
+      "line": "Well done, adventurer. You have managed to break Glough's code. Now the process of reinitialisation is complete, you can truly begin your journey into the unknown."
+    },
+    {
+      "character": "Player",
+      "line": "I've had some practice in the past."
+    },
+    {
+      "character": "Daero",
+      "line": "You are clearly a human of many talents."
+    },
+    {
+      "character": "Daero",
+      "line": "Flight Commander Waydar, now that reinitialisation is complete, I order you to fly to the south of Karamja with"
+    },
+    {
+      "character": "Daero",
+      "line": "You are to safeguard on this potentially dangerous mission."
+    },
+    {
+      "character": "Waydar",
+      "line": "Understood."
+    },
+    {
+      "character": "Daero",
+      "line": ", speak to Waydar when you are ready to leave."
+    },
+    {
+      "character": "Daero",
+      "line": "And... good luck."
+    },
+    {
+      "character": "Waydar",
+      "line": "Well done on breaking the code. You should speak to the High Tree Guardian."
+    },
+    {
+      "character": "Daero",
+      "line": "Flight Commander Waydar, now that reinitialisation is complete, I order you to fly to the south of Karamja with."
+    },
+    {
+      "character": "Daero",
+      "line": "Speak to Waydar when you are ready to leave."
+    },
+    {
+      "character": "Waydar",
+      "line": "You should stock up well on food before our journey. I can carry only enough provisions for myself."
+    },
+    {
+      "character": "Waydar",
+      "line": "I'd be careful of the local fauna too - I've heard the bite is far worse than any noise they make."
+    },
+    {
+      "character": "Waydar",
+      "line": "Do you wish to fly right now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, let's go."
+    },
+    {
+      "character": "Waydar",
+      "line": "As you wish."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll be back later."
+    },
+    {
+      "character": "Player",
+      "line": "Where are we?"
+    },
+    {
+      "character": "Waydar",
+      "line": "I am not sure. We appear to have landed where the 10th squad crashed. The number of gnome gliders is correct. Unfortunately for them, it appears that none of their gliders survived the collision."
+    },
+    {
+      "character": "Player",
+      "line": "Did our glider survive?"
+    },
+    {
+      "character": "Waydar",
+      "line": "Of course."
+    },
+    {
+      "character": "Lumdo",
+      "line": "Who are you two?"
+    },
+    {
+      "character": "Player",
+      "line": "We are on a mission for King Narnode Shareen. I am and this is Flight Commander Waydar."
+    },
+    {
+      "character": "Lumdo",
+      "line": "What business do you have here?"
+    },
+    {
+      "character": "Player",
+      "line": "We are to investigate the disappearance of the 10th squad of the Royal Guard. Am I right in suspecting that you, Lumdo, are a member of the 10th squad?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "I might be. Do you have any way to prove that you are who you say are?"
+    },
+    {
+      "character": "Player",
+      "line": "I have the Gnome Royal Seal."
+    },
+    {
+      "character": "Lumdo",
+      "line": "I see. Sorry for my distrust."
+    },
+    {
+      "character": "Player",
+      "line": "We flew here on a military gnome glider. Is that not proof enough?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "I suppose it is. Sorry for my distrust."
+    },
+    {
+      "character": "Player",
+      "line": "So are you Lumdo of the 10th squad?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "I am indeed -"
+    },
+    {
+      "character": "Player",
+      "line": "Where are the rest of your squad? Where is your Sergeant?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "Let me begin at the beginning, human."
+    },
+    {
+      "character": "Lumdo",
+      "line": "We were on our way to decommission Glough's old ship building facilities in eastern Karamja, as you probably know. However, we obviously chose the wrong season to fly."
+    },
+    {
+      "character": "Lumdo",
+      "line": "We were one gnome to a glider, so each was extremely light. Like leaves in a wind, we were blown south before we even landed on that island."
+    },
+    {
+      "character": "Player",
+      "line": "Did you crash straight here?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "Yes. The winds drove us into the treetops, which destroyed the canvas of our gliders. We dragged what remained of the gliders out onto this beach."
+    },
+    {
+      "character": "Player",
+      "line": "What did you do then?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "Whilst we were falling, Sergeant Garkor noticed a large populated atoll to our west. You cannot see it from here, but it is within sailing distance."
+    },
+    {
+      "character": "Lumdo",
+      "line": "We spent time gathering enough wood to fashion two boats. The Sergeant took the rest of the 10th squad in the larger of the boats to explore the island and to search for potential glider launch sites."
+    },
+    {
+      "character": "Player",
+      "line": "Presumably you are to guard the gliders until they return?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "Affirmative."
+    },
+    {
+      "character": "Player",
+      "line": "You must take us to the island. I have orders from the High Tree Guardian to make contact with your Sergeant."
+    },
+    {
+      "character": "Lumdo",
+      "line": "And I have orders from the Sergeant to stay here."
+    },
+    {
+      "character": "Player",
+      "line": "You will not take me?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "I will not take orders from you."
+    },
+    {
+      "character": "Player",
+      "line": "Will you take me to the atoll?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "I am under direct orders to remain here."
+    },
+    {
+      "character": "Player",
+      "line": "What shall we do now?"
+    },
+    {
+      "character": "Waydar",
+      "line": "During our descent I noticed a large populated island far to the west. I suggest we try and make our way there."
+    },
+    {
+      "character": "Player",
+      "line": "Do you recognize the gnome on the beach?"
+    },
+    {
+      "character": "Waydar",
+      "line": "If I recall correctly, which I probably do, he is Lumdo of the 10th squad. I imagine he has been left to guard their gliders."
+    },
+    {
+      "character": "Player",
+      "line": "Can you take me back to your kingdom?"
+    },
+    {
+      "character": "Waydar",
+      "line": "Let me remind you that we are on a mission for King Narnode. We must attend to this mission."
+    },
+    {
+      "character": "Player",
+      "line": "My mission involves leaving this island!"
+    },
+    {
+      "character": "Waydar",
+      "line": "This is highly irregular."
+    },
+    {
+      "character": "Player",
+      "line": "I cannot convince Lumdo to take us to the island..."
+    },
+    {
+      "character": "Waydar",
+      "line": "What is the problem?"
+    },
+    {
+      "character": "Player",
+      "line": "He claims to be under direct orders from Garkor to guard their gliders until the rest return."
+    },
+    {
+      "character": "Waydar",
+      "line": "His zeal in this matter is to be expected. The Royal Guard - in particular the 10th squad - are renowned for their fierce loyalty."
+    },
+    {
+      "character": "Player",
+      "line": "Can you do anything?"
+    },
+    {
+      "character": "Waydar",
+      "line": "I would rather not get involved. My mission is to protect you."
+    },
+    {
+      "character": "Player",
+      "line": "You must do something!"
+    },
+    {
+      "character": "Waydar",
+      "line": "You are becoming tiresome, human. As you wish."
+    },
+    {
+      "character": "Waydar",
+      "line": "Foot soldier Lumdo of the 10th squad."
+    },
+    {
+      "character": "Lumdo",
+      "line": "Yes?"
+    },
+    {
+      "character": "Waydar",
+      "line": "I am Flight Commander Waydar. I believe you are under direct orders from your Sergeant to guard these gliders?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "That is correct, Commander."
+    },
+    {
+      "character": "Waydar",
+      "line": "I need not remind you that I outrank Garkor. As of this instant, your orders are to convey the human to the atoll and remain there until to return."
+    },
+    {
+      "character": "Lumdo",
+      "line": "Garkor will not be pleased!"
+    },
+    {
+      "character": "Waydar",
+      "line": "Then he can take up his issues with me personally."
+    },
+    {
+      "character": "Player",
+      "line": "Waydar! Will you not accompany me to the island?"
+    },
+    {
+      "character": "Waydar",
+      "line": "No. After all, somebody has to look after the gliders."
+    },
+    {
+      "character": "Player",
+      "line": "But it is your mission to protect me!"
+    },
+    {
+      "character": "Waydar",
+      "line": "Enough. Return here when you are done."
+    },
+    {
+      "character": "Foreman",
+      "line": "The workers are getting restless, Caranock."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "I know..."
+    },
+    {
+      "character": "Foreman",
+      "line": "All this talk of Glough being replaced doesn't bode well for... how shall I put this... their morale."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Look, I know."
+    },
+    {
+      "character": "Foreman",
+      "line": "Those are all men with children to feed. Famished families. Worried wives. All of us rely on this shipyard."
+    },
+    {
+      "character": "Foreman",
+      "line": "If something isn't done soon, there'll be revolt. And I won't be able to stop it."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Stop worrying. I'm working on something -"
+    },
+    {
+      "character": "Foreman",
+      "line": "What something? You're always working on something. All we ever hear is bad news."
+    },
+    {
+      "character": "Foreman",
+      "line": "First, Glough disappears. Then news of a missing squad of the Royal Guard in our area. And what about that human sent by the King?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "The human means nothing. If it becomes too much trouble, I will simply have it... removed. In the meantime, let it continue to search for that blasted 10th squad."
+    },
+    {
+      "character": "Foreman",
+      "line": "I am still worried. What am I meant to tell the men?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Stop worrying. I'm working on something - Glough left a few of his agents in the Gnome airforce."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "For now, tell your men to continue work on the battleships. Give me some time."
+    },
+    {
+      "character": "Foreman",
+      "line": "I hope you're right, Caranock, for your sake. My sake. For all of our sakes..."
+    },
+    {
+      "character": "Waydar",
+      "line": "Shall we return to Crash Island?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure you cannot come to the island?"
+    },
+    {
+      "character": "Waydar",
+      "line": "I am sure."
+    },
+    {
+      "character": "Player",
+      "line": "I need to return to your kingdom."
+    },
+    {
+      "character": "Waydar",
+      "line": "As you wish..."
+    },
+    {
+      "character": "Player",
+      "line": "Can you take me back to Ape Atoll?"
+    },
+    {
+      "character": "Lumdo",
+      "line": "As you wish."
+    },
+    {
+      "character": "Player",
+      "line": "Can you take me back to Crash Island?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Look - a newcomer. I'd say let me be the first to welcome you to Ape Atoll, but I see you've already met the welcoming party..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Hello - Who are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I am in the service of King Narnode Shareen. I have been sent here to locate the missing 10th squad of the Royal Guard."
+    },
+    {
+      "character": "Lumo",
+      "line": "Well we're certainly missing home, I'll give you that."
+    },
+    {
+      "character": "Player",
+      "line": "How long have you been here?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Oh, not for too long... The jail guards keep us entertained every now and then too."
+    },
+    {
+      "character": "Lumo",
+      "line": "Isn't that right Bunkdo?"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "That's right Lumo. Remember the time when they got all confused when changing shifts?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Oh yeah. Trefaji and Aberab - they're as dense as bricks. They do give mighty punches though."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Indeed. My backside is still a little sore..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Your backside??"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "I turned around at the wrong time..."
+    },
+    {
+      "character": "Carado",
+      "line": "Serves you bloody right too."
+    },
+    {
+      "character": "Lumo",
+      "line": "Now, now lads, watch your language. You'll have to excuse them, human, they're only soldiers!"
+    },
+    {
+      "character": "Carado",
+      "line": "Excuse me -"
+    },
+    {
+      "character": "Player",
+      "line": "Oh that's quite alright..."
+    },
+    {
+      "character": "Lumo",
+      "line": "So human, what can we do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I suppose I ought to help you escape."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "No, it's alright, laddie, we quite like it in here."
+    },
+    {
+      "character": "Lumo",
+      "line": "Do your best to ignore him..."
+    },
+    {
+      "character": "Lumo",
+      "line": "To be fair human, you're not much help stuck in there."
+    },
+    {
+      "character": "Player",
+      "line": "Well how do I get out?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Well, you can try picking the lock on your door. Watch out for the guards though."
+    },
+    {
+      "character": "Lumo",
+      "line": "We've been trying to pick ours but we haven't been able to do so yet."
+    },
+    {
+      "character": "Lumo",
+      "line": "What can I do for you, human?"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "No, it's alright, we quite like it in here."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "What are you looking at then? Never seen a Gnome in a Monkey jail before?"
+    },
+    {
+      "character": "Player",
+      "line": "Not before I came here, no..."
+    },
+    {
+      "character": "Carado",
+      "line": "Well I'm not complaining - this jail cell is larger than my room in the Grand Tree! It is a little sparse however..."
+    },
+    {
+      "character": "Player",
+      "line": "We'll get you out of there soon enough."
+    },
+    {
+      "character": "Carado",
+      "line": "No hurries..."
+    },
+    {
+      "character": "Lumo",
+      "line": "And another one... eats the dirt."
+    },
+    {
+      "character": "Carado",
+      "line": "The phrase is 'bites the dust' Lumo..."
+    },
+    {
+      "character": "Lumo",
+      "line": "You know, we could try and break out ourselves."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "No... don't be silly. We're here to be rescued, after all."
+    },
+    {
+      "character": "Lumo",
+      "line": "Carado - are you thinking what I'm thinking?"
+    },
+    {
+      "character": "Carado",
+      "line": "Only if it involves 3 tonnes of ice-cream, a helium balloon and an inflatable pink gorilla..."
+    },
+    {
+      "character": "Lumo",
+      "line": "... a 'no' would have sufficed."
+    },
+    {
+      "character": "Lumo",
+      "line": "Ouch. That must have hurt."
+    },
+    {
+      "character": "Lumo",
+      "line": "... and that completes our tour of the Jail of the Future. Please remember to use your conveniently located and totally pickable cell-door to exit."
+    },
+    {
+      "character": "Lumo",
+      "line": "and B - I - N - G - O. I win!"
+    },
+    {
+      "character": "Lumo",
+      "line": "Bunkdo?"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Yeah?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Do you ever look up at the stars at night and think about just how insignificant all of this is?"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Stars? You can look UP??"
+    },
+    {
+      "character": "Carado",
+      "line": "And I thought 'night' was just a rumour..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Don't you ever get tired of, you know, wandering around?"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "No. I for one happen to like standing bolt upright all of the time."
+    },
+    {
+      "character": "Lumo",
+      "line": "*sigh*"
+    },
+    {
+      "character": "Lumo",
+      "line": "Those cheerleaders down the Gnomeball pitch..."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Yeah I know the ones you mean..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Mmmmm hmmmm."
+    },
+    {
+      "character": "Carado",
+      "line": "They're a bit short, ain't they?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Carado, they're gnomes!"
+    },
+    {
+      "character": "Lumo",
+      "line": "Darn you, Carado - you always get the large jail cells."
+    },
+    {
+      "character": "Carado",
+      "line": "That is so not true. What about the time in Draynor?"
+    },
+    {
+      "character": "Lumo",
+      "line": "The Prince Ali thing? We all shared a cell that time."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "And that time in Varrock?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Yeah yeah, OK."
+    },
+    {
+      "character": "Lumo",
+      "line": "Hey guys, look who's here."
+    },
+    {
+      "character": "Lumo",
+      "line": "... and please remain prone until the room has come to a complete stop."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Hey look, they've come round!"
+    },
+    {
+      "character": "Lumo",
+      "line": "Have you noticed how they all look the same?"
+    },
+    {
+      "character": "Carado",
+      "line": "And they all seem to have the same clothes..."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Spooky."
+    },
+    {
+      "character": "Lumo",
+      "line": "You know - I've noticed something."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "What's that?"
+    },
+    {
+      "character": "Lumo",
+      "line": "No matter how many monkeys these people seem to kill, there are never any fewer of them..."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "That's just the Way of the World, Lumo."
+    },
+    {
+      "character": "Lumo",
+      "line": "We are indefatigable Gnomes..."
+    },
+    {
+      "character": "Carado",
+      "line": "And we really likes our homes..."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "If you pick with us a fight..."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "You may well just might..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Find yourself without no bones!"
+    },
+    {
+      "character": "Lumo",
+      "line": "... and then the chicken said to the farmer: 'It was an aspirin!'"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "That has to be the worst joke I've ever heard..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Have we seen this one before?"
+    },
+    {
+      "character": "Carado",
+      "line": "I'm not sure - I'm beginning to lose track."
+    },
+    {
+      "character": "Lumo",
+      "line": "You know, you should really try to avoid being captured."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "I think knows that Lumo..."
+    },
+    {
+      "character": "Lumo",
+      "line": "... and that's how I saved Narnode from the fire-breathing gnome-eating lizard-dragon-king of Jool."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "You know - everytime I hear that story it seems less and less convincing..."
+    },
+    {
+      "character": "Lumo",
+      "line": "Look at that Bunkdo, almost looks like they're praying."
+    },
+    {
+      "character": "Lumo",
+      "line": "Oh my god - been through here ten times now."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "And which god would that be, eh?"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "You know what I mean..."
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Fifteen times... wait: is it fifteen?"
+    },
+    {
+      "character": "Carado",
+      "line": "Yup, it sure is."
+    },
+    {
+      "character": "Lumo",
+      "line": "I'm beginning to lose count now."
+    },
+    {
+      "character": "Lumo",
+      "line": "Twenty times! Give this kid an applause!"
+    },
+    {
+      "character": "Bunkdo",
+      "line": "Lumo, you're beginning to irritate me. Imagine what it's like for them."
+    },
+    {
+      "character": "Player",
+      "line": "Hello? Is anybody there?"
+    },
+    {
+      "character": "Karam",
+      "line": "That depends on who is asking..."
+    },
+    {
+      "character": "Karam",
+      "line": "I see. As you can see, this is a dangerous place to be."
+    },
+    {
+      "character": "Player",
+      "line": "It certainly is... who are you?"
+    },
+    {
+      "character": "Karam",
+      "line": "Karam, 10th squad, Royal Guard. High Assassin at your service."
+    },
+    {
+      "character": "Player",
+      "line": "What are you doing here?"
+    },
+    {
+      "character": "Karam",
+      "line": "I am thinking of a way to free my friends. In the meantime, I am helping those who further my cause."
+    },
+    {
+      "character": "Player",
+      "line": "How do you remain unseen?"
+    },
+    {
+      "character": "Karam",
+      "line": "I have been gifted by Zooknock, our squad mage. I have saved his life on a number of occasions."
+    },
+    {
+      "character": "Player",
+      "line": "Is there any way I could be like that?"
+    },
+    {
+      "character": "Karam",
+      "line": "Your best chance is to hide in this grass, human."
+    },
+    {
+      "character": "Player",
+      "line": "How can you be everywhere?"
+    },
+    {
+      "character": "Karam",
+      "line": "I move quickly."
+    },
+    {
+      "character": "Garkor",
+      "line": "A fine day you have chosen to visit this hellish island, human."
+    },
+    {
+      "character": "Player",
+      "line": "Good day to you too Sergeant. I've been sent by your King Narnode to -"
+    },
+    {
+      "character": "Garkor",
+      "line": "Investigate the circumstances surrounding the mysterious disappearance of my squad. Yes, I know."
+    },
+    {
+      "character": "Player",
+      "line": "How did you know that?"
+    },
+    {
+      "character": "Garkor",
+      "line": "The King and I are still in communication, albeit sporadic. I decided I need a human of your calibre to assist me. It is pleasing to see you are still alive."
+    },
+    {
+      "character": "Player",
+      "line": "Why do you need a human?"
+    },
+    {
+      "character": "Garkor",
+      "line": "There is more going on than meets your eye, human. Did you not find it strange that an entire squad be sent to decommission a shipyard?"
+    },
+    {
+      "character": "Player",
+      "line": "Well -"
+    },
+    {
+      "character": "Garkor",
+      "line": "Indeed. But there are more pressing matters at hand. Three of my squad have been captured and placed in the jail. They are watched over by somewhat overpowering guards."
+    },
+    {
+      "character": "Garkor",
+      "line": "Before we can resume our original mission we must rescue them."
+    },
+    {
+      "character": "Player",
+      "line": "I know about the guards - I had to sneak out between the change of shifts."
+    },
+    {
+      "character": "Garkor",
+      "line": "Trust me; we too have considered this, but whilst it is possible for one, it is near impossible for three."
+    },
+    {
+      "character": "Garkor",
+      "line": "We have considered many things. I have my squad mage and sappers working below us right now. My, assassin Karam, is operating in the village itself."
+    },
+    {
+      "character": "Garkor",
+      "line": "I remain here so that I may overhear Awowogei's plans."
+    },
+    {
+      "character": "Player",
+      "line": "Awowogei?"
+    },
+    {
+      "character": "Garkor",
+      "line": "The self-proclaimed ruler of the island. I have been listening to him for some time now. I believe we will incur a minimum of casualties if we have an insider - a monkey working for us."
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen these monkeys? You could never convince them to work for you!"
+    },
+    {
+      "character": "Garkor",
+      "line": "I wasn't suggesting convincing them, human, but you."
+    },
+    {
+      "character": "Player",
+      "line": "Don't be ridiculous! I'm a human - not a monkey!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Do not be so sceptical... you humans are considered to be quite closely related to monkeys."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but -"
+    },
+    {
+      "character": "Garkor",
+      "line": "Go and see my squad mage, Zooknock. Tell him I have asked you to be 'disguised' as a monkey so that you may infiltrate the village. As you will see, he is something of an expert on the subject."
+    },
+    {
+      "character": "Player",
+      "line": "I can't even communicate with the monkeys!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Just go and find my squad mage, human."
+    },
+    {
+      "character": "Garkor",
+      "line": "Have you spoken to Zooknock about the monkey disguise yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Garkor",
+      "line": "You must hurry. He is working somewhere beneath the Ape Atoll."
+    },
+    {
+      "character": "Bunkwicket/Waymottin",
+      "line": "Can't you see I'm busy?"
+    },
+    {
+      "character": "Bunkwicket/Waymottin",
+      "line": "Can't talk now."
+    },
+    {
+      "character": "Bunkwicket/Waymottin",
+      "line": "I'm too busy to talk, sorry."
+    },
+    {
+      "character": "Zooknock",
+      "line": "A human... here? What business have you on Ape Atoll?"
+    },
+    {
+      "character": "Player",
+      "line": "I am on a mission for King Narnode Shareen of the Gnomes."
+    },
+    {
+      "character": "Player",
+      "line": "I have been sent to investigate the whereabouts of the 10th squad of his Royal Guard, which went missing during a recent mission to Karamja."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Well you've found us - what's left of us, that is."
+    },
+    {
+      "character": "Zooknock",
+      "line": "I am Zooknock, the 10th squad mage. These are Bunkwicket and Waymottin, two of our finest sappers. I assume you will want to know how we got here?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Your story first, human. What possessed you to travel to this forsaken island?"
+    },
+    {
+      "character": "Player",
+      "line": "I am currently in the service of your King. I was the human who exposed Glough's warfaring plans and defeated his demon."
+    },
+    {
+      "character": "Player",
+      "line": "As far as I understand, the 10th squad were sent to oversee the decommission of Glough's shipyard in east Karamja."
+    },
+    {
+      "character": "Player",
+      "line": "Rumour has it you were blown off course. The King worried as to your fate, and sent me to investigate."
+    },
+    {
+      "character": "Zooknock",
+      "line": "You were sent alone?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I have been accompanied by Flight Commander Waydar. We flew south on a special type of glider and landed on a small island to our east."
+    },
+    {
+      "character": "Zooknock",
+      "line": "The so called Crash Island. We left there one of our number, Lumdo, to guard our gliders until our return."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, we have met. He ferried me across to the atoll."
+    },
+    {
+      "character": "Zooknock",
+      "line": "He did!? He was explicitly ordered to guard the gliders! How did this happen? Who is guarding the gliders now?"
+    },
+    {
+      "character": "Player",
+      "line": "Waydar ordered him to leave his post. He is guarding the gliders himself."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Flight Commander Waydar you said? For some reason that name is familiar..."
+    },
+    {
+      "character": "Player",
+      "line": "So why are you here?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "The rumours are correct. We were indeed blown off course. Fortunately, we managed to find a small island to steer our gliders towards, else we surely would have drowned."
+    },
+    {
+      "character": "Player",
+      "line": "Then you gathered enough wood to fashion two boats. Your Sergeant and the rest of the 10th squad took the larger boat to this island, leaving Lumdo to guard the gliders and the other boat..."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Correct. I assume Lumdo told you this?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. What happened when you landed here?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "We split up into several small groups to search the island for potential gnome glider launch sites. Whilst we knew the island to be inhabited, we did not expect its occupants to be quite so... militant."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Monkeys. Lots of monkeys. They are unlike any other type of monkey we've come across. A far cry from the usual wild variety, these were armed with high quality weaponry and uncanny tactical ability."
+    },
+    {
+      "character": "Zooknock",
+      "line": "We were overwhelmed in numbers. Some of us managed to escape, but the rest were taken captive."
+    },
+    {
+      "character": "Player",
+      "line": "Who survived?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Myself, the Sergeant, Bunkwicket and Waymottin here. Karam, our assassin, probably managed to escape - he usually does."
+    },
+    {
+      "character": "Player",
+      "line": "And of the rest?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Lumo, Bunkdo and Carado were captured, as I said. We believe they are being held in the jail. We are working on a way to release them. I have sensed there lies a cavern to the north."
+    },
+    {
+      "character": "Zooknock",
+      "line": "We are attempting to tunnel to this northern cavern and then move upwards from there."
+    },
+    {
+      "character": "Player",
+      "line": "Why don't you just go overground?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "We have considered this, but every entrance seems to be excessively guarded."
+    },
+    {
+      "character": "Player",
+      "line": "I see."
+    },
+    {
+      "character": "Player",
+      "line": "I have spoken to your Sergeant. He believes that the best way to rescue the rest of your squad with the minimum of casualties is to have an insider - a monkey working for us."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Aha. He wants me to turn you into a monkey."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, it was more along the lines of a disguise..."
+    },
+    {
+      "character": "Zooknock",
+      "line": "I think you misunderstand, human. Do you know why you were sent here?"
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode Shareen asked me to..."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Indeed. However, King Narnode Shareen is still in contact with Garkor! You were sent here because Garkor specifically asked Narnode for you!"
+    },
+    {
+      "character": "Player",
+      "line": "Why wasn't I told?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Before you arrived on this island, that information would have endangered both yourself and the mission."
+    },
+    {
+      "character": "Player",
+      "line": "But why a human? Why me?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Garkor had long decided that we need a monkey insider. I have the necessary magic to perform the shapeshifting spell, but we needed a human to transform."
+    },
+    {
+      "character": "Player",
+      "line": "Why don't you just transform a gnome?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "It has been tried in the past, but the results were far from... satisfactory. Although we, like you, are related to the monkeys, the link is too weak for a successful transformation. That is why we need you."
+    },
+    {
+      "character": "Player",
+      "line": "Right. What do I have to do?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "There will be two aspects to your transformation. We must first arrange it so that you are able to understand and communicate with the monkeys."
+    },
+    {
+      "character": "Zooknock",
+      "line": "We must also transform your body so that you may pass amongst them unnoticed."
+    },
+    {
+      "character": "Zooknock",
+      "line": "So that the effects of my spells are not permanent, I will invest their power into magical items which you must find. You can then use them at your will."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of items?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "For the spells to take full effect, they will have to be in some way related to the monkeys."
+    },
+    {
+      "character": "Zooknock",
+      "line": "I suggest that I invest the ability to communicate with the monkeys in an authentic monkey amulet."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Similarly, the transformation spell should be stored in a monkey talisman of some kind."
+    },
+    {
+      "character": "Player",
+      "line": "What do we need for the monkey amulet?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "We need a gold bar, a monkey amulet mould and something to do monkey speech."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find a gold bar?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "I am not sure. You look wealthy enough to know the answer to that question anyway."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find a monkey amulet mould?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "They ought to be for sale in the village, but be careful: you probably will not be able to walk straight in and buy one."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find something to do with monkey speech?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "I don't know. I'm sure you'll think of something."
+    },
+    {
+      "character": "Player",
+      "line": "What do we need for the monkey talisman?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "We need some kind of monkey remains as well as an authentic magical monkey talisman."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find monkey remains?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "I'll leave that to your better judgement... However, bear in mind the type of remain might affect the type of monkey you become..."
+    },
+    {
+      "character": "Player",
+      "line": "What if I need to be another type of monkey?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Then bring me different monkey remains and another talisman."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find a magical monkey talisman?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "There ought to be something in the village. I cannot be sure, as I have not spent much time there."
+    },
+    {
+      "character": "Player",
+      "line": "How goes the tunneling work?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Slow, as ever. Can't you tell?"
+    },
+    {
+      "character": "Player",
+      "line": "I have been sent by your Sergeant. He believes that the best way to rescue the rest of your squad with the minimum of casualties is to have an insider - a monkey working for us."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Finally. He wants me to turn you into a monkey."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Well done, human."
+    },
+    {
+      "character": "Zooknock",
+      "line": "We still need the gold bar and something to do with monkey speech."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Excellent."
+    },
+    {
+      "character": "Zooknock",
+      "line": "We still need the gold bar."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Now listen closely, human. I will cast a spell to enchant this gold bar with the power contained in these monkey dentures."
+    },
+    {
+      "character": "Zooknock",
+      "line": "You must then smith the gold using the monkey amulet mould. However, unless you do this in a place of religious significance to the monkeys, the spirits contained within will likely depart."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find a place of religious significance to monkeys?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Somewhere in the village. It ought to be obvious. Now give me a moment."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there little monkey."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Ook. Ook. Ook Ah Uh! Ook Ah Uh!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Hello big-big. Aunty told me not to talk to strangers."
+    },
+    {
+      "character": "Player",
+      "line": "Oh I'm not a stranger..."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "You look strange to me!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again little monkey."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "You're strange! Go away!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not a stranger...!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Then what are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm a monkey's brother!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Ook! But I don't have any brothers!"
+    },
+    {
+      "character": "Player",
+      "line": "I knew your sister's mother!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "But I don't have any sisters! Ook Ook!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm just a monkey lover!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Aunty told me not to talk to monkey lovers! Ook!"
+    },
+    {
+      "character": "Player",
+      "line": "Well I'll be a monkey's uncle!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Uh ah! You do look like my uncle!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "You never said what you were!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "You look a lot bigger than last time, Uncle!"
+    },
+    {
+      "character": "Player",
+      "line": "I've been... eating more bananas... just like you should be!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "I'm bored."
+    },
+    {
+      "character": "Player",
+      "line": "Why are you bored?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Aunty told me to pick loads of bananas. She said if, I got bananas, she'd give me a new toy!"
+    },
+    {
+      "character": "Player",
+      "line": "What kind of toy did Aunty say she'd give you?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "She said it would be something from the magic shop!"
+    },
+    {
+      "character": "Player",
+      "line": "How many bananas did Aunty want?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Twenty! But I can't count! It's very mean of her, isn't it Uncle?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, very mean... do you want me to get the bananas for you?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Ok! Ook Ook!"
+    },
+    {
+      "character": "Player",
+      "line": "But only if you promise to let me borrow your toy..."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Ok Uncle!"
+    },
+    {
+      "character": "The Monkey's Aunt",
+      "line": "How dare you come near my farmhouse! Guards! Guards! Remove this human!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Hello there, uncle!"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "I have no use for that."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Did you get any bananas, Uncle?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet. I'm still trying to get them."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have some here."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "That doesn't look like 20 bananas Uncle! Aunty will be so angry with me!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'll get some more."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Wow that's a lot of bananas! Are there twenty?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, of course there are."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Aunty will be so happy!"
+    },
+    {
+      "character": "Player",
+      "line": "Has Aunty given you the toy yet?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "No, not yet... she said she's too busy dealing with something called humans."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Yeah - it's really neat!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I borrow it now then?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "But I only just got it!"
+    },
+    {
+      "character": "Player",
+      "line": "Please?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Ok then..."
+    },
+    {
+      "character": "Player",
+      "line": "How are you today?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "I'm good, uncle! I'd quite like my toy back now..."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost that toy you gave me..."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "You lost it!? What am I going to play with now?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "I'm feeling a bit better now..."
+    },
+    {
+      "character": "Player",
+      "line": "It's good to see you've cheered up then."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Yes - Aunty gave me a new toy!"
+    },
+    {
+      "character": "Player",
+      "line": "That's really sweet of her!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow - can I borrow it?"
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Only if you promise to give it back..."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I promise!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't really need it."
+    },
+    {
+      "character": "Monkey Child",
+      "line": "Thank you uncle - I love you!"
+    },
+    {
+      "character": "Zooknock",
+      "line": "We still need some kind of monkey remains."
+    },
+    {
+      "character": "Zooknock",
+      "line": "We still need an authentic magical monkey talisman."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Bear with me human: I must now cast an extremely powerful spell. It is not often we are successful in investing shapeshifting powers within objects."
+    },
+    {
+      "character": "Zooknock",
+      "line": "I am afraid I have not been able to fully invest my powers in that talisman. You may use it, but it will continue to draw its energy directly from me."
+    },
+    {
+      "character": "Zooknock",
+      "line": "The range at which I will be able to sustain it is limited. I cannot ensure it will be effective off the atoll."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Furthermore, you will not be able to attack whilst using this, so be careful. Perhaps when I refine my spells I could look into making this possible."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "It is good of you to meet me, Waydar."
+    },
+    {
+      "character": "Waydar",
+      "line": "It is good to see you again, Caranock. It is a strange island these monkeys inhabit."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Well observed. How have you been keeping yourself occupied?"
+    },
+    {
+      "character": "Waydar",
+      "line": "I am now a Flight Commander. My duties include testing Glough's prototype military glider."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "My my. How things have changed somewhat since Glough's time... Now, what of the human?"
+    },
+    {
+      "character": "Waydar",
+      "line": "The human? Just somebody Narnode appears to have taken a fancy to. It is hard to tell why. I suspect the human was involved with Glough's fall from grace."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "You may be right. Never mind - there are greater matters afoot. With Glough gone, it falls to us to continue with his plans."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Also, the shipyard workers are becoming restless."
+    },
+    {
+      "character": "Waydar",
+      "line": "I see. What do you have in mind?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Money for me, Waydar, and promotion for you. As you know, the 10th squad of the Royal Guard are slightly worse for wear on this island."
+    },
+    {
+      "character": "Waydar",
+      "line": "This I know. But I don't see how it leads to money or promotion."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "What if they were to die? An entire squad of the Royal Guard goes missing in the jungle of Karamja... We could blame it on the humans."
+    },
+    {
+      "character": "Waydar",
+      "line": "Narnode would be furious!"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Precisely. He might even order an invasion. At the very least he'll step up the defence. More orders for me, promotion for you."
+    },
+    {
+      "character": "Waydar",
+      "line": "Very clever. It might also serve us well to remind Narnode of Bolren's situation."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Ah yes - all that trouble with the Khazard. Last I heard, Bolren had retrieved the orbs of protection. Apparently some human lent their assistance."
+    },
+    {
+      "character": "Waydar",
+      "line": "Really? Typical meddling human behaviour. Nevertheless, it will stoke fires of worry. After all, the battle still continues."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "I agree. Anyhow, we don't want your human wondering as to your whereabouts. When the time is right, don't hesitate to... dispose of it."
+    },
+    {
+      "character": "Waydar",
+      "line": "Understood. Military gliders are after all an untested form of transport..."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the monkey amulet..."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Are you sure?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Careless human. No matter - bring me the same materials again and I will prepare for you another one."
+    },
+    {
+      "character": "Player",
+      "line": "Can you make another monkey talisman?"
+    },
+    {
+      "character": "Zooknock",
+      "line": "Very well. Bring me the required materials again and I will prepare for you another one."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm not that sure."
+    },
+    {
+      "character": "Elder Guard",
+      "line": "Grrr... What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh nothing... I'm just passing by."
+    },
+    {
+      "character": "Player",
+      "line": "Yes - I've now made an amulet of monkey speak and a monkey greegree."
+    },
+    {
+      "character": "Garkor",
+      "line": "Very good. In a moment, speak to me through your monkey disguise so that I may judge how good it is."
+    },
+    {
+      "character": "Garkor",
+      "line": "My my, Zooknock has outdone himself this time. You do look very much like a monkey you know."
+    },
+    {
+      "character": "Player",
+      "line": "I know."
+    },
+    {
+      "character": "Garkor",
+      "line": "However, you look like the wrong sort of monkey. My plan requires that you look like one of the monkeys of mainland Karamja."
+    },
+    {
+      "character": "Player",
+      "line": "What exactly is your plan?"
+    },
+    {
+      "character": "Garkor",
+      "line": "When the time comes, you are to pretend you are an envoy from the monkeys of Karamja and that you are seeking an alliance."
+    },
+    {
+      "character": "Player",
+      "line": "How do you know this will work?"
+    },
+    {
+      "character": "Garkor",
+      "line": "As I said, I've been listening to Awowogei for some time now. Come back when you look like one of the Karamjan monkeys."
+    },
+    {
+      "character": "Garkor",
+      "line": "And by happy coincidence you appear to be just the right sort of monkey."
+    },
+    {
+      "character": "Garkor",
+      "line": "I need you now to seek audience with Awowogei. Claim you are an envoy from the monkeys of Karamja and are seeking an alliance."
+    },
+    {
+      "character": "Garkor",
+      "line": "You must win his trust if we are to succeed."
+    },
+    {
+      "character": "Kruk",
+      "line": "What brings you up here, monkey?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing... I'm just exploring."
+    },
+    {
+      "character": "Kruk",
+      "line": "You would do better to explore elsewhere - we are extremely busy at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to speak with Awowogei, please."
+    },
+    {
+      "character": "Elder Guard",
+      "line": "Only the Captain of the Monkey Guard or those he authorises may enter this building. You will need his permission to enter."
+    },
+    {
+      "character": "Player",
+      "line": "Who is the Captain of the Monkey Guard?"
+    },
+    {
+      "character": "Elder Guard",
+      "line": "He goes by the name of Kruk."
+    },
+    {
+      "character": "Player",
+      "line": "I have come to seek audience with Awowogei. I am told I need your permission to do so."
+    },
+    {
+      "character": "Kruk",
+      "line": "That's right - you do. What business have you on our island?"
+    },
+    {
+      "character": "Player",
+      "line": "I am envoy from the monkeys of Karamja. I have come to propose an alliance."
+    },
+    {
+      "character": "Kruk",
+      "line": "I don't believe you. You don't look much like any Karamja monkey I've seen."
+    },
+    {
+      "character": "Kruk",
+      "line": "Stop wasting my time."
+    },
+    {
+      "character": "Kruk",
+      "line": "I see. Very well, you look genuine enough. Follow me."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Muruwoi."
+    },
+    {
+      "character": "Muruwoi",
+      "line": "Good day, visitor."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, Uwogo."
+    },
+    {
+      "character": "Uwogo",
+      "line": "Get away from me, you foul commoner!"
+    },
+    {
+      "character": "Kruk",
+      "line": "Sorry, I am far too busy dealing with the invaders right now."
+    },
+    {
+      "character": "Player",
+      "line": "Greetings, Awowogei."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Greetings, visitor. What brings you to my island?"
+    },
+    {
+      "character": "Player",
+      "line": "I am an envoy from the monkeys of Karamja. We wish to propose an alliance."
+    },
+    {
+      "character": "Awowogei",
+      "line": "I see. Ours is a strong and mighty lineage of monkey, visitor. We clearly do not need your offer of an alliance."
+    },
+    {
+      "character": "Player",
+      "line": "Awowogei, please consider my offer carefully."
+    },
+    {
+      "character": "Player",
+      "line": "We offer strength in numbers and our island would serve as a northern platform for defence. All that we ask for in return is peace."
+    },
+    {
+      "character": "Uwogo",
+      "line": "I don't believe him, Awowogei. Never trust a northern monkey."
+    },
+    {
+      "character": "Awowogei",
+      "line": "What is your opinion, Murowoi?"
+    },
+    {
+      "character": "Muruwoi",
+      "line": "I think he seems trustworthy, sir."
+    },
+    {
+      "character": "Awowogei",
+      "line": "I must admit, I have always regarded your kind as our inferior cousins, visitor."
+    },
+    {
+      "character": "Awowogei",
+      "line": "However, I am well aware that you may have a few things to offer."
+    },
+    {
+      "character": "Uwogo",
+      "line": "Don't listen to him, Awowogei!"
+    },
+    {
+      "character": "Awowogei",
+      "line": "Be silent, Uwogo."
+    },
+    {
+      "character": "Awowogei",
+      "line": "I have heard your kind are exceptionally resourceful. I wish to put this reputation to the test."
+    },
+    {
+      "character": "Awowogei",
+      "line": "You must be well aware your kind are hunted and trapped almost everywhere."
+    },
+    {
+      "character": "Awowogei",
+      "line": "In particular you may have heard of such activities in a city known to the humans as Ardougne."
+    },
+    {
+      "character": "Awowogei",
+      "line": "There are several of your kind kept captive there. I challenge you to free one and return it to me."
+    },
+    {
+      "character": "Player",
+      "line": "How am I meant to free one of them?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "This is for you to decide, visitor."
+    },
+    {
+      "character": "Player",
+      "line": "Very well. I will be back later, with one of the captives."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Have you brought with you a captive?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "Then hurry, visitor. I am beginning to lose my faith in you."
+    },
+    {
+      "character": "Player",
+      "line": "Ook Ook!"
+    },
+    {
+      "character": "Monkey minder",
+      "line": "Why do you monkeys keep trying to escape? Good thing I've caught you before you got away, you little scoundrel."
+    },
+    {
+      "character": "Player",
+      "line": "Ook!"
+    },
+    {
+      "character": "Monkey minder",
+      "line": "Let's put you back in your cage where you belong..."
+    },
+    {
+      "character": "Player",
+      "line": "Ok!"
+    },
+    {
+      "character": "Monkey minder",
+      "line": "What??"
+    },
+    {
+      "character": "Player",
+      "line": "Err... Ook?"
+    },
+    {
+      "character": "Monkey minder",
+      "line": "I must be imagining things... monkeys can't talk."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, little monkey."
+    },
+    {
+      "character": "Monkey",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Player",
+      "line": "How would you like to get out of here?"
+    },
+    {
+      "character": "Monkey",
+      "line": "Escape!? It's all I ever think about!"
+    },
+    {
+      "character": "Player",
+      "line": "That's convenient. When would you like to leave?"
+    },
+    {
+      "character": "Monkey",
+      "line": "Where will you be taking me?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm... to the happy, sunny jungle of Karamja..."
+    },
+    {
+      "character": "Monkey",
+      "line": "Wowee! I was born there you know!"
+    },
+    {
+      "character": "Player",
+      "line": "That's nice. Are you ready to go?"
+    },
+    {
+      "character": "Monkey",
+      "line": "Yes. Actually, can I bring some of my friends?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I only have space for one."
+    },
+    {
+      "character": "Monkey",
+      "line": "Pleeeeease?"
+    },
+    {
+      "character": "Player",
+      "line": "No!"
+    },
+    {
+      "character": "Monkey",
+      "line": "Pretty pleeeeease?"
+    },
+    {
+      "character": "Player",
+      "line": "No!!"
+    },
+    {
+      "character": "Monkey",
+      "line": "Pretty please with a banana on top?"
+    },
+    {
+      "character": "Player",
+      "line": "Look, I already said no. If you want to come then jump into my backpack."
+    },
+    {
+      "character": "Monkey",
+      "line": "Ook!"
+    },
+    {
+      "character": "Monkey minder",
+      "line": "My word - what are you doing in there?"
+    },
+    {
+      "character": "Player",
+      "line": "I... er... I don't know! One minute I was asleep, and the next minute I was here surrounded by monkeys!"
+    },
+    {
+      "character": "Monkey minder",
+      "line": "Well, don't worry. We'll have you out of there shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Monkey minder",
+      "line": "No problem."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Well done!"
+    },
+    {
+      "character": "Awowogei",
+      "line": "You have shown yourself to be very resourceful. You have managed to complete an extremely long journey remarkably quickly."
+    },
+    {
+      "character": "Awowogei",
+      "line": "You are clearly well acquainted with the ways of this world. We will talk more on this later."
+    },
+    {
+      "character": "Awowogei",
+      "line": "In the meantime, feel free to remain as long as you like on my island."
+    },
+    {
+      "character": "Player",
+      "line": "What about the proposed alliance, Awowogei?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "I must think upon it some more and discuss the matter with my advisers. We will contact you when we are ready."
+    },
+    {
+      "character": "King Awowogei",
+      "line": "We are still pondering your proposition... We will let you know when we have an answer..."
+    },
+    {
+      "character": "Muruwoi",
+      "line": "Well done on retrieving the captive, visitor. Awowogei was impressed."
+    },
+    {
+      "character": "Garkor",
+      "line": "Well done on winning Awowogei's trust. I overheard everything from here."
+    },
+    {
+      "character": "Garkor",
+      "line": "However, your efforts may be in vain..."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Progress in the caves has been slow. Whilst you were in Ardougne, Bunkwicket and Waymottin overheard a slightly disturbing conversation."
+    },
+    {
+      "character": "Player",
+      "line": "Who was speaking? What was said?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Listen closely whilst I narrate the details..."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Good evening, Awowogei."
+    },
+    {
+      "character": "Awowogei",
+      "line": "It is always dark here, Gnome. Why have you asked to see me in private?"
+    },
+    {
+      "character": "Waydar",
+      "line": "Caranock and I have a suggestion to make."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Then be quick about it."
+    },
+    {
+      "character": "Waydar",
+      "line": "The foot soldiers of the Royal Guard in your jail..."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Would it not be easier if they were somehow just to... die?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "Why would I want to do that? Your king would declare war on my island."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "I can assure you he will not. We will lay the blame at the humans' feet."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Narnode will indeed declare war: not against you, but against humankind."
+    },
+    {
+      "character": "Waydar",
+      "line": "You are of course welcome to your share of the profits."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Intriguing. I have recently secured an alliance with the northern monkeys, which may prove useful."
+    },
+    {
+      "character": "Awowogei",
+      "line": "What would you have me do?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Kill the foot soldiers and the rest of the 10th squad. My superior has sent you a few tricks which may prove useful."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Such as?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "High magic: the ability to summon the entire 10th squad to a single location. And -"
+    },
+    {
+      "character": "Awowogei",
+      "line": "Even those who escaped?"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Yes. And of course, you will also receive access to one of his 'pets'."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "You must be careful with these, as you have only one use of each. Ensure you set your trap well - none must survive lest they spread the truth."
+    },
+    {
+      "character": "Waydar",
+      "line": "What of my human?"
+    },
+    {
+      "character": "Awowogei",
+      "line": "What human??"
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Ignore. My colleague's official mission was to look after a human in the area, but don't worry: it is probably dead already."
+    },
+    {
+      "character": "Awowogei",
+      "line": "I should hope so, for both of your sakes."
+    },
+    {
+      "character": "Awowogei",
+      "line": "Very well. I shall let you know when I have dealt with the Royal Guard."
+    },
+    {
+      "character": "G.L.O. Caranock",
+      "line": "Good luck, Awowogei."
+    },
+    {
+      "character": "Awowogei",
+      "line": "With access to one of Glough's 'pets', I don't think I'll need it..."
+    },
+    {
+      "character": "Player",
+      "line": "What shall we do?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Zooknock and I have come up with a plan."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of a plan?"
+    },
+    {
+      "character": "Garkor",
+      "line": "I hope you were listening closely. The teleportation spell that was provided will teleport ALL of the 10th squad, no matter where we may be."
+    },
+    {
+      "character": "Garkor",
+      "line": "In effect, the spell will break Lumo, Bunkdo and Carado out of the jail for us."
+    },
+    {
+      "character": "Player",
+      "line": "But you will be teleported straight into whatever trap they have prepared!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Indeed. This is where you come in. Do not forget that we are the 10th squad of the Royal Guard, and that we are more than capable of holding our own."
+    },
+    {
+      "character": "Garkor",
+      "line": "With your assistance, we should be able to defeat whatever is thrown at us."
+    },
+    {
+      "character": "Player",
+      "line": "But how will I join you?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Simple. We fool the teleportation spell that you are in fact a member of our squad."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Zooknock knows Glough's grasp of magic well. He believes the spell is linked to the sigils that all of our squad carry."
+    },
+    {
+      "character": "Garkor",
+      "line": "It is these sigils that identify us as a member of the squad."
+    },
+    {
+      "character": "Garkor",
+      "line": "Welcome to the 10th squad,."
+    },
+    {
+      "character": "Garkor",
+      "line": "It is a replica Waymottin has made of our squad sigils. If you wear that when the spell is cast, you will be summoned along with the rest of us."
+    },
+    {
+      "character": "Garkor",
+      "line": "You should prepare. Collect your thoughts and belongings and then wear the sigil. Hurry, human, we do not wish to enter this fight without you."
+    },
+    {
+      "character": "Player",
+      "line": "All I have to do is wear this sigil?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Yes - but do not do so until you are ready."
+    },
+    {
+      "character": "Player",
+      "line": "What should I do now?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Collect your thoughts and belongings and then wear our squad sigil. Hurry, human, we do not wish to enter this fight without you."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of enemy do we face?"
+    },
+    {
+      "character": "Garkor",
+      "line": "I don't know. I truly don't know."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the sigil..."
+    },
+    {
+      "character": "Garkor",
+      "line": "For all your power, your kind are exceptionally foolish. You must seek out Waymottin and ask him to make a replica. I have no spares."
+    },
+    {
+      "character": "Waymottin",
+      "line": "Can't you see I'm busy?"
+    },
+    {
+      "character": "Waymottin",
+      "line": "Can't talk now."
+    },
+    {
+      "character": "Waymottin",
+      "line": "I'm too busy to talk, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Sergeant Garkor has sent me. You are asked to create another replica of the 10th squad sigil so that I may join you for the final battle."
+    },
+    {
+      "character": "Waymottin",
+      "line": "Already made one. Figured it would come in handy."
+    },
+    {
+      "character": "Bunkwicket",
+      "line": "He's cleverer than he looks, is that Waymottin."
+    },
+    {
+      "character": "Waymottin",
+      "line": "Oi!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have it then?"
+    },
+    {
+      "character": "Waymottin",
+      "line": "Of course."
+    },
+    {
+      "character": "Garkor",
+      "line": "Ready yourself, human: the final battle begins!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Ready yourself, human: the final battle begins... again!"
+    },
+    {
+      "character": "Garkor/Zooknock",
+      "line": "Stop talking and start fighting!"
+    },
+    {
+      "character": "Garkor",
+      "line": "Well done, human! For a second there, I thought we would fail."
+    },
+    {
+      "character": "Player",
+      "line": "Well, we made it."
+    },
+    {
+      "character": "Garkor",
+      "line": "Indeed we did - and with no casualties either."
+    },
+    {
+      "character": "Garkor",
+      "line": "You should report to King Narnode immediately. Tell him that the 10th squad still survives and has suffered no casualties."
+    },
+    {
+      "character": "Player",
+      "line": "Rest assured, I will do so. How do I leave this place?"
+    },
+    {
+      "character": "Garkor",
+      "line": "Speak to Zooknock. He will arrange for you to leave."
+    },
+    {
+      "character": "Bonzara",
+      "line": "It looks like you're trying to escape. Would you like some help?"
+    },
+    {
+      "character": "Player",
+      "line": "I... uh... yes."
+    },
+    {
+      "character": "Bonzara",
+      "line": "Right you are."
+    },
+    {
+      "character": "Player",
+      "line": "No thank you. Who are you by the way?"
+    },
+    {
+      "character": "Bonzara",
+      "line": "Never mind that child. You should worry more about who you are and the nature of the forces that have driven you here."
+    },
+    {
+      "character": "Player",
+      "line": "I'll... keep that in mind, thanks."
+    },
+    {
+      "character": "Bonzara",
+      "line": "We WILL meet again,."
+    },
+    {
+      "character": "Player",
+      "line": "Ok..."
+    },
+    {
+      "character": "Zooknock",
+      "line": "Well done, human. Bear with me now."
+    },
+    {
+      "character": "Player",
+      "line": "King Narnode!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Yes? How is the mission going... it has been quite some time since I sent you on your way."
+    },
+    {
+      "character": "Player",
+      "line": "It's over - it's finally over."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "What do you mean 'over'?"
+    },
+    {
+      "character": "Player",
+      "line": "I mean 'finished.'"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Yes, alright. Report on what happened."
+    },
+    {
+      "character": "Player",
+      "line": "With all due respect sir, if I told you, you would not believe me. I expect Sergeant Garkor will be sending you a full report soon enough."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "And what of my 10th squad?"
+    },
+    {
+      "character": "Player",
+      "line": "They all live - we suffered no casualties."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "'We', ?"
+    },
+    {
+      "character": "Player",
+      "line": "I, uh, I'm part of the 10th squad now. I even have the sigil."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Well, now. It appears I cannot argue with that. Garkor obviously thinks highly of you, as do I."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "No service such as what you have done for me goes unrewarded in my kingdom. I personally made a visit to the Royal Treasury to withdraw your reward."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "So you're officially a member of the 10th squad then?"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so..."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Well then you had better sign up for training."
+    },
+    {
+      "character": "Player",
+      "line": "Training?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Yes. All members of the Royal Guard must complete a mandatory training programme."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I sign up for this?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "The High Tree Guardian Daero is in charge of the training programme. You should know where to find him by now."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, King Narnode."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Good of you to stop by, human."
+    },
+    {
+      "character": "Player",
+      "line": "How fares the kingdom today?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Everything seems fine, as far as I can tell... I will let you know if there is any trouble."
+    },
+    {
+      "character": "Player",
+      "line": "Good day, High Tree Guardian."
+    },
+    {
+      "character": "Daero",
+      "line": "Hello there. I hear your mission is complete."
+    },
+    {
+      "character": "Player",
+      "line": "News travels quickly on this tree. I expect you also know that I am to be enrolled in the Royal Guard training programme."
+    },
+    {
+      "character": "Daero",
+      "line": "Indeed I do."
+    },
+    {
+      "character": "Player",
+      "line": "How long does it take?"
+    },
+    {
+      "character": "Daero",
+      "line": "For you, it should hardly take any time at all."
+    },
+    {
+      "character": "Player",
+      "line": "Then let us begin."
+    },
+    {
+      "character": "Daero",
+      "line": "Enthusiasm. I like that. We will first begin with a series of exercises designed to increase your strength and stamina."
+    },
+    {
+      "character": "Daero",
+      "line": "We then will follow these up by improving your attack and defence techniques."
+    },
+    {
+      "character": "Daero",
+      "line": "You will improve your strength, stamina, attack and defence, but you may choose what you want to focus on."
+    },
+    {
+      "character": "Player",
+      "line": "I need to return to Crash Island."
+    },
+    {
+      "character": "Daero",
+      "line": "You know the routine..."
+    },
+    {
+      "character": "Glough",
+      "line": "This isn't the last you'll see of me, human. Mark my words - the monkeys are listening."
+    },
+    {
+      "character": "Player",
+      "line": "How did you get back in there?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Simple: we got caught again."
+    },
+    {
+      "character": "Player",
+      "line": "Deliberately?"
+    },
+    {
+      "character": "Lumo",
+      "line": "Yes. We are working undercover here. Isn't that right, guys?"
+    },
+    {
+      "character": "Carado",
+      "line": "Whatever you say, boss."
+    },
+    {
+      "character": "Lumo",
+      "line": "See."
+    },
+    {
+      "character": "Carado",
+      "line": "I'm meant to be here now. We're working undercover."
+    },
+    {
+      "character": "Player",
+      "line": "What are you doing now?"
+    },
+    {
+      "character": "Garkor",
+      "line": "My squad and I are to remain on this island as undercover operatives. I am collecting information on Awowogei and his policies."
+    },
+    {
+      "character": "Karam",
+      "line": "My squad and I are to remain on this island in secret. The monkeys think we are trying to break our friends out of the jail, but we are just biding our time."
+    },
+    {
+      "character": "Waymottin",
+      "line": "But if you ever lose your sigil, let me know."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Awowogei",
+      "description": "Male monkey, deep regal voice, commanding and somewhat vain tone, a proud monarch who takes his rule seriously but enjoys diplomatic discussions."
+    },
+    {
+      "name": "Bonzara",
+      "description": "Male monkey, calm priestly voice, mysterious and courteous tone, a spiritual figure who speaks with formal reverence and hidden wisdom."
+    },
+    {
+      "name": "Bunkdo",
+      "description": "Male gnome, mature gravelly voice, British accent, weary but resilient military veteran who speaks with quiet determination."
+    },
+    {
+      "name": "Bunkwicket",
+      "description": "Male gnome, middle-aged voice, British accent, practical and task-focused tone, a hardworking sapper who prefers actions over words."
+    },
+    {
+      "name": "Bunkwicket/Waymottin",
+      "description": "Male gnome, terse and hurried, British accent, dismissive tone when interrupted, clearly too busy with important work to chat."
+    },
+    {
+      "name": "Carado",
+      "description": "Male gnome, seasoned military voice, British accent, loyal and measured tone, a veteran soldier with professional composure."
+    },
+    {
+      "name": "Daero",
+      "description": "Male gnome, authoritative but approachable voice, British accent, calm and confident, a natural leader who puts others at ease."
+    },
+    {
+      "name": "Elder Guard",
+      "description": "Male gorilla, deep rumbling voice, gruff and intimidating tone, a brutish palace guard who speaks with simple directness and menace."
+    },
+    {
+      "name": "Foreman",
+      "description": "Middle-aged male human, gruff working-class voice, stern and suspicious tone, a shipyard boss who guards his secrets with trivia challenges."
+    },
+    {
+      "name": "G.L.O. Caranock",
+      "description": "Male gnome, formal and officious voice, British accent, polished professional manner concealing cunning and treacherous intent."
+    },
+    {
+      "name": "Garkor",
+      "description": "Male gnome, commanding weathered voice, British accent, authoritative military sergeant who speaks with tactical precision and experience."
+    },
+    {
+      "name": "Garkor/Zooknock",
+      "description": "Male gnome, urgent battlefield shout, British accent, commanding tone rallying troops during combat."
+    },
+    {
+      "name": "Glough",
+      "description": "Male gnome, cold calculating voice, British accent, eerily calm with barely contained hatred, a bitter schemer consumed by wrath against humans."
+    },
+    {
+      "name": "Karam",
+      "description": "Male gnome, quiet focused voice, British accent, minimal words spoken with stealth and precision, a shadow operative who lets actions speak."
+    },
+    {
+      "name": "King Awowogei",
+      "description": "Male monkey, deep authoritative voice, regal and dignified tone, a proud ruler who speaks with formal gravitas befitting royalty."
+    },
+    {
+      "name": "King Narnode Shareen",
+      "description": "Elderly male gnome, warm grandfatherly voice, British accent, kind and trusting tone, a benevolent ruler who genuinely cares for his people."
+    },
+    {
+      "name": "Kruk",
+      "description": "Male ninja monkey, loud commanding voice, aggressive and intimidating tone, a military captain who barks orders and demands respect."
+    },
+    {
+      "name": "Lumdo",
+      "description": "Male gnome, seasoned military voice, British accent, efficient and no-nonsense tone, a veteran soldier focused on his transport duties."
+    },
+    {
+      "name": "Lumo",
+      "description": "Male gnome, jovial friendly voice, British accent, cheerful and lighthearted tone, loves telling jokes and singing even while imprisoned."
+    },
+    {
+      "name": "Monkey",
+      "description": "Excitable Karamjan monkey, high-pitched enthusiastic voice, eager and naive tone, speaks with youthful energy and innocent curiosity."
+    },
+    {
+      "name": "Monkey Child",
+      "description": "Very young male monkey, small innocent voice, naive and affectionate tone, speaks simply with sweet trusting nature."
+    },
+    {
+      "name": "Monkey minder",
+      "description": "Middle-aged male human, professional matter-of-fact voice, British accent, straightforward zookeeper who takes his job seriously."
+    },
+    {
+      "name": "Muruwoi",
+      "description": "Male monkey, dignified measured voice, formal advisory tone, a well-dressed royal counselor who speaks positively and diplomatically."
+    },
+    {
+      "name": "Shipyard worker",
+      "description": "Adult male human, working-class voice, simple and dutiful tone, an honest laborer who follows orders without question."
+    },
+    {
+      "name": "The Monkey's Aunt",
+      "description": "Female monkey, sharp vigilant voice, protective and authoritative tone, a watchful guardian quick to sound the alarm."
+    },
+    {
+      "name": "Uwogo",
+      "description": "Male monkey, dignified skeptical voice, formal advisory tone, a well-dressed royal counselor who maintains suspicious reservations."
+    },
+    {
+      "name": "Waydar",
+      "description": "Male gnome, professional pilot voice, British accent, initially confident and competent, becomes nervous and evasive when his treachery is discovered."
+    },
+    {
+      "name": "Waymottin",
+      "description": "Male gnome, quiet dutiful voice, British accent, practical and unassuming, a support soldier focused on maintenance work."
+    },
+    {
+      "name": "Zooknock",
+      "description": "Elderly male gnome, wizened sagely voice, British accent, patient and knowledgeable tone, a wise mage who speaks with measured expertise."
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+{
+  "branch": "quest/the-lost-tribe",
+  "quest_name": "The Lost Tribe",
+  "lines": [
+    {
+      "character": "Sigmund",
+      "line": "Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any quests for me?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "There was recently some damage to the castle cellar. Part of the wall has collapsed."
+    },
+    {
+      "character": "Sigmund",
+      "line": "The Duke insists that it was an earthquake, but I think some kind of monsters are to blame."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you need me to do?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "You should ask people around the town about it. Maybe someone saw something."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I'm not interested."
+    },
+    {
+      "character": "Player",
+      "line": "What was I doing again?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "I asked you to talk to people around Lumbridge to see if any of them know what happened in the cellar."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Greetings. Welcome to my castle."
+    },
+    {
+      "character": "Player",
+      "line": "What happened in the cellar?"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "The wall collapsed because of an earthquake. I'm waiting for a team of builders to come and repair it."
+    },
+    {
+      "character": "Cook",
+      "line": "How is the adventuring going, my friend?"
+    },
+    {
+      "character": "Cook",
+      "line": "Oh no, it's terrible, isn't it? There was rock dust everywhere, it got on all my ingredients!"
+    },
+    {
+      "character": "Hans",
+      "line": "Hello. What are you doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know what happened in the castle cellar?"
+    },
+    {
+      "character": "Hans",
+      "line": "The wall collapsed. I had to spend all day clearing it up! The Duke says it was an earthquake."
+    },
+    {
+      "character": "Bob",
+      "line": "Last night I was in the kitchen and I heard a noise from the cellar. I opened the trapdoor and saw a creature dart into a hole in the wall."
+    },
+    {
+      "character": "Bob",
+      "line": "It looked a bit like a goblin, but it had big bulging eyes. It wasn't wearing armour, but it had this odd helmet with a light on it."
+    },
+    {
+      "character": "Bob",
+      "line": "The tunnel was too dark for me to follow it, so I went to tell the Duke. But when we went down to the cellar the hole had been blocked up, and no one believes me."
+    },
+    {
+      "character": "Player",
+      "line": "I believe you."
+    },
+    {
+      "character": "Bob",
+      "line": "Thank you, ! If you can convince the Duke I'm telling the truth then we can get to the bottom of this mystery."
+    },
+    {
+      "character": "Bob",
+      "line": "I told you about the creature I saw. You should go and tell the Duke."
+    },
+    {
+      "character": "Player",
+      "line": "Bob says he saw something in the cellar. Like a goblin with big eyes."
+    },
+    {
+      "character": "Sigmund",
+      "line": "A goblin? This validates my suspicion! We should tell the Duke!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Yes, he mentioned that to me. But I think he was imagining things. Goblins live in natural caves but everyone knows they don't have the wit to make their own tunnels."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Yes your grace, but if there is any possibility that this is a goblin incursion then we should take that possibility very seriously!"
+    },
+    {
+      "character": "Player",
+      "line": "I think we should at least investigate."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Your grace, this is the adventurer who defeated the dragon Elvarg. I think you should listen to."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Your grace, this adventurer took that talisman you discovered to Sedridor. I think you should listen to."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Hmm, very well. I give you permission to investigate this mystery. If there is a blocked tunnel then perhaps you should try to un-block it."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "You were helping to investigate what happened in the cellar. Come back when you've found something out."
+    },
+    {
+      "character": "Sigmund",
+      "line": "The Duke asked you to investigate the damage in the cellar. I hope you can find the monsters that are behind this!"
+    },
+    {
+      "character": "Player",
+      "line": "I dug through the rubble in the cellar and found a tunnel!"
+    },
+    {
+      "character": "Sigmund",
+      "line": "You see, your grace? It is a goblin attack!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "That tunnel could have many origins. I suggest you investigate further."
+    },
+    {
+      "character": "Sigmund",
+      "line": "See, it was goblins! You should tell the Duke."
+    },
+    {
+      "character": "Player",
+      "line": "On the ground I found this brooch."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I've never seen anything like that before. It doesn't come from Lumbridge. What do you think, Sigmund?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "It is unknown to me, your grace. But the fact it is there is enough to prove Bob's story. It must have been dropped by a goblin as it fled."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I've never heard of a goblin wearing something so well-crafted."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Then it must have been stolen!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "But it wasn't stolen from us. Where could it be from?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "That doesn't matter! You said yourself that goblins couldn't have made that, so they must have stolen it from somewhere."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Horrible, thieving goblins have broken into our cellar! We must retaliate immediately!"
+    },
+    {
+      "character": "Sigmund",
+      "line": "First we should wipe out the goblins east of the river, then we can march on the goblin village to the north-west..."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I will not commit troops until I have proof that goblins are behind this."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": ", please find out what you can about this brooch. The librarian in Varrock might be able to help identify the symbol."
+    },
+    {
+      "character": "Reldo",
+      "line": "Hello there,."
+    },
+    {
+      "character": "Player",
+      "line": "What can you tell me about this brooch?"
+    },
+    {
+      "character": "Reldo",
+      "line": "I've never seen that symbol before. Where did you find it?"
+    },
+    {
+      "character": "Player",
+      "line": "In a cave beneath Lumbridge."
+    },
+    {
+      "character": "Reldo",
+      "line": "Very odd. Have you any idea how it got there?"
+    },
+    {
+      "character": "Player",
+      "line": "A goblin might have dropped it."
+    },
+    {
+      "character": "Reldo",
+      "line": "I've never heard of a goblin carrying a brooch like this. But just a minute..."
+    },
+    {
+      "character": "Reldo",
+      "line": "The other day I filed a book about ancient goblin tribes. It's somewhere at the west end of the library, I think. Maybe that will be of some use."
+    },
+    {
+      "character": "Player",
+      "line": "'A History of the Goblin Race'. This must be it."
+    },
+    {
+      "character": "Player",
+      "line": "Hey... The symbol of the 'Dorgeshuun' tribe looks just like the symbol on the brooch I found."
+    },
+    {
+      "character": "Player",
+      "line": "I found out about the symbol. It was the symbol of one of the ancient goblin tribes!"
+    },
+    {
+      "character": "Sigmund",
+      "line": "You see, your grace? I told you goblins were behind this!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I still find it surprising that such a well-crafted brooch would have a goblin symbol on it. Perhaps you should find out more about this ancient tribe."
+    },
+    {
+      "character": "Sigmund",
+      "line": "At last, proof that goblins are behind this! You should tell the Duke at once!"
+    },
+    {
+      "character": "Player",
+      "line": "Have you ever heard of the Dorgeshuun?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Dorgeshuun? That old goblin legend. Lost tribe."
+    },
+    {
+      "character": "General Wartface",
+      "line": "In time of much-war there many tribes. Big High War-God send Dorgesh tribe to fight beardy-short-people in mountains."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "No no, he send them to fight tall people with biting blades, that what I hear."
+    },
+    {
+      "character": "General Wartface",
+      "line": "It was beardy-short-people, that how legend go."
+    },
+    {
+      "character": "Player",
+      "line": "Make up your minds!"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "It was tall people! That what old storyteller say!"
+    },
+    {
+      "character": "General Wartface",
+      "line": "No, beardy-short-people. That how legend always go, stupid."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "You stupid!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you want me to decide for you again?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "That most stupid idea yet. If it happen it either happen one way or the other. You can't just decide which."
+    },
+    {
+      "character": "General Wartface",
+      "line": "Yeah even goblins know that."
+    },
+    {
+      "character": "Player",
+      "line": "It doesn't really matter. What happened to them?"
+    },
+    {
+      "character": "General Wartface",
+      "line": "Well, they say, 'We not want to fight,' so god punish them."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "That silly. No goblin ever say that."
+    },
+    {
+      "character": "General Wartface",
+      "line": "What happen then?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "They lose battle, that why god punish them."
+    },
+    {
+      "character": "General Wartface",
+      "line": "Ha ha! If they lost battle they all be dead!"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "No no, they losing so they run away, and Big High War-God punish them for running away."
+    },
+    {
+      "character": "Player",
+      "line": "Who were they fighting again?"
+    },
+    {
+      "character": "General Wartface",
+      "line": "It was beardy-short-people in mountains."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "No no, it was tall people."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of god would punish them for refusing to fight?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Shh! Must not question Big High War-God!"
+    },
+    {
+      "character": "General Wartface",
+      "line": "No, because he much bigger than us."
+    },
+    {
+      "character": "Player",
+      "line": "Well either way they refused to fight."
+    },
+    {
+      "character": "General Wartface",
+      "line": "Yeah I suppose so."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Anyway then Big High War-God punish them. He turn their insides to stone."
+    },
+    {
+      "character": "General Wartface",
+      "line": "Ha ha ha! That silly!"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Not as silly as green armour! What happen then?"
+    },
+    {
+      "character": "General Wartface",
+      "line": "He put them inside stone! Big hole open in ground and they all go into cave."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "That not punishment! Caves nice and cool."
+    },
+    {
+      "character": "General Wartface",
+      "line": "But then he close cave so they not get out! You not want to stay in cave all the time."
+    },
+    {
+      "character": "Player",
+      "line": "Why were there punished again?"
+    },
+    {
+      "character": "General Wartface",
+      "line": "It because they run away from fight."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "No, it because they refuse to fight night before battle."
+    },
+    {
+      "character": "Player",
+      "line": "So do goblins make their own tunnels?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "What? Make our own tunnels?"
+    },
+    {
+      "character": "General Wartface",
+      "line": "We hadn't thought of that."
+    },
+    {
+      "character": "Player",
+      "line": "Well I found a brooch underground, and I looked up the symbol and it was the symbol of the Dorgeshuun."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "That not look like goblin brooch."
+    },
+    {
+      "character": "General Wartface",
+      "line": "Goblins not wear jewellery."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Well if it Dorgeshuun tribe they not know who won big wars. You should greet them with goblin victory dance!"
+    },
+    {
+      "character": "General Wartface",
+      "line": "No no, you greet them with goblin tribal bow."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Doing bow make you look like a wimp."
+    },
+    {
+      "character": "General Wartface",
+      "line": "It how tribes greet each other in old days."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Only if they wimpy tribes! Goblin salute strong!"
+    },
+    {
+      "character": "Player",
+      "line": "So why is the Dorgeshuun tribe underground?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "They punished by Big High War-God."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, you say YOU won the big wars?"
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Well we must have done! We goblins! Goblins always win!"
+    },
+    {
+      "character": "General Wartface",
+      "line": "Actually we not know who won."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "It was goblins I say!"
+    },
+    {
+      "character": "Player",
+      "line": "Well why not show me both greetings?"
+    },
+    {
+      "character": "General Wartface",
+      "line": "That good idea. Watch."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "General Bentnoze",
+      "line": "Bye then."
+    },
+    {
+      "character": "General Wartface",
+      "line": "Bye."
+    },
+    {
+      "character": "Player",
+      "line": "I spoke to the goblin generals in the goblin village. They told me about an ancient goblin tribe that went to live underground."
+    },
+    {
+      "character": "Sigmund",
+      "line": "What more proof do we need? Nasty, smelly goblins have been living under our feet all this time! We must crush them at once!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Hmm, perhaps you are right. I will send word to the army to prepare for an underground assault."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": ", I would still like you to find out more about this tribe. It cannot hurt to know one's enemy."
+    },
+    {
+      "character": "Player",
+      "line": "I spoke to the goblin generals in the Goblin Village. They told me about an ancient goblin tribe that went to live underground."
+    },
+    {
+      "character": "Sigmund",
+      "line": "I don't see how there can be any more doubt. You should tell the Duke at once!"
+    },
+    {
+      "character": "Mistag",
+      "line": "Who...who are you? How did you get in here?"
+    },
+    {
+      "character": "Mistag",
+      "line": "Help! A surface-dweller this deep in our mines? We will all be destroyed!"
+    },
+    {
+      "character": "Mistag",
+      "line": "A human knows ancient greeting?"
+    },
+    {
+      "character": "Mistag",
+      "line": "Perhaps you are friend after all!"
+    },
+    {
+      "character": "Mistag",
+      "line": "Greetings, friend. I am sorry I panicked when I saw you."
+    },
+    {
+      "character": "Mistag",
+      "line": "Our legends tell of the surface as a place of horror and violence, where the gods forced us to fight in terrible battles."
+    },
+    {
+      "character": "Mistag",
+      "line": "When I saw a surface-dweller appear I was afraid it was a return to the old days!"
+    },
+    {
+      "character": "Player",
+      "line": "Did you break in to the castle cellar?"
+    },
+    {
+      "character": "Mistag",
+      "line": "It was an accident. We were following a seam of iron and suddenly we found ourselves in a room!"
+    },
+    {
+      "character": "Mistag",
+      "line": "We blocked up our tunnel behind us and ran back here. Then we did what cave goblins always do when there is a problem: we hid and hoped it would go away."
+    },
+    {
+      "character": "Mistag",
+      "line": "We meant no harm! Please tell the ruler of the above- people that we want to make peace."
+    },
+    {
+      "character": "Mistag",
+      "line": "Eeek! The war-dance!"
+    },
+    {
+      "character": "Mistag",
+      "line": "Hello, friend?"
+    },
+    {
+      "character": "Player",
+      "line": "May I mine the rocks here?"
+    },
+    {
+      "character": "Mistag",
+      "line": "No offence, but we will not let you mine here until there is peace between the humans and the Dorgeshuun."
+    },
+    {
+      "character": "Player",
+      "line": "Can you show me the way out of the mines?"
+    },
+    {
+      "character": "Mistag",
+      "line": "Certainly. Please hurry, you must avert the war!"
+    },
+    {
+      "character": "Player",
+      "line": "Is this your brooch?"
+    },
+    {
+      "character": "Mistag",
+      "line": "We have more important things to think about than a brooch right now. We must prevent a war!"
+    },
+    {
+      "character": "Player",
+      "line": "I've made contact with the cave goblins. They say they were following a seam and broke into the cellar by mistake."
+    },
+    {
+      "character": "Sigmund",
+      "line": "And I suppose you believe them, goblin-lover?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, they seemed friendlier than most goblins, and nothing was taken from the cellar."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Actually, something was taken. Sigmund has informed me that some of the castle silverware is missing from the cellar."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Unless it is returned, I am afraid I will have no option but war."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "We are preparing to go to war with the underground goblins over the missing silverware. If you think the cave goblins are innocent you should present evidence quickly!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the silverware that was stolen."
+    },
+    {
+      "character": "Sigmund",
+      "line": "The priceless Lumbridge Silverware! It comes out only on special occasions. It was kept in storage in the cellar, but now the goblins have stolen it."
+    },
+    {
+      "character": "Player",
+      "line": "So why did no one notice earlier?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "That doesn't matter. You'll never find it, because the goblins took it. So you can't stop the war!"
+    },
+    {
+      "character": "Player",
+      "line": "Some silverware has gone missing from the castle, and the Duke thinks you stole it!"
+    },
+    {
+      "character": "Mistag",
+      "line": "Oh no! We would never do such a thing!"
+    },
+    {
+      "character": "Mistag",
+      "line": "I assure you we took nothing from the cellar. You must convince the Duke we are innocent!"
+    },
+    {
+      "character": "Player",
+      "line": "Where's the silverware you stole from the castle cellar?"
+    },
+    {
+      "character": "Mistag",
+      "line": "What? We didn't take anything!"
+    },
+    {
+      "character": "Player",
+      "line": "You expect me to believe that? Perhaps Sigmund was right: you're just thieving little goblins!"
+    },
+    {
+      "character": "Mistag",
+      "line": "Why would we want to steal silver? As you see we have much silver already in our mines!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, the Duke says he will attack you unless the silverware is returned."
+    },
+    {
+      "character": "Mistag",
+      "line": "The last thing we want is war! If we had anything of yours, we would return it at once. But we don't!"
+    },
+    {
+      "character": "Player",
+      "line": "Sigmund must be a member of the Humans Against Monsters cult!"
+    },
+    {
+      "character": "Player",
+      "line": "You're a H.A.M member, aren't you?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "What?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "Well, so what if I am? It's not a crime."
+    },
+    {
+      "character": "Player",
+      "line": "Did you know Sigmund is a member of HAM?"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Hmm, I had suspected it. But however much I disapprove of the HAM movement it's not actually illegal. I'll keep an eye on him though."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I have found it! You put it in the H.A.M. cave!"
+    },
+    {
+      "character": "Sigmund",
+      "line": "I... I... You're lying! I don't know what you're talking about."
+    },
+    {
+      "character": "Player",
+      "line": "I found the missing silverware in the HAM cave!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Sigmund! Is this your doing?"
+    },
+    {
+      "character": "Sigmund",
+      "line": "Of...of course not! The goblins must have, um, dropped the silverware as they ran away."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Don't lie to me! I knew you were a HAM member but I didn't think you would stoop to this. You are dismissed from my service."
+    },
+    {
+      "character": "Sigmund",
+      "line": "But don't you see it was for the best? For goblins to be living under our feet like this... ugh. It doesn't matter how civilized they are: all sub-human species must be wiped out!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "That's enough! Get out of my castle now!"
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I see I was ill-advised. Unless there is an act of aggression by the cave goblins there is no need for war."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "This peace treaty specifies the border between Lumbridge and the Cave Goblin realm. Please take it to the cave goblins and tell them I would like to meet with their leader to sign it."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "You were taking the peace treaty to the cave goblins."
+    },
+    {
+      "character": "Player",
+      "line": "I, er, lost the treaty."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "*sigh* All right, here's another copy."
+    },
+    {
+      "character": "Player",
+      "line": "I have a peace treaty from the Duke of Lumbridge."
+    },
+    {
+      "character": "Mistag",
+      "line": "A peace treaty? Then you will not invade?"
+    },
+    {
+      "character": "Player",
+      "line": "No. As long as you stick to the terms of this treaty there will be no conflict. The Duke of Lumbridge wants to meet your ruler to sign it."
+    },
+    {
+      "character": "Mistag",
+      "line": "I will summon Ur-tag, our headman, at once."
+    },
+    {
+      "character": "Player",
+      "line": "Your grace, I present Ur-tag, headman of the Dorgeshuun."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "Welcome, Ur-tag. I am sorry that your race came under suspicion."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "I assure you that the warmongering element has been dealt with."
+    },
+    {
+      "character": "Ur-tag",
+      "line": "I apologize for the damage to your cellar. I will send workers to repair the hole."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "No, let it stay. It can be a route of commerce between our lands."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": ", Lumbridge is in your debt. Please accept this ring as a token of my thanks."
+    },
+    {
+      "character": "Duke Horacio",
+      "line": "It is enchanted to save you in your hour of need."
+    },
+    {
+      "character": "Ur-tag",
+      "line": "I too thank you. Accept the freedom of the Dorgeshuun mines."
+    },
+    {
+      "character": "Ur-tag",
+      "line": "These are strange times. I never dreamed that I would see the surface, still less that I would be on friendly terms with its people."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Prattle on, goblin."
+    },
+    {
+      "character": "Sigmund",
+      "line": "Soon you will be destroyed!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bob",
+      "description": "Middle-aged male, British accent, gruff and blunt tone, a small-town shopkeeper who speaks his mind without filter and has strong prejudices against outsiders."
+    },
+    {
+      "name": "Cook",
+      "description": "Middle-aged male, British accent, flustered and harried tone, a perpetually stressed chef who tends to dramatize situations and sounds mildly exasperated."
+    },
+    {
+      "name": "Duke Horacio",
+      "description": "Mature male, refined British accent, dignified and measured tone, a nobleman who speaks with authority and careful deliberation befitting his station."
+    },
+    {
+      "name": "General Bentnoze",
+      "description": "Adult male goblin, raspy guttural voice, argumentative and stubborn, speaks in broken grammar with theatrical indignation over trivial matters."
+    },
+    {
+      "name": "General Wartface",
+      "description": "Adult male goblin, nasally guttural voice, petulant and quarrelsome, speaks in crude goblin dialect and constantly contradicts his counterpart."
+    },
+    {
+      "name": "Hans",
+      "description": "Young adult male, British accent, nervous and timid tone, a humble castle servant who speaks quickly and is easily startled."
+    },
+    {
+      "name": "Mistag",
+      "description": "Adult male cave goblin, soft gravelly voice, cautious yet earnest tone, a hardworking mine foreman who speaks with quiet authority and measured concern."
+    },
+    {
+      "name": "Reldo",
+      "description": "Middle-aged male, educated British accent, patient and scholarly tone, a palace librarian who speaks with intellectual curiosity and helpful warmth."
+    },
+    {
+      "name": "Sigmund",
+      "description": "Middle-aged male, sharp British accent, cunning and duplicitous tone, an advisor who masks his fanatical hatred of non-humans beneath a veneer of concerned politeness."
+    },
+    {
+      "name": "Ur-tag",
+      "description": "Elderly male cave goblin, deep gravelly voice, wise and diplomatic tone, an elder statesman who speaks with careful deliberation and protective caution toward his people."
+    }
+  ]
+}

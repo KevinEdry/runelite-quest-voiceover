@@ -1,0 +1,832 @@
+{
+  "branch": "quest/meat-and-greet",
+  "quest_name": "Meat and Greet",
+  "lines": [
+    {
+      "character": "Emelio",
+      "line": "Hello? Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know? Can you?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Hang on... You're one of them easterners, aren't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I suppose I am."
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani! I'm Emelio, and you might be just the person I need to help me out with an exciting new business venture!"
+    },
+    {
+      "character": "Player",
+      "line": "What business venture?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Well as an easterner, I've no doubt you're all too familiar with the wonder that is the kabit!"
+    },
+    {
+      "character": "Player",
+      "line": "Kabit? What's a kabit?"
+    },
+    {
+      "character": "Emelio",
+      "line": "You don't know? But how could you not know? My life was changed forever when I tried one!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Believe it or not, I never used to be keen on opening the Kingdom to outsiders. In fact, I even spent some time as part of the Varlaless movement."
+    },
+    {
+      "character": "Emelio",
+      "line": "But then I tried a kabit, and it changed everything! If that's the kind of food you easterners can make, then as far as I'm concerned, you're welcome here any day of the week!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... but what's a kabit?"
+    },
+    {
+      "character": "Emelio",
+      "line": "A kabit! The amazing blend of meat, spices and salad, all wrapped in bread! Genius!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, you mean a kebab!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Yes, kebab! Brilliant!"
+    },
+    {
+      "character": "Player",
+      "line": "But what do kebabs have to do with this business venture?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Well, quite simply, I wish to bring the kebab to Varlamore. Everyone here deserves a chance to taste their brilliance!"
+    },
+    {
+      "character": "Player",
+      "line": "So you're opening a kebab shop?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Exactly!"
+    },
+    {
+      "character": "Player",
+      "line": "I see. So what is it you need help with?"
+    },
+    {
+      "character": "Emelio",
+      "line": "My hope is to blend ingredients from the east with ones from right here in Varlamore. The end result will be a mighty kebab just like you easterners make, but with a Varlamorian twist!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Problem is, some of the ingredients I've ordered haven't arrived yet. Would you be able to go and see what the delay is?"
+    },
+    {
+      "character": "Player",
+      "line": "Which ingredients haven't arrived?"
+    },
+    {
+      "character": "Emelio",
+      "line": "We're still missing the Kharidian spices I ordered in. The Spice Merchant in the Bazaar was sorting that out for me. We don't have the buffalo meat either. That was coming from Alba at Ortus Farm."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I guess I can go see where they've got to."
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani! I look forward to your return."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, but I think I'll have to pass on this one."
+    },
+    {
+      "character": "Emelio",
+      "line": "Nilsal, friend. Any luck with those missing ingredients?"
+    },
+    {
+      "character": "Player",
+      "line": "Which ingredients was it again?"
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "A little bit of spice makes everything taste nice! Come and get it here!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm here about a missing delivery."
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "Ah, I'm betting Emelio sent you, right?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right!"
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "Well the good news is that his spices arrived this morning. The bad news is that I can't get the box open."
+    },
+    {
+      "character": "Player",
+      "line": "Can't get the box open? How come?"
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "Well this is the first time I've ever had to order in spices from the east, so I needed to find a reputable supplier. I ended up going with a guy called Ali Morrisane who seemed like he knew his stuff."
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "Thing is, he's gone and locked the box to make sure the goods can't be stolen, but hasn't told me how to unlock it again!"
+    },
+    {
+      "character": "Player",
+      "line": "Here, let me take a look."
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "Sure thing!"
+    },
+    {
+      "character": "Player",
+      "line": "Could I have a look at that locked box?"
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "Kuani! You did it! I'll have these sent over to Emelio right away. Thanks for the help."
+    },
+    {
+      "character": "Player",
+      "line": "Don't mention it."
+    },
+    {
+      "character": "Player",
+      "line": "About that missing delivery..."
+    },
+    {
+      "character": "Spice Merchant",
+      "line": "It's on route to Emelio as we speak. I'm sure it will be with him soon."
+    },
+    {
+      "character": "Player",
+      "line": "Perfect, thank you."
+    },
+    {
+      "character": "Player",
+      "line": "I did manage to speak to the Spice Merchant and helped them get that delivery sorted, it should be here soon."
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani! Now all that's left is the buffalo meat."
+    },
+    {
+      "character": "Emelio",
+      "line": "I'm on it."
+    },
+    {
+      "character": "Alba",
+      "line": "Nilsal, iknami. What can I do for you today?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm guessing you must be Alba? Emelio sent me to check up on his meat order."
+    },
+    {
+      "character": "Alba",
+      "line": "Ah, yes. Apologies, iknami, but we've been dealing with a bit of a wolf problem recently and it's delayed some of our orders."
+    },
+    {
+      "character": "Player",
+      "line": "A wolf problem? Maybe I could help out with that?"
+    },
+    {
+      "character": "Alba",
+      "line": "Well we'd never say no to some extra help, and it would mean we'd be able to get working on Emelio's order faster."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like we have a deal then. What do you need me to do?"
+    },
+    {
+      "character": "Alba",
+      "line": "The wolves have a den directly west of here. Most of them don't cause too much of a problem, but there's a big one that we've been struggling with."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll head over there and deal with this wolf."
+    },
+    {
+      "character": "Alba",
+      "line": "Thank you, iknami."
+    },
+    {
+      "character": "Alba",
+      "line": "Nilsal, iknami. Any luck with that wolf?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Alba",
+      "line": "You'll find the den directly west of here. Remember, it's the big one that we need dealing with."
+    },
+    {
+      "character": "Player",
+      "line": "It's been dealt with."
+    },
+    {
+      "character": "Alba",
+      "line": "Kuani! Thank you so much for the help, iknami. While you were gone, I was able to get Emelio's order finished. It's on the way to him now."
+    },
+    {
+      "character": "Player",
+      "line": "Perfect! Thank you for sorting that."
+    },
+    {
+      "character": "Alba",
+      "line": "Not a problem. Until next time, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "I did manage to speak to Alba and helped them get that delivery sorted, it should be here soon."
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani! Now all that's left is the spices."
+    },
+    {
+      "character": "Player",
+      "line": "I'm on it."
+    },
+    {
+      "character": "Lucas",
+      "line": "I hope this food is worth it. I've got plenty of other things to be doing."
+    },
+    {
+      "character": "Renata",
+      "line": "I'll never turn down free food! I just hope it tastes good!"
+    },
+    {
+      "character": "Vincens",
+      "line": "I wonder what Emelio has cooked up this time."
+    },
+    {
+      "character": "Emelio",
+      "line": "Nilsal, friend. Thanks to your good work out there, all the ingredients have now arrived! Now we move on to the critical step: The recipe!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Outside, I have gathered the finest group of connoisseurs who will assist us in finding the perfect ratio of ingredients to achieve the ultimate kebab!"
+    },
+    {
+      "character": "Player",
+      "line": "Where did these connoisseurs come from?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Oh, I just went into the local pub and promised a free drink to anyone who would help."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Are you sure they're going to give us the most reliable opinions?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Of course! People like them are going to be our top customers!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Imagine, you've been out late at your local establishment, and before heading home, you find yourself in need of the perfect late-night meal. That is where we come in!"
+    },
+    {
+      "character": "Player",
+      "line": "If you're sure."
+    },
+    {
+      "character": "Emelio",
+      "line": "Absolutely! Now, before we get our recipe sorted, I've allowed our friends outside to try the ingredients individually. They'll have already formed some opinions on how much of each is right."
+    },
+    {
+      "character": "Emelio",
+      "line": "Head on out there and have a chat with them to see if you can work out the perfect ratio of meat, salad, spice and sauce."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get right on it."
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. I was wondering if you had any thoughts on ingredient ratios for these kebabs?"
+    },
+    {
+      "character": "Vincens",
+      "line": "The sauce is essential. You want there to be as much sauce as there is spice and salad combined."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Renata",
+      "line": "Don't overdo the spice! You want to make sure there's less spice than there is salad."
+    },
+    {
+      "character": "Lucas",
+      "line": "Well the main thing is to make sure you're not putting too much salad in. You want there to be twice as much meat as there is salad."
+    },
+    {
+      "character": "Emelio",
+      "line": "Nilsal, friend. Have you worked out the ingredient ratios yet?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani! I've currently got one portion each of meat, salad, spice and sauce, but I reckon we can fit in up to four portions of each. What are we going for?"
+    },
+    {
+      "character": "Player",
+      "line": "Let's try one portion of meat."
+    },
+    {
+      "character": "Emelio",
+      "line": "That's what we have already. Maybe we should change something else."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try two portions of meat."
+    },
+    {
+      "character": "Emelio",
+      "line": "Very well. Anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Let's try three portions of meat."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try four portions of meat."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try one portion of salad."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try two portions of salad."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try three portions of salad."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try four portions of salad."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try one portion of spice."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try two portions of spice."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try three portions of spice."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try four portions of spice."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try one portion of sauce."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try two portions of sauce."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try three portions of sauce."
+    },
+    {
+      "character": "Player",
+      "line": "Let's try four portions of sauce."
+    },
+    {
+      "character": "Player",
+      "line": "I think that's perfect!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Kuani! That gives us portion of meat, portion of salad, portion of spice and portion of sauce. Definitely happy with that?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good to me."
+    },
+    {
+      "character": "Emelio",
+      "line": "Well in that case, why don't you take this kebab to one of our connoisseurs outside and see what they reckon."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, let's make some more changes."
+    },
+    {
+      "character": "Emelio",
+      "line": "Very well."
+    },
+    {
+      "character": "Emelio",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "What do you make of this?"
+    },
+    {
+      "character": "Renata",
+      "line": "Eww! This is awful."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. I guess we'd better try again."
+    },
+    {
+      "character": "Renata",
+      "line": "This is brilliant! Amazing stuff!"
+    },
+    {
+      "character": "Player",
+      "line": "Fantastic! I'll let Emilio know right away!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Have you seen what our connoisseurs reckon of that kebab?"
+    },
+    {
+      "character": "Player",
+      "line": "They didn't like it."
+    },
+    {
+      "character": "Emelio",
+      "line": "Tatamo! This is worse than the day my father left us! We must try again. I've currently got portion of meat, portion of salad, portion of spice and portion of sauce. What shall we change?"
+    },
+    {
+      "character": "Player",
+      "line": "They loved it!"
+    },
+    {
+      "character": "Emelio",
+      "line": "Excellent!"
+    },
+    {
+      "character": "Player",
+      "line": "So are we all ready to start selling now?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Not quite, iknami. There is one final thing we must do. We now know we have a winning recipe, but we need the rest of Varlamore to know as well!"
+    },
+    {
+      "character": "Player",
+      "line": "How do we do that?"
+    },
+    {
+      "character": "Emelio",
+      "line": "One word, iknami: Marketing! And I know just the place to do it."
+    },
+    {
+      "character": "Emelio",
+      "line": "You must visit Lelia at the Colosseum at once. Take her a sample of our fine kebabs, and she will beg us to let her help sell them to the people of Varlamore!"
+    },
+    {
+      "character": "Lucas",
+      "line": "Well now that we're done here, when am I getting paid?"
+    },
+    {
+      "character": "Renata",
+      "line": "I think I deserve a lifetime supply of these kebabs for helping to get things started."
+    },
+    {
+      "character": "Vincens",
+      "line": "I think Emelio might actually be on for a winner this time.*"
+    },
+    {
+      "character": "Emelio",
+      "line": "Nilsal, friend. Have you taken those kebabs to Lelia at the Colosseum yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I lost one."
+    },
+    {
+      "character": "Emelio",
+      "line": "Tatamo! We're very lucky I made some spares."
+    },
+    {
+      "character": "Emelio",
+      "line": "Now you must hurry over there at once!"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Emelio",
+      "line": "Then you must hurry over there at once!"
+    },
+    {
+      "character": "Lelia",
+      "line": "Need something?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you Lelia? Emelio sent me to speak to you."
+    },
+    {
+      "character": "Lelia",
+      "line": "Looking to market another one of his buisness ideas is he? It will cost him double this time. We still haven't cleaned up the mess made by his last great idea."
+    },
+    {
+      "character": "Player",
+      "line": "Is this a common occurance?"
+    },
+    {
+      "character": "Lelia",
+      "line": "Emelio having ideas, or said ideas not being very good? Yes to both, I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "Well he seems very confident about this one."
+    },
+    {
+      "character": "Lelia",
+      "line": "Alright, let's hear it then."
+    },
+    {
+      "character": "Player",
+      "line": "He wants to bring a new type of food to Varlamore: kebabs. We have them over in the east. Here, he sent one for you to try."
+    },
+    {
+      "character": "Lelia",
+      "line": "Hmm... I must admit, I'm somewhat impressed. Emelio might finally be on to something here."
+    },
+    {
+      "character": "Player",
+      "line": "So you'll help?"
+    },
+    {
+      "character": "Lelia",
+      "line": "Yes, and it's your lucky day. We have an advertising spot open before the next contest. The last promoter had to pull out suddenly."
+    },
+    {
+      "character": "Player",
+      "line": "Excellent! So how does this work exactly."
+    },
+    {
+      "character": "Lelia",
+      "line": "Nice and simple really. Before the contest starts, we run a couple of adverts for local businesses. You get a few minutes to promote your product however you feel suitable."
+    },
+    {
+      "character": "Lelia",
+      "line": "In some cases we allow promoters to make use of some of the Colosseum creatures as part of their advert, provided I deem it suitable."
+    },
+    {
+      "character": "Player",
+      "line": "And would our kebabs be considered suitable?"
+    },
+    {
+      "character": "Lelia",
+      "line": "Well I suppose they did impress me, and we do have a young minotaur spare from that promoter who had to pull out. Very well, you can make use of him."
+    },
+    {
+      "character": "Player",
+      "line": "Great! So, er... What do I do with this minotaur?"
+    },
+    {
+      "character": "Lelia",
+      "line": "You want to convince people to buy these kebabs, right? I'd suggest you head on in, take a bite out of one and then give the minotaur a good kick."
+    },
+    {
+      "character": "Lelia",
+      "line": "He'll pretend to go down in one. The audience will love it."
+    },
+    {
+      "character": "Player",
+      "line": "Will the minotaur be okay with that?"
+    },
+    {
+      "character": "Lelia",
+      "line": "Why wouldn't he be?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess I don't really know much about minotaurs."
+    },
+    {
+      "character": "Lelia",
+      "line": "If the crowd is happy, he'll be happy. Now, are you ready?"
+    },
+    {
+      "character": "Player",
+      "line": "What? Right now?"
+    },
+    {
+      "character": "Lelia",
+      "line": "Yup. Next contest starts soon and we don't have another slot for weeks."
+    },
+    {
+      "character": "Player",
+      "line": "I think so."
+    },
+    {
+      "character": "Lelia",
+      "line": "Right, get to it then."
+    },
+    {
+      "character": "Colosseum Announcer",
+      "line": "Welcome, one and all, to the Fortis Colosseum! We have a thrilling event lined up for you today, but first, we have something new to show you!"
+    },
+    {
+      "character": "Colosseum Announcer",
+      "line": "Introducing the kebab! This delicacy comes straight from the east and is just the thing to give you the strength you need after a hard day of work."
+    },
+    {
+      "character": "Colosseum Announcer",
+      "line": "Indeed, observe the strength provided by a single bite of one!"
+    },
+    {
+      "character": "Minotaur",
+      "line": "Huh? Human... eat... friend?"
+    },
+    {
+      "character": "Player",
+      "line": "What? No, it's a kebab. The meat is... buffalo... I think."
+    },
+    {
+      "character": "Minotaur",
+      "line": "Kebab... is... minotaur?"
+    },
+    {
+      "character": "Player",
+      "line": "No. It's buffalo."
+    },
+    {
+      "character": "Minotaur",
+      "line": "Human... eat... minotaur! Human... die!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh boy..."
+    },
+    {
+      "character": "Player",
+      "line": "I need to prepare first."
+    },
+    {
+      "character": "Lelia",
+      "line": "Well make it quick."
+    },
+    {
+      "character": "Lelia",
+      "line": "Are you ready? Your advertising slot is coming up and I don't intend to delay the contest for you."
+    },
+    {
+      "character": "Player",
+      "line": "That minotaur tried to kill me!"
+    },
+    {
+      "character": "Lelia",
+      "line": "Yes, he doesn't seem too happy about those kebabs. I'll speak to the beastmaster about it. In the meantime, you'd better get in there and deal with him."
+    },
+    {
+      "character": "Player",
+      "line": "But why?"
+    },
+    {
+      "character": "Lelia",
+      "line": "Because if you don't, no one will want to buy those kebabs of yours."
+    },
+    {
+      "character": "Lelia",
+      "line": "You put on a good performance in there. The crowd seemed very impressed."
+    },
+    {
+      "character": "Player",
+      "line": "What about that minotaur?"
+    },
+    {
+      "character": "Lelia",
+      "line": "What about it? It got out of control and you killed it. Saves the beastmaster a job."
+    },
+    {
+      "character": "Player",
+      "line": "But it could have killed me! You said it would be safe."
+    },
+    {
+      "character": "Lelia",
+      "line": "You survived, didn't you? I don't see the problem."
+    },
+    {
+      "character": "Player",
+      "line": "But..."
+    },
+    {
+      "character": "Lelia",
+      "line": "Now, I need to get things ready for the next slot. Why don't you go and tell Emelio about the good impression his kebabs made."
+    },
+    {
+      "character": "Player",
+      "line": "Fine."
+    },
+    {
+      "character": "Lelia",
+      "line": "I don't think you need anything else, do you? Why don't you go and tell Emelio about the good impression his kebabs made."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks, I guess."
+    },
+    {
+      "character": "Emelio",
+      "line": "Nilsal, friend. Given that I've already served our first customers, I take it your trip to the Colosseum was a success?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I did run into a slight complication, but apart from that, it went very well."
+    },
+    {
+      "character": "Emelio",
+      "line": "You have done a great service to Varlamore, friend. Thanks to you, all here will be able to indulge in the joy that is kebabs. As thanks, I will offer you a special price for any kebabs you buy!"
+    },
+    {
+      "character": "Player",
+      "line": "Do I not get to share in any of the profits, given I helped set it all up?"
+    },
+    {
+      "character": "Emelio",
+      "line": "Sorry, friend, but I must prepare some more kebabs for our next customers! Until next time."
+    },
+    {
+      "character": "Player",
+      "line": "Right..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Alba",
+      "description": "Middle-aged female, Mediterranean accent, warm and practical tone, a hardworking farmer who is direct and knowledgeable about her trade."
+    },
+    {
+      "name": "Colosseum Announcer",
+      "description": "Adult male, theatrical and booming voice, dramatic Mediterranean accent, enthusiastic showman who hypes up the crowd with grandiose proclamations."
+    },
+    {
+      "name": "Emelio",
+      "description": "Adult male, enthusiastic Mediterranean accent, passionate and excitable tone, a food-loving entrepreneur brimming with optimism about his culinary ventures."
+    },
+    {
+      "name": "Lelia",
+      "description": "Adult female, Mediterranean accent, professional and somewhat dismissive tone, a no-nonsense Colosseum editor who has little patience for failed business ideas."
+    },
+    {
+      "name": "Lucas",
+      "description": "Adult male, Mediterranean accent, impatient and slightly grumpy tone, a regular pub-goer who was lured by the promise of free drinks and has better things to do."
+    },
+    {
+      "name": "Minotaur",
+      "description": "Deep male voice, slow and labored speech, simple vocabulary, a young but imposing beast who speaks in broken sentences and becomes enraged when threatened."
+    },
+    {
+      "name": "Renata",
+      "description": "Adult female, Mediterranean accent, cheerful and food-loving tone, an enthusiastic taste-tester who never turns down free food and speaks her mind freely."
+    },
+    {
+      "name": "Spice Merchant",
+      "description": "Adult male, Mediterranean accent with a hint of Kharidian influence, friendly and playful tone, a charismatic vendor who enjoys wordplay about his spicy wares."
+    },
+    {
+      "name": "Vincens",
+      "description": "Adult male, Mediterranean accent, thoughtful and measured tone, a curious food enthusiast who offers considered opinions on culinary matters."
+    }
+  ]
+}

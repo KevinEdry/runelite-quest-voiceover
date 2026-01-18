@@ -1,0 +1,1504 @@
+{
+  "branch": "quest/forgettable-tale",
+  "quest_name": "Forgettable Tale...",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hi there, Veldaban! Have you got any new quests for me?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Not at the moment, no,."
+    },
+    {
+      "character": "Player",
+      "line": "That's too bad, I'm starting to get a little bored."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Then perhaps you should try your hand at the Hemenster Fishing Contest."
+    },
+    {
+      "character": "Player",
+      "line": "Er, that's a bit of a random suggestion. Why would I go on a fishing contest?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "We dwarves don't know much about fishing, but a couple of our brothers at White Wolf Mountain want to win the competition."
+    },
+    {
+      "character": "Player",
+      "line": "Why would they want to do that if they don't know much about fishing?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Ah, you see, the trophy is made of pure gold. And these dwarves in particular love gold."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, sounds interesting, I'll check it out. White Wolf mountain, you said?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Yes, you can speak to a dwarf at either side of the mountain."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "! Have you heard?"
+    },
+    {
+      "character": "Player",
+      "line": "You mean, half the world has suddenly become a sailor?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "No, not that. It's the Red Axe!"
+    },
+    {
+      "character": "Player",
+      "line": "What have those grumpy little guys done now?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "They've left the city! They were already boycotting the trade floor, but now they've completely left the city."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear, is that serious?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "It's never happened before! At the moment it's unclear yet if they've left the Consortium as well. The directors are in turmoil!"
+    },
+    {
+      "character": "Player",
+      "line": "So what happens now?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Well... I may require your services again. Are you interested in hearing more?"
+    },
+    {
+      "character": "Player",
+      "line": "Very interested!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "We need some more information about what the Red Axe is up to."
+    },
+    {
+      "character": "Player",
+      "line": "Are you asking me to... spy on them? Isn't that treason?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "The other directors of the Consortium don't think so and are likely to expel the Red Axe completely anyway."
+    },
+    {
+      "character": "Player",
+      "line": "So where would you like me to go?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "That's the problem. We don't know where they moved their headquarters to. But we may have one lead..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "There is a dwarf, all the way to the northeast in Keldagrim-East. He talks about kebabs a lot. Don't suppose you've met him?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I do believe I have. Smashed glasses, wrecked house? Poor personal hygiene standards? Brother or cousin to that other drunken dwarf?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "That's him, poor fellow. He didn't always used to be like that."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't believe so."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "He lives in his brother's house."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Or was it his cousin?"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "In any case, he's a bit of a drunk these days. Well, when I say a bit, he's actually smashed all the time."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "But he seems to know something about the Red Axe for some odd reason. He speaks of them sometimes in one of his many rants."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Problem is, no one believes him. Everyone thinks he's completely mad. And perhaps they're right."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "But if he does indeed know something about the Red Axe or where their headquarters may be, we need to find out."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "What do you say then, ? Do you want to help the Black Guard with this?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like just the job for me!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Excellent, good luck to you in your quest! May Guthix protect you!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, here I am... at the drunken dwarf's relative's residence, who is also drunken. I wonder what drunken tales he can tell me."
+    },
+    {
+      "character": "Player",
+      "line": "No, I try to stay away from drunken dwarves."
+    },
+    {
+      "character": "Player",
+      "line": "Although I wish they would try to stay away from me too..."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Very well. Come back when you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Some other time, perhaps."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Very well."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "How goes the search for the Red Axe?"
+    },
+    {
+      "character": "Player",
+      "line": "Haven't found them yet, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "I need to know about the Red Axe..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "THE RED AXE WILL COME FOR YOU!"
+    },
+    {
+      "character": "Player",
+      "line": "What, what do you mean?"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I don't know... I c-c-c-can't think shtraight when I'm *hic* sober."
+    },
+    {
+      "character": "Player",
+      "line": "You don't look very sober to me!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "DON'T contradict me! Or I won't tell you about ehm... about the... whatever it is you wanted to know."
+    },
+    {
+      "character": "Player",
+      "line": "Have you ever considered to stop drinking? It's bad for you."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I'll shtop, right after you get me shome of the good shtuff!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Did you get me shome of the good stuff yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, here you go."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "What wash that? *hic* No no no, this ish noooooo good! I want some of the REALLY good stuff."
+    },
+    {
+      "character": "Player",
+      "line": "What's the REALLY good stuff then?"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Some of them original Kelda Stout! Ash blue ash the river! Ash strong ash ole Dondakan's rock. Ash foul tasting ash ash."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, er, I don't think that's good for you."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I know, but get me shome of it anyway. 'ere, have a seed."
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to do with a seed?"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "You silly human! Silly shilly silly *hic* hman. You need FOUR seeds, and grow them into hops."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Hop hop hop! *hic*"
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get the other seeds then?"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Some of me drinking buddies might have 'em. They're quite rare, you shee. Oh yesh, quite rare."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Drinking buddies. Yes, find me some drinking buddies. No, find the other seeds. Yes."
+    },
+    {
+      "character": "Player",
+      "line": "Right, I think what you're trying to say is... I need to find some other drunken dwarves, collect Kelda seeds from them until I have four, then grow them into hops so I can make Kelda stout."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "You're awfully shmart for a human!"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe that's just because I don't drink as much as you."
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Jusht pop down to the Laughing Miner and get some, will you?"
+    },
+    {
+      "character": "Player",
+      "line": "The Laughing Miner?"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "It'sh the pub to the... er. North. No, shouth. South."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Got me my Kelda stout?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, no. I'm still trying to collect all of the seeds."
+    },
+    {
+      "character": "Player",
+      "line": "I'm having some problems with the seeds..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Oh, you bothershome human. Here."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, no. I need to grow my seeds into hops first."
+    },
+    {
+      "character": "Barmaid",
+      "line": "Welcome to the Laughing Miner pub, human traveller."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like a Kelda stout please."
+    },
+    {
+      "character": "Barmaid",
+      "line": "Sorry, we've stopped serving those. The seeds were too hard to get."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, tell me about it."
+    },
+    {
+      "character": "Player",
+      "line": "Hold on a second there, I need your help!"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Help, from me? You musht be more drunk than I am."
+    },
+    {
+      "character": "Player",
+      "line": "No, I try not to get drunk, it's not good for you. But I do need help in brewing some beer."
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Mmmm, beer."
+    },
+    {
+      "character": "Player",
+      "line": "I need to brew Kelda stout, but I haven't got enough seeds to grow the hops."
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Mmmm, Kelda stout."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I can find any seeds?"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "I might... oh yeah, I jusht might have a sheed like that."
+    },
+    {
+      "character": "Player",
+      "line": "But you're not going to just give it to me, are you?"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "Alright then, what do you want for it?"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Lemme think... oh yesh. Get me...."
+    },
+    {
+      "character": "Player",
+      "line": "What?? Where am I going to get that!"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "You can at least make the effort."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any Kelda seeds?"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Where's my ehm... What wash it again? Oh yesh...."
+    },
+    {
+      "character": "Player",
+      "line": "Look, I've got it here!"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Shplendid! Give that to me please!"
+    },
+    {
+      "character": "Player",
+      "line": "Now how about those seeds?"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Well, I've got a Kelda hop seed right here! Pashed down generation after generation in my family..."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, really?"
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Nah, I'm just kidding! Here, have the seed, you won't catch me farming in shome dirt patch anyway!"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose you wouldn't ever have a proper job or do some decent hard work, no."
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "What wash that?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still looking for that."
+    },
+    {
+      "character": "Rowdy dwarf",
+      "line": "Look a little harder!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. I'm looking for some Kelda hop seeds."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Oh, we've got an expert here! Kelda shtout is delishious!"
+    },
+    {
+      "character": "Player",
+      "line": "It sounds ghastly to me. But I want to brew some to help out, errr, a friend of mine."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Oh, I've got a sheed you might like to borrow!"
+    },
+    {
+      "character": "Player",
+      "line": "Borrow?? How can I borrow a seed? I can hardly give it back once I've grown it."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Then we've got no deal!"
+    },
+    {
+      "character": "Player",
+      "line": "What if I offer you a drink?"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Ah, err, are you offering?"
+    },
+    {
+      "character": "Player",
+      "line": "I just thought I'd save myself the trouble of waiting for you to ask me this time."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "I've never ashked you for a drink in my life!"
+    },
+    {
+      "character": "Player",
+      "line": "No, but it seems just about everyone else has!"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Well it'sh hardly a big deal, ish it? We've got a huge shupply of dwarven shtouts right here."
+    },
+    {
+      "character": "Player",
+      "line": "That's not the point!"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "And a dwarven shtout against a Kelda hop seed? I'm not sure if that'sh a fair trade."
+    },
+    {
+      "character": "Player",
+      "line": "Look!"
+    },
+    {
+      "character": "Player",
+      "line": "Dwarven stout, here!"
+    },
+    {
+      "character": "Player",
+      "line": "Now do you want it or not? I'm not asking you again!"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Alright, you talked me into it."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Hmm, that shtout was delicious... here, have my invaluable Kelda hop sheed now, it wash my lasht one."
+    },
+    {
+      "character": "Player",
+      "line": "Er, well, I was going to offer you a dwarven stout, but I seem to have left it in my other pants."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Haha, you make me laugh human!"
+    },
+    {
+      "character": "Player",
+      "line": "Shtouts are just on the table over there, help yourshelf!"
+    },
+    {
+      "character": "Player",
+      "line": "No wait, I want to borrow it after all."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "You are going to give it back after you're done widdit, right?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course, of course! After I've grown my Kelda seeds into hops, then harvested the hops and brewed my Kelda stout... sure, I'll give you back your seed!"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "That'sh very deshent of you, human."
+    },
+    {
+      "character": "Player",
+      "line": "Only too happy to help!"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "Hey, err... wait... wait a second! Hey, wait!"
+    },
+    {
+      "character": "Player",
+      "line": "Err, yes?"
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "How are you goin' to give me back my sheed once you've made the Kelda stout? You'll be too drunk to find your way back here!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, don't worry... like I said, it's not for myself, it's for a friend."
+    },
+    {
+      "character": "Khorvak, a dwarven engineer",
+      "line": "That'sh alright then, here you go."
+    },
+    {
+      "character": "Player",
+      "line": "I'm still looking for some Kelda hop seeds."
+    },
+    {
+      "character": "Barman",
+      "line": "Yes? Can I help you with something?"
+    },
+    {
+      "character": "Barman",
+      "line": "We don't serve that sort of brew here, this is a high class establishment!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I'm sorry... perhaps you can tell me where to get some then?"
+    },
+    {
+      "character": "Barman",
+      "line": "If you insist. You might want to try the Laughing Miner in East. If anyone is selling that, it would be them."
+    },
+    {
+      "character": "Barman",
+      "line": "But I doubt it. Kelda stout is very rare these days. Fortunately."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll check it out, thanks."
+    },
+    {
+      "character": "Gauss",
+      "line": "A good day to you, sir!"
+    },
+    {
+      "character": "Player",
+      "line": "And to you!"
+    },
+    {
+      "character": "Player",
+      "line": "Say, you know a lot about beer, right?"
+    },
+    {
+      "character": "Gauss",
+      "line": "A fair bit if I say so myself, yes. What do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about Kelda stout?"
+    },
+    {
+      "character": "Gauss",
+      "line": "Ah, very rare that is! Very rare indeed. This place doesn't stock it. Don't think the Laughing Miner does either."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's what I heard, so I'm going to brew it myself."
+    },
+    {
+      "character": "Gauss",
+      "line": "Then you'll probably need some seeds!"
+    },
+    {
+      "character": "Player",
+      "line": "Have you got any?"
+    },
+    {
+      "character": "Gauss",
+      "line": "Have a toast to our good health with me and I'll tell you!"
+    },
+    {
+      "character": "Player",
+      "line": "Drinking is bad for you, but I'll make an exception this time."
+    },
+    {
+      "character": "Gauss",
+      "line": "Hurrah for the human!"
+    },
+    {
+      "character": "Player",
+      "line": "Cheers!"
+    },
+    {
+      "character": "Gauss",
+      "line": "Cheers!"
+    },
+    {
+      "character": "Gauss",
+      "line": "That was fun! Here, I've got one Kelda seed left. A sociable chap like you is more than welcome to it."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have anything suitable to toast with."
+    },
+    {
+      "character": "Gauss",
+      "line": "Then go get something from the bar!"
+    },
+    {
+      "character": "Player",
+      "line": "So did you have any Kelda seeds?"
+    },
+    {
+      "character": "Gauss",
+      "line": "Were you going to have a toast to our good health?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd better ask the gardener for permission to use this patch first."
+    },
+    {
+      "character": "Player",
+      "line": "I need some help."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Yes, ? What can a humble gardener like myself help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "I have four Kelda seeds here, but need some advice on growing them."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Marvelous, those seeds are quite rare don't you know!"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "First of all, you must remember that these seeds only grow underground. Sunlight is harmful to them, for some strange reason."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "There is a patch in the palace garden that you're more than welcome to use."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! Is there anything else I need to know?"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Just take care of the weed in the patch and plant your seeds. They'll grow into hops very quickly, if you're lucky. Kelda seeds have a remarkably fast grow rate."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you! Your advice is much appreciated!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I need some more help with this whole farming business."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Just get rid of the weeds in the patch, plant you seeds and wait for the hops to grow. The miracle of nature will do the rest!"
+    },
+    {
+      "character": "Player",
+      "line": "Do I have to wait here all this time then?"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Yes and no. Yes, you do have to wait, but no, you don't have to stay here. You can help out people in the city, for instance, there's always someone who needs help with an urgent job."
+    },
+    {
+      "character": "Player",
+      "line": "You mean the mining companies? I did jobs for them, they're not very profitable."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "No no, just people like shopkeepers and such, they're quite willing to teach you things in exchange for the jobs as well."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "But here, tell you what, I'll give you some seeds if you can deliver this letter to a friend in Falador."
+    },
+    {
+      "character": "Player",
+      "line": "Do I have to do that? I just want to grow my hops and get on with my quest for Veldaban."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Oh no, you don't have to do it all, I just thought you wanted something to do while you were waiting."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll deliver that letter for you."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Happy to hear that! His name is Elstan, he lives just south of Falador."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be right back!"
+    },
+    {
+      "character": "Player",
+      "line": "I'd rather just sit here and stare at this patch, thanks."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Very well. That can be quite relaxing, actually, I often do it myself."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Hello again, ! Have you been able to deliver that letter yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't been to Falador yet, but I will soon."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Much appreciated, !"
+    },
+    {
+      "character": "Player",
+      "line": "No, I've decided not to deliver it after all."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Oh, I'm sad to hear that."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Oh well, I'll see if I can find someone else instead."
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, I lost your letter."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "That's a little clumsy, ! Here, I've got a copy, please deliver this one instead."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. Are you Elstan?"
+    },
+    {
+      "character": "Elstan",
+      "line": "Why yes, I am. Have I become that well known?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've got a letter here from your friend in Keldagrim."
+    },
+    {
+      "character": "Elstan",
+      "line": "Ah, you mean Rind? Great to hear from the little fellow again. Can I see it please?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course."
+    },
+    {
+      "character": "Elstan",
+      "line": "Most enlightening. Please give him my regards next time you see him, I look forward to the next conference."
+    },
+    {
+      "character": "Player",
+      "line": "I've delivered your letter to Elstan, he told me to give you his regards."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Wonderful, that's just wonderful! Here, have these two seeds as a reward. They may not be Kelda hop seeds, but you should be able to grow a decent amount of herbs with them."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "How are you getting along with growing your seeds into hops, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, I'm not sure... let me check the patch."
+    },
+    {
+      "character": "Player",
+      "line": "I've grown my seeds into hops, but I have no idea what to do with them. Can you turn them into stout for me please?"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Haha, it doesn't quite work like that, I'm afraid!"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "You will have to bring your hops to a brewery."
+    },
+    {
+      "character": "Player",
+      "line": "Where's the nearest brewery then?"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Oh, there's one in Keldagrim-East, upstairs in the Laughing Miner. They brew their own beer they do."
+    },
+    {
+      "character": "Player",
+      "line": "How does it work though?"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "I'm sure someone there will be able to help you out, it's not my specialty you see."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, thanks a lot!"
+    },
+    {
+      "character": "Player",
+      "line": "I've grown my seeds into hops, but I seem to have mislaid them."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Ah! Fortunately I found some hops after your recent harvest. Here, I believe this belongs to you."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I want my Kelda shtout!"
+    },
+    {
+      "character": "Player",
+      "line": "My hops still need fermenting, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "I'm brewing my hops into Kelda stout, but it seems to be taking an awfully long time."
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Just have patience, my young friend! Have a wander around town, see if anyone has jobs for you!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm just so angry, my hops aren't fermenting at all. I want my Kelda stout!"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Now now, my young human friend! Are you sure about that?"
+    },
+    {
+      "character": "Rind the gardener",
+      "line": "Perhaps you should go back to the brewery, I wouldn't be surprised if your stout has fermented by now."
+    },
+    {
+      "character": "Player",
+      "line": "This stout seems absolutely vile and disgusting. Besides, I'm supposed to bring it to my drunken, kebab obsessed friend."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like a Kelda stout please"
+    },
+    {
+      "character": "Barmaid",
+      "line": "They're quite hard to come by, and I believe you've already got one."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes."
+    },
+    {
+      "character": "Barmaid",
+      "line": "Here, I found a little left over Kelda stout, just enough for a glass. Take it."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, for free?"
+    },
+    {
+      "character": "Barmaid",
+      "line": "I don't think I'd be able to sell it to anyone."
+    },
+    {
+      "character": "Barmaid",
+      "line": "So yes, go ahead."
+    },
+    {
+      "character": "Barman",
+      "line": "They're not easy to come by... and I believe you already have one?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, you're right."
+    },
+    {
+      "character": "Player",
+      "line": "Haven't got any on me, sorry."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Well hurry up! I'm dying of thirsht!"
+    },
+    {
+      "character": "Player",
+      "line": "I've got some Kelda stout right here. I just brewed it in the Laughing Miner!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Now there'sh a good human, gimme that!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure? This is pretty bad stuff."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "You want to hear about the Red Kebabsh or what? I mean... the Red Axe."
+    },
+    {
+      "character": "Player",
+      "line": "Here you go then."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Ooooh, THAT'sh the good shtuff!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "The Red Axe? You want to know about them, do you? Then let me tell you my tale. It is long and quite unforgettable..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "A long time ago, quite a while ago, yes... I resigned from my mining company, the Magenta Accordion."
+    },
+    {
+      "character": "Player",
+      "line": "The what? The Magenta Accordion? That's not a mining company!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "It is, it is! It's one of the many minor companies, not part of the Consortium."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, if you say so..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Right, so I had just left my company. I'd had enough of slaving away in the mines and decided to become an explorer. Oh yes, like my cousin."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I explored this old mine, you know, just south of Keldagrim. I think it's boarded up now. Some amazing things I saw there."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "First of all..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "...and then I nearly fell into the Abyss! But I..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "...so I had to run for my life, but then..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "...pink dragons..."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "...and I don't really remember anything after that. People think I'm a drunken fool."
+    },
+    {
+      "character": "Player",
+      "line": "That was very interesting! I'll ignore that part with the pink dragons though..."
+    },
+    {
+      "character": "Player",
+      "line": "But I shall investigate that tunnel immediately! South of the cart station, just south of the carts to White Wolf mountain?"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "If you shay sho... I just want to smash up shome shtuff now."
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I don't know anyshing about the Red Kebabs."
+    },
+    {
+      "character": "Player",
+      "line": "But that tale you told me!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "I don't know what you're *hic* talking 'bout."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'm on to something! Something about a disused mine tunnel southeast of town."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Happy to hear that, ! Please go and check it out!"
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me, can you tell me what's behind that boarded up tunnel to the south?"
+    },
+    {
+      "character": "Cart conductor",
+      "line": "Why, that part of the mines hasn't been used in a long time. I don't rightly know what you would find behind there."
+    },
+    {
+      "character": "Player",
+      "line": "I need to go through there. Can you open up the tunnel for me?"
+    },
+    {
+      "character": "Cart conductor",
+      "line": "I don't have the authority to do that kind of thing."
+    },
+    {
+      "character": "Player",
+      "line": "Then who do I talk to? I really need to get in."
+    },
+    {
+      "character": "Cart conductor",
+      "line": "I don't know. Perhaps you have an influential friend?"
+    },
+    {
+      "character": "Player",
+      "line": "I really need to go through that tunnel."
+    },
+    {
+      "character": "Cart conductor",
+      "line": "I can't help you, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "At least tell me who can, please?"
+    },
+    {
+      "character": "Cart conductor",
+      "line": "I don't know that either. Don't you have any influential friends in the city?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I may have a good lead now!"
+    },
+    {
+      "character": "Player",
+      "line": "But I need some boarding removed, I need to go through some disused mine cart tunnels."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "I see... I cannot make that decision, I'm afraid. Speak to the director of, he may be able to help you."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I'm a member now, they must be able to help!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Hello ! Have you seen the statue? It looks beautiful! It's a pity it's been overshadowed by the departure of the Red Axe."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me with a boarded up tunnel?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Ah, and what would be lurking behind this particular tunnel?"
+    },
+    {
+      "character": "Player",
+      "line": "I think it leads to something that might be related to the Red Axe."
+    },
+    {
+      "character": "[company name] Director",
+      "line": "The Red Axe!"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "This is indeed an important issue. They've gone too far this time. A major company willingly leaving the Consortium has never happened before."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me get the boarding removed then?"
+    },
+    {
+      "character": "[company name] Director",
+      "line": "Forthwith, forthwith! I'll order the removal at once!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! I'll investigate the tunnel immediately!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "And? What of the Red Axe?"
+    },
+    {
+      "character": "Player",
+      "line": "I will have lots to tell you soon, Veldaban!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Happy to hear that!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm deep underground now, but how am I supposed to get across here?"
+    },
+    {
+      "character": "Player",
+      "line": "This junction is blocked. I'd better go back to the start and find some way to make it go left or right."
+    },
+    {
+      "character": "Player",
+      "line": "I've come to a dead end. I'd better get back to the start."
+    },
+    {
+      "character": "Red Axe Henchman",
+      "line": "What's the new plan?"
+    },
+    {
+      "character": "Ogre shaman",
+      "line": "Me dead human!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "No, not yet. He may still prove useful to us."
+    },
+    {
+      "character": "Red Axe Henchman",
+      "line": "My axe on his head would be more useful!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "Forget about the human and the statue for now. Our experiments are more important."
+    },
+    {
+      "character": "Red Axe Henchman",
+      "line": "We are nearly ready with our next test."
+    },
+    {
+      "character": "Ogre shaman",
+      "line": "More little fire lookers?"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "This time they'll survive, I hope."
+    },
+    {
+      "character": "Red Axe Henchman",
+      "line": "Our slaves are too weak, it will never work."
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "Yes, things would have been so much easier with the statue."
+    },
+    {
+      "character": "Red Axe Henchman",
+      "line": "It was a great plan! Sabotaging the base of the statue and bribing that boatman to crash into it!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "And we would have gotten away with it too, if it wasn't for that pesky human."
+    },
+    {
+      "character": "Player",
+      "line": "Pesky human, huh? Well, I think I have enough info now. I'd better explore the rest of these mines."
+    },
+    {
+      "character": "Player",
+      "line": "I should stay and listen for a bit longer..."
+    },
+    {
+      "character": "Player",
+      "line": "Looks like another chasm I need to cross."
+    },
+    {
+      "character": "Player",
+      "line": "I should explore this room fully before moving on. I should be able to find out a little bit more."
+    },
+    {
+      "character": "Player",
+      "line": "Statistical data, salary structures, shopping lists... no, I don't think there's anything interesting here."
+    },
+    {
+      "character": "Player",
+      "line": "What the Guthix is this? Another chasm? And even more tracks!"
+    },
+    {
+      "character": "Player",
+      "line": "There's the Red Axe director again!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "How did the experiment go?"
+    },
+    {
+      "character": "Colonel Grimsson",
+      "line": "The test subjects are still alive, director. They will suffice as soldiers."
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "Excellent! We are improving. Laneel!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "Return to Arposandra and tell your superiors we've had a partial success."
+    },
+    {
+      "character": "Gnome emissary",
+      "line": "I will tell them, but I'd like to see some of your test subjects first, if I may."
+    },
+    {
+      "character": "Colonel Grimsson",
+      "line": "Look, here comes the first group!"
+    },
+    {
+      "character": "Red Axe Director",
+      "line": "Behold the power of Zamorak!"
+    },
+    {
+      "character": "Player",
+      "line": "Chaos dwarves!!!"
+    },
+    {
+      "character": "Player",
+      "line": "I must tell Veldaban!!!"
+    },
+    {
+      "character": "Grunsh",
+      "line": "Lookings likes we's finding da spying creatures'ies!"
+    },
+    {
+      "character": "Player",
+      "line": "Nooooooo!"
+    },
+    {
+      "character": "Player",
+      "line": "Er, what? Where am I? Errrrr... I must tell Veldaban... something. Yes... ehm. I don't remember what though. Errr..."
+    },
+    {
+      "character": "Player",
+      "line": "Veldaban, I must tell you something incredibly important!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "What is it, ?"
+    },
+    {
+      "character": "Player",
+      "line": "I must tell you about... about..."
+    },
+    {
+      "character": "Player",
+      "line": "...about my incredible craving for a kebab. Mmm, kebabs. A kebab and a beer, that sounds great right now."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Errr, are you alright? Don't you have any important information about the Red Axe?"
+    },
+    {
+      "character": "Player",
+      "line": "Mmm, yes, I'll be perfectly alright... just after I've had my beer and a kebab. Yes. I'll have a beer and a kebab in the Laughing Miner. Yum!"
+    },
+    {
+      "character": "Player",
+      "line": "Watch out kebabs, I come for you!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Poor, I think you've been bewitched."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": ", I thought you had something important to tell me?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes... yes... Red... ehm. Red..."
+    },
+    {
+      "character": "Player",
+      "line": "Red Kebab? Red Ale?"
+    },
+    {
+      "character": "Player",
+      "line": "I will feast on kebabs and beer! Ahahaha!"
+    },
+    {
+      "character": "Player",
+      "line": "I knew it were you matey! 'Ere, have some of the good stuff!"
+    },
+    {
+      "character": "Drunken Dwarf",
+      "line": "Very kind ob you, !"
+    },
+    {
+      "character": "Nolar",
+      "line": "Tell us another tale, !"
+    },
+    {
+      "character": "Factory Worker",
+      "line": "Tell us more about your kebabs!"
+    },
+    {
+      "character": "Gauss",
+      "line": "Haha, kebabs!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, these kebabsh, right? *hic* A whole g-g-group of kebabs came marching in! I'm telling you! Marching in line!"
+    },
+    {
+      "character": "Player",
+      "line": "And then, I'll tell you... Then! Ehm..."
+    },
+    {
+      "character": "Player",
+      "line": "Then I'll have another drink!"
+    },
+    {
+      "character": "Colonel Grimsson",
+      "line": "Ha, the spell has worked its magic again."
+    },
+    {
+      "character": "Colonel Grimsson",
+      "line": "No one will believe that drunken fool now!"
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "What happened, did you finish your assignment?"
+    },
+    {
+      "character": "Player",
+      "line": "I think... I think I must have. It's so hard to remember."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Please, try to!"
+    },
+    {
+      "character": "Player",
+      "line": "I have this terrible headache."
+    },
+    {
+      "character": "Player",
+      "line": "I don't know, I think something terrible has happened, but everyone seems to think I'm an idiot for some reason..."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "Don't worry, I believe you. You must have been put under a spell of some sort to make you forget."
+    },
+    {
+      "character": "Commander Veldaban",
+      "line": "I suppose we'll just have to wait and see what happens."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Barmaid",
+      "description": "Middle-aged female dwarf, Scottish accent, professional and welcoming tone, a hardworking pub server who takes pride in her establishment."
+    },
+    {
+      "name": "Barman",
+      "description": "Middle-aged male dwarf, Scottish accent, snobbish and slightly condescending tone, runs a high-class establishment and looks down on common drinks."
+    },
+    {
+      "name": "Cart conductor",
+      "description": "Adult male dwarf, Scottish accent, professional and matter-of-fact tone, a transit worker focused on safety and following proper procedures."
+    },
+    {
+      "name": "Colonel Grimsson",
+      "description": "Middle-aged male dwarf, Scottish accent, harsh and aggressive tone with barely restrained rage, a battle-scarred military veteran turned violent enforcer."
+    },
+    {
+      "name": "Commander Veldaban",
+      "description": "Middle-aged male dwarf, Scottish accent, authoritative yet warm-hearted tone, a principled military commander who genuinely cares about justice and his city."
+    },
+    {
+      "name": "Drunken Dwarf",
+      "description": "Adult male dwarf, Scottish accent, heavily slurred and rambling speech, an incoherent drunk obsessed with kebabs who occasionally reveals hidden truths."
+    },
+    {
+      "name": "Elstan",
+      "description": "Middle-aged male human, English accent, friendly and approachable tone, a passionate gardener with practical expertise and genuine warmth."
+    },
+    {
+      "name": "Factory Worker",
+      "description": "Adult male dwarf, Scottish accent, tired and straightforward tone, a hardworking blue-collar laborer with little social standing."
+    },
+    {
+      "name": "Gauss",
+      "description": "Adult male dwarf, Scottish accent, cheerful and sociable tone, a wealthy beer enthusiast who maintains good humor despite heavy drinking."
+    },
+    {
+      "name": "Gnome emissary",
+      "description": "Adult male gnome, high-pitched formal voice, measured and businesslike tone, a diplomatic representative maintaining professional composure while hiding ulterior motives."
+    },
+    {
+      "name": "Grunsh",
+      "description": "Adult male ogre, deep gravelly voice with slow deliberate speech, surprisingly articulate for an ogre, a powerful mage with menacing intelligence."
+    },
+    {
+      "name": "Khorvak, a dwarven engineer",
+      "description": "Adult male dwarf, Scottish accent, slurred and unsteady speech, a drunken engineer who has trouble standing upright but remains friendly."
+    },
+    {
+      "name": "Nolar",
+      "description": "Adult male dwarf, Scottish accent, pragmatic and business-minded tone, a crafty merchant focused on his trade with no-nonsense professionalism."
+    },
+    {
+      "name": "Ogre shaman",
+      "description": "Adult male ogre, deep rumbling voice with simple broken speech, dim-witted and brutish with violent tendencies."
+    },
+    {
+      "name": "Red Axe Director",
+      "description": "Elderly male dwarf, Scottish accent, refined yet sinister tone, a power-hungry villain with theatrical flair who schemes for domination."
+    },
+    {
+      "name": "Red Axe Henchman",
+      "description": "Adult male dwarf, Scottish accent, gruff and aggressive tone, a loyal enforcer eager for violence and quick to suggest brutal solutions."
+    },
+    {
+      "name": "Rind the gardener",
+      "description": "Elderly male dwarf, Scottish accent, patient and scholarly tone, a knowledgeable gardener with deep expertise in underground flora and city history."
+    },
+    {
+      "name": "Rowdy dwarf",
+      "description": "Adult male dwarf, Scottish accent, loud slurred and obnoxious tone, a drunk troublemaker who was fired for wearing the wrong hat."
+    },
+    {
+      "name": "[company name] Director",
+      "description": "Middle-aged male dwarf, Scottish accent, formal and authoritative tone, a Consortium director willing to help investigate the Red Axe situation."
+    }
+  ]
+}

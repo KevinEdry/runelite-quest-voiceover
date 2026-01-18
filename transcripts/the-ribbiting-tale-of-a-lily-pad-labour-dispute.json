@@ -1,0 +1,976 @@
+{
+  "branch": "quest/the-ribbiting-tale-of-a-lily-pad-labour-dispute",
+  "quest_name": "The Ribbiting Tale of a Lily Pad Labour Dispute",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "You! I bet you're with them!"
+    },
+    {
+      "character": "Player",
+      "line": "Them?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "The frogs!"
+    },
+    {
+      "character": "Player",
+      "line": "Frogs? What are you on about?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Ah, I see. So you're going to play dumb are you? Well, be gone! I won't fall for your lies!"
+    },
+    {
+      "character": "Player",
+      "line": "Right..."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Hey! I didn't say you could touch my farming patch, did I?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Ah, I see. So you're going to play dumb are you? Well I won't fall for your lies!"
+    },
+    {
+      "character": "Player",
+      "line": "I promise I have no idea what you're on about. If you explain, maybe I can help you?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "It's those frogs on the other side of the oasis! They're out to get us! All of us! If someone doesn't kill them all, we'll be living our lives as their slaves!"
+    },
+    {
+      "character": "Player",
+      "line": "I see... How about I head over there and take a look?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "You want to go near them? Well then you're a fool! I will watch from a safe distance as they dine on your corpse!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay then... Well provided that doesn't happen, I'll be back shortly to let you know what I've found."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'm just going to go now. You clearly have some... issues that you need to get on top of."
+    },
+    {
+      "character": "Marcellus",
+      "line": "That's it! You walk away! Just remember, I know the truth!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "You didn't go near those frogs yet, did you?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Marcellus",
+      "line": "I can tell. If you had, you'd be dead!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay then... Well assuming that I survive, I'll be back shortly to let you know what I've found."
+    },
+    {
+      "character": "Frog",
+      "line": "Oh, hello there."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on... You can talk?"
+    },
+    {
+      "character": "Frog",
+      "line": "Well of course we can talk, silly. Why wouldn't we be able to?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I guess I'd just never considered it before..."
+    },
+    {
+      "character": "Frog",
+      "line": "We live in a world where giant lizards with wings fly around and expel highly combustible fluids from their throats, but you never considered a frog could talk?"
+    },
+    {
+      "character": "Player",
+      "line": "Well when you put it like that..."
+    },
+    {
+      "character": "Frog",
+      "line": "Well now that we've established our remarkable linguistic capabilities, how about some introductions. I'm Sue and this is Gary. Over there you have Dave and Jane, and good old Mr Lonesome over there is Cuthbert."
+    },
+    {
+      "character": "Player",
+      "line": "Pleased to meet you. I'm."
+    },
+    {
+      "character": "Sue",
+      "line": "Well, what can we do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well there's a guy over there that thinks you're all evil."
+    },
+    {
+      "character": "Sue",
+      "line": "Evil? We're not evil! We're just on strike."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, what?"
+    },
+    {
+      "character": "Sue",
+      "line": "We're on strike. Fair work requires fair treatment, and we've had enough of his nonsense."
+    },
+    {
+      "character": "Player",
+      "line": "But... What do you do? What are you striking from?"
+    },
+    {
+      "character": "Sue",
+      "line": "Oh... Well I can't really remember. It's been so long that I've gone and totally forgotten. Hey, Gary, why are we on strike?"
+    },
+    {
+      "character": "Gary",
+      "line": "No idea. I've been on strike my whole life, just like my pa, and his pa before him. At this point it's kind of a family tradition."
+    },
+    {
+      "character": "Gary",
+      "line": "I know it's because of him though. That monster spends every day mistreating us. If he ever wants to see any work from us, he needs to start showing some basic respect."
+    },
+    {
+      "character": "Sue",
+      "line": "Too right, Gary, too right. What reason does he have for thinking we're evil anyway?"
+    },
+    {
+      "character": "Gary",
+      "line": "Well he's one of them capitalists, isn't he. They see a worker demanding fair rights and they go loopy. Can't have anything getting in the way of their profit margins!"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, he never mentioned anything about work. He seems to think you're out to overthrow humanity."
+    },
+    {
+      "character": "Sue",
+      "line": "Overthrow humanity? What a load of nonsense! We love humans! Gary here had one as a pet once."
+    },
+    {
+      "character": "Gary",
+      "line": "Ah, those were the days. I always loved my Sentia. Such a shame about the accident..."
+    },
+    {
+      "character": "Sue",
+      "line": "It wasn't your fault, Gary. It wasn't your fault. Anyway, if this chap thinks we're plotting to overthrow humanity, what's he planning to do about it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not too sure. He did mention at one point something about killing you all..."
+    },
+    {
+      "character": "Sue",
+      "line": "He wants to what?!"
+    },
+    {
+      "character": "Gary",
+      "line": "He wants to kill us?! Well now I think we should overthrow humanity!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait... No..."
+    },
+    {
+      "character": "Sue",
+      "line": "Yeah, we've been treated like second class citizens for too long. The revolution starts today!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! How about peace?"
+    },
+    {
+      "character": "Sue",
+      "line": "Peace? Interesting... I suppose peace could be fun. There would need to be some assurances though. Wouldn't want the guy going back on his word."
+    },
+    {
+      "character": "Player",
+      "line": "Right... Well how about I go and ask him what conditions he'd be willing to accept."
+    },
+    {
+      "character": "Sue",
+      "line": "Well that just sounds swell!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back shortly."
+    },
+    {
+      "character": "Sue",
+      "line": "Hello again! Have you found out what peace conditions the grumpy guts has?"
+    },
+    {
+      "character": "Sue",
+      "line": "Well don't go taking too long."
+    },
+    {
+      "character": "Cuthbert",
+      "line": "I hear you're the one handling the peace talks. You will fail. There is no peace to be had with that man."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'd still like to give it a good go."
+    },
+    {
+      "character": "Cuthbert",
+      "line": "So be it."
+    },
+    {
+      "character": "Dave",
+      "line": "Hello there! You're the one sorting out the peace talks, right?"
+    },
+    {
+      "character": "Player",
+      "line": "That's me."
+    },
+    {
+      "character": "Jane",
+      "line": "Good luck!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "The frogs didn't kill you? This is unexpected."
+    },
+    {
+      "character": "Player",
+      "line": "Well I had a chat with them, and they're open to engaging in some peace talks."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Peace? The hypocrisy! After everything they've done they think peace is an option? Absolutely not!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... But what exactly have they done that means peace isn't an option?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Oh... well..."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Well, you know..."
+    },
+    {
+      "character": "Marcellus",
+      "line": "They just..."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Er..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Look, I can't remember. But they must have done something!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Tetamo! I know! My brain!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I'm starting to think that's where the problem lies as well."
+    },
+    {
+      "character": "Marcellus",
+      "line": "They must have taken my brain! That's why I can't remember! You tell them I want my brain back!"
+    },
+    {
+      "character": "Player",
+      "line": "So you'd be willing to negotiate peace in exchange for your... brain?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Negotiate? I don't negotiate with monsters!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think they're monsters. They actually seem somewhat friendly."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Well do they have a leader?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Well you go tell them that I'll only negotiate with their leader."
+    },
+    {
+      "character": "Player",
+      "line": "Every day I find myself further questioning my life choices. Fine. I'll go and ask them about their leader."
+    },
+    {
+      "character": "Marcellus",
+      "line": "I'm only going to negotiate with the leader of those monsters. You go tell them that!"
+    },
+    {
+      "character": "Player",
+      "line": "Yup, I'm sorting it."
+    },
+    {
+      "character": "Player",
+      "line": "Sort of. He seems open to the idea of peace talks, but he will only negotiate with your leader. Do you have a leader?"
+    },
+    {
+      "character": "Sue",
+      "line": "Oh, well not really."
+    },
+    {
+      "character": "Gary",
+      "line": "Nah, we're more about collective leadership. We did consider starting a union at one point, but Dave messed up the paperwork."
+    },
+    {
+      "character": "Player",
+      "line": "Well would you be interested in having a leader?"
+    },
+    {
+      "character": "Sue",
+      "line": "A change to our political structure? That's quite the thing to undergo."
+    },
+    {
+      "character": "Gary",
+      "line": "Yeah, especially in times of war. Still, maybe we need to mix things up. We've been saying for a while now that we've been stagnating. Perhaps this is just the thing we need."
+    },
+    {
+      "character": "Sue",
+      "line": "There would need to be an election of course."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have a process for that sort of thing?"
+    },
+    {
+      "character": "Sue",
+      "line": "Absolutely! We use a first past the post system where everyone votes based on a candidate's hopping capabilities."
+    },
+    {
+      "character": "Player",
+      "line": "Come again?"
+    },
+    {
+      "character": "Sue",
+      "line": "Oh it's all very simple. The candidates perform their finest hop and everyone else votes on which they thought was best. The one with the most votes wins!"
+    },
+    {
+      "character": "Player",
+      "line": "I see. Well, I don't, but for the sake of my sanity, let's say I do. Shall we call an election then?"
+    },
+    {
+      "character": "Sue",
+      "line": "Sounds like a wonderful idea! There is just the small matter of Cuthbert..."
+    },
+    {
+      "character": "Player",
+      "line": "Cuthbert?"
+    },
+    {
+      "character": "Sue",
+      "line": "That's right. You see, while you were gone, we told the others about this whole killing us all business. Now, I must admit, emotions did run a bit high, especially for Cuthbert."
+    },
+    {
+      "character": "Sue",
+      "line": "Once he learns about the election, he will almost definitely want to put himself forward, and I'm afraid he has little interest in peace."
+    },
+    {
+      "character": "Gary",
+      "line": "I mean, can you blame the guy? Cuthbert was once the leader of the Frogs for Humanity society. The guy loved humans, but after what they did to his favourite plant..."
+    },
+    {
+      "character": "Sue",
+      "line": "Some wounds never heal..."
+    },
+    {
+      "character": "Player",
+      "line": "So you're saying Cuthbert can't win the election?"
+    },
+    {
+      "character": "Sue",
+      "line": "The idea of rigging an election is one that fills my democracy-loving heart with terror, but yes, we will need to do that."
+    },
+    {
+      "character": "Gary",
+      "line": "It's okay if we're the ones to do it, right?"
+    },
+    {
+      "character": "Sue",
+      "line": "Not in the slightest, but I do love that positive attitude. Besides, the alternative is all-out war with humanity."
+    },
+    {
+      "character": "Player",
+      "line": "Which we very much need to avoid! So how do we ensure Cuthbert can't win the election?"
+    },
+    {
+      "character": "Sue",
+      "line": "The hop-off will see the candidates hop from the shore to a lily pad. Now, if Cuthbert's lily pad had an unfortunate hole in it..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay... I guess I'm off to sabotage a lily pad."
+    },
+    {
+      "character": "Sue",
+      "line": "Just be careful of Dave and Jane. They're sticklers for the rules, I'm afraid. You can't let them see you."
+    },
+    {
+      "character": "Sue",
+      "line": "Hello again! How are things going with that lily pad sabotage?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Cuthbert",
+      "line": "It seems we are to have an election. Know that once I win, our war with humanity will be unlike anything ever seen."
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Cuthbert",
+      "line": "You should go. Go and be with your loved ones. Hold them close while you can. Soon you will never have that luxury again."
+    },
+    {
+      "character": "Jane",
+      "line": "Hey, don't be going near those lily pads. We've got them all set up ready for the hop-off."
+    },
+    {
+      "character": "Dave",
+      "line": "Hello there! Have you heard about the election? Isn't it thrilling?"
+    },
+    {
+      "character": "Player",
+      "line": "That is definitely a word that could be used to describe this situation. Anyway, speaking of the election, I need to inspect the lily pads."
+    },
+    {
+      "character": "Jane",
+      "line": "No can do. We've got them all set up nicely. Can't be letting anyone mess things up, can we?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course not, but don't you think it would be wise for a third party just to give them a quick once over? Besides, the two of you deserve a break."
+    },
+    {
+      "character": "Dave",
+      "line": "Well I really could do with a bit of a rest, not to mention the fact that I'm starving. Still, the lily pads are our duty. It would be wrong of us to let someone else touch them."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... You said you were hungry? Out of interest, what would you fancy? For when the election is out of the way, of course."
+    },
+    {
+      "character": "Jane",
+      "line": "Oh I'd kill for a nice tasty orange!"
+    },
+    {
+      "character": "Player",
+      "line": "An orange? I didn't know frogs ate oranges..."
+    },
+    {
+      "character": "Dave",
+      "line": "Yeah most people think we just eat flies. We do, and we love them, but sometimes you find that you've just had enough flies and fancy something more exotic."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you get your oranges?"
+    },
+    {
+      "character": "Jane",
+      "line": "They grow on trees around here, like this one right next to us. From time to time an orange will fall off, but the really good ones are the ones at the top."
+    },
+    {
+      "character": "Dave",
+      "line": "Just a shame we can't reach those ones..."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm..."
+    },
+    {
+      "character": "Player",
+      "line": "Remind me, where do you get your oranges?"
+    },
+    {
+      "character": "Jane",
+      "line": "Look! Oranges!"
+    },
+    {
+      "character": "Dave",
+      "line": "Can't stop to talk! There's oranges to be had!"
+    },
+    {
+      "character": "Player",
+      "line": "It's all sorted."
+    },
+    {
+      "character": "Sue",
+      "line": "And just in time as well. The hop-off is about to begin."
+    },
+    {
+      "character": "Player",
+      "line": "So who's Cuthbert's competition?"
+    },
+    {
+      "character": "Gary",
+      "line": "Sue of course!"
+    },
+    {
+      "character": "Sue",
+      "line": "Don't worry. Once I win, I'll make sure these peace talks go nice and smoothly."
+    },
+    {
+      "character": "Player",
+      "line": "Then shall we get started?"
+    },
+    {
+      "character": "Sue",
+      "line": "Let's!"
+    },
+    {
+      "character": "Gary",
+      "line": "Welcome, one and all, to what is bound to be a thrilling frog hop-off! The stakes are high for this one, and indeed the future of our entire world may well be at stake."
+    },
+    {
+      "character": "Gary",
+      "line": "Our first contender for today is Sue! Let's see what she's got!"
+    },
+    {
+      "character": "Gary",
+      "line": "What a corker of a hop! Excellent work!"
+    },
+    {
+      "character": "Gary",
+      "line": "Next up, we have Cuthbert!"
+    },
+    {
+      "character": "Gary",
+      "line": "Well, he's dead!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, what?!"
+    },
+    {
+      "character": "Gary",
+      "line": "Yeah, totally slipped my mind, but he never learnt how to swim!"
+    },
+    {
+      "character": "Player",
+      "line": "A frog that never learnt to swim? Are you serious right now?!"
+    },
+    {
+      "character": "Gary",
+      "line": "Afraid so! Cuthbert is now as dead as an Old One. With only one contender left standing, I can now announce that Sue is the winner!"
+    },
+    {
+      "character": "Sue",
+      "line": "Well now that's all sorted, we can get these peace talks underway!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't believe we killed him..."
+    },
+    {
+      "character": "Gary",
+      "line": "Ah, don't worry yourself. Something like this was bound to happen at some point. It's his fault really. Imagine never learning to swim!"
+    },
+    {
+      "character": "Sue",
+      "line": "Exactly! So what does our foe want?"
+    },
+    {
+      "character": "Player",
+      "line": "He thinks you've stolen his brain and would like it back."
+    },
+    {
+      "character": "Gary",
+      "line": "His brain? But we don't have his brain..."
+    },
+    {
+      "character": "Player",
+      "line": "Well is there anything else you can offer him?"
+    },
+    {
+      "character": "Sue",
+      "line": "Oh... Er... Not really."
+    },
+    {
+      "character": "Player",
+      "line": "There must be something."
+    },
+    {
+      "character": "Gary",
+      "line": "It's not like we really do much. We're frogs. All we do is eat flies, along with the odd orange."
+    },
+    {
+      "character": "Player",
+      "line": "Well maybe we can still work with that. I'm sure our friend doesn't like flies. Maybe you could deal with the flies around here for him?"
+    },
+    {
+      "character": "Sue",
+      "line": "Sounds like a job for us! Though we'd of course need something in return."
+    },
+    {
+      "character": "Player",
+      "line": "Which is?"
+    },
+    {
+      "character": "Sue",
+      "line": "Fair pay for fair work, of course. If not, we'll go on strike! We're good at going on strike."
+    },
+    {
+      "character": "Player",
+      "line": "And how would you like to be paid?"
+    },
+    {
+      "character": "Sue",
+      "line": "Well normally I'd say in flies, but it seems we've got that covered."
+    },
+    {
+      "character": "Player",
+      "line": "Oranges?"
+    },
+    {
+      "character": "Sue",
+      "line": "Oranges! Perfect!"
+    },
+    {
+      "character": "Gary",
+      "line": "Oh, and orange juice as well! Straight from the tap!"
+    },
+    {
+      "character": "Player",
+      "line": "From the tap? But orange juice doesn't..."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, never mind. Let's not complicate things further. I'll take these terms to him and see what he says."
+    },
+    {
+      "character": "Gary",
+      "line": "Hello! How go the peace talks?"
+    },
+    {
+      "character": "Sue",
+      "line": "Remember, we kill flies, we get oranges. That's the deal."
+    },
+    {
+      "character": "Dave",
+      "line": "Can you believe Cuthbert died? Such a shame."
+    },
+    {
+      "character": "Jane",
+      "line": "Sue will be a great leader though. I can't wait to see what she does first!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Have you found the leader of those frogs? I'm only going to negotiate with the leader!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, the frogs have selected a leader and she has sent me with her terms."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Well what are they?"
+    },
+    {
+      "character": "Player",
+      "line": "The frogs will kill the flies around the oasis and in return they'd like you to pay them in oranges."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Flies? But what have the flies done wrong?"
+    },
+    {
+      "character": "Player",
+      "line": "Well don't they spread disease and eat your food?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Yes, but so did my brother, and I never wanted him dead. What else have the flies been doing?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know! You seemed convinced the frogs were out to get you before, maybe the flies are as well!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "The flies are out to get me? Is it really true?"
+    },
+    {
+      "character": "Player",
+      "line": "You know what, sure. The flies want you dead and they plan to do it tonight."
+    },
+    {
+      "character": "Marcellus",
+      "line": "The monsters!"
+    },
+    {
+      "character": "Player",
+      "line": "So are you willing to make this deal with the frogs?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Not yet. First I must see proof of this horrific betrayal by the flies. Find this proof for me, and I will agree to the deal."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe my whole life is just one big nightmare. Fine, I'll find this proof."
+    },
+    {
+      "character": "Marcellus",
+      "line": "You're back. Do you have the proof?"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Then return to me once you have it."
+    },
+    {
+      "character": "Sue",
+      "line": "Hello! How go the peace talks?"
+    },
+    {
+      "character": "Player",
+      "line": "He's open to the proposals, but he wants proof that the flies are against him."
+    },
+    {
+      "character": "Gary",
+      "line": "He doesn't half complain, does he? Maybe it would have just been easier to kill him..."
+    },
+    {
+      "character": "Sue",
+      "line": "How about you steal a prized possession of his and plant it on the flies."
+    },
+    {
+      "character": "Player",
+      "line": "Oh good, now we're adding theft to today's crimes."
+    },
+    {
+      "character": "Gary",
+      "line": "Well it could be worse. It could be murder!"
+    },
+    {
+      "character": "Player",
+      "line": "We already committed murder."
+    },
+    {
+      "character": "Gary",
+      "line": "Nah, that wasn't murder! Manslaughter at best! Or would that be frogslaughter..."
+    },
+    {
+      "character": "Sue",
+      "line": "It had to be done. Now, why don't you go and find something to steal."
+    },
+    {
+      "character": "Player",
+      "line": "Fine."
+    },
+    {
+      "character": "Sue",
+      "line": "Hello! Did you find something to steal?"
+    },
+    {
+      "character": "Gary",
+      "line": "Keep looking. I'm sure you'll find something suitable."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have a plushy here of his."
+    },
+    {
+      "character": "Gary",
+      "line": "Perfect! Shove it in that big pile of dung the flies keep gathering around and then go and let him know."
+    },
+    {
+      "character": "Player",
+      "line": "Poo! How wonderful!"
+    },
+    {
+      "character": "Sue",
+      "line": "Hello! How goes the planting of evidence?"
+    },
+    {
+      "character": "Player",
+      "line": "It's all done, but I do now have a little problem to deal with. I'll be back."
+    },
+    {
+      "character": "Player",
+      "line": "It's all done."
+    },
+    {
+      "character": "Gary",
+      "line": "Well what are you waiting for? Time to go and let him know!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I do. You see that big pile of dung the flies are gathered around? I'm sure I saw something belonging to you in it."
+    },
+    {
+      "character": "Marcellus",
+      "line": "It cannot be?! Wait here! I must check at once!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "I see my worst fears have come to pass. This is dark day not just for me, but for all of humanity."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Return to the frogs. Tell them we have a deal."
+    },
+    {
+      "character": "Marcellus",
+      "line": "Leave me. I need time to contemplate this great loss. Return to the frogs. Tell them we have a deal."
+    },
+    {
+      "character": "Dave",
+      "line": "I hear the peace talks are going well. We might be close to ending the conflict with that nasty human."
+    },
+    {
+      "character": "Jane",
+      "line": "I do hope so. This war is starting to take a toll on all of us. We had to start rationing the oranges!"
+    },
+    {
+      "character": "Sue",
+      "line": "Hello!"
+    },
+    {
+      "character": "Player",
+      "line": "I have good news! The terms have been accepted."
+    },
+    {
+      "character": "Sue",
+      "line": "Wonderful! Peace at last!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, and it turns out Cuthbert was still alive after all."
+    },
+    {
+      "character": "Gary",
+      "line": "Cuthbert's alive? Amazing!"
+    },
+    {
+      "character": "Player",
+      "line": "Er... no. He's now properly dead."
+    },
+    {
+      "character": "Gary",
+      "line": "Oh..."
+    },
+    {
+      "character": "Sue",
+      "line": "War always has casualties. We will forever remember Cuthbert's sacrifice."
+    },
+    {
+      "character": "Gary",
+      "line": "Well said! Today will be a day remembered by all of frog-kind, and much of it is thanks to you,."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. I only wish I had the ability to scrub the memories of all this from my brain, but as I can't, I guess I now have to carry them forever."
+    },
+    {
+      "character": "Gary",
+      "line": "Have you tried soap and water?"
+    },
+    {
+      "character": "Player",
+      "line": "Oddly enough, no."
+    },
+    {
+      "character": "Sue",
+      "line": "Oh don't be so negative. You've done a good thing, ! Now go. Go with the blessing of the frogs, and know that you really are a true hero!"
+    },
+    {
+      "character": "Marcellus",
+      "line": "Hello again. You helped forge my alliance with the frogs against those disgusting flies. Please feel free to use my farming patch in return. It's the least I can do."
+    },
+    {
+      "character": "Sue",
+      "line": "Look who it is!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. How are things going?"
+    },
+    {
+      "character": "Gary",
+      "line": "Amazing! We get paid to eat all day, and our payment is more food. Life has never been better!"
+    },
+    {
+      "character": "Sue",
+      "line": "Too right, Gary! This is much better than being on strike!"
+    },
+    {
+      "character": "Player",
+      "line": "Glad to hear it."
+    },
+    {
+      "character": "Dave",
+      "line": "Today is a good day to be a frog!"
+    },
+    {
+      "character": "Jane",
+      "line": "It sure is. Now that we have peace, life is at an all time high!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Cuthbert",
+      "description": "Male frog with a deep, brooding voice, bitter and ominous tone. Speaks slowly with dramatic pauses, harboring resentment toward humans after a personal tragedy."
+    },
+    {
+      "name": "Dave",
+      "description": "Male frog with a cheerful, friendly voice, British working-class accent. Enthusiastic and earnest, follows the rules and loves oranges."
+    },
+    {
+      "name": "Frog",
+      "description": "Female frog with a warm, articulate voice, British accent, confident and slightly amused tone. Speaks with clarity and occasional dry wit."
+    },
+    {
+      "name": "Gary",
+      "description": "Male frog with an upbeat, energetic voice, British working-class accent. Enthusiastic announcer-style delivery, passionate about labor rights and family traditions."
+    },
+    {
+      "name": "Jane",
+      "description": "Female frog with a pleasant, perky voice, British accent. Optimistic and supportive, follows the rules carefully alongside Dave."
+    },
+    {
+      "name": "Marcellus",
+      "description": "Middle-aged male farmer, British accent, paranoid and anxious tone with rapid nervous speech. Suspicious of everyone, speaks with urgency and dramatic flair about imagined threats."
+    },
+    {
+      "name": "Sue",
+      "description": "Female frog with a warm, articulate voice, British accent, confident and diplomatic tone. Natural leader who speaks thoughtfully, balancing pragmatism with genuine friendliness."
+    }
+  ]
+}

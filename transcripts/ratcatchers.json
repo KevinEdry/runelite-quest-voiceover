@@ -1,0 +1,2260 @@
+{
+  "branch": "quest/ratcatchers",
+  "quest_name": "Ratcatchers",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Oh yes, before I forget - are you still in the adventuring business?"
+    },
+    {
+      "character": "Player",
+      "line": "I am! Do you have another quest for me?"
+    },
+    {
+      "character": "Gertrude",
+      "line": "Well, I don't - but I happen to know someone who might!"
+    },
+    {
+      "character": "Player",
+      "line": "Who's that then?"
+    },
+    {
+      "character": "Gertrude",
+      "line": "Well, there are these two ladies who are looking for adventurers with cats."
+    },
+    {
+      "character": "Gertrude",
+      "line": "They called themselves 'The Ratcatchers'."
+    },
+    {
+      "character": "Player",
+      "line": "Ratcatchers, eh? Where would I find them?"
+    },
+    {
+      "character": "Gertrude",
+      "line": "They told me they generally hang about in the sewers below Varrock. I can't stand it down there, or I'd have looked into this ratcatching business myself."
+    },
+    {
+      "character": "Player",
+      "line": "I wouldn't have thought you'd have much business down in the sewers."
+    },
+    {
+      "character": "Gertrude",
+      "line": "I've had to drag Shilop and Wilough out of there more times than I care to count, the little rascals."
+    },
+    {
+      "character": "Gertrude",
+      "line": "I don't know which is harder, raising kids or cats."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you Gertrude, I'll be sure to have a look for these ratcatchers."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Very well. Is there anything else I can do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be off. See you another time."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting, but I'm a bit busy right now. Maybe another time."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Oh yes, before I forget I think there are some people you should meet."
+    },
+    {
+      "character": "Player",
+      "line": "The two ladies you said I could find in Varrock's sewers? Yes, you told me about them."
+    },
+    {
+      "character": "Gertrude",
+      "line": "Oh good. You can go and see them in the sewers whenever you're not too busy. Now, is there anything else I can do for you?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "And what do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm Gertrude's friend. She said you two were-"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Ratcatchers?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Oh yes, we know lots about ratcatching."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "But why should we tell you?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "These are our trade secrets, you know."
+    },
+    {
+      "character": "Player",
+      "line": "My cat and I are adventurers. If you could teach us a trick or two I bet it would come in handy!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "We'll have to confer."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "What do you think?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "I don't think cats even do tricks."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Don't be stupid! Can we teach ratcatching?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "I don't know. Seems a bit weird."
+    },
+    {
+      "character": "Player",
+      "line": "I can hear you, you know!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "We'll set a task, see how it goes."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Great idea!"
+    },
+    {
+      "character": "Player",
+      "line": "I already have this medal that Gertrude gave me for catching 100 rats. Will that do?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "That's no good. How do we know you didn't buy it?"
+    },
+    {
+      "character": "Player",
+      "line": "You could trust me?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Boo! Bring on the task!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Right, if you catch 8 ratsies with your cat..."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "We'll tell you what we know."
+    },
+    {
+      "character": "Phingspet",
+      "line": "Sound fair?"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose so. How will you know that I've completed your task?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "We'll smell your cat, of course!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... alright."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Great! Let's have a sniff then."
+    },
+    {
+      "character": "Player",
+      "line": "Are you alright, cat?"
+    },
+    {
+      "character": "Cat",
+      "line": "I'll live."
+    },
+    {
+      "character": "Cat",
+      "line": "Miaoww!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Yup. Definitely a cat!"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "A real pongy one, too."
+    },
+    {
+      "character": "Phingspet",
+      "line": "Go on then, go splat them ratsies!"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Splat 'em! Squash 'em!"
+    },
+    {
+      "character": "Player",
+      "line": "Er, will do."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "back!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "splatted some ratsies?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "more of 'em."
+    },
+    {
+      "character": "Player",
+      "line": "How many, er, 'ratsies' do I have to catch again?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "8 ratsies. And your cat has to catch them. Any you get don't count."
+    },
+    {
+      "character": "Player",
+      "line": "Got it!"
+    },
+    {
+      "character": "Player",
+      "line": "Nope!"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Not even one!"
+    },
+    {
+      "character": "Player",
+      "line": "Rubbish!"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Boo!"
+    },
+    {
+      "character": "Player",
+      "line": "Alright, no need to rub it in."
+    },
+    {
+      "character": "Player",
+      "line": "Good job puss, we really showed those rats what for."
+    },
+    {
+      "character": "Cat",
+      "line": "What for what now?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh never mind, it's just a turn of phrase."
+    },
+    {
+      "character": "Cat",
+      "line": "Speaking of turning faces, we should tell those funny-smelling humans that we're done."
+    },
+    {
+      "character": "Player",
+      "line": "Suppose so."
+    },
+    {
+      "character": "Cat",
+      "line": "Miaow."
+    },
+    {
+      "character": "Player",
+      "line": "Well cat, we should tell Grimesquit and Phingspet that we're done."
+    },
+    {
+      "character": "Player",
+      "line": "They're not going to be able to sniff whether I was successful or not unless I bring my cat with me."
+    },
+    {
+      "character": "Player",
+      "line": "I splatted the ratsies for you."
+    },
+    {
+      "character": "Phingspet",
+      "line": "Why are you talking like that?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Are you making fun of us?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I just thought... won't happen again."
+    },
+    {
+      "character": "Phingspet",
+      "line": "So did you splat them ratsies or what?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, yes, I did... catch the rats."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Haha, nice!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Splat! Splat!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me about ratcatching now?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Ha! Seems you already know plenty!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Oh yes, you're a real ratcatching prodigy."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Reminds me of us when we were little."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure that's a compliment..."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Well, there's nothing more we can teach you."
+    },
+    {
+      "character": "Phingspet",
+      "line": "Not much at all!"
+    },
+    {
+      "character": "Player",
+      "line": "What? So we've just caught all these rats for nothing?"
+    },
+    {
+      "character": "Player",
+      "line": "Isn't there anything you can teach me? I caught a lot of rats, you know..."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Here, have a rat pole."
+    },
+    {
+      "character": "Player",
+      "line": "Um, thanks. What's this for?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "You can stick all the ratsies your cat splats on it."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Just what I wanted."
+    },
+    {
+      "character": "Phingspet",
+      "line": "You're welcome!"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Now now, keep your shirt on."
+    },
+    {
+      "character": "Phingspet",
+      "line": "We'll send you to Jimmy."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Ooh, yes, Jimmy will know how to help."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find this... Jimmy?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Jimmy Dazzler hangs out in Ardougne."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Ooh, and he is dazzling!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "Shut up, Grimesquit!"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Say hello to Jimmikins from me, won't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, sure."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Would you look at that!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "At what?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "It's again!"
+    },
+    {
+      "character": "Phingspet",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have another rat pole please?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Here you go."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Stick the ratsies your cat splats on it!"
+    },
+    {
+      "character": "Player",
+      "line": "Er... will do."
+    },
+    {
+      "character": "Phingspet",
+      "line": "Anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find Jimmy Dazzler again?"
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Didn't you find him in Ardougne?"
+    },
+    {
+      "character": "Phingspet",
+      "line": "He's normally in the Flying Horse Inn."
+    },
+    {
+      "character": "Grimesquit",
+      "line": "Give him a kiss from me!"
+    },
+    {
+      "character": "Player",
+      "line": "I will absolutely not be doing that."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Ah, you must be. I've been expectorating you."
+    },
+    {
+      "character": "Player",
+      "line": "You... have?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "I have. The Sisters Grime told me you'd be dropping in."
+    },
+    {
+      "character": "Player",
+      "line": "They said you could teach me a thing or two about ratcatching."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Well, I could, but I need a little more motivation than that."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "I didn't get this far by giving out help freely to every adventurer who came my way."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I could help you out with something then?"
+    },
+    {
+      "character": "Player",
+      "line": "I am an adventurer after all."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Ah, that's mincemeat to my ears!"
+    },
+    {
+      "character": "Player",
+      "line": "Music?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "No thank you! Your unrefined caterwauling would only draw attention."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "How about I test your ratcatching mettle instead?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Oh, your hands are full. Don't worry, I'll hold onto this map until you can jettison all that rubbish."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Take a good long look at this map."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "A client of mine, a merchant of some repute, is having a sorbet."
+    },
+    {
+      "character": "Player",
+      "line": "A what?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "A soy - a fancy party. Don't interrupt me again."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "This client of mine has a problem, a small furry one."
+    },
+    {
+      "character": "Player",
+      "line": "He'd be better off calling a doctor about that."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "No, you fool! A rat problem."
+    },
+    {
+      "character": "Player",
+      "line": "So you want me to go to his place and kill some rats? That sounds easy enough."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Ah, but it's not that simple. Here's your first lesson - we ratcatchers must be discreet."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Our wealthier clients would be ruined if word got out that their fancy mansions were filled with vermin."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see. So I have to do this covertly?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Precisely!"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Now just in case, I'm going to cast a spell on you that will allow you carry out this task with some element of safety."
+    },
+    {
+      "character": "Player",
+      "line": "Are you going to cast an invisibility spell on me? That should make it easy."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Not quite. If you're spotted, this spell will teleport you a short distance away and render the last few seconds of your discoverer's memory blank."
+    },
+    {
+      "character": "Player",
+      "line": "That's really useful!"
+    },
+    {
+      "character": "Player",
+      "line": "Where'd you learn that spell, anyway?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "That's a trade secret, m'afraid."
+    },
+    {
+      "character": "Player",
+      "line": "Well, can you teach me?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Oh my, no. Can you imagine if all the riffraff in Ardougne got wind of this?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "We already have a serious crime problem."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "But there's plenty more I can teach you about ratcatching... if you complete the task I've set you."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any tips for me now?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Of course! Use a cat to catch the rats."
+    },
+    {
+      "character": "Player",
+      "line": "That's it?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Don't look a gilt horse in the mouth!"
+    },
+    {
+      "character": "Player",
+      "line": "You mean a gift horse?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "I'll gift you no such thing! Now go on, get out of here!"
+    },
+    {
+      "character": "Player",
+      "line": "Off I go then..."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Ah, you're back. Have you completed your mission?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the map you gave me. Can I have another?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Here you go, don't lose this one."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Is there anything else?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Haven't I given you the map already? I'm sure I have. I can't afford to be throwing maps around nilly willy."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to do again?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Read the directions on the map to get to the manor. Once there, eliminate any rats you see with your cat and return to me unseen. Got it?"
+    },
+    {
+      "character": "Player",
+      "line": "Got it. Thanks for the reminder."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Good, good."
+    },
+    {
+      "character": "Player",
+      "line": "I think I should have a cat big enough to catch rats with me before I go."
+    },
+    {
+      "character": "Player",
+      "line": "I don't want to go there again. I barely managed to get out the first time."
+    },
+    {
+      "character": "Player",
+      "line": "These directions are from Ardougne. It would be much easier to find the place if I left from there."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll go there some other time."
+    },
+    {
+      "character": "Player",
+      "line": "Directions to... here, actually! I'd better hold onto them until I complete Jimmy's task."
+    },
+    {
+      "character": "Player",
+      "line": "Good job, Puss, I think that just about wraps things up here."
+    },
+    {
+      "character": "Cat",
+      "line": "Aw, really? I was enjoying that."
+    },
+    {
+      "character": "Cat",
+      "line": "I'm a cold blooded, claw toting, hitkitty."
+    },
+    {
+      "character": "Cat",
+      "line": "A callous cat."
+    },
+    {
+      "character": "Player",
+      "line": "I knew you had a dark side."
+    },
+    {
+      "character": "Cat",
+      "line": "I have many dark sides."
+    },
+    {
+      "character": "Cat",
+      "line": "Well, we had better get out of here. Let's do it quietly."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Ah, aren't you just the ticket?"
+    },
+    {
+      "character": "Player",
+      "line": "I am?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "A job well done. Confabulations!"
+    },
+    {
+      "character": "Player",
+      "line": "No, the job really is done!"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind. So you'll teach me all about ratcatching now?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Of course! If you want to learn about ratcatching, get yourself to the Rat Pits here in Ardougne."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "It's a great place for training kittens. Just look at Bones here!"
+    },
+    {
+      "character": "Bones",
+      "line": "I think of nothing but murder all day!"
+    },
+    {
+      "character": "Player",
+      "line": "He does look good at catching rats. But what about older cats?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Ah, well. My good friend Hooknosed Jack can tell you all about those."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "He has the oldest cat I've ever seen."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find this... Hooknosed Jack?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "He hangs around in a rather unfashionable part of Varrock. He likes a good scrap, does Jack."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "I'll tell him to look out for you."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me more about the Rat Pits?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "The pits lie below this very pub."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "See that ladder there? That's the way in."
+    },
+    {
+      "character": "Player",
+      "line": "What goes on in these pits then?"
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "I'd have thought it was self-exploratory. Here, have a manual."
+    },
+    {
+      "character": "Jimmy Dazzler",
+      "line": "Here, take this, you might find it useful."
+    },
+    {
+      "character": "Player",
+      "line": "Hello! Are you Hooknosed Jack?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Depends who's asking. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Jimmy Dazzler sent me. He said you could help train my grown cat to catch rats."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I expect he wants me to do that for free, does he?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm an adventurer. There must be something I can do for you in return."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Forget it."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I'm too busy to babysit you and your moggy."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, come on."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "No, really. Me and Pox have too much going on."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "We've got a big job to finish today, I can't teach you how to catch rats on top of that."
+    },
+    {
+      "character": "Player",
+      "line": "Well I could be your apprentice! I've already got hands-on experience."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Oh yes? What sort of experience?"
+    },
+    {
+      "character": "Player",
+      "line": "I helped the Grime Sisters catch loads of rats in the sewers, and I cleared out a whole mansion in Ardougne for Jimmy Dazzler."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I bet you did. Typical Jimmy, leaving the hard work to everyone else."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you say? Can me and my cat help you out?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Oh, alright then. But you'd better not give me or Pox any trouble!"
+    },
+    {
+      "character": "Player",
+      "line": "We won't!"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I'd better not regret this..."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Right, your first task is to clear out a warehouse south of here."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "All you need to do is poison the rat holes with some bait. Can you handle that?"
+    },
+    {
+      "character": "Player",
+      "line": "I think so. Will any type of poison do?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Are you daft? You need rat poison to kill rats!"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "If you can't mix a batch up for yourself, there's sure to be some lying around here somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Would this stuff do?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "It certainly will! There's hope for you yet."
+    },
+    {
+      "character": "Player",
+      "line": "How would I mix my own rat poison?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Honestly, kids these days..."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Just bring me the base ingredients, and I'll mix it up for you."
+    },
+    {
+      "character": "Player",
+      "line": "What are the ingredients then?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Get me some Kwuarm, some red spider eggs, and a vial."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Right, to poison the rats you'll need some tasty bait."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "They love a bit of cheese, so pour some poison on that and then leave it in the rat holes."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, can do."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Report back to me when you're done."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "And no slacking!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey!"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you make me some rat poison?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Have you got the ingredients for me yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet. What do I need again?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Get some Kwuarm, Red Spider Eggs and an empty vial. Bring them to me, and I'll make a batch of rat poison for you."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Do you see that bar to the south of here? Well, behind that is the warehouse. The rats are on the first floor."
+    },
+    {
+      "character": "Player",
+      "line": "I've finished the job. Now will you teach me more about ratcatching?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "You're pulling my leg!"
+    },
+    {
+      "character": "Player",
+      "line": "Who, me?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Yes, you! You think I can't tell you're lying? Now get back to the warehouse and kill those rats!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... let me think about this one."
+    },
+    {
+      "character": "Player",
+      "line": "No! That would be stupid."
+    },
+    {
+      "character": "Player",
+      "line": "Putting random things in rat holes isn't my idea of fun."
+    },
+    {
+      "character": "Player",
+      "line": "Well that's one less rat hole. I had better finish the job off quick before they start to reproduce again."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, that should do the trick. Those rats should soon die off."
+    },
+    {
+      "character": "Player",
+      "line": "I poisoned the rats in the warehouse! Do you have time to teach me about grown cats yet?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Not right now,."
+    },
+    {
+      "character": "Player",
+      "line": "Are you serious? I've gone and done a job for you, the least you could do is say thanks."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Can't you see I'm upset?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "It's my cat, Pox. She's half dead, bless her."
+    },
+    {
+      "character": "Player",
+      "line": "Oh no! What happened?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "They found her at the warehouse you were working at. She must have eaten some of the rats you poisoned."
+    },
+    {
+      "character": "Player",
+      "line": "Oh no..."
+    },
+    {
+      "character": "Player",
+      "line": "Can I help? I feel somewhat responsible..."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "That's kind of you,."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "There's an apothecary here in town, he could help. Tell him that the poison was made from red spiders eggs and kwuarm. He should know what to do. Go quickly."
+    },
+    {
+      "character": "Player",
+      "line": "Putting things in poisoned rat holes isn't my idea of fun."
+    },
+    {
+      "character": "Player",
+      "line": "Hi cat!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "I am the Apothecary. I brew potions. Do you need anything specific?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about cats."
+    },
+    {
+      "character": "Apothecary",
+      "line": "As I said before, I'm the apothecary not the vet."
+    },
+    {
+      "character": "Player",
+      "line": "Well, do you know anything about poisons?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Of course I do! What kind of poison do you need help with?"
+    },
+    {
+      "character": "Player",
+      "line": "How about rat poisons and anti-posisons for cats?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "I think I can help you with that. What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay. Hooknosed Jack's cat, Pox, ate some rats which were poisoned with a Kwuarm and Red Spider Egg based concoction."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Not Pox! I remember when she was a kitten... hang on, I have no time for dilly dallying."
+    },
+    {
+      "character": "Apothecary",
+      "line": "I know just the thing to help Pox out."
+    },
+    {
+      "character": "Player",
+      "line": "Great! How can I help?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "I need a Bucket of Milk, some Ground Unicorn Horn, and a bit of Marrentill."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Quick, get this to Jack. If I know him, he wouldn't have sent someone else to do this if Pox wasn't seriously ill."
+    },
+    {
+      "character": "Apothecary",
+      "line": "You need to get a Bucket of Milk and some Marrentill before we can proceed."
+    },
+    {
+      "character": "Apothecary",
+      "line": "What are you hanging around here for? You've got the anti-poison, so go give it to Jack. Quickly!"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Have you got the anti-poison?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've got it right here."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Thank you. Thank you so much."
+    },
+    {
+      "character": "Player",
+      "line": "No worries there, I'd be sorry to see poor Pox come to harm."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Well, thanks to you, she'll live to see another day."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I have to have a word with you about the job you did in the warehouse."
+    },
+    {
+      "character": "Player",
+      "line": "I did a good job, didn't I?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "The thing is, you didn't quite finish the warehouse job."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, but I poisoned all the rat holes just like you said."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "You did, but one rat survived... the biggest, nastiest one of the lot."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm not scared of big, nasty rats."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I hope not, because someone's got to get rid of it, and me and Pox are out of action."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry - we're on the case."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "I really underestimated you,. Best of luck."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Have you killed the King Rat yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm... no."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Look, you did me and Pox a big favour, but that's not an excuse to slack off."
+    },
+    {
+      "character": "Player",
+      "line": "How's Pox doing anyway?"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Oh, she's doing alright..."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Oi! You can't distract me like that. Get on with you, and get rid of that rat!"
+    },
+    {
+      "character": "Player",
+      "line": "Be careful in there, cat!"
+    },
+    {
+      "character": "Cat",
+      "line": "Hisss!"
+    },
+    {
+      "character": "King rat",
+      "line": "Pfssst!"
+    },
+    {
+      "character": "Player",
+      "line": "Go get that nasty rat, don't hold back!"
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "They say you've killed the King Rat."
+    },
+    {
+      "character": "Player",
+      "line": "Just barely! I was getting worried for my cat, but we pulled through."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Your cat?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! The King Rat was holed up behind a wall, so I had to send my cat in to get it."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Well, imagine that. You two must have a great bond. Perhaps I can show you a thing or two after all."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "See that manhole over there? Climb down it to enter the Varrock Rat Pits."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you so much! I imagine my cat will learn a lot in there."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Just you look after it."
+    },
+    {
+      "character": "Hooknosed Jack",
+      "line": "Say, if you want to know more about the ratcatching business, you should seek out Smokin' Joe in Keldagrim. He was a skilled ratcatcher, back in the day."
+    },
+    {
+      "character": "Player",
+      "line": "Hi! What are you doing?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Isn't it obvious?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not really."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Bluaaghhaha! Ahem. Sorry."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "I'm trying to smoke these pesky rats out. Ahem-hem-hem."
+    },
+    {
+      "character": "Player",
+      "line": "Are you alright?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "I'll - ugh - I'll be fine, youngin'. My lungs just aren't up for ratcatchin' like they used to be."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Bluaaghhaha!"
+    },
+    {
+      "character": "Player",
+      "line": "Ratcatching, you say?"
+    },
+    {
+      "character": "Player",
+      "line": "I could help you. I'm young-ish and my lungs are doing fine so far."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "That's-"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Bluaaaghhaha!"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "-kind of you, youngin'."
+    },
+    {
+      "character": "Player",
+      "line": "What's up with your lungs anyway?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Years of blowin' smoke into rat holes, youngin'."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear. Speaking of rats..."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "You offered to help me out."
+    },
+    {
+      "character": "Player",
+      "line": "That's right! Me and my cat have been learning from the best of the best."
+    },
+    {
+      "character": "Player",
+      "line": "The Sisters Grime, Jimmy Dazzler, Hooknosed Jack..."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Blimey, that's my old crew! How are they all?"
+    },
+    {
+      "character": "Player",
+      "line": "Better now that I've helped them out, I think."
+    },
+    {
+      "character": "Player",
+      "line": "Now, how should I get rid of these rats?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "That's sim-"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "bluaaghhaha..."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "simple. Take this pot, light the contents, and blow the smoke into the hole."
+    },
+    {
+      "character": "Player",
+      "line": "Er... this pot specifically?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Aye, this pot. What's wrong with it?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a bit... phlegmy..."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "You'd better make your own then. A-hem-hem."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Just take a simple pot and stick some ordinary garden weeds in it. Then light the pot and use it on a rat hole."
+    },
+    {
+      "character": "Player",
+      "line": "Great. I'll get to it."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Have you got that job done yet, youngin'?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Player",
+      "line": "How's your cough?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Aheeh - hoo."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Better with you helpin' me out, youngin'."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Say, when the job's done, how about I show you to the Rat Pits here in Keldagrim?"
+    },
+    {
+      "character": "Player",
+      "line": "That seems a fair deal. But I'd appreciate any pointers you could give me."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "An extra pair of eyes or set of claws can often come in handy."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any more straightforward hints?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Bluaaaghhaha! Hurk-!"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind, I'll figure it out!"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... this isn't working as well as I'd hoped."
+    },
+    {
+      "character": "Cat",
+      "line": "Miaaaaow!"
+    },
+    {
+      "character": "Player",
+      "line": "Hold on, let me equip my Catspeak Amulet so we can talk."
+    },
+    {
+      "character": "Cat",
+      "line": "Hey, talk to me."
+    },
+    {
+      "character": "Player",
+      "line": "Can't you see I'm busy adventuring?"
+    },
+    {
+      "character": "Cat",
+      "line": "Look, I know you're having fun, but you're doing this all wrong."
+    },
+    {
+      "character": "Player",
+      "line": "Well then smarty paws, what should I be doing?"
+    },
+    {
+      "character": "Cat",
+      "line": "What we have here is a two cat job."
+    },
+    {
+      "character": "Cat",
+      "line": "You're smoking the rats out, but the smoke clears fast enough for them to run back in before you can catch them."
+    },
+    {
+      "character": "Player",
+      "line": "I can see that for myself, thanks."
+    },
+    {
+      "character": "Cat",
+      "line": "Listen, why don't you leave the rat-catching to the expert? Tell me when you're going to start the fire and I'll run and catch the rats."
+    },
+    {
+      "character": "Player",
+      "line": "Great idea. I'll get right to it."
+    },
+    {
+      "character": "Player",
+      "line": "Hey cat, you know the drill, get going!"
+    },
+    {
+      "character": "Cat",
+      "line": "Exterminate! Exterminate!"
+    },
+    {
+      "character": "Cat",
+      "line": "Sorry, I got a little carried away there."
+    },
+    {
+      "character": "Player",
+      "line": "Hey cat, great job. What an ambush!"
+    },
+    {
+      "character": "Cat",
+      "line": "Mua-ha-ha!"
+    },
+    {
+      "character": "Player",
+      "line": "...?"
+    },
+    {
+      "character": "Player",
+      "line": "You know, you really scare me sometimes."
+    },
+    {
+      "character": "Player",
+      "line": "I got the rats."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Well good - ahem - good show."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "I'd better show you our rat pits here in Keldagrim."
+    },
+    {
+      "character": "Player",
+      "line": "Great stuff. Let's go."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "They're nice, but the ones they have in Port Sarim are even better."
+    },
+    {
+      "character": "Player",
+      "line": "They have rat pits in Port Sarim?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Oh yes! It's the best place to train your wily cat."
+    },
+    {
+      "character": "Player",
+      "line": "Wily cats?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Well, I suppose there's no harm tellin' you."
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "A-hem!"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Look for 'The Face' in Port Sarim. She'll show you."
+    },
+    {
+      "character": "Player",
+      "line": "So where are the Keldagrim rat pits then?"
+    },
+    {
+      "character": "Smokin' Joe",
+      "line": "Down the stairs to the basement of the 'Laughing Miner'. Get yourself a drink, too, you've earned it."
+    },
+    {
+      "character": "The Face",
+      "line": "...?"
+    },
+    {
+      "character": "Player",
+      "line": "Um, yes?"
+    },
+    {
+      "character": "The Face",
+      "line": "Boss wants to talk to you. She's downstairs in the pits."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, The Face said you wanted to speak with me."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Ah, we meet at last. My fellow ratcatchers tell me you're quite the talent."
+    },
+    {
+      "character": "Player",
+      "line": "Well I can't take all the credit, I've had more than a little help from my cat."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Ah, modesty. A trait seldom displayed by adventurers like yourself."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Too many more like you and I'll lose half of my business."
+    },
+    {
+      "character": "Player",
+      "line": "Why's that?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Epic poems aren't usually commissioned by the shy and retiring."
+    },
+    {
+      "character": "Player",
+      "line": "Smokin' Joe said that you know lots about training wily cats."
+    },
+    {
+      "character": "Felkrash",
+      "line": "I do indeed. In fact, that's why I wanted to talk to you."
+    },
+    {
+      "character": "Player",
+      "line": "So you'll show me how to turn my cat into a wily cat?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Ah, ah, ah - not so fast."
+    },
+    {
+      "character": "Player",
+      "line": "Let me guess... you want me to catch some rats for you first?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Bingo."
+    },
+    {
+      "character": "Player",
+      "line": "Alright then, what's the job?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Nothing too difficult. Just rid the port of every single rat... at once."
+    },
+    {
+      "character": "Player",
+      "line": "At once?!"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Yep. I expect to see all the rats in Port Sarim dead in one, decisive action."
+    },
+    {
+      "character": "Player",
+      "line": "Are you serious?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Deadly!"
+    },
+    {
+      "character": "Player",
+      "line": "So why do you want all the rats wiped out at once?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "I want to write a new poem."
+    },
+    {
+      "character": "Player",
+      "line": "About me?! How flattering."
+    },
+    {
+      "character": "Felkrash",
+      "line": "No, silly. A poem about the art of ratcatching."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Poetry might be my bread and butter, but catching rats is my real passion."
+    },
+    {
+      "character": "Player",
+      "line": "Couldn't you just use some 'creative license' instead?"
+    },
+    {
+      "character": "Player",
+      "line": "Not to disappoint you, but this task might be beyond my capabilities..."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Don't be so hard on yourself!"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Besides, it's not difficult. I myself performed the very same feat just a few years ago."
+    },
+    {
+      "character": "Player",
+      "line": "You did? How?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Ha! Nice try. You'll have to figure that out for yourself."
+    },
+    {
+      "character": "Player",
+      "line": "It was worth a shot..."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Any luck killing all the rats yet?"
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do again?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Kill all the rats in Port Sarim in one, swift action."
+    },
+    {
+      "character": "Player",
+      "line": "Right. I'd better figure out how I'm going to do that..."
+    },
+    {
+      "character": "The Face",
+      "line": "Oh. It's you again."
+    },
+    {
+      "character": "The Face",
+      "line": "Have you spoken with the boss yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Actually, I wanted to ask you about the task she gave me..."
+    },
+    {
+      "character": "The Face",
+      "line": "Stop right there. You'll get not hints out of me."
+    },
+    {
+      "character": "Player",
+      "line": "You know, you're very pretty..."
+    },
+    {
+      "character": "The Face",
+      "line": "Ha! That's a good one."
+    },
+    {
+      "character": "The Face",
+      "line": "I hope you're better at ratcatching than lying."
+    },
+    {
+      "character": "Player",
+      "line": "That's a powerful-looking cat you have there."
+    },
+    {
+      "character": "The Face",
+      "line": "Bellemorde? Beautiful, isn't she?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... yes."
+    },
+    {
+      "character": "The Face",
+      "line": "I've had her since she was a kitten. Felkrash trained her for me."
+    },
+    {
+      "character": "Player",
+      "line": "Oh really? Does she know any cool tricks?"
+    },
+    {
+      "character": "The Face",
+      "line": "Oh yes! There was this one time she helped Felkrash wipe out all the rats in town by -"
+    },
+    {
+      "character": "Bellemorde",
+      "line": "Hiss!"
+    },
+    {
+      "character": "The Face",
+      "line": "Oh, I see. Nice try, but you'll have to be cleverer than that."
+    },
+    {
+      "character": "Player",
+      "line": "Almost had it..."
+    },
+    {
+      "character": "Player",
+      "line": "I just don't think Felkrash was that impressive."
+    },
+    {
+      "character": "The Face",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "All the other ratcatchers I've met had loads of tricks to show me."
+    },
+    {
+      "character": "Player",
+      "line": "In comparison, Felkrash was just... disappointing."
+    },
+    {
+      "character": "The Face",
+      "line": "How dare you! Felkrash is the greatest ratcatcher Gielinor's ever seen!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah? What's the most impressive thing she's done then?"
+    },
+    {
+      "character": "The Face",
+      "line": "I'll have you know she once killed all the rats in Port Sarim with just one attack!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know. That just sounds like one of her stories."
+    },
+    {
+      "character": "The Face",
+      "line": "It's true! I saw it happen. She used a magic flute to charm the rats into the sea!"
+    },
+    {
+      "character": "The Face",
+      "line": "Wait... I uh, I shouldn't have said that."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I won't tell Felkrash you snitched."
+    },
+    {
+      "character": "The Face",
+      "line": "You'd better not!"
+    },
+    {
+      "character": "Player",
+      "line": "They charm snakes over in Pollnivneach... maybe they charm rats, too?"
+    },
+    {
+      "character": "The Face",
+      "line": "Oh it's you again."
+    },
+    {
+      "character": "The Face",
+      "line": "Felkrash told me of the task she set you."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, er, really?"
+    },
+    {
+      "character": "The Face",
+      "line": "I shouldn't have told you that story. Shame on you for coaxing it out of me."
+    },
+    {
+      "character": "Player",
+      "line": "If it makes you feel better, I lie to a lot of people."
+    },
+    {
+      "character": "Player",
+      "line": "I think I know how to carry out your task."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Oh yes? Has The Face been telling tales again?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh no, she didn't say a word."
+    },
+    {
+      "character": "Player",
+      "line": "Really, she didn't."
+    },
+    {
+      "character": "Player",
+      "line": "I want to talk to you about animal charming."
+    },
+    {
+      "character": "Player",
+      "line": "Can you help me learn how to charm animals?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "That depends. How much are you willing to pay?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not paying you again!"
+    },
+    {
+      "character": "Player",
+      "line": "Listen, do you know someone called Felkrash?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Felkrash the Bard? Pah!"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I taught her all she knows about animal charming, and then she used my knowledge to kill!"
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong with killing rats? That is her job, after all."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Music should never be used to kill."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "When I first met Felkrash we sang about love, not war."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Oh, things were a lot better in those days."
+    },
+    {
+      "character": "Player",
+      "line": "So there's nothing I could do to get you teach me how to charm rats?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Absolutely nothing."
+    },
+    {
+      "character": "Player",
+      "line": "What if I offered you a drink?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'd say thank you very much and take it."
+    },
+    {
+      "character": "Player",
+      "line": "But would you teach me?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "That might depend on how the drink tasted."
+    },
+    {
+      "character": "Player",
+      "line": "So what's your favourite drink then?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Beer, just plain old beer."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Ahh, that hit the spot."
+    },
+    {
+      "character": "Player",
+      "line": "So will you teach me now?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Nope."
+    },
+    {
+      "character": "Player",
+      "line": "But... but..."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Sorry!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have any beer on me."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "That's too bad!"
+    },
+    {
+      "character": "Player",
+      "line": "What if I offered you some food?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'd say I wasn't hungry."
+    },
+    {
+      "character": "Player",
+      "line": "What if I offered you some money?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Now we're talking."
+    },
+    {
+      "character": "Player",
+      "line": "How much money are we talking about?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'll teach you for coins."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have that much money!"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "You're a resourceful looking adventurer. I'm sure you'll figure something out."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go get more money..."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'll be waiting!"
+    },
+    {
+      "character": "Player",
+      "line": "What if I offered you 50 coins?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Yes... that sounds fair..."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "It's not that difficult. Here, take these."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Study the sheet music carefully. Playing it on the flute will draw rats to you like flies to a bucket of camel dung."
+    },
+    {
+      "character": "Player",
+      "line": "Forget about it. I don't care that much."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "What? I'm offering something invaluable, and you'll quibble over a couple of coins?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm done here."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Good luck finding someone else to help..."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'll do it for half the price."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'll do it for quarter the price."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "I'll..."
+    },
+    {
+      "character": "Player",
+      "line": "You'll what?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "An eighth?"
+    },
+    {
+      "character": "Player",
+      "line": "No!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll give you no more than 100 coins."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Deal!"
+    },
+    {
+      "character": "Player",
+      "line": "What if I said I'd kill you?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "If you killed me, you'd never learn my technique."
+    },
+    {
+      "character": "Player",
+      "line": "You've got me there..."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost some of the gear you gave me."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "What do you need?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the flute."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the music."
+    },
+    {
+      "character": "Player",
+      "line": "I need a new flute and some music."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "There you go. Now if you don't mind, I'm busy performing."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Yes?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I charm rats again?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Do you remember that flute I gave you?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "And the music?"
+    },
+    {
+      "character": "Ali the Snake Charmer",
+      "line": "Well, play the music that's on the sheet and that should do the trick."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I should play that tune here."
+    },
+    {
+      "character": "The Face",
+      "line": "That was an amazing performance! I've only seen one like it... as you know."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, Felkrash has no idea how I figured it out."
+    },
+    {
+      "character": "The Face",
+      "line": "And it had better stay that way!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't want to play that tune again - I'll have a pack of rats chasing after me!"
+    },
+    {
+      "character": "Player",
+      "line": "Ha! I did it. Did you see?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "I did indeed! A performance for the ages."
+    },
+    {
+      "character": "Felkrash",
+      "line": "Now that you're a real ratcatcher, I'd be happy to train that cat of yours."
+    },
+    {
+      "character": "Player",
+      "line": "Can you train my cat to be a wily cat?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "I can only train overgrown cats into wily cats."
+    },
+    {
+      "character": "Felkrash",
+      "line": "A heroic cat like yours needs a heroic name, don't you think?"
+    },
+    {
+      "character": "Felkrash",
+      "line": "Shall we rename it?"
+    },
+    {
+      "character": "Cat",
+      "line": "Hey, you finally got around to naming me."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry I took so long, it took a while to come up with a name for you."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ali the Snake Charmer",
+      "description": "Middle-aged male, Middle Eastern accent, calm and mysterious tone with a hint of greed, a snake charmer who speaks in a measured, musical cadence befitting someone who manipulates creatures through melody."
+    },
+    {
+      "name": "Apothecary",
+      "description": "Older male, British accent, professional and knowledgeable tone, an experienced potion brewer in Varrock who speaks with the confidence of someone who has practiced his craft for decades."
+    },
+    {
+      "name": "Bellemorde",
+      "description": "Female cat, raspy and gruff voice, unkempt and street-wise personality, a scrappy feline companion with a no-nonsense attitude befitting a seasoned rat-catcher's pet."
+    },
+    {
+      "name": "Bones",
+      "description": "Male cat, energetic and slightly unhinged voice, playful yet murderous personality, a kitten who thinks of nothing but hunting and has an unsettling enthusiasm for violence."
+    },
+    {
+      "name": "Cat",
+      "description": "Neutral cat voice, dry and sardonic tone with dark humor, an intelligent feline companion who speaks with surprising wit and occasionally reveals a sinister side."
+    },
+    {
+      "name": "Felkrash",
+      "description": "Middle-aged female, British accent, enigmatic and confident tone with poetic flair, a mysterious bard and legendary ratcatcher who carries herself with quiet authority."
+    },
+    {
+      "name": "Gertrude",
+      "description": "Middle-aged female, British accent, warm but busy tone, a practical housewife and mother of four who loves cats and speaks with the patience of someone accustomed to managing chaos."
+    },
+    {
+      "name": "Grimesquit",
+      "description": "Adult female, British accent, eccentric and slightly unhinged tone, one of the Grime Sisters who lives in the sewers and speaks with manic enthusiasm about catching rats."
+    },
+    {
+      "name": "Hooknosed Jack",
+      "description": "Middle-aged male, working-class British accent, gruff and no-nonsense tone, a tough ratcatcher from Varrock who deeply cares for his cat Pox despite his rough exterior."
+    },
+    {
+      "name": "Jimmy Dazzler",
+      "description": "Adult male, upper-class British accent, theatrical and pompous tone with frequent malapropisms, a wealthy exterminator who fancies himself sophisticated but consistently misuses words."
+    },
+    {
+      "name": "King rat",
+      "description": "Male rat voice, squeaky and defiant tone with false bravado, the last surviving rat in the warehouse who hisses and snarls with desperate aggression."
+    },
+    {
+      "name": "Phingspet",
+      "description": "Adult female, British accent, eccentric and slightly manic tone, one of the Grime Sisters who lives in the sewers and speaks with childlike excitement about hunting rats."
+    },
+    {
+      "name": "Smokin' Joe",
+      "description": "Elderly male dwarf, Scottish accent, wheezy and gravelly voice interrupted by constant coughing, a retired ratcatcher whose lungs are ruined from years of smoking out rat holes."
+    },
+    {
+      "name": "The Face",
+      "description": "Adult female, British accent, cold and dismissive tone that softens slightly after gaining respect, a gatekeeper at the Port Sarim Rat Pits who was once beautiful but is now weathered."
+    }
+  ]
+}

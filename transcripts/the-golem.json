@@ -1,0 +1,312 @@
+{
+  "branch": "quest/the-golem",
+  "quest_name": "The Golem",
+  "lines": [
+    {
+      "character": "Broken clay golem",
+      "line": "Damage... severe... Task... incomplete..."
+    },
+    {
+      "character": "Player",
+      "line": "Shall I try to repair you?"
+    },
+    {
+      "character": "Broken clay golem",
+      "line": "Repairs... needed..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not going to find a conversation here!"
+    },
+    {
+      "character": "Broken clay golem",
+      "line": "Graar!"
+    },
+    {
+      "character": "Broken clay golem",
+      "line": "Must... not... injure... human..."
+    },
+    {
+      "character": "Broken clay golem",
+      "line": "Damage... severe..."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Damage repaired..."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Thank you. My body and mind are fully healed."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Now I must complete my task by defeating the great enemy."
+    },
+    {
+      "character": "Player",
+      "line": "What enemy?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "A great demon. It broke through from its dimension to attack the city."
+    },
+    {
+      "character": "Clay golem",
+      "line": "The golem army was created to fight it. Many were destroyed, but we drove the demon back!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "The demon is still wounded. You must open the portal so that I can strike the final blow and complete my task."
+    },
+    {
+      "character": "Clay golem",
+      "line": "My task is incomplete. You must open the portal so I can defeat the great demon."
+    },
+    {
+      "character": "Player",
+      "line": "How do I open the portal?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "The four statuettes in the temple must be turned to the correct pattern."
+    },
+    {
+      "character": "Clay golem",
+      "line": "I do not know the pattern. Golems are not permitted to open the portal."
+    },
+    {
+      "character": "Player",
+      "line": "What makes you think you can defeat the demon?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "If not I, then who else? No living being can destroy the demon. That is why the golems were created in the first place."
+    },
+    {
+      "character": "Clay golem",
+      "line": "But the demon was badly wounded and elder-demons heal very slowly indeed. It was almost dead when it retreated to its own dimension."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Now that I am repaired, I will be able to destroy it easily!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll get right on it."
+    },
+    {
+      "character": "Elissa",
+      "line": "Hello there."
+    },
+    {
+      "character": "Player",
+      "line": "What do you do here?"
+    },
+    {
+      "character": "Elissa",
+      "line": "I'm helping with the dig. I'm an expert on Third Age architecture."
+    },
+    {
+      "character": "Player",
+      "line": "What is this place?"
+    },
+    {
+      "character": "Elissa",
+      "line": "In the Third Age, this was a great city. Look at these giant walls! They put Varrock to shame!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know, Varrock palace is impressive."
+    },
+    {
+      "character": "Elissa",
+      "line": "Hmph. I don't think it will look this good when it's been buried in the ground for three thousand years!"
+    },
+    {
+      "character": "Player",
+      "line": "What happened to the city?"
+    },
+    {
+      "character": "Elissa",
+      "line": "No one knows for sure."
+    },
+    {
+      "character": "Elissa",
+      "line": "But the Third Age was a time of destruction, when the gods were violently at war."
+    },
+    {
+      "character": "Elissa",
+      "line": "Many great civilizations were destroyed then."
+    },
+    {
+      "character": "Player",
+      "line": "I found a letter in the desert with your name on."
+    },
+    {
+      "character": "Elissa",
+      "line": "Ah, so you've found the ruins of Uzer."
+    },
+    {
+      "character": "Elissa",
+      "line": "AI wrote that letter to my late husband when he was exploring there."
+    },
+    {
+      "character": "Elissa",
+      "line": "that was a great city as well, but the museum could only fund one excavation and this one was closer to home."
+    },
+    {
+      "character": "Elissa",
+      "line": "If you're interested in his expedition, the notes he made are in the library in the Exam Centre."
+    },
+    {
+      "character": "Player",
+      "line": "Where did you say the notes were?"
+    },
+    {
+      "character": "Elissa",
+      "line": "They're on a bookcase in the Exam Centre."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the statuette that Varmen took back from Uzer?"
+    },
+    {
+      "character": "Elissa",
+      "line": "The statuette? Oh, yes..."
+    },
+    {
+      "character": "Elissa",
+      "line": "That statuette was the only thing we had to show from that expedition."
+    },
+    {
+      "character": "Elissa",
+      "line": "It was very worn, but you can still make out a lot of detail. The Uzerians were expert sculptors. It's a pity we only have that small example."
+    },
+    {
+      "character": "Elissa",
+      "line": "Now it's on display in the Varrock museum."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Welcome to the museum of Varrock."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a statuette recovered from the city of Uzer."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Ah yes, a very impressive artefact. The people of that city were excellent sculptors."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "It's in the display case upstairs."
+    },
+    {
+      "character": "Player",
+      "line": "No, I need to take it away with me."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "What do you want it for?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to open a portal to the lair of an elder-demon."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Good heavens! I'd never let you do such a dangerous thing."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I, er, just want it."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well, you can't have it! This museum never lets go of its treasures."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "That statuette was stolen recently, but now it's been returned."
+    },
+    {
+      "character": "Player",
+      "line": "I opened the portal."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Golems cannot pass through the portal. But the demon will soon emerge. I must ready myself for combat!"
+    },
+    {
+      "character": "Player",
+      "line": "It's okay, the demon is dead!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "The demon must be defeated..."
+    },
+    {
+      "character": "Player",
+      "line": "No, you don't understand. I saw the demon's skeleton. It must have died of its wounds."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Demon must be defeated! Task incomplete."
+    },
+    {
+      "character": "Player",
+      "line": "I already told you, he's dead!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "Task incomplete."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, how am I going to convince you?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "New instructions... Updating program..."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Task complete!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "Thank you. Now my mind is at rest."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Thank you for helping me. A golem can have no greater satisfaction than knowing that its task is complete."
+    },
+    {
+      "character": "Player",
+      "line": "But the whole city is destroyed! Doesn't that bother you?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I was never programmed to appreciate the city. My only purpose was the destruction of the demon, and that is achieved!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Broken clay golem",
+      "description": "Deep, gravelly, inhuman voice with a slow, halting cadence. Robotic and monotone, speaking in fragmented sentences as if damaged machinery struggling to function."
+    },
+    {
+      "name": "Clay golem",
+      "description": "Deep, gravelly, inhuman voice with a slow, deliberate cadence. Robotic and emotionless, speaks with single-minded purpose like an ancient magical construct following its programming."
+    },
+    {
+      "name": "Curator Haig Halen",
+      "description": "Elderly male, British accent, refined and scholarly tone. A distinguished museum curator who speaks with authority about artifacts and is protective of his collection."
+    },
+    {
+      "name": "Elissa",
+      "description": "Elderly female, British accent, warm but knowledgeable tone. A seasoned archaeologist and widow who speaks passionately about ancient Third Age civilizations and their architecture."
+    }
+  ]
+}

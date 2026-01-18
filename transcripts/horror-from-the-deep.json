@@ -1,0 +1,384 @@
+{
+  "branch": "quest/horror-from-the-deep",
+  "quest_name": "Horror from the Deep",
+  "lines": [
+    {
+      "character": "Larrissa",
+      "line": "Oh, thank Armadyl! I am in such a worry... please help me!"
+    },
+    {
+      "character": "Player",
+      "line": "With what?"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Oh... it is terrible... horrible... My boyfriend lives here in this lighthouse, but I haven't seen him the last few days! I think something terrible has happened!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Look, you can see for yourself that the light has gone out, and the front door is locked up tight! He would NEVER do that!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "With the light off this coastline is terribly dangerous to ships! And to lock the front door so that nobody can turn the light back on?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe he just went on holiday or something? Must be pretty boring living in a lighthouse."
+    },
+    {
+      "character": "Larrissa",
+      "line": "That is terribly irresponsible! He is far too thoughtful for that! He would never leave it unattended! He would also never leave without telling me!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Please, I know something terrible has happened to him... I can sense it! Please... please help me adventurer!"
+    },
+    {
+      "character": "Player",
+      "line": "But how can I help?"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Well, we have to do something to get the lighthouse working again! Also, as you may have noticed, the storm that knocked the bridge out"
+    },
+    {
+      "character": "Larrissa",
+      "line": "has trapped me on this causeway! You seem to have got here okay somehow, so if you could go and visit my cousin and get the spare key I left him,"
+    },
+    {
+      "character": "Larrissa",
+      "line": "as well as fix the bridge enough so that I can go and speak to my family in Rellekka and tell them whats happened, I will be eternally grateful!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll help!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "OH! THANK YOU SO MUCH! I know my darling would never have left with the lighthouse lights off and without even telling me where he's gone!"
+    },
+    {
+      "character": "Player",
+      "line": "Where is your cousin?"
+    },
+    {
+      "character": "Larrissa",
+      "line": "My cousin was always interested in agility. He left our home in Rellekka many moons ago, so that he could pursue this interest."
+    },
+    {
+      "character": "Larrissa",
+      "line": "I don't exactly know where he has gone, but I am sure he went somewhere to practise his agility. If you see him, his name is Gunnjorn. Mention my name, he will recognise it."
+    },
+    {
+      "character": "Player",
+      "line": "How can I fix the bridge?"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Well, I am not just some helpless girl! I have pretty good agility, so you will only need to use two planks to make a ledge that I can balance along."
+    },
+    {
+      "character": "Larrissa",
+      "line": "Just use a plank on each side of the bridge. You will need a hammer, and thirty steel nails for each plank you use as well. I believe there are some planks near here..."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Larrissa",
+      "line": "Thank you so much!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, just passing through."
+    },
+    {
+      "character": "Larrissa",
+      "line": "Oh... my poor darling Jossik... I just know something terrible has happened..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Larrissa",
+      "line": "Oh, please find my darling! I just know something horrible has happened!"
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Haha welcome to my obstacle course. Have fun, but remember this isn't a child's playground. People have died here."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, are you called Gunnjorn?"
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Why, indeed I am. I own this agility course, it can be very dangerous!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, that's great. Anyway, I understand you have a cousin named Larrissa who gave you a key...?"
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Yes, she did! How do you know of this? She said she probably wouldn't need it, but gave it to me for safe keeping just in case."
+    },
+    {
+      "character": "Player",
+      "line": "Well, something has happened at the lighthouse, and she has been locked out. I need you to give me her key."
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Well, I would give you the key, but apparently you don't have any room."
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Sure. Here you go."
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Welcome again to my obstacle course. Have fun, but remember this isn't a child's playground. People have died here."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again, Gunnjorn. I'm afraid I've lost that key you gave me."
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "Well, I would give you another, but apparently you don't have any room."
+    },
+    {
+      "character": "Gunnjorn",
+      "line": "No problem. Here you go."
+    },
+    {
+      "character": "Larrissa",
+      "line": "What? My cousin is the one who gave you my spare copy of the lighthouse key. Do you have memory problems, adventurer?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... no... I was just... Testing you. Yeah. Testing."
+    },
+    {
+      "character": "Player",
+      "line": "I've got your key for you!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Thank you adventurer, but I need you to fix the bridge for me. The key to the lighthouse is of little comfort while I am trapped here on this causeway!"
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed the bridge for you!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Oh, thank you so much!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Please find the key to the lighthouse for me though!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "I cannot bear to think that something bad may have happened to my darling Jossik..."
+    },
+    {
+      "character": "Larrissa",
+      "line": "Please adventurer... We are both curious as to what has happened in that lighthouse, but you need to fix the bridge for me!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Quickly, we must go inside and find out what has happened to my beloved Jossik!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "This is terrible..."
+    },
+    {
+      "character": "Larrissa",
+      "line": "What can have happened here? Please, you must fix the light, we cannot let my darling Jossik take the blame for any shipwrecks!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I will see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing again?"
+    },
+    {
+      "character": "Larrissa",
+      "line": "You MUST find a way to fix the lighthouse! The ships are in terrible danger as long as the light is not working properly!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any idea how I could do that?"
+    },
+    {
+      "character": "Larrissa",
+      "line": "I'm sorry adventurer, I do not know anything about lighthouses."
+    },
+    {
+      "character": "Larrissa",
+      "line": "I'm sure there must be some kind of user's guide around here somewhere though."
+    },
+    {
+      "character": "Larrissa",
+      "line": "My darling Jossik knew nothing about Lighthouses when he first came here, so the council must have left him some kind of manual or something."
+    },
+    {
+      "character": "Larrissa",
+      "line": "Adventurer! You MUST do something about the broken light!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "It is terribly important that ships coming round this coastline do not crash here!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Please adventurer... Do not let curiosity get the better of you! We Have to fix the lighthouse before any accidents happen!"
+    },
+    {
+      "character": "Player",
+      "line": "I have managed to fix the light!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Excellent work, adventurer!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Now you can devote all of your energies to finding out what has happened to my darling Jossik!"
+    },
+    {
+      "character": "Larrissa",
+      "line": "Have you found any sign of my darling Jossik yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet..."
+    },
+    {
+      "character": "Larrissa",
+      "line": "I came out here to see if I could find some sign of him..."
+    },
+    {
+      "character": "Larrissa",
+      "line": "But there is nothing at all. I am so worried..."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'm sure he's fine. I'll find him somehow."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I'll get that back if I put it in there."
+    },
+    {
+      "character": "Jossik",
+      "line": "*cough* Please... please help me... I think my leg is broken, and those creatures will be back any minute now!"
+    },
+    {
+      "character": "Player",
+      "line": "I guess you're Jossik then... What creatures are you talking about?"
+    },
+    {
+      "character": "Jossik",
+      "line": "I... I do not know. I have never seen their like before!"
+    },
+    {
+      "character": "Jossik",
+      "line": "I was searching for information about my uncle Silas, who vanished mysteriously from this lighthouse many months ago. I found the secret of that strange wall, and discovered that I could use it as a door, but when I"
+    },
+    {
+      "character": "Jossik",
+      "line": "came down here I was attacked by..."
+    },
+    {
+      "character": "Jossik",
+      "line": "Well, I do not know what they are, but they are very strong! They hurt me badly enough to trap me here, and I have been fearing for my life ever since!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'm here now. Larrissa was worried about you and asked for my help."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go back upstairs and let her know that I've found you and that you're still alive, and then we can work out some way of getting you out of here, okay?"
+    },
+    {
+      "character": "Jossik",
+      "line": "NO! No, you can't leave me now! Look! They're coming again! Do something!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, now that the creature's dead we can get you out of here."
+    },
+    {
+      "character": "Jossik",
+      "line": "No... you do not understand..."
+    },
+    {
+      "character": "Jossik",
+      "line": "That was not the creature that attacked me..."
+    },
+    {
+      "character": "Jossik",
+      "line": "That was one of its babies..."
+    },
+    {
+      "character": "Player",
+      "line": "I found Jossik! He's in a cavern underground..."
+    },
+    {
+      "character": "Larrissa",
+      "line": "That is wonderful news! But why does he not come up out of there?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... well, there's a big monster down there with him stopping him leaving."
+    },
+    {
+      "character": "Larrissa",
+      "line": "What?!?! You MUST save him! I beseech you, please! Do something!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay, sheesh, keep your hair on..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, it's dead! Let's get out of here!"
+    },
+    {
+      "character": "Jossik",
+      "line": "Yes, quickly, the mother might be dead, but it's children are not!"
+    },
+    {
+      "character": "Jossik",
+      "line": "Follow me upstairs, I might be able to help you with that casket you found."
+    },
+    {
+      "character": "Jossik",
+      "line": "Bring it to my library, it looks familiar somehow..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Gunnjorn",
+      "description": "Middle-aged male, gruff Nordic accent, confident and matter-of-fact tone. A Barbarian who runs an agility course and takes his work seriously, with a dry sense of humor about the dangers of his obstacle course."
+    },
+    {
+      "name": "Jossik",
+      "description": "Adult male, British accent, earnest and slightly nervous tone. A lighthouse keeper who is practical and dutiful, currently injured and frightened after being attacked by unknown creatures in the cavern below the lighthouse."
+    },
+    {
+      "name": "Larrissa",
+      "description": "Young adult female, soft Nordic accent, anxious and pleading tone. A devoted Fremennik woman deeply worried about her missing boyfriend, her voice carries both vulnerability and underlying resolve."
+    }
+  ]
+}

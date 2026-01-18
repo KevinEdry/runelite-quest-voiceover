@@ -1,0 +1,1680 @@
+{
+  "branch": "quest/making-friends-with-my-arm",
+  "quest_name": "Making Friends with My Arm",
+  "lines": [
+    {
+      "character": "Burntmeat",
+      "line": "Always humans running through Burntmeat's kitchen these days. It never used to be like dis."
+    },
+    {
+      "character": "Player",
+      "line": "Well, don't get any funny ideas! You promised you'd never cook another human if I helped My Arm grow goutweed."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "An' dat promise I is keeping! Never another human shall Burntmeat cook. Human taste plenty good raw if you add enough goutweed."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Anyway, Burntmeat been hoping to see you again. Got important visitor here, an' we need your help."
+    },
+    {
+      "character": "Wolfbone",
+      "line": "It good to meet you,. Burntmeat tells me you very helpful human."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "So, you ready for another quest, ? You get good reward if you help us."
+    },
+    {
+      "character": "Player",
+      "line": "Will Burntmeat reward me with burnt meat again? I've been here before, you know!"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Silly human pretends not liking lovely burnt meat! But okay, Burntmeat promises not to give you more burnt meat."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll take your quest."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Good human! You not regret dis, Burntmeat is sure."
+    },
+    {
+      "character": "Player",
+      "line": "So tell me about this quest."
+    },
+    {
+      "character": "Wolfbone",
+      "line": "I come from troll town called Weiss, up in cold mountains to the north. We heard of trolls here, an' wanted to meet."
+    },
+    {
+      "character": "Wolfbone",
+      "line": "Our chief, Mother, want to trade. Weiss trolls invented stuff maybe these trolls want. An' maybe these trolls invented stuff we want in Weiss."
+    },
+    {
+      "character": "Wolfbone",
+      "line": "So Mother want these trolls to send ambassador up to Weiss, maybe teach us their inventions, an' in return I teach Weiss inventions here."
+    },
+    {
+      "character": "Player",
+      "line": "So you're planning on sending someone to Weiss to teach them the technology invented by the Stronghold trolls?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "That correct! An' Burntmeat decided to send My Arm. He best troll to go to Weiss and teach stuff there. He already training assistant to take over goutweed farming."
+    },
+    {
+      "character": "Player",
+      "line": "Why in the heck would you choose My Arm?"
+    },
+    {
+      "character": "Burntmeat",
+      "line": "My Arm is good choice! He been to distant lands, met strange people, come back with new learnings for Stronghold. He obviously best troll for dis job."
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Wolfbone come from Weiss over icy mountains, but you not go that route. It too hard for Stronghold trolls. We not practiced climbing icy mountains."
+    },
+    {
+      "character": "Wolfbone",
+      "line": "That correct. You find boat and go to Weiss by sea instead. Wolfbone tell you the way..."
+    },
+    {
+      "character": "Burntmeat",
+      "line": "Okieday, now you go fetch My Arm an' tell him where he got to go."
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Hey,."
+    },
+    {
+      "character": "Player",
+      "line": "I'm doing another quest for Burntmeat."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat nice. Burntmeat always cook lovely burnt meat for you when you help us before."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, he did. Lots of burnt meat filling my inventory. That was Burntmeat's reward."
+    },
+    {
+      "character": "My Arm",
+      "line": "What Burntmeat need from you dis time?"
+    },
+    {
+      "character": "Player",
+      "line": "There's a troll town called Weiss, up in the north. They want a troll from the Stronghold to go and teach them about the technology you've invented here."
+    },
+    {
+      "character": "My Arm",
+      "line": "'An Burntmeat choose My Arm to go? Dat sound like great honour! It make good sense, too - My Arm got all da goutweed knowledge."
+    },
+    {
+      "character": "My Arm",
+      "line": "Stronghold trolls not really invented much else. We know bashing things with rocks make 'em dead, but maybe Weiss trolls know dat already."
+    },
+    {
+      "character": "My Arm",
+      "line": "But dat not a problem,. My Arm know lots 'bout growing goutweed. It gonna be fine."
+    },
+    {
+      "character": "Player",
+      "line": "Don't you mind leaving your home?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Eh... My Arm not mind. My Arm like seeing places, like dat jungle village where da nice people give us goutweed stuff."
+    },
+    {
+      "character": "Player",
+      "line": "Those nice people might have given you anything you liked, if it would make you stop damaging their village."
+    },
+    {
+      "character": "My Arm",
+      "line": "Anyway, My Arm not mind going to Weiss. No family here now, not since My Other Arm died. Got apprentice ready to take over goutweed farming. Dis gonna be fine."
+    },
+    {
+      "character": "Player",
+      "line": "So My Arm very happy to go teach goutweed farming to trolls in Weiss. It so exciting!"
+    },
+    {
+      "character": "Player",
+      "line": "Isn't there anything else you can teach them?"
+    },
+    {
+      "character": "Player",
+      "line": "Wolfbone said we should go by sea. Apparently the mountains are too hard to cross, so he told me how to get there by sea."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm been on boat before, an' not like it. But My Arm not like crossing cold mountain either... eh, we better go by boat. You got a boat ready?"
+    },
+    {
+      "character": "Player",
+      "line": "I once helped a guy called Larry with some penguins; he's got a boat near here, west of the mountains, near Rellekka. Come and meet me there, and we'll try borrowing it."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, My Arm know how to find it. It on coast near smelly fur-wearing human town you call Rellekka. See you in a bit."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be off."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm look forward to getting on with da job when you ready!"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm very excited 'bout going to Weiss to teach stuff to da trolls. Better hope dey like hearing 'bout goutweed."
+    },
+    {
+      "character": "Player",
+      "line": "Meet me at Larry's boat. I helped him rather a lot with those penguins, so hopefully he'll let us borrow it. It's west of the mountains, near Rellekka."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm know da place, it on coast near smelly fur- wearing human town you call Rellekka. See you in a bit."
+    },
+    {
+      "character": "Larry",
+      "line": "I can't speak right now. I have too much to do. I will contact you when the time is right."
+    },
+    {
+      "character": "Player",
+      "line": "Can I transport My Arm in your boat?"
+    },
+    {
+      "character": "Larry",
+      "line": "Well, yes, I'm sure you've transported your arm every time you've used my boat. Isn't it always attached to the rest of your body?"
+    },
+    {
+      "character": "Player",
+      "line": "My Arm is a troll."
+    },
+    {
+      "character": "Larry",
+      "line": "Your arm is... a troll? It's really not. I can see both of them. Sorry, have you had your brain shrunk into a penguin suit too many times?"
+    },
+    {
+      "character": "Player",
+      "line": "This kind of thing happens a lot when I take My Arm out to places."
+    },
+    {
+      "character": "Larry",
+      "line": "You take your arm out to places? And what the heck is THAT?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm here!"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind, I just need to borrow your boat."
+    },
+    {
+      "character": "Larry",
+      "line": "Sorry, I distinctly heard you say you wanted to transport your arm in it. Have you had your brain shrunk into a penguin suit too many times? I don't lend my boat to mad people."
+    },
+    {
+      "character": "Larry",
+      "line": "That thing is an arm?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat 'thing' is a troll, an' My Arm not like being called a thing!"
+    },
+    {
+      "character": "Player",
+      "line": "This is My Arm, yes. We'd like to borrow your boat, so we can visit more trolls in the north. My Arm is going to teach them to farm."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm is a farmer, yup! Got a farm."
+    },
+    {
+      "character": "Larry",
+      "line": "Your arm's arm has a farm... Please make this stop!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Eh, My Arm thinks dis human kinda dumb. Can we use boat or not? My Arm getting bored."
+    },
+    {
+      "character": "Larry",
+      "line": "You want my boat? Yes, yes, take my boat and go a very long way from me! And take your arm with you!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Are we dere yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "My Arm",
+      "line": "You going too slow. Let My Arm drive!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... well, let's see how this goes..."
+    },
+    {
+      "character": "My Arm",
+      "line": "Is we going backwards?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm didn't know boats could go backwards."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I should drive again."
+    },
+    {
+      "character": "My Arm",
+      "line": "You gettin' angry with My Arm again?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dis boat smell of bird poo."
+    },
+    {
+      "character": "Player",
+      "line": "We didn't have many choices."
+    },
+    {
+      "character": "My Arm",
+      "line": "So... are we dere yet?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Well, we here. My Arm not enjoyed boat ride. Weiss must be up top of cliff, but My Arm not gonna be able to climb up."
+    },
+    {
+      "character": "Player",
+      "line": "Wolfbone said we should moor here and go up the cliffs."
+    },
+    {
+      "character": "Player",
+      "line": "He might have assumed you're good at climbing, since you actually live on a mountain!"
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, I'll have a look around."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not gonna be able to climb dat. Maybe you look for other way first?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not gonna be able to get through dat hole. It got all rocks in da way. You wanna clear it?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't see whether it's safe to clear the blockage from out here, or whether that would collapse the cave."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe if I got into the cave from above, I could clear it more safely from inside."
+    },
+    {
+      "character": "Player",
+      "line": "A cave! Maybe I can go down there, and find a way to mine through the blocked passage from the inside, to let My Arm in..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm supposed to be introducing My Arm to this town as their new friend. Maybe it'd be worth talking to the inhabitants before assuming I need to break into their home."
+    },
+    {
+      "character": "Boulder",
+      "line": "What you want, human? You not coming in. Weiss is troll town - humans not welcome."
+    },
+    {
+      "character": "Player",
+      "line": "My Arm has come to make friends with you."
+    },
+    {
+      "character": "Boulder",
+      "line": "Boulder not sure exactly what you offering, human, but it not sound like something Boulder want to happen."
+    },
+    {
+      "character": "Player",
+      "line": "But My Arm's come a very long way for this, and he's very excited about what he can teach you."
+    },
+    {
+      "character": "Boulder",
+      "line": "Boulder still not sure what you offering, human, but you definitely not doing it in here. Go away!"
+    },
+    {
+      "character": "Player",
+      "line": "Wolfbone's sent My Arm from the Troll Stronghold."
+    },
+    {
+      "character": "Boulder",
+      "line": "Human arm might taste good, maybe, so if Wolfbone sent your arm as snack, we happy to take it an' eat it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not letting you eat my arm."
+    },
+    {
+      "character": "Boulder",
+      "line": "Urgh - human arm attached to human body with human mouth what keep talking an' talking. Shut up an' go away."
+    },
+    {
+      "character": "Player",
+      "line": "You only need to let My Arm in, not me."
+    },
+    {
+      "character": "Boulder",
+      "line": "Human sound confused about how body work. See, mortal body is intrinsic part of mortal being. It not like we got our souls floating up in da sky controlling bodies like puppets."
+    },
+    {
+      "character": "Boulder",
+      "line": "We mortal beings - troll, human, goat - we are our bodies, and our bodies are us. You human got dumb ideas 'bout mind/body dualism."
+    },
+    {
+      "character": "Boulder",
+      "line": "Anyway, Boulder not here to talk ontological distinction between mind an' matter, especially with dumb human who not know what his arm is. So push off."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back!"
+    },
+    {
+      "character": "Boulder",
+      "line": "Maybe next time you come, Boulder get ear-plugs."
+    },
+    {
+      "character": "Squirrel",
+      "line": "Human intruder!"
+    },
+    {
+      "character": "Icicle",
+      "line": "Got ya!"
+    },
+    {
+      "character": "Player",
+      "line": "It's a good thing I got in here before those trolls arrived!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, there's the cave exit I need to clear. Then My Arm can get into this cave."
+    },
+    {
+      "character": "Player",
+      "line": "The Weiss trolls won't trust me until they can see I've really brought a troll here. But they won't be able to see My Arm unless he walks far enough into the cave."
+    },
+    {
+      "character": "Player",
+      "line": "The water looks shallow at the north end. Maybe it can be filled up with rocks, or something, so My Arm could walk further into the cave..."
+    },
+    {
+      "character": "Player",
+      "line": "... and those trolls seem to have plenty of rocks to throw into the water..."
+    },
+    {
+      "character": "Player",
+      "line": "I reckon those stepping stones will let My Arm enter the cave far enough for the trolls to see him! I'd better clear that obstruction so he can get in."
+    },
+    {
+      "character": "My Arm",
+      "line": "T'anks,."
+    },
+    {
+      "character": "Pebble",
+      "line": "Stop chuckin' rocks - it a troll! Bring him to Mother!"
+    },
+    {
+      "character": "Mother",
+      "line": "Welcome to Weiss, troll. I am Mother. Mother sorry about your trouble getting in here."
+    },
+    {
+      "character": "Mother",
+      "line": "We not trust humans. Also, your human keep talking about its arm, and we not want mad human in our town. But now Mother knows human is your servant, we let it come and go freely."
+    },
+    {
+      "character": "My Arm",
+      "line": "T'anks, Mother. is helpful human."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not his servant."
+    },
+    {
+      "character": "Mother",
+      "line": "Humans are not welcome in Weiss. If you are not the servant of this troll, you should go away and never return."
+    },
+    {
+      "character": "Player",
+      "line": "I see."
+    },
+    {
+      "character": "Player",
+      "line": "Why are you called Mother, Mother?"
+    },
+    {
+      "character": "Mother",
+      "line": "A troll child is named after the first thing they try to eat. This is tradition of troll people. My full name is Mother's Left One."
+    },
+    {
+      "character": "My Arm",
+      "line": "* cough *"
+    },
+    {
+      "character": "Player",
+      "line": "Let's move on with the chat."
+    },
+    {
+      "character": "Mother",
+      "line": "This here is Don't Know What, loyal bodyguard and chief sentry. He like a son to Mother."
+    },
+    {
+      "character": "Mother",
+      "line": "This old troll is Odd Mushroom. He is big clever-clogs, and it makes him talk funny, but Mother puts up with it. Odd Mushroom invents stuff for Mother."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "It's a real pleasure to meet you, My Arm. And you too,. I look forward tremendously to working with you both."
+    },
+    {
+      "character": "Mother",
+      "line": "And here come Mother's daughter, Snowflake."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Hello Father."
+    },
+    {
+      "character": "My Arm",
+      "line": "Oh...... look!"
+    },
+    {
+      "character": "Snowflake",
+      "line": "Hello, visitor. I am Snowflake."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm very pleased to see Snowflake."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Your arm is pleased to see me?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm got named My Arm by my dad, after My Arm tried to nibble his arm... sorry, My Arm not want to bore you."
+    },
+    {
+      "character": "Snowflake",
+      "line": "You are not boring - I like how My Arm talks. My father is Mother. He named me after a snowflake."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat a pretty name. For a pretty troll. Maybe you get to know My Arm better soon?"
+    },
+    {
+      "character": "Snowflake",
+      "line": "I would like to spend more time with My Arm, yes."
+    },
+    {
+      "character": "Mother",
+      "line": "Snowflake! We men got business to talk! Shut up and get out."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Sorry, Father."
+    },
+    {
+      "character": "My Arm",
+      "line": "Aww..."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "You really shouldn't speak to her that way, Mother. It's incredibly rude."
+    },
+    {
+      "character": "Mother",
+      "line": "You shut up too, or Mother break your clever-clogs head open an' see how smart your brain is when it outside your skull!"
+    },
+    {
+      "character": "Mother",
+      "line": "Snowflake got to respect boss, an' that is Mother. When Mother retire as boss, Don't Know What will marry Snowflake. Then he will be boss, an' Snowflake got to respect him."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "She doesn't want that, you know."
+    },
+    {
+      "character": "Mother",
+      "line": "This your last warning - shut up! Weiss needs strong boss - that is how we survive. For now, Mother is strongest boss. Some day, Don't Know What will be strongest boss. Otherwise trolls die out."
+    },
+    {
+      "character": "Mother",
+      "line": "So, arm troll, you come from Stronghold to share what you know. What you got?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "In return, we can teach you all about the special fires we've invented. They can be very useful."
+    },
+    {
+      "character": "My Arm",
+      "line": "Well, My Arm know 'bout goutweed farming."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "That sounds jolly exciting!"
+    },
+    {
+      "character": "Mother",
+      "line": "Farming? That a stupid skill for a man-troll. Proper man-troll should use his muscles. You teach us something better than that, or you get out and not come back!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Uh..., what do we do now? If he kick us out, My Arm never gonna see Snowflake again. Help!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell him goutweed is delicious."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yeah! Mother should try goutweed. It taste so good! Everything taste better with goutweed, an' My Arm know how to grow it."
+    },
+    {
+      "character": "Mother",
+      "line": "Mother is not interested in eating stupid vegetables. Mother likes wolf flesh, freshly killed, with blood running down Mother's jaw."
+    },
+    {
+      "character": "Mother",
+      "line": "Mother gets real warm fuzzy feeling inside, eating furry wolf."
+    },
+    {
+      "character": "Mother",
+      "line": "You better have something else to offer, or you go home an' stop wasting Mother's time."
+    },
+    {
+      "character": "My Arm",
+      "line": "?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell him how tough Stronghold trolls are."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yeah, we really good at combat. Trolls near Stronghold, dey chuck rocks really hard. An' My Arm helped save da goutweed patch from big flappy bird thing!"
+    },
+    {
+      "character": "Mother",
+      "line": "Mother has trolls already who chuck rocks really hard. Also Mother has seen birds - they are not scary."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dis bird - it were really big though..."
+    },
+    {
+      "character": "Mother",
+      "line": "Mother is not impressed. Have Stronghold trolls nothing else to offer?"
+    },
+    {
+      "character": "My Arm",
+      "line": "What we do now, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell him to show respect to his daughter."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yeah, My Arm not like how Mother talks to Snowflake."
+    },
+    {
+      "character": "Mother",
+      "line": "Mother is boss; Snowflake will obey her father. Arm troll is making Mother angry. Now, what you teaching us?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Dis not working, !"
+    },
+    {
+      "character": "Player",
+      "line": "Tell him you love his daughter!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Really? If My Arm start talking' bout what My Arm want to do with his daughter, he probably gonna get angry or freaked out."
+    },
+    {
+      "character": "Player",
+      "line": "I meant on a more emotional level..."
+    },
+    {
+      "character": "Mother",
+      "line": "Mother can hear you! It not matter. Mother's daughter, Snowflake, will marry Don't Know What. Then he can be boss when Mother retires."
+    },
+    {
+      "character": "Mother",
+      "line": "Trolls need strong boss. Mother kept trolls alive through Mother's strength! Otherwise trolls would have died long ago. Once Mother retires, Don't Know What is strongest."
+    },
+    {
+      "character": "Mother",
+      "line": "So Don't Know What will marry Snowflake and be boss of Weiss. No more talk on this! You arm troll, you teach us something good or go home!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll get back to you in a bit."
+    },
+    {
+      "character": "My Arm",
+      "line": "Sorry, Mother, My Arm got nothing else. But My Arm not want to leave - can My Arm stay please?"
+    },
+    {
+      "character": "Mother",
+      "line": "Arm troll is useless. Get out of here!"
+    },
+    {
+      "character": "My Arm",
+      "line": "Oh, My Arm is being sent home. Stupid big Mother not interested in goutweed. My Arm would prefer to stay with Snowflake."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I wish My Arm did not have to leave."
+    },
+    {
+      "character": "Player",
+      "line": "Mother wasn't very nice to Snowflake in there."
+    },
+    {
+      "character": "Snowflake",
+      "line": "My father, Mother, did not like me talking to My Arm. Whoever marries me will rule Weiss after Father retires or dies, and Father wishes that to be Don't Know What, the biggest sentry."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not happy 'bout dat."
+    },
+    {
+      "character": "Snowflake",
+      "line": "My Arm is not as big as Don't Know What, and I think he is less strong too. Father would not approve of him as a suitor for me."
+    },
+    {
+      "character": "My Arm",
+      "line": "Mother should mind own business, an' not tell Snowflake who to marry."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Father is... horrible to me."
+    },
+    {
+      "character": "Player",
+      "line": "Snowflake, you seemed to like My Arm."
+    },
+    {
+      "character": "Snowflake",
+      "line": "He is different from other man-trolls. I know already that I want My Arm by my side."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm want that too."
+    },
+    {
+      "character": "Player",
+      "line": "Odd Mushroom, why are you here with us?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Oh, Mother's been annoying me for years. He doesn't care about anything except fighting. Whatever I invent for him, he ignores it completely if he can't use it in combat."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "That's why he dismissed My Arm's farming expertise too. He's really holding Weiss back. Trolls should aspire to be more than just lumbering monsters."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Mother won't change himself, and none of us are strong enough to force him, especially with Don't Know What guarding him... but maybe My Arm can help."
+    },
+    {
+      "character": "Player",
+      "line": "It sounds like you want My Arm to overthrow Mother for you."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "I deplore violence. No, I want Mother to let Snowflake marry My Arm, instead of marrying Don't Know What. Snowflake's smart, and she'll rule us better."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "But if she marries Don't Know What, he'll insist on ruling Weiss himself like Mother does - and he's no better than Mother. So I'd rather My Arm stayed here and married Snowflake."
+    },
+    {
+      "character": "Snowflake",
+      "line": "The choice should be from my heart, not from anyone else - though I like this plan very much!"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm like plan too. My Arm marry Snowflake, an' she become boss of town, an' My Arm teach town to farm goutweed. Yup, good plan."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "So we will need Mother to gain respect for My Arm, so that he'll consent to the marriage."
+    },
+    {
+      "character": "Snowflake",
+      "line": "How can we get Father to respect My Arm? He likes Don't Know What because Don't Know What is strong, but My Arm is... different."
+    },
+    {
+      "character": "Player",
+      "line": "Can I kill Mother? That usually solves problems in quests."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I would prefer you not to kill Father. He is cruel, but he is my blood."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Let's not have any unnecessary killing."
+    },
+    {
+      "character": "Player",
+      "line": "Can My Arm fight Mother?"
+    },
+    {
+      "character": "My Arm",
+      "line": "He really big though."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I do not think that would be wise, dear."
+    },
+    {
+      "character": "Player",
+      "line": "Can My Arm fight Don't Know What?"
+    },
+    {
+      "character": "My Arm",
+      "line": "He look dumb, but he kinda big."
+    },
+    {
+      "character": "Snowflake",
+      "line": "He is dumb, but he is big. I think this would not work."
+    },
+    {
+      "character": "Player",
+      "line": "Does Mother respect anything except fighting?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Mother's strength saved this tribe, in the past. That's how he became chief. He truly believes that if our chief is not physically strong, we will die out."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "You see, we have not always lived in Weiss. We used to live further south, near the dwarf town they call Keldagrim, until we were driven out..."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "That Wise Young Man drove us out into the barren icy mountains. Without Mother's strength to overcome obstacles and catch food, I believe we would have perished."
+    },
+    {
+      "character": "Player",
+      "line": "Did you say the dwarves called that human the 'Wise Young Man'?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Yes, that's right. They treated him as a great hero after he drove us out of our tunnels."
+    },
+    {
+      "character": "Player",
+      "line": "I know that Wise Young Man you mentioned! I did a quest with him where we saved a fishing colony. He's the Wise Old Man now."
+    },
+    {
+      "character": "Snowflake",
+      "line": "You know the mortal enemy of our people! What did you do in the fishing colony with him?"
+    },
+    {
+      "character": "Player",
+      "line": "We killed a lot of trolls."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Oh."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "I see."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Very well. That Wise Young Man killed many of our people, and I am disappointed that you worked with him, but I shall overlook it for My Arm."
+    },
+    {
+      "character": "My Arm",
+      "line": "So if you all hate dis old man, how about My Arm kill him? Then Mother gonna really like My Arm! Old human sounds easy to kill."
+    },
+    {
+      "character": "Player",
+      "line": "I did some fishing and fetched some stuff."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Very well. That Wise Young Man killed many of our people, and I am glad that you are different from him."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Yes! If you kill the human who drove us out from the Keldagrim tunnels, Mother will call you a hero and be pleased for you to marry Snowflake. Can you go and do it?"
+    },
+    {
+      "character": "Player",
+      "line": "No, My Arm can't kill the Wise Old Man! The Wise Old Man is far too powerful."
+    },
+    {
+      "character": "My Arm",
+      "line": "Dat a shame. But he know you, an' you helped him in fishy colony place. Maybe you ask him a favour now?"
+    },
+    {
+      "character": "Player",
+      "line": "You're suggesting I ask him to let you kill him, just so that you can marry Snowflake?"
+    },
+    {
+      "character": "My Arm",
+      "line": "Please!"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Ah, no. He surely won't agree to die. But perhaps he can pretend he's dead, while My Arm tricks Mother into believing it. Can you ask him, ?"
+    },
+    {
+      "character": "Player",
+      "line": "This is a very strange request!"
+    },
+    {
+      "character": "Snowflake",
+      "line": "Please ask him, ! For me and My Arm!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back in a moment."
+    },
+    {
+      "character": "Player",
+      "line": "Snowflake can leave with us. Then she and My Arm can be together, in the Troll Stronghold."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Um... thank you for the offer, but..."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Ah. Mother is our chief, and as his daughter, Snowflake is the heir to the throne of Weiss. So Snowflake or her future husband will rule this town. My Arm may be a charming chappy..."
+    },
+    {
+      "character": "My Arm",
+      "line": "T'anks, mushroom troll."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "... but Snowflake shouldn't be expected to run away from Weiss, abandoning what's hers. No, we should try to keep My Arm here."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Have you asked the Wise Old Man to help us? We only need him to pretend to be dead, so My Arm can claim credit for killing him, and impress Father."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Yes, that would impress Mother very much."
+    },
+    {
+      "character": "Player",
+      "line": "I've not discussed it with him yet."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Greetings,."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "It's good of you to pop in,. What brings you to Draynor today?"
+    },
+    {
+      "character": "Player",
+      "line": "My Arm needs your help."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "You should see a doctor about your arm."
+    },
+    {
+      "character": "Player",
+      "line": "Not my arm, I mean My Arm."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "... you should see a doctor about your brain."
+    },
+    {
+      "character": "Player",
+      "line": "That's not helping."
+    },
+    {
+      "character": "Player",
+      "line": "Can you pretend you're dead?"
+    },
+    {
+      "character": "Player",
+      "line": "That looked very strange."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "You asked me to pretend I'm dead. That's what I imagine it would be like."
+    },
+    {
+      "character": "Player",
+      "line": "Let me explain... A troll called My Arm needs to pretend he's killed you. This will impress his girlfriend's father, Mother."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "His girlfriend's father, Mother?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. You drove Mother's tribe of trolls out of the dwarf tunnels near Keldagrim, long ago, and Mother's hated you ever since."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I remember driving trolls out of those tunnels, yes. So now there's a troll called My Arm who wants to pretend he's killed me in revenge, to impress his girlfriend's father, who is called Mother?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. If Mother thinks My Arm has killed you, he'll let My Arm marry his daughter, Snowflake."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Hmmmph. That's quite a big favour you're asking. I've spent much of my life saving people from monsters like that, not providing family mediation services for them."
+    },
+    {
+      "character": "Player",
+      "line": "You'll get rewarded if you help."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I don't think so, thank you. In my experience, a troll's idea of a quest reward is probably something useless like a pile of burnt meat."
+    },
+    {
+      "character": "Player",
+      "line": "You owe me a favour after the Fishing Colony quest."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I suppose you did save my life from the Sea Troll Queen. That has to count for something..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Very well, I'll help. I'll need a cadava potion from the Varrock Apothecary, calibrated to suit my age. Also build me a proper mahogany coffin here - I wouldn't be seen dead in a cheap oak or teak one."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I'll try to get the potion and build you a coffin here."
+    },
+    {
+      "character": "Player",
+      "line": "I'll think about it."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I asked you to get me a cadava potion from the Varrock Apothecary, calibrated to suit my age, and to build me a mahogany coffin. How are you getting on?"
+    },
+    {
+      "character": "Player",
+      "line": "I've not built the coffin yet."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "So I see. Make sure it's mahogany when you do - I wouldn't be seen dead in a cheap oak or teak one. You can build it here."
+    },
+    {
+      "character": "Player",
+      "line": "I've not got the potion from the Apothecary yet."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Really? He's in Varrock, near the south-west corner of the city. He's a funny chap, but he knows his trade."
+    },
+    {
+      "character": "Apothecary",
+      "line": "I am the Apothecary. I brew potions. Do you need anything specific?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you remember the Cadava potion you made for Juliet? Can you make another one for the Wise Old Man? He said you'd need to calibrate the dosage to suit his age."
+    },
+    {
+      "character": "Apothecary",
+      "line": "I suppose he'd need a smaller dose than Juliet did, yes. She's a healthy young woman in the prime of her life, while he's been around for decades."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Well, I'm sure you remember the drill. I'll supply the wing of rat, tail of frog, ear of snake and horn of dog... and you need to bring me some Cadava berries."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah, cadava berries. I'll be back."
+    },
+    {
+      "character": "Player",
+      "line": "Yup, I brought some of those."
+    },
+    {
+      "character": "Apothecary",
+      "line": "That's very clever. I hope you've got a real feeling of pride and satisfaction from that."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've built the coffin."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Maybe I should have told you to make a gilded one, with a marble pedestal and crystal ornamentation. It would look more fitting... but no, this will do."
+    },
+    {
+      "character": "Player",
+      "line": "I got the potion from the Apothecary."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Good. Hand it to me, then let us proceed with this charade."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, that looks about right. I wouldn't want to drink more than this, or I might risk an overdose. Well, here goes..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "* BURP *"
+    },
+    {
+      "character": "Player",
+      "line": "The Wise Old Man has disguised himself as a corpse in a coffin to help you two."
+    },
+    {
+      "character": "My Arm",
+      "line": "He very obliging, dis mortal enemy of Weiss. Must have been big favour he owed. Okieday, give coffin to My Arm, an' My Arm give him to Mother."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, now My Arm has Wise Old Man in box! We go show Mother now. Maybe he like My Arm for killing big enemy of trolls."
+    },
+    {
+      "character": "My Arm",
+      "line": "Here, Mother, look what My Arm done! My Arm done killed your old enemy! He kick you out of Keldagrim long back, now My Arm got him dead in gift-box!"
+    },
+    {
+      "character": "Mother",
+      "line": "My Arm did this? My Arm killed him?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "My Arm is clearly a great warrior, beyond the skills of any Weiss troll. We should welcome him into the tribe."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yeah, let My Arm stay in Weiss please. Also, can My Arm marry your daughter?"
+    },
+    {
+      "character": "Mother",
+      "line": "Huh. Mother must think about that. But look at this body here..."
+    },
+    {
+      "character": "Mother",
+      "line": "What kind of fight was this? Where is the blood? When Mother kills an enemy, there is blood. Much blood. Blood, brains, gut juices."
+    },
+    {
+      "character": "Mother",
+      "line": "This old man could have died of old age in his sleep. How is that revenge for what he did to Mother? And to Mother's people?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Come on, Mother. That man was our mortal enemy, and now My Arm's brought us his corpse. Accept My Arm as a friend and let's move on like civilised people."
+    },
+    {
+      "character": "Mother",
+      "line": "You shut up, Odd Mushroom! Always talking about moving on, talking about civilising, talking about progress - what kind of troll are you?"
+    },
+    {
+      "character": "Mother",
+      "line": "You messed up Mother's daughter - she uses long words like you, talks about leading trolls into future."
+    },
+    {
+      "character": "Mother",
+      "line": "She needs to marry proper troll, like Don't Know What, and remember how trolls are. Don't Know What can lead tribe for real."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Stop it, Father! You cannot tell me how to think, or how to live, or how to love. And I will be with My Arm."
+    },
+    {
+      "character": "Mother",
+      "line": "I am Mother. I am your father, and you will obey me! This Arm troll brings nothing but trouble, and Mother does not trust him. In fact..."
+    },
+    {
+      "character": "Mother",
+      "line": "What?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Um... Don't worry, Mother, this is totally normal for a dead wizard. It's the magic escaping from the cadaver..."
+    },
+    {
+      "character": "Player",
+      "line": "I don't remember Juliet doing that!"
+    },
+    {
+      "character": "Mother",
+      "line": "A TRICK!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Those salt formations are really quite remarkable. Your troll friends are having a private moment, so I'll study these while my head recovers from that potion."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Snowflake, are you there? Reason tells me there is light in here, but my mind sees darkness."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Snowflake?"
+    },
+    {
+      "character": "Snowflake",
+      "line": "I am here. Father did not hurt me much. Can you stand, Odd Mushroom?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "... no, I don't think so. I am glad you are here with me, Snowflake. I must tell you something..."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "I can smell that Mother has lit a Fire of Domination, up above. He never cared for most of my inventions, but he liked that one."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "That's the one that traps his enemies, and helps him beat them to a pulp. Definitely his favourite. He must intend to kill you all."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Fire of Domination?"
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "... I suppose I have no secrets, now, even from the age- old enemy of Weiss. But you and I are thinkers, and in other circumstances we might have been friends."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "These salts in the mine - I invented ways to combine them, unlock their power. In a fire, they can work wonders."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "The Fire of Domination will block teleportation magicks, and it also aids Mother in a fight. It makes him incredibly dangerous."
+    },
+    {
+      "character": "Player",
+      "line": "So we can't teleport out of here?"
+    },
+    {
+      "character": "Snowflake",
+      "line": "That hole leads down to the sea. But it's far too narrow for a troll to get through."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm not want to enter smelly hole!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I don't think I could get in there either, even if the smell weren't abhorrent. But might be able to fit."
+    },
+    {
+      "character": "Player",
+      "line": "I'll never leave you."
+    },
+    {
+      "character": "My Arm",
+      "line": "You good friend,."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Anyway, Odd Mushroom was telling us about the fires he'd invented."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "I wrote down my inventions, but many of my notes are lost. Mother only ever cared about the Fire of Domination, and fires he could use for combat."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "It can be hard to interest trolls in the delicate skill of Firemaking, sometimes. But perhaps Snowflake can find my lost notes, and carry on the science. She's far smarter than her father."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "But I never invented a fire that could stave off the eternal dark, and... I feel it coming."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Snowflake, you must take over Weiss. You saw what Mother did to you, and to me, and to My Arm. Trolls will never be more than thuggish monsters as long as he rules."
+    },
+    {
+      "character": "My Arm",
+      "line": "Mother did hit My Arm pretty hard."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I know what I must do. With My Arm at my side, I will avenge you. You were always more of a father to me than Mother ever could be."
+    },
+    {
+      "character": "Odd Mushroom",
+      "line": "Thank you, child..."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "That'll be handy if I feel like escaping."
+    },
+    {
+      "character": "My Arm",
+      "line": "Aww."
+    },
+    {
+      "character": "Snowflake",
+      "line": "My Arm, Old Man, we are going to get out of here, and punish my father for what he has done."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "You have my support."
+    },
+    {
+      "character": "My Arm",
+      "line": "And My Arm."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I hate to be indelicate, but... it may not be possible to overthrow Mother without killing him, especially if the fire makes him as dangerous as Odd Mushroom said."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Father killed Odd Mushroom. Odd Mushroom was like a father to me. Mother must pay the price. Also I think he really will kill us all."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": ", you heard Odd Mushroom's warning. We can't use our teleport magicks, so the only escape - for you - is down the smelly hole."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Also, if we drop anything in here, I bet you're not going to be able to retrieve it. Items dropped in here will be lost forever."
+    },
+    {
+      "character": "Player",
+      "line": "So I can't teleport, and I may lose stuff? Okay."
+    },
+    {
+      "character": "My Arm",
+      "line": "is brave human an' good friend for My Arm and Snowflake!"
+    },
+    {
+      "character": "Snowflake",
+      "line": "Old Man, do your magic and open that door!"
+    },
+    {
+      "character": "Squirrel",
+      "line": "Aargh - they're out!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not ready to fight yet."
+    },
+    {
+      "character": "My Arm",
+      "line": "Okieday, we hang around here until you are."
+    },
+    {
+      "character": "Mother",
+      "line": "... so you two kill the stupid Arm troll and the human it brought with it. Mother will sort Snowflake out permanently."
+    },
+    {
+      "character": "Odd Stone",
+      "line": "Mother cannot mean to kill Snowflake, surely?"
+    },
+    {
+      "character": "Mother",
+      "line": "You want to do it yourself?"
+    },
+    {
+      "character": "Odd Stone",
+      "line": "Um... that was not what I meant."
+    },
+    {
+      "character": "Mother",
+      "line": "Question Mother again, and it will be your blood that Mother drinks instead. Snowflake betrayed her father, and Mother does not forgive."
+    },
+    {
+      "character": "Butterfly",
+      "line": "We are not happy about this."
+    },
+    {
+      "character": "Mother",
+      "line": "Mother does not need you to be happy. Mother requires only that you obey, or die. We are trolls, not softy liberals like Snowflake."
+    },
+    {
+      "character": "Squirrel",
+      "line": "OLD MAN IN THE DUNGEON!"
+    },
+    {
+      "character": "Squirrel",
+      "line": "OLD MAN IN THE DUNGEON! Thought you ought to know."
+    },
+    {
+      "character": "Mother",
+      "line": "Of course he is in the dungeon. Mother put him there."
+    },
+    {
+      "character": "Squirrel",
+      "line": "No, I mean he got out."
+    },
+    {
+      "character": "Both",
+      "line": "Aaargh!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "We got him!"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm sorry 'bout your dad, Snowflake. But he kinda gonna kill us, anyway."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I am sorry too. Father was flawed, but he did much for our people, and he should have retired with honour long ago."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Old Man, thank you both for your help."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I'm not sure this was my proudest adventure, but you're welcome. I think I'll head off home to Draynor quite soon."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Very well. You will always be welcome here. Now, that is enough of the past. I feel the future beginning in Weiss... Let us summon my tribe."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Trolls of Weiss, I am Snowflake, daughter of Mother, my father. Mother is dead, and I claim the throne."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, My Arm helped Snowflake kill him."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Let's not emphasise that bit now, eh?"
+    },
+    {
+      "character": "Snowflake",
+      "line": "Does any troll here challenge me?"
+    },
+    {
+      "character": "Odd Stone",
+      "line": "Nope, we like Snowflake."
+    },
+    {
+      "character": "Goat Poo",
+      "line": "Snowflake nicer than Mother. We okay with Snowflake."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Then the throne of Weiss is mine. I also call you to witness our marriage., please step forward."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I, Snowflake, give myself to My Arm. I take My Arm as my support and comforter. I will hold My Arm by my side for life."
+    },
+    {
+      "character": "Snowflake",
+      "line": "My Arm is my friend forever. I will share the sorrows of life with My Arm, and I will share the joys of love with My Arm."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm will support Snowflake. My Arm will be at Snowflake's side. My Arm takes Snowflake by the hand for life."
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm will be Snowflake's companion when sun shines an' life is bright. My Arm will be Snowflake's comfort in dark places."
+    },
+    {
+      "character": "Player",
+      "line": "I pronounce you husband and wife!"
+    },
+    {
+      "character": "Snowflake",
+      "line": "We now perform the ancient dance of love..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well, that was jolly charming, but I'm off now. Good bye."
+    },
+    {
+      "character": "My Arm",
+      "line": "Sure would have been easier gettin' up to dis place if My Arm could do tellypot like dat!"
+    },
+    {
+      "character": "Snowflake",
+      "line": ", we owe you so much, and we will thank you - but we still need one small favour first."
+    },
+    {
+      "character": "Player",
+      "line": "You need... one small favour...? I've heard that said before."
+    },
+    {
+      "character": "My Arm",
+      "line": "Yup, you good at dis stuff. My Arm been telling Snowflake how you fetched all kinda stuff to Stronghold for My Arm before."
+    },
+    {
+      "character": "Player",
+      "line": "... yes, as an experienced adventurer, I have indeed fetched stuff for people."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Good. Now please fetch us some goat dung. You should find some in the goat pen outside. Meanwhile I need to assign some of my trolls to different duties around Weiss."
+    },
+    {
+      "character": "Player",
+      "line": "What do you want with goat dung?"
+    },
+    {
+      "character": "Snowflake",
+      "line": "I think it will be useful to us. You will see why soon enough."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back."
+    },
+    {
+      "character": "Player",
+      "line": "This is the kind of thing that's best carried in buckets."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Have you got the goat dung?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I've not got any goat dung yet."
+    },
+    {
+      "character": "Snowflake",
+      "line": "You should find some in the goat pen outside. Meanwhile I need to assign some of my trolls to different duties around Weiss."
+    },
+    {
+      "character": "Snowflake",
+      "line": "My Arm, what do you think, dear?"
+    },
+    {
+      "character": "My Arm",
+      "line": "My Arm t'inks dis gonna work, yeah!"
+    },
+    {
+      "character": "Snowflake",
+      "line": "Good! My Arm said you needed camel dung to grow goutweed. But goat dung is similar enough - I will make my trolls build farming patches from goat dung instead."
+    },
+    {
+      "character": "My Arm",
+      "line": "She got trolls to use goat poo to make two herb patches! One for us to grow goutweed, an' one for you, 'cos you been good friend. We protect your stuff from disease."
+    },
+    {
+      "character": "Snowflake",
+      "line": "I have searched through Odd Mushroom's possessions. Sadly much of his research has been lost. I have copied what I could find into a book for you."
+    },
+    {
+      "character": "Snowflake",
+      "line": "He would have wanted you to have it - some of his inventions are not useful here, but you are a traveller and may find places to use them."
+    },
+    {
+      "character": "My Arm",
+      "line": "You give it looksie now, an' see if you learn good stuff! Go on, Snowflake work hard on dis for you!"
+    },
+    {
+      "character": "My Arm",
+      "line": "You read book from Snowflake yet? She work hard on it for you."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I've got it here."
+    },
+    {
+      "character": "My Arm",
+      "line": "Oh."
+    },
+    {
+      "character": "Player",
+      "line": "I read that book you gave me."
+    },
+    {
+      "character": "My Arm",
+      "line": "Good! Now you know all Odd Mushroom's fire learnings, an' maybe they be useful to you."
+    },
+    {
+      "character": "Snowflake",
+      "line": "When we have finished here, I would like you to try the Fire of Nourishment. Although Boulder made two herb patches as we told him, crops will not grow without such a fire to strengthen them."
+    },
+    {
+      "character": "My Arm",
+      "line": "Herbie patches are outside Weiss, through gap in fence, west of town. One patch is for you, an' Boulder gonna protect it from disease for you."
+    },
+    {
+      "character": "Player",
+      "line": "I'll bear it in mind. Through the gap in the fence, to the west of the town, you say?"
+    },
+    {
+      "character": "Snowflake",
+      "line": "That is right,. You can mine the salts in the cave below, next to the prison."
+    },
+    {
+      "character": "Snowflake",
+      "line": "Now, let us thank you for bringing us together, for saving our lives and for marrying us..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Apothecary",
+      "description": "Middle-aged male, British accent, measured and professional tone, a knowledgeable potion brewer with a dry, matter-of-fact demeanor who takes pride in his pharmaceutical expertise."
+    },
+    {
+      "name": "Both",
+      "description": "Two trolls speaking in unison, deep gruff voices, panicked and fearful tone as they are being attacked."
+    },
+    {
+      "name": "Boulder",
+      "description": "Adult male troll, deep rumbling voice with broken English, gruff and dismissive tone, a philosophical guard who enjoys debating but has no patience for confusing humans."
+    },
+    {
+      "name": "Burntmeat",
+      "description": "Adult male troll, deep gravelly voice with broken English, earnest and self-important tone, a delusional chef who genuinely believes his burnt meat is a delicacy."
+    },
+    {
+      "name": "Butterfly",
+      "description": "Adult male troll, deep voice with broken English, uneasy and reluctant tone, a Weiss troll who follows orders but questions cruel commands."
+    },
+    {
+      "name": "Goat Poo",
+      "description": "Adult male troll, deep voice with broken English, simple and agreeable tone, a straightforward Weiss troll who prefers kind leaders."
+    },
+    {
+      "name": "Icicle",
+      "description": "Adult male ice troll, deep aggressive voice with broken English, short and hostile tone, a Weiss guard who attacks intruders on sight."
+    },
+    {
+      "name": "Larry",
+      "description": "Middle-aged male, British accent, frantic and neurotic tone, an eccentric zoo keeper obsessed with penguins who gets easily confused and stressed."
+    },
+    {
+      "name": "Mother",
+      "description": "Elder male troll, very deep commanding voice with broken English, aggressive and authoritarian tone, a brutal warlord chief who values strength above all and rules through fear and violence."
+    },
+    {
+      "name": "My Arm",
+      "description": "Young adult male troll, deep voice with broken English and enthusiastic tone, a cheerful and earnest farmer who loves goutweed and gets excited about new experiences and romance."
+    },
+    {
+      "name": "Odd Mushroom",
+      "description": "Elder male troll, surprisingly refined and articulate voice, gentle and intellectual tone, a brilliant inventor who speaks perfect common tongue and values wisdom over brute strength."
+    },
+    {
+      "name": "Odd Stone",
+      "description": "Adult male troll, deep voice with broken English, cautious and hesitant tone, a Weiss troll who questions authority but fears the consequences."
+    },
+    {
+      "name": "Pebble",
+      "description": "Adult male troll, deep voice with broken English, aggressive and alert tone, a Weiss guard who takes his duties seriously."
+    },
+    {
+      "name": "Snowflake",
+      "description": "Young adult female troll, softer voice than typical trolls but still distinctly trollish, intelligent and articulate tone, a princess who values science and empathy over combat and speaks with more refinement than her kin."
+    },
+    {
+      "name": "Squirrel",
+      "description": "Adult male troll, deep voice with broken English, panicked and excitable tone, a Weiss troll sentry who dramatically announces threats."
+    },
+    {
+      "name": "Wise Old Man",
+      "description": "Elderly male, refined British accent, dry and sardonic tone, a legendary wizard and former adventurer who is somewhat bitter but still commands respect and enjoys being theatrical."
+    },
+    {
+      "name": "Wolfbone",
+      "description": "Adult male troll, deep voice with broken English, measured and diplomatic tone, a composed ambassador from Weiss who is more civilized than typical trolls."
+    }
+  ]
+}

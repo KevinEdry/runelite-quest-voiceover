@@ -1,0 +1,2916 @@
+{
+  "branch": "quest/one-small-favour",
+  "quest_name": "One Small Favour",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Is there anything else interesting to do around here?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "You sound a bit bored of Shilo Village...what's wrong?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, I was just wondering if there was anything else to do?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Well, if you're bored, you could do me a small favour and nip to see the jungle forester. I need a piece of red mahogany to resurface an antique wardrobe."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, see you in a tick!"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Great, nice of you to do it for me."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get going then!"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "That'd be helpful!"
+    },
+    {
+      "character": "Player",
+      "line": "Where do I meet this jungle forester?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Oh, sorry, I thought you knew the area. You'll find a jungle forester in between the southern edge of Shilo Village and the Kharazi Jungle."
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "They're always trying to find ways into that place."
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "I hear that some old timer from the Legends Guild keeps sending new recruits down there..only Zamorak knows why."
+    },
+    {
+      "character": "Player",
+      "line": "Nah thanks, I've got bigger fish to fry."
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Fair enough! Hope it all goes well...but, you know, you looked bored so I just thought I'd suggest it."
+    },
+    {
+      "character": "Player",
+      "line": "What was I supposed to do again?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "I've forgotten what to do, can you remind me?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Tsk....It's only a little job bwana, I ask you to do me one small favour! Go to the jungle forester and get me a piece of red mahogany. It can't be that difficult can it?"
+    },
+    {
+      "character": "Player",
+      "line": "This is taking longer than I expected!"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "You're telling me bwana, I was supposed to have this wardrobe finished before now! Hurry it up will you, I don't have all day!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there an easier way of getting this exotic wood?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Huh! You make it sound like a major undertaking! I should have just done it myself!"
+    },
+    {
+      "character": "Player",
+      "line": "Everyone is asking me to do them favours now! It seems like I've opened the floodgates!"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Well, can't you just do my favour and forget about theirs?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Hello friend. You're a long way from Lumbridge!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about red mahogany."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Oh, yes, well I can get you a piece but I need my axe sharpening... Do me a small favour would you? Take it to Captain Shanks for me."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll take your axe to get it sharpened."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Great, here you go! If you could ask the Captain to pop it into Brian's Axes for resharpening when he's next in Port Sarim, that would be really helpful."
+    },
+    {
+      "character": "Player",
+      "line": "Why should I take it to Captain Shanks?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "He's the Captain of the 'Lady of the Waves', he goes to Port Sarim quite often. Could you ask the Captain to drop the axe in at Brian's Axes the next time he's in Port Sarim? I'm sure he won't mind!"
+    },
+    {
+      "character": "Player",
+      "line": "Where is Captain Shanks?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Wow, you're really not from around here are you? The Captain is to the west of here, follow the northern edge of the Kharazi Jungle, he's usually on board his ship!"
+    },
+    {
+      "character": "Player",
+      "line": "What did you want me to do again?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "I gave you my blunt axe to give to Captain Shanks. I was hoping that he would be able to pop it into Brian's Axes in Port Sarim to get it sharpened. I do hope nothing bad has happened to my axe, I am very partial"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "to it!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, yes... okay! No, I'm sure that nothing bad has happened to it. I mean, you gave it to me, I'm really dependable!"
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to do again?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Take the blunt axe to Captain Shanks and ask him to take it to Brian's Axes."
+    },
+    {
+      "character": "Player",
+      "line": "Who is it that I'm supposed to meet?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "You're supposed to take the axe to Captain Shanks and ask him to take it Brian's Axes in Port Sarim. I'm sure he won't mind."
+    },
+    {
+      "character": "Player",
+      "line": "Do you really actually need that axe?"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Well, yes, actually. It's my favourite! I've been training with that axe since I started my profession as a jungle forester."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost your unsharpened axe, I need a new one."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "I know. Another jungle forester found it and returned it to me. Here, take it again and this time don't lose it!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I promise to be more careful."
+    },
+    {
+      "character": "Captain Shanks",
+      "line": "Hello there shipmate! I sail to Khazard Port and to Port Sarim. Where are you bound?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually I have a favour to ask."
+    },
+    {
+      "character": "Captain Shanks",
+      "line": "A favour you say...hmmm. What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "I have an axe from the jungle forester, I wonder if you could nip into Brian's Axes in Port Sarim and get it sharpened for the jungle forester."
+    },
+    {
+      "character": "Captain Shanks",
+      "line": "Darned cheek! I have a tight ship to run, my friend, and I'll thank you to not take advantage of my good generosity. I have a far superior solution to your problem."
+    },
+    {
+      "character": "Captain Shanks",
+      "line": "Take a ride with me to Port Sarim and take the axe to Brian yourself!"
+    },
+    {
+      "character": "Player",
+      "line": "But...I was only meant to do a small favour for Yanni Salika...I don't want to go to Port Sarim!"
+    },
+    {
+      "character": "Captain Shanks",
+      "line": "Well...the choice is yours! Do like me and never do favours...you'll find yourself in a lot less bother I can assure you!"
+    },
+    {
+      "character": "Captain Shanks",
+      "line": "I've said no already...now move along...I have a tight ship to run."
+    },
+    {
+      "character": "Player",
+      "line": "Do you sharpen axes?"
+    },
+    {
+      "character": "Brian",
+      "line": "You don't have any blunt axes on you!"
+    },
+    {
+      "character": "Player",
+      "line": "You know what! You're absolutely right! I must have dropped it or left it somewhere."
+    },
+    {
+      "character": "Brian",
+      "line": "Well, come back if you need any help with it, we may be able to work something out."
+    },
+    {
+      "character": "Brian",
+      "line": "You know what, normally I do...but..."
+    },
+    {
+      "character": "Player",
+      "line": "But... what?"
+    },
+    {
+      "character": "Brian",
+      "line": "But I'm a bit preoccupied at the moment. I'm worried that my friend is going to spend the rest of the year behind bars!"
+    },
+    {
+      "character": "Player",
+      "line": "It sounds serious!"
+    },
+    {
+      "character": "Brian",
+      "line": "Yeah, it is, but it shouldn't be. It was only a harmless pub brawl but he got caught up in it and they just jailed everyone."
+    },
+    {
+      "character": "Brian",
+      "line": "Except he says he's going to run away to the wilderness if he's found guilty and you know what blood-hungry scum inhabit those realms."
+    },
+    {
+      "character": "Player",
+      "line": "Look, can you sharpen this cursed axe or what?"
+    },
+    {
+      "character": "Brian",
+      "line": "Well, I'd like to. I really would, but I wouldn't be able to concentrate while worrying about my friend so much. I tell you what. If you could do me just one small favour, I promise to help you!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, so you want a favour doing as well?"
+    },
+    {
+      "character": "Brian",
+      "line": "Well, yes, if you wouldn't mind? Aggie the witch is a family friend and she's a pillar of the local community."
+    },
+    {
+      "character": "Brian",
+      "line": "I know you wouldn't think it would you! Could you ask her if she'll act as a character witness for my friend?"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Brian",
+      "line": "Oh, please. It would mean such a lot to me! Just ask Aggie if she'll be a character witness for my friend. She only lives in Draynor Village. It'll only take you a few minutes!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, ok, I'll do it! I'll go and see Aggie."
+    },
+    {
+      "character": "Brian",
+      "line": "Oh, great, that would be really helpful! Here, give me the axe for safe keeping and I'll get it sharpened as soon as she agrees to help."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anyone else who can sharpen this axe?"
+    },
+    {
+      "character": "Brian",
+      "line": "Hmm, well you could try your luck in Lumbridge at Bob's Axes, though I've no clue if he offers this kind of service."
+    },
+    {
+      "character": "Brian",
+      "line": "He always seemed very focused on selling axes to blood-hungry killers keen to explore the wilderness."
+    },
+    {
+      "character": "Bob",
+      "line": "Hmmm, yes, that looks pretty badly damaged. Unfortunately, I don't have the tools to fix it, but Brian over in Port Sarim might be able to."
+    },
+    {
+      "character": "Brian",
+      "line": "Go talk to Aggie and ask her if she'll be a character witness for my friend before he finds himself in jail with less than savoury people...or worse, he runs off to the wilderness!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, right, yes, sorry, I forgot.."
+    },
+    {
+      "character": "Brian",
+      "line": "So it seems!"
+    },
+    {
+      "character": "Aggie",
+      "line": "What can I help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey you're a witch aren't you?"
+    },
+    {
+      "character": "Aggie",
+      "line": "My, you're observant!"
+    },
+    {
+      "character": "Player",
+      "line": "Could I ask you about being a character witness?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Not at the minute I'm afraid...I'm really worried! My new apprentice 'Jimmy the Chisel' has gone missing!"
+    },
+    {
+      "character": "Player",
+      "line": "'Jimmy the Chisel' - what kind of name is that?"
+    },
+    {
+      "character": "Aggie",
+      "line": "It's sort of like a 'street name'...it's a new fad...perhaps you've seen it around? Anyway, it's not his name I'm concerned with, it's his whereabouts that worries me!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean missing?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Well, I sent him to Lumbridge to get some supplies and he hasn't come back! He left about two days ago and I've seen neither hide nor hair of him all that time."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any idea where he might be?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Not really, I mean, not for definite. But I did hear old Ned talking about some strange activity in that ruined building infested with goblins and spiders in between here and Lumbridge."
+    },
+    {
+      "character": "Aggie",
+      "line": "It's probably nothing...but it would aid my mind a lot to know he was safe. I can't leave here until he returns. What if he's had an accident and needs some emergency magical attention?"
+    },
+    {
+      "character": "Player",
+      "line": "Let me guess, you're going to ask me to do you a favour?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Would you my dear, it would only be a small favour...one small favour, that's all I ask."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, I seem to have heard that one before. Go on then, what do you want me to do?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Could you go on and check out that abandoned building and see if there's anything odd going on. Just check to see if there's any sign of young Jimmy."
+    },
+    {
+      "character": "Player",
+      "line": "No way...I've had enough of doing favours for people."
+    },
+    {
+      "character": "Aggie",
+      "line": "Why you big meanie! He could be dead for all you know!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, Ok, I'll see if I can find Jimmy."
+    },
+    {
+      "character": "Aggie",
+      "line": "Oh, thanks ever so much...I do appreciate it! Good Luck!"
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Well, I had hoped that you would go and look for 'Jimmy the Chisel'...but it looks like you've had other 'more important' things to do!"
+    },
+    {
+      "character": "Player",
+      "line": "Where am I supposed to look?"
+    },
+    {
+      "character": "Aggie",
+      "line": "I don't know where he is! But I suggest that you check out that ruined building to the east, you know, the one with all the spiders in it! Doesn't look like anyone's been living in there for years!"
+    },
+    {
+      "character": "Player",
+      "line": "What am I doing this for?"
+    },
+    {
+      "character": "Aggie",
+      "line": "Oh, I don't know, you mumbled something about 'witnesses', I just can't think straight worrying so much about that poor little Jimmy."
+    },
+    {
+      "character": "Aggie",
+      "line": "He could be lying somewhere in a pool of his blood, crying out for help...oooh, it's too much for me to bear."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Welcome...to our organisation...ours is a fight for humanity in all its shapes and forms...and to rid mankind of the monsters that exist in our world. We have no quarrel with a fellow."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for Jimmy the Chisel."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Ah yes, he'll be joining our ranks very soon, I feel. He's still quite young and strong, but he will see the error of his ways before too long."
+    },
+    {
+      "character": "Player",
+      "line": "Huh, it sounds like you're forcing him to join you"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Not at all...he just needs some time to think about things...we've given him all the time he needs in the cage back there."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I have to return him to his employer, she's very worried about him, so if you could just hand him over...I'll be getting out of your way."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "I'm afraid I can't do that...he has value to us...he's related to a farmer named Fred who lives near here. We need to arrange some things with this 'Brother Fred' so that my people down here can eat."
+    },
+    {
+      "character": "Player",
+      "line": "And I suppose you need me to do you a favour?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Well, actually, now that you mention it...it would be a real help to us if you could organise some chickens in exchange for young Jimmy's release."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, just exactly what is it that you want me to do?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Go to Brother Fred the farmer and tell him that we have young Brother Jimmy. Tell him that we're not going to let him free until he agrees to send us a month's supply of chickens."
+    },
+    {
+      "character": "Player",
+      "line": "No way...go do your own dirty work!"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Now, now, I'm a little disappointed in you! Can't you see that this is merely a business transaction?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Come back and see me when you change your mind!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, Jimmy has to be worth more than a few scrawny chickens!"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "That's exactly right! Do this for us and we'll let Brother Jimmy go!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm back."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Welcome back, how are your negotiations going with Brother Fred?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Oh for the love of Saradomin...it's not too difficult! Go to Brother Fred and ask him to supply a month's worth of chickens in return for Brother Jimmy's freedom!"
+    },
+    {
+      "character": "Player",
+      "line": "Can't you just release Jimmy the Chisel?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Yes, of course....why didn't you ask earlier? Is that all you wanted? Huh!"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Of course, you do have the chickens don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Er...not exactly!"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Go get them then!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I can do this."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "That's a shame, because Brother Jimmy is getting older every day! His employer isn't going to be too pleased if you don't do something soon."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "What are you doing on my land?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about Jimmy."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "What's the problem with Jimmy?"
+    },
+    {
+      "character": "Player",
+      "line": "He's being kept prisoner by a bunch of fanatics and I need to organise a delivery of a month's supply of chickens to secure his release."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Oh dear, oh dear, this is terrible. Terrible!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it's pretty bad...but keep calm, I'm going to help."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "I've no idea what to do!"
+    },
+    {
+      "character": "Player",
+      "line": "None at all?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well, no actually. I'm just a farmer. I've no idea how to deal with fanatics!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, can't you just give me some chickens?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Normally I'd say yes, but I just don't have enough for a month's supply."
+    },
+    {
+      "character": "Player",
+      "line": "Well, do you know someone who does have a month's supply?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Seth does, Seth Groats. He's another farmer over yonder at the other farm. Over the river and on the way to Varrock, he has loads of chickens."
+    },
+    {
+      "character": "Player",
+      "line": "What did you suggest I do again?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Have you been to Seth Groats yet? He's over at the other farm on the way to Varrock!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll go and see him then."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Hello there stranger, what's the meaning of this intrusion? A farmer's hovel is his castle!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry for the intrusion, but this is quite urgent. Jimmy the Chisel is being held by fanatics. They won't release him until they get a month's supply of chickens."
+    },
+    {
+      "character": "Player",
+      "line": "I've already talked to Fred but he says he doesn't have a month's supply of chickens. Is there any way that you could help?"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "A month's supply eh! Well, I was going to take them to market and just concentrate on the cows, but I reckon that little Jimmy's neck is worth a few scrawny chickens, don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "That's exactly what I said..."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Well, Ok then. We need to get this organised. First off, we need to get some proper cages to get them chickens transported. I've never normally transported chickens in such large quantities before."
+    },
+    {
+      "character": "Player",
+      "line": "What do you propose?"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "We'll need to get some proper cages, but I have nothing like that here. You'll have to go and see my friend Horvik in Varrock. He's a pretty well known metal-smith and he's done me a few favours in the past."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "I'm afraid that I'll have to ask a small favour of you as well, my friend."
+    },
+    {
+      "character": "Player",
+      "line": "I had a feeling you might!"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Could you get three bars of steel and take them to Horvik, that's what I owe him for a previous job that he did for me."
+    },
+    {
+      "character": "Player",
+      "line": "No way, I'm fed up with this wild goose chase!"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "I understand..."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Poor old Jimmy, locked in that cage..."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Forever!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, ok! I guess it's not that much further to Varrock!"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Many thanks! Remember, you need to take him three steel bars."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to be doing again?"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "You need to get three bars of steel and take them to Horvik in Varrock, ask him if he can make some chicken cages so that we can transport these chickens to those fanatics and release poor Jimmy."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes...I remember now."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "How are those chicken cages coming along?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, but I don't have any yet."
+    },
+    {
+      "character": "Horvik",
+      "line": "Hello, do you need any help?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I need to talk to you about chicken cages! Seth Groats has asked me to come and see you!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Hmm, Seth eh! He's a good friend, but he still owes me three steel bars for a plough I fixed. I'm sorry but I need to have that paid off first before I can do any more work for him."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have three steel bars at the moment!"
+    },
+    {
+      "character": "Horvik",
+      "line": "I'm sorry to be so harsh, but I have to ensure the debt is paid before I do any more work for Seth."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, well I have three steel bars here, you can have these."
+    },
+    {
+      "character": "Horvik",
+      "line": "Ok then! Great...tell me a little more about these chicken cages... Cough Cough Cough!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear, you don't sound too well?"
+    },
+    {
+      "character": "Horvik",
+      "line": "No, I'm not actually, I'm quite ill!"
+    },
+    {
+      "character": "Player",
+      "line": "Well that's a shame because I really need your help to make some chicken cages!"
+    },
+    {
+      "character": "Horvik",
+      "line": "I'm sorry, but the most I can manage today is simple trading...however, if I was to get some medicine say, I could be persuaded to do you a small favour!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh I see, you need me to do you a favour?"
+    },
+    {
+      "character": "Horvik",
+      "line": "Well, just one small favour...and then I'll do you a small favour."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, no not another favour...I just can't do another one!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Well, I'm sorry about that...but I just can't work when I'm feeling so ill."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I guess one good turn deserves another."
+    },
+    {
+      "character": "Horvik",
+      "line": "Well that's jolly decent of you my friend. I need some medicine, could you get me some herbal tincture and breathing salts, that should solve my ailments!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, hopefully, I'll be right back, but you never know, it might take longer!"
+    },
+    {
+      "character": "Horvik",
+      "line": "That's great! However, I must warn you, it'll be a lot easier for me to simply adjust some existing pigeon cages. If you could get me five or so of those, that would help a lot."
+    },
+    {
+      "character": "Horvik",
+      "line": "But first things first, bring me the medicine!"
+    },
+    {
+      "character": "Player",
+      "line": "What was I supposed to be doing?"
+    },
+    {
+      "character": "Horvik",
+      "line": "Please can you get me some medicine? I need herbal tincture and a pot of breathing salts. Also, get me five or so of those pigeon cages that they have over in Ardougne so that I can convert them into chicken"
+    },
+    {
+      "character": "Horvik",
+      "line": "cages."
+    },
+    {
+      "character": "Player",
+      "line": "Horvik is ill, I need breathing salts and herbal tincture."
+    },
+    {
+      "character": "Apothecary",
+      "line": "No problem!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "There you do! There's your herbal tincture!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow, that was surprisingly easy! Fantastic, thanks very much."
+    },
+    {
+      "character": "Apothecary",
+      "line": "No problem, pleased to help."
+    },
+    {
+      "character": "Player",
+      "line": "Oh...but...what about the breathing salts..."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Oh, yes, breathing salts...erm, just let me look around. I'm sure I have some around here somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Ok..."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Yep, here they are...."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Oh blimey...I've dropped the pot and smashed it!"
+    },
+    {
+      "character": "Player",
+      "line": "That's ok, just hand over the breathing salts."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Oh no, you don't understand. They're ruined. They're supposed to be kept in an airtight container and this was my last one."
+    },
+    {
+      "character": "Apothecary",
+      "line": "I can't order any more in until I have a new airtight container. And they were a top selling item as well."
+    },
+    {
+      "character": "Player",
+      "line": "I just knew this wasn't going to be easy! So you can't get any more breathing salts?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "No, I can..I can order plenty, but they'll lose their effectiveness. I need an airtight pot to keep them in."
+    },
+    {
+      "character": "Player",
+      "line": "Where would you get one of those from?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "I've no idea really, this pot was a family heirloom. I guess you'd have to get a new one made?"
+    },
+    {
+      "character": "Player",
+      "line": "Where could I do that?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "You could try Tassie Slipcast over at the Barbarian Village. She's a potter there and may be able to make one. But mind, it has to be air tight."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, no way am I going to the Barbarian Village."
+    },
+    {
+      "character": "Apothecary",
+      "line": "I understand...they're all barbarians over there."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I can go to the Barbarian Village."
+    },
+    {
+      "character": "Apothecary",
+      "line": "Wonderful, I'd really appreciate it!"
+    },
+    {
+      "character": "Player",
+      "line": "What about the breathing salts?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "I smashed the pot which held them, remember?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes...where am I going to get a new pot?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost that herbal tincture you gave me!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "No problem, I'll just rustle up another one for you."
+    },
+    {
+      "character": "Player",
+      "line": "What was I supposed to be doing again?"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Go and see Tassie in the Barbarian Village about making an airtight pot for me to store my breathing salts in, then you can take some for Horvik."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, yes right!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there...I need an airtight pot just as soon as you can make one!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "I beg your pardon!"
+    },
+    {
+      "character": "Player",
+      "line": "It's a matter of some urgency that I have an airtight container as soon as possible!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Who on earth do you think you are coming in here demanding an airtight pot...Can't you see that I have my own worries to think about?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry, I didn't think...what's the problem?"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Well, if you must know, I'm working all the hours that Saradomin sends, I have to in order to make enough money to pay that loan shark Hammerspike!"
+    },
+    {
+      "character": "Player",
+      "line": "Loan shark? Hammerspike? What are you talking about?"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "I took over this abandoned pottery place with a loan from Hammerspike. He's demanding payment and I can barely just make the interest payments."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "I'm working as hard as I can but I'll never pay the loan off at this rate!"
+    },
+    {
+      "character": "Player",
+      "line": "But I need an airtight pot...to store breathing salts in."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Well, that may be, but I have a rush order for a top paying customer that's going to keep Hammerspike off my back for a bit."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "If you really want that pot, you're going to have to deal with Hammerspike in the dwarven mines!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll deal with Hammerspike!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Really, you will?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll go and have a chat with him, perhaps we can sort something out."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Well, that would be really great...I just hope he doesn't grind you into flour to make his bread, he's one of the most ruthless gangsters in the area."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Beware, his guards are incredibly loyal, they'll slit their own throats to protect him!"
+    },
+    {
+      "character": "Player",
+      "line": "That's not a pretty picture you're painting, but don't worry, I'll be careful. Now, where do I find this Hammerspike?"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "He's in the dwarven mines somewhere, not sure exactly where though."
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, no more blooming favours for anyone!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Oh, well that's a real shame, I was hoping you could have sorted out that Hammerspike for me once and for all!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there...I'm back..."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "So I see. What's the problem? Did you sort out Hammerspike?"
+    },
+    {
+      "character": "Player",
+      "line": "Not exactly, can you tell me what I'm supposed to do again?"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Go talk to Hammerspike in the Dwarven mines and see if you can get him to leave me alone...I won't be able to make you the airtight pot else."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "And who da heck are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm and I want to talk to you about a friend of mine, Tassie Slipcast. She says you're putting the screws on her for some loan she had from you. Is this true?"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "And what if it is? Tassie got into an arrangement that is mutually beneficial, as far as I understood it, she was happy with the deal."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've come to change the deal!"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Oh, so you wanna give me something for leaving Tassie alone?"
+    },
+    {
+      "character": "Player",
+      "line": "Er...er...not exactly...why can't you just leave her alone? I mean, make a nice gesture, I'm asking out as a favour...please?"
+    },
+    {
+      "character": "Player",
+      "line": "Can't you just leave Tassie alone?"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Where would I be if I just left all of my 'customers' alone? Some people just need an extra 'encouragement' to make the best out of life...I'm just helping them along."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, come on...do something nice for a Tassie. Think about how hard she's working!"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Well...now that you come to mention it, I guess I have been a little hard on the girl."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, come on give her a break."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "And I guess I am quite stressed about things, what with so much to think about recently."
+    },
+    {
+      "character": "Player",
+      "line": "I can understand that...you have a lot on your mind. Go on, make a change...it'll do you good! There must be something else that you wanted to do at least once in your life."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Hmm, yes, yes you're right...I did want to do something, something I noticed recently, but you'll laugh if I tell you...nah, it's silly."
+    },
+    {
+      "character": "Player",
+      "line": "Have you always been a gangster? Wasn't there anything else that you wanted to do instead? Come on, tell me what you want to do...I'm listening."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Well, I was just thinking the other day that I'm feeling sort of unfulfilled in my life."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "I'd like to get rid of all this anger and frustration that my current lifestyle brings and do something relaxing...like those druids, I mean, all day sitting around, looking at herbs and wearing robes and stuff."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, that sounds good."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Yeah, yeah, I really want to be a druid...so...go and see the druid leader, I think Sanfew is his name, and persuade him to take me as an initiate. Do me this one small favour and I'll leave Tassie alone."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think they take dwarven gangsters as initiates."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Whatever...I guess Tassie's gonna be working hard for a bit longer yet then!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, another favour...I think I can manage that."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Good...I mean great! Come back when Sanfew has agreed to take me as an initiate!"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "And what's wrong now?"
+    },
+    {
+      "character": "Player",
+      "line": "What was it that I was supposed to do for you?"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Go and talk to Sanfew and get him to accept me as a druid initiate!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you taking any new initates?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Hmmm, are you considering yourself?"
+    },
+    {
+      "character": "Player",
+      "line": "How does someone become an initate?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Hmm, it's quite a straight-forward process. A person, perhaps like yourself, comes along to me and asks."
+    },
+    {
+      "character": "Sanfew",
+      "line": "We test your knowledge of Herblore and see if you can fit in with the rest of us. If you pass, then we let you become an initiate."
+    },
+    {
+      "character": "Player",
+      "line": "Seems pretty straight forward!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you accept dwarves?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Dwarves? Well now, that's a mighty interesting question... Just because we haven't before, doesn't mean to say that we shouldn't."
+    },
+    {
+      "character": "Player",
+      "line": "A dwarf I know wants to become an initiate."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Oh yes? Well, that's interesting. Let me think for a moment. Hmmm... yes, actually, I don't mind taking him on, so long as you can do me just one small favour. Well, two actually."
+    },
+    {
+      "character": "Player",
+      "line": "Not you as well?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Stop interrupting me. I haven't told you about these favours!"
+    },
+    {
+      "character": "Sanfew",
+      "line": "There's a poor little gnome up on White Wolf mountain. I wondered if you could take him a warming herbal brew. I have the recipe here!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, that seems simple enough."
+    },
+    {
+      "character": "Sanfew",
+      "line": "In addition..."
+    },
+    {
+      "character": "Sanfew",
+      "line": "I've long wished to take a trip down to see those ogres to the south of Yanille, and bring the word of Guthix to them. I was hoping you might organise this trip with the gnome pilot up there on White Wolf mountain."
+    },
+    {
+      "character": "Player",
+      "line": "Are you mad?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Well, perhaps a bit... but it's never stopped you doing things for me before."
+    },
+    {
+      "character": "Player",
+      "line": "I've been asked to do a lot of favours recently."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Well, that's the life of an adventurer. Is it a deal, or not?"
+    },
+    {
+      "character": "Player",
+      "line": "Yep, it's a deal. Tell me the recipe for this herbal tea."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Ok, you need to heat some water up in a bowl, then pour it into an empty teacup. Add 1 harralander, 2 guam and 1 marrentill...it'll warm that poor fellow up a treat!"
+    },
+    {
+      "character": "Player",
+      "line": "Mmm, sounds delicious! What's it called?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "We call it 'Guthix's rest'."
+    },
+    {
+      "character": "Player",
+      "line": "Can I drink it?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "If you want!"
+    },
+    {
+      "character": "Player",
+      "line": "Great! And thanks."
+    },
+    {
+      "character": "Sanfew",
+      "line": "But you'll have to make another one for the gnome."
+    },
+    {
+      "character": "Player",
+      "line": "But I can drink it though."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Yes, but you'll have to make another one for the gnome."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I think I understand."
+    },
+    {
+      "character": "Player",
+      "line": "Nope, it's not a deal!"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Well, that's a shame. I was looking forward to visiting the ogres... Perhaps someday I will."
+    },
+    {
+      "character": "Player",
+      "line": "What did you need me to do again?"
+    },
+    {
+      "character": "Sanfew",
+      "line": "Make a herbal tea for the gnome and persuade him to take me to the ogre area, down to the south!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, right, thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "How do I make the tea again?"
+    },
+    {
+      "character": "Player",
+      "line": "Sanfew asked me to come and talk to you."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Brrr, blimey it's cold up here! Wish I had something nice to drink to chase away these chills!"
+    },
+    {
+      "character": "Player",
+      "line": "I have a special tea here for you from Sanfew!"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Ohhh! Many thanks! Brrr, blimey it's cold up here!"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Blimey, it was certainly jolly decent of that old stick Sanfew to get you to make me a cup of herbal tea. Wow! It really does chase away the chills!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, he's quite considerate that way...you know, thinking of people. In fact, he was thinking that you may be able to help him with another little 'helping' situation that involves ogres."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Ogres!"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Hmmm, well I guess they're just like overgrown gnomes when you think about it!"
+    },
+    {
+      "character": "Player",
+      "line": "More like 'super-over-grown-gnomes' if you ask me! Or 'overgrown humans'!"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Quite! Anyway, go on! What was Sanfew after?"
+    },
+    {
+      "character": "Player",
+      "line": "Sanfew wants to bring the word of Guthix to those ogres, though I've no idea if ogres have the mental ability to grasp druidic concepts."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Yes, quite, but who amongst us does? I know I'm often confused by that beardy bunch of yakking druids."
+    },
+    {
+      "character": "Player",
+      "line": "Well, he wants to know if he can organise a glider ride down there."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Hmm, interesting! I know that the elders want to extend the network of glider routes, and I did hear that the Feldip Hills were being considered. I don't know why it hasn't opened up yet though."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "If I'm going to transport that yakking druid down to the ogres I'll want to make it in record time so I'll need some lighter kit."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, good luck with that."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "There's a chap called Arhein in Catherby and I've heard that his special interest in ships has helped him to produce lightweight but strengthened ropes. I'm in need of some T.R.A.S.H.! And I need you to get it for me."
+    },
+    {
+      "character": "Player",
+      "line": "TRASH? What the demonikin are you talking about? Why do I have to get it?"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "I'm talking about the next generation of lightweight ropes. Triple Redundant Aero Super Hawser...T.R.A.S.H.! I'll transport your yakking druid if you can get me some T.R.A.S.H!"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "And you have to get it because I have to stay here with this glider. Is it a deal?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you want me to do?"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Go to Arhein and ask him for some T.R.A.S.H...."
+    },
+    {
+      "character": "Player",
+      "line": "What is T.R.A.S.H?"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "T.R.A.S.H. is a short way of saying, 'Triple Redundant Aero Super Hawser', it's a technical term that we gnomes like to use when specifying lightweight rope."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get this from?"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Go and talk to a chap called Arhein in Catherby, he's developed it so he'll know exactly what you're talking about."
+    },
+    {
+      "character": "Player",
+      "line": "Great! So I get to talk T.R.A.S.H with shopkeepers!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll go and get you some T.R.A.S.H."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Wonderful my friend, wonderful!"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, I can't do it right now."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Well, that's a bit of a shame...I was looking forward to upgrading my glider!"
+    },
+    {
+      "character": "Player",
+      "line": "How was that tea?"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "It was delicious thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "What am I supposed to be doing again?"
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Go to Arhein in Catherby and get some T.R.A.S.H! That's a short name for Triple Redundant Aero Super Hawser and then bring it back to me! I mean, it's not difficult is it?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Hello! Would you like to trade?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk T.R.A.S.H. to you."
+    },
+    {
+      "character": "Arhein",
+      "line": "Oh yes, well it won't be the first time...but just so I'm sure can you explain what you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, of course. There's a Gnome on White Wolf mountain who needs some T.R.A.S.H...for his glider...do you have some?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Well, I've done a lot of research into Triple Redundant Aero Super Hawsers and it seems to have paid off, but answer me this one question. Why are you asking me this rather than the Gnome?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm sort of doing him a favour."
+    },
+    {
+      "character": "Arhein",
+      "line": "Hmm, really, is that so? Well, I do have some Triple Redundant Aero Super Hawser and I'll let you have some if you do me just one small favour."
+    },
+    {
+      "character": "Player",
+      "line": "How totally unpredictable!"
+    },
+    {
+      "character": "Arhein",
+      "line": "No, this is a really quick thing and shouldn't take you longer than a few minutes."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I've heard that before! Go on...tell me anyway."
+    },
+    {
+      "character": "Arhein",
+      "line": "I'm funding a rather expensive trade run to Brimhaven soon and I want to be sure that the weather isn't going to change and cause my ships any trouble."
+    },
+    {
+      "character": "Arhein",
+      "line": "The last thing I need is a load of goods going straight to the bottom of the ocean."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I can understand that."
+    },
+    {
+      "character": "Arhein",
+      "line": "I just need you to pop along to Seers Village and ask those philosophers of foresight for a weather report. I believe a new seer there called Phantuwti can help you."
+    },
+    {
+      "character": "Player",
+      "line": "No way...I've had enough of this wild goose chase."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Ok, I'll do it!"
+    },
+    {
+      "character": "Arhein",
+      "line": "That's great, many thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, can you give me a weather forecast?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Hmm, somehow I knew you were going to ask me that...strange...life is so predictable when you have the power of foresight."
+    },
+    {
+      "character": "Player",
+      "line": "Great! So I can assume you've been really pro-active and compiled an up-to-date one for me?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Alas my presumptuous friend, the power of foresight and the impulse to act is quite similar to the interplay between intelligence and wisdom."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "One might have intelligence enough to realise that cakes are bad for us, but we may not have the wisdom to stop cramming that delicious-looking fatty cream cake into our salivating mouth."
+    },
+    {
+      "character": "Player",
+      "line": "So, in your case, you have the power of foresight, but you're too lazy to act on it?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Not exactly lazy...but unable. My abilities and concern have been focused on the fate of a local girl whose association with a certain wizard has landed her between a rock and hard place."
+    },
+    {
+      "character": "Player",
+      "line": "Who is this girl that you're concerned about?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "The girl's name is Petra, she's a very...energetic youngster, always wanted to travel and have adventures. When she turned seventeen she set off to earn herself fame and fortune."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "It looks like she's ended up in a bit of a dead end position..."
+    },
+    {
+      "character": "Player",
+      "line": "Where is this girl?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "It's quite difficult to pinpoint exactly where she is, but apparently she's in some sort of cavern structure."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "We sense that there are other beings around her, smelly creatures, and some sort of presence is watching over her."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any ideas where that might be? I mean, it's pretty vague isn't it?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, we believe it may be some sort of nearby cave, it can't be very far away as the impressions we get are quite strong. We believe the cave is a home for some sort of creature or creatures."
+    },
+    {
+      "character": "Player",
+      "line": "What do you think needs to be done?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, it would be nice to locate her...if possible. Then we may be able to work out what to do when we can see what sort of state she's in."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry but I can't help."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, that's a bit of a shame, I have to say...we all miss our Petra!"
+    },
+    {
+      "character": "Player",
+      "line": "What can I do to help?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Do you think you could do me a small favour? Check around the vicinity. The impressions are coming from a south westerly direction."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Don't go further east than you are already, no further south than Ardougne and no further west than the combat training camp."
+    },
+    {
+      "character": "Player",
+      "line": "So, let me get this right. You want me to start poking my nose into a lot of caves where some creatures might be?"
+    },
+    {
+      "character": "Player",
+      "line": "Risking my neck for some tomboy who thinks she's got what it takes to be a real adventurer?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, I wouldn't have put it quite that way..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Ok, I'll do it."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Great! I just knew you'd agree to help!"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, I can't do it right now. Or maybe ever!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "I knew you wouldn't help...oh well, perhaps someday you'll surprise me."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "I need you to start checking nearby caves looking for our missing Petra. The caves are probably home to some creature or creatures. Check around the vicincity."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "The impressions are coming from a south westerly direction. Don't go further east than you are already, no further south than Ardougne and no further west than the combat training camp."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Hello there. My name is Cromperty. I am a wizard, and an inventor."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "You must be. My good friend Sedridor has told me about you. As both wizard and inventor, he has aided me in my great invention!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about a girl stuck in some rock!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Eh!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "What? I have no clue what you're talking about! Now, please excuse me! I need to get back to my experiments!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey! Not so fast! I've seen a young girl encased in rock, a note in her belt led me to you."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh dear, it's such a bother getting them back out of the rock walls and I do loathe the trip to Port Khazard for the components."
+    },
+    {
+      "character": "Player",
+      "line": "What the demonikin are you talking about?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Well, it's not the first time someone's been teleported into a rock face, just the slightest miscalculation and bang...they're in the wall!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "It's fairly straightforward to cast a spell and fish them out again - but it requires a spell component from a chap in Port Khazard."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "I don't suppose you could do me a small favour could you?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Just one small favour? Pop along to Port Khazard and get some iron oxide, it's a component of the spell."
+    },
+    {
+      "character": "Player",
+      "line": "No way am I going to Port Khazard for you!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Oh dear, what a shame...I just don't have time to deal with this now...she's safe where she is for now, and I'm sure I'll get to it sooner or later."
+    },
+    {
+      "character": "Player",
+      "line": "Oh! Ok, one more 'small favour' isn't going to kill me...I hope!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Waaahaaay! Great! I'd never suspect you'd be so helpful!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "You need to talk to a chap called Tindel Marchant in Port Khazard, he's sort of like an antiques dealer."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Well, off you go then! A journey of a thousand miles starts with the first step and all that!"
+    },
+    {
+      "character": "Player",
+      "line": "What? Are you saying I have to travel a thousand miles?"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Of course not...you silly...just...you know...the sooner you start the sooner you can get back...that's all I was saying."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Go to Port Khazard and get me some iron oxide from Tindel Marchant."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Hello there! Welcome to my special antiques boutique."
+    },
+    {
+      "character": "Player",
+      "line": "Wizard Cromperty sent me to get some iron oxide. Do you have some?"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "As a matter of fact, I do! However, it's the last in stock and I'm not likely to get more for a while so it's highly prized amongst the wizards at the moment."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "It's not easy to get so much rust together, even if I do come across it more often than most people with cleaning these rusty swords up!"
+    },
+    {
+      "character": "Player",
+      "line": "Rust? What do you mean? How much does it cost?"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Yes, iron oxide is more commonly referred to as rust. As for a price, hmmm...well...let me think now...I could give it to you for the price of..."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "One small favour!"
+    },
+    {
+      "character": "Player",
+      "line": "Groan!!!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "I need a nice mattress to sleep on! I haven't had a decent night's sleep in an ice-age...could you take this stodgy mattress down to Rantz in the ogre area and ask him to fill it with prime chompy bird feathers please?"
+    },
+    {
+      "character": "Player",
+      "line": "So, let me get this straight."
+    },
+    {
+      "character": "Player",
+      "line": "You want me to traipse ALL the way down past the ogre city with some flea infested mattress, to some hermit ogre, who can't shoot a chompy bird to save his life, so that you'll give me a pot of rust?"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Well, er, I wouldn't have said it quite that way..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll do it!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Great, many thanks indeed! Here's the mattress!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I just don't want to do it."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Well, that's a shame, but come back and see me if you change your mind."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "You need to take that stodgy mattress I gave you to Rantz and ask him to fill it with feathers! Then, bring it back to me and I'll give you some iron oxide."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay then!"
+    },
+    {
+      "character": "Player",
+      "line": "Erm, I've lost the mattress... do you have another one I can get refilled?"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Yes, but I had to pay for this myself so you'd better pay me for losing my last one...it cost 100 gold!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, here's 100 coins for another mattress..."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Okay, thanks a lot, here's the mattress!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not paying you 100 coins for that stinky mattress."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Well, don't expect your iron oxide any time soon then!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, then I won't."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Good!"
+    },
+    {
+      "character": "Player",
+      "line": "Great!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Get out!"
+    },
+    {
+      "character": "Player",
+      "line": "GLADLY!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Grrrr!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about a mattress!"
+    },
+    {
+      "character": "Rantz",
+      "line": "You's creature shuvs flapper sack in rantz face, making rantz very upset"
+    },
+    {
+      "character": "Player",
+      "line": "Can you fill this mattress with feathers?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Der's no flappers to get cos da little guy scares dem away wiv his banging. He's making da man flapper 'come-down-place' and it's takin' ages and ages."
+    },
+    {
+      "character": "Rantz",
+      "line": "Da chompies don't come no more since he's banging all da time."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on around here?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Da little guy, he's making da man flapper 'come-down-place'...so deyz more of yous creatures coming to see Rantz...but he's takin ages to do it."
+    },
+    {
+      "character": "Player",
+      "line": "What can I do about that?"
+    },
+    {
+      "character": "Rantz",
+      "line": "You's can help da little guy, he's over der near da ogre city...he's stuck wiv sumfing, making da man flapper 'come-down-place'. Me's not doin' no chompy hunting wiv dat noise going on."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll see what I can do."
+    },
+    {
+      "character": "Rantz",
+      "line": "Dat would be da good find...den me's help wiv da flufsies sack."
+    },
+    {
+      "character": "Rantz",
+      "line": "Yous creature, go see little guy and help wiv da man flapper 'come-down-place'...den Rantz helps yous creature wiv da fluffsies sack."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Hello! Don't get in the way around here, we've got a lot of work to do!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, what are you working on?"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Well, it's quite exciting... we're extending the glider network to include the Feldip Hills so that people can come and look at these curious ogres."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "They are impressive creatures aren't they - quite mystified they are by the technology we gnomes have invented."
+    },
+    {
+      "character": "Player",
+      "line": "What are you working on?"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Well, people will be able to visit this area, once construction has finished, by using the most advanced network of glider routes in the whole of Gielinor... in fact, the only network of glider routes!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything that I can do?"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Not really, I'm afraid, it's probably all far too technical for someone like you."
+    },
+    {
+      "character": "Player",
+      "line": "Rantz said I should help you finish this project."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Rantz? *gulp* Well, that would be nice actually! We are having some problems with getting the landing lights to work... do you think you could take a look at them?"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "I expect that it's far too complex for you, but hey, you may be able to do something!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll take a look at them."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Ok then, just pop over and let me know if you're not sure what you're doing... I'm sure I'll just have to fix it myself anyway. If you need any materials, just pop over."
+    },
+    {
+      "character": "Player",
+      "line": "We'll see!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, but I've got other things to attend to."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Yes, I expected it might be a bit too complex for you. We Gnomes lead the way with technical things like this - world leaders, you might say."
+    },
+    {
+      "character": "Player",
+      "line": "What was it you wanted me to do again?"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Go and take a look at those landing lights and see if you can get them to work, would you? They've been as dull as an ogre conversation since we started working here."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Come back and tell me if you actually manage to get them fixed."
+    },
+    {
+      "character": "Player",
+      "line": "I need a chisel to fix these crystals."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Okay, I can sell you one for 10 coins."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have 10 coins."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "So I can't sell you one then!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll buy a chisel for 10 coins."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Okay, many thanks for your custom."
+    },
+    {
+      "character": "Player",
+      "line": "No, I won't buy the chisel."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Fair enough, come back if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "I need a new to fix the lights."
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Broken something, have you? I'll want 500 coins for a new one. Be careful - my supplies are limited, and if I run out, you'll have to find your own materials elsewhere."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have 500 coins!"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "I can't give you one then."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, here's 500 coins, I'll buy one."
+    },
+    {
+      "character": "Player",
+      "line": "No way am I paying that much."
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed all the lights!"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "Hmm. That seems a tad unlikely to me, but let's flick the switch here and see, shall we?!"
+    },
+    {
+      "character": "Gnormadium Avlafrim",
+      "line": "I don't believe it - you fixed it! Well done, well done... We can pack up now and leave these ogres in peace."
+    },
+    {
+      "character": "Player",
+      "line": "I know one ogre who'll be very pleased about that!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I've helped that Gnome, he shouldn't bother you anymore."
+    },
+    {
+      "character": "Rantz",
+      "line": "Yous creature dun a gud fing...Rantz give yous creature da fluffsies sack now..."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have the stodgy mattress anymore...I'll have to get another one."
+    },
+    {
+      "character": "Rantz",
+      "line": "De're yous goes creature...da fluffsies sack is full now."
+    },
+    {
+      "character": "Player",
+      "line": "Great, I think Tindel will get a good night's rest on this."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost that filled mattress you gave me!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Yous creature needs to bring me da saggy fluffsies sack to full wiv da chompy flufsies!"
+    },
+    {
+      "character": "Rantz",
+      "line": "It cost you dis many bright pretties to do dis again, yous den be more careful wiv my work next time round."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have that many bright pretties!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Den yous no get da fluffsies sack..."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll give you 200 bright pretties."
+    },
+    {
+      "character": "Rantz",
+      "line": "De're yous goes creatures...dere's yous comfy fluffsies sack."
+    },
+    {
+      "character": "Player",
+      "line": "No way am I giving you 200 bright pretties."
+    },
+    {
+      "character": "Player",
+      "line": "I have the mattress!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Great! Let's have a look then."
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Great! Here's the iron oxide I promised you!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Okay, but I'm going to have to charge you I'm afraid. 200 coins."
+    },
+    {
+      "character": "Player",
+      "line": "But I haven't got 200 coins!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Sorry, but I have to make a living."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll buy it."
+    },
+    {
+      "character": "Player",
+      "line": "No way am I paying 200 coins for a bottle of rust!"
+    },
+    {
+      "character": "Tindel Marchant",
+      "line": "Suit yourself... I have plenty of other customers."
+    },
+    {
+      "character": "Player",
+      "line": "I have that iron oxide you asked for!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Great! Just what I needed! Now I need to give you a spell scroll to help bring Petra back again."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Just cast this in the room, it should have her out of that rock in a jiffy! Good luck with your exploits...now, where was I with that wranklin severance device..."
+    },
+    {
+      "character": "Player",
+      "line": "I need another animate rock spell."
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "I suspected that you might...you can have one, but it will cost you 100 gold pieces."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have 100 coins!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "So you can't have the spell then can you!"
+    },
+    {
+      "character": "Player",
+      "line": "No way...I'm cleaning up your mess, you should be grateful!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Well, I did give you the last one for free...you're not getting another one for free, even if it is my mess that you're trying to clear up! You shouldn't be so careless to leave things lying around!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, here you go!"
+    },
+    {
+      "character": "Wizard Cromperty",
+      "line": "Thanks...try not to lose it this time."
+    },
+    {
+      "character": "Player",
+      "line": "Grrrrr!"
+    },
+    {
+      "character": "Player",
+      "line": "Whoooah! That was a bit of a misfire."
+    },
+    {
+      "character": "Player",
+      "line": "And this doesn't look good!"
+    },
+    {
+      "character": "Petra Fiyed",
+      "line": "Oh thank goodness you released me...how long have I been stuck in that gloomy wall?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, not so long...I don't think..."
+    },
+    {
+      "character": "Player",
+      "line": "I mean...that is... I'm not so sure...at all...in fact."
+    },
+    {
+      "character": "Petra Fiyed",
+      "line": "Well, at least I'm ok...thanks to you! Last time I get involved with that Cromperty lunatic...in fact I have some words to say to that man!"
+    },
+    {
+      "character": "Player",
+      "line": "Well actually, I think that some of the people at the Seers Village are worried about you. That's how I came to find you here, Phantuwti sent me."
+    },
+    {
+      "character": "Petra Fiyed",
+      "line": "Oh, right, yes, well I guess I'd better go back there and let them all know that I'm safe then..Ok, thanks...I'll be off now and once again thanks for your help."
+    },
+    {
+      "character": "Player",
+      "line": "No problem...I'll probably see you back at the Seers Village."
+    },
+    {
+      "character": "Player",
+      "line": "I've released Petra, she should have returned."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Hi there, yes she has actually! Well done, you're a true hero!"
+    },
+    {
+      "character": "Player",
+      "line": "So, can I have the weather report now please?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "I wish I could but it's just been so difficult to get a clear image of the future at the moment. You know...we're all so relieved that Petra has returned and all that."
+    },
+    {
+      "character": "Player",
+      "line": "Listen you...just give me the blooming weather report!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Er...no. I can't, I told you, I can't get a clear picture. Nope, sorry, the conditions are just not quite right."
+    },
+    {
+      "character": "Player",
+      "line": "Why can't you get a clear picture?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, it's just like that Ok, I just can't get a clear picture...and that's it."
+    },
+    {
+      "character": "Player",
+      "line": "I've done my part of the deal, now hand over that weather report."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "I would really like to, please believe me, I would, but I just can't."
+    },
+    {
+      "character": "Player",
+      "line": "I'll run you through if you don't give me that weather report."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, that's not very nice...I mean, I'm a nice guy and I thought you were nice too! Why would you want to run me through? I mean, it's only a weather report."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "It doesn't make sense to get angry about something so trivial."
+    },
+    {
+      "character": "Player",
+      "line": "You're making me angry! I did you a favour, now pay up!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "I'm not making you angry, you're doing all that on your own! I just don't have a weather report to give you!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "I can't help that, you should be more understanding and less forceful, then I might be persuaded to give you the weather report."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, it's complicated, the special Seers tools that help us predict the weather are not aligned properly..."
+    },
+    {
+      "character": "Player",
+      "line": "Which special Seers tools do you mean?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, we use a special combination of items which are used to gauge current weather movements and we're able to predict future weather patterns from these. Of course, it's strongly linked to the Seers' foresight ability."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean, 'special combination of items'?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, let me think now...There's a copper eye, a rotating thing, and some pointy direction thingies. It's all highly scientific - and of course mystical - in a very magical 'foresight' sort of way."
+    },
+    {
+      "character": "Player",
+      "line": "You're talking about a weather vane aren't you?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Er...maybe...I may be talking about that..."
+    },
+    {
+      "character": "Player",
+      "line": "You can't predict the weather because your weather vane is broken...that's it isn't it? Holy Saradomin breath....you can't even predict the weather, you need a weather vane!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Erm, well....err...."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, show me where this weather vane is...I want to look at it."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "What for?"
+    },
+    {
+      "character": "Player",
+      "line": "I may be able to fix it and then you can give me a weather report...come on, let's go!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Oh, very well..but you'll need to be a specialist to fix this weather vane, it was made by some of the most experienced...."
+    },
+    {
+      "character": "Player",
+      "line": "Just show me it!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Ok, ok, it's up on the roof..."
+    },
+    {
+      "character": "Player",
+      "line": "You're talking in riddles, just give me a straight answer!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Since when has any Seer ever given you a straight answer...the power of knowing the future and the visions we see have to be wrapped in allegory so that the truth can slowly be accepted by the listener."
+    },
+    {
+      "character": "Player",
+      "line": "This isn't allegory though, you're just avoiding my questions!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "How can you be sure? Are you so sure of what you just asked me? And am I really avoiding your questions by asking you lots of other questions? Answer me that huh!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Anyway, we need a special combination of items before we can truly have foreknowledge of the weather."
+    },
+    {
+      "character": "Player",
+      "line": "How hard can it be to predict the weather?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Quite hard actually. I mean, you're still waiting for me to do it aren't you and I've told you time and again that I can't...right now...but that normally it's actually quite an easy thing for me to do."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, what's it going to take to get a weather report?"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Hmm, well, you can come back in several months and see if we can do one for you....does that help?"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, it doesn't help at all, I need a weather report and I need it now...so hand it over!"
+    },
+    {
+      "character": "Player",
+      "line": "You're just a fake...you can't predict the weather!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Why...how dare you...I've never been so insulted in my life."
+    },
+    {
+      "character": "Player",
+      "line": "You should get out more!"
+    },
+    {
+      "character": "Player",
+      "line": "What's it going to take for you to give me that weather report."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Well, nothing in fact, as I can't give you a weather report. I'm sorry, but that's just the way it is."
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed the weather vane!"
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "Oh, thanks so much...you can't believe how helpful it is to get accurate predictions on the weather...we Seers are almost blind without it."
+    },
+    {
+      "character": "Phantuwti Fanstuwi Farsight",
+      "line": "There you go...a weather report as asked for...I hope it helps you!"
+    },
+    {
+      "character": "Player",
+      "line": "I have the weather report for you."
+    },
+    {
+      "character": "Arhein",
+      "line": "Fantastic...let's see it!"
+    },
+    {
+      "character": "Arhein",
+      "line": "Wonderful...well the weather report is slightly unspecific, but I feel much better anyway for getting it. Hopefully now the Seers will take some responsibility if my ships go down to the bottom of the ocean."
+    },
+    {
+      "character": "Arhein",
+      "line": "I'll get one of my associates to take some T.R.A.S.H to your Gnome Glider Pilot friend on White Wolf mountain. Once again, many thanks for your help."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there, did you get your T.R.A.S.H? Arhein said that he'd send one of this associates up with it."
+    },
+    {
+      "character": "Captain Bleemadge",
+      "line": "Oh, yes, thanks...I've already installed it. I should go like the wind now! Tell Sanfew, that yakking old druid, I'll be happy to take him to the ogre area now...and yourself of course if you should like to go."
+    },
+    {
+      "character": "Player",
+      "line": "Ok then...thanks I will!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi there, the gnome Pilot has agreed to take you to see the ogres!"
+    },
+    {
+      "character": "Sanfew",
+      "line": "What's that? He's agreed to take me...well that's wonderful! Many thanks."
+    },
+    {
+      "character": "Sanfew",
+      "line": "Please tell that dwarf that he's welcome to come here and train to be an initiate."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Oh, it's you! Back are you then?"
+    },
+    {
+      "character": "Player",
+      "line": "Yep and with good news...your life is about to change for the better. I've persuaded Sanfew to take you in as an initiate!"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Ha, ha ha ha! How funny is that! I've gone and changed my mind now! I've decided that I make a far better gangster than I ever would a druid!"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "My men are going to deal with you!"
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Well...sure if you're not full of surprises then...I guess I'll have to either hire more men to try and kill you or forget Tassie's loan."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, you promise me that you won't bother Tassie anymore and I'll leave you alone."
+    },
+    {
+      "character": "Hammerspike Stoutbeard",
+      "line": "Ok then, fair enough....I'll leave her alone...but I'm going to deal with you personally one of these days!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be ready for you whenever you want to take a shot Hammerspike...I'm not afraid of you! You're just a bully who can't fight his own battles."
+    },
+    {
+      "character": "Player",
+      "line": "Hey there, Hammerspike won't be bothering you anymore!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Really! Fantastic! Oh, I'm so grateful! Thanks so much! How ever can I repay you?"
+    },
+    {
+      "character": "Player",
+      "line": "Well you could make me an airtight pot!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "I'll do better than that! I'll show you how to make an airtight pot! First of all, you'll need some clay...here's some I have spare!"
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Now, while pots are quite easy to make, lids are a bit different. They have to be quite precise to fit the pot exactly, which is why you have to be quite experienced to make them."
+    },
+    {
+      "character": "Tassie Slipcast",
+      "line": "Ok then, just use it on the wheel over there!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey there! I have an airtight pot for you!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Wonderful, let me see!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "Huzzah! You have an airtight pot! Wonderful! Ok, let me get some breathing salts into this thing for you!"
+    },
+    {
+      "character": "Apothecary",
+      "line": "That's great! Many thanks friend...here's your breathing salts!"
+    },
+    {
+      "character": "Player",
+      "line": "I have the herbal tincture."
+    },
+    {
+      "character": "Horvik",
+      "line": "Well that's no good, I need the breathing salts as well!"
+    },
+    {
+      "character": "Player",
+      "line": "I have the breathing salts."
+    },
+    {
+      "character": "Horvik",
+      "line": "Well that's no good, I need the tincture as well!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Great! Let's have a look at them then!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Wonderful! That's just great! I just need the pigeon cages now."
+    },
+    {
+      "character": "Horvik",
+      "line": "I need you to get me five pigeon cages, apparently you can get them from Ardougne. When I have them, I can convert them into chicken cages for you."
+    },
+    {
+      "character": "Player",
+      "line": "I have the five pigeon cages you asked for!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Great stuff...let's have them here then! Ah, I can turn my hand to a bit of woodworking on these, great, I do it as a hobby."
+    },
+    {
+      "character": "Horvik",
+      "line": "There you go then! There's your chicken cages!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost a chicken cage!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Well, Ok, I'm going to need a pigeon cage to convert it, plus some money for my time, say a 100 gold?"
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have a pigeon cage."
+    },
+    {
+      "character": "Horvik",
+      "line": "Sorry, but you'll have to get one so that I can convert it."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have 100 gold..."
+    },
+    {
+      "character": "Horvik",
+      "line": "Sorry, but I have to charge for my time!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll pay, here's the pigeon cage and 100 gold."
+    },
+    {
+      "character": "Horvik",
+      "line": "There you go then!"
+    },
+    {
+      "character": "Player",
+      "line": "Many thanks."
+    },
+    {
+      "character": "Player",
+      "line": "No way am I paying for that!"
+    },
+    {
+      "character": "Horvik",
+      "line": "Suit yourself then!"
+    },
+    {
+      "character": "Player",
+      "line": "I have some chicken cages!"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Well, I need at least five! Come back when you've got that many!"
+    },
+    {
+      "character": "Player",
+      "line": "Here they are! I've got all five!"
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Well that's great! Well done! You can go and talk to those fanatics now and tell them that they'll get their chickens and they can let little Jimmy the Chisel go! Once again, thanks for your help."
+    },
+    {
+      "character": "Seth Groats",
+      "line": "Thanks for getting us those chicken cages...you can go and talk to those fanatics now and get Jimmy released."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry about Jimmy. His release is imminent!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Oh, that's wonderful...many thanks for your help...just wonderful."
+    },
+    {
+      "character": "Player",
+      "line": "You're in luck, I've managed to swing that chicken deal for you."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Hmmm. Congratulations on your achievement, your help will ensure the success of our venture and we can surely take our efforts forwards. Tell me, won't you consider joining our calling?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the offer, but I'm sort of in the middle of something currently."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Right...well please consider it an open offer...Ok then...thanks and goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "Hold on! Aren't you forgetting something?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "What? Sorry? Please calm down!"
+    },
+    {
+      "character": "Player",
+      "line": "You said that you would release Jimmy! Are you going to keep to your word or am I going to have to get angry?"
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Oh my dear friend...please...there's no need to get so upset...of course we're going to release Jimmy. Oh dear, you do take things a bit seriously don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Good...I have things to do and I've had enough of people messing me about."
+    },
+    {
+      "character": "Johanhus Ulsbrecht",
+      "line": "Ok, I understand...please don't worry. I'll release Brother Jimmy now! Tell his employer that he'll be there shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Very well...but if you're lying, I'll be back and I won't be happy!"
+    },
+    {
+      "character": "Player",
+      "line": "Good news! Jimmy has been released by those fanatical HAM people! He said he was on his way back here!"
+    },
+    {
+      "character": "Aggie",
+      "line": "Yes! He's just returned! I'll happily be a character witness for Brian now! Please let him know that I'll help his friend however I can."
+    },
+    {
+      "character": "Player",
+      "line": "I've returned with good news. Aggie has agreed to be your character witness!"
+    },
+    {
+      "character": "Brian",
+      "line": "Well, I wish I could be more happy, but I've just had some bad news."
+    },
+    {
+      "character": "Player",
+      "line": "What's that?"
+    },
+    {
+      "character": "Brian",
+      "line": "Well, it seems that my friend was even more desperate than I had originally realised. He's gone to hide away from the authorities in the wilderness...what a lunatic!"
+    },
+    {
+      "character": "Brian",
+      "line": "I've heard that he's wandered into the lava maze in the most dangerous part of the wilderness!"
+    },
+    {
+      "character": "Player",
+      "line": "Well...what's going to happen now?"
+    },
+    {
+      "character": "Brian",
+      "line": "Well, I was wondering if you could do me just one small favour? Please could you go and fetch him back again for me?"
+    },
+    {
+      "character": "Player",
+      "line": "You have got to be kidding!"
+    },
+    {
+      "character": "Brian",
+      "line": "Well....yes...I was....actually!"
+    },
+    {
+      "character": "Brian",
+      "line": "Here you go, here's your axe! And very many thanks for your help and a good laugh! You should have seen your face! Oh what a picture!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost that sharpened axe you gave me?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I get another one please?"
+    },
+    {
+      "character": "Brian",
+      "line": "Sure, here, you go."
+    },
+    {
+      "character": "Player",
+      "line": "Good news, I have your sharpened axe!"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Ah, great!"
+    },
+    {
+      "character": "Player",
+      "line": "Yep, here it is... at long last!"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Yeah, you've been a while... I mean, I could have just gone and done it myself! It probably wouldn't have taken so long."
+    },
+    {
+      "character": "Player",
+      "line": "Why you ungrateful..."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Hang on a minute... there's no need to get so angry. Here's that red mahogany you wanted."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Okay, thanks for getting my axe sharpened for me!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost that red mahogany you gave me!"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Well, I can get you another piece but you're going to have to pay for my time... 200 coins I'll want."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't have 200 gold coins!"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Sorry friend, I know you did me a small favour, but I have to earn a crust too!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, here's 200 coins for some red mahogany."
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Many thanks my friend!"
+    },
+    {
+      "character": "Player",
+      "line": "I won't pay you 200 coins for a piece of wood!"
+    },
+    {
+      "character": "Jungle forester",
+      "line": "Well, suit yourself, I can always find other customers."
+    },
+    {
+      "character": "Player",
+      "line": "Here's the red mahogany you asked for."
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Well, that's absolutely wonderful my friend! Many thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait, that's it?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Well...what were you expecting? I mean, it took you so long I could have gone and got it myself!"
+    },
+    {
+      "character": "Player",
+      "line": "What! I've traipsed halfway around Gielinor..."
+    },
+    {
+      "character": "Player",
+      "line": "I've negociated with fanatics, dwarven gangsters and arrogant gnomes."
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed ancient weather vanes and gnomish landing lights and fought supernatural rock monsters..."
+    },
+    {
+      "character": "Player",
+      "line": "I've filled stodgy mattresses with feathers, made pot lids to help cure an ailing metal-smith...and that's all the thanks I get? 'Thanks!'"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Well, you didn't have to go to so much trouble..."
+    },
+    {
+      "character": "Player",
+      "line": "Raarrrhhhh!"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Look, I can see that you're quite upset about this...so here, have this."
+    },
+    {
+      "character": "Player",
+      "line": "What is it?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "It's a key ring, you can store some of your most valuable keys on it...helps to keep things organised!"
+    },
+    {
+      "character": "Player",
+      "line": "A key ring? That's it?"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Well, I only asked you to do me one small favour..."
+    },
+    {
+      "character": "Player",
+      "line": "Groan! Yeah, so did everyone else!"
+    },
+    {
+      "character": "Yanni Salika",
+      "line": "Oh....ok, I guess I could offer you these lamps...I'm not sure what they're worth, but you can have them."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aggie",
+      "description": "Older female, British accent, curmudgeonly and impatient tone. A Draynor Village witch who tolerates no nonsense and is quick to punish disrespect."
+    },
+    {
+      "name": "Apothecary",
+      "description": "Middle-aged male, British accent, professional and knowledgeable tone. A skilled herbalist and potion maker in Varrock who speaks with quiet competence."
+    },
+    {
+      "name": "Arhein",
+      "description": "Middle-aged male, British accent, confident and businesslike tone. A prosperous Catherby merchant and ship owner who speaks with measured authority."
+    },
+    {
+      "name": "Bob",
+      "description": "Older male, British accent, gruff and xenophobic tone. A Lumbridge axe shop owner who is quick to anger and has strong prejudices against non-humans."
+    },
+    {
+      "name": "Brian",
+      "description": "Adult male, British accent, professional and straightforward tone. A Port Sarim battleaxe merchant who is knowledgeable about his trade but worried about a friend in legal trouble."
+    },
+    {
+      "name": "Captain Bleemadge",
+      "description": "Adult male gnome, high-pitched cheerful voice, enthusiastic and upbeat. A gnome glider pilot with a whimsical nature who exclaims 'Huzzah!' often."
+    },
+    {
+      "name": "Captain Shanks",
+      "description": "Middle-aged male, British accent, gruff and businesslike tone. A no-nonsense sea captain who focuses purely on trade without sentiment."
+    },
+    {
+      "name": "Fred the Farmer",
+      "description": "Middle-aged male, British accent, anxious and easily flustered. A well-fed Lumbridge farmer prone to dramatic reactions and panic."
+    },
+    {
+      "name": "Gnormadium Avlafrim",
+      "description": "Adult male gnome, high-pitched enthusiastic voice, confident with a slightly condescending edge. A gnome construction engineer proud of his work but doubtful of outsiders."
+    },
+    {
+      "name": "Hammerspike Stoutbeard",
+      "description": "Adult male dwarf, deep gravelly voice, aggressive and business-like. A dwarf gangster with a commanding presence who shifts from negotiation to hostility."
+    },
+    {
+      "name": "Horvik",
+      "description": "Adult male, British accent, gruff and practical tone. A hardworking Varrock armoursmith who is direct and no-nonsense with customers."
+    },
+    {
+      "name": "Johanhus Ulsbrecht",
+      "description": "Adult male, British accent, formal and bureaucratic tone. The measured leader of H.A.M. who prefers petitions over violence."
+    },
+    {
+      "name": "Jungle forester",
+      "description": "Adult, British accent, practical and direct tone. A grounded timber trader near Shilo Village who speaks in a straightforward, business-focused manner."
+    },
+    {
+      "name": "Petra Fiyed",
+      "description": "Young adult female, British accent, energetic and spirited. An adventurous woman with an upbeat personality, relieved after being freed from petrification."
+    },
+    {
+      "name": "Phantuwti Fanstuwi Farsight",
+      "description": "Adult male, British accent, eccentric and scattered tone. A quirky seer with distracted speech patterns who becomes focused when discussing weather."
+    },
+    {
+      "name": "Rantz",
+      "description": "Adult male ogre, deep coarse voice, grumpy and critical. A dim-witted ogre who constantly criticizes others with a cantankerous demeanor."
+    },
+    {
+      "name": "Sanfew",
+      "description": "Elderly male, British accent, wise and measured tone. The venerable leader of the Taverley druids who speaks with calm authority from years of experience."
+    },
+    {
+      "name": "Seth Groats",
+      "description": "Middle-aged male, British accent, deep and gruff voice. A large, well-built farmer who speaks with practical directness befitting hard labor."
+    },
+    {
+      "name": "Tassie Slipcast",
+      "description": "Adult female, British accent, patient and instructive tone. A dedicated potter who speaks clearly and professionally when teaching her craft."
+    },
+    {
+      "name": "Tindel Marchant",
+      "description": "Adult male, British accent, calm and quietly enthusiastic. A Port Khazard equipment repairer who speaks with understated passion about his metalwork."
+    },
+    {
+      "name": "Wizard Cromperty",
+      "description": "Elderly male, British accent, slightly irritable and measured. An experienced Ardougne teleportation wizard frustrated with bureaucracy."
+    },
+    {
+      "name": "Yanni Salika",
+      "description": "Middle-aged male, British accent with slight tropical inflection, confident and professional. A seasoned Shilo Village antique dealer who is practical but friendly."
+    }
+  ]
+}

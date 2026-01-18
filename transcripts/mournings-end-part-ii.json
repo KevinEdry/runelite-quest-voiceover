@@ -1,0 +1,352 @@
+{
+  "branch": "quest/mournings-end-part-ii",
+  "quest_name": "Mourning's End Part II",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello Arianwyn. What are we going to do about the Temple of Light?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "First of all, we need to know how close the Iorwerth elves are to finding it. Return to the Mourner Headquarters and gain access to their mine. Once there, see what you can discover about the temple."
+    },
+    {
+      "character": "Player",
+      "line": "I’ll head over there right away."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Thank you friend. Don’t forget your disguise."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have the key to the excavation site yet?"
+    },
+    {
+      "character": "Essylt",
+      "line": "The guard has finally returned. Seems it took him so long because he had ten times more cut than we needed."
+    },
+    {
+      "character": "Player",
+      "line": "That’s useful. I’m always losing keys."
+    },
+    {
+      "character": "Essylt",
+      "line": "Well I have plenty now."
+    },
+    {
+      "character": "Player",
+      "line": "So… You mentioned a task you had for me, something to do with the mines?"
+    },
+    {
+      "character": "Essylt",
+      "line": "That’s right. One of our dig teams has gone missing while searching for the temple. I need you to find out what happened to them."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds easy enough."
+    },
+    {
+      "character": "Essylt",
+      "line": "You say that now but the beasts in the mines are deadly, you’ll have to be very careful in there."
+    },
+    {
+      "character": "Player",
+      "line": "I’ll be on my guard."
+    },
+    {
+      "character": "Essylt",
+      "line": "Good, you will need this."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I’ll get to work."
+    },
+    {
+      "character": "Essylt",
+      "line": "Good luck in there."
+    },
+    {
+      "character": "Player",
+      "line": "Well this looks like the dig team, and it seems they managed to find the temple. I’d better let Arianwyn know before the Mourners find out."
+    },
+    {
+      "character": "Arianwyn",
+      "line": ", what is the latest news?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I have found the entrance to the temple. It looks like one of the dig crews discovered it. They were killed by some strange shadows though, so the other mourners don’t know about it yet."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "This isn’t good, it will only be a matter of time before they discover the temple."
+    },
+    {
+      "character": "Player",
+      "line": "So what do we do?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I did some research while you were gone. Apparently, the temple was built with safeguards to prevent all but Seren's chosen from entering."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "If there are shadows roaming outside the temple, it means those safeguards have long since decayed. I believe we can still restore them though."
+    },
+    {
+      "character": "Player",
+      "line": "How?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "The temple guards an ancient altar, one with powers over life and death. I suspect this altar is why Lord Iorwerth is so keen to access the temple."
+    },
+    {
+      "character": "Player",
+      "line": "You think he means to use it to summon the Dark Lord?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Indeed. Now, the altar is also key to the safeguards on the temple. We will need to use it to restore them."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "First, I need you to return to the temple and find the crystal that is powering the safeguards. As they are no long working, I expect the crystal will be black in colour."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Bring me a sample of this crystal. We will then determine our next steps."
+    },
+    {
+      "character": "Player",
+      "line": "Is this it?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Yes! Good work."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I found it on the top floor of the temple."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Well done, with this sample, a good crystal chanter should be able to make a replacement. Just a second, I will summon Eluned."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Thank you for responding to my summons Eluned."
+    },
+    {
+      "character": "Eluned",
+      "line": "Any time Arianwyn, how can I help?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "here has an old crystal sample, we need you to make a replacement for it."
+    },
+    {
+      "character": "Eluned",
+      "line": "Alright, hand it here and I shall take a look."
+    },
+    {
+      "character": "Eluned",
+      "line": "Now, let me see… Hmm… Ah, there we go."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Eluned",
+      "line": "No problem, Arianwyn will tell you what you should do with it. Now I had better get going, see you round."
+    },
+    {
+      "character": "Player",
+      "line": "I have the new crystal, now what am I meant to do with it?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "You will need to first take the newly formed crystal to the end of the temple and place it on the altar there. This will imbue the crystal with the power it needs to safeguard the temple."
+    },
+    {
+      "character": "Player",
+      "line": "This is starting to sound hard."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "It should be quite simple. Once you have powered up the newly formed crystal, you will need to return to the blackened crystal and place the new shard with others. This should restore the safeguards."
+    },
+    {
+      "character": "Player",
+      "line": "And that’s it?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Yes, that is all."
+    },
+    {
+      "character": "Player",
+      "line": "Right then, I’ll get to it."
+    },
+    {
+      "character": "Thorgel",
+      "line": "‘Ere… How’d you get in ‘ere?"
+    },
+    {
+      "character": "Player",
+      "line": "Funny, I was just going to ask you the same thing."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Well I asked first."
+    },
+    {
+      "character": "Player",
+      "line": "Well I battled my way through hordes of shadows, whilst trying to solve a huge maze that I had to bounce a light beam around. Now your turn."
+    },
+    {
+      "character": "Thorgel",
+      "line": "I came in through this hole in the back."
+    },
+    {
+      "character": "Player",
+      "line": "You mean there’s an easy way?"
+    },
+    {
+      "character": "Thorgel",
+      "line": "Not easy as such. A few of the boys and me set up an outpost at the other end of the tunnel, at the bottom of a huge cavern. The only way to get there is through caves riddled with traps."
+    },
+    {
+      "character": "Player",
+      "line": "Hang on, this sounds familiar. Is the name of one of your companions Klank?"
+    },
+    {
+      "character": "Thorgel",
+      "line": "Yes, how did you know that?"
+    },
+    {
+      "character": "Player",
+      "line": "He’s a friend of mine, he made me a great pair of gauntlets."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Wait… You must be !"
+    },
+    {
+      "character": "Player",
+      "line": "That’s right. How did you know that?"
+    },
+    {
+      "character": "Thorgel",
+      "line": "Klank told me about you, told me how you got rid of that Iban fellow. As it’s you, I’ll make you an offer, I’ll trade you a Death Talisman. You’ll need it if you want to access this altar."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, but I have one."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Well if you wanna ‘nother, just come back and I’ll tell you what I need."
+    },
+    {
+      "character": "Player",
+      "line": "Great… Wait, what for?"
+    },
+    {
+      "character": "Thorgel",
+      "line": "I just need a few things, here I’ll make you a list."
+    },
+    {
+      "character": "Player",
+      "line": "Right I’d better get started, see you soon."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Hi again, how’re you doing with those items we need?"
+    },
+    {
+      "character": "Player",
+      "line": "I’ve got some of them with me."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Great, can I take everything I need?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah sure."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Thanks, I've updated your list for you."
+    },
+    {
+      "character": "Thorgel",
+      "line": "Great, thank you so much for getting all that for us! Here take this Death Talisman as a reward. Anytime you want another one of those Talismans come see me and I'll sort you out with another list."
+    },
+    {
+      "character": "Player",
+      "line": "Good news Arianwyn, I’ve repaired the safeguards on the Temple of Light."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "This is good news indeed,. That should stop anyone from entering for another thousand years."
+    },
+    {
+      "character": "Player",
+      "line": "Erm… not quite. It seems some dwarves have managed to tunnel through to the back of the temple."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Some dwarves?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. They’ve set up an outpost in the Underground Pass."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "This is interesting news. I will send an envoy down to speak with them. We must ensure all access into the temple is secure."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Even still, I can’t see Lord Iorwerth discovering this tunnel any time soon. For now, he should have no way to summon the Dark Lord."
+    },
+    {
+      "character": "Player",
+      "line": "So what happens next?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "This isn’t the end by any means. The Iorwerth forces are still at large and we are not strong enough to stop them. However, with the temple secure, the main threat has been dealt with."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I will let you know if there are any further developments. For now though, your work is done."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I can’t offer much of a reward I’m afraid. However, I did have Eluned make this for you. It should allow you to bypass the defences on the temple."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Arianwyn",
+      "description": "Mature male elf, soft Welsh accent, contemplative and burdened tone, a concerned leader of the rebel elves who carries the weight of responsibility and speaks with measured wisdom."
+    },
+    {
+      "name": "Eluned",
+      "description": "Adult female elf, gentle Welsh accent, graceful and professional tone, a skilled enchantress who speaks with calm confidence and helpful warmth."
+    },
+    {
+      "name": "Essylt",
+      "description": "Adult male elf, sharp Welsh accent, commanding and authoritative tone, a ferocious henchman who speaks with cold menace and military precision."
+    },
+    {
+      "name": "Thorgel",
+      "description": "Middle-aged male dwarf, gruff Scottish accent, irritable and impatient tone, a short-tempered fellow who speaks bluntly with occasional warmth when he recognizes a friend."
+    }
+  ]
+}

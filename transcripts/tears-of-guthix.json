@@ -1,0 +1,1272 @@
+{
+  "branch": "quest/tears-of-guthix",
+  "quest_name": "Tears of Guthix",
+  "lines": [
+    {
+      "character": "Juna",
+      "line": "Tell me... a story..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Juna",
+      "line": "Your stories have entertained me. I will let you into the cave for a short time."
+    },
+    {
+      "character": "Juna",
+      "line": "But first you will need to make a bowl in which to collect the tears."
+    },
+    {
+      "character": "Juna",
+      "line": "There is a cave on the south side of the chasm that is similarly infused with the power of Guthix. The stone in that cave is the only substance that can catch the Tears of Guthix."
+    },
+    {
+      "character": "Juna",
+      "line": "Mine some stone from that cave, make it into a bowl, and bring it to me, and then I will let you catch the Tears."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't really have one."
+    },
+    {
+      "character": "Juna",
+      "line": "Hmm. Maybe you should come back when you do."
+    },
+    {
+      "character": "Player",
+      "line": "A story?"
+    },
+    {
+      "character": "Juna",
+      "line": "I have been waiting here three thousand years, guarding the Tears of Guthix. I serve my master faithfully, but I am bored."
+    },
+    {
+      "character": "Juna",
+      "line": "An adventurer such as yourself must have many tales to tell. If you can entertain me, I will let you into the cave for a time."
+    },
+    {
+      "character": "Juna",
+      "line": "The more I enjoy your story, the more time I will give you in the cave."
+    },
+    {
+      "character": "Juna",
+      "line": "Then you can drink of the power of balance, which will make you stronger in whatever area you are weakest."
+    },
+    {
+      "character": "Player",
+      "line": "What are the Tears of Guthix?"
+    },
+    {
+      "character": "Juna",
+      "line": "The Third Age of the world was a time of great conflict, of destruction never seen before or since, when all the gods save Guthix warred for control."
+    },
+    {
+      "character": "Juna",
+      "line": "The colossal Wyrms, of whom today's dragons are a pale reflection, turned all the sky to fire, while on the ground armies of foot soldiers, goblins and trolls and humans, filled the valleys and plains with blood."
+    },
+    {
+      "character": "Juna",
+      "line": "In time the noise of the conflict woke Guthix from His deep slumber, and He rose and stood in the centre of the battlefield so that the splendour of His wrath filled the world, and He called for the conflict to cease!"
+    },
+    {
+      "character": "Juna",
+      "line": "Silence fell, for the gods knew that none could challenge the power of the mighty Guthix -- for His power is that of nature itself, to which all other things are subject, in the end."
+    },
+    {
+      "character": "Juna",
+      "line": "Guthix reclaimed that which had been stolen from Him, and went back underground to return to His sleep and continue to draw the world's power into Himself."
+    },
+    {
+      "character": "Juna",
+      "line": "But on His way into the depths of the earth He sat and rested in this cave; and, thinking of the battle-scarred desert that now stretched from one side of His world to the other, He wept."
+    },
+    {
+      "character": "Juna",
+      "line": "And so great was His sorrow, and so great was His life- giving power, that the rocks themselves began to weep with Him."
+    },
+    {
+      "character": "Juna",
+      "line": "Later, Guthix noticed that the rocks continued to weep, and that their tears were infused with a small part of His power."
+    },
+    {
+      "character": "Juna",
+      "line": "So He set me, His servant, to guard the cave, and He entrusted to me the task of judging who was and was not worthy to access the tears."
+    },
+    {
+      "character": "Player",
+      "line": "You tell me a story."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me about the Tears of Guthix."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me a new story."
+    },
+    {
+      "character": "Juna",
+      "line": "I have already told you my story, and you have not told me yours!"
+    },
+    {
+      "character": "Player",
+      "line": "Not now."
+    },
+    {
+      "character": "Player",
+      "line": "... so Ava's devices can retrieve ammunition for me when I'm ranging, using the power of the magnet and the undead chicken."
+    },
+    {
+      "character": "Juna",
+      "line": "A magnet and an undead chicken? Really?"
+    },
+    {
+      "character": "Player",
+      "line": "It's useful."
+    },
+    {
+      "character": "Player",
+      "line": "... and the Dorgeshuun city is now connected to Keldagrim by a rapid train line."
+    },
+    {
+      "character": "Juna",
+      "line": "I am always glad to hear tales of the Dorgeshuun."
+    },
+    {
+      "character": "Player",
+      "line": "... and with the device destroyed, the people of Arceuus were safe."
+    },
+    {
+      "character": "Player",
+      "line": "... at the end of the day, I wonder what happened to Fox's equipment..."
+    },
+    {
+      "character": "Player",
+      "line": "... after Willow betrayed me, I managed to defeat the guardian. Then I found the Imcando city of Camdozaal!"
+    },
+    {
+      "character": "Player",
+      "line": "... but Pharaoh Kemesis agreed to begin preparations to reopen Menaphos."
+    },
+    {
+      "character": "Player",
+      "line": "... I had to be shot out of a cannon into a rock! But finally I banished the spirit of the rock and Dondakan could mine his gold."
+    },
+    {
+      "character": "Player",
+      "line": "... Poor Rantz was so clumsy he couldn't shoot anything! But I managed to kill the Chompy Bird."
+    },
+    {
+      "character": "Player",
+      "line": "... So it turned out there was no plague after all!"
+    },
+    {
+      "character": "Juna",
+      "line": "Deception of the people by their rulers is a terrible thing."
+    },
+    {
+      "character": "Player",
+      "line": "... So in the end the Black Knights were defeated by cabbage!"
+    },
+    {
+      "character": "Juna",
+      "line": "One should never underestimate the uses of the vegetables of Guthix."
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how I got the archaeologists to Fossil Island!"
+    },
+    {
+      "character": "Player",
+      "line": "... So I holed the enemy ship with another cannon shot, and the Adventurous sailed triumphantly into Mos Le'Harmless!"
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how I stopped the murder of the Teokan of Ralos!"
+    },
+    {
+      "character": "Juna",
+      "line": "I have no knowledge of this Ralos you speak of. How curious..."
+    },
+    {
+      "character": "Player",
+      "line": "... but Veos had no idea what was going on. He'd been controlled remotely by his mysterious client the whole time!"
+    },
+    {
+      "character": "Player",
+      "line": "... So it was I who repaired the clock tower."
+    },
+    {
+      "character": "Player",
+      "line": "... so I told Larry about the penguins' plot!"
+    },
+    {
+      "character": "Juna",
+      "line": "The paranoia and ambition of the penguins' leaders will not serve their people well."
+    },
+    {
+      "character": "Player",
+      "line": "... and in the end I found all the ingredients, so the Duke of Lumbridge had a birthday cake after all."
+    },
+    {
+      "character": "Juna",
+      "line": "Ah, a happy ending. It would not be good for such an anniversary to go unmarked."
+    },
+    {
+      "character": "Player",
+      "line": "... and after I'd defeated the giant scarab, the High Priest gave me a reward lamp to teach me more combat skills."
+    },
+    {
+      "character": "Player",
+      "line": "... where Captain Tock thanked me profusely for solving the mysterious 'curse' and killing the traitor."
+    },
+    {
+      "character": "Player",
+      "line": "... But in the end I stopped Fenkenstrain from continuing his horrible experiments."
+    },
+    {
+      "character": "Juna",
+      "line": "With the power to create life comes responsibility. I see that Fenkenstrain was not up to the task."
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how I was able to deal with the questionable politics of Catherby."
+    },
+    {
+      "character": "Juna",
+      "line": "It seems you humans are always coming up with new political systems. This one sounds like it might need a bit more work..."
+    },
+    {
+      "character": "Player",
+      "line": "... and so I escaped with the heart of Arrav!"
+    },
+    {
+      "character": "Juna",
+      "line": "The separation of heart from man is not natural. It is good you are looking to resolve such matters."
+    },
+    {
+      "character": "Player",
+      "line": "... I gave Safalaan the book on Haemalchemy, and he recommended me for a position on the Myreque."
+    },
+    {
+      "character": "Juna",
+      "line": "I am sure you will have many more adventures on behalf of the Myreque. Then, perhaps, you will have even more stories to tell me."
+    },
+    {
+      "character": "Player",
+      "line": "... So from then on the Imperial Guard was able to access Death Plateau safely and take the trolls by surprise."
+    },
+    {
+      "character": "Player",
+      "line": "... Sigmund escaped again, but Zanik and I destroyed the machine and Dorgesh-Kaan was saved!"
+    },
+    {
+      "character": "Juna",
+      "line": "Zanik still has her destiny to fulfil, and I have a feeling you will have a part in that."
+    },
+    {
+      "character": "Player",
+      "line": "... and so that's how I solved the case of the murder on the isle."
+    },
+    {
+      "character": "Juna",
+      "line": "Ambition is so often the death of reason. It is good you were able to find the culprit."
+    },
+    {
+      "character": "Player",
+      "line": "... the Shield of Arrav glowed with lightning, and Dimintheis used it to defeat the zombie army!"
+    },
+    {
+      "character": "Player",
+      "line": "... So I destroyed the demon Delrith and saved Varrock!"
+    },
+    {
+      "character": "Juna",
+      "line": "I remember Delrith. A most unpleasant character; I am glad he has been dispatched."
+    },
+    {
+      "character": "Player",
+      "line": "... and I returned the Royal Accord of Twill to Lord Hosidius."
+    },
+    {
+      "character": "Player",
+      "line": "... In the pyramid I discovered a whole new set of magic spells!"
+    },
+    {
+      "character": "Juna",
+      "line": "I suggest you think about the origin of those spells. Ancient magics are not to be toyed with."
+    },
+    {
+      "character": "Player",
+      "line": "... and it turns out the treasure in the vault was actually the Elder Horn!"
+    },
+    {
+      "character": "Juna",
+      "line": "For an artefact like that to be unleashed upon this world... Let us hope this is not the end of the story."
+    },
+    {
+      "character": "Player",
+      "line": "... So it was me who accidentally brought a teleport beacon onto Entrana! But the Temple Knights are investigating so it should all be all right."
+    },
+    {
+      "character": "Player",
+      "line": "... and the examiner was very impressed that I had discovered an ancient altar of Zaros."
+    },
+    {
+      "character": "Juna",
+      "line": "Zaros? I had not heard that name for a thousand years even before the start of my sojourn here."
+    },
+    {
+      "character": "Player",
+      "line": "... So once I had got all the ores he wanted, Doric let me use his anvils."
+    },
+    {
+      "character": "Juna",
+      "line": "Such a small task hardly seems worthy of the term 'quest'."
+    },
+    {
+      "character": "Player",
+      "line": "... So with Elvarg the dragon dead, the master of the Champions' Guild let me in, and I was able to wear Rune Plate!"
+    },
+    {
+      "character": "Player",
+      "line": "... so I slew the dragon which killed the dragonkin as well."
+    },
+    {
+      "character": "Player",
+      "line": "Not everyone survived the fight though."
+    },
+    {
+      "character": "Juna",
+      "line": "The dragonkin once brought this world to the brink of ruin. It is good you stopped them from doing so again."
+    },
+    {
+      "character": "Player",
+      "line": "... so Cyrisus was free of his fear of combat, and he headed off to be an adventurer."
+    },
+    {
+      "character": "Juna",
+      "line": "Fear is the most insidious enemy of all."
+    },
+    {
+      "character": "Player",
+      "line": "... So Kaqemeex taught me how to use the Herblore skill."
+    },
+    {
+      "character": "Juna",
+      "line": "A generous reward indeed."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I fixed the Dwarf multicannon."
+    },
+    {
+      "character": "Juna",
+      "line": "So war still rages in the world above? Will you never tire of creating machines of destruction?"
+    },
+    {
+      "character": "Player",
+      "line": "... Eadgar's ruse was absurd, but it worked! The trolls ate a fake human, and I got the herb for the druids' ritual."
+    },
+    {
+      "character": "Player",
+      "line": "... so Nickolaus taught me how to catch a new ferret for the zoo."
+    },
+    {
+      "character": "Player",
+      "line": "... and once I had repaired the Elemental Workshop I was able to make an Elemental Shield."
+    },
+    {
+      "character": "Player",
+      "line": "... so I instilled the power of my mind into the primed bar and smithed it into an Elemental Mind Helm!"
+    },
+    {
+      "character": "Juna",
+      "line": "You should be careful about meddling with your own head."
+    },
+    {
+      "character": "Player",
+      "line": "... and then Akthanakos and Enakhra went away to the north to continue fighting!"
+    },
+    {
+      "character": "Juna",
+      "line": "A battle between two such powerful beings will take much time and unleash much energy. I hope that the natural world is not damaged in this conflict!"
+    },
+    {
+      "character": "Player",
+      "line": "... so we landed the balloon in Taverley, and Auguste thanked me for helping him get his idea off the ground."
+    },
+    {
+      "character": "Player",
+      "line": "... So once I had found all the parts for the machine, poor Ernest could be himself once more."
+    },
+    {
+      "character": "Juna",
+      "line": "That was a good deed. It is a terrible thing to be locked out of one's natural form."
+    },
+    {
+      "character": "Player",
+      "line": "... and I know they meant well, but I did have to explain to them that they couldn't just go 'borrowing' from other museums!"
+    },
+    {
+      "character": "Juna",
+      "line": "Is it ever right to steal? It is a conundrum older than time, though I think in this case, the answer is clear."
+    },
+    {
+      "character": "Player",
+      "line": "... the machine revealed that the cute creatures were actually Arposandran spies! I destroyed them, and King Narnode gave me a crystal seed that belonged to Oaknock the Engineer."
+    },
+    {
+      "character": "Player",
+      "line": "... So I defeated the tanglefoot and returned the Fairy Queen's Enchanted Secateurs to the Fairy Godfather."
+    },
+    {
+      "character": "Juna",
+      "line": "These fairies seem to be well versed in the powers of nature."
+    },
+    {
+      "character": "Player",
+      "line": "... the Fairy Queen awoke, and we realised that the Godfather had betrayed her!"
+    },
+    {
+      "character": "Juna",
+      "line": "Politics is never straightforward."
+    },
+    {
+      "character": "Player",
+      "line": "... So all three parts of the family crest were reunited."
+    },
+    {
+      "character": "Player",
+      "line": "...So despite the failure of my original task, Ali Morrisane was very happy about his nephew's fortunes."
+    },
+    {
+      "character": "Player",
+      "line": "... and I defeated General Khazard, and won the Servils their freedom!"
+    },
+    {
+      "character": "Player",
+      "line": "... and so it turned out that the archive was never completed. Everything Metzli did was for nothing..."
+    },
+    {
+      "character": "Juna",
+      "line": "She let her greed consume her, and paid the ultimate price."
+    },
+    {
+      "character": "Player",
+      "line": "... and after I had won the fishing contest, the Dwarves let me go under White Wolf Mountain."
+    },
+    {
+      "character": "Juna",
+      "line": "Fishing? A strange test of worthiness to pass through an underground tunnel!"
+    },
+    {
+      "character": "Player",
+      "line": "... I think I did something with a drunken dwarf... but I can't remember what."
+    },
+    {
+      "character": "Juna",
+      "line": "You must be careful not to let drink muddle your brain!"
+    },
+    {
+      "character": "Player",
+      "line": "... and so I took the hammer to Undor and he used it to repair the Doors of Dinh."
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how we defeated the Jormungand once and for all!"
+    },
+    {
+      "character": "Player",
+      "line": "... so I presented the head of the Troll King to the Burgher and he gave me his own helm!"
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I became an honourary member the Fremennik, and was given my Fremennik name,."
+    },
+    {
+      "character": "Player",
+      "line": "... so it seems that in trying to prevent it, the Old Ones managed to cause their extinction instead."
+    },
+    {
+      "character": "Player",
+      "line": "... So the garden at Varrock palace is all my work!"
+    },
+    {
+      "character": "Juna",
+      "line": "It is good that you can take time from slaying and adventuring to grow a beautiful garden."
+    },
+    {
+      "character": "Player",
+      "line": "...I returned Fluffs safely to Gertrude, and then she gave me a cat of my own!"
+    },
+    {
+      "character": "Juna",
+      "line": "Cats are one of the most mysterious creatures of Guthix. I hope you take your responsibility seriously."
+    },
+    {
+      "character": "Player",
+      "line": "... and so I ended up having to make a pretend head. Not exactly how I expected things to go, but at least I managed to keep my head up throughout it all!"
+    },
+    {
+      "character": "Player",
+      "line": "... So the people of Port Phasmatys were finally able to rest."
+    },
+    {
+      "character": "Player",
+      "line": "... So the statue in Keldagrim was rebuilt, and I witnessed a meeting of the Consortium of mining companies."
+    },
+    {
+      "character": "Juna",
+      "line": "I have a feeling that Keldagrim will be the setting of many great adventures for you."
+    },
+    {
+      "character": "Player",
+      "line": "... So the goblins ended up wearing the armour colour they had to start off with!"
+    },
+    {
+      "character": "Juna",
+      "line": "Poor silly goblins! Their race had such potential, if only they could rise above their petty squabbles."
+    },
+    {
+      "character": "Player",
+      "line": "... and I had to reprogram the golem before it would believe that the demon was dead."
+    },
+    {
+      "character": "Juna",
+      "line": "I remember well the battle of Uzer."
+    },
+    {
+      "character": "Player",
+      "line": "... Glough fled like the coward he really is, and the Grand Tree was saved!"
+    },
+    {
+      "character": "Player",
+      "line": "... so I defeated Mi-Gor's barrel-chested bodyguard, and the monks were saved."
+    },
+    {
+      "character": "Player",
+      "line": "... and once I'd chopped down the beanstalk, Sylas let me keep Rupert's helmet."
+    },
+    {
+      "character": "Juna",
+      "line": "Your tales are often very curious,."
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I gave Bert a hand solving the murder and returned the wizard's head to solve the riddle of the ever full sand pits!"
+    },
+    {
+      "character": "Juna",
+      "line": "A victim dies and a murderer is punished. That is balance."
+    },
+    {
+      "character": "Player",
+      "line": "... and from the legendary crystals I cut a salve shard to fight the undead."
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I foiled the cultists in their plan to resurrect Hazeel."
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I helped return Hazeel to his followers."
+    },
+    {
+      "character": "Juna",
+      "line": "So the vile Mahjarrat still walk the earth above? Then Zamorak's defeat was not as thorough as I had thought."
+    },
+    {
+      "character": "Player",
+      "line": "... but it all went wrong and Itzla was captured!"
+    },
+    {
+      "character": "Player",
+      "line": "... So after I had retrieved all the items, I became a member of the Heroes' Guild!"
+    },
+    {
+      "character": "Player",
+      "line": "... and out of all the Knights of the Round Table, it was I who found the Holy Grail."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was the end of the horror from the deep!"
+    },
+    {
+      "character": "Player",
+      "line": "... and with the amulet I received, I could understand the language of cats!"
+    },
+    {
+      "character": "Juna",
+      "line": "It is a rare privilege to understand the language of those beings. You should listen carefully to all that they say - but not believe too much of it."
+    },
+    {
+      "character": "Player",
+      "line": "... It took some time, but I finally got all four beads back, and Mizgog gave me my reward."
+    },
+    {
+      "character": "Juna",
+      "line": "Imps! I remember the age of great war, when armies of Zamorak's imps bloodied the ankles of the other gods' creatures."
+    },
+    {
+      "character": "Player",
+      "line": "... Veliaf was very impressed by the 'Rod of Ivandis', and I can use it to kill Juves and the Juvinates!"
+    },
+    {
+      "character": "Player",
+      "line": "... So I suppose it was my fault that the young members of the Myreque were killed by Vanstrom."
+    },
+    {
+      "character": "Player",
+      "line": "... and once I had gathered all the herbs, Trufitus Shakaya was able to commune with his gods."
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how Kourend came to be ruled by a king again. It just wasn't quite the king we initially expected."
+    },
+    {
+      "character": "Player",
+      "line": "... meanwhile Merlin used his magic to eject the Sinclairs from Camelot. King Arthur rewarded me for saving him."
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I found the Imcando Dwarves and got the Knight a new sword."
+    },
+    {
+      "character": "Player",
+      "line": "... Oldak and I escaped from Yu'biusk before the portal closed, but Zanik was trapped in the box."
+    },
+    {
+      "character": "Player",
+      "line": "... and when I had completed all the tasks, I became a member of the Legends' Guild!"
+    },
+    {
+      "character": "Player",
+      "line": "... and when I entered the door carrying the Dramen Staff, I was transported to a whole new world -- a world populated by magical fairies!"
+    },
+    {
+      "character": "Player",
+      "line": "... So Sigmund was dismissed, and the duke and ruler of the cave goblins signed a peace treaty."
+    },
+    {
+      "character": "Juna",
+      "line": "The Dorgeshuun goblins have been good neighbors during my vigil here. They are a timid race, but not cowardly, and I am glad they have the peace they desire."
+    },
+    {
+      "character": "Player",
+      "line": "... so I defeated my mirror image, won the respect of the Moon Clan and persuaded them to communicate with the Fremenniks!"
+    },
+    {
+      "character": "Juna",
+      "line": "The Moon Clan's reliance on magic is no more balanced than the Fremennik's hatred of it."
+    },
+    {
+      "character": "Player",
+      "line": "... while Snowflake and My Arm live happily together in Weiss."
+    },
+    {
+      "character": "Player",
+      "line": "... so that's how the Outpost was saved and converted into a museum."
+    },
+    {
+      "character": "Juna",
+      "line": "By remembering the past, one should be able to avoid repeating its mistakes. Yet the mortal races show no sign of abandoning their obsession with war and bloodshed."
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how we brought kebabs to Varlamore!"
+    },
+    {
+      "character": "Player",
+      "line": "... and when I told King Arthur that I had single-handedly freed Merlin from his crystal prison, he made me a Knight of the Round Table!"
+    },
+    {
+      "character": "Player",
+      "line": "... but I was able to stab the killer with her own knife!"
+    },
+    {
+      "character": "Juna",
+      "line": "A masked killer slashing vulnerable young people in a deserted mansion? Is that what stories have become in this day and age? How formulaic!"
+    },
+    {
+      "character": "Player",
+      "line": "... and the monks threw a big birthday party for the child, with lots of wine."
+    },
+    {
+      "character": "Juna",
+      "line": "I hope they supplied something more suitable for the child to drink."
+    },
+    {
+      "character": "Player",
+      "line": "... so I defeated the Jungle Demon and stopped the Monkeys' plot to take over Karamja."
+    },
+    {
+      "character": "Juna",
+      "line": "I see they couldn't make a monkey out of you!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, actually, I was a monkey for a bit."
+    },
+    {
+      "character": "Player",
+      "line": "... so I defeated Glough in his mutant form and prevented a war. King Narnode Shareen & King Awowogei signed a peace treaty."
+    },
+    {
+      "character": "Juna",
+      "line": "Glough's evil plans always threaten to upset the balance of our world. I am pleased you were able to stop him."
+    },
+    {
+      "character": "Player",
+      "line": "... I was too late to save the chieftain's daughter, but at least I gave her a proper burial."
+    },
+    {
+      "character": "Juna",
+      "line": "Brief is life, but more precious if its passing is properly honoured."
+    },
+    {
+      "character": "Player",
+      "line": "... So that's how I found out about the lost temple in the mountains that the mourners were searching for."
+    },
+    {
+      "character": "Player",
+      "line": "... What kind of twisted mind would come up with the light-beam puzzle in that temple?"
+    },
+    {
+      "character": "Player",
+      "line": "... and that's how I solved the murder of Lord Sinclair."
+    },
+    {
+      "character": "Player",
+      "line": "... My Arm is still up on that rooftop, growing goutweed in his little farming patch!"
+    },
+    {
+      "character": "Juna",
+      "line": "It is good that a troll wishes to study the complex skill that is Farming."
+    },
+    {
+      "character": "Player",
+      "line": "... My Arm carried on growing goutweed in his little farming patch on that rooftop, until Drunken Dwarf's Leg took over."
+    },
+    {
+      "character": "Juna",
+      "line": "The names of trolls never cease to amaze me."
+    },
+    {
+      "character": "Player",
+      "line": "... thus Filliman Tarlock became a Nature Spirit!"
+    },
+    {
+      "character": "Juna",
+      "line": "That is a fitting reward for a dedicated servant of Guthix. Thank you for helping him."
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I helped Filliman Tarlock transform into a Nature Spirit."
+    },
+    {
+      "character": "Juna",
+      "line": "It is good that you have helped a servant of Guthix to his rest."
+    },
+    {
+      "character": "Player",
+      "line": "... and so it turned out it wasn't actually Verzik at all. It was a nylocas!"
+    },
+    {
+      "character": "Player",
+      "line": "... and when I had fixed the telescope, I looked through and saw the stars."
+    },
+    {
+      "character": "Juna",
+      "line": "It is long since I have seen the stars..."
+    },
+    {
+      "character": "Player",
+      "line": "... where I found a note from Ulfric Longbeard and some treasure!"
+    },
+    {
+      "character": "Player",
+      "line": "... I still can't believe how long that 'one small favour' took me! I ended up walking all over the world doing small favours for all and sundry!"
+    },
+    {
+      "character": "Player",
+      "line": "... so even though Will and Anne got away, at least I survived the ordeal."
+    },
+    {
+      "character": "Player",
+      "line": "... the room filled up with gas and I nearly died, but Hazelmere came to my rescue."
+    },
+    {
+      "character": "Juna",
+      "line": "A truly exciting tail of failing and needing to be rescued."
+    },
+    {
+      "character": "Player",
+      "line": "... and whilst we managed to reset the seal, Eyatlalli still needs my help to keep the Moons of Peril in check."
+    },
+    {
+      "character": "Juna",
+      "line": "A nagua? It has been a long time since I last heard of their kind..."
+    },
+    {
+      "character": "Player",
+      "line": "... and when I dug in the middle of the park in Falador, I found the pirate's treasure!"
+    },
+    {
+      "character": "Juna",
+      "line": "Such is ever the folly of pirates, the bury their loot in the ground so that another can dig it up."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I rescued Elena from West Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "... but using my new goggles, I was able to avoid the acidic attack of the Sourhog and I came out victorious."
+    },
+    {
+      "character": "Player",
+      "line": "... But with Drezel's help I was able to purify the Salve."
+    },
+    {
+      "character": "Player",
+      "line": "... and I had to disguise Prince Ali in order to smuggle him out!"
+    },
+    {
+      "character": "Player",
+      "line": "... so I guess I'll never be short on crowbars again."
+    },
+    {
+      "character": "Player",
+      "line": "... so Councillor Hughes was arrested, and Lady Piscarilius rewarded me for my help."
+    },
+    {
+      "character": "Player",
+      "line": "... So I fetched all the bones the Odd Old Man wanted, and he gave me a reward!"
+    },
+    {
+      "character": "Juna",
+      "line": "What could that man have wanted all those bones for? Collecting that many bones cannot be a balanced activity."
+    },
+    {
+      "character": "Player",
+      "line": "... So I fetched all the bones on the old man's wish-list, as well as the ones I'd brought him earlier."
+    },
+    {
+      "character": "Player",
+      "line": "... Those rat-catchers are odd people. But by the end of it I had caught a huge number of rats all over Gielinor!"
+    },
+    {
+      "character": "Juna",
+      "line": "Rats are a highly unbalanced creature and it is right that their numbers be controlled."
+    },
+    {
+      "character": "Player",
+      "line": "... So after I had freed all the dinner guests I was finally able to face the Culinaromancer and put an end to his mad schemes!"
+    },
+    {
+      "character": "Juna",
+      "line": "That evil wizard's time spells sent a ripple through the fabric of balance. I am glad he is no longer at large!"
+    },
+    {
+      "character": "Player",
+      "line": "... So I figured out their weird puzzles, and the Temple Knights asked me to join as an initiate member!"
+    },
+    {
+      "character": "Juna",
+      "line": "I have heard tales of these 'Temple Knights' from many years past. Be wary, their motivations are not what they might lead you to believe."
+    },
+    {
+      "character": "Player",
+      "line": "... I returned to tell King Lathas that the assassination was successful, and he rewarded me."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I negotiated peace between frogs and humans."
+    },
+    {
+      "character": "Juna",
+      "line": "Forgive me, but that story was quite... unusual."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah..."
+    },
+    {
+      "character": "Player",
+      "line": "... and once I returned the skull, the ghost was able to rest."
+    },
+    {
+      "character": "Juna",
+      "line": "A strange attachment to an item that has no use after one's death."
+    },
+    {
+      "character": "Player",
+      "line": "... I gave the message to Romeo, but he misunderstood, so they never were together."
+    },
+    {
+      "character": "Juna",
+      "line": "Never was a story of more woe That this of Juliet and her Romeo."
+    },
+    {
+      "character": "Player",
+      "line": "... and when I planted the shard, it grew into a crystal tree!"
+    },
+    {
+      "character": "Player",
+      "line": "... So I showed that the war was based on a misunderstanding, and now Miscellania and Etceteria were at peace again!"
+    },
+    {
+      "character": "Juna",
+      "line": "War? What is it good for?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely nothing!"
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I helped keep the zombie pirates drunk!"
+    },
+    {
+      "character": "Juna",
+      "line": "Drunken zombie pirates? What is the world coming to?"
+    },
+    {
+      "character": "Player",
+      "line": "... So I brought Aubury's notes to Sedridor the Head Wizard, and from then on I was able to mine Rune Essence."
+    },
+    {
+      "character": "Juna",
+      "line": "So the mortals above have discovered magic once more? Very interesting."
+    },
+    {
+      "character": "Player",
+      "line": "... I would never have thought that three scorpions would take that long to find!"
+    },
+    {
+      "character": "Player",
+      "line": "... Alan was convinced by the new egg, but he then may have had a little accident himself..."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I rescued Caroline's family from the Sea Slugs."
+    },
+    {
+      "character": "Player",
+      "line": "... and so the assassin captured Jhallan and teleported him away."
+    },
+    {
+      "character": "Juna",
+      "line": "Be very careful of the Mahjarrat,. None of them are to be trusted."
+    },
+    {
+      "character": "Player",
+      "line": "... So Mort'ton returned pretty much to normal, and I was able to put the shades to rest."
+    },
+    {
+      "character": "Player",
+      "line": "... So Denath was Agrith-Naar all along! But I managed to summon the demon again and slay him."
+    },
+    {
+      "character": "Juna",
+      "line": "Agrith-Naar was one of the demons my master banished at the end of the great war. It seems he found a way to work around the ban on direct intervention."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I saved the townsfolk from the custodians!"
+    },
+    {
+      "character": "Juna",
+      "line": "Ever curious, the continued evolution of creatures, isn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "... and I incinerated the bones of the sheep in the furnace."
+    },
+    {
+      "character": "Player",
+      "line": "... Shearing all those sheep was hard work, but the pay was good!"
+    },
+    {
+      "character": "Juna",
+      "line": "Nature gave sheep their wool for a reason, you know. I hope they were not too cold."
+    },
+    {
+      "character": "Player",
+      "line": "... So that's how I helped return the Shield of Arrav."
+    },
+    {
+      "character": "Player",
+      "line": "... So what Rashiliyia wanted all along was to be reunited with her son in the afterlife."
+    },
+    {
+      "character": "Player",
+      "line": "... but Lord Drakan was too strong, and we were unable to defeat him. The Myreque were defeated and Safalaan was taken!"
+    },
+    {
+      "character": "Player",
+      "line": "... and once I finished making Kovac his sword, he gave me full access to the Foundry"
+    },
+    {
+      "character": "Player",
+      "line": "... when I told Sir Tiffy that I had accidentally freed the Mother Mallum, he promoted me to the rank of Proselyte within the Temple Knights."
+    },
+    {
+      "character": "Juna",
+      "line": "That was a strange response to such an unfortunate event. But the motives of the Temple Knights have always been incomprehensibly unbalanced."
+    },
+    {
+      "character": "Player",
+      "line": "... and so the Iorwerth elves were finally defeated and the clan elders restored the city of Prifddinas!"
+    },
+    {
+      "character": "Player",
+      "line": "...So I defeated all the monsters in Tolna's subconscious and he escaped from the rift."
+    },
+    {
+      "character": "Juna",
+      "line": "The most fearsome monsters are to be found in the darkness of our own minds."
+    },
+    {
+      "character": "Player",
+      "line": "... So it turned out that the people of Nardah were dying of thirst because the spirits of the Elid had cursed them for turning away from their goddess."
+    },
+    {
+      "character": "Juna",
+      "line": "It is a terrible thing for people to turn away from their religion. I think the spirits taught the town a lesson."
+    },
+    {
+      "character": "Player",
+      "line": "... So the Wise Old Man said it was time for him to retire, and he left the Colony and went home. He gave me loads of XP, but he wouldn't let me have his hat!"
+    },
+    {
+      "character": "Juna",
+      "line": "A hat is just a hat,."
+    },
+    {
+      "character": "Player",
+      "line": "Grrr!"
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I helped the people of Tai Bwo Wannai village return."
+    },
+    {
+      "character": "Player",
+      "line": "...now Bob and Neite are very happy together!"
+    },
+    {
+      "character": "Juna",
+      "line": "Bob the Cat? I have heard of that strange creature but have never been able to fathom him. It is no small achievement for you to be able to!"
+    },
+    {
+      "character": "Player",
+      "line": "... So Bob and Neite were very happy together, at least for a while."
+    },
+    {
+      "character": "Juna",
+      "line": "The loss of a friend is never easy. However, you should always remember to be thankful of the time you had together."
+    },
+    {
+      "character": "Player",
+      "line": "... and Lord Shayzien ordered an investigation into the disappearance of Phileas."
+    },
+    {
+      "character": "Player",
+      "line": "... and Lord Shayzien ordered an investigation into the disappearance of Phileas, but in the end, it turned out he was the one responsible!"
+    },
+    {
+      "character": "Player",
+      "line": "... and Safalaan rewarded me for defeating Ranis and bringing a true taste of hope to the people of Meiyerditch."
+    },
+    {
+      "character": "Player",
+      "line": "... so you said you'd look after my bowl for me, and let me access the Tears if I kept telling you stories."
+    },
+    {
+      "character": "Juna",
+      "line": "I knew that story already, in fact, but I suppose your own perspective of the events is a valid tale in itself."
+    },
+    {
+      "character": "Player",
+      "line": "... luckily for us, the Guardians of the Rift are now working to keep the Abyss at bay. I just hope we can find out how to close the rift permanently."
+    },
+    {
+      "character": "Player",
+      "line": "... I killed Lucien and banished him from the world!"
+    },
+    {
+      "character": "Player",
+      "line": "... Lucien said that the Staff of Armadyl I gave him had made him more powerful."
+    },
+    {
+      "character": "Player",
+      "line": "... So that was how I became of Miscellania!"
+    },
+    {
+      "character": "Player",
+      "line": "... Ana wasn't too happy to be cooped up in that barrel! But at least I got her out of the mining camp."
+    },
+    {
+      "character": "Player",
+      "line": "... and the homunculus now lives in the basement of the Tower, creating living creatures of its own."
+    },
+    {
+      "character": "Juna",
+      "line": "The alchemists walked a dangerous path when they created that homunculus. I am glad that events ended well for the creature."
+    },
+    {
+      "character": "Player",
+      "line": "... and King Bolren thanked me for defeating the warlord and returning the orbs to the gnome people."
+    },
+    {
+      "character": "Player",
+      "line": "... So I returned the totem, and the Rantuki tribe rewarded me for my help."
+    },
+    {
+      "character": "Player",
+      "line": "... So Ug and Aga lived happily ever after."
+    },
+    {
+      "character": "Player",
+      "line": "... and after I had rescued Godric, Dunstan gave me the Law Talisman as a reward!"
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I helped the tortugans of the Great Conch deal with their gryphon problem."
+    },
+    {
+      "character": "Player",
+      "line": "... so I was able to defend the Teomat, but someone attacked the Teokan anyway!"
+    },
+    {
+      "character": "Player",
+      "line": "... I don't know who put all those traps in the underground pass!"
+    },
+    {
+      "character": "Player",
+      "line": "... and once the vampyre was dead, the people of Draynor no longer lived in fear."
+    },
+    {
+      "character": "Player",
+      "line": "... and after I finally managed to track him down, let me tell you, that Solus Dellagar fellow was almost as powerful as he was insane!"
+    },
+    {
+      "character": "Juna",
+      "line": "Yes, it seems he sacrificed his sanity for power. Power often comes with a cost, and the highest cost is often the one you do not immediately see..."
+    },
+    {
+      "character": "Player",
+      "line": "... and with the shield generator working, the ogres could never threaten Yanille again."
+    },
+    {
+      "character": "Player",
+      "line": "... and that was how I retrieved the treasure from the waterfall."
+    },
+    {
+      "character": "Player",
+      "line": "... so King Roald was freed from Surok's spell, and Rat thanked me for all my help."
+    },
+    {
+      "character": "Player",
+      "line": "... but Lucien took the Stone of Jas and teleported away!"
+    },
+    {
+      "character": "Juna",
+      "line": "The last time a Mahjarrat was in possession of the Stone, this world saw destruction unlike anything imaginable. Still, good may yet come of this. We shall see."
+    },
+    {
+      "character": "Player",
+      "line": "... All that trouble just to get a ball out of someone's garden!"
+    },
+    {
+      "character": "Juna",
+      "line": "It is often hard to know how long a task will take when we begin it."
+    },
+    {
+      "character": "Player",
+      "line": "... and once I got her all the ingredients, Hetty's potion increased my magical power!"
+    },
+    {
+      "character": "Juna",
+      "line": "I see you are on your way to becoming strong in the magical arts."
+    },
+    {
+      "character": "Player",
+      "line": "... and in the end I managed to solve the clues and find the treasure for Veos."
+    },
+    {
+      "character": "Player",
+      "line": "... Those Zogres were disgusting! But I learned how to fight them with brutal arrows and disease balm."
+    },
+    {
+      "character": "Juna",
+      "line": "Zombie Ogres!? Some of the foulest creatures of Zamorak. In the great wars the zogre armies could repel the forces of Saradomin with their stench alone!"
+    },
+    {
+      "character": "Juna",
+      "line": "Before you can collect the Tears of Guthix you must make a bowl out of the stone in the cave on the south of the chasm."
+    },
+    {
+      "character": "Player",
+      "line": "But I don't know how to reach the cave!"
+    },
+    {
+      "character": "Juna",
+      "line": "I will tell you the story of the light-creatures."
+    },
+    {
+      "character": "Juna",
+      "line": "Myriad and beautiful were the creatures and civilizations of the early ages of the world. Gielinor was a work of art, shaped lovingly over the millennia by the creative mind of Guthix."
+    },
+    {
+      "character": "Juna",
+      "line": "Only the sturdiest races survived the Godwars, and even then only by abandoning their high culture and gearing their societies towards war. Of the more delicate races there is now no trace, and almost no memory."
+    },
+    {
+      "character": "Juna",
+      "line": "One such race had bodies as fragile as snowflakes, yet they built crystal cities that stood for a thousand years."
+    },
+    {
+      "character": "Juna",
+      "line": "The wind would whisper through the spires and fill them with sweet harmonies, and the rising sun would shine through the precious gems that studded the towers and create inter plays of light as if rainbows were dancing."
+    },
+    {
+      "character": "Juna",
+      "line": "Indeed, so marvellous was this light-show at its height that the patterns of light themselves became alive, and great flocks of luminous creatures rode along the gem- cast beams, each drawn to its own colour."
+    },
+    {
+      "character": "Juna",
+      "line": "The creatures you see floating in this chasm are the last sorry remnants of that age. I do not know how they made their way here and survived to this time, but I am grateful for their company."
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Juna",
+      "line": "Perhaps you should use it with a chisel, rather than with my face."
+    },
+    {
+      "character": "Player",
+      "line": "I have a bowl."
+    },
+    {
+      "character": "Juna",
+      "line": "I will keep your bowl for you, so that you may collect the tears many times in the future."
+    },
+    {
+      "character": "Juna",
+      "line": "Now... tell me another story, and I will let you collect the tears for the first time."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Juna",
+      "description": "Ancient female serpent, ethereal and mystical voice with a slow, deliberate cadence. Wise and patient tone befitting a 6,000-year-old Guardian of Guthix who has spent millennia in solitary contemplation."
+    }
+  ]
+}

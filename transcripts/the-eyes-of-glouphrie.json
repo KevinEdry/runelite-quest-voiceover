@@ -1,0 +1,1292 @@
+{
+  "branch": "quest/the-eyes-of-glouphrie",
+  "quest_name": "The Eyes of Glouphrie",
+  "lines": [
+    {
+      "character": "Brimstail",
+      "line": "Hello adventurer, what can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "What's that cute creature wandering around?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Oh Izzie? He's my pet."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of creature is Izzie?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "I'm not sure. He's very cute though don't you think? It's very restful having a pet, especially when you are stuck in a cave for as long as I am!"
+    },
+    {
+      "character": "Player",
+      "line": "So, what do you do down here anyway?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Isn't that obvious? I investigate Thaumaturgy, I research the Arcane, I attempt to explain the inexplicable."
+    },
+    {
+      "character": "Player",
+      "line": "You study magic then, what kind of magic? I do a bit of magic myself you know."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Are you a budding mage? I can tell you more about my research if you'd like."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that sounds fascinating..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Excellent, it's so rare I can find someone to discuss my researches, most gnomes seem to find it all very tedious."
+    },
+    {
+      "character": "Player",
+      "line": "Never. How could they think that? Though, I suppose gnomes aren't known for their magic."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well that's true. These days, apart from a few combat spells most gnomes seem to be a bit suspicious of mages."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Why is that?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well there is a bit of history there, do you want me to tell you about it?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, yes I love a bit of History."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Very wise, a good knowledge of the History of Magic is crucial to understanding the Arcane."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, the most famous Gnomish Mage of all got into a bit of.... trouble."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Most gnomes don't really talk about him. Other than telling stories about him as if he was some sort of boogie-man."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Ridiculous! He was a gnome like any other - he sounds like a fascinating character."
+    },
+    {
+      "character": "Brimstail",
+      "line": "He was one of King Healthorg the Great's advisors during the Grand Migration. But he was exiled after the Goblin Wars."
+    },
+    {
+      "character": "Player",
+      "line": "Why was that?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, I'm not really sure. This was all before I was born - and no-one talks about what happened to Glouphrie these days."
+    },
+    {
+      "character": "Player",
+      "line": "He must have done something very bad then."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, maybe? I'm not so sure. As it happens I've been looking into that part of our History. All I've managed to establish was that he was particularly interested in optics and light magic."
+    },
+    {
+      "character": "Player",
+      "line": "It's hard to see what he could misuse light in a way that would get him exiled."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, indeed. I have also found though he was generally disliked by other gnomes - his moniker was 'Glouphrie the Untrusted'."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Oaknock the Engineer and Glouphrie didn't like each other either..."
+    },
+    {
+      "character": "Player",
+      "line": "Oaknock? I haven't heard of him before."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Ah, Oaknock was an engineer and architect. Very famous. There are statues to him around the place - his reputation amongst gnomes is second only to King Healthorg himself. He built most of the Stronghold you know."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Are you really interested in all of this? Do you want to see something interesting?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, have a careful look around at everything in the next cave and come back and tell me what you find."
+    },
+    {
+      "character": "Player",
+      "line": "Errm, not right now. I'd better go."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Fine! Humans really do prefer to live their lives in ignorance..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm more interested in your researches right now."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Gah! Young mages these days. No patience. No perseverance. Magic is not a toy or a shiny weapon you know! You cannot alter reality unless you understand it. And you cannot understand unless you search for the true causes of things. And history is a record of the causes of things."
+    },
+    {
+      "character": "Player",
+      "line": "I stand corrected - tell me more."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I'd better get going..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, I'd better carry on with my research then.."
+    },
+    {
+      "character": "Player",
+      "line": "Err, maybe some other time."
+    },
+    {
+      "character": "Player",
+      "line": "We were discussing gnome magic..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Ah, yes indeed. Well I do have a little mystery for you. Has your curiosity been piqued?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm a bit busy right now."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Fine, wander blindly on then!"
+    },
+    {
+      "character": "Player",
+      "line": "I've had a look in the other room now."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So? What did you find?"
+    },
+    {
+      "character": "Player",
+      "line": "There was a pit with a crystalline looking bowl in the centre."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Indeed, sadly I know very little about that, it looks elven to me though..."
+    },
+    {
+      "character": "Player",
+      "line": "There is also a large strange looking machine..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "That's right. It was built by Oaknock."
+    },
+    {
+      "character": "Player",
+      "line": "How do you know that?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "That room used to be Oaknock's workshop. I'd also recognise his style anywhere."
+    },
+    {
+      "character": "Player",
+      "line": "What does it do?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "I have no idea. But I do know someone who might."
+    },
+    {
+      "character": "Brimstail",
+      "line": "There is one gnome left who knew Oaknock, and King Healthorg and Glouphrie for that matter..."
+    },
+    {
+      "character": "Player",
+      "line": "Who is that?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Have a guess."
+    },
+    {
+      "character": "Player",
+      "line": "Errm...."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, King Narnode tells me you've already visited him..."
+    },
+    {
+      "character": "Player",
+      "line": "Err...."
+    },
+    {
+      "character": "Player",
+      "line": "Oh I know, you're talking about Hazelmere aren't you?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Very good, young apprentice."
+    },
+    {
+      "character": "Player",
+      "line": "Didn't he help create the Grand Tree?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "That's right. He was the third advisor to King Healthorg, he found and tended to the Grand Tree."
+    },
+    {
+      "character": "Brimstail",
+      "line": "If you are really interested in all of this, then could you do me a favour and visit Hazelmere for me? I've been meaning to go for a while, but I have responsibilities here - there's always someone who wants to use the Rune Essence mines."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, I'd love to!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Good! Good!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait a minute, am I going to have to translate everything he says using that dictionary again?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Ha! He's an old fashioned kind of gnome and doesn't like visitors much. But I'm sure he'll want to talk about the Old Days."
+    },
+    {
+      "character": "Player",
+      "line": "But he only speaks Ancient Gnomish!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "That may be true, though he may just be faking it to deter visitors. Either way - he is a wise old gnome. If he really wants to talk to you I'm sure he'll find a way."
+    },
+    {
+      "character": "Player",
+      "line": "Well alright, if you say so. What do you want me to ask him?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well ask him if he knows anything about Oaknock's machine. And anything you can find about Glouphrie would be very interesting, wouldn't you agree?"
+    },
+    {
+      "character": "Player",
+      "line": "Right then. I'd better be on my way. I'll be back soon."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So haven't you managed to have a chat with Hazelmere yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet I'm afraid. Where do I find him again?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "He has a hut in a small island east of Yanille. It has a lovely sea-view, I'm jealous. I love my cave, but it's not very picturesque."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe you need some pictures. Though your pot plant adds something to ambiance of the place."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Oh, that's not my potplant. I think it was Oaknock's."
+    },
+    {
+      "character": "Player",
+      "line": "Really? It's survived a long time. It must be a special pot plant."
+    },
+    {
+      "character": "Brimstail",
+      "line": "I suppose it must be. It shakes every now and again you know... I don't know why."
+    },
+    {
+      "character": "Player",
+      "line": "How very odd. Anyway, I'd better get on my way to Hazelmere... See you soon."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah. Blah, blah, blah, blah...blah!"
+    },
+    {
+      "character": "Player",
+      "line": "Err, hello Hazelmere."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah blah blah human. Sarko!"
+    },
+    {
+      "character": "Player",
+      "line": "Brimstail has sent me to ask you some questions."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Ha! Atarischeray! Blah blah mesi blah blah."
+    },
+    {
+      "character": "Player",
+      "line": "I have some questions about the old days. Brimstail has been filling me in about Gnomish History."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah Brimstail blah blah human blah minahar!"
+    },
+    {
+      "character": "Player",
+      "line": "It sounds like a fascinating time. It also sounds like some important things happened then. Events that we shouldn't forget."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Hmmph. Laquinay blah human. Blah blah blah."
+    },
+    {
+      "character": "Player",
+      "line": "He has also found a machine - he says it was built by Oaknock..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Oaknock! Ha blah blah minapor blah blah blah."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah blah blah blah Oaknock blah blah blah."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah blah blah blah."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Blah blah blah blah Healthorg cinqo blah blah blah."
+    },
+    {
+      "character": "Player",
+      "line": "Erm, I'm sorry I don't understand a word you're saying."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "*SIGH* Ipmesi human."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "... ethereal link... failed... puny human mind... insufficiently disciplined... mental rigour required... trained... magical skills..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Hmph. Not bad for a human."
+    },
+    {
+      "character": "Player",
+      "line": "Weird! How are you doing this Hazelmere?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Old magicks beyond your skill human. You can stop flapping your big human lips as well. Just think."
+    },
+    {
+      "character": "Player",
+      "line": "So how do I do this. Wow. That's impressive. Brimstail was telling me that Gnomes don't trust Mages these days. Can you hear me? Glouphrie wasn't it? He did something bad and got exiled. Ooh, I'm feeling a little dizzy. You knew him didn't you? What can you tell me about him? And what's this machine that Oaknock built? Isn't that magical as well? Do you know what it does?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Stop wittering on. You're giving me a headache. This mind speech is hard enough without having to listen to your incoherent babbling. Think about nothing. Clear your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Clear my mind? Hey, how did you know my name."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "I'm reading your mind foolish human. How do you think? Now CLEAR YOUR MIND..."
+    },
+    {
+      "character": "Player",
+      "line": "How do I think about nothing? I'll give it a go."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm tasty lobster. Gah! I'm thinking about something. Stop thinking about Lobsters. Pink Lobsters. Big Lobsters. Lobsters with wings. Wings? Lobsters don't have wings. ARRGH. I can't do this."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Just shut up and listen! I have a story to tell you that will answer most of your questions."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Let us travel back in time, to the time you humans call the Fourth Age. King Healthorg had become King. The elves mysteriously decided to travel west, leaving most of Kandarin open for conquest. The humans weren't here yet, only King Healthorg and the gnomes to the north, and a collection of Goblin tribes to the south."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Both armies moved to claim the lands, and were of course destined to meet in battle..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "And so it came to pass the Goblins and Gnome armies met at the battle of Atarisundri."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Both sides faced each other on the Battlefield. A bloody battle was in prospect, our gnomes were brave, but we were no match for the mass of brute goblin stupidity..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "... but Glouphrie and King Healthorg had devised a plan..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "... If you don't lead an invincible army - pretend you do..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "And so, Glouphrie created an army of illusory Giant tortoises, knowing that goblins would be scared of anything bigger than they were."
+    },
+    {
+      "character": "Goblin 1 (unnamed)",
+      "line": "Big Boss didn' say nuffin 'bout de nomiez havin' monsta tortisses!"
+    },
+    {
+      "character": "Goblin 2 (unnamed)",
+      "line": "Dey be huges! Tortisses too scary and pointy. We runz away!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey! Was that you next to the tortoise? You look so handsome!"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Handsome! Hmph! That was a long time ago..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Anyway, where was I? Oh yes..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Sadly, the golden times were not destined to last for long..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "There was once a very special Spirit Tree in the Stronghold. Silver as a birch, old and wise - I considered him a friend. I called him Argento, his true name was unpronouncable."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "He was the first Spirit Tree I had befriended, and the one I knew the best. I would sometimes travel, visiting and finding other Spirit trees, and during one such trip, I was filled with a great sense of foreboding..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "I felt a shadow pass over me, and a tingling in the air, even though the weather was fine and dry."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Then I felt a sudden pain, as if the Anima Mundi was crying out with the loss of a favoured child..."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "And I knew that one of the Old Ones had died, and I had lost a friend."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "I rushed straight back to the Grand Tree, only to find that no-one had noticed anything, and that Argento was still standing and seemed alive. But I knew something was wrong. He refused to talk to me and his aura was"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "no longer present. Someone had hidden his death. I talked to Oaknock and he was incensed. He immediately blamed Glouphrie, and although Oaknock could be rather irrational when it came to Glouphrie -"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "they never saw eye to eye - I knew he was right this time. Glouphrie had used his magicks to hide the truth from all of us."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Oaknock had made a machine - an anti-illusion machine, with some help from the elves. He prepared it, and summoned the advisors to Argento.."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "Why have you summoned us here?"
+    },
+    {
+      "character": "Oaknock the Engineer",
+      "line": "You'll see sire. Switch the machine on!"
+    },
+    {
+      "character": "King Healthorg",
+      "line": "What is the meaning of this?"
+    },
+    {
+      "character": "Oaknock the Engineer",
+      "line": "The Silver Spirit Tree is dead!"
+    },
+    {
+      "character": "Oaknock the Engineer",
+      "line": "Glouphrie has been using his foul arts to mask the truth! What other secrets has he been keeping?"
+    },
+    {
+      "character": "King Healthorg",
+      "line": "Explain yourself!"
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "I live to serve you sire. I work for the good of us all."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "How can lying to your fellow gnomes be 'Good'?"
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "Some things are best kept secret..."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "Even from your King!?"
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "Occasionally."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "Enough! How can I trust a gnome who hides things from me?"
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "No gnome can blame you for what you do not know."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "That is NOT how I rule."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "Glouphrie. You are no longer my advisor. Leave this place."
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "Only the naive believe they can rule without someone like me."
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "Your empire will crack and the gnomes will become but a joke."
+    },
+    {
+      "character": "King Healthorg",
+      "line": "Sarko!"
+    },
+    {
+      "character": "Glouphrie the Untrusted",
+      "line": "So be it. I'll be watching."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "And so Glouphrie left and travelled with some companions to a place they called Arposandra. We have heard nothing but rumours about them since..."
+    },
+    {
+      "character": "Player",
+      "line": "So where's this Arposandra place anyway?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Nobody knows for certain, somewhere rocky I suppose. The rumour is that after founding his new home, Glouphrie used his magicks to shroud the city in mist. Arposandra may not exist at all, however I suspect that"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Glouphrie is still around, one way or another."
+    },
+    {
+      "character": "Player",
+      "line": "Why do you think that?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Just call it Gnomish intuition."
+    },
+    {
+      "character": "Player",
+      "line": "So the machine that Brimstail has found is the one that Oaknock built to stop Glouphrie's illusions. Do you know how it worked?"
+    },
+    {
+      "character": "Hazelmere",
+      "line": "I never studied it, but I believe it used elven magic - So it must have used crystals of some sort. Crystal discs, yes that sounds familiar. Actually come to think of it I think I may have one lying around. Here take"
+    },
+    {
+      "character": "Player",
+      "line": "this, maybe it will help you."
+    },
+    {
+      "character": "Player",
+      "line": "Well, thank you, Hazelmere. You've told me a lot of things I need to ponder for a while."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "Very well. Oh and when you see that lazy toad Brimstail, tell him next time he needs information to come himself."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do that. Farewell."
+    },
+    {
+      "character": "Hazelmere",
+      "line": "What do you want now? Go and talk to Brimstail, that's why you came to see me in the first place..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes..."
+    },
+    {
+      "character": "Player",
+      "line": "I've visited Hazelmere, he told me all sorts of interesting things."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Ah, thank you my young apprentice. What did he tell you?"
+    },
+    {
+      "character": "Player",
+      "line": "Right. Well it starts during the Great Migration..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So the machine emits an anti-illusion glamour?"
+    },
+    {
+      "character": "Player",
+      "line": "Glamour? What's that?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Don't you know anything? *sigh* A glamour is a type of enchantment or magical effect."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes it does have such a glamour. It seems to use crystal discs to work in some way."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Oh, crystal discs? I may have a few of those in a drawer somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "What's that? Something just moved behind you..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Really? Wait - what's that banging noise?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "What's happened to the machine? It's broken!"
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, something is afoot. I sense sabotage...."
+    },
+    {
+      "character": "Player",
+      "line": "The machine is broken, I suspect sabotage...!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "This is intolerable! How could this happen?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm confused, it must have happened while we were here talking!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "But we were just standing here, how could someone get past us?"
+    },
+    {
+      "character": "Player",
+      "line": "I did see something odd behind you..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Wait a minute, how did the saboteur know about the machine?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Hmmm... You're the only person I've told about the machine..."
+    },
+    {
+      "character": "Player",
+      "line": "Hey! Don't look at me like that. The only person I've talked to is Hazelmere."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Surely this couldn't be the work of Hazelmere... That turncoat!!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! Wait! None of this makes any sense. There must be another explanation."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Alright. Someone snuck in here without us noticing. How?"
+    },
+    {
+      "character": "Player",
+      "line": "The intruder must have been invisible."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Right, and how does one make oneself invisible my ?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course! I've seen this before. Karam in the 10th squad used some sort of magic to make himself invisible."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Do you think the 10th squad did this?"
+    },
+    {
+      "character": "Player",
+      "line": "No, but I think our saboteur must have learnt the same magicks. Is Glouphrie still alive?"
+    },
+    {
+      "character": "Player",
+      "line": "Illusion magic?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Invisibility is a form of illusion magic. So that makes sense..."
+    },
+    {
+      "character": "Player",
+      "line": "So this was done by Glouphrie? Is he still alive?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Who knows, but he may well have taught the skills to his gnomes."
+    },
+    {
+      "character": "Player",
+      "line": "You mean the gnomes that went with Glouphrie to Arposandra?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Right. And why would they sabotage an anti-illusion device?"
+    },
+    {
+      "character": "Player",
+      "line": "Because there is an illusion that they want to remain hidden?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Of course. Which makes it imperative that we fix this machine and find out what it is!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Have a look at the machine and assess the damage. I'll hunt around my boxes and see if I can find anything that might help."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Have you had a look at the damage yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I'll get right to it."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So how are your investigations going?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not getting anywhere with these 'sticky runes'."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Hmmm, which runes would you think are sticky."
+    },
+    {
+      "character": "Player",
+      "line": "Runes are runes! None of them are sticky! They're all round and disc-like and definitely non-adhesive."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Open your mind and think laterally. Thinking sideways is an important skill for a mage."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, all right. I'll give it a go. Well - air, water and fire and earth runes. There's nothing sticky about them."
+    },
+    {
+      "character": "Brimstail",
+      "line": "I concur."
+    },
+    {
+      "character": "Player",
+      "line": "Mind and body runes. Again distinctly non-glue-like in any way."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Keep going."
+    },
+    {
+      "character": "Player",
+      "line": "Nature and Cosmic runes. Once more distinctly lacking in any gooeyness. Bah! This is a waste of time."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Patience young apprentice. You are on the right path - just think it through and I'm sure it will become obvious."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe. What do I do with the rune when I find it?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "What did Oaknock do?"
+    },
+    {
+      "character": "Player",
+      "line": "Well it looked powdered in the glue."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So there you go. What more do you need to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm still a bit unsure about getting this glue."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So, what do you know so far?"
+    },
+    {
+      "character": "Player",
+      "line": "It looked ambery in colour and sticky, smelt of pine and had flecks of silvery stuff in it."
+    },
+    {
+      "character": "Brimstail",
+      "line": "It smelt of pine and was ambery in colour, that sounds like tree sap. From a coniferous tree probably."
+    },
+    {
+      "character": "Player",
+      "line": "Tree sap?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Have you never tried cutting a coniferous tree and watching the sap drip out?"
+    },
+    {
+      "character": "Player",
+      "line": "Err no."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well maybe if you had, you'd know something about tree sap!"
+    },
+    {
+      "character": "Player",
+      "line": "So where do I put the stuff?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Hmmm, use your head! What kind of substance is this tree sap?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Is it a solid, a liquid or a gas?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see - a liquid I suppose."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So where do you put liquids?"
+    },
+    {
+      "character": "Player",
+      "line": "Some form of container?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Right! I think you know everything you need now..."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Right. I'll go away and think about what you've said."
+    },
+    {
+      "character": "Brimstail",
+      "line": "That's right, use your noddle, exercise your noggin, employ your cranium. Think, think, think!"
+    },
+    {
+      "character": "Player",
+      "line": "Now you're just confusing me more..."
+    },
+    {
+      "character": "Player",
+      "line": "I think I've fixed the machine now!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well done! You're almost as good at fixing things as a gnome! Who'd have thought?"
+    },
+    {
+      "character": "Player",
+      "line": "Though I still don't think it's actually activated. There appears to be some sort of lock on the front. I think I know what the discs are for though. There's a slot in the front that looks like it might fit a disc, and a"
+    },
+    {
+      "character": "Player",
+      "line": "number."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So what do you think the number means?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure yet. Maybe I should put a disc into the slot and see what happens?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "That reminds me, I found those crystal discs I mentioned before."
+    },
+    {
+      "character": "Brimstail",
+      "line": "They are not quite the same as the one Hazelmere gave you, but they look similar in size and weight."
+    },
+    {
+      "character": "Player",
+      "line": "They also look as if they might fit in the slots on both of the machines. Maybe I should try it out?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "I wonder if the different sizes and shapes mean anything."
+    },
+    {
+      "character": "Player",
+      "line": "I've been thinking that as well, I shall ponder it some more.. I'll work it out."
+    },
+    {
+      "character": "Brimstail",
+      "line": "That's the spirit! This is all good training for the mind..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Hmmm. Maybe all of these discs all have different values and you have to choose the right one in order for it to work?"
+    },
+    {
+      "character": "Player",
+      "line": "Interesting. But how do I work out which discs are worth what value?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "I'm not sure, but there will be some logic somewhere. Maybe if you look around the workshop you'll find some clues?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll have a look."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Oh, I've been rooting through my drawers and I've found a few more discs that you might find useful."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'm sure they'll be very useful."
+    },
+    {
+      "character": "Player",
+      "line": "I seem to have opened some sort of control panel."
+    },
+    {
+      "character": "Brimstail",
+      "line": "I wonder how it works? a similar way to the locking mechanism I'd guess."
+    },
+    {
+      "character": "Player",
+      "line": "There seems to be more than one slot. Maybe I need more than one disc?"
+    },
+    {
+      "character": "Player",
+      "line": "Huzzah! It's working!"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well done ! I knew you'd work it out. I'll make a mage out of you yet..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Wait... What's happening... Eek!"
+    },
+    {
+      "character": "Player",
+      "line": "What on earth!?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Izzie! No! There's something very wrong going on here..."
+    },
+    {
+      "character": "Player",
+      "line": "Phew! I've got that machine working now. What do I need to do now?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Well, it seems that Izzie was not so cute after all! How awful! How mysterious!"
+    },
+    {
+      "character": "Player",
+      "line": "So this was an illusion the Arposandrans went to so much effort to conceal? A pet. That wasn't cute enough."
+    },
+    {
+      "character": "Player",
+      "line": "Where did you find this one?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Izzie just wandered into my cave. He was cute and friendly so I kept him."
+    },
+    {
+      "character": "Brimstail",
+      "line": "He seemed very curious, and used to watch me do my researches. I liked the companionship – research is lonely work..."
+    },
+    {
+      "character": "Player",
+      "line": "So he's been keeping an eye on you while you do important magical research..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "I suppose it has. I hadn't thought of it like that. I'm sure I've seen others of these creatures around the place..."
+    },
+    {
+      "character": "Player",
+      "line": "Where?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "I think King Narnode has one, and I think I saw one by the gates. And I'm sure I've seen a few more wandering around."
+    },
+    {
+      "character": "Player",
+      "line": "In other words all places to keep an eye on what's going in the Stronghold..."
+    },
+    {
+      "character": "Brimstail",
+      "line": "Oh my goodness. I think I'm beginning to understand where you are going with this."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, they must be spies. They are watching us with those creepy red eyes. And they must have told someone that we were working on the machine."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So that horrible thing was listening to us all along. You'd better tell the King what's going on."
+    },
+    {
+      "character": "Brimstail",
+      "line": "So this horrible thing is listening to us right now... Aargh. Get rid of it! Don't forget to tell the king what's going on!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll get on it now."
+    },
+    {
+      "character": "Player",
+      "line": "What should we do about these creatures?"
+    },
+    {
+      "character": "Brimstail",
+      "line": "Have you talked to the King yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Good day sire, I take it you've noticed that cute creature you had in here is looking rather different now."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Why yes! Do you know what's going on?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I do. It's a long story but the short version is this. The Arposandran gnomes have planted these creatures as spies to watch what's going on in the Stronghold."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "What!? That's outrageous!"
+    },
+    {
+      "character": "Player",
+      "line": "I have just reactivated a machine that was built by Oaknock that dispels illusions, and now these creatures true forms are revealed."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Glouphrie! Now we know what he has been up to all these years. Gah! Never trust a Mage."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I wouldn't go as far as that – it is only through Brimstail's and my researches that we have established this is going on."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Harumph! Well, all of these creatures must be removed, we cannot allow the Arposandrans to spy on us any more. How many of these things are there?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know sire."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Well find them all and dispatch them now."
+    },
+    {
+      "character": "Player",
+      "line": "I'm right on it."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Have you found all of those spies yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I'm still looking for them."
+    },
+    {
+      "character": "Brimstail",
+      "line": "That's a relief. Well, that's all good work, but I think you'd better inform the King now."
+    },
+    {
+      "character": "Player",
+      "line": "I think so. There were six in total."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Thank goodness. Thank you for your help. Brimstail also tells me that you helped him a lot finding out what was going on!"
+    },
+    {
+      "character": "Player",
+      "line": "Help? I did all of the hard work!"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Aha! Getting others to do the donkey work seems to be a skill that Mages develop well."
+    },
+    {
+      "character": "Player",
+      "line": "So what will you do now?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Well, I have many things to think about. Why are the Arposandrans spying on us, and what are they planning?"
+    },
+    {
+      "character": "Player",
+      "line": "It's certainly worrying, and whoever sabotaged the machine couldn't have been far from here. Are there gnomes here who are also spies?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Indeed, that is another thing that worries me..."
+    },
+    {
+      "character": "Player",
+      "line": "If you find out more I'd be willing to help investigate."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "That may well be useful. Thank you – I may well call for your help again."
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Oh, before you leave – I have something you might like."
+    },
+    {
+      "character": "Player",
+      "line": "What's that?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "It was passed down to me from King to King. It belonged to Oaknock. He proclaimed that only a hero of the gnomes should have it. I think you count as a hero. Also since you have been looking into Oaknock you"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "might be able to work out what it is."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm I wonder what it does?"
+    },
+    {
+      "character": "King Narnode Shareen",
+      "line": "Well, I'm sure that your magical research skills will help you there. Good luck!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Brimstail",
+      "description": "Elderly male gnome, British accent, scholarly and patient tone, a wise wizard who speaks with quiet authority and mentoring enthusiasm about magical matters."
+    },
+    {
+      "name": "Glouphrie the Untrusted",
+      "description": "Middle-aged male gnome, sinister and composed British accent, calculating and manipulative tone, a cunning illusionist mage who speaks with confident authority masking deep untrustworthiness."
+    },
+    {
+      "name": "Goblin 1 (unnamed)",
+      "description": "Male goblin, crude and gruff voice, dim-witted and cowardly tone, speaks with broken grammar and primitive speech patterns typical of goblins."
+    },
+    {
+      "name": "Goblin 2 (unnamed)",
+      "description": "Male goblin, scratchy and panicked voice, fearful and simple-minded tone, speaks with crude broken English and exaggerated pronunciations."
+    },
+    {
+      "name": "Hazelmere",
+      "description": "Ancient male gnome, mystical and ethereal British accent, wise and gruff tone, a reclusive telepathic sage who communicates with cryptic authority and underlying impatience."
+    },
+    {
+      "name": "King Healthorg",
+      "description": "Middle-aged male gnome, regal British accent, commanding and dignified tone, a legendary king who speaks with strategic wisdom and authoritative confidence."
+    },
+    {
+      "name": "King Narnode Shareen",
+      "description": "Elderly male gnome, formal British accent, authoritative yet approachable tone, a respected monarch who speaks with measured dignity and genuine concern for his realm."
+    },
+    {
+      "name": "Oaknock the Engineer",
+      "description": "Middle-aged male gnome, precise British accent, confident and passionate tone, a brilliant inventor who speaks with the conviction of an accomplished engineer and moral determination."
+    }
+  ]
+}

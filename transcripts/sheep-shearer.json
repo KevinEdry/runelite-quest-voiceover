@@ -1,0 +1,284 @@
+{
+  "branch": "quest/sheep-shearer",
+  "quest_name": "Sheep Shearer",
+  "lines": [
+    {
+      "character": "Fred the Farmer",
+      "line": "What are you doing on my land? You're not the one who keeps leaving all my gates open and letting out all my sheep, are you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a quest."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "You're after a quest, you say? Actually, I could do with a bit of help."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "My sheep are getting mighty woolly. I'd be much obliged if you could shear them. And while you're at it, spin the wool for me too."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Yes, that's it. Bring me 20 balls of wool. And I'm sure I could sort out some sort of payment. Of course, there's the small matter of The Thing."
+    },
+    {
+      "character": "Player",
+      "line": "In fact Fred, funnily enough, I actually have 20 balls of wool already on me."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Have you been shearing my sheep without permission!?"
+    },
+    {
+      "character": "Player",
+      "line": "No! Well, maybe... They just looked a little wooly! Surely you like a shave once in a while, too?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "It's rude to shave another person without permission - don't be coming at me with them shears!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, I'll ask permission next time."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "I guess no real 'arm was done. Hand the balls over and we can put this whole thing behind us."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean, The Thing?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well now, no one has ever seen The Thing. That's why we call it The Thing, 'cos we don't know what it is."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Some say it's a black hearted shapeshifter, hungering for the souls of hard working decent folk like me. Others say it's just a sheep."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well I don't have all day to stand around and gossip. Are you going to shear my sheep or what!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, okay. I can do that."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Good! Now one more thing, do you actually know how to shear a sheep?"
+    },
+    {
+      "character": "Player",
+      "line": "Err. No, I don't know actually."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well, first things first, you need a pair of shears. I've got some here you can use."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "You just need to go and use them on the sheep out in my field."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds easy!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "That's what they all say!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Some of the sheep don't like it too much... Persistence is the key."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Once you've collected some wool you can spin it into balls."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Do you know how to spin wool?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know how to spin wool, sorry."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Don't worry, it's quite simple!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "The nearest Spinning Wheel can be found on the first floor of Lumbridge Castle."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "To get to Lumbridge Castle just follow the road east."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'll give it a miss."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Suit yourself."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "What are you doing on my land?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to talk to you about shearing these sheep!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Oh. How are you doing getting those balls of wool?"
+    },
+    {
+      "character": "Player",
+      "line": "How many more do I need to give you?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "You need to collect 20 more balls of wool."
+    },
+    {
+      "character": "Player",
+      "line": "I haven't got any at the moment."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Ah well at least you haven't been eaten. You know what you're doing, right?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I shear sheep, again?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well, you're half way there already! You have a set of shears in your inventory. Just use those on a Sheep to shear it."
+    },
+    {
+      "character": "Player",
+      "line": "That's all I have to do?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well once you've collected some wool you'll need to spin it into balls."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I know how to spin wool."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Great!"
+    },
+    {
+      "character": "Player",
+      "line": "Remind me how to spin wool."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, I think so."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "You can get to it, then!"
+    },
+    {
+      "character": "Player",
+      "line": "I've got some wool. I've not managed to make it into a ball though."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well go find a spinning wheel then. You can find one on the first floor of Lumbridge Castle, just walk east on the road outside my house and you'll find Lumbridge."
+    },
+    {
+      "character": "Player",
+      "line": "I have some."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Give 'em here then."
+    },
+    {
+      "character": "Player",
+      "line": "That's all I've got so far."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "I need more before I can pay you."
+    },
+    {
+      "character": "Player",
+      "line": "Ok I'll work on it."
+    },
+    {
+      "character": "Player",
+      "line": "Fred! Fred! I've seen The Thing!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "You... you actually saw it?"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Run for the hills! grab as many chickens as you can! We have to..."
+    },
+    {
+      "character": "Player",
+      "line": "Fred!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "... flee! Oh, woe is me! The shapeshifter is coming! We're all..."
+    },
+    {
+      "character": "Player",
+      "line": "FRED!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "... doomed. What!"
+    },
+    {
+      "character": "Player",
+      "line": "It's not a shapeshifter or any other kind of monster!"
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Well then what is it?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... it's just two Penguins; Penguins disguised as a sheep."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "Have you been out in the sun too long?"
+    },
+    {
+      "character": "Player",
+      "line": "That's the last of them."
+    },
+    {
+      "character": "Fred the Farmer",
+      "line": "I guess I'd better pay you then."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Fred the Farmer",
+      "description": "Middle-aged male, rural British accent, practical and grounded tone with a tendency to become excitable when flustered, a well-fed farmer who is direct and no-nonsense but prone to dramatic tangents when discussing unusual events."
+    }
+  ]
+}

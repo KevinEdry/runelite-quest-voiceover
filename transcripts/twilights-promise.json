@@ -1,0 +1,1456 @@
+{
+  "branch": "quest/twilights-promise",
+  "quest_name": "Twilight's Promise",
+  "lines": [
+    {
+      "character": "Ennius Tullus",
+      "line": "Is this the one?"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "I believe so."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Doesn't look like much."
+    },
+    {
+      "character": "Player",
+      "line": "Hey I recognise you two! You were part of the delegation to Varrock!"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Indeed we were."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "More than part of. We organised the whole thing!"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "As was our duty."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "The Prince could have contributed."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Do not air your dirty laundry in public, brother."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Hmph!"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "You. The Prince wishes to speak with you. He awaits you at the temple."
+    },
+    {
+      "character": "Player",
+      "line": "Where do I find this temple?"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "On the other side of the bazaar, south of here."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. Guess I should get going then."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Indeed."
+    },
+    {
+      "character": "Player",
+      "line": "Er... I'll leave you to it."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "The Prince is waiting for you. You'll find him in the temple to the south, on the other side of the bazaar."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "I know your face. I have seen it a thousand times before."
+    },
+    {
+      "character": "Player",
+      "line": "Er... I think you must have me confused with someone else. We've never met."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Yes... and no. This is our first encounter, and yet I know you better than most. You wear the face of my only true companion. You wear the face of death."
+    },
+    {
+      "character": "Player",
+      "line": "Your only companion is death? You should probably get out more."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "You jest, as your kind often do. Is that how you drown out their screams, I wonder? Is that how you hide your pain?"
+    },
+    {
+      "character": "Player",
+      "line": "Well things got deep very quickly. Is this how you normally introduce yourself to someone?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Few seek an introduction with the Sect of Ranul. They spend their days in Ralos' light. The darkness hides an inevitable truth that they prefer to shy away from."
+    },
+    {
+      "character": "Player",
+      "line": "Right... So who actually are you?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "I am Metzli, Teokan of Ranul. You I already know. You are the one that saved the life of my counterpart."
+    },
+    {
+      "character": "Player",
+      "line": "Teokan? So there are two of you?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Yes. As Teokan of Ranul, I lead the Sect of Ranul. My counterpart, Servius, leads the Church of Ralos."
+    },
+    {
+      "character": "Player",
+      "line": "I'm meant to be meeting Prince Itzla here."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Yes you are. He is speaking with Servius, down in the crypt. Not a place you'd normally find the Teokan of Ralos, but the Prince desired the privacy only Ranul can offer."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better head down there."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Farewell."
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell me more about the Church of Ralos?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Those who worship the light can be found throughout these lands, and it is the Church of Ralos that leads their worship."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "If you wish to learn more, you should seek out Servius or one of his Teoki. They will be better placed to guide you than I, for my duty is one of darkness, not light."
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell me more about the Sect of Ranul?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Ralos' light can be found all across Varlamore, but when that light fades, there is only one who can guide us through the darkness."
+    },
+    {
+      "character": "Player",
+      "line": "Ranul?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Yes. You will not find many worshippers of Ranul in your travels. Indeed, many choose to hide from him their whole lives, but no matter what, we will all meet Ranul in the end."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "When the sun sets, it is he that will guide us. He will lead us through the Gates of Mictl to where we may finally rest. The duty of the Sect of Ranul is to ensure that all are prepared for that journey."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better get going."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "You have returned."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "The Prince awaits you down in the crypt."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah, there you are. Nilsal, adventurer. I don't believe you've properly met my father. This is Servius, the Teokan of Ralos and the man whose life you saved."
+    },
+    {
+      "character": "Player",
+      "line": "Your father? I didn't realise you were related."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yes, very fun stuff. All a bit of a convoluted mess as well! I'll be sure to tell you all about it at some point. For now though, meet Servius. Servius, meet."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Nilsal, my child. It is an honour to meet you. Were it not for you, I may well already be making my journey to Mictl. On behalf of both myself and Ralos, I thank you."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well let's not start celebrating just yet. There's a reason why we're lurking in this crypt."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Sorry about that, by the way. I'd have much rather given you a proper welcome on your arrival, but given the situation, it's probably best we take a bit more care."
+    },
+    {
+      "character": "Player",
+      "line": "It's not a problem. Although, I did have an interesting encounter on my way here."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah, the Tullus twins. Fascinating pair, aren't they?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I was talking about Metzli. I met her upstairs."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Oh, you met her! My deepest sympathies."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Metzli and her sect play an essential role in our lives. You should not judge her so harshly."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "You're quite right, of course. But anyway, shall we get down to business?"
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a plan."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Kuani! So we have quite the predicament on our hands. My mother isn't too happy, oddly enough, and has tasked me with sorting it all out."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Someone wants our dear Teokan dead, and we have no idea who! All we know is that they were a Varlamorian."
+    },
+    {
+      "character": "Player",
+      "line": "A Varlamorian who had access to the mainland before the treaty was signed. Surely that limits the options a fair bit?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Right you are, ! In fact, it limits them to just the members of our little delegation. In other words, myself, Servius, the Tullus twins and our retinue of knights."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Now I don't think it was me... and I'm guessing you didn't try to arrange your own assassination, Servius?"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "I'd like to think I'd have done a better job if I had."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Too right. Very sloppy work. A top example of how not to assassinate someone. Still, probably best we track them down all the same."
+    },
+    {
+      "character": "Player",
+      "line": "So that leaves the Tullus twins and the knights."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Ennius and Furia are loyal children of Ralos. They would not wish to see my death."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Those knights should also be loyal children of Ralos, but I agree, they are far more likely candidates. Let us investigate them and see what we can find."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Servius, until we have this matter sorted, you should remain here in the capital. The palace will be the safest place."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Nonsense! I am the Teokan of Ralos and I have a duty to the people. I must return to the Teomat at once!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "The Teomat does not offer the protection of the palace. You'll be an easy target there."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "I am the chosen messenger of Ralos. He would not have me cower and hide. I will return to the Teomat."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well this is a terrible idea that's definitely going to blow up in all our faces later, but it seems you have made your decision. However, I insist that you let me personally accompany you."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "My child, I would be delighted to have you as a travelling companion."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": ", since Servius here seems keen on letting this killer have another go, you'll need to investigate the knights on your own."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure I can manage that."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Kuani! Head up to the palace and find the Tullus twins. They dealt with all the fun admin work. They'll know where those knights can be found."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get to it right away."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Then it sounds like we're all set. Timoiva, and may the sun light your way!"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Timoiva, my child."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah, you're back. Shall we get down to business?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": ", head to the palace and find the Tullus twins. They'll know where you can find those knights."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get right to it."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "It seems the Prince has new chores for us."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "You do not know that."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Why else would he have sent the adventurer back to us?"
+    },
+    {
+      "character": "Player",
+      "line": "You two are quite the pair, aren't you?"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Thank you."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "I do not believe that was a compliment, brother."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Oh... Well let's get to it then. What does the Prince need now?"
+    },
+    {
+      "character": "Player",
+      "line": "He's asked me to investigate the knights who were part of the delegation to Varrock. He suspects one of them may have been involved in the plot to kill the Teokan."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Has he forgotten that he himself leads the Knights of Varlamore? Surely he'd be best placed to deal with any of their wrongdoings."
+    },
+    {
+      "character": "Player",
+      "line": "He's staying with Servius in case there's another attempt on his life."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "It is wise to keep the Teokan under close protection, and we are well placed to support this investigation."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "If you say so."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "The delegation consisted of six knights. Given recent events, I requested they make us aware of their activities. I suggest you seek them out and ask them to return here."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Arrun and Claudia should be at the bazaar. Nel will be at the cothon. Velam and Azali are somewhere in Outer Fortis, likely at the pub. Mezan will be at the colosseum."
+    },
+    {
+      "character": "Player",
+      "line": "What if any refuse to come?"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "This crest will mark you as a representative of the Queen herself. Show it to them and they will not refuse."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Not unless they fancy revealing themselves as the traitor, which doesn't seem likely."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find the bazaar?"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Surely you passed through it on your way to the temple earlier. It's directly south of here."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find the cothon?"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "From here, just take the eastern path past the museum. Once you reach the water, you have found the cothon."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find Outer Fortis?"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "It's the part of the city outside the main walls. Head south from here and you'll find it on the other side of the gates."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Head to the pub once you get there. That's likely where Velam and Azali are."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find the colosseum?"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "On the cliffs overlooking the city, east of here. I'd be concerned if you couldn't find it. It's pretty much impossible to miss."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Mezan will likely already be inside. I'd suggest searching the training area for him."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Take this crest. It will mark you as a representative of the Queen herself. Show it to the knights and ask them to return here."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Do you need something?"
+    },
+    {
+      "character": "Player",
+      "line": "I lost that crest you gave me."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Oh good. So now there's a crest of the Queen out there somewhere that anyone could use. Why did the Prince pick this one?"
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "We will have it dealt with. For now, take another. However, I suggest you take more care this time."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Nilsal. Can we help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Ennius and Furia Tullus need you to return to the palace."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "If that were so, you'd have proof."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, well... I... I don't."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Thought so. Be off with you."
+    },
+    {
+      "character": "Player",
+      "line": "Well it just so happens I have this."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Hmm... Well we're not going anywhere until our work here is done. If you want us back at the palace, you'd best help."
+    },
+    {
+      "character": "Player",
+      "line": "I can do that. What do you need?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "A band of thieves has been active here recently, but we came up with a way to track them down. We planted a nice shiny amulet on one of the stalls. Sure enough, it was stolen soon after."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Find the amulet and tell us who was carrying it. We can then follow them right to the rest of their group."
+    },
+    {
+      "character": "Player",
+      "line": "How will I find it?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Beat them at their own game. Go looking through a few pockets."
+    },
+    {
+      "character": "Player",
+      "line": "Well this doesn't sound totally orthodox, but fair enough. I'll be back soon."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Do you have the amulet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Best you get to it then."
+    },
+    {
+      "character": "Player",
+      "line": "I have it right here. That man in blue over there had it."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Good work. He'll lead us right to those thieves."
+    },
+    {
+      "character": "Player",
+      "line": "So you'll return to the palace now?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "We'll be there once the thieves are dealt with. It won't take us long."
+    },
+    {
+      "character": "Player",
+      "line": "Well good luck then."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. Do you know how long it will be before you can return to the palace?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Not long. We'll be there as soon as the thieves are dealt with."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. Good luck with them."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. I'm here on behalf of Ennius and Furia Tullus. They need you to return to the palace immediately."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "You're working for the Tullus twins? Do you have proof?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... No."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Well rules are rules, I'm afraid. Without proof, I can't take any orders from you."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Huh... Fair enough. I'm happy to return to the palace, but I can't until I've finished my work here."
+    },
+    {
+      "character": "Player",
+      "line": "What is it you're doing? Maybe I can help get it done faster."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "With the recent opening of the kingdom, the cothon has become much busier. Good for business of course, but not so good when it comes to smugglers."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "We've had a tip-off that there's a ship here involved in weapons smuggling, but we don't know which one."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "If you can find the crate of weapons and tell me what ship it's from, I'll be able to return to the palace much faster."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds easy enough."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "You say that now, but there's no shortage of crates around here. Thankfully, the tip-off did give us some information that might help you find it."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "The crate should be on the docks rather than on a ship. It's of a standard size and isn't part of a stack. It's directly next to two barrels of fish and opposite a bench."
+    },
+    {
+      "character": "Player",
+      "line": "Good to know. I'll get to it and let you know what I find."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Any luck finding that crate?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. Could you remind me what I'm looking for?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. I'll keep looking."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I found it. The ship it's from is called The Fortis Spark."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Perfect! That's my work here done then. I'll return to the palace shortly. Timoiva!"
+    },
+    {
+      "character": "Player",
+      "line": "Great!"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Hello again. I'll be returning to the palace shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Sorry, but I'm waiting for someone."
+    },
+    {
+      "character": "Player",
+      "line": "Well you might need to meet with them some other time. You're needed back at the palace."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "You don't work for the palace. Why would they send you?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working directly for the Prince."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "If you are, then prove it."
+    },
+    {
+      "character": "Player",
+      "line": "Well... I can't."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Well then come back when you can."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Brand new here and already working for the Prince... Strange."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe, but like I say, you're needed at the palace."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "And I'll return there... eventually. First, I'm here for some training, but it seems my training partner is a no show."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Hmm... You look like you know a thing or two. You can take his place."
+    },
+    {
+      "character": "Player",
+      "line": "I can?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Yes! Join me in the colosseum for some training. Once we're done, I'll return to the palace."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Oh, and bring two attack styles in with you. I want some variety, and it will help me test my faith in Ralos."
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready. Let's do this."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Kuani!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to go and prepare."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "I'll be here once you're ready."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Are you ready to train? Remember, bring two attack styles in with you. It will help me test my faith in Ralos."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "You fought well in there. I should train with you more often."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Yes, I'll head over there shortly."
+    },
+    {
+      "character": "Player",
+      "line": "Perfect! Thanks."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Nilsal, adventurer. I'll be returning to the palace soon."
+    },
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Well look who it is!"
+    },
+    {
+      "character": "Player",
+      "line": "Er... I don't know you."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Oh..."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "I told you not to have that last one. Look at you!"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Stop whining! I'm fine!"
+    },
+    {
+      "character": "Player",
+      "line": "Right... The two of you have been asked to report to the palace as soon as you can."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Report? I don't think so! It's our day off!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay well... Oh... I was going to show you a crest, but I seem to have lost it."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Okay then! Timoiva for now!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, but I have this crest here that says otherwise."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Ah, now that's going to be a problem."
+    },
+    {
+      "character": "Player",
+      "line": "How so?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Azali here can't go showing up to the palace in this state. We need to sober her up."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Where's the nearest fountain?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "There's one outside the gates just to the east of here... But how does a fountain help?"
+    },
+    {
+      "character": "Player",
+      "line": "Well there's nothing like a little dunk to sober you up a bit. Azali, come with me."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Should you not pick up your follower first?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Ohh... We're going somewhere new? How exciting!"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "I thought you were going to that fountain. It's just outside the gates to the east of here."
+    },
+    {
+      "character": "Player",
+      "line": "This way, Azali."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Okay!"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "This isn't the right way! I'm going back to the pub!"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Oh boy..."
+    },
+    {
+      "character": "Player",
+      "line": "Feeling a bit better now?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Not exactly."
+    },
+    {
+      "character": "Player",
+      "line": "Well it will have to do. You're needed over at the palace."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "This day is the worst. Fine, I'll head over there soon."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Don't worry, I'll be on my way to the palace soon."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "Nilsal. Thanks for helping out with that little issue. I'll be heading over to the palace soon."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Have you spoken to all the knights?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. They should be here soon."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Six knights, but likely only one traitor. How do you intend to work out who it is?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I'm going to guess asking nicely won't work."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "After they were picked for the delegation, the knights were granted beds in the Kualti Headquarters, just west of here. I would suggest you search there for anything of note."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "We'll keep the knights busy until you're done."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back soon."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Did you find anything in the Kualti Headquarters?"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Then you should keep looking."
+    },
+    {
+      "character": "Player",
+      "line": "I found a letter to one of the knights, but I haven't read it yet."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Then you should do so and see what it says."
+    },
+    {
+      "character": "Player",
+      "line": "I found a letter to one of the knights. It seems that Velam is our traitor."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "You are sure?"
+    },
+    {
+      "character": "Player",
+      "line": "The letter directed him to arrange the death of the Teokan. It also mentioned something called Twilight's Promise and something else called the Final Dawn."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Then it sounds like Velam has some explaining to do. This should be fun."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Velam, step forward."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Velam, you have been found to be a traitor to the Kingdom of Varlamore."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "What? I don't understand!"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "We know you attempted to arrange the murder of the Teokan of Ralos. Do you have anything to say about this?"
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "This isn't true! Someone must have set me up!"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Your lies mean nothing here. Your guilt has already been proven."
+    },
+    {
+      "character": "Knight of Varlamore",
+      "line": "No! This isn't right!"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "For you, this is the only thing that's right."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "The rest of you are dismissed."
+    },
+    {
+      "character": "Player",
+      "line": "You killed him!"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "What were you expecting? That we'd invite him to sit down for dinner and drinks? I don't know how they do things where you come from, but you're in Varlamore now. This is how we deal with traitors."
+    },
+    {
+      "character": "Player",
+      "line": "We should have questioned him! Now we have no idea who he was working for!"
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Well it's done now, so little point dwelling on it."
+    },
+    {
+      "character": "Player",
+      "line": "Little point..."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "While my brother may have been a touch too hasty, he is right. What's done is done. You should return to the Prince and let him know."
+    },
+    {
+      "character": "Player",
+      "line": "I... Fine."
+    },
+    {
+      "character": "Player",
+      "line": "Itzla and Servius said they were going to something called a Teomat."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "Makes sense. The Teomat is the centre of all religion in Varlamore. The Teokan would have been eager to return to his home."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "You'll find the Teomat atop Ralos' Rise, but it's quite the walk from here. You should speak to Regulus Cento outside about a faster method of travel."
+    },
+    {
+      "character": "Ennius Tullus",
+      "line": "You should not waste time. The Prince will be eager to hear what you've discovered."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll go and see Regulus."
+    },
+    {
+      "character": "Furia Tullus",
+      "line": "Speak to Regulus Cento outside about a faster method of travel. You'll likely need it if you wish to travel to the Teomat."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll go and see him."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Nilsal, adventurer. Do you wish to return to Varrock?"
+    },
+    {
+      "character": "Player",
+      "line": "I was told to ask you about getting to the Teomat."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Ah, kuani! Well you'll be pleased to know that Prince Itzla has already granted me permission to give you your very own quetzal, free of charge!"
+    },
+    {
+      "character": "Player",
+      "line": "My own quetzal?"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "That's right! And I've already picked out the perfect one. This here is Renu. She finished training not too long ago and has been eagerly awaiting her first rider."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Now, Renu here isn't as experienced as Primio, so don't expect her to be taking you too far. However, she's more than capable of flying anywhere in Varlamore, provided there's somewhere suitable to land."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "You'll find that we already have plenty of landing sites all across the kingdom, and more are being built all the time. You could probably even build a few of your own if you wanted."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Now, why don't you two properly introduce yourselves to each other. I have the perfect thing here to help with that."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Have you properly introduced yourself to Renu yet? She'll be able to take you right there!"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Have you properly introduced yourself to Renu yet? She'll be able to take you right there! Here, I'm sure this will help the two of you become firm iknamis."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, Renu. I have something for you here."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Kuani! I reckon she'll let you ride her now."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "You have everything you need to get there already. Renu will be able to take you!"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "The Prince and my counterpart wish to speak with you. You should go to them at once."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nilsal,. How goes your investigation?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still looking into those knights."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well keep at it. The Tullus twins should be able to help you where needed."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nilsal,. Welcome to the Teomat."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Nilsal, my child."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "So, how did your investigation go?"
+    },
+    {
+      "character": "Player",
+      "line": "I found a letter to one of the knights, Velam. The letter instructed him to arrange the death of Servius."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Tetamo! One of my own knights! I will need to swiftly deal with this."
+    },
+    {
+      "character": "Player",
+      "line": "Well there's actually no need. Ennius killed him as soon as we found out."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Ah, excellent! Such should be the fate of all traitors."
+    },
+    {
+      "character": "Player",
+      "line": "But Ennius killed him before we could even question him!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Hmm, that's unfortunate. It would have been good to know who he was working for. No matter though! I'm sure we'll find another way of getting to the bottom of this."
+    },
+    {
+      "character": "Player",
+      "line": "Does it not bother you how quickly Ennius killed him? Is it not a bit odd?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Here in Varlamore, justice is delivered swiftly and harshly. Ennius may have taken that a bit too literally... but there's not much we can do about that now."
+    },
+    {
+      "character": "Player",
+      "line": "But do you not find it suspicious? I find a letter perfectly implicating one of the knights, but he's then quickly killed before he can be questioned."
+    },
+    {
+      "character": "Player",
+      "line": "Seems like a pretty good way of covering things up, don't you think?"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "The Tullus family have loyally served the rulers of Varlamore since the death of Emperor Imafore. For one of them to be a traitor is unthinkable!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It's a dangerous accusation indeed. That said... the family does have a bit of a history."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "My family has not always ruled Varlamore. In fact, it was the Tullus family who reigned for the majority of the kingdom's history."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "That all ended when good old Imafore declared the kingdom to be his new empire. He celebrated by going on a nice little murder spree. One war later and dear old Imafore found himself without a head."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Had that not happened, the throne would have eventually passed down to... Furia, I think... I believe she's the slightly older of the two."
+    },
+    {
+      "character": "Player",
+      "line": "Right... And you don't think that might be a good reason for her and Ennius to be traitors?"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Imafore's death was over a hundred years ago! His family had no love for him then, and they've loyally served the Arkans since."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yes, very true, but also has valid concerns. We need to be careful of assumptions, but it seems it would be wise for us to keep an eye on the two of them from now on."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Now, did your investigation uncover anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "The letter I found mentioned two things: Twilight's Promise and the Final Dawn."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Twilight's Promise? I've never heard of that. I wonder if it has anything to do with the Twilight Emissaries..."
+    },
+    {
+      "character": "Player",
+      "line": "Twilight Emissaries?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "A nice religious cult that has an unhealthy obsession with the end of the world. They've never caused any major problems before, so we've mostly left them be."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "However, given this revelation, perhaps it's time to pay a little closer attention to their dealings."
+    },
+    {
+      "character": "Player",
+      "line": "And the Final Dawn... What's that?"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "Nothing more than blasphemy! It is not something we should waste our time talking about."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "As you can see, the Final Dawn is a bit of a... controversial topic. It's a religious belief..."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "An unofficial religious belief!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "It's an unofficial religious belief concerning the end of the world. Oddly enough, our friends in the Twilight Emissaries are big fans of it."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Where can I learn more about the Final Dawn?"
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "It's not something I care to know about, but if anyone around here were to know, it would be Metzli."
+    },
+    {
+      "character": "Servius, Teokan of Ralos",
+      "line": "The Sect of Ranul are responsible for maintaining the library here. That includes dealing with any forbidden materials."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Metzli returned to the Teomat shortly before we did. She'll be around here somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Right, I'll go and see if she can help me."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "If you want to learn about the Final Dawn, Metzli would be the best person to speak to. She'll be around here somewhere."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll see if she can help me."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "We meet again. Not a chance encounter I see, for it is clear that you want something."
+    },
+    {
+      "character": "Player",
+      "line": "I was hoping you could help me with some information."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Quite possibly. The Sect of Ranul know better than most that time sees the end of all things. When we are gone, what remains? Knowledge must be passed on, lest it be lost forever."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, what you're describing there is a book. I'm familiar with the concept."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "But what is a book without the right reader? Words can be misunderstood, misconstrued. That assumes those words were even right to begin with."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Think of all that we believe to know. All those words we have read. How many were the truth, I wonder."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, well before we go down another rabbit hole, I'm looking for information on the Final Dawn."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "The Final Dawn? This is something I can help with, but first, to understand the Final Dawn, you must understand Ximoua."
+    },
+    {
+      "character": "Player",
+      "line": "Ximoua? That's a fancy word."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "The word is a gift to us from those who walked these lands before we did. They knew the truths of this world... in a way we can only dream of."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "We call them the Old Ones. They understood the importance of passing on their knowledge. So much of what we know, comes from them."
+    },
+    {
+      "character": "Player",
+      "line": "You speak of the Old Ones?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Yes. They understood the importance of passing on their knowledge. So much of what we know, comes from them."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... So what is Ximoua?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Our world endures in a way we cannot comprehend, but like all things, it will not do so forever. Its light will one day die, but this is not something to be feared, it is something to be embraced."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "You see, we are part of a cycle. Something far larger than ourselves. When the time comes, Ralos and Ranul will come together as one, consuming these lands in holy fire, until there is nothing left but ash."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "But even in ash, embers remain. From those embers, a new world will be born, and the cycle will continue once more. This is Ximoua."
+    },
+    {
+      "character": "Player",
+      "line": "So you think the world will one day end? That's quite something."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Not think. Know. This knowledge is a gift. One that was passed down to us from the Old Ones."
+    },
+    {
+      "character": "Player",
+      "line": "But you said it yourself: Knowledge passed down can be misconstrued. How can anyone know the truth for sure? It's not like there are any of these Old Ones around for us to ask."
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "Indeed, and that is why this is just one interpretation. There are those out there with another: Tsak Tauli, the Final Dawn."
+    },
+    {
+      "character": "Player",
+      "line": "And what do they believe?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "They do not just believe that the world will end. They believe it is their duty to make it happen. They see it as their singular purpose, and will stop at nothing to make it so."
+    },
+    {
+      "character": "Player",
+      "line": "These people... You speak of the Twilight Emissaries?"
+    },
+    {
+      "character": "Metzli, Teokan of Ranul",
+      "line": "It is said that they are amongst those with this belief."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I'd better..."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "! I need you outside, now! We have a little bit of an issue!"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "What happened?!"
+    },
+    {
+      "character": "Guard",
+      "line": "I'm sorry, my Prince, but we're not sure. None of the attackers made it inside, but Metzli has disappeared."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Metzli? Surely not..."
+    },
+    {
+      "character": "Guard",
+      "line": "Thankfully the blade missed his heart, but we should get him to the capital as soon as possible."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Yes, of course. Ensure no time is wasted."
+    },
+    {
+      "character": "Guard",
+      "line": "Of course, my Prince. We'll go at once."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Well... this has been a bit of a mess."
+    },
+    {
+      "character": "Player",
+      "line": "What do we do now?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Word has been sent to mother about what happened here. While we wait to hear back from her, I've already been thinking about a potential plan for how we might go about dealing with our cultist problem."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "However, let's not worry about that just now. Instead, I wanted to thank you for all that you've done. You may be an outsider, but you've already proven yourself to be a true friend to Varlamore. Thank you, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "So what's this plan you mentioned?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "You want to hear it already? I'd have thought you might have wanted a bit of a break from all the excitement, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "Fair point. I'll be back once I'm ready."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I'll be here,."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Nilsal,."
+    },
+    {
+      "character": "Player",
+      "line": "How are things going?"
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Father should make a full recovery, though given that his would-be killers are still out there, that's not anywhere near as much comfort as it should be."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "I've sent word to mother about what happened here, but I've not heard back yet. Once I have, I'll start planning our next move."
+    },
+    {
+      "character": "Prince Itzla Arkan",
+      "line": "Don't worry, I'll be in touch soon enough. Until then, timoiva, and may the sun light your way."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Ennius Tullus",
+      "description": "Male, early thirties, refined Varlamorian accent, arrogant and impatient tone with underlying fanaticism, a nobleman who believes himself destined for greatness and resents those in power."
+    },
+    {
+      "name": "Furia Tullus",
+      "description": "Female, early thirties, refined Varlamorian accent, cold and calculated tone with aristocratic precision, a pragmatic noblewoman who masks her ambition behind dutiful professionalism."
+    },
+    {
+      "name": "Guard",
+      "description": "Male, middle-aged, Varlamorian accent, dutiful and respectful tone, a professional soldier who maintains composure while delivering urgent news."
+    },
+    {
+      "name": "Knight of Varlamore",
+      "description": "Male, adult, Varlamorian accent, confident and slightly gruff military tone, a professional soldier dedicated to maintaining order in the kingdom."
+    },
+    {
+      "name": "Metzli, Teokan of Ranul",
+      "description": "Female, ageless and ethereal voice, soft and haunting Varlamorian accent, cryptic and philosophical tone, a mysterious priestess of death who speaks in riddles and sees mortality in all things."
+    },
+    {
+      "name": "Prince Itzla Arkan",
+      "description": "Male, late twenties, warm Varlamorian accent, charismatic and witty tone with casual confidence, a charming prince who uses humor to navigate serious situations while showing genuine care for his people."
+    },
+    {
+      "name": "Regulus Cento",
+      "description": "Male, middle-aged, refined Varlamorian accent, friendly and professional tone with enthusiasm for his work, a distinguished quetzal keeper who takes pride in serving the royal family."
+    },
+    {
+      "name": "Servius, Teokan of Ralos",
+      "description": "Male, elderly, warm and reverent Varlamorian accent, gentle fatherly tone with deep religious conviction, a devoted high priest who speaks with wisdom and calls others his children."
+    }
+  ]
+}

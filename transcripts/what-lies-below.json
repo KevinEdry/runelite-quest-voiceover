@@ -1,0 +1,1776 @@
+{
+  "branch": "quest/what-lies-below",
+  "quest_name": "What Lies Below",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Oh, hello. I'd love to chat right now, but I'm a bit busy. Perhaps you could come back and chat another time?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course. Sorry to bother you!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Not at all! Farewell!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Hello there. I'm Rat."
+    },
+    {
+      "character": "Player",
+      "line": "You're a what?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "No, no. My name is Rat. Rat Burgiss."
+    },
+    {
+      "character": "Player",
+      "line": "Ohhhhh, well, what's up, Ratty?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "It's Rat, thank you. And I, uh...heh...I seem to be in a bit of trouble here, as you can probably see."
+    },
+    {
+      "character": "Player",
+      "line": "Why, what seems to be the matter?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Well, I'm a trader by nature and I was on the way to Varrock with my cart here when I was set upon by outlaws! They ransacked my cart and stole some very important papers that I must get back."
+    },
+    {
+      "character": "Player",
+      "line": "That's awful! You're lucky to be alive!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, I know! I don't know how I survived."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe you weren't worth killing?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Look, do you want to help me or not?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course! Tell me what you need me to do."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Right, now I heard those outlaws say something about having a small camp site somewhere to the north-west of Varrock. They headed off to the north-west of here. They took 5 pages with them."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Kill the outlaws and get those papers back from them for me. Here's a folder in which you can put the pages. Be careful, though; those outlaws are tough."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "When you find all 5 pages, put them in the folder and bring them back to me!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, Ratty! I won't let you down!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Oh, wait a minute. I was going to give you a folder in which to collect my papers, but you haven't got enough room for it. Talk to me when you do."
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, I have to go!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Oh well. I'll just wait here then and maybe some nice person will help me. Perhaps...one day..."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, are you guilt tripping me?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "No! Not at all! Nuh-uh! Nope! Hardly! Noooo, no no no!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Well, maybe a bit..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, good luck with that!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "No, that's not what...oh, never mind!"
+    },
+    {
+      "character": "Player",
+      "line": "The papers were the only valuable thing you had?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Uh...yes. I guess so."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't sell anything worth having?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ah! Uhh...no, not really."
+    },
+    {
+      "character": "Player",
+      "line": "You're not much of a trader are you?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "No...I mean yes... Look, that's besides the point. Can you help me?"
+    },
+    {
+      "character": "Player",
+      "line": "Shall I get them back for you?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "You mean you want to help?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear. Well, I hope you get to Varrock okay!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Uh...so you can't help me?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry. I'm a bit busy right now."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Don't you want another quest?"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks. I'm too busy right now."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Well, fine!"
+    },
+    {
+      "character": "Player",
+      "line": "Fine!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Good!"
+    },
+    {
+      "character": "Player",
+      "line": "Good!!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "So go then!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm going!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Go then!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm gone!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ah! You're back! Excellent!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't remember what I am supposed to do!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Head north-west from here into the forest north-west of Varrock. Find the Outlaw Camp and kill the outlaws there."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Collect the pages of my document for me and put them into the folder I gave you. When the folder contains 5 pages, bring it to me!"
+    },
+    {
+      "character": "Player",
+      "line": "I lost the folder you gave me. Do you have another one?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Sure. Here you go. I'll add it to your account."
+    },
+    {
+      "character": "Player",
+      "line": "My account? Am I in debt?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "No, it's just the way you're standing!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, that's the folder I gave you. I need you to fill it with pages for me."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes! That's one of my papers! Gather all 5 of them and put them into that folder I gave to you."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ah! It looks like you have found some of the pages I need. You still need more, though."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Rat! I got your pages back!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Excellent! I knew you could help! Let me take those from you, there."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Now, I liked the way you handled yourself on that last little 'mission' I gave you there, so I'm going to let you in on a little secret!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! Wait! Let me guess! You're actually a rich prince in disguise who wants to help poor people like me!?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Uhhh...no. No, that's not it. You know, on second thought, I think I'll keep my secret for now. Look, instead, you can do another job for me."
+    },
+    {
+      "character": "Player",
+      "line": "All work and no play makes a dull adventurer!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, well, I'm sure that may be the case. However, what I want you to do is take this letter to someone for me. It's in a different language so, trust me, you won't be able to read it."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Take it to a wizard named Surok Magis who resides in the Varrock Place Library. I'll see about some sort of reward for your work when I get myself sorted out here."
+    },
+    {
+      "character": "Player",
+      "line": "Letter. Wizard. Varrock. Library. Got it!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, good luck then."
+    },
+    {
+      "character": "Player",
+      "line": "Rat, I think I lost that letter you gave me!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "That's probably because you've replaced it with something else, by the looks of it! Talk to me when you have some space in your inventory!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Goodness me! Not much of a messenger, are you? Here's another one; try not to lose it this time! I've charged the parchment to your account."
+    },
+    {
+      "character": "Player",
+      "line": "Will you take a cheque?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "No thanks. I prefer tartan."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hah! Come for my Aphro-Dizzy-Yak spell! Want someone to fall madly in love with you, eh? Not surprised with a face like that, to be honest!"
+    },
+    {
+      "character": "Player",
+      "line": "I didn't come here to be insulted!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Really? Well, with ears like that, you do surprise me!"
+    },
+    {
+      "character": "Player",
+      "line": "No, look. I have a letter for you."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Really? Well then, let me see it!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh. I had it here a moment ago. Where is it?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hah! You've lost it already? You can't get good help these days!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm very sorry! Let me go get another one!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "As you must! Now be off with you! I'm busy studying here!"
+    },
+    {
+      "character": "Player",
+      "line": "Here it is!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Of all the luck!"
+    },
+    {
+      "character": "Player",
+      "line": "Why did you destroy the letter?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "None of your business! It's a secret!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, there seems to be a lot of them going around at the moment."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Of course. Hmmm. However, I could let you in on another secret, if you like?"
+    },
+    {
+      "character": "Player",
+      "line": "Go on, then!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "My secret is this. I have been spending time here in the palace library trying to discover some ancient spells and magics."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "In my research, I have uncovered a most astounding spell that will allow me to transform simple clay into solid gold bars!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, what do you need?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I will only need a couple of items. The first is very simple: an ordinary bowl to use as a casting vessel."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You should be able to find one of these at any local store here in Varrock. I would go myself but I am...uh...busy with my research."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "The other item is much harder. I need a metal wand infused with chaos magic."
+    },
+    {
+      "character": "Player",
+      "line": "How would I get something like that?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Take this metal wand. You will also need 15 chaos runes. When you get to the Chaos Altar, use the wand on the altar itself. This should infuse the runes into the wand."
+    },
+    {
+      "character": "Player",
+      "line": "How on earth do you know about Runecrafting? I thought only a few people knew of it."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hah! Don't presume to think that those wizards in their fancy tower are the only people to have heard of Runecrafting! Now pay attention!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You will need to have the 15 chaos runes in your inventory. Make sure you also have either a chaos talisman or chaos tiara to complete the infusion."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get a talisman or a tiara?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I'm afraid I don't know. You will need to search for one."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Bring the infused wand and a bowl back to me and I will make us both rich!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "One more thing. I have uncovered information here in the library which may be of use to you. It tells of a safe route to the Chaos Altar that avoids the Wilderness."
+    },
+    {
+      "character": "Player",
+      "line": "Great! What is it?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "It is an old tome...a history book of sorts. It's somewhere here in the library. I forget where I left it, but it should be easy enough for you to find."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I have also given you a copy of a diary I...uh...acquired. It may also help you to find that which you seek."
+    },
+    {
+      "character": "Player",
+      "line": "Is it a BIG secret?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "It's a very big secret!"
+    },
+    {
+      "character": "Player",
+      "line": "Bigger than a house?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Er, yes! It's..."
+    },
+    {
+      "character": "Player",
+      "line": "Bigger than a volcano??"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Yes. Look, it's big, alright? Now listen and I'll tell you."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Now I am ready to use the spell to create all the gold I...uh...the city wants. I would gladly share this gold with you; I simply need a few more things!"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks. I have other things to do for now!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Very well, then. I hope these other matters of 'great' importance outweigh the need to make a LOT of gold. A WHOLE lot of gold. Gold. Yes, gold."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, why are you repeating yourself like that?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Dramatic effect."
+    },
+    {
+      "character": "Player",
+      "line": "Oh."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Ah! You're back. Have you found the things I need yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Remind me what I am doing again?"
+    },
+    {
+      "character": "Player",
+      "line": "I lost the wand!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Somehow, I knew that would happen so I have made a few spares for just such an occasion!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Here you g...hang on! There's one still in your inventory! I just saw it! You don't need two and they're not worth anything...yet! Now get going already; there's not much time!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You would lie to an arch-wizard? There is one in your bank! I can sense it! Go and retrieve that one first!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You have no space for another one! Lose some of that useless junk in your inventory first!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Here you are. Try not to lose this one!"
+    },
+    {
+      "character": "Player",
+      "line": "How much gold will I get?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hmmmm. That all depends on how quickly you get me that infused wand! Work fast and well for me, and I will make you rich, famous and powerful!"
+    },
+    {
+      "character": "Player",
+      "line": "Really? Powerful, eh? How powerful?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "That depends."
+    },
+    {
+      "character": "Player",
+      "line": "Depends on what?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "On how soon you stop yapping and get me that wand! Now get moving!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I ask about the diary?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Of course. What would you like to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Who is this Sin'keth?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Sin'keth Magis? From what I have read, it would appear he was a great leader of the Dagon'hai Mages."
+    },
+    {
+      "character": "Player",
+      "line": "The Dagon-what?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hmph! If you read the diary or perused that tome I mentioned, you would know who they are."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, wait! Isn't your last name Magis too? Are you related to him?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "No. Not at all. Purely coincidence! Now, haven't you got work to do already?"
+    },
+    {
+      "character": "Player",
+      "line": "Where did it come from?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "How I came to have the diary is of no concern to you!"
+    },
+    {
+      "character": "Player",
+      "line": "Oooo, tetchy!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I suggest that you concentrate on getting the things I need and stop asking pointless questions!"
+    },
+    {
+      "character": "Player",
+      "line": "Where is the safe route?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I could tell you, of course; I know more or less exactly where it is. However, that would take all the fun out of this, wouldn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "No, really! It's okay! You can tell me where it is!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "No, I think you should see if you can find it for yourself. I have given you the diary and, along with the tome around here, you should be able to find that alternate route easily enough on your own!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have another one?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You want another copy of the diary?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I seem to have misplaced the last one."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hang on! I can see the last copy I gave you in your inventory there! You don't need another one!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Fine, but this diary is important you know! It has secrets that you should not share around with just anybody!"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind, I forgot the question."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Fair enough. Go then. I expect you have a lot of work to do!"
+    },
+    {
+      "character": "Player",
+      "line": "Where is that tome you mentioned, again?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Like I said, it's lying around here in the library somewhere. It should be easy enough to find."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Yes, I just gave that to you. Don't break it already!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "No thanks, I don't need that."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ah, ! Good to see you! I heard you got my letter to Surok. Well done!"
+    },
+    {
+      "character": "Player",
+      "line": "That's right! I did your leg work. Now, how about a reward?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, of course! I'd be happy to give you a reward, but I have a lot on my mind with...you know...trader...stuff!"
+    },
+    {
+      "character": "Player",
+      "line": "Indeed!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "You're going to need a bronze pickaxe to get through there!"
+    },
+    {
+      "character": "Player",
+      "line": "A bronze one? Why bronze? They're pretty cheap and tacky."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Well, I don't claim to have a lot of knowledge about the ways of magic, but there's a strange protection spell on there."
+    },
+    {
+      "character": "Player",
+      "line": "A protection spell?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Yes. Apparently the makers of this tunnel protected it against all forms of pickaxes except bronze."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. Why bronze?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "I don't think they thought anyone would actually try and use a bronze pickaxe as it's such a poor instrument!"
+    },
+    {
+      "character": "Player",
+      "line": "I see. Well, thanks for the help."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Any time! Good luck!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Ah. You must be, right? I have a bronze pickaxe here for you!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks very much!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "My employer, Surok Magis, sent word to me that you may come to use the tunnel. You will need something to help you get in there. The pickaxe I've given to you should help."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, thanks."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Okay, then. The tunnel awaits..."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, but I already have one."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Oh. Alright then! My employer, Surok Magis, sent word to me that you may come to use the tunnel. You'll need your bronze pickaxe to get in there."
+    },
+    {
+      "character": "Player",
+      "line": "What tunnel?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Why, the Chaos Tunnel of course! I imagine Surok will have told you of it."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see. Well, what can you tell me about it?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Well, story and rumour has it that the Dagon'hai built a tunnel here under the statue of Saradomin that would allow them to visit the Chaos Altar without having to go through the Wilderness."
+    },
+    {
+      "character": "Player",
+      "line": "That's extremely handy!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Yes, it is. Or, at least, it would be. Unfortunately, I haven't been able to get in there so far."
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "The tunnel entrance needs to be cleared before anyone can get in there. However, my Mining skill isn't high enough at all to do it myself. Perhaps you could have a go?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, who are you?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "My name is Louisiana Jones, although most people call me Anna. I'm an archaeologist."
+    },
+    {
+      "character": "Player",
+      "line": "Pleased to meet you."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Likewise!"
+    },
+    {
+      "character": "Player",
+      "line": "Who does this statue represent?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "That, my dear, is the statue of the great god Saradomin himself. Stand and admire in awe for you are in the presence of greatness!"
+    },
+    {
+      "character": "Player",
+      "line": "Consider me awed!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Indeed!"
+    },
+    {
+      "character": "Player",
+      "line": "What are you doing here?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Well story and rumour has it that the Dagon'hai built a tunnel under this statue of Saradomin that would allow them to visit the Chaos Altar without having to go through the Wilderness."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Yes, it is. Or, at least, it would be. I came to excavate the tunnel but, unfortunately, there so far."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "The tunnel entrance needs to be cleared before anyone can get in there. However, my Mining skill just isn't what it used to be. Perhaps you could have a go?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe. I might do."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'd better go."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Okay, then!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "Be careful! You're going to bring the statue down on both of our heads if you go swinging wildly away like that."
+    },
+    {
+      "character": "Player",
+      "line": "So what should I do?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "I would suggest you improve your Mining skills a bit before you attempt this."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'd better go and train some more then!"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "You did it! Oh, well done! How exciting!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, well, I better see what's down there, then."
+    },
+    {
+      "character": "Anna Jones",
+      "line": "You opened the tunnel; well done!"
+    },
+    {
+      "character": "Player",
+      "line": "Aren't you going to go inside?"
+    },
+    {
+      "character": "Anna Jones",
+      "line": "I'd better not. My orders were to open up the entrance and wait for Surok to arrive. When he gets here, we'll go in together. He promised me a lot of gold for this job!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, then. I'm going in to have a look!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "What on earth is that?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't tell you. It's a secret!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I see! It looks pretty magical; I'd be careful with that if I were you!"
+    },
+    {
+      "character": "Player",
+      "line": "I made the wand that you asked me for, but I seem to have lost it!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You lost it? Those wands are extremely powerful and dangerous in the wrong hands! You better hope someone doesn't find it!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Hmph! In the meantime, here's another metal wand. Go and make another infused wand for me...and be more careful this time! My patience is growing thin!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Well?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You say you made the infused wand for me? Then why do you still have that metal wand I gave you? Go and do what I ask before I lose my temper and turn you into a worm or something!"
+    },
+    {
+      "character": "Player",
+      "line": "I have the things you wanted!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "No, it looks like you still need to find me a bowl first. An ordinary bowl. You can get one from one of the stores around here."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Excellent! Well done! I knew that you would not let me down."
+    },
+    {
+      "character": "Player",
+      "line": "So...about this gold that you're going to give me?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "All in good time. I must prepare the spell first, and that will take a little time. While I am doing that, please take this letter to Rat, the trader outside the city who sent you here."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, but I'll be back for my gold."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Yes, yes, yes. Now off you go!"
+    },
+    {
+      "character": "Player",
+      "line": "I seem to have lost that letter you gave me!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Goodness me! You do lose a lot of things! It's a wonder you can make it out of bed in the mornings! Well, here's another one!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "It's not surprising with all that junk in your inventory! Get some room, first, then speak to me again!"
+    },
+    {
+      "character": "Player",
+      "line": "That letter was treasonous so I destroyed it!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Really? You destroyed it?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You want another one, don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah...uh...yes...yes, I do."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Fine. Here you are. And stop all this complaining; it's getting me down!"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you really?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "That is not your concern! I am Surok Magis and I am more powerful than you can possibly imagine!"
+    },
+    {
+      "character": "Player",
+      "line": "So what's in it for me?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You get to live. For now."
+    },
+    {
+      "character": "Player",
+      "line": "Not that I'm complaining about the living part, but I was expecting something of more...er...value?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Ah, yes. The gold. Don't you worry, I am still working on that. Just deliver my letter for me, first. Now be off!"
+    },
+    {
+      "character": "Player",
+      "line": "Fine. I will deliver the letter, but I will be back soon."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I am sure you will."
+    },
+    {
+      "character": "Player",
+      "line": "Do I still get the gold?"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "If that is your only concern, then yes, you do. But I must warn you, my patience with you is wearing thin. So go now and do my bidding!"
+    },
+    {
+      "character": "Player",
+      "line": "Greetings, your majesty."
+    },
+    {
+      "character": "King Roald",
+      "line": "Yes, citizen. Do you need something?"
+    },
+    {
+      "character": "Player",
+      "line": "Your majesty, I think that you should see this letter."
+    },
+    {
+      "character": "King Roald",
+      "line": "Letter? Let me see. Where's Postie Pete? He usually deals with the mail around here."
+    },
+    {
+      "character": "Player",
+      "line": "This letter was delivered to me by hand, your majesty. I think you may be in some danger."
+    },
+    {
+      "character": "King Roald",
+      "line": "Hmmm. I see. I appreciate your concern. However, I assure you, I am quite safe here. My guards are on full alert at all times."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think you understand..."
+    },
+    {
+      "character": "King Roald",
+      "line": "I understand perfectly. Now, for all I know, that letter could be a fake ruse. We get a lot of that sort of thing and it causes a lot of hassle."
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to save your life!"
+    },
+    {
+      "character": "King Roald",
+      "line": "And you are shouting at your king! People who yell at their monarchs often find their heads become...loose!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm just saying that the letter is real."
+    },
+    {
+      "character": "King Roald",
+      "line": "Then why do you have it?"
+    },
+    {
+      "character": "Player",
+      "line": "Because I'm supposed to deliv...oh."
+    },
+    {
+      "character": "King Roald",
+      "line": "It seems to me that if that letter were genuine, I would be forced to arrest its bearer for treason. You understand."
+    },
+    {
+      "character": "King Roald",
+      "line": "So what do you say?"
+    },
+    {
+      "character": "Player",
+      "line": "I...er...I reckon it's a fake!...I guess..."
+    },
+    {
+      "character": "King Roald",
+      "line": "Just as I thought! Now off you go!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ah, ! You've returned!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! I have a letter for you."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "This letter is treasonous! This does indeed confirm my worst fears. It is time I let you into my secret and hopefully this will answer any questions you may have."
+    },
+    {
+      "character": "Player",
+      "line": "Okay. Go on."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I am not really a trader. I am the Commander of the Varrock Palace Secret Guard. VPSG for short."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I had a feeling you weren't a real trader due to the fact that you had nothing to sell! So why the secrecy?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I'm just getting to that. A short while ago, we received word that Surok had discovered a powerful mind-control spell and intended to use it on King Roald himself!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "He could control the whole kingdom that way!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I can believe that. Surok's not the nicest person in Misthalin!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, but until now, the spell has been useless to him as he is currently under guard at the palace and not allowed to leave. He could not get the tools for the spell because if he left the palace he would be arrested!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh oh! I think I may have helped him by mistake, here. He promised me a big reward if I collected some items for him...but he said it was for a spell to make gold!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, we heard that somehow Surok had obtained the things he needed but we were not sure how. I thought it might have been you."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "However, I assumed you did not know of his plans; that is why you weren't arrested!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you! How can I help fix this mistake?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Okay, here's what I need you to do. One of my contacts has devised a spell that he is sure will be able to counteract the effects of the mind-control spell. I need you to visit him."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, who is it?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "His name is Zaff. He runs a staff shop in Varrock. Go and speak to him and he will tell you what you should do. I will send word to him to let him know that you are coming."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, sir! I'm on my way!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, and you have some explaining to do!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Why? Whatever do you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "This letter from Surok to you implies that you're involved in a treasonous plot! I should tell the guards about you!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I'm sure I don't know what you mean. Let me see the letter, please."
+    },
+    {
+      "character": "Player",
+      "line": "What, you're still here?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes. I still haven't found someone to help me yet, but I hear you've been very busy yourself!"
+    },
+    {
+      "character": "Player",
+      "line": "You have? Who told you that?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Oh, I have my sources. Was there anything else?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, ?"
+    },
+    {
+      "character": "Player",
+      "line": "What am I doing now?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "You need to go and see Zaff. He can be found at 'Zaffs Staffs', the staff shop in Varrock. He will tell you what to do next."
+    },
+    {
+      "character": "Player",
+      "line": "Do you think we can stop Surok?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Surok is a powerful mage and ruthless too. Who knows what will happen. I am sure that we will prevail, though. Don't worry, ! You'll be fine!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have anything to trade yet?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "No, I'm afraid I have nothing in stock, largely due to the fact that I'm not really a trader, as I just mentioned."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I remember!"
+    },
+    {
+      "character": "Player",
+      "line": "You know, your cart IS kind of small!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "What are you implying?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, nothing! It's very...er...cute!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Why exactly are you still here?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I better go!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Okay, good luck!"
+    },
+    {
+      "character": "Player",
+      "line": "I've been told of your foul plans, Surok! You lied to me about the gold, so I've come to stop you!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Oh really? And what makes you think you have even the slightest chance of doing that?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll fight you if I have to!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Enough! You have been of use to me before but now you are wasting my time! Be gone!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Would you like to buy or sell some staffs? Or is there something else you need?"
+    },
+    {
+      "character": "Player",
+      "line": "Rat Burgiss sent me!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Ah, yes; You must be ! Rat sent word that you would be coming. Everything is prepared. I have created a spell that will remove the mind control from the king."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, so what's the plan?"
+    },
+    {
+      "character": "Zaff",
+      "line": "Listen carefully. For the spell to succeed, the king must be made very weak. If his mind is controlled, you will need to fight him until he is all but dead."
+    },
+    {
+      "character": "Zaff",
+      "line": "Then and ONLY then, use your ring to summon me. I will teleport to you and cast the spell that will cure the king."
+    },
+    {
+      "character": "Player",
+      "line": "Why must I summon you? Can't you come with me?"
+    },
+    {
+      "character": "Zaff",
+      "line": "I cannot. I must look after my shop here and I have lots to do. Rest assured, I will come when you summon me."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, so what do I do now?"
+    },
+    {
+      "character": "Zaff",
+      "line": "First, free up 2 inventory spaces so I can give you a couple of things."
+    },
+    {
+      "character": "Zaff",
+      "line": "Take this beacon ring and some instructions."
+    },
+    {
+      "character": "Zaff",
+      "line": "Once you have read the instructions, it will be time for you to arrest Surok."
+    },
+    {
+      "character": "Player",
+      "line": "Won't he be disinclined to acquiesce to that request?"
+    },
+    {
+      "character": "Zaff",
+      "line": "Won't he what?"
+    },
+    {
+      "character": "Player",
+      "line": "Won't he refuse?"
+    },
+    {
+      "character": "Zaff",
+      "line": "I very much expect so. It may turn nasty, so be on your guard. I hope we can stop him before he can cast his spell! Make sure you have that ring I gave you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks, Zaff!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Rat has told me that you are to be made an honorary member of the VPSG so that you can arrest Surok. If you have any questions about this, ask Rat."
+    },
+    {
+      "character": "Zaff",
+      "line": "One last thing: you must remember that as part of the VPSG, we must remain secretive at all times. For this reason, I cannot discuss matters such as this unless absolutely necessary!"
+    },
+    {
+      "character": "Player",
+      "line": "Of course! Thanks again!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to ask you something else."
+    },
+    {
+      "character": "Zaff",
+      "line": "Go ahead!"
+    },
+    {
+      "character": "Player",
+      "line": "What am I doing again?"
+    },
+    {
+      "character": "Zaff",
+      "line": "Make sure you have read the instructions I gave you about the ring. Then, when you are ready, go to Surok and arrest him!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have another ring?"
+    },
+    {
+      "character": "Zaff",
+      "line": "You have one already. It's there in your inventory!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Yes, I have another one, but you don't have any space for it. Speak to me when your inventory is less full!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Well, I do happen to have another one here that you can have. Please try and be a bit more careful with this one!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I have the instructions again?"
+    },
+    {
+      "character": "Zaff",
+      "line": "What are you doing, ? I'm right here! Why are you trying to summon me again?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I was just testing the ring."
+    },
+    {
+      "character": "Zaff",
+      "line": "Well, stop playing around; I'm a busy man!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Okay, Surok, your time is ov...hey! What gives? You don't need me yet! Why did you use the ring?"
+    },
+    {
+      "character": "Zaff",
+      "line": "Look, stop messing around! My shop doesn't look after itself, you know! Hmm. Perhaps I could invent a spell that would do that..."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Is that supposed to amuse me?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ooh! Shiny! I would take it, but I'd probably have to sell it. I have a wife and 17 children to feed!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Besides, you probably need it more than me right now!"
+    },
+    {
+      "character": "Player",
+      "line": "I have been to see Zaff and he has told me to go and arrest Surok."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Excellent! In that case, we are all set and ready to foil Surok's plans!"
+    },
+    {
+      "character": "Player",
+      "line": "So what happens now?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Now it is all down to you,. As you have proven yourself in the tasks I have set you, I am making you an honorary member of the VPSG!"
+    },
+    {
+      "character": "Player",
+      "line": "Oooh! Do we have adventurer's insurance?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Well...no. But we do have a nice lady called Emma who makes the tea on Mondays."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, well that sounds just as good!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Right then. You have an important task set out for you. Good luck, !"
+    },
+    {
+      "character": "Player",
+      "line": "What are my orders again?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "You will need to go and speak to Surok now. Arrest him under the authority of the Varrock Palace Secret Guard."
+    },
+    {
+      "character": "Player",
+      "line": "Right then."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "It may be tough and Surok will most likely not be arrested without a fight, so be on your guard!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me of the Dagon'hai?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "How do you know of them?"
+    },
+    {
+      "character": "Player",
+      "line": "Surok gave me a diary that spoke of them. Do you know anything about them?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I see. The Dagon'hai were a powerful order of Zamorakian mages who resided here in this very city."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "However, the priests of Saradomin warred ferociously with them and tried to destroy them. The Dagon'hai, though, were very clever and extremely cunning."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "They hid themselves away within the city and, rumour has it, they even had a way of getting to the Wilderness and back without ever being seen, although I have no idea how that might have been."
+    },
+    {
+      "character": "Player",
+      "line": "So where are they now?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Nobody knows. They disappeared from the city a hundred years ago and very few people even remember who they were."
+    },
+    {
+      "character": "Player",
+      "line": "So how do you know about them?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "My grandfather's brother, my great uncle, was a priest of Saradomin and he would tell me stories of the wars with the Dagon'hai as a child."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost that ring I had!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Then you will have to go and speak to Zaff at Zaff's Staffs to get another one!"
+    },
+    {
+      "character": "Player",
+      "line": "At ease, soldier!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "You shouldn't mock your commanding officer, private! Don't forget, I can still have you arrested for conspiracy with Surok!"
+    },
+    {
+      "character": "Player",
+      "line": "What benefits do I get in the VPSG?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Unfortunately, as an honorary member of the VPSG, you only get to act under our authority. You aren't entitled to the full Secret Guard package."
+    },
+    {
+      "character": "Player",
+      "line": "So I don't get the secret spy-pack then?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I'm afraid not. No."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I need to go!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, you have an important job! Good luck, !"
+    },
+    {
+      "character": "Player",
+      "line": "Surok!! Your plans have been uncovered! You are hereby under arrest on the authority of the Varrock Palace Secret Guard!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "So! You're with the Secret Guard, eh? I should have known! I knew you had ugly ears from the start...and your nose is too short!"
+    },
+    {
+      "character": "Player",
+      "line": "Give yourself up, Surok!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Never! I am Surok Magis, descendant of the High Elder Sin'keth Magis, rightful heir of the Dagon'hai Order! I will have my revenge on those who destroyed my people!"
+    },
+    {
+      "character": "Player",
+      "line": "The place is surrounded. There is nowhere to run!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Do you really wish to die so readily? Are you prepared to face your death?"
+    },
+    {
+      "character": "Player",
+      "line": "Bring it on!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "I am a Dagon'hai! I run from nothing. My spell has been completed and it is time for you to meet your end, ! The king is now under my control!"
+    },
+    {
+      "character": "King Roald",
+      "line": "What's going on...?"
+    },
+    {
+      "character": "King Roald",
+      "line": "I... must... kill... !"
+    },
+    {
+      "character": "Player",
+      "line": "Uh oh! King Roald looks evil!"
+    },
+    {
+      "character": "Player",
+      "line": "Fine! You win this time!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "Get out of my sight then!"
+    },
+    {
+      "character": "Zaff",
+      "line": "The king's still too strong! We had better get out of here!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! Let me keep fighting!"
+    },
+    {
+      "character": "Zaff",
+      "line": "It's too late! I cast the spell as soon as you summoned me, but it was too early! We need to withdraw and plan our attack again!"
+    },
+    {
+      "character": "King Roald",
+      "line": "Wh...!"
+    },
+    {
+      "character": "Zaff",
+      "line": "The king's mind has been restored to him and he has been teleported away to safety. Now, to deal with Surok!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "No! All is lost! I must escape!"
+    },
+    {
+      "character": "Zaff",
+      "line": "You will not escape justice this time, Surok!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Stop!!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Your teleport spell has been corrupted, Surok! I have placed a magic block on this room. You will remain here, under guard, in the library from now on."
+    },
+    {
+      "character": "Surok Magis",
+      "line": "No! My plans have been ruined! I was so close to success!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Thank you for your help,. I will put the room back in order and then I must leave. Surok is defeated and will be no more trouble for us. We will guard him more closely from now on!"
+    },
+    {
+      "character": "Player",
+      "line": "Why did you teleport us? We were winning!"
+    },
+    {
+      "character": "Zaff",
+      "line": "The king was not weak enough and Surok's power over him was still too strong! You must weaken the king further before summoning me. Otherwise, we will fail."
+    },
+    {
+      "character": "Player",
+      "line": "So what do I do now?"
+    },
+    {
+      "character": "Zaff",
+      "line": "I am afraid we must try again. We will defeat Surok this time. I am sure of it!"
+    },
+    {
+      "character": "Surok Magis",
+      "line": "You have foiled my plans,... I obviously underestimated you."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Let this be a lesson to you."
+    },
+    {
+      "character": "Player",
+      "line": "We did it! We beat Surok!"
+    },
+    {
+      "character": "Zaff",
+      "line": "Yes. You have done well,. You are to be commended for your actions!"
+    },
+    {
+      "character": "Player",
+      "line": "It was all in the call of duty!"
+    },
+    {
+      "character": "Player",
+      "line": "What will happen with Surok now?"
+    },
+    {
+      "character": "Zaff",
+      "line": "Well, when I disrupted Surok's spell, he will have been sealed in the library, but we will still need to keep an eye on him, just in case."
+    },
+    {
+      "character": "Zaff",
+      "line": "When you are ready, report back to Rat and he will reward you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I will."
+    },
+    {
+      "character": "Zaff",
+      "line": "Sadly, however, after this I will not be able to discuss these matters with you again. They are secret and we must be vigilant. The VPSG will prevail!"
+    },
+    {
+      "character": "Player",
+      "line": "Of course. I understand. Goodbye!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Well, how did it go?"
+    },
+    {
+      "character": "Player",
+      "line": "You should have been there! There was this...and Surok was like...and I was...and then the King...and, and...uh...ahem! The mission was accomplished and the king has been saved."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "I take it that it went alright, then? That's great news!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Zaff has already briefed me on the events. We will arrange for Surok to be fed and watched. I think he will not be a problem any more."
+    },
+    {
+      "character": "Player",
+      "line": "You know, one thing bothers me. He's now stuck in the library, but wasn't that the reason we were in this mess in the first place?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Yes, you are right. But rest assured, we will be watching him much more closely from now on."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "You've done very well and have been a credit to the VPSG; perhaps one day there may be a place for you here!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "In the meantime, let me reward you for what you've done, give you a little training. I will be sure to call on you if we ever need help in the future."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, Rat!"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "Ah! ! You did a fine service for us. You might make a good member of the VPSG one day, with a little training and a bit more muscle!"
+    },
+    {
+      "character": "Player",
+      "line": "So, do you have any more jobs for me to do?"
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "At the moment, no. Things seem pretty quiet. However, I have heard a rumour about something strange going on in...hmm, no, I think we can handle this one for now."
+    },
+    {
+      "character": "Rat Burgiss",
+      "line": "But, who knows? We may need your assistance again soon. Thank you,."
+    },
+    {
+      "character": "Player",
+      "line": "Any time, Rat!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Anna Jones",
+      "description": "Adult female, British accent, clever and playful tone with a hint of mischief. An archaeologist who speaks with professional confidence but uses evasiveness and humor to deflect questions about her true motives."
+    },
+    {
+      "name": "King Roald",
+      "description": "Middle-aged male, refined British accent, regal and authoritative but with underlying frustration. A straightforward monarch who commands respect yet shows moments of impatience and doubt."
+    },
+    {
+      "name": "Rat Burgiss",
+      "description": "Middle-aged male, working-class British accent, practical and slightly harried tone. A spy posing as a modest trader, he speaks with down-to-earth pragmatism and occasional dry humor."
+    },
+    {
+      "name": "Surok Magis",
+      "description": "Adult male, theatrical British accent, arrogant and commanding with dramatic flair. A power-hungry dark wizard who speaks with supreme self-confidence and condescension, prone to grandiose proclamations."
+    },
+    {
+      "name": "Zaff",
+      "description": "Adult male, calm British accent, measured and professional with quiet confidence. A staff merchant hiding his true identity as a skilled combat mage, he speaks with understated authority and reliability."
+    }
+  ]
+}

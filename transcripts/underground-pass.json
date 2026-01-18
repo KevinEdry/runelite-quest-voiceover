@@ -1,0 +1,1136 @@
+{
+  "branch": "quest/underground-pass",
+  "quest_name": "Underground Pass",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Good day King Lathas."
+    },
+    {
+      "character": "King Lathas",
+      "line": "And to you adventurer. I assume you're here about King Tyras?"
+    },
+    {
+      "character": "Player",
+      "line": "I am. What's our plan?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "Well, as we've previously discussed, my brother is currently gathering strength in the lands west of here. The only known way into those lands is through the Underground Pass."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Unfortunately, the pass is a treacherous place. Some of my best soldiers have fallen trying to find a way though."
+    },
+    {
+      "character": "King Lathas",
+      "line": "To make matters worse, some crazed group of cultists has recently made their home in the pass. Their leader, some madman named Iban, claims to be the son of Zamorak himself."
+    },
+    {
+      "character": "Player",
+      "line": "Well that doesn't sound good. So what do you need from me?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "If my brother is to be stopped, a way through the Underground Pass must be found. This is the task I have for you. Do you think you're up for it?"
+    },
+    {
+      "character": "Player",
+      "line": "There's only one way to find out. Where do I start?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "You'll find the entrance to the Underground Pass at the far end of West Ardougne. My main tracker, Koftik, will meet you there."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Together, you are to find a way through the pass. Once you have done so, return to me."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do my best."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Remember, the Underground Pass is lethal. Go prepared with food and armour or you won't last long."
+    },
+    {
+      "character": "Player",
+      "line": "It sounds too dangerous for me. I'd better prepare more first."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Very well. Return to me when you are ready."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just passing through."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Fair enough. Return to me when you are ready and we will discuss our next steps."
+    },
+    {
+      "character": "King Lathas",
+      "line": "And to you adventurer. Have you found a way through the Underground Pass yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Well keep at it. Come to me when you have something to report."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, you must be Koftik."
+    },
+    {
+      "character": "Koftik",
+      "line": "That I am adventurer. King Lathas told me to expect you. I assume he has told you our goal?"
+    },
+    {
+      "character": "Player",
+      "line": "He said we need to find a way through the Underground Pass. Shouldn't be too bad, I've travelled through many a cave in my time."
+    },
+    {
+      "character": "Koftik",
+      "line": "These caves are different... There is a darkness in there unlike any other. You can feel it as you wind your way round the stalagmites... an icy chill that penetrates the very fabric of your being..."
+    },
+    {
+      "character": "Player",
+      "line": "You've been in before?"
+    },
+    {
+      "character": "Koftik",
+      "line": "I have. I didn't go far though, nor did I stay for long. People change in these caves..."
+    },
+    {
+      "character": "Player",
+      "line": "I'll take my chances."
+    },
+    {
+      "character": "Koftik",
+      "line": "Okay traveller, I'll catch up with you by the bridge."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more..."
+    },
+    {
+      "character": "Koftik",
+      "line": "I remember one warrior. His name was Randas. He stood tall and proud like an elven king..."
+    },
+    {
+      "character": "Koftik",
+      "line": "That same pride made him vulnerable. Randas' worthy desire to be a great and mighty warrior also made him corruptible."
+    },
+    {
+      "character": "Koftik",
+      "line": "Within the cave, he heard the voice of Zamorak himself..."
+    },
+    {
+      "character": "Koftik",
+      "line": "Zamorak showed him a way to achieve his goals by appealing to that most base and dark nature... One that resides in all of us."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to him?"
+    },
+    {
+      "character": "Koftik",
+      "line": "No one knows..."
+    },
+    {
+      "character": "Koftik",
+      "line": "Anyway, head on in when you're ready. You'll soon come to a bridge, I will catch up with you there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. What are you up to?"
+    },
+    {
+      "character": "Koftik",
+      "line": "Nothing exciting, just keeping an eye out."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Koftik."
+    },
+    {
+      "character": "Koftik",
+      "line": "Hello adventurer. We seem to have a bit of an issue ahead of us. The bridge is up and I can't see another way across."
+    },
+    {
+      "character": "Player",
+      "line": "Do you not know how to get the bridge down?"
+    },
+    {
+      "character": "Koftik",
+      "line": "I'm afraid not. This is the furthest I've ever been. It does look like someone was here before us though, there's the remains of a camp."
+    },
+    {
+      "character": "Koftik",
+      "line": "I had a look through their things and found some cloth along with the charred remains of some arrows."
+    },
+    {
+      "character": "Player",
+      "line": "Charred arrows? They must have been trying to burn something. Or someone!"
+    },
+    {
+      "character": "Koftik",
+      "line": "There's plenty more cloth by the fire. I also found the remains of a book..."
+    },
+    {
+      "character": "Player",
+      "line": "Probably just litter."
+    },
+    {
+      "character": "Koftik",
+      "line": "Well... maybe?"
+    },
+    {
+      "character": "Player",
+      "line": "What does it say?"
+    },
+    {
+      "character": "Koftik",
+      "line": "It seems to be written by the adventurer Randas. Have a look."
+    },
+    {
+      "character": "Koftik",
+      "line": "Hello adventurer. I'll catch up with you further on. Have a look by the fire if you need more cloth."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Join us..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Death is only the beginning..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "I will release you..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "I'll swallow your soul..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "I can set you free..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Blood... Pain... Hate..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "You can't hide..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Give in to your desires..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "The power of the gods could be yours..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Hear me..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Make them all pay..."
+    },
+    {
+      "character": "Mysterious Voice",
+      "line": "Kill... Maim... Murder..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Koftik."
+    },
+    {
+      "character": "Koftik",
+      "line": "Do you hear them? The voices tell me things."
+    },
+    {
+      "character": "Player",
+      "line": "Are you okay?"
+    },
+    {
+      "character": "Koftik",
+      "line": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men."
+    },
+    {
+      "character": "Player",
+      "line": "Tyranny of the righteous? What?"
+    },
+    {
+      "character": "Koftik",
+      "line": "So many paths to choose... Here we must all take our own path."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Slave",
+      "line": "Eating me... they keep eating me! Eating me from the inside! Please stop them! I can feel them wriggling around inside me right now... please stop them!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Slave",
+      "line": "Blood, blood... never enough blood to go round. When I lift up my arm like this, it all pours back into my body."
+    },
+    {
+      "character": "Slave",
+      "line": "I hope it remembers to go back inside my arm. And don't even ask me about my legs... how much blood are they going to need?"
+    },
+    {
+      "character": "Slave",
+      "line": "Blood is important. We must offer it to Zamorak every day as proof of our devotion. I just hope I don't run out!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, are you okay?"
+    },
+    {
+      "character": "Slave",
+      "line": "Oh yes, you're a fine one. Nice red cheeks, shiny hair."
+    },
+    {
+      "character": "Slave",
+      "line": "Let's see now, some potatoes, some cabbage... Maybe half a clove of garlic..."
+    },
+    {
+      "character": "Slave",
+      "line": "Yes I think you'd make a fine soup. You don't mind do you?"
+    },
+    {
+      "character": "Player",
+      "line": "Actually I do."
+    },
+    {
+      "character": "Slave",
+      "line": "You're welcome to have some with me of course..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Slave",
+      "line": "Mwaarrr fnnntchh. Gbpp dng sktd delp?"
+    },
+    {
+      "character": "Player",
+      "line": "Pardon?"
+    },
+    {
+      "character": "Slave",
+      "line": "Kjp lar falut: Gbpp dng sktd delp?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't under.."
+    },
+    {
+      "character": "Slave",
+      "line": "Mwaarrr fnnntchh. Gbpp dng sktd delp? GBPP DNG SKTD DELP!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello..."
+    },
+    {
+      "character": "Slave",
+      "line": "Kill the villagers, burn them all... every last one! I want nothing to survive... nothing but the sweet smell of burning flesh..."
+    },
+    {
+      "character": "Player",
+      "line": "You're ill!"
+    },
+    {
+      "character": "Slave",
+      "line": "What's that? You've never smelt it before? Well, let's just say that it's an acquired taste..."
+    },
+    {
+      "character": "Slave",
+      "line": "Danger, everywhere danger! But not from man nor beast! This is the danger that is inside you."
+    },
+    {
+      "character": "Slave",
+      "line": "Bring it out, nurture it, cherish it. Stroke it like you would stroke a wounded bird... then strangle it before it takes hold of your very being. Don't say I didn't warn you."
+    },
+    {
+      "character": "Slave",
+      "line": "What's that... Is that a dagger I see before me? Why should I bear the slings and arrows of outrageous fortune."
+    },
+    {
+      "character": "Slave",
+      "line": "For what is a man but this quintessence of dust? And so I say goodnight sweet prince. The rest is silence."
+    },
+    {
+      "character": "Koftik",
+      "line": "The voices, they've been telling me things..."
+    },
+    {
+      "character": "Player",
+      "line": "Koftik, is everything okay? You're getting me worried."
+    },
+    {
+      "character": "Koftik",
+      "line": "Don't be friend. Anyway, do you know the definition of insanity?"
+    },
+    {
+      "character": "Player",
+      "line": "Err... what?"
+    },
+    {
+      "character": "Koftik",
+      "line": "The definition of insanity is doing the same thing over and over, expecting things to change."
+    },
+    {
+      "character": "Koftik",
+      "line": "I spent years doing the same thing, day in and day out. I always wanted more but I never got it. Now, I finally see why..."
+    },
+    {
+      "character": "Koftik",
+      "line": "You see, once I was insane. But now... now I am finally free..."
+    },
+    {
+      "character": "Player",
+      "line": "It's too heavy to move with just my hands."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Paladin. I wasn't expecting to see anyone else down here."
+    },
+    {
+      "character": "Sir Jerro",
+      "line": "Nor were we traveller. What are you doing in this most unholy place?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for a safe route through these caverns, under order of King Lathas."
+    },
+    {
+      "character": "Sir Jerro",
+      "line": "Ah, the king tasked us with the same mission. Alas, a little further on lies the great doors of Iban. We've tried everything, but we cannot enter."
+    },
+    {
+      "character": "Sir Jerro",
+      "line": "Anyway, you've done well to get this far traveller. Here eat..."
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks a lot."
+    },
+    {
+      "character": "Sir Carl",
+      "line": "Hello again traveller. You should consider leaving this place. Let us handle things here."
+    },
+    {
+      "character": "Koftik",
+      "line": "Ah, you've arrived. We've been waiting for you."
+    },
+    {
+      "character": "Player",
+      "line": "Koftik, you're still here? You should leave."
+    },
+    {
+      "character": "Koftik",
+      "line": "Leave? But this is my home now. Home with my lord. He talks to me, he's my friend."
+    },
+    {
+      "character": "Player",
+      "line": "Koftik, you really should leave these caverns."
+    },
+    {
+      "character": "Koftik",
+      "line": "Not now, we're all the same down here. There's just you and those dwarves left."
+    },
+    {
+      "character": "Player",
+      "line": "Dwarves?"
+    },
+    {
+      "character": "Koftik",
+      "line": "Foolish dwarves, still believing that they can resist. No one resists Iban."
+    },
+    {
+      "character": "Koftik",
+      "line": "You could help! Deep down you know you want it! I know you already dealt with those Paladins. Now you just need to kill the dwarves!"
+    },
+    {
+      "character": "Koftik",
+      "line": "Head south and through the tunnel. You'll find the dwarves at the other end. Go slay them. Slay them for our lord!"
+    },
+    {
+      "character": "Koftik",
+      "line": "Nice job killing those Paladins. You're much closer to his side now. Perhaps you could kill those dwarves as well. That would really please him."
+    },
+    {
+      "character": "Disciple of Iban",
+      "line": "An impostor... Die, scum!"
+    },
+    {
+      "character": "Disciple of Iban",
+      "line": "Iban is our father, our guide. Soon he will rule all life."
+    },
+    {
+      "character": "Disciple of Iban",
+      "line": "Som Molica Aniul Demonte."
+    },
+    {
+      "character": "Disciple of Iban",
+      "line": "Hail the great one, my lord Iban. I die for you again and again."
+    },
+    {
+      "character": "Player",
+      "line": "Is that possible?"
+    },
+    {
+      "character": "Disciple of Iban",
+      "line": "Under Iban anything is possible. Death is only the beginning."
+    },
+    {
+      "character": "Disciple of Iban",
+      "line": "Succumb to the might of Iban, the ruler of this world."
+    },
+    {
+      "character": "Niloof",
+      "line": "Back away! Back away! Wait... you're human!"
+    },
+    {
+      "character": "Niloof",
+      "line": "Well good luck with that. We came here as miners, completely unaware of the evil that lurked here. There's no way through, not while Iban still rules. He controls the gateway, the only way to the other side."
+    },
+    {
+      "character": "Player",
+      "line": "What gateway?"
+    },
+    {
+      "character": "Niloof",
+      "line": "The Well of Voyage. It acts as a portal through the last section of the caverns. It's the only way into the west. Iban has corrupted it though. Now he uses it to dispose of those who displease him."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'll just have to kill him then."
+    },
+    {
+      "character": "Niloof",
+      "line": "Ha! Good luck with that. If we knew how, we'd have slain him already."
+    },
+    {
+      "character": "Niloof",
+      "line": "Seek out the witch, his guide, his only confidante. Only she knows how to rid us of Iban."
+    },
+    {
+      "character": "Niloof",
+      "line": "She lives on the platforms above, we dare not go there."
+    },
+    {
+      "character": "Niloof",
+      "line": "You're brave to come to this place. Not many survive down here."
+    },
+    {
+      "character": "Player",
+      "line": "As I can see."
+    },
+    {
+      "character": "Niloof",
+      "line": "Don't stay too long traveller. Iban's calls will soon penetrate your delicate human mind."
+    },
+    {
+      "character": "Niloof",
+      "line": "You'll also become one of his minions... You must go and find the witch Kardia. She holds the secret to Iban's destruction. She lives on the platforms above."
+    },
+    {
+      "character": "Player",
+      "line": "Hi there, you okay?"
+    },
+    {
+      "character": "Kamen",
+      "line": "Ooooh, my head... I'm fried."
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong?"
+    },
+    {
+      "character": "Kamen",
+      "line": "Too much of this home brew my friend. We make it from plant roots, but it blows your head off."
+    },
+    {
+      "character": "Kamen",
+      "line": "You don't wanna put it near any naked flames. I've got a barrel full of it here, want some?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay then."
+    },
+    {
+      "character": "Kamen",
+      "line": "Here you go... Hic!"
+    },
+    {
+      "character": "Kamen",
+      "line": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks."
+    },
+    {
+      "character": "Kamen",
+      "line": "Your losh... Hic!"
+    },
+    {
+      "character": "Kamen",
+      "line": "Well maybe a good meal? I've got some spare."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. Enjoy your brew."
+    },
+    {
+      "character": "Kamen",
+      "line": "Oh I will."
+    },
+    {
+      "character": "Kamen",
+      "line": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit. I could part with some food for a few coins."
+    },
+    {
+      "character": "Kamen",
+      "line": "75 coins pleashe."
+    },
+    {
+      "character": "Kamen",
+      "line": "You'll need to make some room in your inventory first."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear, I haven't enough money..."
+    },
+    {
+      "character": "Kamen",
+      "line": "Sorry, I can't just give it away to anyone that walks past."
+    },
+    {
+      "character": "Kamen",
+      "line": "Enjoy."
+    },
+    {
+      "character": "Kamen",
+      "line": "Well come back any time."
+    },
+    {
+      "character": "Kamen",
+      "line": "Well maybe a good meal? I could part with some food for a few coins."
+    },
+    {
+      "character": "Player",
+      "line": "Hello my good man."
+    },
+    {
+      "character": "Klank",
+      "line": "Good day to you outsider. You should be careful down here. We're the only ones that haven't yet turned."
+    },
+    {
+      "character": "Klank",
+      "line": "If you're not careful you'll become one of them too!"
+    },
+    {
+      "character": "Player",
+      "line": "Who? Iban's followers?"
+    },
+    {
+      "character": "Klank",
+      "line": "They're not followers, they're slaves, they're the soulless..."
+    },
+    {
+      "character": "Player",
+      "line": "What happened to them?"
+    },
+    {
+      "character": "Klank",
+      "line": "They were normal once, adventurers, treasure hunters. But men are weak, they couldn't ignore the voices."
+    },
+    {
+      "character": "Klank",
+      "line": "Now they all seem to think with one conscience... As if they're being controlled by one being..."
+    },
+    {
+      "character": "Player",
+      "line": "Iban?"
+    },
+    {
+      "character": "Klank",
+      "line": "Maybe... maybe Zamorak himself. Those who try and fight it are locked in cages, until their minds are too weak to resist."
+    },
+    {
+      "character": "Klank",
+      "line": "Eventually they all fall to his control..."
+    },
+    {
+      "character": "Klank",
+      "line": "Anyway, I have something that might help you. I crafted these to protect myself from the teeth of the soulless, their bite is vicious."
+    },
+    {
+      "character": "Klank",
+      "line": "I haven't seen another pair which can withstand their jaws..."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Klank",
+      "line": "No problem traveller. Good luck."
+    },
+    {
+      "character": "Player",
+      "line": "No wonder their breath is so bad!"
+    },
+    {
+      "character": "Klank",
+      "line": "You think this is funny... Eh?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really, just trying to lighten up the conversation."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Klank."
+    },
+    {
+      "character": "Klank",
+      "line": "Traveller, I hear you plan to destroy Iban?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right."
+    },
+    {
+      "character": "Klank",
+      "line": "I have a gift for you, they may help. I crafted these to protect myself from the teeth of the soulless, their bite is vicious."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Klank."
+    },
+    {
+      "character": "Klank",
+      "line": "Good luck traveller, give Iban a slap for me!"
+    },
+    {
+      "character": "Player",
+      "line": "That witch probably won't take kindly to me going in there. Maybe I can distract her..."
+    },
+    {
+      "character": "Witch's cat",
+      "line": "Sssss! Thou art brave to wander so far into the domain of Kardia, mine mistress!"
+    },
+    {
+      "character": "Witch's cat",
+      "line": "But soon thou shalt become a soulless servant of Lord Iban, like all who come here."
+    },
+    {
+      "character": "Witch's cat",
+      "line": "Glad shall mine heart be when I see thee prostrate thineself before the altars of Zamorak the Mighty."
+    },
+    {
+      "character": "Player",
+      "line": "No milk for you, puss!"
+    },
+    {
+      "character": "Niloof",
+      "line": "And...?"
+    },
+    {
+      "character": "Player",
+      "line": "I found a strange doll, but I've lost it."
+    },
+    {
+      "character": "Niloof",
+      "line": "Well it's a good job I found it."
+    },
+    {
+      "character": "Niloof",
+      "line": "I've heard about these dolls. This here be dark magic traveller. They say the witch resurrected Iban from death. She must have used this doll to do it."
+    },
+    {
+      "character": "Niloof",
+      "line": "If this doll created Iban, it can also be his end. Find out what process the witch used to revive him and reverse it. Once that's done, cast it into the Well of Voyage. Iban will be destroyed with it."
+    },
+    {
+      "character": "Player",
+      "line": "Where is the well?"
+    },
+    {
+      "character": "Niloof",
+      "line": "On the platforms above. Within Iban's foul temple."
+    },
+    {
+      "character": "Niloof",
+      "line": "I found this old book as well. It seems to detail how Iban was resurrected. It might hold the information you need to destroy him."
+    },
+    {
+      "character": "Niloof",
+      "line": "I found this old book by the way. It seems to detail how Iban was resurrected. It might hold the information you need to destroy him."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks Niloof."
+    },
+    {
+      "character": "Player",
+      "line": "Niloof, I found the witch's house."
+    },
+    {
+      "character": "Player",
+      "line": "I found a strange doll."
+    },
+    {
+      "character": "Niloof",
+      "line": "Ah, I've heard about these dolls. This here be dark magic traveller. They say the witch resurrected Iban from death. She must have used this doll to do it."
+    },
+    {
+      "character": "Iban",
+      "line": "The doll? You mean to destroy Iban? No! I am the son of Zamorak! I can't die! And you... You are his slave now! Even if you kill me you will hear his calls forever! You have already fallen!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi Niloof."
+    },
+    {
+      "character": "Niloof",
+      "line": "Traveller, thank the stars you're still around! I thought your time had come."
+    },
+    {
+      "character": "Player",
+      "line": "I've still a few years in me yet."
+    },
+    {
+      "character": "Niloof",
+      "line": "I found something I think you need traveller..."
+    },
+    {
+      "character": "Player",
+      "line": "The doll?"
+    },
+    {
+      "character": "Niloof",
+      "line": "I found it while slaying some of the soulless. Here you go."
+    },
+    {
+      "character": "Niloof",
+      "line": "Good luck to you, you'll need it."
+    },
+    {
+      "character": "Player",
+      "line": "Take care Niloof."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Klank."
+    },
+    {
+      "character": "Klank",
+      "line": "Hello again adventurer, so you're still around?"
+    },
+    {
+      "character": "Player",
+      "line": "Still here!"
+    },
+    {
+      "character": "Player",
+      "line": "Have you any more gauntlets?"
+    },
+    {
+      "character": "Klank",
+      "line": "Well..yes, but they're not cheap to make. I'll have to sell you a pair..."
+    },
+    {
+      "character": "Player",
+      "line": "How much?"
+    },
+    {
+      "character": "Klank",
+      "line": "5,000 coins."
+    },
+    {
+      "character": "Player",
+      "line": "5,000, you must be joking!"
+    },
+    {
+      "character": "Klank",
+      "line": "We don't joke down here friend..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay then, I'll take a pair."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear, I haven't got enough money..."
+    },
+    {
+      "character": "Klank",
+      "line": "Sorry, I can't sell them any cheaper than that."
+    },
+    {
+      "character": "Player",
+      "line": "Take care Klank."
+    },
+    {
+      "character": "Klank",
+      "line": "You too adventurer..."
+    },
+    {
+      "character": "Koftik",
+      "line": "Adventurer, where am I? I can't remember a thing!"
+    },
+    {
+      "character": "Player",
+      "line": "We were losing you to Iban's influence..."
+    },
+    {
+      "character": "Koftik",
+      "line": "What? Of course, the voices... But they've stopped. What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "Iban's dead, I destroyed him."
+    },
+    {
+      "character": "Koftik",
+      "line": "You've done well! Thank you for saving me."
+    },
+    {
+      "character": "Koftik",
+      "line": "But what about you, adventurer? Did the voices not affect you?"
+    },
+    {
+      "character": "Player",
+      "line": "I... I don't think so..."
+    },
+    {
+      "character": "Koftik",
+      "line": "I see. Well we must now inform the king. Follow me, I'll lead you out."
+    },
+    {
+      "character": "Player",
+      "line": "At last! I've had enough of these caves."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for showing me the way out Koftik."
+    },
+    {
+      "character": "Koftik",
+      "line": "Always a pleasure. Have you informed the king about Iban?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Koftik",
+      "line": "This is no time to linger. The King must know that Iban is dead. This is a truly historical moment for Ardougne."
+    },
+    {
+      "character": "Player",
+      "line": "I've still a few years in me yet. So what are you still doing down here?"
+    },
+    {
+      "character": "Niloof",
+      "line": "Well with Iban and his lot gone, we've been left with a great cavern filled with resources. We thought we'd actually do what we came here for and get mining."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough. Well you take care of yourselves."
+    },
+    {
+      "character": "Niloof",
+      "line": "And you."
+    },
+    {
+      "character": "King Lathas",
+      "line": "The adventurer returns, any news?"
+    },
+    {
+      "character": "Player",
+      "line": "Indeed, the quest is complete. I have defeated Iban and his minions."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Incredible, you are a true warrior. So do we now have a way through to the west?"
+    },
+    {
+      "character": "Player",
+      "line": "Not quite. The portal through the last section of the pass has been damaged. It will need repairing."
+    },
+    {
+      "character": "King Lathas",
+      "line": "I see. I will send our best mages in at once. Once they have made the repairs, we will finally be ready to stop King Tyras."
+    },
+    {
+      "character": "King Lathas",
+      "line": "For now, I thank you for your help adventurer. Your loyalty is an inspiration to all."
+    },
+    {
+      "character": "Player",
+      "line": "So how long do you think the repairs will take?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "It shouldn't take the mages long at all. Once their work is done we will finally be ready to move against my brother."
+    },
+    {
+      "character": "Player",
+      "line": "I assume you have a plan?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "I do indeed. I recently managed to make contact with the elves that inhabit the western lands."
+    },
+    {
+      "character": "Player",
+      "line": "Elves? I've never seen an elf before."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Well that may well change soon. Apparently, my brother has been causing them quite a bit of trouble. As such, they've agreed to help us get rid of him once and for all."
+    },
+    {
+      "character": "Player",
+      "line": "So what do I need to do?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "You are to head into the Underground Pass and through the Well of Voyage. The mages should have it repaired by the time you arrive."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Once you are through, you will be met by some representatives of Lord Iorwerth."
+    },
+    {
+      "character": "King Lathas",
+      "line": "With their help, you are to find my brother and kill him. Once that's done, return to me."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I don't think I'm ready for this yet."
+    },
+    {
+      "character": "King Lathas",
+      "line": "As you wish. Return to me when you are ready and we will begin."
+    },
+    {
+      "character": "Player",
+      "line": "What's the deal with your brother again?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "My brother, King Tyras, was always a bit of an explorer. He went on numerous expeditions to the lands west of here. On one of these expeditions, he was captured by the forces of the Dark Lord."
+    },
+    {
+      "character": "King Lathas",
+      "line": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity. The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil..."
+    },
+    {
+      "character": "King Lathas",
+      "line": "As a result, I had a wall built around West Ardougne to act as a barrier between him and the rest of the world. Tyras is king of West Ardougne, sealing off the city was the only way to stop him and the Dark Lord."
+    },
+    {
+      "character": "King Lathas",
+      "line": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe."
+    },
+    {
+      "character": "Player",
+      "line": "But now we're ready to stop him."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Indeed we are. My brother has been gathering strength in the west, preparing to move against us. But now that we have a way through, we can move against him first."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds good. See you later."
+    },
+    {
+      "character": "King Lathas",
+      "line": "Farewell adventurer. Return to me once you are ready to begin."
+    },
+    {
+      "character": "Player",
+      "line": "Good day my liege. Any progress with the Well of Voyage?"
+    },
+    {
+      "character": "King Lathas",
+      "line": "Ahh... adventurer. The repair work on the Well of Voyage has been completed. We're finally ready to move against my brother."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Disciple of Iban",
+      "description": "Adult male, British accent, fanatical and reverent tone, a Zamorakian cultist utterly devoted to his dark master Iban, speaking with zealous conviction."
+    },
+    {
+      "name": "Iban",
+      "description": "Middle-aged male, deep British accent, booming and wrathful tone, a former Kinshra knight who proclaims himself the son of Zamorak, radiating malevolent power and fury."
+    },
+    {
+      "name": "Kamen",
+      "description": "Middle-aged male dwarf, Scottish accent, slurred and jovial tone, a miner who has been drinking too much of his own potent homebrew, cheerfully inebriated."
+    },
+    {
+      "name": "King Lathas",
+      "description": "Middle-aged male, refined British accent, authoritative and calculating tone, a bald king with a brown goatee who speaks with regal composure while concealing treacherous intentions."
+    },
+    {
+      "name": "Klank",
+      "description": "Middle-aged male dwarf, Scottish accent, gruff and pragmatic tone, a skilled craftsman trapped in the Underground Pass who maintains his sanity through practical work."
+    },
+    {
+      "name": "Koftik",
+      "description": "Adult male, British accent, initially cautious and weary but progressively unstable, a tracker for King Lathas who gradually succumbs to the maddening voices in the caverns."
+    },
+    {
+      "name": "Mysterious Voice",
+      "description": "Ageless, ethereal and sinister whisper, disembodied and seductive tone, the corrupting influence of dark power echoing through the Underground Pass."
+    },
+    {
+      "name": "Niloof",
+      "description": "Middle-aged male dwarf, Scottish accent, cautious but helpful tone, a mining expedition leader trapped in the Underground Pass who provides vital information about defeating Iban."
+    },
+    {
+      "name": "Sir Carl",
+      "description": "Adult male, noble British accent, honorable and weary tone, a paladin knight sent by King Lathas who has been stranded in the depths of the Underground Pass."
+    },
+    {
+      "name": "Sir Jerro",
+      "description": "Adult male, noble British accent, formal and tired tone, a paladin knight tasked with finding a route through the Underground Pass, offering aid to fellow travelers."
+    },
+    {
+      "name": "Slave",
+      "description": "Adult, broken British accent, deranged and rambling tone, a human driven to madness by Iban's corrupting voice, speaking in disturbing and nonsensical fragments."
+    },
+    {
+      "name": "Witch's cat",
+      "description": "Ageless, hissing and archaic British accent, theatrical and menacing tone, a magical feline servant of the witch Kardia who speaks in old-fashioned language."
+    }
+  ]
+}

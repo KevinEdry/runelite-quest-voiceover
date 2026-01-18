@@ -1,0 +1,1664 @@
+{
+  "branch": "quest/tower-of-life",
+  "quest_name": "Tower of Life",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hi. Interesting building you have here."
+    },
+    {
+      "character": "Player",
+      "line": "What's it for?"
+    },
+    {
+      "character": "Effigy",
+      "line": "You like it? It's simply fabulous, isn't it? A real marvel of modern design made just for my fellow alchemists and I!"
+    },
+    {
+      "character": "Player",
+      "line": "I see some builders over there. So I assume it's not yet finished."
+    },
+    {
+      "character": "Effigy",
+      "line": "What a keen eye this chap has! But imagine this: a gargantuan cylinder of expert design, incorporating an inventive inner spiral walkway to multiple planes of wondrous inhabitance!"
+    },
+    {
+      "character": "Player",
+      "line": "So, it's a tower."
+    },
+    {
+      "character": "Effigy",
+      "line": "Oh, no, no, no, no."
+    },
+    {
+      "character": "Effigy",
+      "line": "It's going to have a use that will change this world!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Or at least it would if we could ever get it finished."
+    },
+    {
+      "character": "Effigy",
+      "line": "See those builders?"
+    },
+    {
+      "character": "Player",
+      "line": "They don't seem to be building much."
+    },
+    {
+      "character": "Effigy",
+      "line": "Exactly."
+    },
+    {
+      "character": "Effigy",
+      "line": "They've gone on strike for some petty reason about the tower being too weird. I really can't understand those men."
+    },
+    {
+      "character": "Player",
+      "line": "Shame."
+    },
+    {
+      "character": "Effigy",
+      "line": "Hey! Maybe you could talk to them?"
+    },
+    {
+      "character": "Effigy",
+      "line": "You look like a sturdy chap."
+    },
+    {
+      "character": "Effigy",
+      "line": "Maybe you could finish the work?"
+    },
+    {
+      "character": "Player",
+      "line": "Me?"
+    },
+    {
+      "character": "Effigy",
+      "line": "Come on! This is the chance of a lifetime!"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, why not."
+    },
+    {
+      "character": "Effigy",
+      "line": "That's fantastic! Oh, I'm so pleased."
+    },
+    {
+      "character": "Player",
+      "line": "Calm down. I'm not making any promises."
+    },
+    {
+      "character": "Effigy",
+      "line": "Oh, I have a good feeling about this."
+    },
+    {
+      "character": "Effigy",
+      "line": "Right."
+    },
+    {
+      "character": "Effigy",
+      "line": "Go have a word with Bonafido the head builder. See if you can't get him off his backside to do some work. Oh, and I'm Effigy by the way."
+    },
+    {
+      "character": "Player",
+      "line": "Nice to meet you Effigy, I'm. Hold on and I'll see what I can do!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Wait a minute."
+    },
+    {
+      "character": "Effigy",
+      "line": "Don't I recognise you from somewhere?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm, do you?"
+    },
+    {
+      "character": "Effigy",
+      "line": "Do you know the outpost north of Ardougne?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, yes, it's now a small museum. Jorral's looking after it. He's really making history with that place."
+    },
+    {
+      "character": "Effigy",
+      "line": "Well, the King was going to make that into an alchemy lab for us, but some fool ruined our plans!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, yes. Shame. Got to go. Bye."
+    },
+    {
+      "character": "Effigy",
+      "line": "Hey, wait up!"
+    },
+    {
+      "character": "Player",
+      "line": "Best I go sort out this tower. Bye."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, feeling a bit ill today."
+    },
+    {
+      "character": "Effigy",
+      "line": "A bit ill?"
+    },
+    {
+      "character": "Effigy",
+      "line": "That's a weak excuse for a very feeble personality."
+    },
+    {
+      "character": "Player",
+      "line": "Guess what!"
+    },
+    {
+      "character": "Effigy",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm a fully-fledged builder!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Marvellous! So you can bring this tower to life!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure about that, but I'll take a look and see what I can do."
+    },
+    {
+      "character": "Effigy",
+      "line": "Oh, what a wondrous person you are!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi there. What is this place?"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Ah, this be the Tower of Life! Beautiful, isn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "I prefer ordinary houses."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Pah, you have no taste."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a builder!"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "I question why you are so pleased about this."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I think it's a positive step in my career as a courageous adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "This is quite the tower."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Yeah, it cost a fair bit."
+    },
+    {
+      "character": "Player",
+      "line": "How much?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Well, I had to 'alch' a fair few belongings of my fellow alchemists to afford it."
+    },
+    {
+      "character": "Player",
+      "line": "I bet they love you for that."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Everyone loves someone that can create money."
+    },
+    {
+      "character": "Player",
+      "line": "I don't."
+    },
+    {
+      "character": "Player",
+      "line": "Hi. Sorry, but why do they call you 'Currency'?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "That's down to my interest in all things of monetary value."
+    },
+    {
+      "character": "Player",
+      "line": "You must be pretty rich then."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "I wish. And I was, up until recently."
+    },
+    {
+      "character": "Player",
+      "line": "What happened?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "This tower. Set me back a fair few million."
+    },
+    {
+      "character": "Player",
+      "line": "I'll bet! It pleases you, then, to know that I have just become a builder and have been granted permission to go mess around inside."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "This is not a good day for me."
+    },
+    {
+      "character": "Player",
+      "line": "Are you Bonafido by any chance?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "That I am, mate."
+    },
+    {
+      "character": "Bonafido",
+      "line": "How can I be of assistance?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've just spoken to Effigy about this tower. He tells me he hired you to work but you're on strike. Something about an extended tea break?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Extended cup o' char? E's got it all wrong, mate. We know those alchemi-whatsits are up ta somefin' weird in building this tower, wot wiv all the machinery, and until we get some answers we're not movin a muscle."
+    },
+    {
+      "character": "Player",
+      "line": "Well, he wanted me to do something about it."
+    },
+    {
+      "character": "Player",
+      "line": "Is there no way I can convince you to continue?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Sorry, mate."
+    },
+    {
+      "character": "Player",
+      "line": "Well, can I at least have a look inside the tower?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Only builders are allowed in there, like. You don't look like much ov a builder to me."
+    },
+    {
+      "character": "Player",
+      "line": "I take offence at that! Give me a chance; you may be surprised."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Okay. Come to me kitted out like a builder - hard hat, some boots, scruffy trousers and shirt - and I'll let ya try out ta be one ov us."
+    },
+    {
+      "character": "Player",
+      "line": "Count me in!"
+    },
+    {
+      "character": "Player",
+      "line": "Say, that's a nice helmet."
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Why, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I was just wondering if you might be able to help me out with one?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Always glad to help a budding builder."
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "But first, prove your Construction knowledge by answering some questions."
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "How many nails does it take to make a rocking chair?"
+    },
+    {
+      "character": "Player",
+      "line": "One?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "One? How do you suppose to use a single nail?"
+    },
+    {
+      "character": "Player",
+      "line": "Five?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Nope. Keep guessing!"
+    },
+    {
+      "character": "Player",
+      "line": "Three?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Bingo! Okay, now what takes 3 planks, 3 cloths and 3 nails to make, and helps remove light from a room?"
+    },
+    {
+      "character": "Player",
+      "line": "Torn curtains?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Nice one. Last question: I like fish and I want to put some in my garden, but I need a special water feature. What materials would I require?"
+    },
+    {
+      "character": "Player",
+      "line": "8 clay pieces and 3 limestone bricks?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Oh, and you were so close!"
+    },
+    {
+      "character": "Player",
+      "line": "10 clay pieces?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "That's it!"
+    },
+    {
+      "character": "Player",
+      "line": "Greener pastures?"
+    },
+    {
+      "character": "Player",
+      "line": "Wait a minute! Is there blood on this helmet?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Erm, no, that's just, erm, paint. Yes, paint! That's what it is!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay. Thanks. Bye."
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Ha, gullible fool."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Nothing."
+    },
+    {
+      "character": "Player",
+      "line": "10 limestone bricks?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Guess again, mate."
+    },
+    {
+      "character": "Player",
+      "line": "A brown rug?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Of course, because that's what everyone needs - a rug up at their window."
+    },
+    {
+      "character": "Player",
+      "line": "Opulent curtains?"
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Those curtains are not going to be in any way opulent, matey."
+    },
+    {
+      "character": "'Black-eye'",
+      "line": "Why, thanks. Some would say as nice as the one you're wearing!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I'm looking to get some kit to look like one of you guys."
+    },
+    {
+      "character": "Player",
+      "line": "Anything you might be able to help me out with?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "Well... Urmph! Ye can 'ave me shirt..."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. Has it been cleaned? I don't want some sweaty hand-me-down."
+    },
+    {
+      "character": "'The Guns'",
+      "line": "What? Huhmf! It ain't ever been...uurrgg...worn."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that sounds good. Can I have it then?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "Can't...hurrr...see why not. This is firsty work doh. Could do wiv a beer."
+    },
+    {
+      "character": "Player",
+      "line": "Sure. What's your 'usual'?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "I'm a simple...umph...man. I like the bar in Yanille and their cheap beer..."
+    },
+    {
+      "character": "Player",
+      "line": "Simple, cheap beer. No problem."
+    },
+    {
+      "character": "Player",
+      "line": "Well, today's your lucky day!"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "Ahhh! Smashin...urrghh...deal!"
+    },
+    {
+      "character": "Player",
+      "line": "Fancy another?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "Nah, thanks. You've got your shirt and I've got my energy back."
+    },
+    {
+      "character": "Player",
+      "line": "Hi! How's this for some booze?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "That's no good. I need some simple beer."
+    },
+    {
+      "character": "'The Guns'",
+      "line": "Nah, thanks, I'm not drinking that."
+    },
+    {
+      "character": "Player",
+      "line": "Beer?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "How do you expect me to drink that?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Player",
+      "line": "What do you do when you're not lifting logs above your head?"
+    },
+    {
+      "character": "'The Guns'",
+      "line": "In my free time?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "'The Guns'",
+      "line": "All sorts. I like...hummff...a good kebab and a cold beer down...urrghh...the pub. And for those quiet evenings...hurrr..."
+    },
+    {
+      "character": "'The Guns'",
+      "line": "A bit of needlepoint is always welcome."
+    },
+    {
+      "character": "Player",
+      "line": "I can honestly say you're a very original guy."
+    },
+    {
+      "character": "Player",
+      "line": "Why, hello there!"
+    },
+    {
+      "character": "'Gummy'",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Clothing."
+    },
+    {
+      "character": "'Gummy'",
+      "line": "Nope. Need mine."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, come on. You know you want to give me free stuff."
+    },
+    {
+      "character": "'Gummy'",
+      "line": "Stop bothering me, can't you see I'm busy!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, VERY busy I'm sure."
+    },
+    {
+      "character": "'Gummy'",
+      "line": "Okay, okay."
+    },
+    {
+      "character": "'Gummy'",
+      "line": "The other day I was drying my clothes on a line down by the shore. A storm hit and some of my clothing went missing."
+    },
+    {
+      "character": "Player",
+      "line": "Likely story. Sure you weren't skinny dipping?"
+    },
+    {
+      "character": "'Gummy'",
+      "line": "Just go look and leave me be! Search around the tower and you may find them."
+    },
+    {
+      "character": "Player",
+      "line": "Hello. I was just wondering... I don't suppose you have any spare clothing you could lend me?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, but why? I could pay you!"
+    },
+    {
+      "character": "'No fingers'",
+      "line": "Don't suppose you've seen any boots around here? Size nine, steel toed, brown leather..."
+    },
+    {
+      "character": "Player",
+      "line": "Nope, not at all. I'd best be going. Have a nice day. Bye!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Bonafido."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Well, if it ain't the wannabe builder!"
+    },
+    {
+      "character": "Player",
+      "line": "What clothes do I need?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Ya don't seem to be able ta remember anyfin'... Dearie me."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Come back to me wearin' a hard hat, some scruffy trousers, a good top and some hard boots. Yow shud fand some around 'ere."
+    },
+    {
+      "character": "Player",
+      "line": "So..."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Like a builder frew and frew! Good job - now it's time to test your skills."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, what do you want me to build?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Build?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Build? Hahaha, don't be a plonka!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "It's not building skills that makes a true builder, you have to have the right mental attitude, yeah?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Let me see..."
+    },
+    {
+      "character": "Bonafido",
+      "line": "You've plenty of work to do, but you need a drink fast - what do you go for?"
+    },
+    {
+      "character": "Player",
+      "line": "Orange juice."
+    },
+    {
+      "character": "Bonafido",
+      "line": "What are you? A healthy builder? Of course, not juice!"
+    },
+    {
+      "character": "Player",
+      "line": "Tea."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Bingo! Ain't nufin' betta."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Now, let's hear you whistle!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "What on Gielinor are you doing? Get out of my sight."
+    },
+    {
+      "character": "Bonafido",
+      "line": "You know, you have quite a talent there."
+    },
+    {
+      "character": "Player",
+      "line": "Why thank you. Do you think I have what it takes to become a famous whistler?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "No."
+    },
+    {
+      "character": "Player",
+      "line": "Oh."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Wahey! Nice one. Next question."
+    },
+    {
+      "character": "Bonafido",
+      "line": "What's a good sign that you need to replace your trousers?"
+    },
+    {
+      "character": "Player",
+      "line": "Your legs are getting a bit cold?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Exactamondo! Glad to see you are thinking like a builder."
+    },
+    {
+      "character": "Player",
+      "line": "I am?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Yes, obviously if your legs are cold, you lost your trousers altogether!"
+    },
+    {
+      "character": "Player",
+      "line": "That's just what I was thinking."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Now the last question - what do you do if you cut your finger?"
+    },
+    {
+      "character": "Player",
+      "line": "Cry."
+    },
+    {
+      "character": "Bonafido",
+      "line": "When was the last time you saw a builder cry?"
+    },
+    {
+      "character": "Player",
+      "line": "Carry on, it'll fix itself."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Yep, that's the one!"
+    },
+    {
+      "character": "Player",
+      "line": "Suppose it could get infected then, but that'll just impress the lads all the more."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Exactly, you're gettin the hang of this quickly!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Cosmic! I canna see no reason why ya can't go in t'tower now. But be careful, there be some precarious situations in there."
+    },
+    {
+      "character": "Player",
+      "line": "So, what's left to build?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Well, there's a pipe system, a pressure machine and a strange cage up at the top that needs finishing off. The alchemists couldn't explain what they were for."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Fetch a plaster and ointment."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Look, let me give you a bit of advice. If you want to look weak, that's the best way to go."
+    },
+    {
+      "character": "Player",
+      "line": "They're ripped and full of holes."
+    },
+    {
+      "character": "Bonafido",
+      "line": "No, no, no. That's the only way they should be!"
+    },
+    {
+      "character": "Player",
+      "line": "The colour is starting to fade?"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Oh no, you're really not getting the hang of this are you?"
+    },
+    {
+      "character": "Player",
+      "line": "Bottle of wine."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Ooh, get Mr Fancy Pants here and his posh wine! You're no builder."
+    },
+    {
+      "character": "Player",
+      "line": "Hi again Bonafido."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Hi, 'Kelsew the Builder'! Been into the tower yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I'll go when I'm ready. I'm taking my time, may have a quick cup of tea first."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Hahaha."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, this place looks special. Best I look around for something to fix."
+    },
+    {
+      "character": "Player",
+      "line": "Heya, Bona. I had a look at the building. There's some complex machinery in there! Going to cost someone."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Yep, told ya so. Any idea what those alchemists are up ta?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I agree now they're up to something. The question is what...? I don't think we're going to find out much from the alchmists, though."
+    },
+    {
+      "character": "Bonafido",
+      "line": "So what are you going to do?"
+    },
+    {
+      "character": "Player",
+      "line": "I shall see if I can't fix it up and see for myself what is going on. Should be able to get a good reward from them. But don't worry, I'll make sure your efforts don't go unpaid."
+    },
+    {
+      "character": "Bonafido",
+      "line": "You're a star among builders, that ya are!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello again, Effigy. I've had a nose around the tower. There's a lot of work to do!"
+    },
+    {
+      "character": "Effigy",
+      "line": "I know, I know. But think of how fantastical it will be when it is finished!"
+    },
+    {
+      "character": "Player",
+      "line": "Why fantastical? What are all those pipes and machines in there? What are you trying to do?"
+    },
+    {
+      "character": "Effigy",
+      "line": "Fantastic weather we're having today!"
+    },
+    {
+      "character": "Player",
+      "line": "But what are the-"
+    },
+    {
+      "character": "Effigy",
+      "line": "The sun is shining... The birds are singing..."
+    },
+    {
+      "character": "Player",
+      "line": "Hey! Answer my question!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Hehe. Just fix the tower. You'll soon see."
+    },
+    {
+      "character": "Player",
+      "line": "You'd best pay me well for this."
+    },
+    {
+      "character": "Player",
+      "line": "I must say, the inside of the tower is really something to behold."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Why, thanks. You'll find various pieces of machinery to fix in there. You can no doubt find the materials in there, too."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, Currency. Got any spare cash?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Nope; you?"
+    },
+    {
+      "character": "Player",
+      "line": "No, do you?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Afraid not. You?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm going to stop before this gets violent."
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed all the machinery."
+    },
+    {
+      "character": "Effigy",
+      "line": "Hurrah! Splendiferous!"
+    },
+    {
+      "character": "Player",
+      "line": "Now listen, what does it all do? Why are you-"
+    },
+    {
+      "character": "Effigy",
+      "line": "Years of devoted work; it's complete!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Hey, guys! It's finished!"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "At last! Our work is complete!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "I can almost taste the riches!"
+    },
+    {
+      "character": "Effigy",
+      "line": "To the top of the tower, fellow alchemists!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! What about-"
+    },
+    {
+      "character": "Player",
+      "line": "Why does nobody listen? Best if I follow them, I suppose."
+    },
+    {
+      "character": "Player",
+      "line": "I'm really getting annoyed with those alchemists."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Why?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I completed the tower and I still have no idea what it does, and then as soon as I tell Effigy of my hard work, he doesn't say one word of thanks and legs it off into the tower!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "Well, I'll be a rabbit in da eyes of a fox! Best ya chase after 'im then and get us our dosh! Don't you do a runner, now!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I'm not about to let Effigy get away with treating us builders like this!"
+    },
+    {
+      "character": "Player",
+      "line": "What on Gielinor is..."
+    },
+    {
+      "character": "Effigy",
+      "line": "It is time, my friends! The culmination of our work is complete!"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Long time indeed!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Many hours we have worked!"
+    },
+    {
+      "character": "Effigy",
+      "line": "A great many years of planning and preparation has brought us here, my fellow alchemists. Now we have... The Tower of Life! We can already create gold, we can already transform matter from one thing to"
+    },
+    {
+      "character": "Effigy",
+      "line": "another, and now we have the ability to create life itself! We owe much to the power of Guthix, for without the life essence he left below ground, we would never have been able to bring this tower alive!"
+    },
+    {
+      "character": "Player",
+      "line": "They're insane!"
+    },
+    {
+      "character": "Effigy",
+      "line": "It begins! The first day of creation!"
+    },
+    {
+      "character": "Effigy",
+      "line": "It worked!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Marvellous!"
+    },
+    {
+      "character": "Player",
+      "line": "How is this possible?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "It's alive!"
+    },
+    {
+      "character": "Effigy",
+      "line": "We did it. A Homunculus!"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Beautiful."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "It can talk! A real success."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Where me? Skin burn...arrgh...eyes hurt...let me go!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Excellent, it can feel! It's self-aware. This is really a great day."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Whyeee cage? Argh...please help me! Graaahhh!"
+    },
+    {
+      "character": "Player",
+      "line": "This is terrible, you must do something!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Ah, it's our helper. Thank you for fixing the tower; we will reward you greatly."
+    },
+    {
+      "character": "Player",
+      "line": "I don't want a reward, just let it go. Can't you see it's in pain?"
+    },
+    {
+      "character": "Effigy",
+      "line": "Don't worry. It has no soul; it has no worth."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Yes, it's just an experiment in alchemy."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "The creature must be grateful for his creation."
+    },
+    {
+      "character": "Homunculus",
+      "line": "You create hurt. Not fair, let me free!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Silence, creature!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Yes, be still and quit your moaning."
+    },
+    {
+      "character": "Homunculus",
+      "line": "No, mean, nasty peoples."
+    },
+    {
+      "character": "Effigy",
+      "line": "Shut up, you pathetic being."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Arghh! Let me go!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Don't make us hurt you."
+    },
+    {
+      "character": "Player",
+      "line": "Stop this! Let it go!"
+    },
+    {
+      "character": "Homunculus",
+      "line": "So horrible beings. Daarrrr!"
+    },
+    {
+      "character": "Player",
+      "line": "It's getting angry."
+    },
+    {
+      "character": "Effigy",
+      "line": "You should know your place, adventurer. This is no concern of yours now."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "You should be satisfied and leave. Then we can begin our experiments."
+    },
+    {
+      "character": "Player",
+      "line": "Not wise."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Arghhh!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Oh no..."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Get out of the tower before it's too late!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Run away!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Flee for your lives!"
+    },
+    {
+      "character": "Player",
+      "line": "They've run away. I must go confront those alchemists downstairs."
+    },
+    {
+      "character": "Player",
+      "line": "You won't BELIEVE what I just saw!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "What? What?"
+    },
+    {
+      "character": "Player",
+      "line": "That tower is... a tower of life! I just witnessed with my very own eyes the creation of an homunculus!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "A homanque-what?"
+    },
+    {
+      "character": "Player",
+      "line": "Homunculus! They have found a way of creating life itself, but the creature they have made is not a happy being."
+    },
+    {
+      "character": "Bonafido",
+      "line": "And our money?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you listening at all? This creature is very dangerous, it needs to be stopped! And fast!"
+    },
+    {
+      "character": "Bonafido",
+      "line": "I'm glad you've got the money sorted."
+    },
+    {
+      "character": "Player",
+      "line": "I can't believe what you guys have done."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Marvellous."
+    },
+    {
+      "character": "Player",
+      "line": "No. Scary!"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "That too."
+    },
+    {
+      "character": "Player",
+      "line": "That is one very sad creature."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "It'll be alright; it just needs a pat on the back."
+    },
+    {
+      "character": "Player",
+      "line": "Why am I suddenly glad that you're not responsible for sorting out this mess?"
+    },
+    {
+      "character": "Player",
+      "line": "Effigy!"
+    },
+    {
+      "character": "Effigy",
+      "line": "I know, I know. This is a truly dangerous creation, of all proportions."
+    },
+    {
+      "character": "Player",
+      "line": "I hope you learn from this."
+    },
+    {
+      "character": "Effigy",
+      "line": "I will, I will. Next time we'll use a stronger cage."
+    },
+    {
+      "character": "Effigy",
+      "line": "A bad joke."
+    },
+    {
+      "character": "Player",
+      "line": "I'll just ignore that. So, what about that Homunculus up there? You can't just leave it."
+    },
+    {
+      "character": "Effigy",
+      "line": "Maybe you could go have a talk with it?"
+    },
+    {
+      "character": "Player",
+      "line": "Why me? You created it!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Pleeeaaase."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Effigy",
+      "line": "Pretty please with a cherry on top?"
+    },
+    {
+      "character": "Player",
+      "line": "No way!"
+    },
+    {
+      "character": "Effigy",
+      "line": "I'll make sure you're compensated. You won't be forgotten for this!"
+    },
+    {
+      "character": "Player",
+      "line": "Why do I get the feeling I'm doomed to go face that creature on my own?"
+    },
+    {
+      "character": "Effigy",
+      "line": "Good on you! I knew you would help us!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh well. They do say that experience teaches fools."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, Effigy."
+    },
+    {
+      "character": "Effigy",
+      "line": "Have you spoken to our wondrously fabulous creation yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't spoken to it at all. Give me a chance. And please stop your overuse of adjectives."
+    },
+    {
+      "character": "Effigy",
+      "line": "What a hideously, unforgiveable and insensitive combination of dialogue to supply to a friend!"
+    },
+    {
+      "character": "Player",
+      "line": "I swear you'll get a knuckle sandwich sometime soon if you don't shut up."
+    },
+    {
+      "character": "Effigy",
+      "line": "Charming."
+    },
+    {
+      "character": "Player",
+      "line": "I'm off to talk to the Homunculus."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Rather you than me. Can't say you look like you'll make it out alive."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the support. How about saying something encouraging."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Like?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know. How about 'You can do it!' or 'That Homunculus is in for a surprise'."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "So, you want me to lie?"
+    },
+    {
+      "character": "Player",
+      "line": "Forget it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'm going to go chat with the Homunculus."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Very good."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Could you do us a favour?"
+    },
+    {
+      "character": "Player",
+      "line": "I probably have enough on my plate, but go ahead; what?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Could you ask it a question?"
+    },
+    {
+      "character": "Player",
+      "line": "Which is?"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Does it have any spare cash?"
+    },
+    {
+      "character": "Player",
+      "line": "Let me think how I can phrase this..."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Oh."
+    },
+    {
+      "character": "Player",
+      "line": "Hello?"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Leeet mwwe free. Argyyghh."
+    },
+    {
+      "character": "Player",
+      "line": "It's okay, I'm here to help you."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Lieees. Grahhh"
+    },
+    {
+      "character": "Player",
+      "line": "No, honest. I helped the alchemists, but I had no idea what their plans involved."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Arggh, so alchemist create me now I trapped for experiements. But still I confused."
+    },
+    {
+      "character": "Player",
+      "line": "About what?"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Me see logic, feeeel magic. A mix of the two."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. A creature created of logic and magic."
+    },
+    {
+      "character": "Player",
+      "line": "Don't fear. I shall fix your mind!"
+    },
+    {
+      "character": "Homunculus",
+      "line": "No so sure it is easy to do. No one canna 'elp. Arghhh."
+    },
+    {
+      "character": "Player",
+      "line": "Watch me."
+    },
+    {
+      "character": "Player",
+      "line": "You tell me that you're confused, so ask me some questions!"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Ah, please..."
+    },
+    {
+      "character": "Homunculus",
+      "line": "That it! Make sense now, thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "I decided to root for magic."
+    },
+    {
+      "character": "Homunculus",
+      "line": "No does matter which you chose. Me needed organise my thoughts. I see there is truth in both."
+    },
+    {
+      "character": "Player",
+      "line": "Okay."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Now we go scare alchemies - they have been wrong to do this! Although I have life, they mustn't go about this again."
+    },
+    {
+      "character": "Player",
+      "line": "Sounds like a good plan. Can you get out of that cage?"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Easy. You run down and I watching from here. I surprise right moment."
+    },
+    {
+      "character": "Player",
+      "line": "It's me again, Homunculus."
+    },
+    {
+      "character": "Player",
+      "line": "Do you remember?"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Stranger... nooo, help meee."
+    },
+    {
+      "character": "Player",
+      "line": "Stay calm, let's do this."
+    },
+    {
+      "character": "Player",
+      "line": "How are you?"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Better. You been mine angel. I now have the understanding I need."
+    },
+    {
+      "character": "Player",
+      "line": "My pleasure."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Please, alchemists you speak, me appear to surprise."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not sure I understand, but okay, I will go have a word with them."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "Hi, Bonafido."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Hi. How's the tower?"
+    },
+    {
+      "character": "Player",
+      "line": "Finished, really."
+    },
+    {
+      "character": "Bonafido",
+      "line": "Looks like we're out of a job then."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I wouldn't worry about it. There are frequently new buildings required around Gielinor. I'm sure your services will be called upon again."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I've sat down and had a good chat with the Homunculus."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "And?"
+    },
+    {
+      "character": "Player",
+      "line": "You'll soon find out!"
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Huh?"
+    },
+    {
+      "character": "Player",
+      "line": "The Homunculus is a bit better off now."
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Excellent. So we can go back in."
+    },
+    {
+      "character": "Player",
+      "line": "Not just yet."
+    },
+    {
+      "character": "Player",
+      "line": "Effigy, I need a word with you."
+    },
+    {
+      "character": "Effigy",
+      "line": "You've killed it?"
+    },
+    {
+      "character": "Player",
+      "line": "Not quite..."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Boo."
+    },
+    {
+      "character": "'Transmute' The Alchemist",
+      "line": "Oh no, look!"
+    },
+    {
+      "character": "'Currency' The Alchemist",
+      "line": "Arrghhh! Have mercy!"
+    },
+    {
+      "character": "Effigy",
+      "line": "You set it free. Oh, please don't hurt me!"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Hahaha."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Me not hurt. Now tell. What you plans? What you do with me?"
+    },
+    {
+      "character": "Effigy",
+      "line": "Please, we just wanted to experiment. We wanted to create life. There's a dungeon under the tower. Long ago we found a strange source of energy that we believe was left behind by the great Guthix. He used to"
+    },
+    {
+      "character": "Effigy",
+      "line": "create life with such ease. We realised we should be able to use this powerful substance, but we needed to bring together our magic along with the logical construction of the builders. It seemed through our experiments that"
+    },
+    {
+      "character": "Effigy",
+      "line": "even magic needs a certain level of rules and laws to work."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Bad play with. Naughty men. Go! Go, never return!"
+    },
+    {
+      "character": "Effigy",
+      "line": "Right away, right away!"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Me look dungeon,. Please meet there."
+    },
+    {
+      "character": "Player",
+      "line": "This place is bizarre!"
+    },
+    {
+      "character": "Homunculus",
+      "line": "Me do know. Pleased you rescue."
+    },
+    {
+      "character": "Player",
+      "line": "My pleasure. So what is this place?"
+    },
+    {
+      "character": "Homunculus",
+      "line": "They use essence of Guthix power. Create tower pump this from ground. Make me with godly power. Dangerous."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear, but you're okay now. You have this place to reside in."
+    },
+    {
+      "character": "Homunculus",
+      "line": "Thrank you. For reward you speak me, I makes monsters."
+    }
+  ],
+  "characters": [
+    {
+      "name": "'Black-eye'",
+      "description": "Middle-aged male, British working-class accent, gruff and tough tone. A scrappy builder known for getting into fights, with a dark sense of humor about workplace injuries."
+    },
+    {
+      "name": "'Currency' The Alchemist",
+      "description": "Middle-aged male, British accent, greedy and materialistic tone. An alchemist obsessed with gold and monetary value who funded the Tower of Life but shows callous disregard for the Homunculus."
+    },
+    {
+      "name": "'Gummy'",
+      "description": "Middle-aged male, British working-class accent, grumpy and dismissive tone. A toothless builder who is irritable and evasive, reluctantly helping only when pressed."
+    },
+    {
+      "name": "'No fingers'",
+      "description": "Middle-aged male, British working-class accent, casual and matter-of-fact tone. A builder who lost his fingers in an accident and had them replaced with magic wood, now paranoid about losing his boots."
+    },
+    {
+      "name": "'The Guns'",
+      "description": "Young adult male, British working-class accent, slow and strained speech from constant exertion. A muscular builder obsessed with weightlifting who grunts between words while doing reps."
+    },
+    {
+      "name": "'Transmute' The Alchemist",
+      "description": "Middle-aged male, British accent, dismissive and condescending tone. An ambitious alchemist who dreams of creating something from nothing, showing cold scientific detachment toward the Homunculus."
+    },
+    {
+      "name": "Bonafido",
+      "description": "Middle-aged male, thick Cockney accent, friendly but principled tone. The chief builder who speaks with heavy slang and contractions, acting as a moral gatekeeper who tests the player's builder attitude."
+    },
+    {
+      "name": "Effigy",
+      "description": "Middle-aged male, British upper-class accent, theatrical and verbose tone. An overly enthusiastic alchemist who speaks in flowery language and overuses adjectives, hiding darker ambitions beneath his charming exterior."
+    },
+    {
+      "name": "Homunculus",
+      "description": "Ageless genderless creature, deep gravelly voice, broken and pained speech pattern. A newly created being speaking in fragmented sentences, initially suffering and confused but growing wiser after receiving help."
+    }
+  ]
+}

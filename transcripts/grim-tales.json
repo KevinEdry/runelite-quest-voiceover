@@ -1,0 +1,2360 @@
+{
+  "branch": "quest/grim-tales",
+  "quest_name": "Grim Tales",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there. My name's."
+    },
+    {
+      "character": "Sylas",
+      "line": "Ahhh, good day young adventurer. I can't stop to talk right now I'm afraid."
+    },
+    {
+      "character": "Sylas",
+      "line": "Ahhh, good day young adventurer. A good day indeed! Sylas is the name. It is lucky for you that you met me."
+    },
+    {
+      "character": "Player",
+      "line": "Why, what do you mean?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Well it just so happens, that I have something you simply must have!"
+    },
+    {
+      "character": "Player",
+      "line": "Really? What is it?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Beans, my friend! Beans!"
+    },
+    {
+      "character": "Player",
+      "line": "Why would I want beans exactly? I mean, beans are good, of course, but I'm pretty sure I can get them anywhere."
+    },
+    {
+      "character": "Sylas",
+      "line": "Ahhh, but not beans like this, young. No, not at all! These are 'magic' beans."
+    },
+    {
+      "character": "Player",
+      "line": "Ok then. So what do they do exactly?"
+    },
+    {
+      "character": "Sylas",
+      "line": "An excellent question! Excellent indeed! What do they do? What do they do? Yes, yes! A most excellent question!"
+    },
+    {
+      "character": "Player",
+      "line": "O...kay. So, are you going to tell me what they do?"
+    },
+    {
+      "character": "Sylas",
+      "line": "You must plant them in the ground. Water them well. Then the magic will work, it's...er...magic...yes! Plant them,."
+    },
+    {
+      "character": "Player",
+      "line": "So, can I have the beans then?"
+    },
+    {
+      "character": "Sylas",
+      "line": "All in good time, my excitable young friend. All in good time."
+    },
+    {
+      "character": "Sylas",
+      "line": "Few things in this world are free, you know, and beans - magical or otherwise - are no exception!"
+    },
+    {
+      "character": "Player",
+      "line": "So, how much gold do you want for the beans, if I decide to buy them?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Ah, well you see now I am a collector of rare and unusual trinkets and objects. Not much in value, but very important to me."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see. Ok then."
+    },
+    {
+      "character": "Sylas",
+      "line": "Right, well I think that for magic beans, I will need something magical back and I know of just the right items that would help my collection."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so if I get these items, you will trade them for the beans. Is that right?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes! Excellent! You do catch on quick! I can see that we will become great business partners indeed. Oh, yes. Yes indeed! Hmm-ha! Yes."
+    },
+    {
+      "character": "Player",
+      "line": "What items do you need me to find then - assuming I still want those beans of course. Not that I do, but I might."
+    },
+    {
+      "character": "Sylas",
+      "line": "Well, there are two. The first item should be nice and simple for you to get for me. I want a griffin feather. Now, this is not just any feather, this one is special."
+    },
+    {
+      "character": "Player",
+      "line": "What's so special about it?"
+    },
+    {
+      "character": "Sylas",
+      "line": "There is a griffin named Grimgnash who lives in a nest on one of the peaks of White Wolf Mountain. It is one of his feathers that I want."
+    },
+    {
+      "character": "Sylas",
+      "line": "But although this task should be easy, you must be careful. Grimgnash has a very bad temper and even sharper claws!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks for the advice."
+    },
+    {
+      "character": "Player",
+      "line": "What do you need the feather for?"
+    },
+    {
+      "character": "Sylas",
+      "line": "I told you,. It is for my collection of magical items and trinkets, weird and wonderful thereof."
+    },
+    {
+      "character": "Player",
+      "line": "Thereof?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes, I was quite happy with that word. I think it went rather well in that last sentence, don't you?"
+    },
+    {
+      "character": "Player",
+      "line": "I guess. If you say so."
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes. Excellent! Yes. Now...er...was there anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "How do I find Grimgnash again?"
+    },
+    {
+      "character": "Sylas",
+      "line": "When he's not chewing on some poor soul's bones or raining terror on an unsuspecting village, he can be found in his nest, atop White Wolf Mountain."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me...say what now? He chews people's bones? I thought you said this was an easy task?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Oh, I daresay he has to eat sometimes. But I don't think he'd take too much fancy for you. Not much meat on you at all. Oh dear me, no!"
+    },
+    {
+      "character": "Player",
+      "line": "You know, I'm not sure that was even a compliment."
+    },
+    {
+      "character": "Sylas",
+      "line": "I'm sure it was meant to be! Don't worry, you'll be fine. Now was there anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "What's the other item I need to find?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Right, well, the second item is this. I know of a dwarf named Rupert the Beard who has a very fine dwarven helmet. I'd like you to see if you can obtain it for me."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. Where can I find him?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Travel north-east from here and between the Goblin Village and Ice Mountain you will find Rupert in a tower there."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, that seems simple enough. I'll get the helmet for you as well."
+    },
+    {
+      "character": "Sylas",
+      "line": "Excellent! Yes, yes. Now was there anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any weird items in your collection?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Haha! Weird items? Oh yes. Yes indeed! Yes. Many items. Many items. Yes."
+    },
+    {
+      "character": "Player",
+      "line": "Umm...I see. Well, can you tell me about any of them?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Hmm. Well let's see now. I have the second eye of a mutant two-eyed cyclops. That was a rare find indeed! And at a tidy price too!"
+    },
+    {
+      "character": "Player",
+      "line": "A two-eyed cyclops? Uh...wouldn't that be a normal giant perhaps?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Whatever do you mean? How many mutant two-eyed cyclops do you think there are out there? Not many, I'd wager!"
+    },
+    {
+      "character": "Player",
+      "line": "Umm...no, I guess not. Well, what else do you have?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Ah, well I'm glad you asked. My most prized possession to date: Through my connections, I managed to acquire a horn-less Unicorn!"
+    },
+    {
+      "character": "Player",
+      "line": "Really? That's amazing! A unicorn without a horn?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes. Yes indeed! Indeed yes! And I'm very proud of it, too! It was an exceptionally lucky find, I must say!"
+    },
+    {
+      "character": "Player",
+      "line": "I expect so. Well, on to other things for now then, I guess."
+    },
+    {
+      "character": "Sylas",
+      "line": "Of course. Was there anything else you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "I should be off, I think."
+    },
+    {
+      "character": "Sylas",
+      "line": "Excellent, excellent! Best of luck then, my friend. I'll be right here waiting for you to return."
+    },
+    {
+      "character": "Player",
+      "line": "I have a question or two I would like to ask you."
+    },
+    {
+      "character": "Sylas",
+      "line": "Of course. Go ahead."
+    },
+    {
+      "character": "Player",
+      "line": "Uh...hello?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Human? Human come to Grimgnash? Grimgnash pleased! Grimgnash hungry!"
+    },
+    {
+      "character": "Player",
+      "line": "No, wait! I didn't come to be eaten!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What human come for then? Grimgnash tired and hungry. Be quick, human. Answer Grimgnash before Grimgnash eats your legs!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...uh..."
+    },
+    {
+      "character": "Player",
+      "line": "I heard you were a great and mighty Griffin!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Hah! Human hears right about Grimgnash! Grimgnash great and mighty griffin!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Now what human want? Grimgnash tired and can't sleep. Wolves make awful howling racket. Keep Grimgnash up all night."
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps I can help you get to sleep in some way. Is there anything I can do?"
+    },
+    {
+      "character": "Player",
+      "line": "I have come for your magic feather!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash's feather? Human come to steal feather? How dare human! Puny, scrawny little morsel! Grimgnash should eat human where human stands!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any quests for me?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Quests? Quests? Human morsel wants a quest from Grimgnash? Human think Grimgnash is drunken dwarf or lazy ork? Grimgnash not gives quests!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash tired and hungry and will eat little bite-size human!"
+    },
+    {
+      "character": "Player",
+      "line": "Argh!"
+    },
+    {
+      "character": "Player",
+      "line": "Look what I've got!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grargk! Grimgnash not care for stupid human things! Grimgnash hungry!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Human toothpick dares to approach Grimgnash again after what human just say? Why human disturb Grimgnash? Human have death wish?"
+    },
+    {
+      "character": "Player",
+      "line": "No, wait! I was wondering if perhaps I could help you at all. You said you couldn't sleep. Is there anything I can do?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Human help Grimgnash sleep? This good. Grimgnash let human help."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. What can I do?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Hmm. When Grimgnash little grifflet, Grimgnash's mother-griff used to tell bedtime story to Grimgnash. That always help Grimgnash sleep."
+    },
+    {
+      "character": "Player",
+      "line": "So you want me to tell you a bed-time story, is that right?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Yes! Grimgnash like stories!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, well I'm sure that shouldn't be too hard. I know lots of stories!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Good. Grimgnash like stories. Lots of death and fire and destruction! Grimgnash ready!"
+    },
+    {
+      "character": "Player",
+      "line": "Death and fire?...ok then. Let me see..."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "And make story good. Otherwise, if no sleep, Grimgnash more hungry!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok!"
+    },
+    {
+      "character": "Player",
+      "line": "There once was a graveyard filled with undead."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Graveyard is good place for story. Is undeads all horrible and ugly?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...yes...yes I suppose they could be."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash like this story. Go on. Go on."
+    },
+    {
+      "character": "Player",
+      "line": "There lived a skeleton named Grimgnash."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash? That Grimgnash's name! Not stupid skeleton's name! How skeleton have Grimgnash's name?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, wait! Sorry! I got that bit wrong there. I was thinking of your name. My mistake! What I meant was..."
+    },
+    {
+      "character": "Player",
+      "line": "There lived a skeleton named Skullrot."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Oh yes! Skullrot. That great name! Grimgnash like that name. Maybe Grimgnash call himself Grimgnash Skullrotter? What human think?"
+    },
+    {
+      "character": "Player",
+      "line": "I...er..I'm sure nobody would disagree with you."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Yes. Grimgnash Skullrotter. Grimgnash like that very much. What happens next? This good story...for human."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot was happy!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Why Skullrot happy?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...he was happy because...er...he was dead?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Because he dead? That stupid. How someone happy if they dead? Stupid human tell stupid story! Raaargh!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot was sad!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Sad? Why he sad?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...I guess because he was...er...dead?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What human mean, dead? How Skullrot dead if he alive and walking around? That stupid!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't think you understand what a skeleton is, exactly..."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Now human call Grimgnash stupid? Human is stupid! Human is tasty morsel! Grimgnash likes tasty morsels!"
+    },
+    {
+      "character": "Player",
+      "line": "Argh...!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot was angry!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What Skullrot angry about?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...he was angry because...er...he had a headache?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "A headache? That daft idea. Skeletons have nothing in head to ache. Grimgnash think human is making story up. Not real story like mother-griff used to tell."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash just eat human instead!"
+    },
+    {
+      "character": "Player",
+      "line": "Oww!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot was insane!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Yes, insane! Grimgnash like that word! Grimgnash mother always say Grimgnash's daddy insane. Grimgnash's daddy eat own claws. Grimgnash laughed."
+    },
+    {
+      "character": "Player",
+      "line": "That's...lovely. Uh...shall I continue?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Yes! Grimgnash liking this story now! Go on!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, then. So Skullrot was completely insane. He was off his rocker. One noodle short of a bowl of spaghetti. Not quite all there."
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, he was out haunting his graveyard one day when he came across a small gnome."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash not like gnomes. They stringy and chewy and they not have much meat for Grimgnash's belly."
+    },
+    {
+      "character": "Player",
+      "line": "Uh, I'm sorry to hear that. Anyway, this poor gnome had somehow got his foot stuck under a fallen gravestone."
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot lifted the gravestone off."
+    },
+    {
+      "character": "Player",
+      "line": "And the gnome ran away as quick as his little feet could carry him."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What?! Gnome snack gets away? That dumb. How Skullrot eat? Stupid human can't tell good story!"
+    },
+    {
+      "character": "Player",
+      "line": "No, wait...!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot left the gnome there to die."
+    },
+    {
+      "character": "Player",
+      "line": "So the gnome, thinking this was his chance, found a log to lever the stone off his foot and he scarpered away quickly."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What?! Gnome snack gets away? That stupid. That not good story! Grimgnash only feel more hungry now!"
+    },
+    {
+      "character": "Player",
+      "line": "No, wait, I got it wrong! Wait...!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot laughed at the gnome."
+    },
+    {
+      "character": "Player",
+      "line": "In fact, he laughed so hard that he fell backwards into an empty grave and was never seen again. The end."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Graah! That good stor...wait. What happen to gnome?"
+    },
+    {
+      "character": "Player",
+      "line": "Eh? Oh, uh...well without Skullrot there he was able to get himself free again and ran away, vowing never to return to the graveyard ever again."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What?! Little bite-size gnome runs away? That not good ending! Gnome should be mashed by something like...something like Grimgnash! Stupid human get eaten now!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot hungrily grabbed the gnome's hair."
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot wrenched the gnome out with one hand, pulling hard on his hair. The poor gnome's foot snapped out of the gravestone and went crack as his foot dislocated!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Raahahaha! Stupid gnome! Serves gnome right for being stringy and chewy! What happen next?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, the poor gnome - Nobby was his name - was in terrible pain and fear as to what would happen to him next."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash not care what gnome's name is. Grimgnash not give food names. Does human call a carrot Jasper or something? Tell rest of story!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, ok. Anyway, the gnome was in awful pain, so Skullrot took him back to his home in his grave where he..."
+    },
+    {
+      "character": "Player",
+      "line": "Locked him in an iron cage."
+    },
+    {
+      "character": "Player",
+      "line": "Luckily, the bars were built for a human sized person and so the gnome quickly slipped through them and ran - painfully - out the door."
+    },
+    {
+      "character": "Player",
+      "line": "The gnome headed straight out the graveyard, glad to still be alive and never wanting to return."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Stringy gnome gets away? Stupid human make Grimgnash more hungry with story like that!"
+    },
+    {
+      "character": "Player",
+      "line": "No, stop! Arrgh...!"
+    },
+    {
+      "character": "Player",
+      "line": "Put him into a pot for dinner."
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot was making a stew and had decided that the gnome would taste wonderful in it."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Ah! Grimgnash likes gnome stew. Just like Grimgnash used to eat at home. Mmmm!"
+    },
+    {
+      "character": "Player",
+      "line": "However, Skullrot had filled the pot up too much, and so while the skeleton's back was turned, the gnome swam to the edge of the pot and up, over the side."
+    },
+    {
+      "character": "Player",
+      "line": "With a little shout of glee, the gnome hopped on one leg straight out of the door and fled as fast as his little foot could hop him!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Gnome gets away? What kind of story that? Grimgnash think he eat human now!"
+    },
+    {
+      "character": "Player",
+      "line": "Started to strangle the poor gnome."
+    },
+    {
+      "character": "Player",
+      "line": "The gnome struggled with the cold boney fingers that were trying to end his life until he managed to pry himself free!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Ohhh! This getting good! Grimgnash like this. (Yawn!) Grimgnash feels sleepy."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, it was all the little gnome could do to crawl painfully across the floor away from Skullrot, who was busy getting a pot to put the gnome in."
+    },
+    {
+      "character": "Player",
+      "line": "Then, when all seemed lost for the little gnome, he suddenly saw something that might save his little life!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grargh! What? What? What little gnome see? He must not escape! Grimgnash hungry to think of it!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, ok! Don't worry, we're almost done."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grmmm. Good. Grimgnash getting sleepy...(yawn)."
+    },
+    {
+      "character": "Player",
+      "line": "So, then. The gnome looked up and he saw what might be his best chance to get out alive!"
+    },
+    {
+      "character": "Player",
+      "line": "He saw a hole he could just fit through."
+    },
+    {
+      "character": "Player",
+      "line": "As he crawled forward two yellow slitted eyes appeared in the gloom before him. He froze in fear!"
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot did not get his dinner that night, but something else...something much worse...did. The end."
+    },
+    {
+      "character": "Player",
+      "line": "So what did you think, Grimgnash?"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Zzzzzz....zzzz....zzz..."
+    },
+    {
+      "character": "Player",
+      "line": "He saw a big axe leaning on the wall."
+    },
+    {
+      "character": "Player",
+      "line": "He crawled painfully, oh so painfully over to the axe. He could use it to kill Skullrot."
+    },
+    {
+      "character": "Player",
+      "line": "As he grasped the axe he realised it was a lot heavier than it looked! In fact much heavier indeed! He couldn't hold it or stop it falling off the wall!"
+    },
+    {
+      "character": "Player",
+      "line": "SCHNUNK!!"
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What happened? Human tell Grimgnash!"
+    },
+    {
+      "character": "Player",
+      "line": "As the axe fell, the poor gnome could not get out of the way in time and the razor sharp blade fell CRACK! And it killed him instantly."
+    },
+    {
+      "character": "Player",
+      "line": "And so Skullrot was pleased to find that he had a nice dinner for that night and sat down for a big supper! The end."
+    },
+    {
+      "character": "Player",
+      "line": "What did you think, Grimgnash?"
+    },
+    {
+      "character": "Player",
+      "line": "He saw some bones lying in the corner."
+    },
+    {
+      "character": "Player",
+      "line": "He quickly remembered that if he buried them he could get his prayer up and so might be able to cast a heal spell on his legs!"
+    },
+    {
+      "character": "Player",
+      "line": "He dragged his painful body over to the bones and buried them all - there was quite a large pile - in the floor."
+    },
+    {
+      "character": "Player",
+      "line": "All of a sudden, he remembered a good spell to heal himself from his injuries. He started to recite the prayer quickly."
+    },
+    {
+      "character": "Player",
+      "line": "Just then, a huge zombie appeared out of nowhere and mumbled something about his bones being disturbed! The zombie crunched his fist down on the gnome's head."
+    },
+    {
+      "character": "Player",
+      "line": "The gnome cried out in terror and realised that all was lost! He could not get away now!"
+    },
+    {
+      "character": "Player",
+      "line": "And so, Skullrot decided to invite the zombie to dinner as he never usually had guests."
+    },
+    {
+      "character": "Player",
+      "line": "Then the two of them laughed and joked merrily throughout the night with their stomachs full of a hearty dinner! The end."
+    },
+    {
+      "character": "Player",
+      "line": "He saw a small sandwich on the floor."
+    },
+    {
+      "character": "Player",
+      "line": "He pulled himself over to it. In his desperation he thought to himself, there's a sandwich here. A sandwich! Maybe the skeleton will eat that instead?"
+    },
+    {
+      "character": "Player",
+      "line": "He quickly grasped the sandwich in his little hands. Strangely, in his panic-stricken state, he noticed that it was long and tubular shaped."
+    },
+    {
+      "character": "Player",
+      "line": "What an odd thing to notice, he thought. And then all of a sudden he heard an almighty voice boom out of nowhere!"
+    },
+    {
+      "character": "Player",
+      "line": "'SANDWICHES!!!'"
+    },
+    {
+      "character": "Player",
+      "line": "'Oi!', said the voice. 'I didn't say you could take that!' And with that, there was an almighty crunch on his little gnome head, and that was the last thing he felt."
+    },
+    {
+      "character": "Player",
+      "line": "Skullrot sat down for the night and had a lovely big dinner, followed by many baguette sandwiches. Not triangle ones, no, no! The end."
+    },
+    {
+      "character": "Player",
+      "line": "Locked the gnome in the attic to die."
+    },
+    {
+      "character": "Player",
+      "line": "Fortunately for the gnome, Skullrot forgot that he lived in a grave, so he didn't have an attic. Instead the gnome was locked outside."
+    },
+    {
+      "character": "Player",
+      "line": "The gnome quickly limped away, glad to still be alive."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Gnome gets away? What kind of story that? Stupid human make Grimgnash more hungry!"
+    },
+    {
+      "character": "Player",
+      "line": "There lived a skeleton named Boney."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Boney? That stupid name for skeleton. Of course he boney. Human think Grimgnash stupid? Human make fun of Grimgnash? Grimgnash think human look better in Grimgnash's belly!"
+    },
+    {
+      "character": "Player",
+      "line": "No wait...I..."
+    },
+    {
+      "character": "Player",
+      "line": "There lived a skeleton named Harry."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "What kind of name Harry for skeleton? That stupid name. How many skeletons called Harry you meet?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh, I've not really..."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Grimgnash think Grimgnash just eat you instead of story!"
+    },
+    {
+      "character": "Player",
+      "line": "There once was a king named Roland."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Gaah! This sound like boring story! Maybe Grimgnash eat you instead, yes?"
+    },
+    {
+      "character": "Player",
+      "line": "What? No! Wait, I got that bit wrong! Sorry. What I meant was..."
+    },
+    {
+      "character": "Player",
+      "line": "There once was a princess named Esmerelda."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Urgh! Grimgnash hate princesses. They bones and no meat. Need eating more, Grimgnash thinks. Speak of eating, Grimgnash maybe eat you instead of story!"
+    },
+    {
+      "character": "Player",
+      "line": "There once was a little bunny called Flumper."
+    },
+    {
+      "character": "Grimgnash",
+      "line": "Bunnies? Bunnies!? Grimgnash hate this story! This story smell worse than Grimgnash's feet. Stupid human tell awful story! Make Grimgnash more hungry than ever!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, Sylas. I have Grimgnash's feather for you."
+    },
+    {
+      "character": "Sylas",
+      "line": "Ah! Good work. Let me take that from you then."
+    },
+    {
+      "character": "Sylas",
+      "line": "I still need you to find Rupert the Beard's Helmet for me."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll get that next."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Excuse me. You can't go in there."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Oh, hello."
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Who am I? Why, how impertinent! I am a princess and I will be spoken to like one. Now be off with you. I have no time for scruffy adventurers like yourself!"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...ok. Never mind then!"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I'm pretty sure I don't want that."
+    },
+    {
+      "character": "Player",
+      "line": "Well it's mine and you can't have it anyway. So there!"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Hey, what's that noise over there? Is someone there? Who's near my tower?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...no...no, nothing to see here. It was just the...er...wind! Yes, the wind."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "I say! Where on Gielinor did that voice come from?"
+    },
+    {
+      "character": "Player",
+      "line": "Uh...hello there! Can you hear me?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Why yes. Yes I can. My word. Is that...is that one of the gods? Guthix perhaps? Saradomin?"
+    },
+    {
+      "character": "Player",
+      "line": "No, no. I'm not either of them."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Egad! You're not...Zamorak...are you? I mean, uh...begging your pardon of course, my Lord. No offence intended!"
+    },
+    {
+      "character": "Player",
+      "line": "Ha ha! No, I'm speaking to you through the pipe here! I'm at the bottom of your tower."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Oh. Oh I see! Oh, yes. How clever! Remarkable idea! However did you think of that? Good show, old bean!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Rupert the Beard. At your service, old fruit."
+    },
+    {
+      "character": "Player",
+      "line": "Rupert the Beard?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Yes, old ogleroot! On account of my wonderfully long bearded chin, you see."
+    },
+    {
+      "character": "Player",
+      "line": "So what are you doing up there exactly? And how come you talk so strangely?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "What am I doing? Well, I guess I'm stuck in a matter of speaking. Dear me, yes! I'm stuck. And I speak in the King's speech, I'll have you know."
+    },
+    {
+      "character": "Player",
+      "line": "Really? Which king?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Which K...? Why, THE King old spud! THE King! Only one worth mentioning in my opinion."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, you're not related to Sir Tiffy by any chance are you?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "What? That namby pamby nincompoop? Not on your nelly! More fluff in the ears than sense, that man!"
+    },
+    {
+      "character": "Player",
+      "line": "I see. Well is there anything I can do to help you up there?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "By Guthix, I know how you can help me!"
+    },
+    {
+      "character": "Player",
+      "line": "Sure. What can I do?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Hey, what's that noise over there? Is someone there?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Ye gods! We can't talk like this anymore. You need to find a way up to speak to me privately, old boot!"
+    },
+    {
+      "character": "Player",
+      "line": "Why? I don't understand what's going on!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "That woman is a princess. She's holding me prisoner. If she sees you I will be in even more trouble and who knows what she'll do to you!"
+    },
+    {
+      "character": "Player",
+      "line": "Right! Let me have a think, then!"
+    },
+    {
+      "character": "Player",
+      "line": "Umm...it's me again.. I'm speaking in the drain pipe, remember?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Drain pi...oh, yes! Of course! Well, hello again old cigar! How great to se...er...hear from you again."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure there must be something I can do to help you up there."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Hmm. Let me think now."
+    },
+    {
+      "character": "Player",
+      "line": "I think I might have an idea!"
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "You there! Young scrub! Was that you making all that noise back there? Well? Speak up now."
+    },
+    {
+      "character": "Player",
+      "line": "Noise? What noise? I didn't hear any noise."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Well I distinctly heard voices at least! In any case, keep away from my tower."
+    },
+    {
+      "character": "Player",
+      "line": "You're not very nice, are you?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I am a princess. I don't have to be nice."
+    },
+    {
+      "character": "Player",
+      "line": "I thought princesses were usually kind and loving and graceful?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Ha! This isn't a fairytale, you know. This is rea...well, it's life!"
+    },
+    {
+      "character": "Player",
+      "line": "I see. Well I think I had better go then."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Yes, and stay away from my dwar...uh...tower!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Jolly good show, old bean! What do you suggest?"
+    },
+    {
+      "character": "Player",
+      "line": "You could try and climb down."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Climb down? What what what? It's miles! People are like little ants from up here...oh wait...no that's just a line of ants on the wall."
+    },
+    {
+      "character": "Player",
+      "line": "It's really not that far."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Tish, posh and nonsense! You and your gangly long legs might be fine, but we dwarves are of shorter, stockier breed, old toothbrush!"
+    },
+    {
+      "character": "Player",
+      "line": "So you won't try it then?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Indeed, definitely and most indubitably not! Think of something else!"
+    },
+    {
+      "character": "Player",
+      "line": "Right..."
+    },
+    {
+      "character": "Player",
+      "line": "I could try and climb up."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Hmm, a worthy endeavour I would say. Possibly with its merits. Yes, indeed. Now how will you get up here?"
+    },
+    {
+      "character": "Player",
+      "line": "I could try and climb the walls."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "I don't know if that would work, old trousers. These walls are made from very smooth and flat stone. Excellent workmanship. Simply excellent."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad you're able to admire the architecture, but you're still stuck up there!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Right you are, old pockets! Keep thinking! These are excellent ideas you're having!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything up there that can help?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Not really, old spoon. There's not much up here except for me and my beard. Ha ha!"
+    },
+    {
+      "character": "Player",
+      "line": "Wait! That's it!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "What's it, old banana?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't believe I'm going to say this, but...Rupert, Rupert, let down your beard!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Eh? Let down my beard? Have you lost it down there, old chum? Going a bit loopy?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I mean hang your beard down over the tower and I'll climb up it, ok?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Ah ha ha! Excellent idea, old tomato! Here it comes then!"
+    },
+    {
+      "character": "Player",
+      "line": "I can fly!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "By Guthix and Saradomin, that's astounding! You are an absolute marvel! Can you really fly?"
+    },
+    {
+      "character": "Player",
+      "line": "Well...er...no, sorry, I made that last bit up!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "I see. Not very sporting in the circumstances, was it?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm, no I guess not. Sorry about that."
+    },
+    {
+      "character": "Player",
+      "line": "There must be something down here that might help."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "I'm afraid I have no idea! It's a long way down as I said, so I can't see much from way up here!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm telling you, it's really not that high."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Lies! Lies! Now can you see anything down there that might help, old chicken?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really, no."
+    },
+    {
+      "character": "Player",
+      "line": "I could ask the princess!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Hang on, old underpants!...you're going to ask the princess to help you climb up this wall to see her prisoner."
+    },
+    {
+      "character": "Player",
+      "line": "You know, on second thought maybe that's not such a good idea after all."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "No, indeed. Indeed, no."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I could try and ask her to let you out, perhaps? You know, get her to listen to reason."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Reason, eh? Hmmm. Well you could give that a try."
+    },
+    {
+      "character": "Player",
+      "line": "I could try speaking to the princess."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Well, I suppose it wouldn't hurt to try, old socks! What would you say?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I could try and get her to listen to reason, I suppose."
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Reason, eh? Hmmm. Well, you could give that a try."
+    },
+    {
+      "character": "Player",
+      "line": "I could kill the princess for you!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "What? Kill the princess?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, she doesn't look so tough!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "What ever has gotten into your head, old war wound? Kill the princess. No, no, no. We don't do that sort of thing round here."
+    },
+    {
+      "character": "Player",
+      "line": "But she's kidnapped you. Surely that makes her evil?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Well, yes of course. In a manner of speaking, yes. But...but that still doesn't give us the right to go around lopping people's heads off because they're not very nice!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "No, there must be another way! Keep thinking!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok..."
+    },
+    {
+      "character": "Player",
+      "line": "But it would have been fun though, wouldn't it? Haha!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Hmmm."
+    },
+    {
+      "character": "Player",
+      "line": "She would never have seen it coming! Blam!"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Yes, I get the idea. Now be a sport and think of a better idea!"
+    },
+    {
+      "character": "Player",
+      "line": "Right!"
+    },
+    {
+      "character": "Player",
+      "line": "Pardon me...?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Yes? Please make it quick, I am waiting for someone."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, really? Who are you waiting for? Maybe I've met them?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "You think so? Ha! Although you'd most likely remember if you had met this person. If you must know, I am waiting for a relative of mine to arrive."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay. Can I ask you something?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Player",
+      "line": "I notice you have a dwarf in the tower here. I was wondering why he is locked in there?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "You are a nosy young person! Well, if you must know, he's in there because I have caught him for someone."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, who's that then?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I am not at liberty to say. In any case, this dwarf was caught spying and snooping and that sort of thing is not taken lightly."
+    },
+    {
+      "character": "Player",
+      "line": "But he seems like a very nice person to me. A bit odd perhaps, but couldn't you let him go?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "No, I don't think so. I will be nicely rewarded for catching him."
+    },
+    {
+      "character": "Player",
+      "line": "Oh go on. Please?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Hmm, well as you asked nicely. Ok then."
+    },
+    {
+      "character": "Player",
+      "line": "Really?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "No! Now please leave. You're annoying me!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello? Rupert?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Eh? What? Oh! You don't have to use that anymore, old spoon! Climb up to speak to me!"
+    },
+    {
+      "character": "Player",
+      "line": "Climb up how?"
+    },
+    {
+      "character": "Drain pipe",
+      "line": "Up my beard of course! It was your idea after all, old spinach."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Aha! You made it. Well done, old sausage!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it was quite a climb, but you have a very strong beard."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Indeed I do. Indeed I do."
+    },
+    {
+      "character": "Player",
+      "line": "So, what can I help you with?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Ah! Straight to the point, eh, what? Good show old carrot, good show. Now let me explain."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "I'm in a bit of a fix right now. You see, the princess down there has this horrible relative who happens to be a witch."
+    },
+    {
+      "character": "Player",
+      "line": "A witch? Let me guess, would this witch be her evil stepmother?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Stepmother? Ho! Good lord, no. No king in his right mind would marry a hag like that! No, this is her evil second-cousin, twice-removed."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Go on."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Right, well a young gnome friend of mine by the name of Winkin recently disappeared whilst delivering ogleroots to the market in Draynor."
+    },
+    {
+      "character": "Player",
+      "line": "Really? What happened to him?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "I don't know exactly, but someone told me he was last seen talking to a witch before he disappeared."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so how can I help?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "My investigations brought me to our friend the princess down there, old pinata. She's related to this witch, as I mentioned. I was...you know...showing a bit of interest in her to get her to give me information."
+    },
+    {
+      "character": "Player",
+      "line": "And then what happened?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "She invited me back to her 'tower', saying she would tell me all I wanted to know, and then as I walked in the door she slammed it shut behind me."
+    },
+    {
+      "character": "Player",
+      "line": "Goodness me! How rude!"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Yes, indeed! Rude indeed! Then, as I was hammering on the door I heard a hissing sound and smelt something strange. The next thing I remember is waking up to find my armour gone!"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "That wench must have taken it!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, let me go and talk to her for you, then."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Excellent! Good show, old spice! Off you go then."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Ahh, you're back. Have you spoken to the princess yet, old mushroom?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, no I haven't had a chance yet. I'll be back when I have."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Right you are then, old chestnut."
+    },
+    {
+      "character": "Player",
+      "line": "Pardon me, your ladyship."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Ah! What nice manners. It's so hard to find decently mannered young people these days. My name is Princess Miazrqa."
+    },
+    {
+      "character": "Player",
+      "line": "Pleased to meet you, Princess Miarz... er... Mizaz... Miquipzi... Marzipan?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Miazrqa. With a silent Q."
+    },
+    {
+      "character": "Player",
+      "line": "That's an unusual name. Where is it from?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "My birth certificate. Now. how can I be of help?"
+    },
+    {
+      "character": "Player",
+      "line": "I see there is an embarrassed-looking dwarf in the tower there."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Yes, that's right. I'm waiting for him to be collected by someone."
+    },
+    {
+      "character": "Player",
+      "line": "Your first-cousin, once removed?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "No. You shouldn't guess answers like that. It's not very becoming. She is my second-cousin, twice removed and she is also a very powerful witch who could turn you into something nasty!"
+    },
+    {
+      "character": "Player",
+      "line": "Gosh! Sorry, please continue."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Now as I was saying, my second-cousin, twice-removed is coming to collect the dwarf. She will find out why he's been snooping around. She has most...persuasive methods."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's actually why I came to speak with you. I was wondering if you couldn't let Rupert go? He's a nice fellow and I can't think he'd have done anything wrong."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Ha! That won't matter to my cousin. She values her privacy above all else, you see."
+    },
+    {
+      "character": "Player",
+      "line": "Surely there must be something that will change your mind? Is there anything you want?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Hmmm...well I suppose there is something you can do for me that might make me change my mind."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, what's that?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I was at my second-cousin's house just the other day when I suddenly dropped a very valuable pendant that I was wearing. The chain must have broken, you see."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, go on."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Well, no sooner had it touched the ground when all of a sudden a mouse ran out from a hole in the wall. It took my pendant in its teeth and disappeared back inside its hole."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "As I'm sure you will believe, I was most upset as the pendant was a gift from my mother. I simply must get it back somehow."
+    },
+    {
+      "character": "Player",
+      "line": "So you would like me to find it for you?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Oh, yes please! It means so much to me. If you are able to find the pendant for me, I will let your dwarf friend go."
+    },
+    {
+      "character": "Player",
+      "line": "Very well. I will find it for you."
+    },
+    {
+      "character": "Player",
+      "line": "Where is your second-cousin's house?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "It's not far to the west of here, in Taverley village. It has a beautiful long garden - you can't miss it!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey! I do know that house! I rescued some little kid's ball from there!"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "That was you? Oh, my cousin was absolutely furious when she found out about that! She went on about it for ages and even made her hair turn a quite ghastly green colour!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Well I suggest you be extra careful when you look for my pendant then."
+    },
+    {
+      "character": "Player",
+      "line": "What does your pendant look like?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "It's a lovely gold pendant."
+    },
+    {
+      "character": "Player",
+      "line": "Is it particularly valuable?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Only to me really. It's not worth much and isn't magical, but it has a lot of sentimental value. It was my mother's pendant. She gave it to me on my tenth birthday."
+    },
+    {
+      "character": "Player",
+      "line": "Where are you the princess of exactly?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I am the daughter of a great and powerful king. In a land far, far away."
+    },
+    {
+      "character": "Player",
+      "line": "How far, exactly?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Far, far."
+    },
+    {
+      "character": "Player",
+      "line": "Oh. What's the place called?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Asgarnia."
+    },
+    {
+      "character": "Player",
+      "line": "Asgarnia? Aren't we in Asgarnia?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Well...yes. I suppose, but that doesn't mean it's not far, far away from somewhere else."
+    },
+    {
+      "character": "Player",
+      "line": "Uh...I see."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I am the great niece of King Vallance himself."
+    },
+    {
+      "character": "Player",
+      "line": "How impressive!"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Yes, it is, isn't it? Now was there anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "I need a key for the house."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Of course. You may have one of my spare keys."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks very much."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Don't be silly. You have one already in your bag. Goodness me, how ever will you find my pendant with a memory like that?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, yes. Sorry."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Very well. Good luck with finding my pendant."
+    },
+    {
+      "character": "Player",
+      "line": "Your second-cousin, once removed?"
+    },
+    {
+      "character": "Player",
+      "line": "Your first-cousin, twice removed?"
+    },
+    {
+      "character": "Player",
+      "line": "Your second-cousin, twice removed?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Why, yes! That was a very clever guess indeed! She's actually a very powerful witch. Now allow me to reward you in some way as I am feeling generous."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "As I said, my cousin is a witch but she is also a lover of music. She has a lovely gramophone and she keeps a piano in her basement - why? I have no idea - but you may find it interesting to examine."
+    },
+    {
+      "character": "Player",
+      "line": "What's so special about it? I've seen pianos all over the place."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I don't really know. I know my cousin goes on about that piano a lot, but I've played on it many times and I can't figure out why she likes it so much."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thank you for that...er...useful knowledge."
+    },
+    {
+      "character": "Player",
+      "line": "Please can you repeat that last bit? A flock of noisy birds flew overhead there and I couldn't hear you."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "I see. How ghastly. Let me continue."
+    },
+    {
+      "character": "Player",
+      "line": "I just have another question before I look for your pendant."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "If you must, but you are wasting time."
+    },
+    {
+      "character": "Player",
+      "line": "Hi Rupert."
+    },
+    {
+      "character": "Rupert",
+      "line": "Ah! Welcome back, old curtains! How did it go with the old princess down there? Did she agree to let me out?"
+    },
+    {
+      "character": "Player",
+      "line": "Sort of. She's asked me to do something for her first."
+    },
+    {
+      "character": "Rupert",
+      "line": "Oh, right. What was it then, old parrot?"
+    },
+    {
+      "character": "Player",
+      "line": "I have to find a gold pendant of hers that she lost in that witch's house in Taverley."
+    },
+    {
+      "character": "Rupert",
+      "line": "By all the gods! You have to go in there? You must be careful,. She's a wily one that witch, from what I've heard. No doubt there's all sorts of weird magics over there!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry. I'll be careful. I've been in there once before, so I know what's there."
+    },
+    {
+      "character": "Rupert",
+      "line": "You've been in there? Goodness me! What did you see? Did you see a gnome in there anywhere?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think so. I'm sure I would have remembered. I was looking for a ball for a boy who had lost it in the witch's garden."
+    },
+    {
+      "character": "Rupert",
+      "line": "Hmm, he was probably lucky that was all he lost with all that weird magic going on, eh?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, quite. I'll see what I can find out though."
+    },
+    {
+      "character": "Rupert",
+      "line": "Ah! Good show, old kebab! I'll wait here for you. But don't be long. Who knows what that princess will do to me next!"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Ah!, old pantaloons! Good to see you, good to see you. What news?"
+    },
+    {
+      "character": "Player",
+      "line": "Princess Miazrqa has agreed to free you."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Princess Marzipan, eh? What a mouthful."
+    },
+    {
+      "character": "Player",
+      "line": "Miazrqa. It's a silent Q."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Ah, I see. Good show. Say, did you find out anything about my missing friend?"
+    },
+    {
+      "character": "Player",
+      "line": "I did, I think. But it's not good news. The witch has your friend locked up in a cage, down under the house itself."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Good gods! That's awful! I won't have all this kidnapping nonsense! And to think we're supposed to be a civilised land!"
+    },
+    {
+      "character": "Player",
+      "line": "What will you do?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "I'll think of something. In the meantime, you still need to get me out of here. Maybe you should see if Miazrqa is ready to let me out."
+    },
+    {
+      "character": "Player",
+      "line": "Right. I'm on it!"
+    },
+    {
+      "character": "Player",
+      "line": "I found your pendant, Princess Miazrqa!"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Oh, how wonderful! I'm so grateful."
+    },
+    {
+      "character": "Player",
+      "line": "Umm, your second-cousin has some very strange...creatures she keeps."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Oh yes. Those are her little darlings. I shudder to think what she might do if something were to happen to any of them."
+    },
+    {
+      "character": "Player",
+      "line": "Uh... Really?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Oh yes. Why, only last month one of them got out for a wander and some horrid farmer attacked it with his ear!"
+    },
+    {
+      "character": "Player",
+      "line": "With his ear?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Indeed! Tried to choke the poor thing with it. Anyway, my cousin went into a frightful rage and turned that wretched farmer into one of his own chickens. We had a lovely roast meal that day. Happy memories..."
+    },
+    {
+      "character": "Player",
+      "line": "I think I feel a little ill..."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Oh dear, I hope you're not coming down with something."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Now, can I have the pendant please?"
+    },
+    {
+      "character": "Player",
+      "line": "Will you agree to let Rupert go free?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Of course. The pendant means more to me than anything."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "By Saradomin! My armour was on the stairs up there!"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "That's better!"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Aha! Sweet freedom! It's good to be alive, old sweet shop! Thank you for freeing me,."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Thank you,. You've done a great service for me and all the dwarves and gnomes."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just happy I could help...hey! What happened to your long beard? Where did it go?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Hah! Don't fret, old penny whistle! It's still here. The front of my armour was specially crafted to allow my beard to fold up inside. Do you see?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes! I can see it now. That's pretty clever!"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Indeed it is, old cheese! Now allow me to reward you in some way. All I have is my armour, but you are welcome to take any piece of it that you wish."
+    },
+    {
+      "character": "Player",
+      "line": "Please could I have the helmet?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Of course, of course. Here you go, old pumpkin."
+    },
+    {
+      "character": "Player",
+      "line": "So what will you be doing now, Rupert?"
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Thanks to you I can carry on my investigations. Good show, old brussels sprout!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad I could help."
+    },
+    {
+      "character": "Player",
+      "line": "Princess Miazrqa, I found out what your cousin is up to."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Really? You know, I have always wondered. She's ever so secretive and never tells me anything. I was hoping she might tell me when I saw her next."
+    },
+    {
+      "character": "Player",
+      "line": "So you didn't know that she kidnaps poor defenceless gnomes?"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "What?! Never! That's absolutely awful! How could she? Oh, that's just so...so...mean!"
+    },
+    {
+      "character": "Player",
+      "line": "I thought so too."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "It's quite hard to believe. Do you have any proof?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. There is a gnome in her basement right now!"
+    },
+    {
+      "character": "Miazrqa",
+      "line": "How horrid! Well, when I see her I will tell her exactly what I think. Thank you for telling me all this,."
+    },
+    {
+      "character": "Player",
+      "line": "You know, Rupert - the dwarf here - is trying to put a stop to what is going on. I am sure he could use your help."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Really? You may tell him that I will help him in any way I can."
+    },
+    {
+      "character": "Player",
+      "line": "Great! Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Rupert, I told Miazrqa about what the witch was doing and she was horrified by it."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "I'm not surprised, old kiwi. It's a pretty ghastly business with all this kidnapping gnomes and dwarves."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Miazrqa has said she would like to help you with your investigations and that you can use this tower as your base of operations if you want."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "Really? That's just fantastic! You are certainly full of surprises,. Good show!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I had better be going for now. Good luck."
+    },
+    {
+      "character": "Rupert the Beard",
+      "line": "And to you, my friend. And to you."
+    },
+    {
+      "character": "Miazrqa",
+      "line": "Thanks again for finding my pendant. I felt so lost without it."
+    },
+    {
+      "character": "Player",
+      "line": "You're welcome. Goodbye."
+    },
+    {
+      "character": "Player",
+      "line": "I managed to get Rupert's helmet for you."
+    },
+    {
+      "character": "Sylas",
+      "line": "Excellent, ! I'll take that as well. I hope all this work wasn't too difficult."
+    },
+    {
+      "character": "Player",
+      "line": "Difficult? You have no idea! There were huge creatures trying to eat me, other creatures trying to tear me apart, witches, gnomes in distress, princesses, and I had to deal with them all!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Goodness me! I'm glad I sent you instead of going myself."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Er...I mean...I knew sending you was the right thing to do. I was sure you could handle anything that came up. Now then, the beans..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, that's what all this was about wasn't it? Some beans! They must be worth a lot for this much trouble!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Actually, the beans are almost worthless."
+    },
+    {
+      "character": "Player",
+      "line": "Worthless? So why did I go to all of this trouble for you? I'm not particularly happy about that."
+    },
+    {
+      "character": "Sylas",
+      "line": "Calm down, my young, hot-headed friend. There was a good reason for getting these beans."
+    },
+    {
+      "character": "Sylas",
+      "line": "Now that you have proven yourself worthy of being a competent and trustworthy treasure collector, I can tell the real use for the beans."
+    },
+    {
+      "character": "Sylas",
+      "line": "As I said before, these beans are magical. There is a specially prepared mound of earth to the south-east of Taverley."
+    },
+    {
+      "character": "Sylas",
+      "line": "Plant the beans there and then be sure to water them well. You will need to have some knowledge of farming for this."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so then what do I do?"
+    },
+    {
+      "character": "Sylas",
+      "line": "When the beans are planted and watered, they will grow into an enormous plant of some sort. I'm not sure what exactly. At the top of this plant is our prize."
+    },
+    {
+      "character": "Player",
+      "line": "Our prize? What exactly is this prize?"
+    },
+    {
+      "character": "Sylas",
+      "line": "The ultimate collectible item, my dear friend. It is rumoured that in a land of clouds where none dare to tread lest they plummet to the earth, lies a goblin made of gold..."
+    },
+    {
+      "character": "Player",
+      "line": "A golden goblin?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes. Yes, indeed! A golden goblin. Legend tells of a time when goblins discovered gold in an abandoned dwarf mine and began to mine and smelt it. What for, nobody knows. Something evil, I'd wager."
+    },
+    {
+      "character": "Sylas",
+      "line": "The goblins produced great smelting works, overseen by a particularly smart goblin with a head for business. Gubblebak was his name. He was shrewd, cunning and he loved gold..."
+    },
+    {
+      "character": "Sylas",
+      "line": "He worked his fellow goblins day and night to produce more and more gold, until finally they could stand his hard labour no more and they mutinied."
+    },
+    {
+      "character": "Player",
+      "line": "They mutinied?"
+    },
+    {
+      "character": "Sylas",
+      "line": "That's right. They turned on him. No-one is sure about the exact events, but somehow Gubblebak fell into one of the smelting pots of liquid gold."
+    },
+    {
+      "character": "Player",
+      "line": "That's horrible! Was he killed?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Well now, goblins are tough little creatures and he managed to somehow crawl out of the pot covered in hot, molten gold."
+    },
+    {
+      "character": "Sylas",
+      "line": "He was smart indeed, but even smart people do foolish things. He threw himself into a nearby water trough."
+    },
+    {
+      "character": "Player",
+      "line": "But surely that's what anyone would have done? Why is that a bad thing?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Ahh, well you see...when you take hot liquid metal and cool it instantly, it becomes rock hard straight away. That's how blacksmiths make their weapons and armour."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see. So Gubblebak became hard as a rock?"
+    },
+    {
+      "character": "Sylas",
+      "line": "That's right. And that's the way he stayed ever afterwards. So the legend says, at least. And the cloud area will be waiting for you when you have planted the beans to find this golden goblin."
+    },
+    {
+      "character": "Player",
+      "line": "So let me see if I have this straight."
+    },
+    {
+      "character": "Player",
+      "line": "I need to plant the beans in an earth mound south-east of here, water them, let them grow into some big plant and then climb the plant to get to a cloudy area, find a golden goblin and bring it back to you?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Exactly right! You've got it. Now did I mention about the giant?"
+    },
+    {
+      "character": "Player",
+      "line": "The...giant?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes, that's right. The giant."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm pretty sure you didn't mention any giants! What giant? Now would be a good time to mention it if you were going to!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Oh right, sorry. Must have slipped my mind. There's a bit of a large-ish giant up there. Uh...shouldn't be anything to worry about. But...uh...I think he might have the goblin, you see."
+    },
+    {
+      "character": "Player",
+      "line": "So how exactly do I get the goblin then?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Well, you're probably going to have to kill him for it. But...but a big strong adventurer like yourself shouldn't have any trouble whatsoever with that, I'm sure!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Here are the beans as promised."
+    },
+    {
+      "character": "Player",
+      "line": "Ok then, to recap. I need to plant the beans over there, water them, let them grow into some big plant, climb the plant to get to a cloudy area, kill a giant, find a golden goblin and bring it back to you?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Oh, well done! You do pay attention! Good luck!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks...I think I'm going to need it."
+    },
+    {
+      "character": "Sylas",
+      "line": "So then. Do you want to run through what you need to do for me again?"
+    },
+    {
+      "character": "Player",
+      "line": "Ok then, to recap: I need to plant the beans, water them, let them grow into some big plant, climb the plant to get to a cloudy area, kill a giant, find a golden goblin and bring it back to you?"
+    },
+    {
+      "character": "Player",
+      "line": "I've grown the beans into a huge stalk, as you asked. What am I supposed to do now?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Hmm, have you climbed up the stalk yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Sylas",
+      "line": "Very well. Did you find the giant?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Right then. Did you defeat him and find the golden goblin?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Excellent! Well done. Now bring me the golden goblin and we're almost done."
+    },
+    {
+      "character": "Player",
+      "line": "Umm...what happens if I forget to pick up the golden goblin after defeating the giant and leave?"
+    },
+    {
+      "character": "Sylas",
+      "line": "Well, I expect it will still be waiting up there for you when you go back up. It's highly unlikely anyone would risk going up there to steal it."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Sylas",
+      "line": "Right then, that's your next task. You will need to defeat that giant to get the golden goblin from him."
+    },
+    {
+      "character": "Sylas",
+      "line": "He wasn't there? This is highly irregular. Are you sure you looked properly? I expect he'd be hard to miss."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go and have another look."
+    },
+    {
+      "character": "Sylas",
+      "line": "Right, then you will need to climb the stalk and find the golden goblin for me."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I find it?"
+    },
+    {
+      "character": "Sylas",
+      "line": "I think a big giant has it at the top of the stalk. You will need to get it from him."
+    },
+    {
+      "character": "Player",
+      "line": "Right. I'm on my way."
+    },
+    {
+      "character": "Player",
+      "line": "Sylas! I found the golden goblin!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Excellent work, Player! Now, that giant will likely have friends. It is too dangerous to leave that stalk up there like that."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so what should we do?"
+    },
+    {
+      "character": "Sylas",
+      "line": "First, let me take that goblin from you. Next we need to cut down that beanstalk as soon as possible. I hope you're a good woodcutter!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Find an axe. Any axe should do. Then cut down that stalk as soon as you can before another giant finds out what you have done and comes for us!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you remind me what I am doing now?"
+    },
+    {
+      "character": "Sylas",
+      "line": "You've forgotten already? Did you get hit on the head by that giant? Do you have amnesia?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I just can't remember what I am supposed to do."
+    },
+    {
+      "character": "Sylas",
+      "line": "I see."
+    },
+    {
+      "character": "Sylas",
+      "line": "Have you cut down the stalk?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it's done."
+    },
+    {
+      "character": "Sylas",
+      "line": "Good work, ! At last we can relax. We've completed our task and you have done me a great service!"
+    },
+    {
+      "character": "Sylas",
+      "line": "Now, let me reward you. You may have wondered what possible use I could have had for Rupert's helmet."
+    },
+    {
+      "character": "Player",
+      "line": "It did indeed seem like an odd item to look for."
+    },
+    {
+      "character": "Sylas",
+      "line": "Ah, yes! However, tucked inside the helmet is a tiny bottle with a very special potion. It was made by a witch, here in Taverley, but Rupert must have found it."
+    },
+    {
+      "character": "Sylas",
+      "line": "Not knowing what the potion was, he simply tucked it away in his helmet."
+    },
+    {
+      "character": "Player",
+      "line": "Not more potions?! I've had enough of potions for now."
+    },
+    {
+      "character": "Sylas",
+      "line": "Relax, my friend. This potion is almost harmless. It is actually a particularly strong hair-tonic."
+    },
+    {
+      "character": "Player",
+      "line": "Oh! Well, that would explain Rupert's beard then."
+    },
+    {
+      "character": "Sylas",
+      "line": "Yes, indeed! I also imagine poor Rupert never understood why his beard grew so alarmingly fast. Poor lad."
+    },
+    {
+      "character": "Sylas",
+      "line": "Anyway, I have removed the potion now and you may keep the helmet along with your rewards. Don't worry, it's quite harmless and the helmet should help you in your adventures."
+    },
+    {
+      "character": "Sylas",
+      "line": "Great work,. Now, I have something for you, but you're going to need a space in your inventory. Speak to me again when you have made some room."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Drain pipe",
+      "description": "Middle-aged male dwarf, posh upper-class British accent, cheerful and eccentric tone, speaks with odd endearing nicknames like 'old bean' and 'old spoon', voice sounds slightly muffled and echoing as if speaking through a pipe."
+    },
+    {
+      "name": "Grimgnash",
+      "description": "Deep gravelly male voice, monstrous griffin creature, speaks in third person with broken grammar, menacing and hungry tone with occasional childlike petulance when tired, growls and snarls between words."
+    },
+    {
+      "name": "Miazrqa",
+      "description": "Adult female, haughty aristocratic British accent, imperious and condescending tone with an edge of instability, self-important princess who considers herself above common folk."
+    },
+    {
+      "name": "Rupert",
+      "description": "Middle-aged male dwarf, posh upper-class British accent, cheerful and eccentric tone, speaks with odd endearing nicknames like 'old bean' and 'old spoon', slightly pompous but good-natured."
+    },
+    {
+      "name": "Rupert the Beard",
+      "description": "Middle-aged male dwarf, posh upper-class British accent, cheerful and eccentric tone, speaks with odd endearing nicknames like 'old bean' and 'old spoon', slightly pompous but good-natured."
+    },
+    {
+      "name": "Sylas",
+      "description": "Elderly male human, wavering British accent, scattered and repetitive speech pattern, eccentric collector who talks to himself and frequently repeats phrases for self-reassurance, slightly confused but enthusiastic."
+    }
+  ]
+}

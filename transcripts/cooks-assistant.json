@@ -1,0 +1,228 @@
+{
+  "branch": "quest/cooks-assistant",
+  "quest_name": "Cook's Assistant",
+  "lines": [
+    {
+      "character": "Cook",
+      "line": "What am I to do?"
+    },
+    {
+      "character": "Player",
+      "line": "What's wrong?"
+    },
+    {
+      "character": "Cook",
+      "line": "Oh dear, oh dear, oh dear, I'm in a terrible terrible mess! It's the Duke's birthday today, and I should be making him a lovely big birthday cake."
+    },
+    {
+      "character": "Cook",
+      "line": "I've forgotten to buy the ingredients. I'll never get them in time now. He'll sack me! What will I do? I have four children and a goat to look after. Would you help me? Please?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll help you."
+    },
+    {
+      "character": "Cook",
+      "line": "Oh thank you, thank you. I need milk, an egg and flour. I'd be very grateful if you can get them for me."
+    },
+    {
+      "character": "Player",
+      "line": "I have all of those ingredients on me already!"
+    },
+    {
+      "character": "Cook",
+      "line": "That's an odd coincidence... Were you planning on making a cake too?"
+    },
+    {
+      "character": "Player",
+      "line": "Not exactly. I just had an odd feeling you might be needing these ingredients. If I see a cook, I presume there's food of some kind! Lucky guess I suppose."
+    },
+    {
+      "character": "Cook",
+      "line": "Well thank you! Hand them over, please."
+    },
+    {
+      "character": "Cook",
+      "line": "You've brought me everything I need! I am saved! Thank you!"
+    },
+    {
+      "character": "Player",
+      "line": "So do I get to go to the Duke's Party?"
+    },
+    {
+      "character": "Cook",
+      "line": "I'm afraid not, only the big cheeses get to dine with the Duke."
+    },
+    {
+      "character": "Player",
+      "line": "Well, maybe one day I'll be important enough to sit on the Duke's table."
+    },
+    {
+      "character": "Cook",
+      "line": "Maybe, but I won't be holding my breath."
+    },
+    {
+      "character": "Player",
+      "line": "So where do I find these ingredients then?"
+    },
+    {
+      "character": "Cook",
+      "line": "There is a Mill fairly close, go North and then West. Mill Lane Mill is just off the road to Draynor. I usually get my flour from there."
+    },
+    {
+      "character": "Cook",
+      "line": "Talk to Millie, she'll help, she's a lovely girl and a fine Miller. Make sure you take a pot with you for the flour though, you've got one on you already."
+    },
+    {
+      "character": "Cook",
+      "line": "Talk to Millie, she'll help, she's a lovely girl and a fine Miller. Make sure you take a pot with you for the flour though, there should be one on the table in here."
+    },
+    {
+      "character": "Cook",
+      "line": "There is a cattle field on the other side of the river, just across the road from the Groats' Farm."
+    },
+    {
+      "character": "Cook",
+      "line": "Talk to Gillie Groats, she looks after the Dairy cows - she'll tell you everything you need to know about milking cows!"
+    },
+    {
+      "character": "Cook",
+      "line": "You'll need an empty bucket for the milk itself. I do see you've got a bucket with you already luckily!"
+    },
+    {
+      "character": "Cook",
+      "line": "You'll need an empty bucket for the milk itself. The general store just north of the castle will sell you one for a couple of coins."
+    },
+    {
+      "character": "Cook",
+      "line": "I normally get my eggs from the Groats' farm, on the other side of the river."
+    },
+    {
+      "character": "Cook",
+      "line": "But any chicken should lay eggs."
+    },
+    {
+      "character": "Player",
+      "line": "I've got all the information I need. Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I know where to find this stuff."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't feel like it. Maybe later."
+    },
+    {
+      "character": "Cook",
+      "line": "Fine. I always knew you Adventurer types were callous beasts. Go on your merry way!"
+    },
+    {
+      "character": "Player",
+      "line": "You're a cook, why don't you bake me a cake?"
+    },
+    {
+      "character": "Cook",
+      "line": "*sniff* Don't talk to me about cakes..."
+    },
+    {
+      "character": "Player",
+      "line": "You don't look very happy."
+    },
+    {
+      "character": "Cook",
+      "line": "No, I'm not. The world is caving in around me - I am overcome by dark feelings of impending doom."
+    },
+    {
+      "character": "Player",
+      "line": "I'd take the rest of the day off if I were you."
+    },
+    {
+      "character": "Cook",
+      "line": "No, that's the worst thing I could do. I'd get in terrible trouble."
+    },
+    {
+      "character": "Player",
+      "line": "Well maybe you need to take a holiday..."
+    },
+    {
+      "character": "Cook",
+      "line": "That would be nice, but the Duke doesn't allow holidays for core staff."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, why not run away to the sea and start a new life as a Pirate?"
+    },
+    {
+      "character": "Cook",
+      "line": "My wife gets sea sick, and I have an irrational fear of eyepatches. I don't see it working myself."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I've run out of ideas."
+    },
+    {
+      "character": "Cook",
+      "line": "I know I'm doomed."
+    },
+    {
+      "character": "Player",
+      "line": "Nice hat!"
+    },
+    {
+      "character": "Cook",
+      "line": "Err thank you. It's a pretty ordinary cooks hat really."
+    },
+    {
+      "character": "Player",
+      "line": "Still, suits you. The trousers are pretty special too."
+    },
+    {
+      "character": "Cook",
+      "line": "Its all standard cook's issue uniform..."
+    },
+    {
+      "character": "Player",
+      "line": "The whole hat, apron, stripey trousers ensemble - it works. It make you looks like a real cook."
+    },
+    {
+      "character": "Cook",
+      "line": "I am a real cook! I haven't got time to be chatting about Culinary Fashion. I am in desperate need of help!"
+    },
+    {
+      "character": "Cook",
+      "line": "How are you getting on with finding the ingredients?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't got any of them yet, I'm still looking."
+    },
+    {
+      "character": "Cook",
+      "line": "Please get the ingredients quickly - I'm running out of time! The Duke will throw me into the streets!"
+    },
+    {
+      "character": "Player",
+      "line": "Here's a bucket of milk."
+    },
+    {
+      "character": "Player",
+      "line": "Here's a pot of flour."
+    },
+    {
+      "character": "Player",
+      "line": "Here's a fresh egg."
+    },
+    {
+      "character": "Cook",
+      "line": "Thanks for the ingredients you have got so far. Please get the rest quickly - I'm running out of time! The Duke will throw me into the streets!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Cook",
+      "description": "Middle-aged male, British accent, anxious and flustered tone, a well-meaning but forgetful castle cook who is easily overwhelmed and prone to panic under pressure."
+    }
+  ]
+}

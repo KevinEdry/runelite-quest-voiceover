@@ -1,0 +1,1080 @@
+{
+  "branch": "quest/shadows-of-custodia",
+  "quest_name": "Shadows of Custodia",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hmm... That's quite a few missing people... Looks like some of these have been here for a while."
+    },
+    {
+      "character": "Player",
+      "line": "I wonder if anyone around here knows more about this..."
+    },
+    {
+      "character": "Player",
+      "line": "Probably too much for me to take on right now though, but hopefully someone can find them."
+    },
+    {
+      "character": "Player",
+      "line": "I should keep looking for these people..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. Do you have a moment to talk?"
+    },
+    {
+      "character": "Marcus",
+      "line": "I suppose so."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know much about the missing people?"
+    },
+    {
+      "character": "Marcus",
+      "line": "Only what I've heard around the place. That funny guy by the sea keeps suggesting they're being taken in the night, which is absurd really."
+    },
+    {
+      "character": "Player",
+      "line": "Funny guy by the sea?"
+    },
+    {
+      "character": "Marcus",
+      "line": "He's always going on about strange people coming in the night, but no one would dare do that with the ents around. It's a load of rubbish."
+    },
+    {
+      "character": "Player",
+      "line": "So you don't think it's possible?"
+    },
+    {
+      "character": "Marcus",
+      "line": "It would take a lot of things happening right before my eyes for me to even consider it."
+    },
+    {
+      "character": "Player",
+      "line": "Well, what do you think is happening then?"
+    },
+    {
+      "character": "Marcus",
+      "line": "I think that some of them are accidents. Others might just be leaving."
+    },
+    {
+      "character": "Player",
+      "line": "No suspicion of anything else?"
+    },
+    {
+      "character": "Marcus",
+      "line": "Like what? Murder? I'm not sure who would want to kill folk around here. We're a tight community."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... Thanks for the help, I guess."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again. I don't suppose you had any more thoughts on the missing people?"
+    },
+    {
+      "character": "Marcus",
+      "line": "Not really. I'm sure if you keep asking around you'll find someone who can help you. Just don't waste your time on that funny guy by the sea..."
+    },
+    {
+      "character": "Bartender",
+      "line": "Welcome to the Auburn Pub. Are you here to buy a drink?"
+    },
+    {
+      "character": "Player",
+      "line": "About the missing people..."
+    },
+    {
+      "character": "Bartender",
+      "line": "Ah, looking to find them, are you?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. What can you tell me about them?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Not a lot. Couple of kids that have run into trouble on some adventure no doubt, along with a few adults who decided to slip away in the night."
+    },
+    {
+      "character": "Player",
+      "line": "Is that normal around here?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Well, we're sat between two sets of mountains. Lots of places for accidents to happen."
+    },
+    {
+      "character": "Player",
+      "line": "The mountains... Right."
+    },
+    {
+      "character": "Player",
+      "line": "Is there anyone else who might be more... invested in the missing people?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Well, those posters aren't putting themselves on the notice board. You'll probably want to find whoever put them there."
+    },
+    {
+      "character": "Player",
+      "line": "And you don't know who that is?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Some local parents I think, but many faces come in here. I can't keep track of them all. Now, are you going to buy a drink?"
+    },
+    {
+      "character": "Bartender",
+      "line": "Like I told you, you'll want to find whoever put those posters up. I think it was some local parents. Now, are you going to buy a drink?"
+    },
+    {
+      "character": "Ictus",
+      "line": "Not often someone comes out to speak to me. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm investigating the missing people. Do you know anything about them?"
+    },
+    {
+      "character": "Ictus",
+      "line": "Oh, yes! Yes indeed! They were taken by the night people!"
+    },
+    {
+      "character": "Player",
+      "line": "The night people?"
+    },
+    {
+      "character": "Ictus",
+      "line": "Yes! I hear them in the dark. They think they're quiet, but not to me! I can hear them scrape against the wooden walls!"
+    },
+    {
+      "character": "Player",
+      "line": "Could that not just be a dog scratching at the post?"
+    },
+    {
+      "character": "Ictus",
+      "line": "Does a dog walk on two legs?"
+    },
+    {
+      "character": "Player",
+      "line": "One of the ents then?"
+    },
+    {
+      "character": "Ictus",
+      "line": "An ent wouldn't go around scraping against things? They're far too careful for that!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think-"
+    },
+    {
+      "character": "Ictus",
+      "line": "Oh, I see what you're doing! You're just another who wants to laugh at me! You'll all see soon enough!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... I think I'll leave you to it."
+    },
+    {
+      "character": "Ictus",
+      "line": "That's right! Be gone with you!"
+    },
+    {
+      "character": "Ictus",
+      "line": "You again? Come to laugh at me once more? I know the night people are real! You'll find out soon enough!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Nilsal. What can I do for you?"
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Ah, yes... It's a sad day when a town doesn't worry about its missing children..."
+    },
+    {
+      "character": "Player",
+      "line": "People aren't worried about it?"
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "They were at first, but with how long it's been happening, I think everyone's run out of energy to keep searching."
+    },
+    {
+      "character": "Player",
+      "line": "But people have searched the? Are there any theories as to where they're going?"
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Well, that depends on who you ask... Some try to rationalise it away as some accident in the forest, the river, or the mountains."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Others just assume they up and left overnight. Took only the essentials to go and start a new life."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Then of course, some think they're getting taken in the night..."
+    },
+    {
+      "character": "Player",
+      "line": "And what do you think?"
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "I think we could be doing more. Something is happening and it doesn't feel right. I know I'm not the only one who feels this way."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm here to have a look around. I'll see what I can find out about them."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Thank you, traveller."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "Did you manage to find out anything?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Shopkeeper",
+      "line": "That's a shame... Hopefully you have some luck soon."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Good day, traveller."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. I was wondering if you could tell me anything about the missing people."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Not really. We put a lot of effort into finding them, but nothing came of it."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you think they went?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Well, some say they got lost in the mountains. Others say they decided to go and live somewhere like Fortis instead of here. I'm not too sure myself. It is a large number of people who've vanished..."
+    },
+    {
+      "character": "Player",
+      "line": "But you stopped looking?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "It was taking up a lot of resources. We don't have a huge number of guards here, so I need to use my people wisely."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "If we get a new lead, I'm happy to send them out again, but right now it's like looking for a needle in a haystack."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thanks for the information."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. I was wondering if you had any more thoughts on the missing people?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "No. As I said, we tried looking, but found nothing. Without a new lead, things are at a dead end."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me. I'm looking into the-"
+    },
+    {
+      "character": "Aemilia",
+      "line": "Turn around. Walk out."
+    },
+    {
+      "character": "Player",
+      "line": "Wait, I-"
+    },
+    {
+      "character": "Francis",
+      "line": "Please... Nobody's looking into anything. Just leave us."
+    },
+    {
+      "character": "Player",
+      "line": "But I'm trying to find the missing people!"
+    },
+    {
+      "character": "Aemilia",
+      "line": "Prove it! What do you know?"
+    },
+    {
+      "character": "Player",
+      "line": "Er..."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Exactly! Now, go!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I know most of the town has given up on finding them. Most are just dismissing the disappearances, assuming them to have run away or had an accident."
+    },
+    {
+      "character": "Player",
+      "line": "However, there are some who think something more sinister is going on. If that's the case, I intend to find out. I'm and I promise I\"m here to help."
+    },
+    {
+      "character": "Francis",
+      "line": "You... You'll find our sons?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm going to try."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Well... I suppose you do at least seem to somewhat care."
+    },
+    {
+      "character": "Francis",
+      "line": "What do you need from us, ?"
+    },
+    {
+      "character": "Player",
+      "line": "First up, what can you tell me about the disappearnce of your sons?"
+    },
+    {
+      "character": "Aemilia",
+      "line": "That's the thing... They just seemed to vanish! One moment they were playing upstairs, but the next they'd gone."
+    },
+    {
+      "character": "Player",
+      "line": "And you didn't notice anything unusual at all?"
+    },
+    {
+      "character": "Francis",
+      "line": "Nothing really. The only thing that was a bit odd was the ents..."
+    },
+    {
+      "character": "Player",
+      "line": "The ents?"
+    },
+    {
+      "character": "Francis",
+      "line": "Yes. Their normal path takes them right past our house, but the night the boys disappeared, they took a different route. It's like they were avoiding something..."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Can I look around the house a little and see if there's any clues as to where your sons went?"
+    },
+    {
+      "character": "Aemilia",
+      "line": "If you think it will help, then of course."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you."
+    },
+    {
+      "character": "Aemilia",
+      "line": "You again? We already told you to go away!"
+    },
+    {
+      "character": "Player",
+      "line": "But I want to help!"
+    },
+    {
+      "character": "Francis",
+      "line": "Have you found anything yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still looking."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Please, help us find our sons."
+    },
+    {
+      "character": "Player",
+      "line": "There are a few scratches on the wall outside along with this strange red substance."
+    },
+    {
+      "character": "Francis",
+      "line": "Yes, I saw that, but I thought it was from the ents. Do you think something else left it?"
+    },
+    {
+      "character": "Player",
+      "line": "Possibly. It looks like there are puddles of the stuff leading away from your house. I'm going to follow them and see where they lead."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Thank you,. Please, help us find our sons."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Good day, traveller. Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Potentially. I was wondering if you have any clue what left these weird puddles through here?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Hmm... I hadn't noticed them before. I don't think the ents leave that sort of thing. My guess would be one of the woodland creatures."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Thank you for your help."
+    },
+    {
+      "character": "Player",
+      "line": "That's odd... There are some scratches going up the wall, along with a strange stick red substance. It's not blood... What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "What do we have here? More of that strange substance. I wonder where it leads..."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... A fishing rod might work..."
+    },
+    {
+      "character": "Player",
+      "line": "Interesting... I should see if this is from one of our missing people!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think this plank can offer me anything else. I should go and see if that fabric is from one of the missing people."
+    },
+    {
+      "character": "Player",
+      "line": "Could this be from one of the missing people?"
+    },
+    {
+      "character": "Player",
+      "line": "Should I destroy this?"
+    },
+    {
+      "character": "Player",
+      "line": "It could be evidence of something happening here... Surely it wouldn't be ethical to do this?"
+    },
+    {
+      "character": "Player",
+      "line": "Then again, I wouldn't want to give false hope to those parents if it's actually nothing."
+    },
+    {
+      "character": "Player",
+      "line": "Yet I could still ask them about it, even if I don't have it to hand..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes. I followed a trail of... well, I'm not sure what it is. It led from your home to the river, and I found a scrap of fabric. Does one of your sons often wear brown clothes?"
+    },
+    {
+      "character": "Aemilia",
+      "line": "Yes, Etz does... What does it mean?"
+    },
+    {
+      "character": "Player",
+      "line": "It means I may have a lead."
+    },
+    {
+      "character": "Francis",
+      "line": "What direction was this trail going?"
+    },
+    {
+      "character": "Player",
+      "line": "Up towards the mountains north west of here. It might be dangerous, but I think I can explore further."
+    },
+    {
+      "character": "Aemilia",
+      "line": "If you're willing to, it would mean everything to us. You're the only one who's actually cared enough to find anything!"
+    },
+    {
+      "character": "Player",
+      "line": "It's the least I can do. I'll be back once I've discovered more."
+    },
+    {
+      "character": "Aemilia",
+      "line": "You're back Did you find anything in the mountains?"
+    },
+    {
+      "character": "Francis",
+      "line": "Thank you for helping us. No one else seems to care..."
+    },
+    {
+      "character": "Player",
+      "line": "Are you okay? Can you walk?"
+    },
+    {
+      "character": "Injured boy",
+      "line": "I think so... I'm not sure if Etz can though..."
+    },
+    {
+      "character": "Player",
+      "line": "That's okay. I should be able to carry him. Now, let's get out of here..."
+    },
+    {
+      "character": "Aemilia",
+      "line": "I can't believe you found them!"
+    },
+    {
+      "character": "Player",
+      "line": "I was very fortunate. They were in a cave in the mountains, but they weren't particularly far inside."
+    },
+    {
+      "character": "Francis",
+      "line": "Probably using the survival skills I taught them! That's my boys!"
+    },
+    {
+      "character": "Player",
+      "line": "How are they doing now?"
+    },
+    {
+      "character": "Aemilia",
+      "line": "They're upstairs recovering. They need some rest, but they'll be okay."
+    },
+    {
+      "character": "Player",
+      "line": "That's good to hear, though I am still worried as to how they ended up there. It's not really the kind of place someone visits, not to mention that strange substance I found..."
+    },
+    {
+      "character": "Francis",
+      "line": "You think they were taken by something?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think we can rule it out."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Well, they weren't the only ones to disappear. What if you're right? What if there are more people up there? And what if whatever took them comes back?"
+    },
+    {
+      "character": "Player",
+      "line": "First things first, I need to find out exactly what happened to your sons. Do you think I could ask them about it?"
+    },
+    {
+      "character": "Aemilia",
+      "line": "Not yet. They need some rest first."
+    },
+    {
+      "character": "Francis",
+      "line": "In the meantime, you should go see Ariadna, the guard captain. People can't ignore this now. If something did take our boys, she needs to know about it. You'll find her by the main entrance into town."
+    },
+    {
+      "character": "Player",
+      "line": "I'll go and see her. Is there anything else I can be doing to help as well?"
+    },
+    {
+      "character": "Player",
+      "line": "Let's see... I suppose I could take a look at the wall and see if it can be reinforced in some way?"
+    },
+    {
+      "character": "Francis",
+      "line": "If it's not too much trouble, that would mean a lot to us."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure it won't be too much to sort. Right, I'll be back once I've spoken to Captain Ariadna and sorted your wall out."
+    },
+    {
+      "character": "Francis",
+      "line": "You're back. How's it going?"
+    },
+    {
+      "character": "Player",
+      "line": "I've got your wall all sorted. Now I need to go and see Captain Ariadna."
+    },
+    {
+      "character": "Aemilia",
+      "line": "She should be by the main entrance into town. Thank you so much for doing all this, iknami. It means everything to us."
+    },
+    {
+      "character": "Player",
+      "line": "I still need to get your wall sorted. I haven't spoken to Captain Ariadna yet either."
+    },
+    {
+      "character": "Aemilia",
+      "line": "She should be by the main entrance into town. Thank you so much for doing all of this, iknami. It means everything to us."
+    },
+    {
+      "character": "Player",
+      "line": "I've got your wall all sorted. Now I'm helping Captain Ariadna source some new bows to equip the guards a bit better."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Thank you so much for doing all this, iknami. It means everything to us."
+    },
+    {
+      "character": "Player",
+      "line": "I still need your wall sorted. I haven't spoken to Captain Ariadna either."
+    },
+    {
+      "character": "Player",
+      "line": "I've helped Captain Ariadna source some new bows to equip the guards a bit better, and your wall is all sorted as well.}}"
+    },
+    {
+      "character": "Aemilia",
+      "line": "Thank you, iknami. You'll be pleased to hear the boys are feeling a bit better."
+    },
+    {
+      "character": "Player",
+      "line": "So I can speak to them now?"
+    },
+    {
+      "character": "Francis",
+      "line": "Yes, but do be patient with them. They still have quite a bit of recovering to do."
+    },
+    {
+      "character": "Aemilia",
+      "line": "The boys are resting at the moment. You'll have to come back later if you want to speak to them."
+    },
+    {
+      "character": "Player",
+      "line": "Now then... How do we reinforce you? Perhaps some maple logs will do the trick!"
+    },
+    {
+      "character": "Player",
+      "line": "There we go!"
+    },
+    {
+      "character": "Player",
+      "line": "Now then... How do we reinforce you? Perhaps some maple logs will do the trick! I reckon I'll need four sets in total, and a hammer of course."
+    },
+    {
+      "character": "Player",
+      "line": "Now then... How do we reinforce you? Perhaps some maple logs will do the trick! I reckon I'll need four sets in total."
+    },
+    {
+      "character": "Player",
+      "line": "Good day! I'm here about those missing people."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Yes, I saw you bringing those boys back to town. Where did you find them?"
+    },
+    {
+      "character": "Player",
+      "line": "In a cave up in the mountains."
+    },
+    {
+      "character": "Ariadna",
+      "line": "Did you see any sign of other missing people?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not, but I intend to ask the boys about them once they've had some time to rest. I'm worried they didn't go up there on their own. There's a chance something might have taken them."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Ah, wonderful. This is just what we need."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I must admit, the town doesn't seem very well equipped to deal with this sort of thing. Is there anything I can do to help?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Well, one of the people who went missing was the local fletcher. In his absence, our already light supply of longbows has become even lighter."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure I can step in as your fletcher! New bows, was it?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "That's right. We typically use willow longbows. We've lost a few experienced archers over the years so we've tried to make things more approachable... and cheaper."
+    },
+    {
+      "character": "Player",
+      "line": "Willow... Approachable... Got it! How many did you need?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Four would keep us comfortable for the time being."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "I just so happen to have those on hand!"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Making the most of the woodlands around here, were you?"
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Thank you, traveller."
+    },
+    {
+      "character": "Player",
+      "line": "So you've got the bows. What now?"
+    },
+    {
+      "character": "Player",
+      "line": "I have those bows you asked for!"
+    },
+    {
+      "character": "Player",
+      "line": "So you've got the bows. Now what?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Well, not really a lot. We'll increase the number of guards posted at the entrances into town, but without knowing what we're looking for, we can't do much else."
+    },
+    {
+      "character": "Player",
+      "line": "Right... Not quite the solution I was after, but it's a start. I guess I'd better go check in with those boys and see if I can find out more about how they ended up in that cave."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "You're back. Have you sourced those willow longbows yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not quite. How many did you need?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Just the four of them."
+    },
+    {
+      "character": "Marcus",
+      "line": "Ah, it's you. I hear you're still looking into the case of those missing people. Must say, you're the first person in a while to actually stick to it."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I don't like leaving a mystery unsolved."
+    },
+    {
+      "character": "Marcus",
+      "line": "Clearly. Anyway, good luck with it."
+    },
+    {
+      "character": "Shas",
+      "line": "You're the one that saved us. Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "It's not a problem. I'm just glad you're both okay. If it's alright, I wanted to ask you how you ended up in that cave. I'm hoping it might help me track down the others who are missing."
+    },
+    {
+      "character": "Etz",
+      "line": "We didn't see any others... It was just us and Antos..."
+    },
+    {
+      "character": "Player",
+      "line": "Antos?"
+    },
+    {
+      "character": "Etz",
+      "line": "Yes! He makes bows for the guards. We'd see him sometimes when dad would go with him to the pub, but he wasn't in the pub! He was in the cave!"
+    },
+    {
+      "character": "Player",
+      "line": "Where?"
+    },
+    {
+      "character": "Shas",
+      "line": "He was deeper inside. Those... things... they dragged him away!"
+    },
+    {
+      "character": "Player",
+      "line": "This isn't good. I need to get back there!"
+    },
+    {
+      "character": "Etz",
+      "line": "Please... find Antos."
+    },
+    {
+      "character": "Shas",
+      "line": "He was deeper inside that cave. Those... things... they dragged him away!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm going to head back there right now!"
+    },
+    {
+      "character": "Aemilia",
+      "line": "Have you spoken to the boys yet?"
+    },
+    {
+      "character": "Francis",
+      "line": "They're just upstairs, but do be patient with them. They still have quite a bit of recovering to do."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but I need to get back to the cave. Apparently someone called Antos is still in there!"
+    },
+    {
+      "character": "Francis",
+      "line": "Antos is up there? You'd better go and find him, iknami!"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Traveller. Did you find out more about what happened to those boys?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Well, without knowing what we're looking for, there's not much we can do."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but I also found out someone called Antos is still in that cave! I need to go and find him!"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Antos? I'll get the guards ready, but that will take some time."
+    },
+    {
+      "character": "Player",
+      "line": "We don't have time! I'm heading up there now!"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "You're going alone?"
+    },
+    {
+      "character": "Player",
+      "line": "It's that or he dies!"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "You're mad, traveller! Good luck up there."
+    },
+    {
+      "character": "Player",
+      "line": "Antos? Are you okay?"
+    },
+    {
+      "character": "Antos",
+      "line": "Behind... you..."
+    },
+    {
+      "character": "Antos",
+      "line": "Have they gone?"
+    },
+    {
+      "character": "Player",
+      "line": "For now, but there could be more. We should get out of here."
+    },
+    {
+      "character": "Antos",
+      "line": "Thank you, iknami. I thought I could find out where people were going... No one else seemed to care... I managed to track those boys here, but then those things..."
+    },
+    {
+      "character": "Player",
+      "line": "It's okay, Antos. The boys are safe."
+    },
+    {
+      "character": "Antos",
+      "line": "That's good... but everyone else... Look what they did to them..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry, Antos. We can't help them now, but at least you and the boys are safe. Come on, let's get you home, before more of those things arrive..."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "You found Antos! I never thought we'd see him again. What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "That cave up in the mountains is full of some strange creatures. They were the ones responsible for the disappearances."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "I see... Did you find anyone else up there?"
+    },
+    {
+      "character": "Player",
+      "line": "No. At least, no one alive, that is."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "That's... unfortunate. Still, from what you've said, I suppose we should be thankful that you found anyone still breathing."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Right, time to get to work I guess. Now that we know about these creatures and where they're coming from, we can hopefully ensure they don't take anyone else."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "I suspect it's going to require us to establish a constant watch. Not ideal, but doable, especially with those new bows."
+    },
+    {
+      "character": "Player",
+      "line": "Anything I can do to help?"
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Well, if you ever fancy heading up there and killing more of those creatures, you won't find me complaining. Apart from that though, I think you've done all you can."
+    },
+    {
+      "character": "Player",
+      "line": "In that case, good luck with it all."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Thank you. All the best, traveller."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Hello again, traveller. We've been keeping an eye on the mountain pass to make sure those creatures don't come back. We haven't had any more disappearances, so it seems to be working."
+    },
+    {
+      "character": "Player",
+      "line": "That's good to hear."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Still, we can't be too careful. If you ever fancy going up to that cave and killing a few of them for us, that would be appreciated."
+    },
+    {
+      "character": "Player",
+      "line": "I might just do that."
+    },
+    {
+      "character": "Captain Ariadna",
+      "line": "Thank you, traveller. All the best."
+    },
+    {
+      "character": "Aemilia",
+      "line": "Thank you for finding our sons, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "It's not a problem."
+    },
+    {
+      "character": "Francis",
+      "line": "Tetamo! You are too humble, friend. Without you, our boys would be dead. What you did means everything to us."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Aemilia",
+      "line": "No, thank you, iknami!"
+    },
+    {
+      "character": "Shas",
+      "line": "Thank you for saving us."
+    },
+    {
+      "character": "Player",
+      "line": "Don't mention it."
+    },
+    {
+      "character": "Etz",
+      "line": "And thank you for saving Antos as well!"
+    },
+    {
+      "character": "Player",
+      "line": "It's really not a problem."
+    },
+    {
+      "character": "Etz",
+      "line": "You're our hero!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Marcus",
+      "line": "Ah, it's you. I hear you've become a bit of a hero around here. Not a bad job."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Ictus",
+      "line": "You found those people who went missing! Did you see them? Did you see the night people?"
+    },
+    {
+      "character": "Player",
+      "line": "Sort of. I wouldn't call them people though."
+    },
+    {
+      "character": "Ictus",
+      "line": "But they're real! They're actually real! No one believed me, but I knew they were real!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, congratulations I guess..."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Aemilia",
+      "description": "Adult female, Mediterranean accent, worried and protective tone, a devoted mother who is desperate to find her missing sons and quick to distrust strangers until they prove themselves."
+    },
+    {
+      "name": "Antos",
+      "description": "Middle-aged male, Mediterranean accent, weak and exhausted tone, a skilled fletcher who was captured while bravely trying to rescue missing townspeople."
+    },
+    {
+      "name": "Ariadna",
+      "description": "Adult female, Mediterranean accent, commanding and pragmatic tone, the captain of Auburnvale's guards who balances duty with limited resources."
+    },
+    {
+      "name": "Bartender",
+      "description": "Middle-aged male, Mediterranean accent, casual and businesslike tone, a pub owner focused on running his establishment who offers only surface-level information."
+    },
+    {
+      "name": "Captain Ariadna",
+      "description": "Adult female, Mediterranean accent, commanding and pragmatic tone, the captain of Auburnvale's guards who balances duty with limited resources."
+    },
+    {
+      "name": "Etz",
+      "description": "Youthful male around 10 years old, Mediterranean accent, excitable and innocent tone, a brave boy who survived being captured by strange creatures."
+    },
+    {
+      "name": "Francis",
+      "description": "Adult male, Mediterranean accent, gentle but concerned tone, a caring father who taught his sons survival skills and frequents the local pub."
+    },
+    {
+      "name": "Ictus",
+      "description": "Older male, Mediterranean accent, erratic and paranoid tone, a reclusive eccentric who lives on the outskirts of town and rambles about 'night people' that no one believes in."
+    },
+    {
+      "name": "Injured boy",
+      "description": "Youthful male around 12 years old, Mediterranean accent, weak and shaken tone, the elder brother who looks after his sibling despite being traumatized."
+    },
+    {
+      "name": "Marcus",
+      "description": "Adult male, Mediterranean accent, dismissive and skeptical tone, a regular pub patron who doubts the stories of strange happenings in town."
+    },
+    {
+      "name": "Shas",
+      "description": "Youthful male around 12 years old, Mediterranean accent, quiet and thoughtful tone, the elder brother who witnessed terrifying creatures in the cave."
+    },
+    {
+      "name": "Shopkeeper",
+      "description": "Middle-aged male, Mediterranean accent, sympathetic and concerned tone, a general store owner who genuinely worries about the missing townspeople."
+    }
+  ]
+}

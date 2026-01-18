@@ -1,0 +1,776 @@
+{
+  "branch": "quest/fishing-contest",
+  "quest_name": "Fishing Contest",
+  "lines": [
+    {
+      "character": "Vestri",
+      "line": "Hmmph. What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I was just wondering what was down those stairs?"
+    },
+    {
+      "character": "Vestri",
+      "line": "You can't go down there!"
+    },
+    {
+      "character": "Player",
+      "line": "I didn't want to anyway."
+    },
+    {
+      "character": "Vestri",
+      "line": "Good. Because you can't."
+    },
+    {
+      "character": "Player",
+      "line": "Because I don't want to."
+    },
+    {
+      "character": "Vestri",
+      "line": "Because you can't. So that's fine."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it is."
+    },
+    {
+      "character": "Vestri",
+      "line": "Yes. Fine."
+    },
+    {
+      "character": "Player",
+      "line": "Absolutely."
+    },
+    {
+      "character": "Vestri",
+      "line": "Well then."
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Vestri",
+      "line": "This is the home of the Mountain Dwarves. How would you like it if I wanted to take a shortcut through your home?"
+    },
+    {
+      "character": "Player",
+      "line": "Ooh... is this a shortcut to somewhere?"
+    },
+    {
+      "character": "Vestri",
+      "line": "Well, it is a lot easier to go this way to get past White Wolf Mountain than through those wolf filled passes."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, sorry, I hadn't realised it was private."
+    },
+    {
+      "character": "Vestri",
+      "line": "Well, it is."
+    },
+    {
+      "character": "Player",
+      "line": "If you were my friend I wouldn't mind."
+    },
+    {
+      "character": "Vestri",
+      "line": "Yes, but I don't even know you."
+    },
+    {
+      "character": "Player",
+      "line": "Well, let's be friends!"
+    },
+    {
+      "character": "Vestri",
+      "line": "I'd rather not, thank you."
+    },
+    {
+      "character": "Player",
+      "line": "And how am I meant to do that?"
+    },
+    {
+      "character": "Vestri",
+      "line": "My, we are the persistent one aren't we?"
+    },
+    {
+      "character": "Vestri",
+      "line": "Well, there's a certain gold artefact we're after. We dwarves are big fans of gold! This artefact is the first prize at the Hemenster fishing competition."
+    },
+    {
+      "character": "Vestri",
+      "line": "Fortunately we have acquired a pass to enter that competition..."
+    },
+    {
+      "character": "Vestri",
+      "line": "Unfortunately Dwarves don't make good fishermen."
+    },
+    {
+      "character": "Player",
+      "line": "Fortunately I'm alright at fishing!"
+    },
+    {
+      "character": "Vestri",
+      "line": "Okay. I entrust you with our competition pass. Don't forget to take some gold with you for the entrance fee."
+    },
+    {
+      "character": "Vestri",
+      "line": "Go to Hemenster and do us proud!"
+    },
+    {
+      "character": "Player",
+      "line": "You're a grumpy little man aren't you?"
+    },
+    {
+      "character": "Vestri",
+      "line": "Don't you know it."
+    },
+    {
+      "character": "Player",
+      "line": "I'm bigger than you. Let me by!"
+    },
+    {
+      "character": "Player",
+      "line": "...stumpy."
+    },
+    {
+      "character": "Vestri",
+      "line": "Go away! You're not going to bully your way in HERE!"
+    },
+    {
+      "character": "Player",
+      "line": "I was just stopping to say hello!"
+    },
+    {
+      "character": "Vestri",
+      "line": "Hello then."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have a brother?"
+    },
+    {
+      "character": "Vestri",
+      "line": "What if I do! It's no business of yours."
+    },
+    {
+      "character": "Austri",
+      "line": "Hmmph. What do you want?"
+    },
+    {
+      "character": "Austri",
+      "line": "You can't go down there!"
+    },
+    {
+      "character": "Austri",
+      "line": "Good. Because you can't."
+    },
+    {
+      "character": "Austri",
+      "line": "Because you can't. So that's fine."
+    },
+    {
+      "character": "Austri",
+      "line": "Yes. Fine."
+    },
+    {
+      "character": "Austri",
+      "line": "Well then."
+    },
+    {
+      "character": "Austri",
+      "line": "This is the home of the Mountain Dwarves. How would you like it if I wanted to take a shortcut through your home?"
+    },
+    {
+      "character": "Austri",
+      "line": "Well, it is a lot easier to go this way to get past White Wolf Mountain than through those wolf filled passes."
+    },
+    {
+      "character": "Austri",
+      "line": "Well, it is."
+    },
+    {
+      "character": "Austri",
+      "line": "Yes, but I don't even know you."
+    },
+    {
+      "character": "Austri",
+      "line": "I'd rather not, thank you."
+    },
+    {
+      "character": "Austri",
+      "line": "My, we are the persistent one aren't we?"
+    },
+    {
+      "character": "Austri",
+      "line": "Well, there's a certain gold artefact we're after. We dwarves are big fans of gold! This artefact is the first prize at the Hemenster fishing competition."
+    },
+    {
+      "character": "Austri",
+      "line": "Fortunately we have acquired a pass to enter that competition..."
+    },
+    {
+      "character": "Austri",
+      "line": "Unfortunately Dwarves don't make good fishermen."
+    },
+    {
+      "character": "Austri",
+      "line": "Okay. I entrust you with our competition pass. Don't forget to take some gold with you for the entrance fee."
+    },
+    {
+      "character": "Austri",
+      "line": "Go to Hemenster and do us proud!"
+    },
+    {
+      "character": "Austri",
+      "line": "Don't you know it."
+    },
+    {
+      "character": "Austri",
+      "line": "Go away! You're not going to bully your way in HERE!"
+    },
+    {
+      "character": "Austri",
+      "line": "Hello then."
+    },
+    {
+      "character": "Austri",
+      "line": "What if I do! It's no business of yours."
+    },
+    {
+      "character": "Vestri",
+      "line": "Have you won yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Vestri",
+      "line": "Well don't give up! Maybe old Jack can give you a few tips."
+    },
+    {
+      "character": "Austri",
+      "line": "Have you won yet?"
+    },
+    {
+      "character": "Austri",
+      "line": "Well don't give up! Maybe old Jack can give you a few tips."
+    },
+    {
+      "character": "Player",
+      "line": "I need another competition pass."
+    },
+    {
+      "character": "Vestri",
+      "line": "Hmmm. It's a good job they sent us spares."
+    },
+    {
+      "character": "Vestri",
+      "line": "There you go. Try not to lose that one."
+    },
+    {
+      "character": "Player",
+      "line": "No, it takes preparation to win fishing competitions."
+    },
+    {
+      "character": "Vestri",
+      "line": "Maybe that's where we are going wrong when we try fishing?"
+    },
+    {
+      "character": "Player",
+      "line": "Probably."
+    },
+    {
+      "character": "Vestri",
+      "line": "Maybe we should talk to that old Jack fella near the competition, everyone seemed to be ranting about him."
+    },
+    {
+      "character": "Austri",
+      "line": "Hmmm. It's a good job they sent us spares."
+    },
+    {
+      "character": "Austri",
+      "line": "There you go. Try not to lose that one."
+    },
+    {
+      "character": "Austri",
+      "line": "Maybe that's where we are going wrong when we try fishing?"
+    },
+    {
+      "character": "Austri",
+      "line": "Maybe we should talk to that old Jack fella near the competition, everyone seemed to be ranting about him."
+    },
+    {
+      "character": "Player",
+      "line": "What are you sitting around here for?"
+    },
+    {
+      "character": "Morris",
+      "line": "I'm making sure only those with a competition pass enter the fishing contest."
+    },
+    {
+      "character": "Player",
+      "line": "I have one here."
+    },
+    {
+      "character": "Morris",
+      "line": "Move on through. Talk to Bonzo to enter the competition."
+    },
+    {
+      "character": "Morris",
+      "line": "Competition pass please."
+    },
+    {
+      "character": "Player",
+      "line": "...?"
+    },
+    {
+      "character": "Player",
+      "line": ".....?"
+    },
+    {
+      "character": "Player",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "My name iz Vlad. I come from far avay, vere the sun iz not so bright."
+    },
+    {
+      "character": "Player",
+      "line": "You're a vampyre aren't you?"
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "Just because I can't stand ze smell ov garlic und I don't like bright sunlight doesn't necessarily mean I'm ein vampyre!"
+    },
+    {
+      "character": "Player",
+      "line": "Is it nice there?"
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "It is vonderful! Ze vomen are beautiful und ze nights are long!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, good luck with the fishing."
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "Luck haz notsing to do vith it it is all in ze technique."
+    },
+    {
+      "character": "Player",
+      "line": "So... you like fishing?"
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "My doctor told me to take up ein velaxing hobby. Vhen I am stressed I tend to get ein little.."
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "..thirsty."
+    },
+    {
+      "character": "Player",
+      "line": "If you get thirsty you should drink something."
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "I tsink I may do zat soon..."
+    },
+    {
+      "character": "Big Dave",
+      "line": "Hey guy! Always nice to see a fresh face!"
+    },
+    {
+      "character": "Player",
+      "line": "So you're the champ?"
+    },
+    {
+      "character": "Big Dave",
+      "line": "That's right, guy! Ain't nobody better at fishing round here than me! That's for sure!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I fish here instead of you?"
+    },
+    {
+      "character": "Big Dave",
+      "line": "Sorry guy! This is my lucky spot!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any tips for me?"
+    },
+    {
+      "character": "Big Dave",
+      "line": "Why would I help you? I wanna stay the best! I'm not givin' away my secrets like old Grampa Jack does!"
+    },
+    {
+      "character": "Player",
+      "line": "Who's Grampa Jack?"
+    },
+    {
+      "character": "Big Dave",
+      "line": "You really have no clue do you! He won this competition four years in a row! He lives in the house just outside the gate."
+    },
+    {
+      "character": "Joshua",
+      "line": "Yeah? What you want?"
+    },
+    {
+      "character": "Player",
+      "line": "Um... nothing really..."
+    },
+    {
+      "character": "Joshua",
+      "line": "Quit bugging me then! I got me some fish to catch!"
+    },
+    {
+      "character": "Joshua",
+      "line": "Nuh uh dude. Less talk, more fishing!"
+    },
+    {
+      "character": "Joshua",
+      "line": "Dude! Why should I help you? You like, might beat me! I'm not giving away my secrets like that dude Grampa Jack does!"
+    },
+    {
+      "character": "Joshua",
+      "line": "Who's Grampa Jack ! He won this competition four years in a row! He lives in the house just outside the gate."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Hello young man! Come to visit old Grandpa Jack? I can tell ye stories for sure. I used to be the best fisherman these parts have seen!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me a story then."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Well, when I were a young man we used to take fishing trips over to Catherby; The fishing over there - now that was something!"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Anyway, we decided to do a bit of fishing with our nets, I wasn't having the best of days turning up nothing but old boots and bits of seaweed. Then my net suddenly got really heavy!"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "To my amazement I'd caught this little chest thing!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you entering the fishing competition?"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Ah... the Hemenster fishing competition..."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "I know all about that... I won that four years straight! I'm too old for that lark now though..."
+    },
+    {
+      "character": "Player",
+      "line": "I don't suppose you could give me any hints?"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Well, you sometimes get these really big fish in the water just by the outflow pipes."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "I think they're some kind of carp..."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "I used to get those from McGrubor's wood, north of here. Just dig around in the red vines up there but be careful of the guard dogs."
+    },
+    {
+      "character": "Player",
+      "line": "There's this weird creepy guy who says he's not a vampyre using that spot. He keeps winning too."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Ahh well, I'm sure you'll find something to put him off. After all, there must be a kitchen around here with some garlic in it, perhaps in Seers Village or Ardougne. If he's pretending to be a vampyre then he can pretend to be scared of garlic!"
+    },
+    {
+      "character": "Player",
+      "line": "You're right! Thanks Jack!"
+    },
+    {
+      "character": "Player",
+      "line": "That's less competition for me then."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Why you young whippersnapper! If I was twenty years younger I'd show you something that's for sure!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't have time now."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Sigh..."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Young people - always in such a rush."
+    },
+    {
+      "character": "Player",
+      "line": "Can I buy one of your fishing rods?"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "But young man, you have your own. I'll not sell you mine when you already have one!"
+    },
+    {
+      "character": "Player",
+      "line": "I've forgotten how to fish, can you remind me?"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Of course! Let me see now...You'll need a rod and bait. You can fish with a net too, but not in the competition."
+    },
+    {
+      "character": "Player",
+      "line": "Ok... I think I can get those at Catherby."
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Then simply find yourself a fishing spot, either in the competition near here, or wherever you can - I recommend net fishing in Catherby. Net or Lure the fish in the fishing spot by clicking on it and then be"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "patient..."
+    },
+    {
+      "character": "Player",
+      "line": "It's that simple?"
+    },
+    {
+      "character": "Grandpa Jack",
+      "line": "Yep! Go get em tiger."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Hey, you need to pay to enter the competition first! Only 5 gp entrance fee!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "Roll up, roll up!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "Enter the great Hemenster fishing competition!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "Only 5gp entrance fee!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll enter the competition please."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Ok, nearly everyone is in their place already. You fish in the spot by the willow tree, and the Sinister Stranger, you fish by the pipes."
+    },
+    {
+      "character": "Sinister Stranger",
+      "line": "Arrgh! WHAT is that GHASTLY smell??? I think I will move over here instead..."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Hmm. You'd better go and take the area by the pipes then."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, I'll just watch the fun."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Ok, we've got all the fishermen! It's time to roll!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "You've already paid, you don't need to pay me again!"
+    },
+    {
+      "character": "Player",
+      "line": "Ewww - it's a smelly sewage pipe."
+    },
+    {
+      "character": "Bonzo",
+      "line": "So you're calling it quits here for now?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I'll compete again another day."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Ok, I'll see you again."
+    },
+    {
+      "character": "Player",
+      "line": "Actually I'll go back and catch some more."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Good luck!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "So how are you doing so far?"
+    },
+    {
+      "character": "Player",
+      "line": "I caught some fish! Here..."
+    },
+    {
+      "character": "Bonzo",
+      "line": "And the winner is... The stranger in black!"
+    },
+    {
+      "character": "Player",
+      "line": "I have this big fish."
+    },
+    {
+      "character": "Player",
+      "line": "Is it enough to win?"
+    },
+    {
+      "character": "Bonzo",
+      "line": "Well, we'll just wait till time is up."
+    },
+    {
+      "character": "Bonzo",
+      "line": "We have a new winner! The heroic-looking person who was fishing by the pipes has caught the biggest carp I've seen since Grandpa Jack used to compete!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I might still be able to find a bigger fish."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Ok, good luck!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "Hello champ!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't feel like a champ..."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Why not champ?"
+    },
+    {
+      "character": "Player",
+      "line": "I lost my fishing trophy..."
+    },
+    {
+      "character": "Bonzo",
+      "line": "Is that all chump? Don't worry, I have a spare!"
+    },
+    {
+      "character": "Bonzo",
+      "line": "So any hints on how to fish?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll keep them to myself."
+    },
+    {
+      "character": "Player",
+      "line": "Yes I have!"
+    },
+    {
+      "character": "Vestri",
+      "line": "Well done! That's brilliant! Do you have the trophy with you?"
+    },
+    {
+      "character": "Player",
+      "line": "Yep, I have it right here!"
+    },
+    {
+      "character": "Vestri",
+      "line": "Oh! It's even more shiny and gold than I thought possible..."
+    },
+    {
+      "character": "Vestri",
+      "line": "You've done us proud. Thank you. I think we can now trust you enough to let you in..."
+    },
+    {
+      "character": "Player",
+      "line": "In where?"
+    },
+    {
+      "character": "Vestri",
+      "line": "Why the tunnel of course! You may now come and go freely, avoiding the wolves and dangers of the cold, high mountain. You could even stop in for a beer or two!"
+    },
+    {
+      "character": "Player",
+      "line": "Excellent. That will come in most handy."
+    },
+    {
+      "character": "Austri",
+      "line": "Well done! That's brilliant! Do you have the trophy with you?"
+    },
+    {
+      "character": "Austri",
+      "line": "Oh! It's even more shiny and gold than I thought possible..."
+    },
+    {
+      "character": "Austri",
+      "line": "Welcome, oh great Fishing Champion! Feel free to pop by and use our tunnel any time."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you, I think I'll stop by for a beer one day."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Austri",
+      "description": "Middle-aged male dwarf, Scottish accent, gruff and grumpy tone, a stern guard who is protective of his mountain home and distrustful of outsiders."
+    },
+    {
+      "name": "Big Dave",
+      "description": "Middle-aged male, working-class British accent, boastful and competitive tone, a large imposing fisherman who is proud of his champion status and protective of his lucky fishing spot."
+    },
+    {
+      "name": "Bonzo",
+      "description": "Middle-aged male, enthusiastic carnival barker style, cheerful and energetic tone, a fair-minded contest judge who enjoys announcing and running the fishing competition."
+    },
+    {
+      "name": "Grandpa Jack",
+      "description": "Elderly male, warm British accent, nostalgic and friendly tone, a retired fishing champion who loves sharing stories and tips with younger adventurers."
+    },
+    {
+      "name": "Joshua",
+      "description": "Young adult male, laid-back surfer-style accent, casual and friendly tone, a relaxed fisherman who uses words like 'dude' and has a carefree attitude."
+    },
+    {
+      "name": "Morris",
+      "description": "Middle-aged male, formal British accent, matter-of-fact and professional tone, a no-nonsense gatekeeper who takes his job of checking competition passes seriously."
+    },
+    {
+      "name": "Sinister Stranger",
+      "description": "Adult male vampyre, thick Eastern European accent, mysterious and theatrical tone, speaks with heavy 'v' and 'z' sounds while unconvincingly denying being a vampyre."
+    },
+    {
+      "name": "Vestri",
+      "description": "Middle-aged male dwarf, Scottish accent, gruff and grumpy tone, a stern guard who is protective of his mountain home and distrustful of outsiders."
+    }
+  ]
+}

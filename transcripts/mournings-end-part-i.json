@@ -1,0 +1,1244 @@
+{
+  "branch": "quest/mournings-end-part-i",
+  "quest_name": "Mourning's End Part I",
+  "lines": [
+    {
+      "character": "Arianwyn",
+      "line": "Ah, glad to see you made it. Welcome to Lletya, home to the Elven Resistance."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. It wasn't particularly easy to get here, it took some work to convince Islwyn I could be trusted."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "That's not surprising, he is not particularly fond of humans. But if you've earnt his trust, it proves to me that I was right to take a chance on you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad you did. I hate the thought that I might still be blindly working for King Lathas and Lord Iorwerth right now."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Well you're here now and you still have a chance to right your previous wrongs."
+    },
+    {
+      "character": "Player",
+      "line": "I hope so. There's a lot I still don't understand though. Why are King Lathas and Lord Iorwerth working together? Where does the plague fit in?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I'm afraid that a lot is still unknown to us as well. However, I will explain what I can. Be aware that this is only a brief overview. You'll find some books around the village that explain more if you wish though."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, let's begin."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Many years ago, all elves lived in harmony within the crystal city of Prifddinas alongside our goddess, Seren. When the God Wars ended, Seren was lost to us. For the first time, we were alone. To lead us through those difficult times, Baxtorian Cadarn was named the first king of the elves. Under Baxtorian, our kingdom expanded into the east. We prospered for a time, but little did we know that an enemy walked among us. During that time, Lord Iorwerth turned away from Seren and pledged himself to Zamorak, the Dark Lord. A larger kingdom meant our forces were further spread. Lord Iorwerth took advantage of that. He claimed Prifddinas as his own. Baxtorian tried to take it back from him, but Prifddinas was built to survive the God Wars. There was no way to retake it. In a last attempt to keep the city safe, Baxtorian and the clan elders sung the song of inversion which reverted the entire city into a crystal seed."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, so that explains why the city just looks like an empty field."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Indeed. After that, Baxtorian returned to the east but found that the rest of the kingdom had fallen while he was away. Not only that, but his wife, Glarial, had been taken."
+    },
+    {
+      "character": "Player",
+      "line": "I know this bit, Baxtorian retreated into his home beneath the waterfall and never came out. I moved Glarial's remains into the waterfall so they could be together."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "That's good to hear, I can see why you managed to earn Islwyn's trust. Anyway, with Baxtorian gone and Prifddinas lost, our land erupted into a Civil War. We've been fighting ever since."
+    },
+    {
+      "character": "Player",
+      "line": "I see, it's good to have a bit more understanding. But where does King Lathas come into this?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "That is the bit we're not so sure on. We know little about the lands to the east. From what we can tell, it seems that Lord Iorwerth has promised to support King Lathas in reclaiming some land his family once owned."
+    },
+    {
+      "character": "Player",
+      "line": "But why? What's in it for Lord Iorwerth."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "That's what we want you to find out. According to our spies, Lord Iorwerth has used the alliance with King Lathas as an opportunity to infiltrate West Ardougne. The city must contain something he needs."
+    },
+    {
+      "character": "Player",
+      "line": "Infiltrate? How?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Those that you know as mourners are in fact elves in service to Lord Iorwerth. We regularly see them crossing the Arandar mountain pass and into the east."
+    },
+    {
+      "character": "Player",
+      "line": "Mourners are elves?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "That they are. We assume that the plague is a cover up for them to enter the city unchallenged. We don't know why though. That's why we need you. You know the city and can freely travel there. You are the perfect person for this task. We need you to go to West Ardougne, infiltrate the mourners and find out what they are doing in the city."
+    },
+    {
+      "character": "Player",
+      "line": "Let's skip the backstory."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I'd argue that understanding is essential to what comes next. But as you wish."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "The bit that is relevant to you is the recent alliance between King Lathas and Lord Iorwerth."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "From what we can tell, it seems that Lord Iorwerth has promised to support King Lathas in reclaiming some land his family once owned."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "That they are. We assume that the plague is a cover up for them to enter the city unchallenged. We don't know why though. That's why we need you."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "You know the city and can freely travel there. You are the perfect person for this task. We need you to go to West Ardougne, infiltrate the mourners and find out what they are doing in the city."
+    },
+    {
+      "character": "Player",
+      "line": "So you want me to infiltrate the mourners? How am I supposed to achieve that?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "I don't have an exact plan for you I'm afraid. You know the city better than any of us so are best placed to make a plan yourself. However as I said before, there have been sightings of mourners crossing the Arandar mountain pass. I'm sure you can take advantage of that."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "I killed one of those mourners crossing the mountain pass and took their clothes."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Ah, a disguise. Good thinking."
+    },
+    {
+      "character": "Player",
+      "line": "I do have a bit of an issue though. The top has blood on it and the trousers are ripped."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Hmm... Well you can try asking our local seamstress, Oronwen, about the trousers. As for the top, you'll need to find a way to get it cleaned. Maybe you can find someone who does a lot of laundry. Someone who wears lots of white might be a good bet."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks for the help."
+    },
+    {
+      "character": "Player",
+      "line": "So, you're doing laundry, eh?"
+    },
+    {
+      "character": "Tegid",
+      "line": "Yes. What is it to you?"
+    },
+    {
+      "character": "Player",
+      "line": "Nice day for it."
+    },
+    {
+      "character": "Tegid",
+      "line": "I suppose it is."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know any way to remove blood stains?"
+    },
+    {
+      "character": "Tegid",
+      "line": "Blood stains is it... Well, the soap I use can clean almost any stain."
+    },
+    {
+      "character": "Player",
+      "line": "Really?!? That sounds like just the thing I need, can I use some?"
+    },
+    {
+      "character": "Tegid",
+      "line": "No, I don't have very much soap left and I still have lots to get clean."
+    },
+    {
+      "character": "Player",
+      "line": "Alright can you tell me where I can buy some?"
+    },
+    {
+      "character": "Tegid",
+      "line": "You can't... I make it to my own secret recipe."
+    },
+    {
+      "character": "Player",
+      "line": "Could you be less helpful?"
+    },
+    {
+      "character": "Tegid",
+      "line": "Like you were, taking those robes from my washing line?? So yes, if you know a way I can be less helpful just tell me. I'll try it."
+    },
+    {
+      "character": "Oronwen",
+      "line": "Hello, can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you mend clothes?"
+    },
+    {
+      "character": "Oronwen",
+      "line": "I do, but human clothes are too hard to mend. They do not have the finesse of elven garments."
+    },
+    {
+      "character": "Player",
+      "line": "I need you to repair some elven clothing as it goes."
+    },
+    {
+      "character": "Oronwen",
+      "line": "Let me take a look at it then."
+    },
+    {
+      "character": "Oronwen",
+      "line": "There's something disturbingly familiar about the design of these trousers, they are made for an elf."
+    },
+    {
+      "character": "Player",
+      "line": "But can you fix them?"
+    },
+    {
+      "character": "Oronwen",
+      "line": "Of course I can, but I will need two pieces of silk and some bear fur."
+    },
+    {
+      "character": "Player",
+      "line": "What do you need to mend my trousers?"
+    },
+    {
+      "character": "Oronwen",
+      "line": "I need bear fur and two pieces of silk."
+    },
+    {
+      "character": "Player",
+      "line": "Alright."
+    },
+    {
+      "character": "Player",
+      "line": "I have all I need to mend my trousers."
+    },
+    {
+      "character": "Oronwen",
+      "line": "Pass it all here then, and I will get started."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks a lot."
+    },
+    {
+      "character": "Oronwen",
+      "line": "Any time."
+    },
+    {
+      "character": "Oronwen",
+      "line": "I need bear fur and one piece of silk."
+    },
+    {
+      "character": "Oronwen",
+      "line": "I only need bear fur now."
+    },
+    {
+      "character": "Oronwen",
+      "line": "I need two pieces of silk."
+    },
+    {
+      "character": "Oronwen",
+      "line": "I only need one piece of silk."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Ah, a disguise. Good thinking. Use it to enter the Mourner Headquarters in West Ardougne. Once your in, see if you can find out what they are doing in the city."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, will do."
+    },
+    {
+      "character": "Player",
+      "line": "Good day."
+    },
+    {
+      "character": "Mourner",
+      "line": "It is good to see so many new recruits, soon no one will be able to stand against the power of the Death Guard."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds... err great."
+    },
+    {
+      "character": "Mourner",
+      "line": "Indeed it is. You should speak with Essyllt downstairs. He's in charge."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Mourner",
+      "line": "Good day. Are you in need of assistance?"
+    },
+    {
+      "character": "Mourner",
+      "line": "Are the townspeople causing you trouble?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, but I don't think you can help"
+    },
+    {
+      "character": "Mourner",
+      "line": "You will be surprised at how much help the brute force of the Guard can be."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'll be sure to ask if I'm in need of some muscle."
+    },
+    {
+      "character": "Player",
+      "line": "No, I just wanted to talk to a friendly face."
+    },
+    {
+      "character": "Mourner",
+      "line": "Do I look friendly to you? I really must work on my scowl more."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, I'm..."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Ah... I take it you are one of the new recruits?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm..."
+    },
+    {
+      "character": "Essyllt",
+      "line": "I'm Essyllt and I'm in charge here. Now come on, let us have a look at your paper work."
+    },
+    {
+      "character": "Essyllt",
+      "line": "This seems to be all in order. Welcome to the Death Guard. Now, for your first assignment... As you may know, part of what we do here is keep the people believing in the plague..."
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Did they not tell you? Hmm... I'd better fill you in. Well as you undoubtedly know, we were sent here by Lord Iorwerth to secure the city. The reason for this is so that we can access the caves below..."
+    },
+    {
+      "character": "Player",
+      "line": "What's important about the caves?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "I'm afraid that information is classified until you prove your commitment to the Death Guard."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, fair enough."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Now to keep our presence in the city secret, Lord Iorwerth arranged an alliance with King Lathas, the ruler in the east. Apparently the fool thinks we will help him dispose of the Knights of Camelot once our work here is done. I expect he'll be disappointed. Anyway, the plague serves two purposes. First, it allows us to move around the city in secret thanks to our mourner disguises. Second, it means we can abduct citizens to mine the caves below with ease. We just pretend they've fallen victim to the plague."
+    },
+    {
+      "character": "Player",
+      "line": "Doesn't anyone suspect the truth?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Well we have had a few near misses. Recently we had some girl from East Ardougne poking around asking too many questions, so we locked her up while we decided what to do with her. Annoyingly, she managed to escape with the help of some adventurer. Lucky for us, they were so stupid that we managed to use the adventurer to deal with King Tyras. It all worked out quite well in the end. Things like that is why we must ensure the people keep believing in the plague though. One of the things we do to keep up the lie is to fool old Farmer Brumty into believing his sheep are infected. The old halfwit thinks just because his sheep are an abnormal colour, that they are all ill with plague. It's amazing what a bit of dye can do."
+    },
+    {
+      "character": "Player",
+      "line": "You dyed them?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Well you don't think they end up those ridiculous colours naturally do you? Anyway, shame of it is that we have yet to find a way to stop the dye from washing out. So we need someone, that someone being you, to go and re-dye them."
+    },
+    {
+      "character": "Player",
+      "line": "Simple enough, you want me to give a blue rinse to a load of old sheep?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Not quite, for starters the sheep need to be dyed red, yellow, green and blue. But most important is that you are not seen doing this by anyone. Also you will need to re-dye them the colours they already are or the farmer may notice the change."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds a little more tricky. How did you do it before?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "We have a gnomic device that fires fat dye parcels that rupture on impact. Unfortunately, we have run out of the parcels and the device is broken."
+    },
+    {
+      "character": "Player",
+      "line": "Can I take a look at it?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Sure. We have a gnome inventor here too. Sadly, he is not being very helpful about fixing it, but you can talk to him if you like. Here is the key, he is in the next room. And here's the device as well."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Have you finished with those sheep yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm sorry I lost the gnomic device and the key."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Well it is lucky we have a whole stack of broken devices, there must be some flaw in the design, they always break in the same way. If you ever need another there is a chest full of them over there."
+    },
+    {
+      "character": "Essyllt",
+      "line": "I also keep copies of the key on my desk so I can replace that too."
+    },
+    {
+      "character": "Player",
+      "line": "Not yet, I lost the gnomic device."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Well it is lucky we have a whole stack of broken ones, there must be some flaw in the design, they always break in the same way. If you ever need another there is a chest full of them over there."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry but I lost the key."
+    },
+    {
+      "character": "Essyllt",
+      "line": "I keep copies of the key on my desk so I can replace that."
+    },
+    {
+      "character": "Player",
+      "line": "Hello, will you help me fix this... err... thing?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "I'm not helping you fix that, as if it hasn't caused enough trouble as it is. Your friends have already tried every torture in the book! I'm still not telling anyone squat."
+    },
+    {
+      "character": "Player",
+      "line": "Have they tried... err... Stretching your eyelids yet?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Yes, it didn't work."
+    },
+    {
+      "character": "Player",
+      "line": "How about... feeding you nail and prune stew?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "That's all I've been living on since I got here."
+    },
+    {
+      "character": "Player",
+      "line": "Set fire to your nostril hair? Let rabid rabbits nibble your toes? Given you a twisted arm?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Yes, yes and yes. Tried them all, quite liked the toe nibbling."
+    },
+    {
+      "character": "Player",
+      "line": "Extracted your wisdom teeth?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Us gnomes aren't wise so we don't get them. Face it, you'll never put me in enough pain that I'll tell you what you wanna know. I used to play gnomeball as a kid. This is a walk in the park in comparison."
+    },
+    {
+      "character": "Player",
+      "line": "Alright I get the picture. What will work then?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Ha! You think I'm stupid enough to tell you that I've been craving toad crunchies or that I can't stand having my feet tickled!"
+    },
+    {
+      "character": "Player",
+      "line": "Err... But you just told me?!?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "I did? What did I say?"
+    },
+    {
+      "character": "Player",
+      "line": "You said about going to the park and playing gnomeball."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Yes yes!! That was it, I'd hate that. Please don't do that. By Guthix's beard you mourners are such idiots! Leave me be moron."
+    },
+    {
+      "character": "Player",
+      "line": "You said about toad crunchies and a gnome ball."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "I used to play gnomeball yes.... what's that got to do with anything? Nothing that can convince me to help you that's for sure. Go away imbecile."
+    },
+    {
+      "character": "Player",
+      "line": "You said about toad crunchies and being tickled."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Oops... I mean erm... No that must have been some other err... gnome..."
+    },
+    {
+      "character": "Player",
+      "line": "You're not fooling me... So you'll help me in exchange for toad crunchies?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "If you think you can just buy my co-operation you're a bigger imbecile than I thought."
+    },
+    {
+      "character": "Player",
+      "line": "You will tell me, sooner or later."
+    },
+    {
+      "character": "Player",
+      "line": "You said about being tickled and a gnome ball."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Oooh... a big scary gnomeball. I mean, it might crush me and my entire family, because we're so small!! They have big teeth and everything don't they? Sheesh. You mourners will have to try better than that. Now go away. I need some sleep after all these *yawn* scary threats."
+    },
+    {
+      "character": "Player",
+      "line": "You said about being tickled and going to the park."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "No... I said being here is a walk in the park. Where do they get you guys? You must all be Ogre rejects for being too thick. Leave me be idiot."
+    },
+    {
+      "character": "Player",
+      "line": "Now will you help me or would you prefer it if I tickle your feet?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Alright... alright! I'm beaten! Bring me some soft leather and some magic logs and I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "I have all of that here."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Well let me up off of this rack and I'll get started, I can't do anything while I'm all tied up."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "You got everything?"
+    },
+    {
+      "character": "Player",
+      "line": "I still need some soft leather."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Well when you have it all I'll fix that thing, but please don't tickle me any more."
+    },
+    {
+      "character": "Player",
+      "line": "I still need some magic logs."
+    },
+    {
+      "character": "Player",
+      "line": "I have it all here."
+    },
+    {
+      "character": "Player",
+      "line": "Now will you help me or do I have to tickle your feet some more?"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "I told you, I'm not going to get anything out of helping you, am I? As I figure, that device is the only thing keeping me out of the slave pens, where I'd get fed worse than nail and prune stew!"
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Oi! There's no need for that, I already agreed to help."
+    },
+    {
+      "character": "Player",
+      "line": "That's all well and good but I'm enjoying doing it."
+    },
+    {
+      "character": "Gnome on a rack",
+      "line": "Ho ho ho... no more... Teehee... please stop... Hoohoo... he he he... I hate you!"
+    },
+    {
+      "character": "Mourner",
+      "line": "What do you think you are doing? You are meant to be getting information out of him, not making friends!"
+    },
+    {
+      "character": "Player",
+      "line": "I need to let him up if he's to fix this advice."
+    },
+    {
+      "character": "Mourner",
+      "line": "Okay, but without the proper paperwork he stays in this room."
+    },
+    {
+      "character": "Gnome",
+      "line": "Right, here you go. Now leave me to eat my crunchies in peace."
+    },
+    {
+      "character": "Gnome",
+      "line": "What are you after now?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I can get the dye parcels for his thing?"
+    },
+    {
+      "character": "Gnome",
+      "line": "You mourners are really not very good at this are you? Fine, since you gave me some crunchies, the parcels are actually toads."
+    },
+    {
+      "character": "Player",
+      "line": "Toads?"
+    },
+    {
+      "character": "Gnome",
+      "line": "Yes, toads. Get some bellows and fill them with the dye you want. Then just find a toad and use the bellows to fill it up."
+    },
+    {
+      "character": "Player",
+      "line": "Poor toads."
+    },
+    {
+      "character": "Gnome",
+      "line": "Ahh they're fine, a bit of dye never hurt anything... It's the firing them out the device that kills them."
+    },
+    {
+      "character": "Player",
+      "line": "Ewww... That's nasty."
+    },
+    {
+      "character": "Gnome",
+      "line": "Oh and torturing gnomes is perfectly fine? Hypocrite."
+    },
+    {
+      "character": "Player",
+      "line": "You make a fair point. Where do I find the toads?"
+    },
+    {
+      "character": "Gnome",
+      "line": "You get loads of them down in the Feldip Hills, especially near the ponds."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I've used them to catch chompy birds before. I have some bellows right here as well."
+    },
+    {
+      "character": "Gnome",
+      "line": "Catching chompy birds? You mourners are weird. Anyway, if you don't need anything else I'd like to be left in peace."
+    },
+    {
+      "character": "Player",
+      "line": "Could you remind me where I can get the dye parcels for this thing?"
+    },
+    {
+      "character": "Gnome",
+      "line": "How forgetful are you? Get some bellows and fill them with the dye you want. Then just head down to the Feldip Hills, find a toad and use the bellows to fill it up."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the reminder. I have some bellows right here that I can use."
+    },
+    {
+      "character": "Gnome",
+      "line": "Well if you don't need anything else I'd like to be left in peace."
+    },
+    {
+      "character": "Elena",
+      "line": "Hey, how are you?"
+    },
+    {
+      "character": "Player",
+      "line": "Good thanks, yourself?"
+    },
+    {
+      "character": "Elena",
+      "line": "Not bad, did you speak to the king?"
+    },
+    {
+      "character": "Player",
+      "line": "I did, he admitted the plague is a hoax."
+    },
+    {
+      "character": "Elena",
+      "line": "Did he say why?"
+    },
+    {
+      "character": "Player",
+      "line": "He did. Turns out he was lying to me though."
+    },
+    {
+      "character": "Elena",
+      "line": "Lying? About what?"
+    },
+    {
+      "character": "Player",
+      "line": "About his loyalty. It seems the plague is part of some evil plan of his. I still don't know what that is though."
+    },
+    {
+      "character": "Elena",
+      "line": "This doesn't sound good at all. Should we tell someone?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet. I still need to work out exactly what's going on. I have some new allies who might help me with that though."
+    },
+    {
+      "character": "Elena",
+      "line": "Well let me know as soon as you have something. And look after yourself out there, I worry about what you've got yourself involved in."
+    },
+    {
+      "character": "Player",
+      "line": "I'll be careful Elena. I promise."
+    },
+    {
+      "character": "Elena",
+      "line": "How dare you enter my house, Mourner! Get out!"
+    },
+    {
+      "character": "Player",
+      "line": "Elena, it's me...."
+    },
+    {
+      "character": "Elena",
+      "line": "? I didn't recogonise you in all that Mourner gear!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, didn't mean to scare you."
+    },
+    {
+      "character": "Elena",
+      "line": "I worry about what you've got yourself involved in. You be careful out there."
+    },
+    {
+      "character": "Player",
+      "line": "I'll look after myself Elena. I promise."
+    },
+    {
+      "character": "Elena",
+      "line": "You'd better. Let me know as soon as you work out what's going on."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "How goes it ?"
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I've managed to infiltrate the mourners. I just have to find out what they are up to now."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Great work! Stick with it."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, it is done. What next?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "It is good to see your enthusiasm. I was going to get one of the others to do this job, but as you are here... It has been quite some time since anyone got ill form the plague, so I would like you to see to it that people do!"
+    },
+    {
+      "character": "Player",
+      "line": "Err... But the plague doesn't exist, how am I meant to do that?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "We have never tried this before, but some joker put something in our food not too long ago that gave us all symptoms akin to those of the plague. If you can find out what it was that we were poisoned with, you could reproduce the effects. If done right the poison should not be fatal and could help restock our dwindling supply of cheap labour. We can have our men remove the 'infected' citizens and sent into the mines. Distribution should be easy enough. Because of the city walls no one can grow their own food. Instead, all the food here comes from one of three supply points."
+    },
+    {
+      "character": "Player",
+      "line": "Let me get this clear, you want me to find out who poisoned you, find out what they poisoned you with, find out how to make the poison and produce enough poison to affect a lot of people?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Don't forget the part where you use the poison to contaminate the food supply. Two of the three supply points should be enough."
+    },
+    {
+      "character": "Player",
+      "line": "How am I meant to do all of that?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "You seem resourceful so I'm sure you will come up with something. I would help you but I am not a biologist."
+    },
+    {
+      "character": "Player",
+      "line": "Luckily for me I know a biologist nearby."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Someone trustworthy I hope?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, definitely."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Very well. Perform this task and then return to me."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again Elena."
+    },
+    {
+      "character": "Elena",
+      "line": "? I didn't recognise you in all that Mourner gear!"
+    },
+    {
+      "character": "Player",
+      "line": "It's a long story."
+    },
+    {
+      "character": "Elena",
+      "line": "Well I'm not going anywhere. What's going on?"
+    },
+    {
+      "character": "Elena",
+      "line": "! How's it going? Have you found out any more about the plague?"
+    },
+    {
+      "character": "Player",
+      "line": "As it goes, yes I have. It's a long story."
+    },
+    {
+      "character": "Player",
+      "line": "Well I'll start from when we found out that the plague was a hoax. When I confronted the king, he told me that he faked the plague to keep people safe from his brother, King Tyras. He said that Tyras was taken by the Dark Lord while exploring the lands to the west. He claimed that the Dark Lord corrupted him by forcing him to drink from the Chalice of Eternity."
+    },
+    {
+      "character": "Elena",
+      "line": "But that was a lie?"
+    },
+    {
+      "character": "Player",
+      "line": "Indeed, but I didn't find out until much later. On the kings orders, I travelled through the Underground Pass and into the western lands of Tirannwn. Once there, I met up with Lord Iorwerth, the leader of some elves that had allied with the king. He helped me kill King Tyras. That was when I discovered the truth. While returning to King Lathas, I was confronted by another elf named Arianwyn, the leader of a group of rebel elves opposing Lord Iorwerth. At the time, I was carrying a letter from Lord Iorwerth to King Lathas. Arianwyn magically broke the seal on the letter so I could read it."
+    },
+    {
+      "character": "Elena",
+      "line": "What did it say?"
+    },
+    {
+      "character": "Player",
+      "line": "It revealed that it's actually King Lathas and Lord Iorwerth who serve the Dark Lord. According to the letter, King Lathas wants to reclaim Camelot from King Arthur and believes the Dark Lord can help him."
+    },
+    {
+      "character": "Elena",
+      "line": "And Lord Iorwerth?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not exactly sure yet. West Ardougne seems to be key to his plans though. I met with Arianwyn who revealed to me that the mourners are actually elves in service to Lord Iorwerth. I've infiltrated the mourners and I'm trying to work out what they are doing. From what I've learnt so far, there's something important to them in the caves below West Ardougne. I'm currently working with them to earn their trust. Hopefully they'll reveal their plans to me soon."
+    },
+    {
+      "character": "Elena",
+      "line": "I see, that's quite the reveal. If you need anything from me just ask."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I was hoping you could help me with something."
+    },
+    {
+      "character": "Elena",
+      "line": "What's the problem?"
+    },
+    {
+      "character": "Player",
+      "line": "I've been asked to produce a poison based on rotten apples."
+    },
+    {
+      "character": "Elena",
+      "line": "I doubt any poison based solely on apples, rotten or not, would be very effective."
+    },
+    {
+      "character": "Player",
+      "line": "Well I put a rotten apple in the Mourners' stew, I'm told that the effect was much like the symptoms of the plague."
+    },
+    {
+      "character": "Elena",
+      "line": "Hmm... That sounds like they were ill from some sort of toxin, I should think it was a mould of some sort that had the effect, not the rotten apple itself. What do you need it for?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to poison a large food supply in order to get the Mourners' trust."
+    },
+    {
+      "character": "Elena",
+      "line": "That's awful, I can't help you with that."
+    },
+    {
+      "character": "Player",
+      "line": "If I don't gain the trust of the Mourners, then the people of West Ardougne will have a much worse time than the effects of that toxin. Elena trust me."
+    },
+    {
+      "character": "Elena",
+      "line": "You'd better be right about this, and I'd better make sure you get this toxin right so no one dies! Bring me a sample of rotten apple to examine. I'll also see if I can make a counteractant for the toxin."
+    },
+    {
+      "character": "Player",
+      "line": "Alright I'll be back shortly with a rotten apple for you."
+    },
+    {
+      "character": "Player",
+      "line": "I have one right here."
+    },
+    {
+      "character": "Player",
+      "line": "I'm back."
+    },
+    {
+      "character": "Elena",
+      "line": "You have a sample of rotten apple for me?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I forgot to get one."
+    },
+    {
+      "character": "Elena",
+      "line": "Well if you bring me one we can get started on this toxin."
+    },
+    {
+      "character": "Elena",
+      "line": "Is that you ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes it's me."
+    },
+    {
+      "character": "Player",
+      "line": "Yes I have it right here."
+    },
+    {
+      "character": "Elena",
+      "line": "Ick... Alright then let's get started."
+    },
+    {
+      "character": "Elena",
+      "line": "Right.. lets see..."
+    },
+    {
+      "character": "Elena",
+      "line": "Okay, I've managed to isolate a small sample of the toxin. It's a byproduct of the mould that grows on these apples, it's not fatal so a counteractant shouldn't be necessary. How big is the store that you're going to affect?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I was instructed to contaminate two of the three supply points in West Ardougne."
+    },
+    {
+      "character": "Elena",
+      "line": "That's over half of the food in the city! You're going to need a huge amount of the toxin to do that. You're also going to need to refine it too, or people will notice rotten apples in amongst the food."
+    },
+    {
+      "character": "Player",
+      "line": "This is starting to sound a little tricky, can't you make it for me?"
+    },
+    {
+      "character": "Elena",
+      "line": "I would, but I don't have the right equipment here to do anything in bulk."
+    },
+    {
+      "character": "Player",
+      "line": "Alright then, tell me the process and I'll get started."
+    },
+    {
+      "character": "Elena",
+      "line": "Right then, the first thing to do is mash up a lot of rotten apples, then you will need to dissolve the toxin into a liquid that has a very low evaporation point, some form of solvent. I don't know as much about those kinds of chemicals but I believe naphtha will be perfect for this."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, I've worked with naphtha before. The chemist in Rimmington helped me make it from coal tar."
+    },
+    {
+      "character": "Elena",
+      "line": "Perfect. Well get yourself some naphtha and some mashed rotten apples and mix them together. Once you've done that, strain out any solids. Finally, heat the mixture to evaporate off the solvent. Be careful of naked flames as the solvent will be highly flammable."
+    },
+    {
+      "character": "Player",
+      "line": "And that's all is it? Why isn't anything ever easy?"
+    },
+    {
+      "character": "Elena",
+      "line": "Sorry, I never said it would be simple. Here, you'll need this to strain out the solids."
+    },
+    {
+      "character": "Elena",
+      "line": "You may want to check out the orchard just north of the city. I hear no one has tended it since the blight infected the trees there. I imagine it will have plenty of rotten apples."
+    },
+    {
+      "character": "Player",
+      "line": "Hey Elena."
+    },
+    {
+      "character": "Elena",
+      "line": "Huh? Oh hello. I just can't get used to a friend being dressed as mourner."
+    },
+    {
+      "character": "Elena",
+      "line": "So how's the poisoning going?"
+    },
+    {
+      "character": "Player",
+      "line": "Not too well, can you remind me how I should make it again?"
+    },
+    {
+      "character": "Elena",
+      "line": "Right, the first thing to do is mash up a lot of rotten apples. You'll probably be able to do that at the orchard just north of the city. I hear no one has tended it since the blight infected the trees there. Next, you'll want to get yourself some naphtha and mix it with the rotten apples. You mentioned the chemist in Rimmingon helped you with naphtha before. You might want to speak to him again. Once that's done, use the sieve I gave you to strain out any solids. Finally, heat the mixture to evaporate off the solvent. Be careful of naked flames as the solvent will be highly flammable."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks Elena."
+    },
+    {
+      "character": "Elena",
+      "line": "No problem."
+    },
+    {
+      "character": "Player",
+      "line": "It's all done."
+    },
+    {
+      "character": "Elena",
+      "line": "So have you found out what those mourner are up to yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I was just on my way back there."
+    },
+    {
+      "character": "Elena",
+      "line": "Well let me know when you find out."
+    },
+    {
+      "character": "Player",
+      "line": "I will."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing I'm just talking to people randomly in case it helps."
+    },
+    {
+      "character": "Gnome",
+      "line": "Does it?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really, no."
+    },
+    {
+      "character": "Gnome",
+      "line": "Maybe you should give me more toad crunchies. Ask any gnome, 'toad should be in everything' they'll tell you, mark my words."
+    },
+    {
+      "character": "Gnome",
+      "line": "Thanks... Toads always hit the spot!"
+    },
+    {
+      "character": "Gnome",
+      "line": "I got no need for that, keep it."
+    },
+    {
+      "character": "Essyllt",
+      "line": "You are back already? How is the epidemic going?"
+    },
+    {
+      "character": "Player",
+      "line": "The epidemic? Oh, you mean the poisoning?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Subtle as a brick... Yes that, how is it going?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "This is good news, give it a few days and the slave pens will be full again."
+    },
+    {
+      "character": "Player",
+      "line": "So have I proved my commitment now?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "Yes I think you have. I guess you want to know what we're doing in the mines?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes please."
+    },
+    {
+      "character": "Essyllt",
+      "line": "A long time ago, Seren herself ordered the construction of a great temple deep beneath the earth. This temple guards a great power, one that is key to our plans. We believe the temple lies beneath this city. That is why we are here. Unfortunately, progress has been slower than we'd have liked. The slaves accidently mined into some old caverns infested with beasts. They have caused us significant issues."
+    },
+    {
+      "character": "Player",
+      "line": "I see. But how close are we to finding it ?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "It shouldn't be long now. We have started to see signs that we are near. Anyway, now that you know about the temple, I have a new task for you to perform, deep within the mines. Alas, one of the guards has taken the key to the mines to be copied. Report in regularly and I will see that you get a copy as soon as he gets back."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Now be on your way, I have other things to attend to."
+    },
+    {
+      "character": "Essyllt",
+      "line": "What was that?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh nothing."
+    },
+    {
+      "character": "Essyllt",
+      "line": "Hmm, fair enough."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have the key to the mines yet?"
+    },
+    {
+      "character": "Essyllt",
+      "line": "No, the guard is being a bit slow, but we should have it soon."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll report in again later."
+    },
+    {
+      "character": "Elena",
+      "line": "Hello. Have you found out what those mourners are up to yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Apparently they are trying to find an old temple deep under the city. That's what their mining operation is for. The temple seems to be the key to their plans. It apparently holds a great power. I still have no idea what that is yet though."
+    },
+    {
+      "character": "Player",
+      "line": "I think I have the information you're after. It seems Iorwerth elves are searching for an ancient temple of some sort deep beneath West Ardougne."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Temple? That must be the Temple of Light!"
+    },
+    {
+      "character": "Player",
+      "line": "Temple of Light? What's the Temple of Light?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "It was built by Seren herself to guard a dark and ancient power. This is not good friend, I fear Lord Iorwerth intends to use that power to summon the Dark Lord!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think they've found this temple yet, but they know it's down there."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Well then we still have time. Thank you for your help so far, we would never have discovered this without you. Now we must prepare for what comes next."
+    },
+    {
+      "character": "Player",
+      "line": "So what are we going to do about the Temple of Light?"
+    },
+    {
+      "character": "Arianwyn",
+      "line": "First of all, we need to know how close the Iorwerth elves are to finding it. Do you think you are ready for this?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I am."
+    },
+    {
+      "character": "Arianwyn",
+      "line": "Well don't take too long. Every second we waste is a big risk."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Arianwyn",
+      "description": "Ancient male elf, Welsh accent, authoritative yet concerned tone, a principled resistance leader burdened by tragic loss and the weight of responsibility for his people."
+    },
+    {
+      "name": "Elena",
+      "description": "Young adult female human, refined British accent, intelligent and determined tone, a skilled healer and scientist with courage to help despite personal risk."
+    },
+    {
+      "name": "Essyllt",
+      "description": "Ancient male elf, Welsh accent, cold and commanding tone, a ruthless Death Guard commander who speaks with calculated menace and unwavering authority."
+    },
+    {
+      "name": "Gnome",
+      "description": "Adult male gnome, high-pitched voice with Scottish accent, wry and resilient tone, an inventor who maintains dark humor despite captivity and torture."
+    },
+    {
+      "name": "Gnome on a rack",
+      "description": "Adult male gnome, high-pitched voice with Scottish accent, defiant yet strained tone, the same gnome inventor while being tortured, using sarcasm as a coping mechanism."
+    },
+    {
+      "name": "Mourner",
+      "description": "Adult elf, Welsh accent slightly muffled by gas mask, cold bureaucratic tone, an authoritarian enforcer following orders without question."
+    },
+    {
+      "name": "Oronwen",
+      "description": "Adult female elf, Welsh accent, calm and professional tone, a skilled seamstress who takes pride in her craft and serves the elven resistance community."
+    },
+    {
+      "name": "Tegid",
+      "description": "Middle-aged male human druid, Welsh accent, patient but slightly irritated tone, a simple man focused on his laundry who is protective of his belongings."
+    }
+  ]
+}

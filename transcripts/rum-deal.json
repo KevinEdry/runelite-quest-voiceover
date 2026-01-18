@@ -1,0 +1,1712 @@
+{
+  "branch": "quest/rum-deal",
+  "quest_name": "Rum Deal",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Mornin'."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Hey...you're an adventurer, right?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I am!"
+    },
+    {
+      "character": "Player",
+      "line": "Got any quests for me?"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Yeah, I do, as a matter of fact!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "I am a poor, dispossessed nobleman, forced by circumstance to lurk in the middle of nowhere, soliciting help from passers-by."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "You see, my fiendish half-brother has seized my estates and forced me into exile."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "The simple lemon farmers suffer under his tyrannous yoke, and only a brave adventurer can lift his iron boot from the neck of the poor."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "To reclaim my lands I will need to have my family sword returned to me so that I may present it as proof of my rulership."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Will you help me find my family sword?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! Your uncorroborated sob story has touched my heart. When do we set off?"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "You'll help! Wonderful!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "But, alas, my half brother has a powerful ally, the mighty demon..."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Err..."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Err...Barrelor!"
+    },
+    {
+      "character": "Player",
+      "line": "Barrelor?"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "That's what I said!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Barrelor is an awesome opponent, and to reclaim my family sword you will need to defeat him, for he guards it within the deadly Trapped Pit of Barrelor."
+    },
+    {
+      "character": "Player",
+      "line": "Of course, I fear no demon!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Atta !"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "When I am reinstated in my rightful place, I will not be a very wealthy man, as my half-brother has squandered my family fortune."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "However, I will gladly give you every bent penny of what is left, and starve in the gutter with my many, many adorable children, if you say you will help me."
+    },
+    {
+      "character": "Player",
+      "line": "Nonsense! Keep the money! I will dispose of this evil half-brother of yours and leave you what little money is left to feed your family."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Wonderful! Just pick up your diversion and we'll leave!"
+    },
+    {
+      "character": "Player",
+      "line": "What diversion?"
+    },
+    {
+      "character": "Player",
+      "line": "Great, I'll take the cash in used coins please."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Er..."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Look, I think I'll wait here for someone a little more... you know..."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "...heroic."
+    },
+    {
+      "character": "Player",
+      "line": "Not a chance, this sounds too dangerous."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't think I'll help you out this time."
+    },
+    {
+      "character": "Player",
+      "line": "Had any luck finding someone to slay the demon?"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "What?"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Oh! Yes! The demon, with the oppression and stuff!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "No, not yet. Why?"
+    },
+    {
+      "character": "Player",
+      "line": "Because I came to offer to help."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "That's the spirit!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "However, I will gladly give you every bent penny of what is left, and starve in the gutter with my many adorable children if you say you will help me."
+    },
+    {
+      "character": "Player",
+      "line": "No reason. I was just in the area and I thought I would ask."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "I see..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arrr... 'Tis lookin' bleak..."
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Cap'n!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Good news Cap'n!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "I found us a hero down by the docks!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Be they heroic, brave and true?"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "Aye! They also be gullible, tied up and unconscious!"
+    },
+    {
+      "character": "Pirate Pete",
+      "line": "They were willing to help out some random stranger with a good enough sob story, so I smacked them with a bottle and rowed them over."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Brilliant! The island's location will remain a secret!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Bring 'em here and wake 'em up."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "We may make it through this yet..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Are ye alright, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Ohhhh... My head..."
+    },
+    {
+      "character": "Player",
+      "line": "It feels like someone has smacked me one with a bottle..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr... Those devils gave ye a nasty knock when ye came to aid us."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "But now yer here we'll run those evil brain-eatin' dogs off the island fer good!"
+    },
+    {
+      "character": "Player",
+      "line": "What? What is going on here?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't seem to remember anything beyond chatting to a man at the docks."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr. Well, that would be Pete, one of my men."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "He's been out lookin' fer heroes like yerself to aid us in our peril."
+    },
+    {
+      "character": "Player",
+      "line": "Okay... I'll buy that. It sounds like something I would do."
+    },
+    {
+      "character": "Player",
+      "line": "So where am I, and what is going on?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Yer on Braindeath Island!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Where it lies is a secret, because ye are standin' in the brewery of Cap'n Braindeath, purveyor of the most vitriolic alcoholic beverages in the world!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I am the notorious alchemist Cap'n Braindeath, and this whole operation be my idea!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "With my crew of sturdy, upright pirate brewers, we sail the seven seas, distributing cheap 'alcohol' to all and sundry."
+    },
+    {
+      "character": "Player",
+      "line": "Oooh!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "These be dark times, though,. See, a week ago we awoke to find ourselves beseiged."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "The lads and I have held them off so far, but 'tis only a matter of time before they sweep through the buildin' and put us all to the sword."
+    },
+    {
+      "character": "Player",
+      "line": "Who?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Them!"
+    },
+    {
+      "character": "Player",
+      "line": "Are they..."
+    },
+    {
+      "character": "Player",
+      "line": "...protesting?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr, ! That they are!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Day and night they seek to break our will with their chantin', and their singin' and their passive resistance!"
+    },
+    {
+      "character": "Player",
+      "line": "So, what do you want me to do?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, me and the lads got our heads together and decided that if we can get their Cap'n drunk enough, perhaps they'll stop protestin'."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "If that happens, we'll slip out the back and set up shop somewhere else."
+    },
+    {
+      "character": "Player",
+      "line": "Well, how can I help?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, first of all, we need someone to go out the front and grow us some Blindweed."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "'Tis one of the ingredients of our 'rum'."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "The only problem is that those rottin' fiends have torn up and destroyed all but one of the Blindweed Patches."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Here,. I'll give ye the seed you'll need fer growin' the herb. Help yerself to the gardenin' equipment in the basement."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I'll warn ye again that those devils are sat right on top of the patch."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Try hecklin' 'em from a distance. Those Swabs may talk a good fight, but if ye can put a scare in 'em they'll keep out of yer way!"
+    },
+    {
+      "character": "Player",
+      "line": "So..."
+    },
+    {
+      "character": "Player",
+      "line": "What exactly do you want me to do?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr, well I want ye to get outside and grow some Blindweed."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Best be careful, fer them pirates will skin ye alive if they catch ye."
+    },
+    {
+      "character": "Player",
+      "line": "And what happens if I lose the seed?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Then I'll have ye flogged, hung, slapped with a haddock and sent back out there to fight the zombie hordes with little more than harsh language!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Come back and see me when ye ain't loaded down with stuff, and I'll give ye another."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr... Here,. Just take this and get goin'!"
+    },
+    {
+      "character": "Player",
+      "line": "Why do you talk like a pirate? Didn't you tell me you were an alchemist?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr, 'tis true."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "However, 'tis also true that I stumbled across the basic recipe fer my most potent of brews in a terrible alchemical accident."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "See, 'twas a dark and stormy night, and the wind was howlin' around the trees as I worked late into the night."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Steppin' too close to a candle with my flask in my hand, I was suddenly swept up in a terrible, yet potently alcoholic, explosion."
+    },
+    {
+      "character": "Player",
+      "line": "And?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well', it seems the fumes from that first batch of me 'rum' did strange things to me brain."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I don't remember the exact words the healers used, but apparently the stuff burned out the tiny, specialised part of me brain that tells me not to talk like a pirate."
+    },
+    {
+      "character": "Player",
+      "line": "That... that... that sounds utterly impossible!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr! That be what I told them!"
+    },
+    {
+      "character": "Player",
+      "line": "So what do you make here anyway?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "'Rum', !"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "The finest, most potent, most flammable and most debilitatin' 'rum' in the whole of Gielinor!"
+    },
+    {
+      "character": "Player",
+      "line": "Rum, eh?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "No, 'rum'!"
+    },
+    {
+      "character": "Player",
+      "line": "What's the difference?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, see, it's like this."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "If we called the stuff we make 'rum' without makin' the little quote gestures every time, then the Cookin' Guild has promised to do entertaininly painful things to us with whisks."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "See, technically -"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "And by that I mean technically according to the Disposal of Hazardous Waste Act and the Health and Safety Laws -"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "technically, what we're brewin' here is Artificially Produced Hyper Condensed Sweetened 'Rum' Flavour Distillate."
+    },
+    {
+      "character": "Player",
+      "line": "Riiiiiiiight..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "So ye see, we just call it 'rum' because the real name be a bit of a mouthful."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Want a drop?"
+    },
+    {
+      "character": "Player",
+      "line": "No thanks... I think I'll skip it for now."
+    },
+    {
+      "character": "Player",
+      "line": "What exactly do you want me to do with this?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr, well, I want ye to get outside and grow some Blindweed."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Best be careful, lad, fer them pirates will skin ye alive if they catch ye."
+    },
+    {
+      "character": "Player",
+      "line": "So... how are you holding up?"
+    },
+    {
+      "character": "Brewer",
+      "line": "Very well."
+    },
+    {
+      "character": "Player",
+      "line": "You sure?"
+    },
+    {
+      "character": "Brewer",
+      "line": "Oh Guthix, who am I kidding?"
+    },
+    {
+      "character": "Brewer",
+      "line": "We're all gonna die!"
+    },
+    {
+      "character": "Brewer",
+      "line": "Who are you?"
+    },
+    {
+      "character": "Brewer",
+      "line": "You're one of THEM, aren't you!"
+    },
+    {
+      "character": "Player",
+      "line": "O...kay...walking away now, smiling and not making eye contact."
+    },
+    {
+      "character": "Brewer",
+      "line": "Game over, man! Game over!"
+    },
+    {
+      "character": "Player",
+      "line": "Errr...keep up the good work."
+    },
+    {
+      "character": "Brewer",
+      "line": "How do I know you're not one of them?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I don't know... the way I'm breathing could give it away."
+    },
+    {
+      "character": "Brewer",
+      "line": "That means nothing! NOTHING!"
+    },
+    {
+      "character": "Brewer",
+      "line": "Don't talk to me! If I play this right, I can sell you lot out and make it to the mainland!"
+    },
+    {
+      "character": "Brewer",
+      "line": "No school today mother, my brain hurts real baaaad..."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Brewer",
+      "line": "I no sleep in many, many, many days."
+    },
+    {
+      "character": "Brewer",
+      "line": "Don't sneak up on me like that!"
+    },
+    {
+      "character": "Brewer",
+      "line": "Don't you know there's a war on?"
+    },
+    {
+      "character": "Player",
+      "line": "I didnt think this counted as a war."
+    },
+    {
+      "character": "Brewer",
+      "line": "That's because you're a landlubber!"
+    },
+    {
+      "character": "Brewer",
+      "line": "I bet ye've never had to beat a dozen zombies to death with a blunt toothpick!"
+    },
+    {
+      "character": "Player",
+      "line": "That's right. Have you?"
+    },
+    {
+      "character": "Brewer",
+      "line": "No, I've spent most of my time in the toilet to be honest."
+    },
+    {
+      "character": "Brewer",
+      "line": "Very well, considering."
+    },
+    {
+      "character": "Player",
+      "line": "Considering what?"
+    },
+    {
+      "character": "Brewer",
+      "line": "That I've been crawling into the corner to cry whenever nobody is looking."
+    },
+    {
+      "character": "Player",
+      "line": "Wow... I always thought pirates were tough..."
+    },
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Davey",
+      "line": "'Ello guv."
+    },
+    {
+      "character": "Player",
+      "line": "Why are you not helping out the others?"
+    },
+    {
+      "character": "Davey",
+      "line": "Well you see, guv, I've got these unshakable religious convictions."
+    },
+    {
+      "character": "Player",
+      "line": "And those are?"
+    },
+    {
+      "character": "Davey",
+      "line": "Well, it's like this, see. I used to do a bit of the old priestin' on the side."
+    },
+    {
+      "character": "Davey",
+      "line": "You know, collectin' for repairs to the church roof, passing the collection plate, jumble sales, nicking the lead off the temple roof so they needed repairing again."
+    },
+    {
+      "character": "Davey",
+      "line": "Real holy stuff, you know."
+    },
+    {
+      "character": "Player",
+      "line": "That doesn't sound all that holy to me."
+    },
+    {
+      "character": "Davey",
+      "line": "Well, that's because you're not a man of the cloth are you?"
+    },
+    {
+      "character": "Davey",
+      "line": "You are, in fact, what we refer to in layman's terms as a punter."
+    },
+    {
+      "character": "Davey",
+      "line": "But anyway, all that priestin' left me with an unshakable faith in three things."
+    },
+    {
+      "character": "Davey",
+      "line": "The power of good over evil."
+    },
+    {
+      "character": "Davey",
+      "line": "The true glory of the human spirit."
+    },
+    {
+      "character": "Davey",
+      "line": "And that I ain't goin out there with those things runnin' around."
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me, but..."
+    },
+    {
+      "character": "Zombie protester",
+      "line": "Arr!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there any way you could..."
+    },
+    {
+      "character": "Zombie protester",
+      "line": "ARRR!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there anyone else I could..."
+    },
+    {
+      "character": "Zombie protester",
+      "line": "Arrrrrrrrrr!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Fiiine..."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Arr! What be ye wantin?"
+    },
+    {
+      "character": "Player",
+      "line": "I, err, came to..."
+    },
+    {
+      "character": "Player",
+      "line": "I have come to tell you to leave."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Ye have?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Hahahahahahahahahahahahaha!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Bwahahahahahahahahahahahaha!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Wheeze...wheeze..."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Gadzooks, that be the funniest thing I've heard all day! Say it again!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Stop ! I'll shatter me ribs!"
+    },
+    {
+      "character": "Player",
+      "line": "I've come to ask you what you want."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Whadda we want? 'Rum'! When do we want it? Now!"
+    },
+    {
+      "character": "Player",
+      "line": "So...if I were to give you 'rum' you would leave?"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Not really. If ye were to give us 'rum' we'd kill ye quickly, as opposed to over a few weeks."
+    },
+    {
+      "character": "Player",
+      "line": "Oh..."
+    },
+    {
+      "character": "Player",
+      "line": "I've come to join your crew!"
+    },
+    {
+      "character": "Player",
+      "line": "Err, I mean..."
+    },
+    {
+      "character": "Player",
+      "line": "Arr! Shiver me mainbraces and make them landlubbers walk the scurvy plank, Cap'n! I've come to join yer cut- throat, bilge swillin' crew! Also, arr!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Are ye quite done, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, for the time being anyway."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Well, ye'll be glad to know that after that little performance I'd be glad to have ye on me crew!"
+    },
+    {
+      "character": "Player",
+      "line": "Huzzah!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Course, I'll have te kill ye first."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Don't ye worry,. After we take the island I'll have the boss haul yer body to the temple and..."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Err, never mind."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind what?"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Ferget I said anything."
+    },
+    {
+      "character": "50% Luke",
+      "line": "Arr! Tryin' ter get away eh? Well ye'll never sneak past me, I'm the best lookout this crew has ever seen!"
+    },
+    {
+      "character": "Player",
+      "line": "Err...look...an astonishing...thing. There. Behind you."
+    },
+    {
+      "character": "50% Luke",
+      "line": "Ye'll have te do better than that, landlubber!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey you!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Hey yerself, landlubber!"
+    },
+    {
+      "character": "Player",
+      "line": "...so that you will know exactly what time it is due to the horrible pain in your earlobes!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "That be the most intimidatin' thing I've ever heard! I'm not messin' with you!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Arr! Prepare to die!"
+    },
+    {
+      "character": "Player",
+      "line": "...meaning you'll need a dozen Ogres and a team of highly skilled surgeons to remove them!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Hahahaha!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Yer goin ter die!"
+    },
+    {
+      "character": "Player",
+      "line": "...so that all you will be able to hear from then on will be the rustling of the ants walking through them!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Yer brave, but stupid!"
+    },
+    {
+      "character": "Player",
+      "line": "...and then I'll use a wrench to remove the handles, so you'll see it every time you cough!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Who? Me?"
+    },
+    {
+      "character": "Player",
+      "line": "...and I'll grind up what's left, mix it with lemon juice and throw the whole lot into the ocean!"
+    },
+    {
+      "character": "Zombie swab",
+      "line": "Yer a deadman, sez I!"
+    },
+    {
+      "character": "Player",
+      "line": "...leading to the eventual, violent explosion of those organs!"
+    },
+    {
+      "character": "Player",
+      "line": "Here! I have your Blindweed!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Splendid, ! Go shove it in the Intake Hopper upstairs."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "We'll beat them zombies yet! Arr!"
+    },
+    {
+      "character": "Player",
+      "line": "Captain... I grew some blindweed but then I lost it..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "There there, lad. 'Tis all right."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Here, I've been savin' some fer an emergency."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Go shove that in the Intake Hopper, and try not ter lose this lot!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I want ye to go put yer Blindweed in the intake hopper, and to be sharp about it!"
+    },
+    {
+      "character": "Player",
+      "line": "And what happens if I lose the Blindweed between here and the intake hopper?"
+    },
+    {
+      "character": "Player",
+      "line": "Theoretically, of course, as it would be almost impossible for me to simply lose the stuff in the time it will take me."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Gah!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Yer nothin' better than a sea-slug wearin', lilly-legged, bandy-livered landlubber!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I've got a little put aside fer an emergency. Drop some of that junk yer carryin', and come see me to get it."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Here, I was savin' a little fer an emergency, so take this and shove it in the hopper before I bung ye in there and turn the handle!"
+    },
+    {
+      "character": "Player",
+      "line": "You had some all the time?"
+    },
+    {
+      "character": "Player",
+      "line": "Why was I risking my neck killing pirates to grow some if you had some all along?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Less talk, lad, haven't ye got a hopper to be fillin'?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Less talk, haven't ye got a hopper to be fillin'?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, that takes care of the Blindweed. What now?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, now ye've shoved the Blindweed into the mix, what we need is a bucket of stagnant water."
+    },
+    {
+      "character": "Player",
+      "line": "Where can I get some of that?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Ye won't have to go far, we have a pool of the stuff here!"
+    },
+    {
+      "character": "Player",
+      "line": "Here in the brewery?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "No, that would be a strange thing to have in a brewery!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "It's up the mountain to the north."
+    },
+    {
+      "character": "Player",
+      "line": "Up a mountain?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, 'tis technically a volcano, but ye get the general idea."
+    },
+    {
+      "character": "Player",
+      "line": "And I assume the place is crawling with these zombies?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "No, there be not a zombie in sight."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, good!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "All ye have to do is get past the keen-eyed lookout that's been spottin' my men when I send 'em."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I'll tell ye that it won't be easy!"
+    },
+    {
+      "character": "Player",
+      "line": "When is it ever..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Don't ferget yer bucket!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "To get off yer lazy behind and head out to the stagnant lake on top of the volcano."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Chop chop, lad."
+    },
+    {
+      "character": "50% Luke",
+      "line": "Hey! What are you doing out there?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "50% Luke",
+      "line": "Well Cap'n Donnie said no livin' landlubbers were allowed out of the compound."
+    },
+    {
+      "character": "50% Luke",
+      "line": "So get yerself back in here, or yer for it!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I want ye to go pour yer bucket into yonder hopper."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Take yer time, lad, we're only bein' besieged by zombies."
+    },
+    {
+      "character": "Player",
+      "line": "Err... Captain..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Aye, what is it, lad?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, on my way over to the hopper some big boy stole the bucket and ran away..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, 'tis a good job I saved a little, isn't it? Now get rid of something so I can give it to ye."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Give me strength!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "If ye weren't so good at distractin' the zombies I'd skin ye alive!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Take this bucket and pour it into the hopper. If ye don't get it right this time I'll have yer guts fer garters!"
+    },
+    {
+      "character": "Player",
+      "line": "So is that everything?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "No, next ye'll need to go outside and catch five loads of Sluglings fer the brew."
+    },
+    {
+      "character": "Player",
+      "line": "What? Sluglings? That's disgusting!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr, that it be."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "To a weak-stomached, knock-kneed landlubber..."
+    },
+    {
+      "character": "Player",
+      "line": "Why Sluglings?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "'Cos, they're one of our super-secret ingredients! Yer not too susceptible to mind control are ye ?"
+    },
+    {
+      "character": "Player",
+      "line": "Why?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Because they have been known te, well, influence people every now and again."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I'm sure ye've got nothing te worry about!"
+    },
+    {
+      "character": "Player",
+      "line": "They aren't related to those Seaslugs are they?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "No, we just call them 'Sluglings' 'cos of a long and convoluted story involvin' a metal pipe and three dead seagulls."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Aye they're related! Tis a good job they'll starve if they tried te eat yer brains!"
+    },
+    {
+      "character": "Player",
+      "line": "So what should I do with these Sluglings anyway?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, Ye shove them in the Pressure Barrel in the attic."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "And then ye..."
+    },
+    {
+      "character": "Player",
+      "line": "And then I..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Pressurise 'em."
+    },
+    {
+      "character": "Player",
+      "line": "Pressurise them?!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Just a little."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Look, we don't have all day, get movin'."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Ye'll be needin' a fishbowl in a big net to help ye catch them slimy little blighters."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Pity ye ain't got any free space to carry one."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Here. Ye'll need this to catch them."
+    },
+    {
+      "character": "Player",
+      "line": "What should I do with it?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Just dunk it in the water. I'm sure a clever like yerself will have no problem."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Oh, and if ye haul up some squiddy-looking things, don't hesitate to shove 'em in the barrel too."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "They add a special, fishy texture to the drink."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I want ye to go outside and catch five sea creatures from the squid fishin' spot."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "When ye've grabbed them, jam 'em in the barrel in the attic and pressurise 'em."
+    },
+    {
+      "character": "Player",
+      "line": "How am I suppost to catch these things?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Ye'll be needin' to use a fishbowl in a big net to snare these little devils."
+    },
+    {
+      "character": "Player",
+      "line": "And if I don't have one?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Why, I oughta..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Come see me when yer not so laden down. I've got another one fer ye if ye need it."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Here! Try not ter lose this one! These things don't grow on trees, ye know."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Gah! Get that slimy thing away from me!"
+    },
+    {
+      "character": "Player",
+      "line": "The slugs are talking to me... They tell me to do bad things..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Gimme that!"
+    },
+    {
+      "character": "Player",
+      "line": "Egad... what just happened?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "What happened is ye were messin' about with Sluglings!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Don't ye have anything better to do?"
+    },
+    {
+      "character": "Player",
+      "line": "How could I kill my sluggy brethern...?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Snap out of it, ! Yer in slug-shock!"
+    },
+    {
+      "character": "Player",
+      "line": "What? Who?"
+    },
+    {
+      "character": "Player",
+      "line": "Gah! Sorry about that."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "No problem. Well, now ye have just one more ingredient to grab, and then we can get this 'rum' flowin!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, how far away will I have to go to grab it?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Not far at all,. Ye've just got to get it from the basement!"
+    },
+    {
+      "character": "Player",
+      "line": "Great! What is it?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Hold yer horses, ! While ye was off gallivantin' with yer slimy aquatic playmates, the 'rum' achieved spiritual critical mass."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "To put it in terms ye'll understand: the brewin' equipment is possessed."
+    },
+    {
+      "character": "Player",
+      "line": "Possessed!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Don't ye worry yerself about it! This happens all the time."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, to tell the truth, my lads are a little quicker off the mark, so it only happens occasionally."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Not that I'm criticisin' yer performance,."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Give the controls a couple of belts with this wrench."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "One of the lads did a little priestin' on the side before he came here. Get him to bless it and ye'll do fine."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I want yeto go clear the Evil Spirit out of the brewin' controls. Use the wrench I gave ye, but get it blessed first."
+    },
+    {
+      "character": "Player",
+      "line": "Mumblemumblewhatwrenchmumble..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "What were that?"
+    },
+    {
+      "character": "Player",
+      "line": "I said, what if I've lost the wrench?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr, ye landlubber!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Calm down, remember yer ulcer..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Look, I've got another wrench, but ye don't have any free space fer it. Come back when ye do."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Arr! I'd get more work out of a minty flavoured brick!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "If ye lose this one I'll have ye turned inside out, covered with spiders and turned rightside in so they'll eat ye alive!"
+    },
+    {
+      "character": "Player",
+      "line": "Steady on!"
+    },
+    {
+      "character": "Player",
+      "line": "You used to be a priest, right?"
+    },
+    {
+      "character": "Davey",
+      "line": "I didn't nick anything, guv. I've got twenty people who'll swear blind I was..."
+    },
+    {
+      "character": "Player",
+      "line": "Never mind. I need some help with the spirit in the brewing equipment."
+    },
+    {
+      "character": "Davey",
+      "line": "Well, I'll bless something for you if you need it, but just don't spread it around that I'm giving out freebies."
+    },
+    {
+      "character": "Davey",
+      "line": "Trust me, guv, lots of people need help after coming into contact with the spirits we produce here."
+    },
+    {
+      "character": "Player",
+      "line": "Can you bless this wrench for me?"
+    },
+    {
+      "character": "Davey",
+      "line": "Nope."
+    },
+    {
+      "character": "Player",
+      "line": "Nope?"
+    },
+    {
+      "character": "Davey",
+      "line": "Nope. You don't strike me as being... devout, you know?"
+    },
+    {
+      "character": "Player",
+      "line": "Come again?"
+    },
+    {
+      "character": "Davey",
+      "line": "Your holy aura, it's a little shoddy, if you catch my drift."
+    },
+    {
+      "character": "Davey",
+      "line": "You need a Prayer level of 47."
+    },
+    {
+      "character": "Player",
+      "line": "Oh!"
+    },
+    {
+      "character": "Player",
+      "line": "Well why didn't you just say so?"
+    },
+    {
+      "character": "Davey",
+      "line": "I might have had a bit of an overestimation problem guv. I'm sure it won't happen again."
+    },
+    {
+      "character": "Davey",
+      "line": "I might well do. Remember, only the first one's free."
+    },
+    {
+      "character": "Davey",
+      "line": "Dominoes Ad Nauseum, Romanes Eunt Domus."
+    },
+    {
+      "character": "Davey",
+      "line": "Sorted."
+    },
+    {
+      "character": "Player",
+      "line": "Is that it?"
+    },
+    {
+      "character": "Davey",
+      "line": "Oh, you want the full package deal."
+    },
+    {
+      "character": "Davey",
+      "line": "All right. Brace yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Davey",
+      "line": "No problem, guv. Good luck with your little problem."
+    },
+    {
+      "character": "Davey",
+      "line": "You might find that little wrench worth hanging on to after you're done with the Spirit."
+    },
+    {
+      "character": "Player",
+      "line": "Really? I mean, it's holy and everything, but I don't think it looks all that useful."
+    },
+    {
+      "character": "Davey",
+      "line": "Well, it may not look much, but you'll find that you might need a few less prayer potions if you have it in your pack, if you know what I mean."
+    },
+    {
+      "character": "Player",
+      "line": "Well, no. I don't know what you mean, but I'm sure I'll find out!"
+    },
+    {
+      "character": "Davey",
+      "line": "You mean more help? I've already blessed one wrench for you, that should be enough."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I want ye to go clear the Evil Spirit out of the brewin' controls. Use the wrench I gave ye, but get it blessed first."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I see ye've got the wrench good and blessed, so go whack the controls till the Evil Spirit pops out."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I see ye've got the wrench good and blessed, so go whack the hopper 'til the Evil Spirit pops out."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, now that ye've got that spirit out of there ye can dump in the final ingredient."
+    },
+    {
+      "character": "Player",
+      "line": "And that is?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "We need the body of a diseased Fever Spider!"
+    },
+    {
+      "character": "Player",
+      "line": "Remind me never to drink anything you have ever made. Or touched."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "When yer quite done flappin' yer lips, go down into the basement and whack spiders until ye find a fever spider body."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Shove it in the hopper, and then we're in business."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Ye may want to hop back to the mainland and see a Slayer Master."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "These Fever Spiders carry a nasty disease, and ye'll need a pair of Slayer Gloves on to not catch it!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I see yer already wearin' some Slayer Gloves. That'll keep the Fever Spiders from gnawin' yer hands off!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "I want ye to go kill a Fever Spider and jam its body in the hopper."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Whenever yer ready,."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "What are ye doin', ? I want ye to shove that in the hopper, not in me face!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Ye just can't get good help these days..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I stuck your spider in the hopper, what now?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Now ye stand well back and watch the glory of brewin' at its best!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Aye ! Now get outside and feed that stuff to the pirates."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Try givin' it to the Captain, he's in charge. Get him bladdered and the rest will fall!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Ye'll need to use that bucket of yours. Most stuff can't stand bein' in contact with our 'rum' fer too long."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Took us a lot of dissolvin' to work that one out."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "So, what did he say?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "The Cap'n!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh! I haven't spoken to him yet!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Well, get a move on!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "And don't ferget the 'rum'!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Be that the finest, most abrasive 'rum' I've ever smelled?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! That it be!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Hand it over or I'll run ye through!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Arr."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Ye be a good, fer a filthy livin' landlubber."
+    },
+    {
+      "character": "Player",
+      "line": "So... I take it your boss will be pleased?"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Arr, that he will. I'll tell..."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Wait a minute..."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Arr, ye tricky dog!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Ye tried to trick old Donnie!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh well, I guess I'll have to try again."
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Arr, you tried to trick me, but i was too clever for ye!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Besides, Rabid Jack would have my hide if I told ye it were him that sent me!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure he would. Good job you caught me out, eh!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Aye! Now get ye gone, and don't return without more 'rum'!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Hey you! I can smell the 'rum' on ye!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "If it isn't in my belly by the time I cout ter three, I'll have ye flogged!"
+    },
+    {
+      "character": "Captain Donnie",
+      "line": "Arrr...that hits the spot..."
+    },
+    {
+      "character": "Player",
+      "line": "Not much that was coherent."
+    },
+    {
+      "character": "Player",
+      "line": "Who is Rabid Jack?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Rabid Jack!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "THE Rabid Jack!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Egad...I haven't heard that name..."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "...before."
+    },
+    {
+      "character": "Player",
+      "line": "So, who is he?"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Dunno."
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Almost as if I aren't changing subjects, well done!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "With those rottin' dogs legless they'll never keep fighting us now, so we've decided to stay here and keep the 'rum' flowin!"
+    },
+    {
+      "character": "Captain Braindeath",
+      "line": "Thanks,. We'd never have managed without ye!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "50% Luke",
+      "description": "Middle-aged male zombie pirate, gravelly British accent, aggressive and intimidating tone with dark humor. Half his body is missing, making him bitter and quick-tempered."
+    },
+    {
+      "name": "Brewer",
+      "description": "Adult male, British accent, nervous and panicked tone. A brewery worker suffering from hysteria due to the zombie siege, speaking with anxious urgency and paranoid outbursts."
+    },
+    {
+      "name": "Captain Braindeath",
+      "description": "Middle-aged male, strong pirate accent, authoritative and gruff tone. A former alchemist who speaks like a pirate due to a brain injury, pragmatic and commanding but weary from the siege."
+    },
+    {
+      "name": "Captain Donnie",
+      "description": "Older male zombie pirate, raspy and slurred gravelly voice, menacing yet drunken tone. An undead captain pickled by rum, speaking with dark humor and threatening undertones."
+    },
+    {
+      "name": "Davey",
+      "description": "Middle-aged male, Cockney British accent, sardonic and witty tone. A former priest turned pirate with dubious morals, lighthearted and self-aware about his questionable past."
+    },
+    {
+      "name": "Pirate Pete",
+      "description": "Adult male, gruff pirate accent, shifty and cunning tone. A deceptive scoundrel who tricks adventurers with fake sob stories, smooth-talking but ultimately untrustworthy."
+    },
+    {
+      "name": "Zombie protester",
+      "description": "Adult male zombie, gravelly undead voice, aggressive and confrontational tone. An undead pirate protester who speaks in slurred, angry outbursts demanding rum."
+    },
+    {
+      "name": "Zombie swab",
+      "description": "Adult male zombie pirate, rough gravelly voice, boastful and threatening tone. An undead deckhand full of bravado who talks a good fight but can be intimidated."
+    }
+  ]
+}

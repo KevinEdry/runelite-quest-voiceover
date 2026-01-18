@@ -1,0 +1,1664 @@
+{
+  "branch": "quest/watchtower",
+  "quest_name": "Watchtower",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello. What are you doing here?"
+    },
+    {
+      "character": "Tower guard",
+      "line": "We are the tower guards – our business is our own!"
+    },
+    {
+      "character": "Tower guard",
+      "line": "You can't go up there. That's private, that is."
+    },
+    {
+      "character": "Player",
+      "line": "What's going on here?"
+    },
+    {
+      "character": "Wizard",
+      "line": "You'll have to speak with the Watchtower Wizard about that."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Who are you? Are you one of the new guards?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm an adventurer."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Well what are you doing here?"
+    },
+    {
+      "character": "Player",
+      "line": "Looking for adventures - what else?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Oh my, oh my! What does it all matter in the end, anyway?"
+    },
+    {
+      "character": "Player",
+      "line": "What's the matter?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Oh dear, oh dear. Darn and drat!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "We try hard to keep this town protected."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "But how can we do that when the Watchtower isn't working?"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean it isn't working?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "The Watchtower here works by the power of magic. An ancient spell designed to ward off ogres that has been in place here for many moons."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "The exact knowledge of the spell is lost to us now, but the essence of the spell has been infused into four powering crystals that keep the tower protected from the hordes in the Feldips."
+    },
+    {
+      "character": "Player",
+      "line": "So how come the spell doesn't work?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "The crystals! The crystals have been taken!"
+    },
+    {
+      "character": "Player",
+      "line": "Taken?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Stolen!"
+    },
+    {
+      "character": "Player",
+      "line": "Stolen?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Yes, yes! Do I have to repeat myself?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I be of help?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Help? Oh wonderful, dear traveller!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Yes I could do with an extra pair of eyes here."
+    },
+    {
+      "character": "Player",
+      "line": "???"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "There must be some evidence of what has happened here. Perhaps you could assist me in searching for clues?"
+    },
+    {
+      "character": "Player",
+      "line": "I would be happy to."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Try searching the surrounding area. If you find anything unusual, bring it here. Try the bushes - I've read enough adventure stories to know that clues get caught in bushes all the time."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "I will tell the guards to let you past - that way, you can just use the ladder to get in and out."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not interested."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "That's typical, nowadays. It's left to us wizards to do all the work."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not interested in your rantings."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Hmph! Suit yourself."
+    },
+    {
+      "character": "Player",
+      "line": "You wizards are always complaining."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Complaining? Complaining!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "What folks these days don't realise is that if it weren't for us wizards, this entire world would be overrun with every creature you could possibly imagine. And some you couldn't even conceive of!"
+    },
+    {
+      "character": "Player",
+      "line": "I've got some questions about the search for evidence."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Hello again. Did you find anything of interest?"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry, nothing yet."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Oh dear, oh dear, there must be something, somewhere..."
+    },
+    {
+      "character": "Player",
+      "line": "I have this..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Let me see..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "No, sorry, this is not evidence. You need to keep searching, I'm afraid."
+    },
+    {
+      "character": "Player",
+      "line": "Have a look at these..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Interesting, very interesting."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Long nails...grey in colour...well chewed..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Of course! They belong to a skavid!"
+    },
+    {
+      "character": "Player",
+      "line": "A skavid?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "A servant race to the ogres: grey, depressed-looking creatures, always losing nails, teeth and hair!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "They inhabit the caves in the Feldip Hills."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "They normally keep to themselves, though. It's unusual for them to venture from their caves."
+    },
+    {
+      "character": "Player",
+      "line": "What do you suggest I do?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "It's no good searching the caves. Well, not yet, anyway."
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "They are deep and complex. The only way you will navigate the caves is to have a map or something."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "It may be that the ogres have one..."
+    },
+    {
+      "character": "Player",
+      "line": "And how do you know that?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Well... I don't."
+    },
+    {
+      "character": "Player",
+      "line": "So what do I do?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You need to be fearless and gain entrance to Gu'Tanoth, the city of the ogres, then find out how to navigate the caves."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds scary..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Ogres are nasty creatures, yes. Only a strong warrior, and a clever one at that, can get the better of them."
+    },
+    {
+      "character": "Player",
+      "line": "What do I need to do to get into the city?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You'll need some way to make the guards let you in."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You could start by checking out the ogre settlements around here. Tribal ogres often dislike their neighbours... In the meantime, I'll throw those fingernails out for you."
+    },
+    {
+      "character": "Player",
+      "line": "I won't bother, then."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Won't bother? Won't bother!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Perhaps this quest is too hard for you?"
+    },
+    {
+      "character": "Player",
+      "line": "Shall I search the caves?"
+    },
+    {
+      "character": "Player",
+      "line": "Aha! A robe. This could be a clue..."
+    },
+    {
+      "character": "Player",
+      "line": "Here's some armour; it could be evidence..."
+    },
+    {
+      "character": "Player",
+      "line": "Aha, a dagger! I wonder if this is evidence..."
+    },
+    {
+      "character": "Player",
+      "line": "I've found an eye patch; I had better show this to the Watchtower Wizard."
+    },
+    {
+      "character": "Player",
+      "line": "What's this? Disgusting! Some fingernails. They may be a clue though... I'd better take them."
+    },
+    {
+      "character": "Player",
+      "line": "I have already searched this place."
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm, nothing here."
+    },
+    {
+      "character": "Player",
+      "line": "I've got some questions regarding the tribal ogres."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "How's it going?"
+    },
+    {
+      "character": "Player",
+      "line": "I am having difficulty with the tribes."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Talk to them face to face and don't show any fear. Make sure you are rested and well fed, and fight the good fight!"
+    },
+    {
+      "character": "Player",
+      "line": "I have everything under control."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Good, good! I will expect the crystals back shortly then..."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost something the ogres gave to me."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Oh, deary me! Well, there's nothing I can do about it. You will have to go back to them, I'm afraid."
+    },
+    {
+      "character": "Toban",
+      "line": "What do you want, small t'ing?"
+    },
+    {
+      "character": "Player",
+      "line": "I seek entrance to the city of ogres."
+    },
+    {
+      "character": "Toban",
+      "line": "Hahaha! You'll never get in there."
+    },
+    {
+      "character": "Player",
+      "line": "I'll find a way, trust me."
+    },
+    {
+      "character": "Toban",
+      "line": "Bold words for a t'ing so small."
+    },
+    {
+      "character": "Player",
+      "line": "I could do something for you..."
+    },
+    {
+      "character": "Toban",
+      "line": "Hahaha! This creature t'inks it can help me! I would eat you now, but for your puny size."
+    },
+    {
+      "character": "Toban",
+      "line": "Prove to me your might: bring me the bones of an adult dragon to chew on, and I'll eat them, not you."
+    },
+    {
+      "character": "Player",
+      "line": "Die, creature!"
+    },
+    {
+      "character": "Toban",
+      "line": "Hahaha! It t'inks it's a match for Toban, does it?"
+    },
+    {
+      "character": "Toban",
+      "line": "Hahaha! Small t'ing returns. Did you bring the dragon bone?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have what you want."
+    },
+    {
+      "character": "Toban",
+      "line": "Then you shall get nothing from me!"
+    },
+    {
+      "character": "Player",
+      "line": "When I say I will get something, I get it!"
+    },
+    {
+      "character": "Toban",
+      "line": "Hahaha! Small t'ing has done it. Toban is glad - take this..."
+    },
+    {
+      "character": "Toban",
+      "line": "The small t'ing returns; what do you want now?"
+    },
+    {
+      "character": "Player",
+      "line": "I seek another task."
+    },
+    {
+      "character": "Toban",
+      "line": "Have you arrived for dinner? Hahaha! Be gone, small t'ing!"
+    },
+    {
+      "character": "Player",
+      "line": "I can't find the relic part you gave me."
+    },
+    {
+      "character": "Toban",
+      "line": "Small t'ing, you lie to me! I always says that small t'ings are big trouble."
+    },
+    {
+      "character": "Player",
+      "line": "I think I need a key of some sort."
+    },
+    {
+      "character": "Og",
+      "line": "Why you here, little t'ing?"
+    },
+    {
+      "character": "Og",
+      "line": "You got no business there!"
+    },
+    {
+      "character": "Og",
+      "line": "Just a minute... Maybe if you did somet'ing for me, I might help you get in."
+    },
+    {
+      "character": "Player",
+      "line": "What can I do to help an ogre?"
+    },
+    {
+      "character": "Og",
+      "line": "South-east of here der is more ogres - the name of the chieftain is Toban. He stole gold from me and I want it back!"
+    },
+    {
+      "character": "Og",
+      "line": "Here is a key to the chest it's in. If you bring it here, I may reward you..."
+    },
+    {
+      "character": "Player",
+      "line": "I have come to kill you!"
+    },
+    {
+      "character": "Og",
+      "line": "Kill me, eh? You shall be crushed. Guards!"
+    },
+    {
+      "character": "Og",
+      "line": "Where my gold from dat dirty Toban?"
+    },
+    {
+      "character": "Og",
+      "line": "Well, well, the little t'ing has got it! Take dis to show little t'ing is a friend to da ogres. Hahahahaha!"
+    },
+    {
+      "character": "Player",
+      "line": "I have your gold."
+    },
+    {
+      "character": "Og",
+      "line": "No you don't! If you want to impress me, get da gold I asked for!"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't got it yet."
+    },
+    {
+      "character": "Og",
+      "line": "Don't come back until you have it, unless you wanna be on tonight's menu!"
+    },
+    {
+      "character": "Player",
+      "line": "I have lost the key!"
+    },
+    {
+      "character": "Og",
+      "line": "Stoopid! Take another and don't lose it!"
+    },
+    {
+      "character": "Og",
+      "line": "Oh yeah? What's dat den?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah, I've got it right here."
+    },
+    {
+      "character": "Og",
+      "line": "Stoopid!"
+    },
+    {
+      "character": "Og",
+      "line": "Are you trying to trick me? I bet you got it stored somewhere. Humans always do that."
+    },
+    {
+      "character": "Og",
+      "line": "It's the little t'ing again."
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any other tasks for me?"
+    },
+    {
+      "character": "Og",
+      "line": "No, I have no more tasks for you, now go away."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost the relic part you gave me."
+    },
+    {
+      "character": "Og",
+      "line": "Are you blind? I can see you got it even from here!"
+    },
+    {
+      "character": "Og",
+      "line": "Grrr, why do I bother? It's a good job I got another part."
+    },
+    {
+      "character": "Grew",
+      "line": "What do you want, little morsel? You would look good on my plate!"
+    },
+    {
+      "character": "Player",
+      "line": "I want to enter the city of ogres."
+    },
+    {
+      "character": "Grew",
+      "line": "Hah! I should eat you instead!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't eat me; I can help you."
+    },
+    {
+      "character": "Grew",
+      "line": "What can a morsel like you do for me?"
+    },
+    {
+      "character": "Player",
+      "line": "I am a mighty adventurer, slayer of monsters and user of magic powers."
+    },
+    {
+      "character": "Grew",
+      "line": "Well, well, perhaps the morsel can help after all..."
+    },
+    {
+      "character": "Grew",
+      "line": "If you t'ink you're tough, find Gorad, my enemy to the south-east, and knock one of his teeth out! Heheheheh!"
+    },
+    {
+      "character": "Player",
+      "line": "You will have to kill me first."
+    },
+    {
+      "character": "Grew",
+      "line": "That's not tricky - guards!"
+    },
+    {
+      "character": "Grew",
+      "line": "The morsel is back. Does it have our tooth for us?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, I don't have it."
+    },
+    {
+      "character": "Grew",
+      "line": "Morsel, you dare to return without the tooth! Either you are stoopid, or wants to be eaten!"
+    },
+    {
+      "character": "Player",
+      "line": "I have it."
+    },
+    {
+      "character": "Grew",
+      "line": "That'll annoy Gorad lots! Heheheheh! Here's a token of my gratitude: some old gem I stole from Gorad, and an old part of a statue."
+    },
+    {
+      "character": "Player",
+      "line": "I've come to knock your teeth out!"
+    },
+    {
+      "character": "Gorad",
+      "line": "You shut your face! I smack you till you dead and sorry!"
+    },
+    {
+      "character": "Grew",
+      "line": "What are you doing here, morsel?"
+    },
+    {
+      "character": "Player",
+      "line": "Can I do anything else for you?"
+    },
+    {
+      "character": "Grew",
+      "line": "I have nothing left for you but the cooking pot!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the relic part you gave me."
+    },
+    {
+      "character": "Grew",
+      "line": "You lie to me, morsel!"
+    },
+    {
+      "character": "Grew",
+      "line": "Stupid morsel, I have another. Take it and go now before I lose my temper."
+    },
+    {
+      "character": "Grew",
+      "line": "You probably got it stored somewhere, morsel! Humans do that a lot."
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the crystal you gave me."
+    },
+    {
+      "character": "Grew",
+      "line": "How dare you lie to me morsel! I will grind you up for my bread!"
+    },
+    {
+      "character": "Grew",
+      "line": "I suppose you want another? I suppose just this once I could give you my copy..."
+    },
+    {
+      "character": "Player",
+      "line": "An ogre called Og gave me this..."
+    },
+    {
+      "character": "Player",
+      "line": "An ogre called Grew gave me this..."
+    },
+    {
+      "character": "Player",
+      "line": "An ogre called Toban gave me this..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Ah, it's part of an old ogre statue. I'll take that off you - it might come in handy if I can fix it up."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Ah, it's more of that old ogre statue. I'll take this bit too."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "It looks like you've brought me all the pieces of the relic. It is as I thought - a statue symbolising an ogre warrior of old."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Well, if you ever want to make friends with an ogre, this is the item to have! Now I'll try to assemble it..."
+    },
+    {
+      "character": "Player",
+      "line": "I've got some questions about the ogre city."
+    },
+    {
+      "character": "Player",
+      "line": "I had a feeling you might say that."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Ah, the warrior returns. Have you found a way into Gu'Tanoth yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I can't get past the guards."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Well, ogres dislike others apart from their own kind. What you need is some form of proof of friendship, something to trick them into believing you're their friend."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Which shouldn't be too hard, considering their intelligence."
+    },
+    {
+      "character": "Player",
+      "line": "I have lost the relic you gave me."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Have you gone mad? I can see you have it with you!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "What? Lost the relic? How careless! It's a good job I copied its design, then! You can take this copy instead - it's just as good."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "I imagine you've stored it somewhere. Go and see where you might have put it."
+    },
+    {
+      "character": "Player",
+      "line": "I will find my way in, no problem."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Yes, I'm sure you will... Good luck!"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Stop, creature! Only ogres and their friends allowed in this city. Show me a sign of companionship, like a lost relic or somefing, and you may pass."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Until then, back to whence you came!"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Well, what proof of friendship did you bring?"
+    },
+    {
+      "character": "Player",
+      "line": "I have a relic!"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "It's got the statue of Dalgroth. Welcome to Gu'Tanoth, friend of the ogres."
+    },
+    {
+      "character": "Player",
+      "line": "I've made it into the ogre city!"
+    },
+    {
+      "character": "Player",
+      "line": "It's like talking to a broken record."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "How are you doing with the ogres?"
+    },
+    {
+      "character": "Player",
+      "line": "I have gained entry to the city!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Already? Excellent!"
+    },
+    {
+      "character": "Player",
+      "line": "I still can't navigate the skavid caves."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You need a map of some kind... I bet one of the ogres has one."
+    },
+    {
+      "character": "Player",
+      "line": "Okay thanks, I'll go and find out."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Oi! Where do you think you are going? You are for the cooking pot!"
+    },
+    {
+      "character": "Player",
+      "line": "But I am a friend to ogres..."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Prove it to us with a gift. Get us something from the market."
+    },
+    {
+      "character": "Player",
+      "line": "Like what?"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Surprise us..."
+    },
+    {
+      "character": "Player",
+      "line": "Not if I can help it."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "You can help by being tonight's dinner, or you can go away. Now, which shall it be?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay, I'm going."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Back to whence you came!"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Grrrrr!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... is there anything in my backpack that you'd want?"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "You didn't bring anything! Shove off!"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Stop, creature! Oh it's you. Well, what have you got for us, then?"
+    },
+    {
+      "character": "Player",
+      "line": "How about this?"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Well, well, look at this. My favourite: rock cake! Okay, we will let it through."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "What do you want, small thing? Leave us alone!"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "Oi! Little thing. If you want to cross here, you must pay me 20 gold pieces first!"
+    },
+    {
+      "character": "Player",
+      "line": "You want me to give you 20 gold pieces to let me jump off a bridge?"
+    },
+    {
+      "character": "Ogre guard",
+      "line": "That's what I said, like it or lump it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll pay it."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "A wise choice, little thing."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "And where is your money? Grrrr! Do you want to get hurt or something?"
+    },
+    {
+      "character": "Player",
+      "line": "Phew! I just made it."
+    },
+    {
+      "character": "Player",
+      "line": "Forget it, I'm not paying."
+    },
+    {
+      "character": "Ogre guard",
+      "line": "In that case you're not crossing."
+    },
+    {
+      "character": "City guard",
+      "line": "Grrrr, what business you got here?"
+    },
+    {
+      "character": "Player",
+      "line": "I am on an errand."
+    },
+    {
+      "character": "City guard",
+      "line": "So what you want with me?"
+    },
+    {
+      "character": "Player",
+      "line": "I am an ogre killer come to destroy you!"
+    },
+    {
+      "character": "City guard",
+      "line": "I would like to see you try!"
+    },
+    {
+      "character": "Player",
+      "line": "I seek passage into the skavid caves."
+    },
+    {
+      "character": "City guard",
+      "line": "Is that so... You humour me small t'ing. Answer this riddle and I will help you..."
+    },
+    {
+      "character": "City guard",
+      "line": "I want you to bring me an item: I will give you all the letters of this item, you work out what it is..."
+    },
+    {
+      "character": "City guard",
+      "line": "My first is in days, but not in years, My second is in evil, and also in tears, My third is in all, but not in none, My fourth is in hot, but not in sun."
+    },
+    {
+      "character": "City guard",
+      "line": "My fifth is in heaven, and also in hate, My sixth is in fearing, but not in fate, My seventh is in plush, but not in place."
+    },
+    {
+      "character": "City guard",
+      "line": "My eighth is in nine, but not in eight, My last is in earth, and also in great."
+    },
+    {
+      "character": "City guard",
+      "line": "My whole is an object, that magic will make. It brings wrack and ruin to all in its wake... Now how long, I wonder, will this riddle take?"
+    },
+    {
+      "character": "City guard",
+      "line": "Hur, hur, hur... I see you haven't worked it out yet. Keep trying, imp."
+    },
+    {
+      "character": "Player",
+      "line": "Can I hear the riddle again?"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be back!"
+    },
+    {
+      "character": "City guard",
+      "line": "That is not what I want, imp!"
+    },
+    {
+      "character": "Player",
+      "line": "I worked it out!"
+    },
+    {
+      "character": "City guard",
+      "line": "Hur, hur. The imp has done it! This is what you be needing..."
+    },
+    {
+      "character": "City guard",
+      "line": "What is it?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any other riddles for me?"
+    },
+    {
+      "character": "City guard",
+      "line": "Yes, what looks good on a plate with salad?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't know..."
+    },
+    {
+      "character": "City guard",
+      "line": "You! Now go, and bother me no more.)"
+    },
+    {
+      "character": "Player",
+      "line": "A nice pizza?"
+    },
+    {
+      "character": "City guard",
+      "line": "Grr! Think you are a comedian, eh? Get lost!"
+    },
+    {
+      "character": "Player",
+      "line": "I have lost the map you gave me."
+    },
+    {
+      "character": "City guard",
+      "line": "What's the point? Take this one and go away!"
+    },
+    {
+      "character": "City guard",
+      "line": "You imps always store things in places and forget. Go look for it."
+    },
+    {
+      "character": "City guard",
+      "line": "Are you blind? What is that you are carrying?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, that map..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm glad that was easier on the way back!"
+    },
+    {
+      "character": "Player",
+      "line": "I've got some questions about the skavid caves."
+    },
+    {
+      "character": "Wizard",
+      "line": "Oh, really? I'm quite an expert on skavids."
+    },
+    {
+      "character": "Player",
+      "line": "Wonderful!"
+    },
+    {
+      "character": "Wizard",
+      "line": "Only joking!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "How is the quest going?"
+    },
+    {
+      "character": "Player",
+      "line": "I have worked out the guard's puzzle."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "My, my. A wordsmith as well as a hero."
+    },
+    {
+      "character": "Player",
+      "line": "I am still trying to navigate the skavid caves."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Take some illumination with you or else it will be dark."
+    },
+    {
+      "character": "Player",
+      "line": "I am trying to get into the shamans' cave."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Yes, it will be well guarded. Hmmm, let me see..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Ah yes, I gather some ogres are allergic to certain herbs. Now what was it? It had white berries and blue leaves...."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Cave nightshade, that's it!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You should try looking through some of the caves."
+    },
+    {
+      "character": "Player",
+      "line": "Alright!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "And don't forget to look out for the dragons!"
+    },
+    {
+      "character": "Player",
+      "line": "The WHAT?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Dragons."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Didn't you know that the ogres keep blue dragons as pets and for magical ingredients?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Well, regardless, I'm sure a bold, brave adventurer such as yourself won't have any problems."
+    },
+    {
+      "character": "Player",
+      "line": "Great..."
+    },
+    {
+      "character": "Player",
+      "line": "It is going well."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "That's good to hear. We are much closer to fixing the tower now."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Tanath cur, tanath cur!"
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Don't hurt me, don't hurt me!"
+    },
+    {
+      "character": "Player",
+      "line": "Stop moaning, creature. I know about you skavids - you serve those monsters, the ogres."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Please don't touch me!"
+    },
+    {
+      "character": "Player",
+      "line": "You have something that belongs to me..."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "I don't have anything; please believe me!"
+    },
+    {
+      "character": "Player",
+      "line": "Somehow, I find your words hard to believe."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "I'm begging your kindness; I don't have it!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't believe you, hand it over!"
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Ahhhhh, help!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh great, I'm not getting anywhere."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, okay, I'm not going to hurt you."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Thank you, kind."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "I'll tells you where that things you wants is. The mad skavids have it in their cave in the city."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "You will have to learn skavid, otherwise they will not talks to you. Here, I'll tell you what you need to know..."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "I cannot help you, but the others can. Let me tells you the most common skavid words: Ar, nod, gor, ig and cur. Those will gets you started."
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Master, how are you doing learning our language?"
+    },
+    {
+      "character": "Player",
+      "line": "I am studying the speech of your kind..."
+    },
+    {
+      "character": "Skavid",
+      "line": "Bidith tanath..."
+    },
+    {
+      "character": "Player",
+      "line": "Cur."
+    },
+    {
+      "character": "Skavid",
+      "line": "Cur, cur tanath!"
+    },
+    {
+      "character": "Skavid",
+      "line": "Cur tanath!"
+    },
+    {
+      "character": "Player",
+      "line": "Ar."
+    },
+    {
+      "character": "Skavid",
+      "line": "???"
+    },
+    {
+      "character": "Skavid",
+      "line": "Cur bidith..."
+    },
+    {
+      "character": "Player",
+      "line": "Ig."
+    },
+    {
+      "character": "Skavid",
+      "line": "Ig! Bidith ig!"
+    },
+    {
+      "character": "Skavid",
+      "line": "Tanath gor..."
+    },
+    {
+      "character": "Player",
+      "line": "Nod."
+    },
+    {
+      "character": "Skavid",
+      "line": "Nod, gor nod!"
+    },
+    {
+      "character": "Scared skavid",
+      "line": "Master, my kinsmen tell me you have learned skavid. You should speak to the mad ones in their cave."
+    },
+    {
+      "character": "Mad skavid",
+      "line": "Gor nod..."
+    },
+    {
+      "character": "Player",
+      "line": "Tanath."
+    },
+    {
+      "character": "Mad skavid",
+      "line": "Hehe! So you speak a little skavid, eh? I'll give you a prize for that!"
+    },
+    {
+      "character": "Mad skavid",
+      "line": "The others are with the shamans in the enclave - you'll never get them back. They hid one in the sacred rock! Nothing can touch it now."
+    },
+    {
+      "character": "Mad skavid",
+      "line": "What, you gots the crystal..."
+    },
+    {
+      "character": "Player",
+      "line": "But I've lost it!"
+    },
+    {
+      "character": "Mad skavid",
+      "line": "Alright, take this one then..."
+    },
+    {
+      "character": "Mad skavid",
+      "line": "You stored it somewhere maybe. Go away!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, okay then."
+    },
+    {
+      "character": "Mad skavid",
+      "line": "You be on your way, then."
+    },
+    {
+      "character": "Player",
+      "line": "I have gained access to the skavid caves."
+    },
+    {
+      "character": "Player",
+      "line": "'You'll have to speak with the Watchtower Wizard about that.'"
+    },
+    {
+      "character": "Player",
+      "line": "I'd get more help out of a-"
+    },
+    {
+      "character": "Wizard",
+      "line": "What was that?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Hello again. How do you fare?"
+    },
+    {
+      "character": "Player",
+      "line": "It goes well. I can now navigate the skavid caves."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "That is good news. Let me know if you find anything of interest."
+    },
+    {
+      "character": "Player",
+      "line": "I had a crystal, but I lost it!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Oh no. Well, you had better go back there, then!"
+    },
+    {
+      "character": "Player",
+      "line": "I am now ready for the shamans."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Remember all I told you. You must distract the guard somehow. Cave nightshade is what you are looking for - try searching the skavid caves for it."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "This herb is very poisonous, however, so handle it with care. Also, be on your guard in that cave. Who knows what monsters may be in that awful place..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Didn't you know that the ogres keep blue dragons as pets and for magical ingredients"
+    },
+    {
+      "character": "Enclave guard",
+      "line": "No you don't!"
+    },
+    {
+      "character": "Enclave guard",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to go in there."
+    },
+    {
+      "character": "Enclave guard",
+      "line": "Oh you do, do you? How about 'no'?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to rid the world of ogres."
+    },
+    {
+      "character": "Enclave guard",
+      "line": "You dare mock me, creature!"
+    },
+    {
+      "character": "Enclave guard",
+      "line": "What is this? Arrrrgh! I cannot stand this plant! Argh, it burns! It burns!"
+    },
+    {
+      "character": "Ogre chieftain",
+      "line": "Grrr! Go away from me, vermin!"
+    },
+    {
+      "character": "Ogre shaman",
+      "line": "Grr! How dare you talk to us. We will destroy you!"
+    },
+    {
+      "character": "Player",
+      "line": "The shamans are too powerful for me to attack!"
+    },
+    {
+      "character": "Player",
+      "line": "I have found the cave of ogre shaman, but I cannot touch them!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "That is because of their magical powers. We must fight them with their own methods; do not speak to them! I suggest a potion..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Collect a guam leaf, add jangerberries, then mix in some ground bat bones. You must return it to me before you use it, so that I can empower it with my magic."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Be very careful how you mix it as it is extremely volatile. Mixing ingredients of this type in the wrong order can cause explosions!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "I hope you've been brushing up Herblore and Magic? I must warn you, only experienced magicians can use the potion. It is too dangerous in the hands of the unskilled."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Any more news?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me again what I need for the potion?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Yes indeed, let me see, what was it again..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You will need a guam leaf. That goes into the mix first."
+    },
+    {
+      "character": "Player",
+      "line": "What is the next ingredient?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You need some jangerberries."
+    },
+    {
+      "character": "Player",
+      "line": "I have some of those."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Wonderful!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "You will need to add those after the guam leaf has gone in, but before the final ingredient."
+    },
+    {
+      "character": "Player",
+      "line": "What is the final ingredient?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "The final ingredient is ground bat bones."
+    },
+    {
+      "character": "Player",
+      "line": "I have some bat bones; how can I grind them?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "A pestle and mortar will more than do the trick."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "When you have mixed the potion correctly, then I can empower the potion with magic and the ogre shamans can be destroyed."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm still working on it."
+    },
+    {
+      "character": "Player",
+      "line": "Any chance of advice about this potion?"
+    },
+    {
+      "character": "Wizard",
+      "line": "Nope. Try the Watchtower Wizard."
+    },
+    {
+      "character": "Player",
+      "line": "I have made the potion."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "That's great news; let me infuse it with magic..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Here it is - a dangerous substance. I must remind you that this potion can only be used if your Magic level is high enough."
+    },
+    {
+      "character": "Player",
+      "line": "How high is high enough?"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Well, if you can cast Bones to Bananas, or any spells beyond that, you should be alright."
+    },
+    {
+      "character": "Player",
+      "line": "That's one destroyed..."
+    },
+    {
+      "character": "Player",
+      "line": "That's the second one gone..."
+    },
+    {
+      "character": "Player",
+      "line": "There goes the fourth..."
+    },
+    {
+      "character": "Player",
+      "line": "That's five! Only one more left now..."
+    },
+    {
+      "character": "Player",
+      "line": "I already have this crystal. There is no benefit to getting another."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Hello again. Did the potion work?"
+    },
+    {
+      "character": "Player",
+      "line": "Indeed it did! I wiped out those ogre shamans!"
+    },
+    {
+      "character": "Player",
+      "line": "I had another crystal but I lost it."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Oh, really? If you got it from someone, maybe they'll have found it again. Otherwise, go and search the place where you got it in the first place."
+    },
+    {
+      "character": "Player",
+      "line": "I am looking for another crystal."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "I am sure the cave holds the final crystal. Look for the source of the shamans' power."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I will go and have a look."
+    },
+    {
+      "character": "Player",
+      "line": "I have found another crystal!"
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Good, hand it over to me."
+    },
+    {
+      "character": "Player",
+      "line": "Any chance of a hand?"
+    },
+    {
+      "character": "Wizard",
+      "line": "Well, you could ask the Watchtower Wizard for one."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Magnificent! At last you've brought all the crystals."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Now the shield generator can be activated and, once again, Yanille will be safe from the threat of the ogres."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Put the crystals on the pillars there and throw the lever to activate the system."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "The system is not activated yet. Throw the switch to start it."
+    },
+    {
+      "character": "Player",
+      "line": "What should I do now?"
+    },
+    {
+      "character": "Wizard",
+      "line": "You will need to speak to the Watchtower Wizard."
+    },
+    {
+      "character": "Wizard",
+      "line": "Seriously, he's the one in charge here."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Marvellous! It works! The town will now be safe. Take these coins as a token of my gratitude. Also, let me improve your Magic level."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "I've given you a special scroll too - it's a new spell. Read the scroll and you will be able to teleport yourself here."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Greetings, friend. I trust all is well with you? Yanille is safe at last!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any more quests for me?"
+    },
+    {
+      "character": "Watchtower wizard",
+      "line": "More quests? No, indeed, adventurer. You have done us a great service, already."
+    },
+    {
+      "character": "Player",
+      "line": "I lost the scroll you gave me."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Never mind, have another..."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "Ho, ho, ho! A comedian to the finish. There it is, in your backpack!"
+    },
+    {
+      "character": "Player",
+      "line": "That's okay."
+    },
+    {
+      "character": "Watchtower Wizard",
+      "line": "We are always in your debt; do come and visit us again."
+    },
+    {
+      "character": "Wizard",
+      "line": "All's well that ends well."
+    }
+  ],
+  "characters": [
+    {
+      "name": "City guard",
+      "description": "Deep, rumbling male voice with a brutish ogre accent, slow and deliberate speech, condescending and menacing tone, enjoys riddles but speaks with crude grammar."
+    },
+    {
+      "name": "Enclave guard",
+      "description": "Deep, gravelly male voice with an aggressive ogre accent, hostile and territorial tone, speaks curtly with threatening undertones."
+    },
+    {
+      "name": "Gorad",
+      "description": "Very deep, slow male voice with a brutish ogre accent, dim-witted and aggressive tone, speaks simply with poor grammar and quick to anger."
+    },
+    {
+      "name": "Grew",
+      "description": "Deep, menacing male voice with an ogre accent, cunning and petty tone, speaks with cruel amusement and refers to humans as morsels."
+    },
+    {
+      "name": "Mad skavid",
+      "description": "High-pitched, erratic male voice, frantic and unstable tone with nervous laughter, speaks in broken sentences mixing skavid language with common tongue."
+    },
+    {
+      "name": "Og",
+      "description": "Deep male voice with an ogre accent, more articulate than typical ogres, demanding and impatient tone, speaks with crude authority."
+    },
+    {
+      "name": "Ogre chieftain",
+      "description": "Very deep, commanding male voice with a harsh ogre accent, aggressive and dismissive tone, speaks with brutal authority."
+    },
+    {
+      "name": "Ogre guard",
+      "description": "Deep, gruff male voice with an ogre accent, demanding and threatening tone, speaks curtly with crude grammar, quick to resort to violence."
+    },
+    {
+      "name": "Ogre shaman",
+      "description": "Deep, resonant male voice with mystical undertones, arrogant and superior tone, speaks with deliberate menace and magical authority."
+    },
+    {
+      "name": "Scared skavid",
+      "description": "High-pitched, trembling male voice, fearful and submissive tone, speaks nervously with pleading desperation, mixing broken common tongue with skavid phrases."
+    },
+    {
+      "name": "Skavid",
+      "description": "High-pitched, meek male voice, cautious and guarded tone, speaks mostly in skavid language with simple, hesitant responses."
+    },
+    {
+      "name": "Toban",
+      "description": "Very deep, booming male voice with a harsh ogre accent, arrogant and mocking tone, speaks with cruel laughter and refers to humans as small things."
+    },
+    {
+      "name": "Tower guard",
+      "description": "Middle-aged male, British accent, firm and professional tone, a dutiful guard who takes his protective duties seriously."
+    },
+    {
+      "name": "Watchtower Wizard",
+      "description": "Elderly male, refined British accent, anxious and flustered tone, an accomplished but worried mage who speaks with scholarly vocabulary and occasional dramatic exclamations."
+    },
+    {
+      "name": "Watchtower wizard",
+      "description": "Elderly male, refined British accent, anxious and flustered tone, an accomplished but worried mage who speaks with scholarly vocabulary and occasional dramatic exclamations."
+    },
+    {
+      "name": "Wizard",
+      "description": "Middle-aged male, British accent, unhelpful and dismissive tone, a subordinate wizard who constantly defers questions to the Watchtower Wizard."
+    }
+  ]
+}

@@ -1,0 +1,1240 @@
+{
+  "branch": "quest/ethically-acquired-antiquities",
+  "quest_name": "Ethically Acquired Antiquities",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "A high price? That'll be nice for whoever can figure it out..."
+    },
+    {
+      "character": "Player",
+      "line": "A high price? I guess I am somewhat of an expert on finding things for museums..."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe I should talk to the curator to find out some more."
+    },
+    {
+      "character": "Player",
+      "line": "But this will have to be a job for another time."
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Nilsal to you, iknami. Welcome to the Grand Museum. I hope your visit is a pleasant one. If you have any questions about Varlamore, I'm happy to help."
+    },
+    {
+      "character": "Player",
+      "line": "Could you tell me more about that empty display?"
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Oh yes, Xerna's Diadem... Quite a shame, isn't it? Do you know anything about it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not, but maybe I can help find it? I have managed to return stolen property to museums in the past."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "That would certainly be most appreciated. The local guards said they'd investigate for us, but it's not proven to be a fast process so far."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "I was starting to consider trying to find it myself, but I'm no detective. It doesn't seem to me like anything else is even out of place..."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Perhaps you'll have better luck though. Maybe you could have a look around for any sort of clues and see if you can find anything wrong."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do that. Hopefully I can find something!"
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Thank you, iknami."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Nilsal to you, iknami. Welcome back to the Grand Museum. If you have any questions, I'm happy to help."
+    },
+    {
+      "character": "Player",
+      "line": "About that empty display..."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "How are you getting on with your investigation?"
+    },
+    {
+      "character": "Player",
+      "line": "Not so well. I've not made much progress yet."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Well, you have our thanks for all your efforts in finding it. Thank you, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "Apparently someone was acting a bit odd around here recently. They left and headed towards the quetzals."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "It sounds like you have a lead, iknami. You should follow it."
+    },
+    {
+      "character": "Player",
+      "line": "Well, it's looking like it could be quite the journey... I'll keep you updated!"
+    },
+    {
+      "character": "Player",
+      "line": "I just know I've almost got it! We'll have the diadem back in no time!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't think I'm going to find much more just lying around... Maybe I should try asking if anyone nearby saw anything."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Academic",
+      "line": "Nilsal! Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "I was wondering if you'd seen anything unusual around the museum lately?"
+    },
+    {
+      "character": "Academic",
+      "line": "No, I don't think so..."
+    },
+    {
+      "character": "Player",
+      "line": "That's a shame. Well, thanks for your help."
+    },
+    {
+      "character": "Citizen",
+      "line": "What sort of unusual?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking into the missing diadem display."
+    },
+    {
+      "character": "Citizen",
+      "line": "Oh... Sorry, but I don't think I can be much help."
+    },
+    {
+      "character": "Player",
+      "line": "Well, thanks anyway."
+    },
+    {
+      "character": "Tourist",
+      "line": "Hi! Can I help you?"
+    },
+    {
+      "character": "Tourist",
+      "line": "Now you mention it, I did see somebody skulking around here recently... I thought they looked a little shifty at the time!"
+    },
+    {
+      "character": "Player",
+      "line": "You did? Do you know where they went?"
+    },
+    {
+      "character": "Citizen",
+      "line": "They left through the front door and turned right, towards the quetzal landing site."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Tourist",
+      "line": "They left through the front door and turned right, towards where they have those big birds."
+    },
+    {
+      "character": "Player",
+      "line": "Ah that'll be the quetzals. Thanks!"
+    },
+    {
+      "character": "Tourist",
+      "line": "Quetzals? You learn something new every day!"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Nilsal, adventurer. Do you wish to return to Varrock?"
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen anybody suspicious around?"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "What kind of suspicious?"
+    },
+    {
+      "character": "Player",
+      "line": "Maybe someone carrying something out of the museum, perhaps?"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Well let's see... Come to think of it, there was this one person carrying some sort of case..."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "He came along and asked if he could have a go with my bird."
+    },
+    {
+      "character": "Player",
+      "line": "He asked if he could have a go with your bird?"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Yes, I thought it was quite strange. I told him no, and he made his way east, towards the Cothon."
+    },
+    {
+      "character": "Player",
+      "line": "To the Cothon... Okay, I guess I'll go and see if I can find some more leads there. Thanks for the help!"
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Safe travels, iknami."
+    },
+    {
+      "character": "Regulus Cento",
+      "line": "Just that man I already told you about. He headed east, towards the Cothon."
+    },
+    {
+      "character": "Player",
+      "line": "Ah, yes. Thanks for the help!"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Can I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen a man with a case?"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Why do you want to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm looking for something and I think he might have it..."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "I don't think people would really like us talking all about their travels..."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Although, we could use a hand... Think you could do us a small favour?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure. What do you need?"
+    },
+    {
+      "character": "Player",
+      "line": "As long as it is just the one favour..."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "We've been meaning to get our old sails stitched up, but haven't had a chance to get away and have it done..."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Hard to believe that Trader Stan had these clothes enchanted to re-stitch themselves so we can't ruin them, but the sails were too much to ask for! Some people's priorities, huh?"
+    },
+    {
+      "character": "Player",
+      "line": "I suppose I can help with that."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Perfect! There's a crafting store just down the road. They should be able to fix them up."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I might need to make some space before I can take them."
+    },
+    {
+      "character": "Player",
+      "line": "Not right now."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Then I don't know anything about a man with a case."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "That depends. Are you ready to take us up on that favour?"
+    },
+    {
+      "character": "Player",
+      "line": "So, about that man with the case."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Oh, yeah. You're meant to be getting our sails fixed up, right?"
+    },
+    {
+      "character": "Player",
+      "line": "Where was it that I should get them fixed?"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "That crafting store just down the road."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "I am, but I may have misplaced them..."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "You misplaced them right here. Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "I am, but I think I might need to make some space before I can take them."
+    },
+    {
+      "character": "Player",
+      "line": "I am. Could I grab them now?"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Alright, here you go."
+    },
+    {
+      "character": "Artima",
+      "line": "Nilsal. Here to do some crafting? I've got some supplies that might help you if so."
+    },
+    {
+      "character": "Player",
+      "line": "I was hoping for some help."
+    },
+    {
+      "character": "Artima",
+      "line": "What sort of help?"
+    },
+    {
+      "character": "Player",
+      "line": "I've got these sails that need fixing up for the charter ship in the Cothon. The crew thought you could help."
+    },
+    {
+      "character": "Artima",
+      "line": "Oh, in that case, I'll help you out, just so long as you can do me a small favour."
+    },
+    {
+      "character": "Player",
+      "line": "Go on then."
+    },
+    {
+      "character": "Artima",
+      "line": "All I ask is that you tell the charter crew that Artima says thanks for the latest shipment they brought in!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, what a relief! I will be sure to pass on the message when I get back there."
+    },
+    {
+      "character": "Artima",
+      "line": "Perfect. Now hand those sails over."
+    },
+    {
+      "character": "Player",
+      "line": "Here you go."
+    },
+    {
+      "character": "Artima",
+      "line": "Let's see... Thread that through there..."
+    },
+    {
+      "character": "Artima",
+      "line": "Grab some of that, then pull that through..."
+    },
+    {
+      "character": "Artima",
+      "line": "Tie off the end there and..."
+    },
+    {
+      "character": "Artima",
+      "line": "There we have it! They might not look the prettiest, but they'll be sturdy enough for the job at least."
+    },
+    {
+      "character": "Artima",
+      "line": "Take care now iknami, and come by the shop whenever you need any crafting bits and bobs."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe later."
+    },
+    {
+      "character": "Artima",
+      "line": "Suit yourself, but those sails won't fix themselves you know."
+    },
+    {
+      "character": "Player",
+      "line": "So about those sails..."
+    },
+    {
+      "character": "Artima",
+      "line": "Are you ready to do that small favour I mentioned?"
+    },
+    {
+      "character": "Artima",
+      "line": "I already fixed them for you."
+    },
+    {
+      "character": "Player",
+      "line": "You did, but then I lost them."
+    },
+    {
+      "character": "Artima",
+      "line": "Well, I'd be able to fix more if you had more."
+    },
+    {
+      "character": "Player",
+      "line": "Luckily I do. Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Here they are!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, and Artima said thanks for the latest shipment."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "That's great! Always nice to hear from a happy customer!"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Anyway, the man with the case. Grey-haired fella, right? Yeah, he came by. Asked if he could have a go with our boat. Told him that's not really how this works."
+    },
+    {
+      "character": "Player",
+      "line": "And then what? Where did he go?"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Well, we explained how it does work and he then asked us to take him to Port Sarim..."
+    },
+    {
+      "character": "Player",
+      "line": "Port Sarim? I see... Thanks."
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Oh, yeah. Grey-haired fella, right? Yeah, he came by. Asked if he could have a go with our boat. Told him that's now how this works."
+    },
+    {
+      "character": "Player",
+      "line": "Have you seen a grey-haired man with a case?"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Yeah, I know the one. Came all the way from Fortis, right?"
+    },
+    {
+      "character": "Player",
+      "line": "That's right! Do you know where he went?"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "Wandered up north, I think. Said something about trying to get hold of some runes."
+    },
+    {
+      "character": "Player",
+      "line": "I see... Thanks for the help!"
+    },
+    {
+      "character": "Trader Crewmember",
+      "line": "The one from Fortis? He wandered up north, I think. Said something about trying to get hold of some runes."
+    },
+    {
+      "character": "Betty",
+      "line": "Hello again. What can I do for you?"
+    },
+    {
+      "character": "Betty",
+      "line": "Oh, the one with the monocle? Yes, he did come in."
+    },
+    {
+      "character": "Player",
+      "line": "Let me guess, he asked if he could have a go with your runes?"
+    },
+    {
+      "character": "Betty",
+      "line": "What? What does that even mean?"
+    },
+    {
+      "character": "Betty",
+      "line": "No, he came in looking to buy some runes, but he didn't really know what he was looking for."
+    },
+    {
+      "character": "Player",
+      "line": "Where did he go?"
+    },
+    {
+      "character": "Betty",
+      "line": "I don't know. He took a look at my stock, but didn't see what he wanted. He then left."
+    },
+    {
+      "character": "Player",
+      "line": "Have you got any idea what runes he was looking for?"
+    },
+    {
+      "character": "Betty",
+      "line": "I did take some notes. It was driving me crazy trying to make sense of it!"
+    },
+    {
+      "character": "Player",
+      "line": "Could I take a look?"
+    },
+    {
+      "character": "Betty",
+      "line": "Be my guest! Good luck making sense of them."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... I'd better free up some space first."
+    },
+    {
+      "character": "Player",
+      "line": "About those notes..."
+    },
+    {
+      "character": "Betty",
+      "line": "What about them?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any idea what he was hoping to do with the runes?"
+    },
+    {
+      "character": "Betty",
+      "line": "Not a clue. Maybe you can figure out what he was trying to cast."
+    },
+    {
+      "character": "Player",
+      "line": "Could I take another look at them?"
+    },
+    {
+      "character": "Player",
+      "line": "What could this mean?"
+    },
+    {
+      "character": "Player",
+      "line": "I managed to decipher those notes."
+    },
+    {
+      "character": "Betty",
+      "line": "Oh really? Please do tell. It's been driving me crazy!"
+    },
+    {
+      "character": "Player",
+      "line": "It seems like he was trying to find the runes for the Varrock teleport spell."
+    },
+    {
+      "character": "Betty",
+      "line": "Ah, of course. I'm not sure how I didn't figure that out!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Welcome to the museum of Varrock."
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for Xerna's Diadem."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Xerna's Diadem? How did you-"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Er... How did you come to hear about that? It's not something you hear of much around these parts!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, it's missing from the Grand Museum in Fortis. I was hoping to try and find it..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "What awful news! I'm not sure I can help you with that, though..."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, if you say so..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Yes, awful news! I do hope you manage to find it!"
+    },
+    {
+      "character": "Player",
+      "line": "Well what do we have here? I wonder what our local curator has to say about this..."
+    },
+    {
+      "character": "Player",
+      "line": "I found Xerna's Diadem..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Ah..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "So you found the diadem? That's... Er... That's wonderful news!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm sure that the Grand Museum will be thrilled to hear it."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I found it?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I... No, why would I?"
+    },
+    {
+      "character": "Player",
+      "line": "Be honest with me, curator!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I don't know what you're talking about!"
+    },
+    {
+      "character": "Player",
+      "line": "You can't just steal artefacts and claim them as your own for the museum!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Steal?! I would never! You need to get your facts straight!"
+    },
+    {
+      "character": "Player",
+      "line": "The other museums will never trust you again!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "They'd understand my actions... I'm just trying to preserve history."
+    },
+    {
+      "character": "Player",
+      "line": "How would you feel if someone came in here and stole all your stuff?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well, I'd feel terrible! Wait..."
+    },
+    {
+      "character": "Player",
+      "line": "You've ruined Varlamore's museum."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well, as soon as they're ready to display it again, they can have it back!"
+    },
+    {
+      "character": "Player",
+      "line": "Just give it back already!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "No! You have no idea what you're asking me!"
+    },
+    {
+      "character": "Player",
+      "line": "What if Varlamore finds out what you've done?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "They will find out! As soon as you stop bothering me, I plan to tell them myself."
+    },
+    {
+      "character": "Player",
+      "line": "How do you sleep at night?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Much better knowing that this valuable artefact is safe and sound!"
+    },
+    {
+      "character": "Player",
+      "line": "I thought archaeology was cool. I didn't realise it was just thieving!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Archaeology is cool! This was just an exceptional circumstance..."
+    },
+    {
+      "character": "Player",
+      "line": "You should be ashamed of yourself."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "There's nothing for me to be ashamed of! I merely did the best I could in a tough situation."
+    },
+    {
+      "character": "Player",
+      "line": "A real historian would never steal!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Believe me, 'real' historians have done far worse."
+    },
+    {
+      "character": "Player",
+      "line": "If you're looking for stolen goods, I can get my hands on plenty."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "What? Is this really how people see us?"
+    },
+    {
+      "character": "Player",
+      "line": "Do your colleagues know what you've done? What do they think?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I... haven't had time to inform them yet. But I will! I just have to get my story straight..."
+    },
+    {
+      "character": "Player",
+      "line": "So can anyone just go around stealing and call it archaeology?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "No, but this really is archaeology! I promise!"
+    },
+    {
+      "character": "Player",
+      "line": "You're supposed to protect history, not steal it!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Sometimes protecting history means taking... unconventional measures."
+    },
+    {
+      "character": "Player",
+      "line": "Nobody wants to see stolen goods on display!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "That's why I put it in storage! No, wait, that's not what I meant!"
+    },
+    {
+      "character": "Player",
+      "line": "You should give Varlamore a chance before stealing their stuff."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Maybe, but I know what I saw, and I wasn't impressed!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you even have room to display this artefact?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "No, but our duties go well beyond putting artefacts on display for adventurers to gawk at!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't you have enough artefacts of your own?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "If everyone cared only for their own town's history, we'd have a pretty boring world."
+    },
+    {
+      "character": "Player",
+      "line": "Do you really think you did the right thing?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I had no other choice. I couldn't just stand by!"
+    },
+    {
+      "character": "Player",
+      "line": "Did you know Varlamore sends thieves to the Colosseum?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "But I'm no thief! Give me a chance to explain..."
+    },
+    {
+      "character": "Player",
+      "line": "What if I came into your house and stole your stuff?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Then you'd be a thief! This is nothing like that!"
+    },
+    {
+      "character": "Player",
+      "line": "You've committed a crime."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I have not! Just give me a chance to explain!"
+    },
+    {
+      "character": "Player",
+      "line": "How will Varlamorians learn their history now?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well, they can always come visit. Or perhaps we can arrange a loan?"
+    },
+    {
+      "character": "Player",
+      "line": "Varlamore might never let you and your colleagues visit again!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I've done Varlamore a great service! They just don't know it yet..."
+    },
+    {
+      "character": "Player",
+      "line": "You should return all these artefacts. It's the only right thing to do."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'll return them as soon as I know they'll be safe. Until then, they'll stay right here!"
+    },
+    {
+      "character": "Player",
+      "line": "You're a disgrace to your entire profession!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "How dare you! I've never once failed to follow the proper procedures. Well, except this one time. But this is different!"
+    },
+    {
+      "character": "Player",
+      "line": "Varlamore might close their lands again after this."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Better that than the loss of a priceless artefact! It's not my fault they didn't look after it."
+    },
+    {
+      "character": "Player",
+      "line": "How do you explain the other stolen artefacts you have in storage?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I didn't steal them! The museum simply borrowed them for further study."
+    },
+    {
+      "character": "Player",
+      "line": "You could have damaged the artefact!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Had I not done something, it could well have been damaged anyway!"
+    },
+    {
+      "character": "Player",
+      "line": "Why don't you just cooperate with Varlamore?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Believe me, I've been trying!"
+    },
+    {
+      "character": "Player",
+      "line": "Why should you get to decide who gets to keep their artefacts?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Because I'm the only one willing to protect them!"
+    },
+    {
+      "character": "Player",
+      "line": "You're setting a terrible example."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Oh dear... Children! Pay no attention to this loud, dramatic argument!"
+    },
+    {
+      "character": "Player",
+      "line": "Is everything here stolen from other museums?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Nothing here is stolen from other museums! Er... I mean, nothing is stolen at all!"
+    },
+    {
+      "character": "Player",
+      "line": "You can't justify theft by saying it's for preservation."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well that's the reality. Sometimes you have to make tough choices."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sick of your excuses!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm sick of your shouting!"
+    },
+    {
+      "character": "Player",
+      "line": "You're not above the law! You stole this stuff!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "It's more complicated than that!"
+    },
+    {
+      "character": "Player",
+      "line": "What makes you think you know better?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "The fact that I had to save this artefact at all says enough. It needs to be kept safe!"
+    },
+    {
+      "character": "Player",
+      "line": "What if it's cursed?! It could be dangerous!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Are you quite serious? Just because an artefact is from another culture doesn't mean it's cursed. Adventurers these days..."
+    },
+    {
+      "character": "Player",
+      "line": "Stealing is stealing, no matter how you try to justify it."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Normally I'd agree, but this one situation is a little more nuanced than that..."
+    },
+    {
+      "character": "Player",
+      "line": "Is the artefact really safer here?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Absolutely! We're the greatest, most well-equipped museum in the world!"
+    },
+    {
+      "character": "Player",
+      "line": "Look me in the eye and tell me you did the right thing."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I... I did the right... Stop staring at me like that!"
+    },
+    {
+      "character": "Player",
+      "line": "You're hoarding artefacts, but you should be sharing them!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "We don't have enough room to show everything in our collections. If only we had the funding..."
+    },
+    {
+      "character": "Player",
+      "line": "You're a loose cannon."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "A loose cannon? A wild card maybe. Or a lone ranger. But a loose cannon?! Surely not..."
+    },
+    {
+      "character": "Player",
+      "line": "Hand that artefact back this instant!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "There's no need to take that tone with me!"
+    },
+    {
+      "character": "Player",
+      "line": "I guess you were just in it for the glory, were you?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "That's not true! I mean, I am better than this. I mean... oh, I'm all mixed up."
+    },
+    {
+      "character": "Player",
+      "line": "This is stealing! Thieving! Taking what's not yours!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Please stop telling everyone I'm a thief..."
+    },
+    {
+      "character": "Player",
+      "line": "You've stolen from several other museums, too!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Not every museum has the resources to keep their artefacts safe. We're just taking care of them for now."
+    },
+    {
+      "character": "Player",
+      "line": "This artefact doesn't belong to you! It belongs to Varlamore!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I believe artefacts like this belong to all of us. That's why it's so important for me to preserve them."
+    },
+    {
+      "character": "Player",
+      "line": "Have you no respect for your colleagues in Varlamore?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "They had the choice to take better care with this artefact! That's not on me."
+    },
+    {
+      "character": "Player",
+      "line": "Aren't you embarrassed to have stolen items in your collection?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm not embarrassed! I just put it in storage for... for normal reasons!"
+    },
+    {
+      "character": "Player",
+      "line": "You're nothing but a common thief!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "How dare you? I'm a well-renowned professional, not a thief!"
+    },
+    {
+      "character": "Player",
+      "line": "Stealing is against the law!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well, sometimes the law is wrong!"
+    },
+    {
+      "character": "Player",
+      "line": "You ought to be ashamed."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "For what? I'm only doing my job!"
+    },
+    {
+      "character": "Player",
+      "line": "This could destroy your reputation! Everyone will think you're a thief!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Oh, nonsense! Any real historian would see I'm only trying to preserve vital historical knowledge."
+    },
+    {
+      "character": "Player",
+      "line": "You've betrayed the trust of Varlamore."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "It's not my fault they couldn't look after their own history. Better that I took it than some thief!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you even a real historian, or just a petty criminal?"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Of course I'm a real historian! This just isn't my finest moment..."
+    },
+    {
+      "character": "Player",
+      "line": "You don't even have room to display it! It's just sitting in storage!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Artefacts aren't just for gawking at! We keep things in storage so they can be studied and taken care of."
+    },
+    {
+      "character": "Player",
+      "line": "You're not preserving anything. You're just a thief."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Pish-posh! I haven't dedicated my life to this museum for you to slander my good name!"
+    },
+    {
+      "character": "Player",
+      "line": "Think of the Varlamorian children who won't get to see this artefact."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Now that's not true! They can see it any time they visit Varrock, for free!"
+    },
+    {
+      "character": "Player",
+      "line": "You can't just keep claiming these stolen goods as your own!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Oh, pish posh! I've had enough of this little shame game of yours! I've got better things to be doing with my time. Come back to me when you've got your facts straight!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I didn't steal anything! These are ethically acquired antiquities!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean? How did you come into possession of Xerna's Diadem? I've heard all about your travels back here with it."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Well..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Naturally, as soon as Varlamore opened, I was keen to visit their Grand Museum."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "There was a big event over at the Colosseum, so it was nice and quiet. Perfect for taking in everything the museum had to offer."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "All of a sudden, I heard a strange noise coming from behind me..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "It was a thief! He'd stolen Xerna's Diadem!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I had to act quick. I called upon my skills from my time in the Varrock Guard and I showed him what for!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "He went down easily, but I was left with a conundrum: What to do with the diadem."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "This was a priceless artefact, and it was at risk! I knew it had to be protected, and there was nowhere better than in Varrock..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Now I don't know what to do..."
+    },
+    {
+      "character": "Player",
+      "line": "You can't just be taking these things as your own!"
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I promise, I only wanted to keep it safe. I guess I panicked..."
+    },
+    {
+      "character": "Player",
+      "line": "I'll do you a deal. If you arrange for the safe delivery of the diadem back to the Grand Museum, I'll let them know it's taken care of without mentioning your name."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "Okay... I'll have it sent back at once."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I'll head over there and let them know."
+    },
+    {
+      "character": "Player",
+      "line": "About Xerna's Diadem..."
+    },
+    {
+      "character": "Curator Haig Halen",
+      "line": "I'm just making arrangements to have it sent back to Fortis. It will be there very soon."
+    },
+    {
+      "character": "Player",
+      "line": "Well, it turned out to be quite the saga, but I found it! Xerna's Diadem is on its way back here, as we speak."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "It is? That's great news! Where did you find it?"
+    },
+    {
+      "character": "Player",
+      "line": "It was a little far away... But we'll save that story for another day."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Well, what matters is that you found it. Now, I guess you'll be expecting that reward the display mentioned?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, I better make some space for it."
+    },
+    {
+      "character": "Curator Herminius",
+      "line": "Well, what matters is that you found it. Now, I guess you'll be expecting that reward the display mentioned? Here you go."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Academic",
+      "description": "Young adult, gender-neutral, educated Varlamorian accent with Mediterranean influences, polite and scholarly tone, a studious museum visitor absorbed in research."
+    },
+    {
+      "name": "Artima",
+      "description": "Middle-aged female, warm Varlamorian accent with Mediterranean flair, friendly and practical tone, a skilled craftswoman who runs her shop with efficiency and goodwill."
+    },
+    {
+      "name": "Betty",
+      "description": "Middle-aged female, British accent, kind and approachable tone, a pleasant shopkeeper who runs her magic emporium in Port Sarim with patient expertise."
+    },
+    {
+      "name": "Citizen",
+      "description": "Adult, gender-neutral, Varlamorian accent with Mediterranean influences, casual and unhurried tone, an ordinary resident of Civitas illa Fortis going about daily life."
+    },
+    {
+      "name": "Curator Haig Halen",
+      "description": "Elderly male, refined British accent, defensive yet dignified tone, a proud museum curator who takes his role as guardian of history very seriously but makes questionable ethical choices under pressure."
+    },
+    {
+      "name": "Curator Herminius",
+      "description": "Middle-aged male, formal Varlamorian accent with Mediterranean warmth, polished and welcoming tone, the dignified head curator of the Grand Museum who takes pride in educating visitors about Varlamore's rich history."
+    },
+    {
+      "name": "Regulus Cento",
+      "description": "Adult male, elegant Varlamorian accent, refined and courteous tone, a fancy well-dressed quetzal keeper who serves the royal family with grace and professionalism."
+    },
+    {
+      "name": "Tourist",
+      "description": "Young adult, gender-neutral, enthusiastic foreign accent, cheerful and curious tone, an eager visitor exploring Varlamore for the first time with wide-eyed wonder."
+    },
+    {
+      "name": "Trader Crewmember",
+      "description": "Adult, gender-neutral, seasoned seafarer accent, pragmatic and slightly vain tone, a well-dressed charter ship employee who takes pride in their fashionable appearance despite working at sea."
+    }
+  ]
+}

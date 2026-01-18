@@ -1,0 +1,173 @@
+{
+  "branch": "quest/recipe-for-disaster",
+  "quest_name": "Recipe for Disaster",
+  "lines": [
+    {"character": "Cook", "line": "How is the adventuring going, my friend?"},
+    {"character": "Player", "line": "Do you have any other quests for me? That last one of yours was so much fun, I was hoping you would!"},
+    {"character": "Cook", "line": "Ooooh dear, I might have, but it's all very embarrassing..."},
+    {"character": "Player", "line": "Embarrassing? How do you mean?"},
+    {"character": "Cook", "line": "Weeellll... You know I told you that it was the Duke's birthday?"},
+    {"character": "Player", "line": "Yup, that's why I had to go and collect you things to make a cake with wasn't it?"},
+    {"character": "Cook", "line": "Yeeeesssss... Weeeelllll..."},
+    {"character": "Cook", "line": "It isn't. I don't even know when his birthday is!"},
+    {"character": "Player", "line": "GRRRR! Why did you have me running around finding ingredients for you then?!?!"},
+    {"character": "Player", "line": "So you lied to me to get me to do you a favour?"},
+    {"character": "Player", "line": "Fair enough, you're not the first, but why lie? You could have just asked me, I'd have been happy to help."},
+    {"character": "Cook", "line": "I needed to test you and see if I could trust you..."},
+    {"character": "Cook", "line": "I am in a terrible pickle, and I desperately need somebody trustworthy to help me out!"},
+    {"character": "Player", "line": "You need help AGAIN? Well, what seems to be the problem?"},
+    {"character": "Cook", "line": "Well, you're obviously trustworthy, I guess I could tell you..."},
+    {"character": "Player", "line": "Please do. The suffering of others always seems to turn out very profitable for me."},
+    {"character": "Cook", "line": "Well... It's like this..."},
+    {"character": "Cook", "line": "Did you ever hear of Franizzard Van Lumbcook?"},
+    {"character": "Player", "line": "Erm... Can't say I have."},
+    {"character": "Player", "line": "And with a name like that, I'm sure I would remember."},
+    {"character": "Cook", "line": "Well, he was a great chef, and also my ancestor."},
+    {"character": "Cook", "line": "One hundred years ago there was a very important meeting held here in Lumbridge Castle, and he cooked a banquet for the meeting, which was so stupendously amazing that he was offered a job for life, along with all"},
+    {"character": "Cook", "line": "of his descendants."},
+    {"character": "Player", "line": "So you have your job because a hundred years ago your ancestor was a very good cook."},
+    {"character": "Player", "line": "I don't see how that's much of a problem for you..."},
+    {"character": "Player", "line": "In fact I would say you are a VERY LUCKY man indeed. Frankly, I'd have fired you by now if you worked for me."},
+    {"character": "Cook", "line": "Oooooh no.... You don't understand..."},
+    {"character": "Cook", "line": "This big important secret meeting that Franizzard cooked for is held here in Lumbridge castle every 10 years, and tonight will be the tenth anniversary of it!"},
+    {"character": "Player", "line": "Still not seeing the problem..."},
+    {"character": "Cook", "line": "Well, I have always felt like a failure as a cook, and that my job here is down to the skills of my ancestor."},
+    {"character": "Cook", "line": "I want to prove to the world that I am a great cook too!"},
+    {"character": "Cook", "line": "But to do that... (sigh) No, it just won't work..."},
+    {"character": "Player", "line": "What won't? Come on man, pull yourself together and speak to me!"},
+    {"character": "Cook", "line": "(sniff) Weeeeelll... I thought that I would recreate the meal Franizzard cooked all of those years ago, the one that impressed"},
+    {"character": "Cook", "line": "everybody so much... There's just this small problem though..."},
+    {"character": "Player", "line": "Let me take a wild guess: You have the recipe but you don't have any of the ingredients, and OBVIOUSLY you can't just go and get them yourself?"},
+    {"character": "Cook", "line": "Yes! However did you know?"},
+    {"character": "Player", "line": "Call it a hunch."},
+    {"character": "Player", "line": "Okay, tell me what you're after and then I'll decide if I want to help you or not."},
+    {"character": "Cook", "line": "Well, they are common enough ingredients, although I must admit the recipe I am following is very strange indeed..."},
+    {"character": "Cook", "line": "I will pay you upfront for any expenses you may incur while obtaining them, and of course you may keep the change for being so helpful to me."},
+    {"character": "Cook", "line": "Please can you help me? The feast is scheduled to start very soon, and I simply cannot leave!"},
+    {"character": "Player", "line": "I would love to help you! What do I have to do?"},
+    {"character": "Cook", "line": "Well, I have an incredibly important banquet that I have to prepare for, and I am using an ancient cookbook to recreate the meal my famous ancestor made a hundred years ago."},
+    {"character": "Cook", "line": "Most of the ingredients I was able to obtain fairly easily, but there were some... oddities... that I have been unable to lay my hands on."},
+    {"character": "Player", "line": "Like what?"},
+    {"character": "Cook", "line": "I need the following ingredients as soon as possible!"},
+    {"character": "Cook", "line": "One Eye Of Newt A freshly made 'Dirty Blast' A rotten tomato"},
+    {"character": "Cook", "line": "And a glass of greenman's ale."},
+    {"character": "Cook", "line": "I have given you 100 coins to cover any expenses you may incur, feel free to keep the change."},
+    {"character": "Player", "line": "I'll go look for those for you then!"},
+    {"character": "Duke Horacio", "line": "Welcome, gentlemen, to Lumbridge Castle."},
+    {"character": "Duke Horacio", "line": "I welcome Osman, Spymaster for the Emir of Al Kharid."},
+    {"character": "Osman", "line": "I thank you for your hospitality."},
+    {"character": "Duke Horacio", "line": "I welcome Selim, acting Spymaster for the Emir of Al Kharid."},
+    {"character": "Selim", "line": "I thank you for your hospitality."},
+    {"character": "Duke Horacio", "line": "I welcome the chief guard of the White Wolf Mountain dwarves."},
+    {"character": "Mountain Dwarf", "line": "The beer's good!"},
+    {"character": "Duke Horacio", "line": "I welcome Pirate Pete from Braindeath Island."},
+    {"character": "Pirate Pete", "line": "Your rum's got no flavour!"},
+    {"character": "Duke Horacio", "line": "I welcome the chief of the Goblin Village."},
+    {"character": "General Bentnoze", "line": "That me! Give me chair!"},
+    {"character": "General Wartface", "line": "No, it me! Chair mine!"},
+    {"character": "Duke Horacio", "line": "I welcome Skrach Uglogwee of the Feldip Hills ogres."},
+    {"character": "Skrach Uglogwee", "line": "Der ogres, dey call me Bone Cruncher."},
+    {"character": "Duke Horacio", "line": "I welcome my neighbour, Phileas the Lumbridge Guide."},
+    {"character": "Lumbridge Guide", "line": "I didn't have far to travel!"},
+    {"character": "Duke Horacio", "line": "From the town of Edgeville, I welcome Evil Dave."},
+    {"character": "Evil Dave", "line": "These secret meetings are SOOO EVIL!"},
+    {"character": "Duke Horacio", "line": "A hearty welcome to Sir Amik Varze, leader of the White Knights..."},
+    {"character": "Sir Amik Varze", "line": "Do get a move on!"},
+    {"character": "Culinaromancer", "line": "Aha! I'm BACK!"},
+    {"character": "Sir Amik Varze", "line": "Did we invite you?"},
+    {"character": "Culinaromancer", "line": "Hah! Your chef did! And now I'll kill you!"},
+    {"character": "Aris", "line": "Sorry I'm late..."},
+    {"character": "Culinaromancer", "line": "I remember you..."},
+    {"character": "Aris", "line": "Aaargh!"},
+    {"character": "Culinaromancer", "line": "Muahahaha!"},
+    {"character": "Aris", "line": "TEMPUS CESSIT!"},
+    {"character": "Aris", "line": ", you must help me defeat this evil!"},
+    {"character": "Player", "line": "Hi."},
+    {"character": "Aris", "line": "Hello there adventurer. How can I assist you?"},
+    {"character": "Player", "line": "Who are you?"},
+    {"character": "Aris", "line": "I am the fortune-teller. My friends call me Aris."},
+    {"character": "Aris", "line": "Certainly. That fellow over there in the chef's hat is called the Culinaromancer."},
+    {"character": "Aris", "line": "A hundred years ago, he threatened the secret council with death, but was foiled by the quick thinking of his assistant, who managed to trap him in another dimension."},
+    {"character": "Aris", "line": "Now, apparently the current head cook of Lumbridge decided to recreate his ancestors greatest achievement, not realising that his achievement was not a meal but a powerful food-magic, and by recreating the spell he has"},
+    {"character": "Aris", "line": "inadvertently freed the evil Culinaromancer from his prison, to wreak havoc upon this world once more."},
+    {"character": "Aris", "line": "Naturally, when I saw what was happening, I intervened with a simple Tempus Cessit spell, so that we would have time to immunise the secret council from his attack, and so that we can defeat the Culinaromancer"},
+    {"character": "Aris", "line": "once and for all."},
+    {"character": "Aris", "line": "Each council member will have their own unique dish that will serve to counteract the Culinaromancer's spell."},
+    {"character": "Aris", "line": "Inspect the one you wish to save, and I will offer any advice I have."},
+    {"character": "Aris", "line": "Now you've freed them all, I'll restart time so you can deal with the culinaromancer."},
+    {"character": "Player", "line": "If you're sure..."},
+    {"character": "Aris", "line": "TEMPUS PROCEDIT!"},
+    {"character": "Culinaromancer", "line": "What was that?"},
+    {"character": "Aris", "line": "We have broken your feeble spell! Begone!"},
+    {"character": "Culinaromancer", "line": "You DARED to meddle?"},
+    {"character": "Culinaromancer", "line": "But you cannot defeat me! I'LL BE BACK!"},
+    {"character": "Player", "line": "Hooray - he's gone!"},
+    {"character": "Aris", "line": "One day he'll return. You must go through the portal and finish him off."},
+    {"character": "Culinaromancer", "line": "You DARE come HERE?!?!"},
+    {"character": "Culinaromancer", "line": "NOOOooo..."},
+    {"character": "Culinaromancer", "line": "You will regret following me!"},
+    {"character": "Culinaromancer", "line": "You should not meddle in affairs that do not concern you!"},
+    {"character": "Culinaromancer", "line": "This will be your death!"},
+    {"character": "Culinaromancer", "line": "I still have a few tricks left!"},
+    {"character": "Culinaromancer", "line": "You have caused me enough grief! I guess I'll have to finish you off myself!"},
+    {"character": "Aris", "line": "Good work ! I think that will be the last we'll see of him! You'd better come back now."}
+  ],
+  "characters": [
+    {
+      "name": "Aris",
+      "description": "Elderly female, British accent, mysterious and wise tone. A powerful fortune-teller with vast magical knowledge and an inhuman lifespan, calm under pressure but firm when needed."
+    },
+    {
+      "name": "Cook",
+      "description": "Middle-aged male, British accent, nervous and apologetic tone. The head cook of Lumbridge Castle who lacks confidence in his abilities, often flustered and prone to needing help."
+    },
+    {
+      "name": "Culinaromancer",
+      "description": "Adult male, dramatic British accent, sinister and theatrical tone. An evil food mage with a flair for villainous monologues, menacing yet somewhat pompous."
+    },
+    {
+      "name": "Duke Horacio",
+      "description": "Middle-aged male, refined British accent, formal and dignified tone. The noble ruler of Lumbridge, composed and ceremonial in his speech."
+    },
+    {
+      "name": "Evil Dave",
+      "description": "Young adult male, British accent, overly dramatic and enthusiastic tone. An aspiring dark wizard who lives in his mother's basement, tries too hard to be evil but is mostly harmless."
+    },
+    {
+      "name": "General Bentnoze",
+      "description": "Adult male, gruff and simple-minded tone with broken grammar. A goblin general who favors red armor, argumentative and dim-witted."
+    },
+    {
+      "name": "General Wartface",
+      "description": "Adult male, gruff and simple-minded tone with broken grammar. A goblin general who favors green armor, constantly bickering with Bentnoze over trivial matters."
+    },
+    {
+      "name": "Lumbridge Guide",
+      "description": "Middle-aged male, friendly British accent, helpful and cheerful tone. A knowledgeable guide who assists newcomers to the area with patience and warmth."
+    },
+    {
+      "name": "Mountain Dwarf",
+      "description": "Adult male, gruff Scottish-like accent, blunt and beer-loving tone. A hardy dwarf guard from White Wolf Mountain who speaks plainly and appreciates good ale."
+    },
+    {
+      "name": "Osman",
+      "description": "Middle-aged male, Middle Eastern accent, calculating and secretive tone. The cunning spymaster of Al Kharid, professional and measured in his words."
+    },
+    {
+      "name": "Pirate Pete",
+      "description": "Adult male, rough pirate accent, boisterous and critical tone. A seafaring pirate from Braindeath Island with strong opinions about rum quality."
+    },
+    {
+      "name": "Selim",
+      "description": "Adult male, Middle Eastern accent, formal and professional tone. An agent working under Osman, respectful and diplomatic."
+    },
+    {
+      "name": "Sir Amik Varze",
+      "description": "Middle-aged male, refined British accent, impatient and authoritative tone. The leader of the White Knights and regent of Asgarnia, noble but often curt."
+    },
+    {
+      "name": "Skrach Uglogwee",
+      "description": "Adult male, deep and slow voice with broken grammar. An ogre chieftain known as Bone Cruncher, intimidating but straightforward."
+    }
+  ]
+}

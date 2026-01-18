@@ -1,0 +1,532 @@
+{
+  "branch": "quest/a-souls-bane",
+  "quest_name": "A Soul's Bane",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hi there."
+    },
+    {
+      "character": "Launa",
+      "line": "Hello."
+    },
+    {
+      "character": "Player",
+      "line": "What's this big hole in the ground all about?"
+    },
+    {
+      "character": "Launa",
+      "line": "Oh I wish I knew for sure... All I do know is that it opened seemingly by itself a few months ago. It was first discovered by the students over at the digsite, a few of which have gone down there but never returned."
+    },
+    {
+      "character": "Launa",
+      "line": "They told me about it straight away."
+    },
+    {
+      "character": "Player",
+      "line": "So why is it important to you?"
+    },
+    {
+      "character": "Launa",
+      "line": "A few reasons, but I think the situation is beyond help now."
+    },
+    {
+      "character": "Player",
+      "line": "What situation? Maybe I can help."
+    },
+    {
+      "character": "Launa",
+      "line": "I suppose it wouldn't hurt to tell you. I'm waiting to see my son Tolna. Don't suppose you've seen him?"
+    },
+    {
+      "character": "Player",
+      "line": "Your son, Tolna? I don't know, what does he look like?"
+    },
+    {
+      "character": "Launa",
+      "line": "I don't really know."
+    },
+    {
+      "character": "Player",
+      "line": "You don't know what your own son looks like?"
+    },
+    {
+      "character": "Launa",
+      "line": "No. You see, I haven't seen him for... for... 25 years now. He just ran away one day and never returned. I'm hoping he's down this rift as I know he headed in this direction. My husband went to look, but he hasn't"
+    },
+    {
+      "character": "Launa",
+      "line": "returned for days."
+    },
+    {
+      "character": "Player",
+      "line": "Would you like me to go down to look for your husband and son?"
+    },
+    {
+      "character": "Launa",
+      "line": "You would do that? Oh thank you so much!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry. I'll investigate."
+    },
+    {
+      "character": "Launa",
+      "line": "Thank you. You can use a rope to get into the rift, just attach it at the edge."
+    },
+    {
+      "character": "Player",
+      "line": "No problem."
+    },
+    {
+      "character": "Launa",
+      "line": "Be careful."
+    },
+    {
+      "character": "Player",
+      "line": "Surely by now they'd both be dead?"
+    },
+    {
+      "character": "Launa",
+      "line": "What?!?!"
+    },
+    {
+      "character": "Player",
+      "line": "Oops."
+    },
+    {
+      "character": "Launa",
+      "line": "How could you say such a thing? Get away from me!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi."
+    },
+    {
+      "character": "Launa",
+      "line": "Have you discovered anything yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, what am I supposed to do again?"
+    },
+    {
+      "character": "Launa",
+      "line": "Go into the rift beside me and find my husband and son!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, I'm on my way!"
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "Why should I, Tolna, be trapped in such a wretched place?"
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "Arrghh, It's not fair! Feel my ANGER!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I've been down into the rift and I found a strange room. I also heard a voice claiming to be called Tolna."
+    },
+    {
+      "character": "Launa",
+      "line": "My son! What did he say?"
+    },
+    {
+      "character": "Player",
+      "line": "He said, 'Why should I, Tolna, be trapped in such a wretched place? Feel my ANGER!'."
+    },
+    {
+      "character": "Launa",
+      "line": "Who can be surprised at his frustration?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a very aggressive room. I think I need to defeat the monsters in there."
+    },
+    {
+      "character": "Launa",
+      "line": "Don't waste any time, his life could depend on you."
+    },
+    {
+      "character": "Player",
+      "line": "Wow! How did I do that? There's something truly mental about this place!"
+    },
+    {
+      "character": "Player",
+      "line": "I managed to defeat the monsters in the room!"
+    },
+    {
+      "character": "Launa",
+      "line": "Have you found him then?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I've yet to enter the next room."
+    },
+    {
+      "character": "Launa",
+      "line": "Please hurry!"
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "It's so quiet and dark. I FEAR I may never escape this horrid place."
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "Mum, Dad, help me!"
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm, no light sources. So why can I still see down here? This can't just be a simple dungeon."
+    },
+    {
+      "character": "Player",
+      "line": "Hi. I've made my way into a second room. I heard your son's voice again as well."
+    },
+    {
+      "character": "Launa",
+      "line": "What did he say? What did he say?"
+    },
+    {
+      "character": "Player",
+      "line": "'It's so quiet and dark. I FEAR I may never escape this horrid place. Mum, help me!'"
+    },
+    {
+      "character": "Launa",
+      "line": "You must save him! Help him get over his fear!"
+    },
+    {
+      "character": "Player",
+      "line": "Phew, I don't feel so scared now. This feels like the figment of someone's imagination!"
+    },
+    {
+      "character": "Player",
+      "line": "I've overcome fear in the second room and an exit has been illuminated."
+    },
+    {
+      "character": "Launa",
+      "line": "What can you see?"
+    },
+    {
+      "character": "Player",
+      "line": "Erm, I haven't actually ventured through yet."
+    },
+    {
+      "character": "Launa",
+      "line": "What are you waiting for? He must be so afraid in that place."
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "Where am I? How long have I been here? Am I still the person I once was?"
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "Oh why am I so CONFUSED?"
+    },
+    {
+      "character": "Player",
+      "line": "Hi, I've journeyed through to a third room. Your son's voice spoke as I entered."
+    },
+    {
+      "character": "Launa",
+      "line": "Really? What did he say?"
+    },
+    {
+      "character": "Player",
+      "line": "Simply, 'Where am I? How long have I been here? Am I still the person I once was? I hate my CONFUSION'."
+    },
+    {
+      "character": "Launa",
+      "line": "You have to help him overcome his confusion!"
+    },
+    {
+      "character": "Player",
+      "line": "Aha! The exit is now clear! This Tolna's mind really is a mess."
+    },
+    {
+      "character": "Player",
+      "line": "Hi. I have prevailed over a third room."
+    },
+    {
+      "character": "Launa",
+      "line": "Are you any closer to finding my son?"
+    },
+    {
+      "character": "Player",
+      "line": "I think I may be getting closer."
+    },
+    {
+      "character": "Launa",
+      "line": "Please don't waste any time."
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "What's the point? No-one will ever help me."
+    },
+    {
+      "character": "Tolna's Voice",
+      "line": "I'm not worth anything. Will anyone ever combat my HOPELESSNESS?"
+    },
+    {
+      "character": "Player",
+      "line": "I have travelled through to a fourth room. As I entered your son's voice spoke to me!"
+    },
+    {
+      "character": "Launa",
+      "line": "Oh my! What did he say?"
+    },
+    {
+      "character": "Player",
+      "line": "He said, 'What's the point? Why do I defy such HOPELESSNESS? No-one will ever help me'."
+    },
+    {
+      "character": "Launa",
+      "line": "You must fight to give him back his hope!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I succeed?"
+    },
+    {
+      "character": "Launa",
+      "line": "Of course you can!"
+    },
+    {
+      "character": "Player",
+      "line": "A bridge of hope! Tolna should feel that help is at hand by now!"
+    },
+    {
+      "character": "Player",
+      "line": "I have endured against hopelessness to finish the fourth room."
+    },
+    {
+      "character": "Launa",
+      "line": "Any sight of my son?"
+    },
+    {
+      "character": "Player",
+      "line": "Only his voice. So far he has said to me, 'Why should I, Tolna, be trapped in such a wretched place? Feel my ANGER!', 'It's so quiet and dark. I FEAR I may never escape this horrid place. Mum, help me!', 'Where"
+    },
+    {
+      "character": "Player",
+      "line": "am I? How long have I been here? Am I still the person I once was? I hate my CONFUSION' and 'What's the point? Why do I defy such HOPELESSNESS? No-one will ever help me'."
+    },
+    {
+      "character": "Launa",
+      "line": "You must find him and bring him back to me. Please, I beg you."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I will find him!"
+    },
+    {
+      "character": "Player",
+      "line": "Your father isn't lying."
+    },
+    {
+      "character": "Player",
+      "line": "Are you ok?"
+    },
+    {
+      "character": "Brana",
+      "line": "Please! You must help my son! He's beyond sense."
+    },
+    {
+      "character": "Player",
+      "line": "But how can I help?"
+    },
+    {
+      "character": "Brana",
+      "line": "I take it you have travelled through the mental dilemmas of my son, as I have."
+    },
+    {
+      "character": "Player",
+      "line": "That's correct."
+    },
+    {
+      "character": "Brana",
+      "line": "Now you must do what I cannot, conquer the physical dilemma!"
+    },
+    {
+      "character": "Player",
+      "line": "I will try."
+    },
+    {
+      "character": "Brana",
+      "line": "Thank you stranger."
+    },
+    {
+      "character": "Player",
+      "line": "I've found your son."
+    },
+    {
+      "character": "Launa",
+      "line": "You have?"
+    },
+    {
+      "character": "Player",
+      "line": "And your husband, but I'm afraid your son is no longer physically what he once was."
+    },
+    {
+      "character": "Launa",
+      "line": "Can you save them?"
+    },
+    {
+      "character": "Launa",
+      "line": "Thank you."
+    },
+    {
+      "character": "Player",
+      "line": "I think I've saved your son."
+    },
+    {
+      "character": "Brana",
+      "line": "Please talk to him, make sure he's OK!"
+    },
+    {
+      "character": "Player",
+      "line": "I have returned your son to his normal state!"
+    },
+    {
+      "character": "Launa",
+      "line": "And you've spoken to him?!?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, no, sorry. I just came back here to tell you."
+    },
+    {
+      "character": "Launa",
+      "line": "What are you waiting for, bring him back to me!"
+    },
+    {
+      "character": "Player",
+      "line": "Tolna?"
+    },
+    {
+      "character": "Tolna",
+      "line": "Sorry? What happened?"
+    },
+    {
+      "character": "Player",
+      "line": "You've been trapped down here for years. I've come to rescue you on behalf of your parents."
+    },
+    {
+      "character": "Tolna",
+      "line": "Oh yeah. I was looking for the legacy of a civilisation that used to live down here."
+    },
+    {
+      "character": "Brana",
+      "line": "Son!"
+    },
+    {
+      "character": "Tolna",
+      "line": "Father? Oh, I'm so sorry, can you ever forgive me?"
+    },
+    {
+      "character": "Brana",
+      "line": "Don't worry, I'm just glad you're back to yourself. Are you OK?"
+    },
+    {
+      "character": "Tolna",
+      "line": "I'm fine, my memories are slowly returning. How's mother?"
+    },
+    {
+      "character": "Brana",
+      "line": "She misses you dearly!"
+    },
+    {
+      "character": "Tolna",
+      "line": "Where is she?"
+    },
+    {
+      "character": "Player",
+      "line": "She's up at the surface waiting for you."
+    },
+    {
+      "character": "Brana",
+      "line": "Thank you traveller, I'm glad my wife and I never gave up hope. We should return to her and tell her the good news."
+    },
+    {
+      "character": "Tolna",
+      "line": "Thank you so much. I truly owe you for your help."
+    },
+    {
+      "character": "Player",
+      "line": "I'm just glad I could help."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Tolna."
+    },
+    {
+      "character": "Tolna",
+      "line": "Hi. Thanks again for saving me, I'm so glad to be out of that horrible place. I was foolish to ignore my parents' warnings when I ran away that day. Luckily I've been able to patch things up with them so they've"
+    },
+    {
+      "character": "Tolna",
+      "line": "returned home with peace of mind."
+    },
+    {
+      "character": "Player",
+      "line": "What exactly happened to you down there?"
+    },
+    {
+      "character": "Tolna",
+      "line": "I managed to find the remnants of the ancient civilisation that the stories talked about. It seems people used to worship a god there years ago in numbers far greater than a simple cult following. Sadly there is little"
+    },
+    {
+      "character": "Tolna",
+      "line": "remaining so I have nothing else to tell. As soon as I entered this area the ground swallowed me whole. I felt there was something watching, waiting. It's like there is some evil power under the ground that wanted me to"
+    },
+    {
+      "character": "Tolna",
+      "line": "suffer. As if it got some sort of empowerment from it. At least what ever it is, it doesn't want to reveal itself to the world yet..."
+    },
+    {
+      "character": "Player",
+      "line": "At least we have a warning. Did you manage to retrieve anything?"
+    },
+    {
+      "character": "Tolna",
+      "line": "Not really, just a few coins, which you're welcome to have."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. So what are you going to do now?"
+    },
+    {
+      "character": "Tolna",
+      "line": "I've decided to keep open the rift. There is a part of it that is perfectly laid out for combat training and remnants of my subconscious remain in there. I want to show people the problems I have faced, so that they"
+    },
+    {
+      "character": "Tolna",
+      "line": "may learn from them. You're welcome to go down there and practice fighting any time."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Brana",
+      "description": "Elderly male, British accent, weary but caring tone. A devoted father who spent 25 years searching for his lost son, showing patience, resilience, and gentle determination."
+    },
+    {
+      "name": "Launa",
+      "description": "Middle-aged female, British accent, tired and worried tone with underlying determination. A mother exhausted from decades of searching for her son, hopeful yet emotionally strained."
+    },
+    {
+      "name": "Tolna",
+      "description": "Young adult male, British accent, initially confused then grateful and reflective. A former runaway who learned humility through years of suffering, now speaks with maturity beyond his years."
+    },
+    {
+      "name": "Tolna's Voice",
+      "description": "Young adult male, British accent, echoing and distressed tone. A disembodied voice expressing raw emotions of anger, fear, confusion, and hopelessness from years of torment."
+    }
+  ]
+}

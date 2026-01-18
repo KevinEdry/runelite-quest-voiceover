@@ -1,0 +1,1076 @@
+{
+  "branch": "quest/death-plateau",
+  "quest_name": "Death Plateau",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Hello citizen, how can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have any quests for me?"
+    },
+    {
+      "character": "Denulth",
+      "line": "I don't know if you can help us!"
+    },
+    {
+      "character": "Denulth",
+      "line": "The trolls have taken up camp on Death Plateau! They are using it to launch raids at night on the village. We have tried to attack the camp but the main path is heavily guarded!"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps there is a way you can sneak up at night?"
+    },
+    {
+      "character": "Denulth",
+      "line": "If there is another way I do not know of it."
+    },
+    {
+      "character": "Denulth",
+      "line": "Do you know of such a path?"
+    },
+    {
+      "character": "Player",
+      "line": "No but perhaps I could try and find one?"
+    },
+    {
+      "character": "Denulth",
+      "line": "Citizen you would be well rewarded!"
+    },
+    {
+      "character": "Denulth",
+      "line": "If you go up to Death Plateau be very careful as the trolls will attack you on sight!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll be careful."
+    },
+    {
+      "character": "Denulth",
+      "line": "One other thing."
+    },
+    {
+      "character": "Player",
+      "line": "What's that?"
+    },
+    {
+      "character": "Denulth",
+      "line": "All of our equipment is kept in the castle on the hill."
+    },
+    {
+      "character": "Denulth",
+      "line": "The stupid guard that was on duty last night lost the combination to the lock! I told the Prince that the Imperial Guard should've been in charge of security!"
+    },
+    {
+      "character": "Player",
+      "line": "No problem, what does the combination look like?"
+    },
+    {
+      "character": "Denulth",
+      "line": "The equipment room is unlocked when the stone balls are placed in the correct order on the stone mechanism outside it. The right order is written on a piece of paper the guard had."
+    },
+    {
+      "character": "Player",
+      "line": "A stone what...?!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Well citizen, the Prince is fond of puzzles. Why we couldn't just have a key is beyond me!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll get on it right away!"
+    },
+    {
+      "character": "Player",
+      "line": "No, sorry."
+    },
+    {
+      "character": "Denulth",
+      "line": "Never mind citizen."
+    },
+    {
+      "character": "Denulth",
+      "line": "Can I assist you with anything else?"
+    },
+    {
+      "character": "Player",
+      "line": "What is this place?"
+    },
+    {
+      "character": "Denulth",
+      "line": "Welcome to the Principality of Burthorpe!"
+    },
+    {
+      "character": "Denulth",
+      "line": "We are the Imperial Guard for his Royal Highness Prince Anlaf of Burthorpe."
+    },
+    {
+      "character": "Player",
+      "line": "You can't, thanks."
+    },
+    {
+      "character": "Denulth",
+      "line": "Hello citizen, is there anything you'd like to know?"
+    },
+    {
+      "character": "Player",
+      "line": "Can you remind me of the quest I am on?"
+    },
+    {
+      "character": "Denulth",
+      "line": "You offered to see if you could find another way up Death Plateau. We could then use it to sneak up and attack the trolls by night."
+    },
+    {
+      "character": "Player",
+      "line": "Ah yes, and the guard had lost the combination to your equipment room in the castle on the hill?"
+    },
+    {
+      "character": "Denulth",
+      "line": "That's right citizen, you offered to recover the combination and unlock the door."
+    },
+    {
+      "character": "Denulth",
+      "line": "Is there anything else you would like to know?"
+    },
+    {
+      "character": "Player",
+      "line": "I thought the White Knights controlled Asgarnia?"
+    },
+    {
+      "character": "Denulth",
+      "line": "You are right citizen. The White Knights have taken advantage of the old and weak king, they control most of Asgarnia, including Falador. However they do not control Burthorpe!"
+    },
+    {
+      "character": "Denulth",
+      "line": "We are the prince's elite troops! We keep Burthorpe secure!"
+    },
+    {
+      "character": "Denulth",
+      "line": "The White Knights have overlooked us, until now! They are pouring money into their war against the Black Knights, they are looking for an excuse to stop our funding and I'm afraid they may have found it!"
+    },
+    {
+      "character": "Denulth",
+      "line": "If we can not destroy the troll camp on Death Plateau then the Imperial Guard will be disbanded and Burthorpe will come under control of the White Knights. We can not let this happen!"
+    },
+    {
+      "character": "Player",
+      "line": "That's all, thanks."
+    },
+    {
+      "character": "Denulth",
+      "line": "God speed citizen."
+    },
+    {
+      "character": "Player",
+      "line": "I'd better not go into someone's bedroom without a reason!"
+    },
+    {
+      "character": "Player",
+      "line": "Hi!"
+    },
+    {
+      "character": "Eohric",
+      "line": "Hi, can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for the guard that was on last night."
+    },
+    {
+      "character": "Eohric",
+      "line": "There was only one guard on last night. Harold. He's a nice lad, if a little dim."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where he is staying?"
+    },
+    {
+      "character": "Eohric",
+      "line": "Harold is staying at the Toad and Chicken."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know of another way up Death Plateau?"
+    },
+    {
+      "character": "Eohric",
+      "line": "No, sorry. I wouldn't want to go north-east from here, it's very rocky and barren."
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm just looking around."
+    },
+    {
+      "character": "Harold",
+      "line": "Come in!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Harold",
+      "line": "Hi."
+    },
+    {
+      "character": "Player",
+      "line": "You're the guard that was on duty last night?"
+    },
+    {
+      "character": "Harold",
+      "line": "Yeah."
+    },
+    {
+      "character": "Player",
+      "line": "Denulth said that you lost the combination to the equipment room?"
+    },
+    {
+      "character": "Harold",
+      "line": "I don't want to talk about it!"
+    },
+    {
+      "character": "Harold",
+      "line": "What?"
+    },
+    {
+      "character": "Harold",
+      "line": "I said I don't want to talk about it!"
+    },
+    {
+      "character": "Player",
+      "line": "I found Harold but he won't talk to me!"
+    },
+    {
+      "character": "Eohric",
+      "line": "Hmm. Harold has got in trouble a few times over his drinking and gambling. Perhaps he'd open up after a drink?"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'll try that!"
+    },
+    {
+      "character": "Player",
+      "line": "You said that Harold had a weakness?"
+    },
+    {
+      "character": "Eohric",
+      "line": "Yes, if you buy Harold a beer he might talk to you. I also know he has a weakness for gambling. Hope that helps!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks for the help!"
+    },
+    {
+      "character": "Player",
+      "line": "Can I buy you a drink?"
+    },
+    {
+      "character": "Harold",
+      "line": "Now you're talking! An Asgarnian Ale please!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll go and get you one."
+    },
+    {
+      "character": "Harold",
+      "line": "Arrh. That hit the spot!"
+    },
+    {
+      "character": "Player",
+      "line": "Where were you when you last had the combination?"
+    },
+    {
+      "character": "Harold",
+      "line": "I honestly don't know! I've looked everywhere. I've searched the castle and my room!"
+    },
+    {
+      "character": "Player",
+      "line": "Have you tried looking between here and the castle?"
+    },
+    {
+      "character": "Harold",
+      "line": "Yeah, I tried that."
+    },
+    {
+      "character": "Harold",
+      "line": "I need another beer."
+    },
+    {
+      "character": "Player",
+      "line": "Would you like to gamble?"
+    },
+    {
+      "character": "Harold",
+      "line": "Good. Good. I have some dice. How much do you want to offer?"
+    },
+    {
+      "character": "Harold",
+      "line": "Woah! Do you think I'm made of money? Max bet is 1000 gold."
+    },
+    {
+      "character": "Harold",
+      "line": "OK. I'll roll first!"
+    },
+    {
+      "character": "Harold",
+      "line": "Don't forget that once I start my roll you can't back out of the bet! If you do you lose your stake!"
+    },
+    {
+      "character": "Harold",
+      "line": "Sounds good! I normally drink Asgarnian Ale but you know what?"
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Harold",
+      "line": "I really fancy one of those Blurberry Specials. I never get over to the Gnome Stronghold so I haven't had one for ages!"
+    },
+    {
+      "character": "Harold",
+      "line": "Now THAT hit the spot!"
+    },
+    {
+      "character": "Harold",
+      "line": "'Ello matey!"
+    },
+    {
+      "character": "Harold",
+      "line": "Hmm...!"
+    },
+    {
+      "character": "Harold",
+      "line": "Er...!"
+    },
+    {
+      "character": "Harold",
+      "line": "What wash the queshtion?"
+    },
+    {
+      "character": "Harold",
+      "line": "Shure!"
+    },
+    {
+      "character": "Harold",
+      "line": "Place your betsh pleashe!"
+    },
+    {
+      "character": "Harold",
+      "line": "*giggle*"
+    },
+    {
+      "character": "Harold",
+      "line": "Eashy tiger! Max bet ish 1000 coinsh."
+    },
+    {
+      "character": "Harold",
+      "line": "Right...er...here goes..."
+    },
+    {
+      "character": "Harold",
+      "line": "I fink I've had enough!"
+    },
+    {
+      "character": "Harold",
+      "line": "Oh dear, I seem to have run out of money!"
+    },
+    {
+      "character": "Harold",
+      "line": "Here's what I have."
+    },
+    {
+      "character": "Harold",
+      "line": "I'll write you out an IOU for the rest."
+    },
+    {
+      "character": "Harold",
+      "line": "Shixteen! How am I shupposhed to beat that!"
+    },
+    {
+      "character": "Harold",
+      "line": "I didn't know you could ushe four dishe. Oh well."
+    },
+    {
+      "character": "Harold",
+      "line": "*hic*"
+    },
+    {
+      "character": "Harold",
+      "line": "I sheemed to have rolled a one."
+    },
+    {
+      "character": "Harold",
+      "line": "Um...not enough money."
+    },
+    {
+      "character": "Harold",
+      "line": "Heresh shome of it."
+    },
+    {
+      "character": "Harold",
+      "line": "I owe you the resht!"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the IOU you gave me."
+    },
+    {
+      "character": "Harold",
+      "line": "I'll write you another."
+    },
+    {
+      "character": "Harold",
+      "line": "Oh dear."
+    },
+    {
+      "character": "Harold",
+      "line": "I've run out of money!"
+    },
+    {
+      "character": "Harold",
+      "line": "Oh dear. I need beer."
+    },
+    {
+      "character": "Harold",
+      "line": "*burp*"
+    },
+    {
+      "character": "Harold",
+      "line": "Mmm... Asgarnian Ale."
+    },
+    {
+      "character": "Harold",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Harold",
+      "line": "I'm shure I had money, not anymore!"
+    },
+    {
+      "character": "Player",
+      "line": "The IOU says that Harold owes me some money."
+    },
+    {
+      "character": "Player",
+      "line": "Wait just a minute!"
+    },
+    {
+      "character": "Player",
+      "line": "The IOU is written on the back of the combination! The stupid guard had it in his back pocket all the time!"
+    },
+    {
+      "character": "Archer",
+      "line": "Thank goodness you opened that door! I've been trapped here since last night!"
+    },
+    {
+      "character": "Player",
+      "line": "No problem!"
+    },
+    {
+      "character": "Player",
+      "line": "What is this castle?"
+    },
+    {
+      "character": "Eohric",
+      "line": "Welcome to Burthorpe Castle! Home to his Royal Highness the Prince of Burthorpe, Heir to the Throne of Asgarnia!"
+    },
+    {
+      "character": "Player",
+      "line": "Wow!"
+    },
+    {
+      "character": "Eohric",
+      "line": "Anything else I can help you with?"
+    },
+    {
+      "character": "Player",
+      "line": "Where is the prince?"
+    },
+    {
+      "character": "Eohric",
+      "line": "We do not disclose his majesty's business."
+    },
+    {
+      "character": "Eohric",
+      "line": "Yes actually I do, we need another servant."
+    },
+    {
+      "character": "Player",
+      "line": "Does this noble quest have a name?"
+    },
+    {
+      "character": "Eohric",
+      "line": "Yes, it's the... er... Empty the Cesspit Quest!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll give it a miss!"
+    },
+    {
+      "character": "Player",
+      "line": "I've unlocked the equipment room so I just need to find an alternate route up Death Plateau!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Good work citizen!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you OK?"
+    },
+    {
+      "character": "Soldier",
+      "line": "Urrrgggh....."
+    },
+    {
+      "character": "Soldier",
+      "line": "I'll be OK, the trolls only leave the plateau at nightfall. The guys are bringing a stretcher shortly."
+    },
+    {
+      "character": "Player",
+      "line": "As long as you're sure."
+    },
+    {
+      "character": "Soldier",
+      "line": "It's my own fault really, I was having a walk and wandered past the danger sign. The trolls throw rocks down at any one who goes up the path!"
+    },
+    {
+      "character": "Soldier",
+      "line": "Don't go up there!"
+    },
+    {
+      "character": "Player",
+      "line": "OK, thanks for the warning."
+    },
+    {
+      "character": "Tenzing",
+      "line": "No milk today! Thank you!"
+    },
+    {
+      "character": "Saba",
+      "line": "What?!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm looking for the guard that was on duty at the castle last night."
+    },
+    {
+      "character": "Saba",
+      "line": "Who?!"
+    },
+    {
+      "character": "Saba",
+      "line": "Buzz off!"
+    },
+    {
+      "character": "Saba",
+      "line": "Why would I want to go up there? I just want to be left in peace!"
+    },
+    {
+      "character": "Saba",
+      "line": "It used to be just humans trampling past my cave and making a racket. Now there's those blasted trolls too! Not only do they stink and argue with each other loudly but they are always fighting the humans."
+    },
+    {
+      "character": "Saba",
+      "line": "I just want to be left in peace!"
+    },
+    {
+      "character": "Player",
+      "line": "Ah... I might be able to help you."
+    },
+    {
+      "character": "Saba",
+      "line": "How?!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm trying to help the...er...humans to reclaim back Death Plateau. If you help me then at least you'd be rid of the trolls."
+    },
+    {
+      "character": "Saba",
+      "line": "Hmph."
+    },
+    {
+      "character": "Saba",
+      "line": "Let me see..."
+    },
+    {
+      "character": "Saba",
+      "line": "I've only been up Death Plateau once to complain about the noise but those pesky trolls started throwing rocks at me!"
+    },
+    {
+      "character": "Saba",
+      "line": "Before the trolls came there used to be a nettlesome Sherpa that took humans exploring or something equally stupid. Perhaps he'd know another way."
+    },
+    {
+      "character": "Player",
+      "line": "Where does this Sherpa live?"
+    },
+    {
+      "character": "Saba",
+      "line": "I don't know but it can't be far as he used to be around all the time!"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, sorry!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Saba",
+      "line": "Have you got rid of those pesky trolls yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Where did you say this Sherpa was?"
+    },
+    {
+      "character": "Saba",
+      "line": "I dunno but he must live around here somewhere!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not the milkman, I need your help!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Oh...OK. You'd better come in then."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Where do you think you're going? This is private property!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Hello. How can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm helping the Imperial Guard. They need to find a way to sneak up Death Plateau to destroy the troll camp! Saba seemed to think you'd be able to help."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Ah...Saba is still alive and kicking?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeh, he seemed very bitter."
+    },
+    {
+      "character": "Tenzing",
+      "line": "That's Saba alright!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "I do know of a secret way up to Death Plateau, the Imperial Guard would be able to use it at night and not be seen until it was too late!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "I'd be happy to show you it if you do something for me first."
+    },
+    {
+      "character": "Player",
+      "line": "Name it."
+    },
+    {
+      "character": "Tenzing",
+      "line": "I don't get into town much and I'm getting low on supplies. I need ten loaves of bread and ten cooked trout, that should see me through the winter."
+    },
+    {
+      "character": "Player",
+      "line": "Anything else?"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Yes. My climbing boots need to have new spikes, so can you take them to Dunstan in Burthorpe? He always puts my spikes on for me."
+    },
+    {
+      "character": "Player",
+      "line": "OK, I'll get those for you."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Thank you traveller!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll find the secret way for myself."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Hmph."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Has Dunstan added spikes to my climbing boots yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Well, when he has, bring the boots to me with ten loaves of bread and ten cooked trout. I have to prepare for the winter, after all."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Hi! How can I help?"
+    },
+    {
+      "character": "Player",
+      "line": "Tenzing has asked me to bring you his climbing boots, he needs to have spikes put on them."
+    },
+    {
+      "character": "Dunstan",
+      "line": "He does, does he? Well I won't do it till he pays for the last set I made for him!"
+    },
+    {
+      "character": "Player",
+      "line": "This is really important!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "How so?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I need the Sherpa to show me a secret way up Death Plateau so that the Imperial Guard can destroy the troll camp! He won't help me till I've got the spikes!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Hmm. That's different!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Tell you what, I'll make them for you on one condition."
+    },
+    {
+      "character": "Player",
+      "line": "*sigh* What's the condition?"
+    },
+    {
+      "character": "Dunstan",
+      "line": "My son has just turned 16 and I'd very much like him to join the Imperial Guard. The Prince's elite forces are invite only so it's very unlikely he'll get in. If you can arrange that you have a deal!"
+    },
+    {
+      "character": "Player",
+      "line": "That won't be a problem as I'm helping out the Imperial Guard!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Excellent! You'll need to bring an Iron bar for the spikes!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Have you managed to get my son signed up for the Imperial Guard?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet! I just need to speak to Denulth!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Hello citizen, have you found another way up Death Plateau?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes there is another way up Death Plateau!"
+    },
+    {
+      "character": "Denulth",
+      "line": "We are saved!"
+    },
+    {
+      "character": "Player",
+      "line": "There's one thing..."
+    },
+    {
+      "character": "Denulth",
+      "line": "And what is that citizen?"
+    },
+    {
+      "character": "Player",
+      "line": "There is a Sherpa who will only show me the secret way if I first get some spikes for his climbing boots. The smith will only do this for me if you sign up his son for the Imperial Guard!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Hmm...this is very irregular."
+    },
+    {
+      "character": "Player",
+      "line": "Will you not do this?"
+    },
+    {
+      "character": "Denulth",
+      "line": "I have heard of Dunstan's son, he is a very promising young man. For the sake of your mission we can make an exception!"
+    },
+    {
+      "character": "Denulth",
+      "line": "This certificate proves that we have accepted Dunstan's son for training in the Imperial Guard!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you Denulth, I shall be back shortly!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Hello citizen, have you found the secret way up Death Plateau?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it but I've lost the certificate!"
+    },
+    {
+      "character": "Denulth",
+      "line": "No problem, I have a duplicate."
+    },
+    {
+      "character": "Player",
+      "line": "I have but I don't have the entrance certificate on me."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Good but I need to have the certificate."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "Now to keep my end of the bargain. Give me the boots and an iron bar and I'll put on the spikes."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you!"
+    },
+    {
+      "character": "Dunstan",
+      "line": "No problem."
+    },
+    {
+      "character": "Dunstan",
+      "line": "Hi!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the iron bar or the climbing boots."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the climbing boots."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the iron bar."
+    },
+    {
+      "character": "Dunstan",
+      "line": "I see you've got the spiked boots. Are you going to take them to the Sherpa?"
+    },
+    {
+      "character": "Player",
+      "line": "I will do shortly."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Have you brought me the items I asked for?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the climbing boots."
+    },
+    {
+      "character": "Tenzing",
+      "line": "These are expensive, do not lose another pair!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Spiked boots. Ten loaves of bread. Ten cooked trout."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Spiked boots. Ten loaves of bread."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Spiked boots. Ten cooked trout."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Ten loaves of bread. Ten cooked trout."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Spiked boots."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Ten loaves of bread."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the: Ten cooked trout."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Thank you very much traveller. I'm now ready for the winter!"
+    },
+    {
+      "character": "Player",
+      "line": "You said you would show me the secret way to Death Plateau?"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Yes, of course! I drew up a map in case I ever needed to use it again."
+    },
+    {
+      "character": "Tenzing",
+      "line": "I don't think the Trolls have found the secret way yet, if they had I would've been attacked by now."
+    },
+    {
+      "character": "Player",
+      "line": "OK thanks but I think I'd better check the path. I don't want to send the Imperial Guards to their death!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "You are wise for one so young."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Tenzing!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "Hello again traveller. What can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "I've lost the secret way map."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Never mind. I'll quickly draw you another one."
+    },
+    {
+      "character": "Player",
+      "line": "I'm lost!"
+    },
+    {
+      "character": "Tenzing",
+      "line": "To get back to Burthorpe follow the path going east."
+    },
+    {
+      "character": "Tenzing",
+      "line": "I thought you were going to investigate the secret way to Death Plateau? Use the back door to my hut, hop over the stile and follow that path."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, of course! Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing, thanks."
+    },
+    {
+      "character": "Tenzing",
+      "line": "Go in peace traveller."
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it!"
+    },
+    {
+      "character": "Saba",
+      "line": "Grr!"
+    },
+    {
+      "character": "Player",
+      "line": "I think this is far enough, I can see Death Plateau and it looks like the trolls haven't found the path. I'd better go and tell Denulth."
+    },
+    {
+      "character": "Player",
+      "line": "Yes! There is a path that runs from a Sherpa's hut around the back of Death Plateau. The trolls haven't found it yet. The Sherpa made a map I can give you."
+    },
+    {
+      "character": "Player",
+      "line": "I don't have the map on me."
+    },
+    {
+      "character": "Denulth",
+      "line": "Excellent, this looks perfect. They will never see us coming."
+    },
+    {
+      "character": "Denulth",
+      "line": "Have you managed to open the equipment room?"
+    },
+    {
+      "character": "Player",
+      "line": "I have opened the door but I don't have the combination on me."
+    },
+    {
+      "character": "Player",
+      "line": "Yes! The door is open and here is the combination."
+    },
+    {
+      "character": "Denulth",
+      "line": "Well done citizen! We will reward you by training you in attack!"
+    },
+    {
+      "character": "Denulth",
+      "line": "Hello citzen, I have the map of the secret way you gave me earlier."
+    },
+    {
+      "character": "Denulth",
+      "line": "I have the combination to the equipment room that you recovered for me."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Archer",
+      "description": "Young adult male, British accent, clipped and formal tone, a disciplined Imperial Guard archer who takes duty seriously and refuses to speak while on watch."
+    },
+    {
+      "name": "Denulth",
+      "description": "Middle-aged male, commanding British accent, authoritative and professional tone, the dedicated commander of the Burthorpe Imperial Guard who speaks with military precision."
+    },
+    {
+      "name": "Dunstan",
+      "description": "Middle-aged male, working-class British accent, gruff but fair tone, a seasoned blacksmith and proud father who drives a hard bargain but honors his deals."
+    },
+    {
+      "name": "Eohric",
+      "description": "Older male, refined British accent, polite and formal tone, the head servant of Burthorpe Castle who is courteous and well-informed about castle affairs."
+    },
+    {
+      "name": "Harold",
+      "description": "Young adult male, casual British accent, easygoing and slightly dim tone, an off-duty guard with a weakness for drinking and gambling who becomes progressively slurred when intoxicated."
+    },
+    {
+      "name": "Saba",
+      "description": "Elderly male, raspy British accent, grumpy and irritable tone, a disheveled hermit who lives in a cave and just wants to be left in peace from humans and trolls alike."
+    },
+    {
+      "name": "Soldier",
+      "description": "Adult male, British accent, pained and urgent tone, an injured Imperial Guard soldier who warns others of danger despite his wounds from troll attacks."
+    },
+    {
+      "name": "Tenzing",
+      "description": "Middle-aged male, Himalayan-accented English, practical and no-nonsense tone, an experienced sherpa and mountain guide who knows the secret paths around Death Plateau."
+    }
+  ]
+}

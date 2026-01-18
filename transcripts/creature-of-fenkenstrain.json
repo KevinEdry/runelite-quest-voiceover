@@ -1,0 +1,684 @@
+{
+  "branch": "quest/creature-of-fenkenstrain",
+  "quest_name": "Creature of Fenkenstrain",
+  "lines": [
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "What do you think you're doing???"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Have you come to apply for the job?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, if it pays well."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I'll have to ask you some questions first."
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "How would you describe yourself in one word?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Mmmm, I see."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I'm sorry, but I don't think you have the aptitude for this position."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Just one more question. What would you say is your greatest skill?"
+    },
+    {
+      "character": "Player",
+      "line": "Combat."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Looks like you're just the for the job! Welcome aboard!"
+    },
+    {
+      "character": "Player",
+      "line": "Is there anything you'd like me to do for you, sir?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Yes, there is. You're highly skilled at grave-digging, yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Err...yes, that's what I said."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Excellent. Now listen carefully."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I need you to find some...stuff...for me."
+    },
+    {
+      "character": "Player",
+      "line": "Stuff?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "That's what I said...stuff."
+    },
+    {
+      "character": "Player",
+      "line": "What kind of stuff?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well...dead stuff."
+    },
+    {
+      "character": "Player",
+      "line": "Go on..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I need you to get me enough dead body parts for me to stitch together a complete body, which I plan to bring to life."
+    },
+    {
+      "character": "Player",
+      "line": "Right...okay...if you insist."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks, I wouldn't work here if you paid me."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Charming."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I could find body parts?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "The soil of Morytania is unique in its ability to preserve the bodies of the dead, which is one reason why I have chosen to carry out my experiments here."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I recommend digging up some graves in the local area. To the south-east you will find the Haunted Woods; I believe there are many graves there."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "There is also a mausoleum on an island west of this castle. I expect the bodies that are buried there to be extremely well preserved, as they were wealthy in life."
+    },
+    {
+      "character": "Player",
+      "line": "What do you want me to do, again?"
+    },
+    {
+      "character": "Player",
+      "line": "Why do you want to make a creature?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I came to the land of Morytania many years ago, to find a safe sanctuary for my experiments. This abandoned castle suited my purposes exactly."
+    },
+    {
+      "character": "Player",
+      "line": "What were you experimenting in?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Oh, perfectly innocent experiments - for the good of mankind."
+    },
+    {
+      "character": "Player",
+      "line": "Then why did you need to come to Morytania?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Enough questions, now. Get back to your work."
+    },
+    {
+      "character": "Player",
+      "line": "Will this creature put me out of a job?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "No, my friend. I have a very special purpose in mind for this creature."
+    },
+    {
+      "character": "Player",
+      "line": "I must get back to work, sir."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me anything about Fenkenstrain?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Oi could tell you a few things about old Fenky, yeah."
+    },
+    {
+      "character": "Player",
+      "line": "Go on."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Once, this castle were full o' good folk - my friends. Fenky was just the castle doctor you know, to the Lord and the castle folk."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "I don't know what happened to them all, but one by one they all disappeared. When they were gone a while, I went an dug graves for 'em, in the forest."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "After a while there weren't no-one left, but the Lord, Fenkenstrain, and meself."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Old Fenky sent me into the Forest to dig 'im a pit. Never said what for. Then would you believe it, someone chops me head off."
+    },
+    {
+      "character": "Player",
+      "line": "Did you see who did it, before..."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Before oi kicked the bucket, you mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Umm..."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Don't worry yourself, I'm not worried about bein' dead. Worse things could happen, I suppose."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "One thing I do know is, there ain't no Lord of the castle anymore, 'cept for old Fenky. Makes you think a bit, don't it?"
+    },
+    {
+      "character": "Player",
+      "line": "What happened to your head?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Oi was in the old 'aunted Forest to the south, diggin' a pit for moi old maaster, old Fenkenstrain, when would you believe it, someone chops me head off. Awful bad luck, weren't it?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, dreadful bad luck."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "So oi thinks to meself, I don't needs any 'ead to be gettin on with me gardenin', long as I got me hands and me spade."
+    },
+    {
+      "character": "Player",
+      "line": "Would you show me where the place was?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "No mate, you've found my head already, oi think."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Well, oi s'pose oi've got 10 minutes to spare."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Me name? It's been a moivellous long while, mate, since I had any use for such a thing as a name."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, I was just trying to make conversation."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "No, no, I can't be havin' that - I'll remember in a minute-"
+    },
+    {
+      "character": "Player",
+      "line": "Please, don't worry."
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Lestwit, that's it! Ed Lestwit!"
+    },
+    {
+      "character": "Roavar",
+      "line": "You're interested in our speciality, I see. Would you like to buy some?"
+    },
+    {
+      "character": "Player",
+      "line": "What exactly is in the jar?"
+    },
+    {
+      "character": "Roavar",
+      "line": "Pickled brain, my friend. Only 50 gold to you."
+    },
+    {
+      "character": "Player",
+      "line": "Err...pickled brain from what animal?"
+    },
+    {
+      "character": "Roavar",
+      "line": "Animal? Don't be disgusting, man! No, this is a human brain - only the best for my customers."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds very nice, but I'm afraid I don't have enough gold at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "I'll buy one, please."
+    },
+    {
+      "character": "Roavar",
+      "line": "A very wise choice,. Don't eat it all at once, savour every morsel - that's my advice to you."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I'm not really hungry at the moment."
+    },
+    {
+      "character": "Roavar",
+      "line": "You can leave that alone, my friend. I've already sold you one of your own - eat that. I can't afford to give away freebies in this business!"
+    },
+    {
+      "character": "Player",
+      "line": "I have a winner for you here, Doctor! Look! It's still moving!"
+    },
+    {
+      "character": "Zombie Head",
+      "line": "Nobody knows the troubles I've seen...nobody knows my sorrow..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I can't use that head!"
+    },
+    {
+      "character": "Player",
+      "line": "Why not?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "If that thing keeps wriggling around, I'll never get the stitches straight."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "...And who knows what problems will come up if we have an undead head on a truly dead body."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Bring me another head, one that isn't still moving"
+    },
+    {
+      "character": "Player",
+      "line": "I have some body parts for you."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Fantastic, you've brought me a head."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Splendid, you've brought me a torso."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Great, you've brought me some arms."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Excellent, you've brought me some legs."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Superb!! Those are all the parts I need. Now to sew them together..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Go and get me a needle, and I'll need 5 lots of thread."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Where are my needle and thread, ?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Ah, a needle. Wonderful."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Some thread, excellent."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Where's my thread, ?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Where's my needle, ?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Perfect. But I need one more thing from you - flesh and bones by themselves do not make life."
+    },
+    {
+      "character": "Player",
+      "line": "Really?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I have honed to perfection an ancient ritual that will give life to this creature, but for this I must harness the very power of Nature."
+    },
+    {
+      "character": "Player",
+      "line": "And what power is this?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "The power of lightning."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, can't make lightning, you've got the wrong man-"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Silence your insolent tongue! The storm that brews overhead will create the lightning. What I need you to do is to repair the lightning conductor on the balcony above."
+    },
+    {
+      "character": "Player",
+      "line": "Repair the lightning conductor, right. Can I have a break, soon? By law I'm entitled to 15 minutes every-"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Repair the conductor and BEGONE!!!"
+    },
+    {
+      "character": "Player",
+      "line": "How do I repair the lightning conductor?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Oh, it would be easier to do it myself! If you find a conductor mould you should be able to cast a new one."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Remember this, : my experiment will only work with a conductor made from silver."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where the key to the shed is?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Got it right 'ere in my pocket. Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know where I can find a lightning conductor mould?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "A conductive mould, you say? Let me see-"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "There used to be a bloke 'ere, sort of an 'andyman e was. Did everything round the place - fixed what was broke, swept the chimneys and the like. He would 'ave had a mould, I imagine."
+    },
+    {
+      "character": "Player",
+      "line": "Where is he now?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "E's dead, just like everyone else round 'ere... 'cept for me."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Very good, you have made a new conductor - now get up on the roof and repair it before this storm passes!"
+    },
+    {
+      "character": "Player",
+      "line": "So did it work, then?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Yes, I'm afraid it did, LogWarden - all too well."
+    },
+    {
+      "character": "Player",
+      "line": "I can't see it anywhere."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I tricked it into going up to the Tower, and there it remains, imprisoned."
+    },
+    {
+      "character": "Player",
+      "line": "So the creature wasn't all you'd hoped, then?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "...oh, what have I done..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I see, we're developing a sense of right and wrong now are we?"
+    },
+    {
+      "character": "Player",
+      "line": "Bit late for that, I'd say."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I have no control over it! It's coming to get me!"
+    },
+    {
+      "character": "Player",
+      "line": "What do you want me to do about it?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Destroy it!!! Take the key to the Tower and take back the life I never should have granted!!!"
+    },
+    {
+      "character": "Player",
+      "line": "How are you?"
+    },
+    {
+      "character": "Gardener Ghost",
+      "line": "Same as ever, mate, just getting' on with it regardless."
+    },
+    {
+      "character": "Player",
+      "line": "Good for you...err...mate."
+    },
+    {
+      "character": "Player",
+      "line": "I am commanded to destroy you, creature!"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "Oh that's *hic* not very *hic* nice..."
+    },
+    {
+      "character": "Player",
+      "line": "Are you feeling okay?"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "Abso *hic* lutely. Never *buuurrp* better."
+    },
+    {
+      "character": "Player",
+      "line": "You don't look very dangerous."
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "How *hic* do I look?"
+    },
+    {
+      "character": "Player",
+      "line": "You really don't know, do you? Have a look for yourself."
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "AAAAARRGGGGHHHH!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm sorry. I suppose I'm partly to blame for this."
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "No - it was him I wager - Fenkenstrain - wasn't it? He's brought me back to life!"
+    },
+    {
+      "character": "Player",
+      "line": "Who are - were - you?"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "I was Rologarth, Lord of the North Coast - this castle was once mine. Fenkenstrain was the castle doctor."
+    },
+    {
+      "character": "Player",
+      "line": "So the castle wasn't really abandoned when he found it?"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "Is that what he told you? No, no, this castle was once full of people and life. Fenkenstrain advised me to sell them to the vampyres, which - I am sad to say - I did."
+    },
+    {
+      "character": "Player",
+      "line": "I found your brain in a jar in Canifis, so he must have sold you too."
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "Of that I will not speak. There lie memories that should rest with the dead, the living unable to bear them."
+    },
+    {
+      "character": "Player",
+      "line": "That's it - I'm leaving this dreadful place, whether I get paid or not. Is there anything I can do for you before I leave?"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "Only one - please stop Fenkenstrain from carrying on his experiments, once and for all, so that no other poor soul has to endure suffering such as that of my people and I."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know how I can stop Fenkenstrain's experiments?"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "Take the Ring of Charos from him."
+    },
+    {
+      "character": "Player",
+      "line": "What is this ring?"
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "It was my birthright, passed down to me through the ages, its origin forgotten."
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "The Ring of Charos has many powers, but Fenkenstrain has bent them to his own evil purposes. Without the power of the ring, he will not be able to raise the dead from their sleep."
+    },
+    {
+      "character": "Fenkenstrain's Monster",
+      "line": "It has one other, extremely important use - it confuses the werewolves' senses, making them believe that they smell one of their own kind. Without the ring, Fenkenstrain will be at their mercy."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "So have you destroyed it?!!?"
+    },
+    {
+      "character": "Player",
+      "line": "Never, now that he has told me the truth!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Oh my, oh my, this is exactly what I feared!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Why did you have to pick Rologarth's brain of all brains?!?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm through working for you."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "No!! I refuse to release you!! You must help me build another creature to destroy this dreadful mistake!!"
+    },
+    {
+      "character": "Rologarth",
+      "line": "How goes it, friend?"
+    },
+    {
+      "character": "Player",
+      "line": "I stole the Ring of Charos from Fenkenstrain."
+    },
+    {
+      "character": "Rologarth",
+      "line": "I saw him climb up into the Tower to hide it. It doesn't matter - soon the werewolves will come for him, and his experiments will be forever ceased."
+    },
+    {
+      "character": "Player",
+      "line": "Do you want the ring back? It is yours after all."
+    },
+    {
+      "character": "Rologarth",
+      "line": "No, you keep it, my friend. Werewolves hunger for the scent of live flesh - I have no need for the ring. I have my castle back, if not my soul."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "theyrecomingtogetme theyrecomingtogetme..."
+    },
+    {
+      "character": "Player",
+      "line": "It is all you deserve. Lord Rologarth is master of this castle once more. Let him protect you - if he wants to."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Dr Fenkenstrain",
+      "description": "Middle-aged male, Eastern European accent, theatrical and grandiose tone with sinister undertones. A mad scientist obsessed with his experiments, prone to dramatic outbursts and impatient with incompetence."
+    },
+    {
+      "name": "Fenkenstrain's Monster",
+      "description": "Adult male, deep gravelly voice, initially slurred and drunk-sounding with hiccups. A tragic reanimated creature who gradually regains clarity as Lord Rologarth's consciousness resurfaces, becoming more dignified and melancholic."
+    },
+    {
+      "name": "Gardener Ghost",
+      "description": "Middle-aged male, rustic West Country English accent, cheerful and matter-of-fact despite being dead. A simple working-class gardener named Ed Lestwit who takes his headless state in stride with good humor."
+    },
+    {
+      "name": "Roavar",
+      "description": "Adult male, Eastern European accent, jovial yet slightly unsettling tone. A werewolf bartender who maintains a friendly tavern-keeper demeanor while casually selling human brains as delicacies."
+    },
+    {
+      "name": "Rologarth",
+      "description": "Middle-aged male, refined aristocratic British accent, dignified yet weary tone. The former Lord of the North Coast, now restored to his castle, speaking with noble bearing but carrying the sorrow of his tragic past."
+    },
+    {
+      "name": "Zombie Head",
+      "description": "Adult male, mournful and singing voice, slow and melancholic. A severed zombie head that laments its fate by singing sorrowful spirituals, resigned to its macabre existence."
+    }
+  ]
+}

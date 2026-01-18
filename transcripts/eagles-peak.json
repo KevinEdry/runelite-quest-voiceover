@@ -1,0 +1,520 @@
+{
+  "branch": "quest/eagles-peak",
+  "quest_name": "Eagles' Peak",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hi!"
+    },
+    {
+      "character": "Charlie",
+      "line": "Yes, er, welcome to the zoo! I'm afraid I'm kind of busy right now; what was it you wanted?"
+    },
+    {
+      "character": "Player",
+      "line": "Ah, you sound like someone who needs a quest doing!"
+    },
+    {
+      "character": "Charlie",
+      "line": "Well... maybe. How much do you know about hunting?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I know a little bit..."
+    },
+    {
+      "character": "Charlie",
+      "line": "No, I could do with some help, but I'm afraid I need somebody with a little more experience."
+    },
+    {
+      "character": "Charlie",
+      "line": "Actually, now that you come to mention it, you might be able to help me."
+    },
+    {
+      "character": "Charlie",
+      "line": "A few weeks ago we had a delivery of a northern ferret. They're funny little creatures. Turns out they're tricksy little blighters too."
+    },
+    {
+      "character": "Charlie",
+      "line": "Whilst we were unloading him from the cart he managed to escape his cage. What's more he gave the driver a nasty nip on the way out too."
+    },
+    {
+      "character": "Charlie",
+      "line": "This was obviously a bit of a blow, you can't make a new attraction without any animals."
+    },
+    {
+      "character": "Charlie",
+      "line": "We got in contact with one of our associates, a huntsman called Nickolaus, who agreed to capture us another."
+    },
+    {
+      "character": "Charlie",
+      "line": "Funny thing is we haven't heard from him for some time now. I don't suppose you'd mind having a look for him?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure. Any idea where I should start looking?"
+    },
+    {
+      "character": "Charlie",
+      "line": "Well the northern ferret is mostly found around the mountains just west of the Gnome Stronghold, so that would probably be as good a place as any to start looking."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, I don't have the time."
+    },
+    {
+      "character": "Charlie",
+      "line": "Oh well, I'm sure he'll be okay out there on his own."
+    },
+    {
+      "character": "Charlie",
+      "line": "Ah, hello again. Have you had any luck finding out about Nickolaus' whereabouts yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, nothing yet I'm afraid."
+    },
+    {
+      "character": "Charlie",
+      "line": "Like I said, he's most likely to be camping out somewhere to the west of the Gnome Stronghold."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Hello? Er... excuse me?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, are you Nickolaus?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Aha, I see my reputation precedes me. Yes, I am the renowned hunter and explorer Nickolaus. You've arrived just in time to witness a very momentous occasion, for I have just discovered the nest of a giant"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "eagle. And a most amazing discovery it is too, even if I do say so myself."
+    },
+    {
+      "character": "Player",
+      "line": "The Ardougne zookeeper sent me to find you."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Ah yes, he sent me to find a ferret. A trivial task, and one which pales in comparison compared to this momentous discovery. I'm sure he can wait."
+    },
+    {
+      "character": "Player",
+      "line": "So it's not that you're trapped then?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Well I think trapped is quite a negative way of looking at it."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "I will admit however that getting out of here may be a little tricky. I did have a plan, but unfortunately it didn't involve being stuck in this nest."
+    },
+    {
+      "character": "Player",
+      "line": "Could I help at all?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Actually I believe you could. I need to somehow trick the eagles into thinking I'm one of them. Could you fashion some sort of disguise for me?"
+    },
+    {
+      "character": "Player",
+      "line": "What would that involve?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Well, you could go and speak to the fancy dress shop owner in Varrock. He can make anything if you give him the right materials. In fact you should probably get a couple of disguises, one for each of us."
+    },
+    {
+      "character": "Player",
+      "line": "That's a good idea. There are plenty of feathers around here. I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "Well it'll give you a lot of time to study the eagles."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Very true, and certainly an opportunity I wouldn't want to miss."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'll let you get on with your work then."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "It's always a pleasure to discuss my discoveries."
+    },
+    {
+      "character": "Player",
+      "line": "I've come to rescue you."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "How very kind of you. But Nickolaus Farrick never needs rescuing. I may apparently be trapped in a giant eagle's nest, but it is all a cunning ruse to put the beast at ease."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, so you're not really trapped?"
+    },
+    {
+      "character": "Player",
+      "line": "Aren't giant eagles mythical?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Oh many people believe so, yes, but my relentless exploration has paid off once again, for I stand now in the nest of such a supposedly mythical creature."
+    },
+    {
+      "character": "Player",
+      "line": "How did you manage to find the nest?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Through unfaltering dedication, attention to detail, oh, and I suppose there's the minor point that I got carried here by an eagle."
+    },
+    {
+      "character": "Player",
+      "line": "So in fact the eagle found you?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "So it might appear to an amateur yes, and, well, I may have been a little lucky, but it's still a remarkable discovery don't you think?"
+    },
+    {
+      "character": "Player",
+      "line": "Amazing, but what do you intend to do now you've discovered it?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Well, there's all sorts to do. I need to observe its behaviour patterns and document its feeding habits. The discovery is only just the beginning you know."
+    },
+    {
+      "character": "Player",
+      "line": "I think you're trapped."
+    },
+    {
+      "character": "Player",
+      "line": "Hello Nickolaus, how are you getting on with your discoveries?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Wonderfully, these giant eagles are simply magnificent creatures. I absolutely must see about getting one as a pet."
+    },
+    {
+      "character": "Player",
+      "line": "A pet? Are you crazy?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Quite possibly, quite possibly, but I haven't found a creature I couldn't tame yet."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Wonderfully thank you, although I am still having just a little trouble convincing them to let me leave."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "I don't suppose you've managed to get that disguise I asked for yet?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not yet."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Well like I said, the Varrock fancy dress shop is a good bet if you have the materials, and there are plenty of feathers around here."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "And while you're working on that, I'll get back to studying these incredible winged wonders."
+    },
+    {
+      "character": "Asyff",
+      "line": "Now you look like someone who goes to a lot of fancy dress parties."
+    },
+    {
+      "character": "Player",
+      "line": "Errr...what are you saying exactly?"
+    },
+    {
+      "character": "Asyff",
+      "line": "I'm just saying that perhaps you would like to peruse my selection of garments."
+    },
+    {
+      "character": "Asyff",
+      "line": "Or, if that doesn't interest you, then maybe you have something else to offer? I'm always on the look out for interesting or unusual new materials."
+    },
+    {
+      "character": "Player",
+      "line": "Well, specifically I'm after a couple of bird costumes."
+    },
+    {
+      "character": "Asyff",
+      "line": "Ah, an inspired choice. What kind of bird were you thinking of?"
+    },
+    {
+      "character": "Player",
+      "line": "A giant eagle."
+    },
+    {
+      "character": "Asyff",
+      "line": "Very interesting. Unfortunately I don't think I have any giant eagle costumes in stock at the moment."
+    },
+    {
+      "character": "Asyff",
+      "line": "Of course if I had the materials I could make them for you."
+    },
+    {
+      "character": "Player",
+      "line": "What materials would you need?"
+    },
+    {
+      "character": "Asyff",
+      "line": "Well, the main problem is that I'm fresh out of giant eagle feathers. I've been meaning to get onto my supplier about that for some time."
+    },
+    {
+      "character": "Player",
+      "line": "Wait a second, you have a supplier? But I thought nobody knew where to find the nests?"
+    },
+    {
+      "character": "Asyff",
+      "line": "Well, there was some chap in desert clothing. He said his name was Ali. He assured me they were giant eagle feathers, although when I come to think about it they were suspiciously similar to chicken feathers."
+    },
+    {
+      "character": "Asyff",
+      "line": "Anyway, you're probably looking at about 10 giant eagle feathers, assuming you can find a nest."
+    },
+    {
+      "character": "Asyff",
+      "line": "I'd also need some swamp tar to hold things together and some yellow dye for the beaks. Everything else I can supply myself."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what I can do."
+    },
+    {
+      "character": "Player",
+      "line": "What was it you needed to make those eagle costumes again?"
+    },
+    {
+      "character": "Asyff",
+      "line": "I should be able to knock something up if you get me 10 of the right sort of feather. I'll also need some swamp tar and some yellow dye."
+    },
+    {
+      "character": "Player",
+      "line": "I've got the feathers and materials you requested. Can you make those giant eagle costumes for me now?"
+    },
+    {
+      "character": "Asyff",
+      "line": "Certainly. It'll also cost you 50 gold pieces."
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid I don't have that much money with me."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, here are the materials. Eagle me up."
+    },
+    {
+      "character": "Asyff",
+      "line": "There we go; two eagle costumes. You should be the envy of the entire party with those."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "On second thoughts, that's too expensive."
+    },
+    {
+      "character": "Asyff",
+      "line": "Well, feel free to come back if you change your mind."
+    },
+    {
+      "character": "Player",
+      "line": "Could you make another eagle costume for me?"
+    },
+    {
+      "character": "Asyff",
+      "line": "Certainly, if you can supply the materials. I'll need appropriate feathers, swamp tar and some yellow dye. It'll also cost you 25 gold pieces."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have one right here."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Well bring it over here then. It's not much use to me over there."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "What's this, a young hatchling? Oh no, I hope it doesn't think I'm its dinner!"
+    },
+    {
+      "character": "Player",
+      "line": "No, Nickolaus, it's me! I'm just in disguise!"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "You're sure...you're sure you're not going to eat me?"
+    },
+    {
+      "character": "Player",
+      "line": "No of course not. You sent me to get you an eagle outfit remember? So you could get out of this nest?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Wow, that really is a very convincing disguise. Have you got one for me too?"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, give me that!"
+    },
+    {
+      "character": "Player",
+      "line": "Give me that or... Er..."
+    },
+    {
+      "character": "Player",
+      "line": "Your mother was a hamster, and your father smelt of elderberries!"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Excellent, now there is no way the eagle will be able to tell me from one of its own."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Now you run off, and I'll meet you back down at the camp site."
+    },
+    {
+      "character": "Player",
+      "line": "I've given you the disguise you needed, can we go now?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Calm down. You must realise I can't leave just like that, this is far too amazing an opportunity. Just go down to the camp site and I'll meet you there."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again Nickolaus."
+    },
+    {
+      "character": "Player",
+      "line": "Well I was originally sent to find you because of a ferret. Can you get me one at all?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "I'll do better than that. I'll teach you how to capture one yourself."
+    },
+    {
+      "character": "Player",
+      "line": "That sounds good to me. What do I do."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Come with me and I'll show you."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, so we've baited the trap with meat, now what?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "And now...we wait. Quietly!"
+    },
+    {
+      "character": "Player",
+      "line": "But what if I don't like waiting for things?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Did I mention we wait quietly?"
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Shhh, here comes something."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Ha ha, there you go! One gift-wrapped ferret ready for delivery."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "See, it's all just a matter of patience."
+    },
+    {
+      "character": "Player",
+      "line": "Great, thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "I've not got the time right now."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Ah you don't get out of it that easily. When you've got the time come back and see me."
+    },
+    {
+      "character": "Player",
+      "line": "I was just wondering how you got on with those eagles."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "Ah wonderfully. They're actually most cooperative creatures once they get used to you. With some rope I'm sure you could find some way to tame them... maybe even fly on them."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks. I was just dropping by, wanted to make sure you hadn't been abducted again."
+    },
+    {
+      "character": "Nickolaus",
+      "line": "No such luck I'm afraid, but I'm sure I'll make another discovery soon enough. I always seem to."
+    },
+    {
+      "character": "Charlie",
+      "line": "Ah, hello again. Have you had any luck finding a clue as to Nickolaus' whereabouts yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes I have actually. He'd been abducted by giant eagles, but I managed to rescue him. He's now gotten back to his hunting."
+    },
+    {
+      "character": "Charlie",
+      "line": "Giant eagles? What a strange notion. Well, regardless, if you've found him can you tell him to hurry up with that ferret."
+    },
+    {
+      "character": "Player",
+      "line": "Even better, I have a ferret right here for you."
+    },
+    {
+      "character": "Charlie",
+      "line": "You do? Ah, yes, wonderful, I never doubted you for a second. That'll make an excellent addition to the zoo."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Asyff",
+      "description": "Middle-aged male, British accent, theatrical and charming tone, a whimsical fancy dress shop owner who speaks with cheerful enthusiasm and entrepreneurial flair."
+    },
+    {
+      "name": "Charlie",
+      "description": "Middle-aged male, British accent, practical and no-nonsense tone, a busy zookeeper who is efficient and task-oriented but easily stressed about work matters."
+    },
+    {
+      "name": "Nickolaus",
+      "description": "Middle-aged male, British accent, cheerful and self-important tone, an eccentric explorer and hunter who remains upbeat despite danger and takes great pride in his discoveries."
+    }
+  ]
+}

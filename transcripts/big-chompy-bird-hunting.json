@@ -1,0 +1,572 @@
+{
+  "branch": "quest/big-chompy-bird-hunting",
+  "quest_name": "Big Chompy Bird Hunting",
+  "lines": [
+    {
+      "character": "Rantz",
+      "line": "Hey you creature! Make me some stabbers! I wanna hunt da chompy?"
+    },
+    {
+      "character": "Player",
+      "line": "Stabbers?"
+    },
+    {
+      "character": "Rantz",
+      "line": "For da stabbie chucker, I's wanna hunt da chompy!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I understand. You want me to make some arrows for you?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Yeah, is what Rantz sayed, make da stabbers for da stabby chucker!"
+    },
+    {
+      "character": "Player",
+      "line": "OK, I'll make you some 'stabbers'."
+    },
+    {
+      "character": "Rantz",
+      "line": "Good you creature, you need sticksies from achey tree and stabbies from dog bones."
+    },
+    {
+      "character": "Player",
+      "line": "Er, make you're own 'stabbers'!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey you creature... Have you made me da stabbers? I wanna stick da chompy?"
+    },
+    {
+      "character": "Player",
+      "line": "Er not exactly?"
+    },
+    {
+      "character": "Rantz",
+      "line": "You do stabbers quick quick! Or Rantz make stabbers for Rantz and then practice for chompy sticking on creature!"
+    },
+    {
+      "character": "Player",
+      "line": "How do I make the 'stabbers' again?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Grrr creature... you's no good stabber maker!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Is just what Rantz sayed!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, so I need logs from the achey tree, bones from a canine... and feathers?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Good creature, quickly, hurry bring da stabbers!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll make the 'stabbers' for you."
+    },
+    {
+      "character": "Bugs",
+      "line": "Hey you Creature, Dad says you's is gonna get da stabbers!"
+    },
+    {
+      "character": "Player",
+      "line": "That's right... I'm making some 'stabbers' for Rantz."
+    },
+    {
+      "character": "Bugs",
+      "line": "Dat's great...Dad want's to hunt da chompy..."
+    },
+    {
+      "character": "Bugs",
+      "line": "Yous needies da scratchers for makin' dem huh?"
+    },
+    {
+      "character": "Bugs",
+      "line": "I's wants some bright pretties for em!"
+    },
+    {
+      "character": "Player",
+      "line": "How many 'bright pretties' do you want?"
+    },
+    {
+      "character": "Bugs",
+      "line": "Bugs wants lots of bright pretties, this many!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll give you 10 bright pretties."
+    },
+    {
+      "character": "Bugs",
+      "line": "You's not got da bright pretties..."
+    },
+    {
+      "character": "Bugs",
+      "line": "I wants da bright pretties..you not get no scratchers wid'out da bright pretties."
+    },
+    {
+      "character": "Player",
+      "line": "Er, sorry, I can't give you that many..."
+    },
+    {
+      "character": "Bugs",
+      "line": "Ok, dat's a good 'un, I got da bright pretties and you got da scratchers!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Well, you not have da scratchers den!"
+    },
+    {
+      "character": "Bugs",
+      "line": "I's sorry creature, I don't got no more scratchers!"
+    },
+    {
+      "character": "Bugs",
+      "line": "But I got lots of bright pretties!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Hope you's get da stabbers for Dad soonly!"
+    },
+    {
+      "character": "Bugs",
+      "line": "You's better talk to Dad, he might have something for you to do."
+    },
+    {
+      "character": "Fycie",
+      "line": "Hey you Creature, I know's what you is You's a 'uman!"
+    },
+    {
+      "character": "Fycie",
+      "line": "Dat's great...Dad want's to hunt da chompy..."
+    },
+    {
+      "character": "Fycie",
+      "line": "You needsing flufsies for stabbers, Fycie have some but I is wanting some bright pretties for em!"
+    },
+    {
+      "character": "Player",
+      "line": "How many 'bright pretties' do you want?"
+    },
+    {
+      "character": "Fycie",
+      "line": "Mee's wants lots of bright pretties, this many!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll give you 50 bright pretties."
+    },
+    {
+      "character": "Fycie",
+      "line": "You's not got da bright pretties..."
+    },
+    {
+      "character": "Fycie",
+      "line": "I wants da bright pretties..you not get no flufsies wid'out da bright pretties."
+    },
+    {
+      "character": "Player",
+      "line": "Er, sorry, I can't give you that many..."
+    },
+    {
+      "character": "Fycie",
+      "line": "Ok, dat's a good 'un, I got da bright pretties and you got da flufsies!"
+    },
+    {
+      "character": "Fycie",
+      "line": "Well, you not have da flufsies den!"
+    },
+    {
+      "character": "Fycie",
+      "line": "I's sorry creature, I don't got no flufsies!"
+    },
+    {
+      "character": "Fycie",
+      "line": "But I got lots of bright pretties!"
+    },
+    {
+      "character": "Fycie",
+      "line": "Hope you's get da stabbers for Dad soonly!"
+    },
+    {
+      "character": "Fycie",
+      "line": "You's better talk to Dad, him chasey sneaky chompy."
+    },
+    {
+      "character": "Player",
+      "line": "Rantz said that you play with the 'fatsy toadies', what are they?"
+    },
+    {
+      "character": "Fycie",
+      "line": "Oh we sometimes is using blower on da toadies..."
+    },
+    {
+      "character": "Fycie",
+      "line": "Dad don't let us get in da locksy bocksy no more."
+    },
+    {
+      "character": "Fycie",
+      "line": "He, he, big chuklees when make da toadies fat on da swampy gas."
+    },
+    {
+      "character": "Player",
+      "line": "Humph!"
+    },
+    {
+      "character": "Player",
+      "line": "I guess this is what an ogre would call a locked chest."
+    },
+    {
+      "character": "Player",
+      "line": "Come here toady!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey you creature..you made da stabbers Dat's good creature!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, yes actually, as you asked so nicely. Here you go!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey, deese stabbers no good... did you make dem you's self?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, here you go, here's your 'stabbers'."
+    },
+    {
+      "character": "Rantz",
+      "line": "Dat's not enough, me's an good shot, but need some for practice."
+    },
+    {
+      "character": "Rantz",
+      "line": "Ahh, der creature has dem... goodly, goodly."
+    },
+    {
+      "character": "Rantz",
+      "line": "But da chompy not coming without da fatsy toadies..."
+    },
+    {
+      "character": "Player",
+      "line": "How do we make the chompys come?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Chompys love da fatsy toadies."
+    },
+    {
+      "character": "Player",
+      "line": "What are 'fatsy toadies'?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Fatsy toadies are da chompy burds bestest yumms."
+    },
+    {
+      "character": "Player",
+      "line": "Where do we put the 'fatsy toadies'?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Over der!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Ok creature? You got dat? Over dere by der no tree's place."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean 'sneaky..sneaky, stick da chompy?'"
+    },
+    {
+      "character": "Rantz",
+      "line": "Duh! You creature is a bit stoopid yes?"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, thanks."
+    },
+    {
+      "character": "Rantz",
+      "line": "Creature already given Rantz stabbers, Dey's worser at flying dan a dead dog."
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey you creature, you still here?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Da chompy still not coming!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Dat's a pidy... but maybe Rantz can help da creature?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Dat's a good fatsy toady, now we's need to put it for da chompy to come."
+    },
+    {
+      "character": "Rantz",
+      "line": "Over 'dere creature, put da toadies over der!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey creature got da fatsy toady Is you's gonna stick da chompy?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have a 'fatsy toady' for you, here look!"
+    },
+    {
+      "character": "Player",
+      "line": "Where should I put the 'fatsy toadies'?"
+    },
+    {
+      "character": "Player",
+      "line": "No I haven't got the 'fatsy toady' yet!"
+    },
+    {
+      "character": "Player",
+      "line": "There you go, I've placed the bait."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I know... stick da chompy!"
+    },
+    {
+      "character": "Player",
+      "line": "What? I have to get more bait if there's none there?"
+    },
+    {
+      "character": "Player",
+      "line": "Does this Chompy Bird even exist I wonder?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey, dere's da chompy, I's gonna shoot it."
+    },
+    {
+      "character": "Rantz",
+      "line": "Grrr...de'ese arrows are rubbish."
+    },
+    {
+      "character": "Player",
+      "line": "Hey there, you keep missing the chompy bird."
+    },
+    {
+      "character": "Rantz",
+      "line": "I knows, I keeps missing... because your stabbers are worserer at flying than a dead dog."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, keep trying then... you might hit one through pure luck."
+    },
+    {
+      "character": "Rantz",
+      "line": "Grrrr... You lookin' like a chompy!"
+    },
+    {
+      "character": "Player",
+      "line": "Come on, let me have a go..."
+    },
+    {
+      "character": "Rantz",
+      "line": "No, is Rantz stabby thrower... you too weedy..."
+    },
+    {
+      "character": "Player",
+      "line": "I'm actually quite strong... please let me try."
+    },
+    {
+      "character": "Rantz",
+      "line": "Oh, ok...I lend you other stabby thrower..."
+    },
+    {
+      "character": "Rantz",
+      "line": "Or I eat you instead!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh suit yourself, you'll just have to go hungry."
+    },
+    {
+      "character": "Rantz",
+      "line": "Yeah, it's a goodly stabbie chucker, but you's is too weedy to use it like Rantz."
+    },
+    {
+      "character": "Chompy Bird",
+      "line": "Sqwirk!"
+    },
+    {
+      "character": "Chompy Bird",
+      "line": "Screech!"
+    },
+    {
+      "character": "Chompy Bird",
+      "line": "Sqwark!"
+    },
+    {
+      "character": "Chompy Bird",
+      "line": "Gobble!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey You! Got da chompy yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Well hurry up and get some, we is hungry!"
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Rantz, I've lost the 'stabbie chucker', do you have another one please?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Mee's has, but is not for freeness, dis one cost of da gold coinses."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I'll buy the bow."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Player",
+      "line": "No thanks..."
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey you don't got da coins...come back when you have."
+    },
+    {
+      "character": "Rantz",
+      "line": "Dat's a great chompy, you musta got a lucky shot wiv da stabbie chucker."
+    },
+    {
+      "character": "Player",
+      "line": "Yep, here's your chompy Bird!"
+    },
+    {
+      "character": "Player",
+      "line": "What! Now I've got the chompy bird, you expect me to cook it as well?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Okay's now you's needs to cook da chompy!"
+    },
+    {
+      "character": "Rantz",
+      "line": "But's we's particular about our chompy yumms."
+    },
+    {
+      "character": "Rantz",
+      "line": "Me's wants Onion. wiv mine!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Yep, da spit's over der!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Last time Rantz did yummies, got very bad, did bad things to food...and belly."
+    },
+    {
+      "character": "Rantz",
+      "line": "But's we's particular about our chompy yumms. Me's wants Potato wiv mine!"
+    },
+    {
+      "character": "Player",
+      "line": "HUH!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Dad say's you's making da chompy for us!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Me's has to have equa leaves wiv mine!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Chompy is our favourite yummms!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Me's has to have cabbage wiv mine!"
+    },
+    {
+      "character": "Bugs",
+      "line": "Have you talked to Dad, he might have something for you to do."
+    },
+    {
+      "character": "Fycie",
+      "line": "Dad say's you's roastling da chompy for us!"
+    },
+    {
+      "character": "Fycie",
+      "line": "Me's wants tomato wiv mine!"
+    },
+    {
+      "character": "Fycie",
+      "line": "Yummy, can't wait to eats it."
+    },
+    {
+      "character": "Fycie",
+      "line": "Me's wants doogle leaves wiv mine!"
+    },
+    {
+      "character": "Fycie",
+      "line": "Go talk to Dad, him chasey sneaky chompy."
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey creature, did you's get da cooked chompy yet?"
+    },
+    {
+      "character": "Rantz",
+      "line": "Hey hey! We got da delicious chompy bird - yay!"
+    },
+    {
+      "character": "Rantz",
+      "line": "Tank's very much for da chompy..."
+    },
+    {
+      "character": "Player",
+      "line": "It's my pleasure!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Bugs",
+      "description": "Youthful male ogre, deep gravelly voice with broken grammar, enthusiastic and demanding tone. A young ogre boy who speaks in the distinctive ogre dialect, eagerly bartering feathers for shiny objects."
+    },
+    {
+      "name": "Chompy Bird",
+      "description": "Bird creature, high-pitched squawking and gobbling sounds, animalistic and wild tone. A large flightless bird that makes various bird noises."
+    },
+    {
+      "name": "Fycie",
+      "description": "Youthful female ogre, deep but slightly higher-pitched voice with broken grammar, curious and playful tone. Rantz's daughter who speaks in ogre dialect and loves trading feathers for colorful trinkets."
+    },
+    {
+      "name": "Rantz",
+      "description": "Adult male ogre, deep booming voice with broken grammar and thick accent, gruff and critical tone. A large dim-witted ogre father who constantly criticizes and threatens while demanding help hunting chompy birds."
+    }
+  ]
+}

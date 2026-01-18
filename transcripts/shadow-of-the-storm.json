@@ -1,0 +1,1520 @@
+{
+  "branch": "quest/shadow-of-the-storm",
+  "quest_name": "Shadow of the Storm",
+  "lines": [
+    {
+      "character": "Father Reen",
+      "line": "Excuse me, I'm looking for. I have an urgent job for."
+    },
+    {
+      "character": "Player",
+      "line": "That's me!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Thank Saradomin I found you!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "I believe you still have the magical sword Silverlight?"
+    },
+    {
+      "character": "Player",
+      "line": "The sword I used to defeat the demon Delrith? Yes, I still have it."
+    },
+    {
+      "character": "Father Reen",
+      "line": "Now, do you recognise this sword?"
+    },
+    {
+      "character": "Player",
+      "line": "Silverlight! That's the sword I used to defeat the demon Delrith!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "There is an urgent task that only you can do - and only with Silverlight!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "My partner Badden and I have been observing the dark wizard Denath, who we believe has been preparing to summon the powerful demon Agrith-Naar."
+    },
+    {
+      "character": "Father Reen",
+      "line": "A week ago he took a group of apprentice dark wizards and moved to Uzer, the lost city in the desert. We think he's going to use the city's ancient temple to summon the demon!"
+    },
+    {
+      "character": "Player",
+      "line": "So you want me to stop him?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Stop him? No! We want you to wait until Agrith-Naar is summoned and then kill him once and for all!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Let me explain. Agrith-Naar is not an ordinary demon. He has immense magical powers, and he can use these powers to influence the mortal plane."
+    },
+    {
+      "character": "Father Reen",
+      "line": "This summoning is our chance to rid the world of his evil influence!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "You should go to Uzer and find Badden at once. I'll follow once I've finished some business here."
+    },
+    {
+      "character": "Player",
+      "line": "I'll let you know if I see."
+    },
+    {
+      "character": "Father Reen",
+      "line": "Did you go to Uzer to see Badden?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Father Reen",
+      "line": "You must hurry!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "You idiot! You lost Silverlight! I found it on the sand!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "You need to take it with you and see Badden in Uzer."
+    },
+    {
+      "character": "Clay golem",
+      "line": "It is good to see a friendly face here. The priest has said nothing to me but 'Get ye away, foul construct!'"
+    },
+    {
+      "character": "Player",
+      "line": "Why does Badden hate you?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I do not know. I heard him say that Saradomin hates all artificial creatures."
+    },
+    {
+      "character": "Clay golem",
+      "line": "It was not always so. When I was new, the priests of Saradomin praised the ingenuity of the golem-builders."
+    },
+    {
+      "character": "Clay golem",
+      "line": "I paraded through the city with my siblings, all painted in bright colours, and they blessed us with holy water as we prepared for battle."
+    },
+    {
+      "character": "Clay golem",
+      "line": "He should know that I could never hurt him. The first command in a golem's mind is that it cannot allow a human being to come to harm."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know anything about the dark wizards who arrived here?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "Some of them were curious about me when they arrived, but since then they have ignored me."
+    },
+    {
+      "character": "Clay golem",
+      "line": "As they passed me I felt a sense of dark foreboding, something I have not felt since the great enemy was nearby. I fear they are planning some great evil."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to go through the portal."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Go away! This is OUR portal now!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, nothing."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Go away then!"
+    },
+    {
+      "character": "Player",
+      "line": "Where did you get those robes?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Yeah, evil, aren't they? One of the group made them. He said he found some mushrooms in the ruins that could dye things really black."
+    },
+    {
+      "character": "Father Badden",
+      "line": "What brings you to this godsforsaken desert?"
+    },
+    {
+      "character": "Player",
+      "line": "Reen sent me."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Saradomin be praised! And you have Silverlight! You're willing to help us, then?"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about Agrith-Naar."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Agrith-Naar is not so much a demon as a force of nature. While he is in his own dimension his evil magics can reach everywhere in the world."
+    },
+    {
+      "character": "Father Badden",
+      "line": "No one knows how far his power extends, but Reen and I believe that much of the suffering in the world is due to him."
+    },
+    {
+      "character": "Father Badden",
+      "line": "The accident that cripples a man, the storm that sweeps a ship under the sea, the sudden fire in the blood that makes a wolf pack attack a town - all that is Agrith- Naar!"
+    },
+    {
+      "character": "Player",
+      "line": "Tell me more about Denath."
+    },
+    {
+      "character": "Father Badden",
+      "line": "We've been keeping an eye on Denath for some years now, but we've never been able to move against him."
+    },
+    {
+      "character": "Father Badden",
+      "line": "He was part of the group that summoned Delrith, but he left Varrock before you arrived and defeated the demon."
+    },
+    {
+      "character": "Father Badden",
+      "line": "He's been studying Agrith-Naar for years, but when he brought his group here we knew he was about to make his move."
+    },
+    {
+      "character": "Player",
+      "line": "Why has he come to Uzer?"
+    },
+    {
+      "character": "Father Badden",
+      "line": "I'm not sure. This city is very ancient, and its builders were powerful workers of evil magic."
+    },
+    {
+      "character": "Father Badden",
+      "line": "As that foul construct over there proves."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Perhaps there's something here he needs. Do you know what happened here?"
+    },
+    {
+      "character": "Player",
+      "line": "Foul construct? Do you mean the golem?"
+    },
+    {
+      "character": "Father Badden",
+      "line": "The golem, yes! An abomination in the eyes of holy Saradomin! A mockery of life! Right now Denath is more important, but once he is dealt with I should find some way to destroy it."
+    },
+    {
+      "character": "Player",
+      "line": "But the golem was created to fight a demon! You're on the same side!"
+    },
+    {
+      "character": "Player",
+      "line": "Thousands of years ago a demon attacked this city, but the golem army drove it off."
+    },
+    {
+      "character": "Player",
+      "line": "When I last came here I opened the portal, and the demon was already dead - it had died of the wounds the golems inflicted."
+    },
+    {
+      "character": "Father Badden",
+      "line": "You opened a portal to a demon's realm? That must be why Denath is here!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "It would be much easier to reach Agrith-Naar's realm from another demon's realm than from the mortal plane."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Denath must have heard that the portal here was open and decided to make his move!"
+    },
+    {
+      "character": "Player",
+      "line": "Well I came here and opened a portal to a demon's realm..."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you want me to do?"
+    },
+    {
+      "character": "Father Badden",
+      "line": "You have to be in position to kill Agrith-Naar as soon as he is summoned. The best way to do that is to infiltrate the group that is summoning him!"
+    },
+    {
+      "character": "Player",
+      "line": "How can I do that?"
+    },
+    {
+      "character": "Father Badden",
+      "line": "I don't know. You'll have to find some way to convince them you're one of them."
+    },
+    {
+      "character": "Player",
+      "line": "I'd never take part in a demonic ritual!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "Oh, don't be so simple-minded! You'll be summoning a demon in order to kill it, to rid the world of great evil! You won't really be joining the group, just infiltrating it."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Saradomin be praised!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "But you will need Silverlight for this task. You should go back and get it."
+    },
+    {
+      "character": "Player",
+      "line": "Just passing through."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Oh dear. I was hoping would arrive."
+    },
+    {
+      "character": "Father Badden",
+      "line": "How is it going?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't managed to infiltrate the group yet."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Oh dear. Do try again. You must be in place when they summon the demon!"
+    },
+    {
+      "character": "Player",
+      "line": "I want to join your group."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Well we do need one more person now, since... um."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "But we're an evil group! To join, you have to be evil!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm evil!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "You don't look evil. You certainly don't dress evil!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm evil in disguise?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "There's no need for the disguise here! We're all evil!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Yeah, I can see that. That outfit is totally evil!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "But what's that sword? It's far too shiny to be evil. We won't have any silver glowing swords in here!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Okay, I'll take you through to see Denath."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Master! This person wants to join us!"
+    },
+    {
+      "character": "Denath",
+      "line": "Indeed? Well we are one wizard short since Josef ran away. Can you vouch for ?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Yeah! 's totally evil!"
+    },
+    {
+      "character": "Denath",
+      "line": "Thank you, Dave."
+    },
+    {
+      "character": "Denath",
+      "line": "So you wish to join us? You have made a wise choice. When we summon the demon Agrith-Naar, he will grant all our worldly desires."
+    },
+    {
+      "character": "Denath",
+      "line": "An abyssal whip, a dragon chain mail? To conjure these items is trivial for Agrith-Naar."
+    },
+    {
+      "character": "Denath",
+      "line": "But you will not need such weapons or armour, for Agrith-Naar will grant you the power of life and death over all creatures!"
+    },
+    {
+      "character": "Denath",
+      "line": "You shall have every wish granted, and everyone who has ever wronged you will burn in a hell of your own devising!"
+    },
+    {
+      "character": "Player",
+      "line": "Isn't this, you know, wrong?"
+    },
+    {
+      "character": "Denath",
+      "line": "Right and wrong are for the weak! This is your chance to choose to be on the side of the strong, and have all your desires granted, while the weak are crushed beneath Agrith-Naar's demonic feet!"
+    },
+    {
+      "character": "Player",
+      "line": "How do you know Agrith-Naar will do all this for us?"
+    },
+    {
+      "character": "Denath",
+      "line": "My binding spells will make Agrith-Naar my slave! You would be wise not to question my powers again, lest I turn the same spells on you!"
+    },
+    {
+      "character": "Player",
+      "line": "Why did Josef run away?"
+    },
+    {
+      "character": "Denath",
+      "line": "Obviously he was a coward who did not have the strength to abandon his old-fashioned morality. I hope you will not be a similar disappointment."
+    },
+    {
+      "character": "Player",
+      "line": "What do I have to do?"
+    },
+    {
+      "character": "Denath",
+      "line": "When I have finished preparing the magic circle, we will all recite the incantation that will summon Agrith-Naar."
+    },
+    {
+      "character": "Denath",
+      "line": "You must memorize the incantation carefully. It is Nahudu Camerinthum Caldar Agrith-Naar Tarren."
+    },
+    {
+      "character": "Denath",
+      "line": "You will also need to make yourself a demonic sigil to act as a focus of power. One of the group has the mould you need to make it."
+    },
+    {
+      "character": "Denath",
+      "line": "Now let me continue with my preparations!"
+    },
+    {
+      "character": "Player",
+      "line": "Never mind, I'm not evil."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Well get out of our evil temple then!"
+    },
+    {
+      "character": "Player",
+      "line": "I managed to get into the group."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Oh, that is good! Make sure you are in place when they summon the demon!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Phew! It's too hot for me out here. But at least I found my way through the desert!"
+    },
+    {
+      "character": "Player",
+      "line": "Why didn't you take the magic carpet?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Oh dear no, you won't get me up in one of those things! What if the magic failed?"
+    },
+    {
+      "character": "Player",
+      "line": "Why don't you change out of your heavy robes?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "But the rules of my order say I must wear them!"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps the rules were made in a colder place than this?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Saradomin's rules are once and for all! It is not our place to question them!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, soon I'll have killed the demon and we can all go home!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Summoning a demon! Those wizards make me sick! What kind of sad people would call on a supernatural being to solve their problems for them?"
+    },
+    {
+      "character": "Player",
+      "line": "Um, isn't that like what you do when you pray?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "What? No, that's totally different, because... um... because we always give thanks to Saradomin, even when he doesn't do anything!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Not like those wizards! They're so full of themselves, with their fancy robes and their rituals!"
+    },
+    {
+      "character": "Player",
+      "line": "Um, isn't that like..."
+    },
+    {
+      "character": "Father Reen",
+      "line": "No, it's totally different!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Anyway, there must be something wrong with the way they live in their little group and separate themselves from the rest of society. It can't be healthy."
+    },
+    {
+      "character": "Player",
+      "line": "And that's *nothing* like you being a monk, of course."
+    },
+    {
+      "character": "Father Reen",
+      "line": "No, nothing like that."
+    },
+    {
+      "character": "Father Reen",
+      "line": "Wait, are you being sarcastic? Because you should know that sarcasm is specifically forbidden in the holy book of Saradomin!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you sure Saradomin was being serious about that bit?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Shut up!"
+    },
+    {
+      "character": "Denath",
+      "line": "Leave me alone! I am preparing for the summoning ritual. You should make yourself a demonic sigil and practice the incantation with the other wizards."
+    },
+    {
+      "character": "Player",
+      "line": "I forgot the incantation."
+    },
+    {
+      "character": "Denath",
+      "line": "Ignoramus! Are you incapable of even the simplest task? The incantation is Nahudu Camerinthum Caldar Agrith- Naar Tarren."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Welcome, sister! Soon we'll summon the great demon! Aren't we evil?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Yeah!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "And we've got such an evil throne room to do our ritual in!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "It's just a pity someone's removed the gems from the throne. That kind of vandalism is TOTALLY NOT EVIL."
+    },
+    {
+      "character": "Player",
+      "line": "Um... Yeah, who would do a thing like that?"
+    },
+    {
+      "character": "Player",
+      "line": "But isn't evil, you know, bad?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Yeah! We're BAD!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you have the demonic sigil mould?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "No. Last I heard, Matthew had it."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know what happened to Josef?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "I didn't see anything. He left last night, and Denath only posted me here this morning."
+    },
+    {
+      "character": "Jennifer",
+      "line": "Huh."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Jennifer",
+      "line": "You don't understand."
+    },
+    {
+      "character": "Player",
+      "line": "Understand what?"
+    },
+    {
+      "character": "Jennifer",
+      "line": "Nobody understands."
+    },
+    {
+      "character": "Player",
+      "line": "What don't we understand?"
+    },
+    {
+      "character": "Jennifer",
+      "line": "Oh, it doesn't matter. You don't understand. Go away."
+    },
+    {
+      "character": "Jennifer",
+      "line": "Huh. So that's all you want. Here it is."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "Come back when you've got free space."
+    },
+    {
+      "character": "Jennifer",
+      "line": "I already gave that to you! Go away!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "He didn't understand!"
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't suppose he did."
+    },
+    {
+      "character": "Patrick",
+      "line": "Agrith-Naar is going to make us all sooo rich!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah! We'll all be rich!"
+    },
+    {
+      "character": "Patrick",
+      "line": "Yeah! I'm going to get myself a dragon longsword! And a million rune ores! And a small piece of coloured paper to put on my head!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... if you like."
+    },
+    {
+      "character": "Patrick",
+      "line": "Those gems on the demon's throne look valuable. I just wish I had some way to remove them."
+    },
+    {
+      "character": "Player",
+      "line": "Isn't it more satisfying to earn riches yourself?"
+    },
+    {
+      "character": "Patrick",
+      "line": "I don't want to be satisfied, I want to be rich!"
+    },
+    {
+      "character": "Patrick",
+      "line": "Right now I don't have anything. But soon, I will have everything!"
+    },
+    {
+      "character": "Patrick",
+      "line": "Denath says he ran away. I don't know why. Who would want to run away from what Agrith-Naar is going to do for us?"
+    },
+    {
+      "character": "Eric",
+      "line": "They won't ignore me for much longer!"
+    },
+    {
+      "character": "Player",
+      "line": "Who?"
+    },
+    {
+      "character": "Eric",
+      "line": "Everyone!"
+    },
+    {
+      "character": "Eric",
+      "line": "When I have demonic powers, they'll all have to pay attention to me!"
+    },
+    {
+      "character": "Eric",
+      "line": "And SHE won't ignore me then. I'll be able to show her how I feel."
+    },
+    {
+      "character": "Eric",
+      "line": "I will make everyone like me!"
+    },
+    {
+      "character": "Eric",
+      "line": "No. I gave it to Matthew."
+    },
+    {
+      "character": "Eric",
+      "line": "He went away and left us. He probably didn't like me."
+    },
+    {
+      "character": "Tanya",
+      "line": "Soon, all will bow down before me!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh?"
+    },
+    {
+      "character": "Tanya",
+      "line": "Agrith-Naar will make us the rulers of the world! I shall be a dark queen over all Gielinor! All shall love me and despair!"
+    },
+    {
+      "character": "Tanya",
+      "line": "Ha ha ha ha!"
+    },
+    {
+      "character": "Tanya",
+      "line": "Ah ha ha ha ha ha!!"
+    },
+    {
+      "character": "Tanya",
+      "line": "AAH HA HA HA HA HA HAAAAA!!!!"
+    },
+    {
+      "character": "Patrick",
+      "line": "Look, we've told you not to do that. It makes everyone uncomfortable."
+    },
+    {
+      "character": "Tanya",
+      "line": "Sorry."
+    },
+    {
+      "character": "Tanya",
+      "line": "Hah! Carrying such humble implements is beneath me!"
+    },
+    {
+      "character": "Tanya",
+      "line": "He was a fool who could not cope with power! When Agrith-Naar makes us rulers of continents, I will find him and crush him!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Hello. Are you Josef's replacement?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I suppose I am."
+    },
+    {
+      "character": "Matthew",
+      "line": "It just goes to show how little Denath values us."
+    },
+    {
+      "character": "Player",
+      "line": "What do you mean?"
+    },
+    {
+      "character": "Matthew",
+      "line": "Denath told us we would learn the secrets of demonic magic, but all we've done is memorize one incantation. And now he replaces poor Josef with the next person who comes along!"
+    },
+    {
+      "character": "Matthew",
+      "line": "No, I think Jennifer has it."
+    },
+    {
+      "character": "Matthew",
+      "line": "Shh! Listen, Denath doesn't know this..."
+    },
+    {
+      "character": "Matthew",
+      "line": "When we joined him, Denath told us we were going to learn all the secrets of demonic magic, but we still don't know anything."
+    },
+    {
+      "character": "Matthew",
+      "line": "The others, they just think they're terribly evil, with their sigils and the incantation they learned by rote. But Josef and I wanted more - we wanted to know how it worked."
+    },
+    {
+      "character": "Matthew",
+      "line": "Josef was more curious than me. Last night, he secretly read a book that Denath was keeping from us. He didn't know I was awake, but I saw what happened."
+    },
+    {
+      "character": "Matthew",
+      "line": "I saw him read it, and then his face turned white, and he took the book and ran through the portal."
+    },
+    {
+      "character": "Matthew",
+      "line": "But Denath was waking up, and when he saw Josef was gone he went through the portal to look for him. A bit later Denath returned, without Josef or the book."
+    },
+    {
+      "character": "Matthew",
+      "line": "Josef didn't have money for the magic carpet, and he can't have got far in the desert at night with that heavy book."
+    },
+    {
+      "character": "Matthew",
+      "line": "Josef must have hidden the book somewhere in the ruins, before Denath followed him. If you could find it, we'd know what it was that frightened him. We'd know what Denath is really up to!"
+    },
+    {
+      "character": "Player",
+      "line": "Did you see anything happen last night?"
+    },
+    {
+      "character": "Father Badden",
+      "line": "I was sleeping last night. I'm only human after all!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "But I had this odd dream, about fear and panic, and... fire..."
+    },
+    {
+      "character": "Clay golem",
+      "line": "I saw one of the men in dark robes run out of the temple. He looked very frightened and I feared for his safety."
+    },
+    {
+      "character": "Clay golem",
+      "line": "He was carrying a large book. He started to head out into the desert, but then turned back and hid the book in one of the broken kilns in which my kind were created long ago."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Then another man came out of the temple. He said magical words and threw a fireball at the first man, turning him to dust!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I should have saved him, but I was not fast enough to throw myself in the path of the fireball."
+    },
+    {
+      "character": "Player",
+      "line": "Which kiln did he hide the book in?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I cannot remember. The shock of seeing a human being killed wiped the details of the incident from my memory."
+    },
+    {
+      "character": "Matthew",
+      "line": "Did you find that book?"
+    },
+    {
+      "character": "Matthew",
+      "line": "I really want to know what's in it. I think Denath is hiding something from us, but we won't know what unless we read that book!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. The golem saw Josef hide it in one of the broken kilns in the city."
+    },
+    {
+      "character": "Matthew",
+      "line": "Did the golem see what happened to Josef?"
+    },
+    {
+      "character": "Player",
+      "line": "It said Denath killed him."
+    },
+    {
+      "character": "Matthew",
+      "line": "Oh no!"
+    },
+    {
+      "character": "Matthew",
+      "line": "I knew Denath was a dark wizard but I didn't think he'd kill one of his disciples."
+    },
+    {
+      "character": "Matthew",
+      "line": "Let me look at the book then."
+    },
+    {
+      "character": "Matthew",
+      "line": "I don't understand. What's in here that Denath thought was worth killing over? Josef must have worked something out - but what?"
+    },
+    {
+      "character": "Matthew",
+      "line": "But look at the incantation in the book. The words are in the reverse order to the order that Denath taught us."
+    },
+    {
+      "character": "Player",
+      "line": "The incantation in the book is backwards?"
+    },
+    {
+      "character": "Matthew",
+      "line": "More likely the book has the correct incantation and the one Denath taught us was backwards. But what does that mean?"
+    },
+    {
+      "character": "Matthew",
+      "line": ", I'm not happy about this ritual. I don't think Agrith-Naar is going to grant all our wishes, I think he's going to kill us all. But if I try to stop it, Denath will kill me like he did Josef!"
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry. I'm here to kill the demon!"
+    },
+    {
+      "character": "Player",
+      "line": "But I need find a way to smuggle Silverlight in here. It's the only weapon that can defeat Agrith-Naar!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Thank goodness! I will try to stall the ritual until you have Silverlight. Hurry!"
+    },
+    {
+      "character": "Player",
+      "line": "This is the demon-slaying sword Silverlight, the only weapon that can kill Agrith-Naar!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Thank goodness! I think Denath is nearly ready for the ritual. We must prepare!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Are you prepared for the ritual? You must be ready to slay Agrith-Naar when he appears."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think Denath is being honest with his wizards."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Of course he isn't! You expect an evil sorcerer to be honest with anyone?"
+    },
+    {
+      "character": "Denath",
+      "line": "It is time for the ritual to commence!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Our evil moment is at hand! You should get to your place in the circle so the ritual can start!"
+    },
+    {
+      "character": "Eric",
+      "line": "We'd better do the ritual!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "You ought to get to your place in the circle. Denath wants YOU to lead the ritual."
+    },
+    {
+      "character": "Matthew",
+      "line": "This is it! Get to your place in the circle and say the words!"
+    },
+    {
+      "character": "Patrick",
+      "line": "Get to your place in the circle and lead the ritual! I'm so excited!"
+    },
+    {
+      "character": "Tanya",
+      "line": "Get to your place in the circle and lead the ritual! I'm so excited!"
+    },
+    {
+      "character": "Player",
+      "line": "!"
+    },
+    {
+      "character": "Denath",
+      "line": "You fool! Do it again, and get it right!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "Oh my gods!"
+    },
+    {
+      "character": "Eric",
+      "line": "He disappeared!"
+    },
+    {
+      "character": "Patrick",
+      "line": "Where'd he go?"
+    },
+    {
+      "character": "Matthew",
+      "line": "Of course! How could we be so stupid?"
+    },
+    {
+      "character": "Player",
+      "line": "What happened?"
+    },
+    {
+      "character": "Matthew",
+      "line": "What do you get when you perform a summoning ritual backwards?"
+    },
+    {
+      "character": "Matthew",
+      "line": "Denath was Agrith-Naar all along! We've just helped him return to his own dimension!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "What was that?!"
+    },
+    {
+      "character": "Tanya",
+      "line": "Look! The portal's closing!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "I'm getting out of here!"
+    },
+    {
+      "character": "Matthew",
+      "line": "No, don't leave!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Who knows what Denath could do now?"
+    },
+    {
+      "character": "Matthew",
+      "line": "We've got to perform the ritual again so you can kill Agrith-Naar. But we need eight people!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Quick, Snotra, you've got to get those three to come back! And you'd better take Denath's sigil and find one more person to help."
+    },
+    {
+      "character": "Matthew",
+      "line": "We've got to perform the ritual again, forwards this time, so you can kill Agrith-Naar. I'll prepare for it here while you find four more people."
+    },
+    {
+      "character": "Player",
+      "line": "Okay!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Hurry!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't understand what happened!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Denath must have been Agrith-Naar all along!"
+    },
+    {
+      "character": "Matthew",
+      "line": "Ellemar's book said that Agrith-Naar can only use his powerful magics from the demon plane."
+    },
+    {
+      "character": "Matthew",
+      "line": "Ellemar must have trapped him in human form to stop him using his magics. That must be what the last pages of the book said."
+    },
+    {
+      "character": "Matthew",
+      "line": "So the reason he assembled us was to send him back to his own plane, where he would be much more powerful! That's why the ritual was backwards!"
+    },
+    {
+      "character": "Matthew",
+      "line": "He's already started to close the portal to trap us. Who knows what else he could do?"
+    },
+    {
+      "character": "Matthew",
+      "line": "But if we can perform the ritual forwards then you can kill him using Silverlight and end his evil magics once and for all!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "We should have known it was too good to be true."
+    },
+    {
+      "character": "Jennifer",
+      "line": "It's always the same, everyone want to use you. Even demons."
+    },
+    {
+      "character": "Patrick",
+      "line": "Oh no!"
+    },
+    {
+      "character": "Patrick",
+      "line": "What are we going to do?"
+    },
+    {
+      "character": "Patrick",
+      "line": "What are we going to do?!!!"
+    },
+    {
+      "character": "Patrick",
+      "line": "I guess none of us are going to get rich now. Let's do what needs to be done!"
+    },
+    {
+      "character": "Matthew",
+      "line": "We need to get everyone back in here! We need four more people to perform the ritual!"
+    },
+    {
+      "character": "Matthew",
+      "line": "We need to get everyone back in here! We need three more people to perform the ritual!"
+    },
+    {
+      "character": "Matthew",
+      "line": "We'll be ready to perform the ritual soon, but you need to find two more people."
+    },
+    {
+      "character": "Matthew",
+      "line": "We're ready to perform the ritual. We just need one more person!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Eric's dead! Agrith-Naar killed him! That's EVIL!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "I mean, it's bad! In a BAD way!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "The ceiling collapsed without warning! When I moved towards the staircase the walls started to shake."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "I'm scared of what will happen to me if I try to leave!"
+    },
+    {
+      "character": "Player",
+      "line": "You've got to get back to the throne room!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "But the portal is closing! We'll be trapped!"
+    },
+    {
+      "character": "Player",
+      "line": "Our only hope is to summon Agrith-Naar again so I can kill him! But I need eight people."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "You can kill him?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "You'd better take this then. It was Eric's sigil. Everyone in the ritual will need one!"
+    },
+    {
+      "character": "Player",
+      "line": "By using 'evil' as a term of praise you have left yourself without a word to describe real evil!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "There's no time for that! Eric's DEAD!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "That demon killed Eric! When are you going to start the ritual and slay him?"
+    },
+    {
+      "character": "Player",
+      "line": "Hello."
+    },
+    {
+      "character": "Rug Merchant",
+      "line": "Good heavens! I've never seen a weather like this before! It looks like a real sandstorm is coming up!"
+    },
+    {
+      "character": "Rug Merchant",
+      "line": "Ali Morrisane's carpet fleet flies in any weather, though! Do you require our services?"
+    },
+    {
+      "character": "Father Badden",
+      "line": "What's happening? The wind suddenly picked up! It's a desert sandstorm!"
+    },
+    {
+      "character": "Player",
+      "line": "Denath was Agrith-Naar all along! We've just sent him back to his own dimension!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "Saradomin protect us! From his own dimension he'll be able to wreak havoc!"
+    },
+    {
+      "character": "Player",
+      "line": "You've got to help me summon him again, so I can slay him with Silverlight!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "All right!"
+    },
+    {
+      "character": "Player",
+      "line": "But first I'll need to get you a demonic sigil."
+    },
+    {
+      "character": "Father Badden",
+      "line": "All right, I'll wait here."
+    },
+    {
+      "character": "Player",
+      "line": "You'll need to hold this sigil for the ritual."
+    },
+    {
+      "character": "Father Reen",
+      "line": "What's happening? This sandstorm came out of nowhere!"
+    },
+    {
+      "character": "Player",
+      "line": "Denath was Agrith-Naar all along! Now he's back in his own dimension!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Oh no! What can we do?"
+    },
+    {
+      "character": "Player",
+      "line": "You've got to help me perform the ritual again so I can kill him!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Oh! Oh dear! I don't think I could take part in a demonic ritual!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll need to get you a demonic sigil anyway."
+    },
+    {
+      "character": "Father Reen",
+      "line": "A demonic sigil?!"
+    },
+    {
+      "character": "Player",
+      "line": "But isn't that what you and Badden asked me to do?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "But things are different for me! I'm a monk! What if my order found out?"
+    },
+    {
+      "character": "Player",
+      "line": "But the wizards will all die! Now Agrith-Naar is in his own dimension he's killing them one by one!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "They should have known better than to join Denath in his evil schemes!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, don't be so simple-minded! You'll be summoning a demon in order to kill it, to rid the world of great evil!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Well... all right."
+    },
+    {
+      "character": "Player",
+      "line": "Now take this demonic sigil, and hurry inside!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I sensed a great darkness, as of a demon revelling in its moment of triumph."
+    },
+    {
+      "character": "Clay golem",
+      "line": "And now this sandstorm appears, the likes of which I have not seen in three thousand years. What can it mean?"
+    },
+    {
+      "character": "Player",
+      "line": "Denath was Agrith-Naar all along! We've accidentally helped him get back to his own dimension!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "It is a terrible thing for a demon to be victorious. I wish there was something I could do to rectify the situation."
+    },
+    {
+      "character": "Player",
+      "line": "You could help me summon the demon again so I could kill him!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I cannot do that. It is forbidden for a golem to enter the portal."
+    },
+    {
+      "character": "Player",
+      "line": "But I really need you to!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "A golem cannot disobey the commands in its mind!"
+    },
+    {
+      "character": "Player",
+      "line": "Why is it forbidden?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "I do not know. I was not privy to the thoughts of my designers, and now they cannot be asked."
+    },
+    {
+      "character": "Player",
+      "line": "I could just reprogram you again."
+    },
+    {
+      "character": "Clay golem",
+      "line": "That is true. Perhaps if you opened my head and removed the instruction concerning the portal I would be able to help you."
+    },
+    {
+      "character": "Clay golem",
+      "line": "But there must have been a reason why my builders imposed this restriction. I do not know what would happen to me if I went through the portal."
+    },
+    {
+      "character": "Clay golem",
+      "line": "What are we waiting for? What do I need to do?"
+    },
+    {
+      "character": "Player",
+      "line": "I need to get you a demonic sigil."
+    },
+    {
+      "character": "Clay golem",
+      "line": "I will wait."
+    },
+    {
+      "character": "Player",
+      "line": "Take this demonic sigil and go through the portal."
+    },
+    {
+      "character": "Clay golem",
+      "line": "Strength low..."
+    },
+    {
+      "character": "Clay golem",
+      "line": "This realm... sapping strength... combat capability impaired..."
+    },
+    {
+      "character": "Clay golem",
+      "line": "This must be... reason... portal forbidden..."
+    },
+    {
+      "character": "Player",
+      "line": "I just need your help with the ritual. Do you think you can do that?"
+    },
+    {
+      "character": "Clay golem",
+      "line": "Speech functions not impaired."
+    },
+    {
+      "character": "Father Badden",
+      "line": "Let's get this ritual over with! I don't want to spend any more time with that golem than I have to!"
+    },
+    {
+      "character": "Player",
+      "line": "What's your problem with the golem? It doesn't mind you!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "Bah!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "So Agrith-Naar was trapped in our dimension all along, and didn't have any influence until the wizards un- summoned him?"
+    },
+    {
+      "character": "Father Reen",
+      "line": "I thought slaying him would make the world better, but now we're fighting to return it to how it was before!"
+    },
+    {
+      "character": "Player",
+      "line": "Perhaps we can't blame demons for everything that's wrong with the world. Sometimes it's just not that simple."
+    },
+    {
+      "character": "Matthew",
+      "line": "We've got eight people now. Are you ready to summon Agrith-Naar and slay him?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes."
+    },
+    {
+      "character": "Matthew",
+      "line": "Where's your demonic sigil? You'll need that in order to lead the ritual."
+    },
+    {
+      "character": "Matthew",
+      "line": "Where is Silverlight? It's impossible to kill Agrith-Naar without that magic sword!"
+    },
+    {
+      "character": "Matthew",
+      "line": "*gulp* Okay, here we go..."
+    },
+    {
+      "character": "Player",
+      "line": "No."
+    },
+    {
+      "character": "Matthew",
+      "line": "Do hurry! We haven't got much time!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "We'd better get on with the ritual. Let's get this over with!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Hurry up with the ritual! That demon killed Eric!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "You ought to get to the head of the circle and lead the incantation. Let's get this over with."
+    },
+    {
+      "character": "Matthew",
+      "line": "What are we waiting for? You must lead the ritual and kill Agrith-Naar! We're all counting on you!"
+    },
+    {
+      "character": "Matthew",
+      "line": "No, we need to perform the ritual forwards, as it appears in the book!"
+    },
+    {
+      "character": "Agrith Naar",
+      "line": "Matthew!"
+    },
+    {
+      "character": "Agrith Naar",
+      "line": "How dare you summon me?"
+    },
+    {
+      "character": "Matthew",
+      "line": "Aaaargh!"
+    },
+    {
+      "character": "Player",
+      "line": "He didn't summon you."
+    },
+    {
+      "character": "Player",
+      "line": "I did!"
+    },
+    {
+      "character": "Agrith Naar",
+      "line": "Then prepare to die!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "So that's Agrith-Naar's true form! Quickly, slay him with Silverlight!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "Help! Quickly, use Silverlight!"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Kill him, !"
+    },
+    {
+      "character": "Patrick",
+      "line": "Help! Save me from the demon!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "Help!"
+    },
+    {
+      "character": "Clay golem",
+      "line": "Demon is dead... regret... could not assist."
+    },
+    {
+      "character": "Player",
+      "line": "Don't worry, Golem, you've done enough demon- slaying!"
+    },
+    {
+      "character": "Patrick",
+      "line": "So Agrith-Naar was never going to do anything for us. I suppose I'll have to make my fortune the hard way!"
+    },
+    {
+      "character": "Father Reen",
+      "line": "I thought slaying him would make the world better, but we've just returned it to how it was before!"
+    },
+    {
+      "character": "Father Badden",
+      "line": "I thought golems were servants of evil, but that one helped us to slay a demon. Perhaps golems aren't so bad after all!"
+    },
+    {
+      "character": "Jennifer",
+      "line": "At least that's all over."
+    },
+    {
+      "character": "Evil Dave",
+      "line": "Thank goodness that's over!"
+    },
+    {
+      "character": "Player",
+      "line": "Goodness?"
+    },
+    {
+      "character": "Evil Dave",
+      "line": "I'm not going to try to be evil any more. From now on I'm going to be good!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Agrith Naar",
+      "description": "Ancient demonic entity, deep booming male voice with otherworldly reverb, menacing and commanding tone, speaks with calculated malevolence and barely contained fury."
+    },
+    {
+      "name": "Clay golem",
+      "description": "Monotone robotic male voice, slow deliberate speech with mechanical cadence, ancient construct speaking formally with pauses between phrases."
+    },
+    {
+      "name": "Denath",
+      "description": "Middle-aged male, smooth persuasive voice with underlying sinister edge, charismatic cult leader who speaks with false promises and dark authority."
+    },
+    {
+      "name": "Eric",
+      "description": "Young adult male, nervous and insecure voice with desperate undertones, emotionally volatile and prone to frustration, seeks attention and validation."
+    },
+    {
+      "name": "Evil Dave",
+      "description": "Young adult male living in his mother's basement, overly enthusiastic about being evil but harmless and naive, theatrical wannabe villain with dorky energy."
+    },
+    {
+      "name": "Father Badden",
+      "description": "Middle-aged male priest, British accent, pious and zealous tone with religious authority, initially judgmental but capable of genuine change."
+    },
+    {
+      "name": "Father Reen",
+      "description": "Middle-aged male priest, British accent, anxious and cautious tone, nervous disposition with phobias, speaks with measured concern and religious gravitas."
+    },
+    {
+      "name": "Jennifer",
+      "description": "Young adult female, flat monotone voice with mysterious aloof demeanor, speaks in short dismissive phrases, sullen goth-like personality who feels misunderstood."
+    },
+    {
+      "name": "Matthew",
+      "description": "Young adult male, intelligent and skeptical voice with growing dread, perceptive and questioning, speaks with hesitation as he uncovers disturbing truths."
+    },
+    {
+      "name": "Patrick",
+      "description": "Young adult male, enthusiastic and greedy voice, naive and eager about promised riches, mercenary motivations with simple-minded optimism."
+    },
+    {
+      "name": "Rug Merchant",
+      "description": "Middle-aged male, Middle Eastern accent, professional merchant tone with subtle dry wit, practical businessperson who speaks matter-of-factly."
+    },
+    {
+      "name": "Tanya",
+      "description": "Young adult female, dramatic and theatrical voice with villainous flair, ambitious and power-hungry, prone to maniacal laughter and grandiose speeches about world domination."
+    }
+  ]
+}

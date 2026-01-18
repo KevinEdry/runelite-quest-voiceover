@@ -1,0 +1,11 @@
+{
+  "branch": "quest/elemental-workshop-i",
+  "quest_name": "Elemental Workshop I",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Now to explore this area thoroughly, to find what forgotten secrets it contains."
+    }
+  ],
+  "characters": []
+}

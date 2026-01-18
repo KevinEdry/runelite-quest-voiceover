@@ -1,0 +1,1096 @@
+{
+  "branch": "quest/scrambled",
+  "quest_name": "Scrambled!",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello there. What are you doing out here?"
+    },
+    {
+      "character": "Alan",
+      "line": "You found me! What a day, huh, Humpy Plumpy?"
+    },
+    {
+      "character": "Player",
+      "line": "Right... Is everything okay?"
+    },
+    {
+      "character": "Alan",
+      "line": "Yes, yes... In fact, I've been getting rather used to life out here."
+    },
+    {
+      "character": "Player",
+      "line": "I see... So, who are you, and how did you end up here?"
+    },
+    {
+      "character": "Alan",
+      "line": "Oh, I'm Alan. I was just visiting the area as a tourist, but I ended up straying from the pack a little."
+    },
+    {
+      "character": "Player",
+      "line": "Do you need a hand getting back to civilization? I could maybe help you out if so."
+    },
+    {
+      "character": "Alan",
+      "line": "Oh, no thank you. Like I say, I've actually come to quite like it here. Had I never got lost, I might never have met my best friend, Numpty Bumpty."
+    },
+    {
+      "character": "Alan",
+      "line": "Still, it is nice for us to finally have a guest. In fact, you should stay for a while! I'll prepare a little feast for us all! What do you say?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I suppose I can't say no to that."
+    },
+    {
+      "character": "Alan",
+      "line": "Wonderful! Would you mind staying here while I go out and gather the food? I may not have known you long, but I'm sure I can trust you to keep an eye on Wumty Scrumpty over there."
+    },
+    {
+      "character": "Player",
+      "line": "Of course!"
+    },
+    {
+      "character": "Alan",
+      "line": "Right, time for me to get going. Don't worry, Hampty, our new friend here is going to take good care of you while I'm gone. Love you lots. Miss you already."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there, egg."
+    },
+    {
+      "character": "Player",
+      "line": "********."
+    },
+    {
+      "character": "Player",
+      "line": "Bollocks."
+    },
+    {
+      "character": "Player",
+      "line": "I've got something else to do first."
+    },
+    {
+      "character": "Alan",
+      "line": "Okay, I'll wait until you return. Just don't go getting lost out there!"
+    },
+    {
+      "character": "Player",
+      "line": "Thank you for the offer, but I really must get going... Maybe another time."
+    },
+    {
+      "character": "Player",
+      "line": "This isn't good. I'd better head into town and try to find some help."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there."
+    },
+    {
+      "character": "Jatziri, Teoki of Ralos",
+      "line": "Nilsal."
+    },
+    {
+      "character": "Player",
+      "line": "Mumpty Rumpty fell off a wall!"
+    },
+    {
+      "character": "Jatziri, Teoki of Ralos",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "The egg that was living at the top of the temple!"
+    },
+    {
+      "character": "Jatziri, Teoki of Ralos",
+      "line": "Yes, I noticed the tourist had an egg with him... I didn't realise it had a name..."
+    },
+    {
+      "character": "Player",
+      "line": "We need to do something!"
+    },
+    {
+      "character": "Jatziri, Teoki of Ralos",
+      "line": "Well... it's an egg, iknami. If it's broken, then there isn't much you can do about that."
+    },
+    {
+      "character": "Player",
+      "line": "I'm not giving up without at least trying first."
+    },
+    {
+      "character": "Jatziri, Teoki of Ralos",
+      "line": "I see... Well, I don't think I can help you, iknami, but good luck."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. I don't suppose you could help me?"
+    },
+    {
+      "character": "Farmer",
+      "line": "Nilsal. What is it you need help with?"
+    },
+    {
+      "character": "Player",
+      "line": "This might sound a little strange... but Rumpty Bumpty fell off a wall."
+    },
+    {
+      "character": "Farmer",
+      "line": "Lumpty Mumpty?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, exactly!"
+    },
+    {
+      "character": "Farmer",
+      "line": "Who's that?"
+    },
+    {
+      "character": "Player",
+      "line": "He's an egg. I need to get him fixed up."
+    },
+    {
+      "character": "Farmer",
+      "line": "You want to put a broken egg back together again?"
+    },
+    {
+      "character": "Player",
+      "line": "Precisely! Can you help me?"
+    },
+    {
+      "character": "Farmer",
+      "line": "I don't think I can... but I might know of somebody who could help. You should speak to the local bartender. Her resourcefulness has earned her quite the reputation. Everyone calls her King."
+    },
+    {
+      "character": "Player",
+      "line": "King? Okay, I'll try and find her. Thanks!"
+    },
+    {
+      "character": "Farmer",
+      "line": "Good luck, iknami."
+    },
+    {
+      "character": "King",
+      "line": "Welcome, iknami. What can I get you?"
+    },
+    {
+      "character": "Player",
+      "line": "Are you the king?"
+    },
+    {
+      "character": "King",
+      "line": "The king? No, no, you won't be finding anybody like that around these parts!"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, what I meant was... are you King?"
+    },
+    {
+      "character": "King",
+      "line": "Oh! That's me, yes. What can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "It's about Pumpty Lumpty."
+    },
+    {
+      "character": "King",
+      "line": "Scrumpty Lumpy?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes, the egg. He fell off a wall."
+    },
+    {
+      "character": "King",
+      "line": "An egg fell off a wall?"
+    },
+    {
+      "character": "Player",
+      "line": "It was a disaster! He's everywhere! I was told that if anybody could help put him together again, it would be you."
+    },
+    {
+      "character": "King",
+      "line": "Yes, I guess I have managed to gain a bit of a reputation when it comes to situations like this. After all, there's a reason everyone calls me King."
+    },
+    {
+      "character": "King",
+      "line": "Still, putting a broken egg back together again... That does sound like quite the challenge. Unfortunately, I'm afraid I need to stay here and man the bar. However..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "King",
+      "line": "I have a plan, but it's going to take all my horses and all my men."
+    },
+    {
+      "character": "Player",
+      "line": "What's a horse?"
+    },
+    {
+      "character": "King",
+      "line": "I have no idea."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... Well, what about these men?"
+    },
+    {
+      "character": "King",
+      "line": "They'll be up to the task, but you'll need to rally them up."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, where can I find your men?"
+    },
+    {
+      "character": "King",
+      "line": "Nezketi should be in the temple just south of here, Kauayotl will most likely be just outside the main entrance into town, and Acatzin is right here in the inn."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks! I'll have them gathered in no time."
+    },
+    {
+      "character": "Player",
+      "line": "Scrumpty Numpty fell off a wall!"
+    },
+    {
+      "character": "King",
+      "line": "Bumpty Numpty?"
+    },
+    {
+      "character": "King",
+      "line": "Who's that?"
+    },
+    {
+      "character": "Player",
+      "line": "It was a disaster! He's everywhere! Can you help?"
+    },
+    {
+      "character": "King",
+      "line": "I think you came to the right person. I've managed to gain a bit of a reputation when it comes to situations like this. There's a reason everyone calls me King."
+    },
+    {
+      "character": "King",
+      "line": "Still putting a broken egg back together again... That does sound like quite the challenge. Unfortunately, I'm afraid I need to stay here and man the bar. However..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... Well, what about these men."
+    },
+    {
+      "character": "King",
+      "line": "Welcome back, iknami. What can I get you?"
+    },
+    {
+      "character": "Player",
+      "line": "Excuse me... Are you one of King's men?"
+    },
+    {
+      "character": "Acatzin",
+      "line": "Why do you ask?"
+    },
+    {
+      "character": "Player",
+      "line": "King said that you might be able to help me. It's about Rumpty Bumpty."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Gumty Fumty?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, Pumpty Lumpty fell off a wall! It's a disaster."
+    },
+    {
+      "character": "Acatzin",
+      "line": "A man fell off a wall? How tall is this wall?"
+    },
+    {
+      "character": "Player",
+      "line": "Well... not exactly a man. He's an egg."
+    },
+    {
+      "character": "Acatzin",
+      "line": "I see... Well, I can probably help once I can get out of here."
+    },
+    {
+      "character": "Player",
+      "line": "When will that be?"
+    },
+    {
+      "character": "Acatzin",
+      "line": "As soon as I get my axe back. It's with the blacksmith, but he seems too busy to even talk to me. Think you can help get it back?"
+    },
+    {
+      "character": "Player",
+      "line": "I can talk to the blacksmith."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Perfect! You'll find him in the western part of town, not far from here."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I'll be back soon."
+    },
+    {
+      "character": "Player",
+      "line": "There's no time for this!"
+    },
+    {
+      "character": "Acatzin",
+      "line": "Well, in that case, I think you'll need to help your egg without me."
+    },
+    {
+      "character": "Player",
+      "line": "I need your help with Wumty Scrumpty."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Lumpty Mumpty?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes. Egg, fell off a wall, disaster."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Oh, that's right. Well, if you can get me my axe back..."
+    },
+    {
+      "character": "Acatzin",
+      "line": "How are you getting on with my axe?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm still working on it."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Well, good luck getting a word in with that blacksmith!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello there! Are you..."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Blacksmith! Yes, I'm the blacksmith!"
+    },
+    {
+      "character": "Player",
+      "line": "Great! I'm here about..."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "I'm very busy, so you'll need to be quick! What do you need?"
+    },
+    {
+      "character": "Player",
+      "line": "Well, I'm here about an axe..."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Sorry, I don't sell those! Move along!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't want to buy one! I'm here to pick up one that you're repairing."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Okay, yes, I can repair an axe for you. It won't be quick though as I have a lot of other work to get through first."
+    },
+    {
+      "character": "Player",
+      "line": "The axe is already here. I'm just here to pick it up."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Well, you can't. No repairs are getting done until the whetstone is fixed!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, what's wrong with the whetstone?"
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Yes, the whetstone! Are you going to get it fixed or are you just going to keep standing around like that?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay... I guess I can try and fix the whetstone."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Is that whetstone fixed?"
+    },
+    {
+      "character": "Player",
+      "line": "Not yet."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Too slow! We need to speed things up! Let's come together and fix this whetstone!"
+    },
+    {
+      "character": "Player",
+      "line": "Okay..."
+    },
+    {
+      "character": "Player",
+      "line": "It's done. Now, about that axe..."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Axe? I don't have your axe. Are you sure you gave it to me?"
+    },
+    {
+      "character": "Player",
+      "line": "It's not my axe, it's..."
+    },
+    {
+      "character": "Blacksmith",
+      "line": "Actually, here, have this one. It's broken, but you can use my newly fixed whetstone to sort that out."
+    },
+    {
+      "character": "Player",
+      "line": "Turned out there was a bit of a backlog of work... The whetstone had some problems as well, but that's all fixed up now."
+    },
+    {
+      "character": "Acatzin",
+      "line": "So, have you got it?"
+    },
+    {
+      "character": "Player",
+      "line": "I have, but it still needs a little work..."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Well, once it's finished, we can see about sorting out Wumty Scrumpty."
+    },
+    {
+      "character": "Player",
+      "line": "I have it right here!"
+    },
+    {
+      "character": "Acatzin",
+      "line": "Perfect! Hand it over, and then we'll see about Lumpty Mumpty."
+    },
+    {
+      "character": "Player",
+      "line": "Rumpty Bumpty."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Yeah, that's it."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, here's the axe. When you're ready, head over to the big temple just north of town."
+    },
+    {
+      "character": "Nezketi",
+      "line": "I might be."
+    },
+    {
+      "character": "Player",
+      "line": "I need your help. It's Bumpty Numpty."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Humphrey Dumphrey?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. He's a broken egg. We need to try and put him back together!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "This isn't good!"
+    },
+    {
+      "character": "Player",
+      "line": "So, can you help?"
+    },
+    {
+      "character": "Nezketi",
+      "line": "I think I can, but I'm going to need to be on top of my game for a job like this. In other words, I'm going to need some tea."
+    },
+    {
+      "character": "Player",
+      "line": "I can get you some tea."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Kuani! There are plenty of damiana shrubs around here. I know of some just on the other side of the eastern wall. They make for the best tea. I like mine without any milk."
+    },
+    {
+      "character": "Player",
+      "line": "You'll have to just give me a moment to make some space for it."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Now, I trust you know how to make tea?"
+    },
+    {
+      "character": "Player",
+      "line": "Could you remind me?"
+    },
+    {
+      "character": "Nezketi",
+      "line": "You'll need to take the damiana leaves and add them to a bowl of water. You then need to boil the water before transferring the tea into a cup."
+    },
+    {
+      "character": "Player",
+      "line": "Alright, I'll be back soon with some tea."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Thank you, iknami."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Very good, iknami. In that case, I'll be here once you have some tea for me."
+    },
+    {
+      "character": "Player",
+      "line": "Now's not the time for tea!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "Well, I don't think I'll be much use without it..."
+    },
+    {
+      "character": "Player",
+      "line": "I need your help with Pumpty Lumpty."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Scrumpty Lumpy?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, the egg I was telling you about before..."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Ah, I remember. Unfortunately, I still don't think I'll be much help until I've had my tea..."
+    },
+    {
+      "character": "Nezketi",
+      "line": "How are you getting on with that tea?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Remember, you want leaves from damiana shrubs. I know of some just on the other side of the eastern wall. I assume you know what to do once you have them?"
+    },
+    {
+      "character": "Player",
+      "line": "Could I get a cup for it?"
+    },
+    {
+      "character": "Nezketi",
+      "line": "Of course, if you have the space to carry it."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yeah... I'll be right back."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Of course!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "Is that tea I smell?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "Kuani! Would you mind putting it in a cup for me?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure thing."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Hmm... doesn't smell much like my usual tea..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, no of course not."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Remember, you want leaves from damiana shrubs. I know of some just on the other side of the eastern wall."
+    },
+    {
+      "character": "Player",
+      "line": "I've got your tea!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "Wonderful. I'll just have that, then we can get to work on this Humphrey Dumphrey."
+    },
+    {
+      "character": "Player",
+      "line": "You mean Gumty Fumty?"
+    },
+    {
+      "character": "Nezketi",
+      "line": "That's what I said. Where is he?"
+    },
+    {
+      "character": "Player",
+      "line": "In the big temple just north of town."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Okay, I'll meet you over there."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "I sure am. What do you need?"
+    },
+    {
+      "character": "Player",
+      "line": "I've got a very big problem. It's Bumpty Numpty."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Gumty Fumty?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. He was sat on a wall, but he had a great fall!"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Tell me you're joking?!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm afraid not. Do you think you can help?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "My friend, this is a matter that's very personal to me. I once lost a good friend under similar horrific circumstances. However, I first need to finish sorting out my racing cart."
+    },
+    {
+      "character": "Player",
+      "line": "Racing cart?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "That's right! We race them over in the Colosseum. Mine took quite a bit of damage last time so I need to get that sorted."
+    },
+    {
+      "character": "Player",
+      "line": "I see. Well, maybe I can help out with that?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "That would be appreciated. I reckon a couple of planks and some nails should be all you need to get it fixed. I'm sure you can find some around here somewhere. Oh, and don't forget your hammer and saw!"
+    },
+    {
+      "character": "Player",
+      "line": "We have bigger problems right now!"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "My friend, I know your plight, but the cart must be sorted before I can do anything else. I'm sorry."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "As I said, my friend, this is a matter that's very personal to me. However, I first need to finish sorting out my racing cart."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Hello again. How's the cart coming along?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "It should just need a couple of planks and some nails. I'm sure you can find some around here somewhere. Oh, and don't forget your hammer and saw!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, that's the cart all fixed."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Kuani! It's looking great! All it needs now is a nice new red racing stripe. That's one for later though. For now, let's sort out this problem of yours. Where do you need me?"
+    },
+    {
+      "character": "Player",
+      "line": "Over in the big temple just north of town."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "I will go there at once."
+    },
+    {
+      "character": "Player",
+      "line": "I've gathered your men."
+    },
+    {
+      "character": "King",
+      "line": "Then I've done all I can. The rest is now in their hands, and yours. Good luck, iknami."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, how are we looking?"
+    },
+    {
+      "character": "Nezketi",
+      "line": "This isn't good, iknami. We don't think there's any way we can put this egg back together again."
+    },
+    {
+      "character": "Player",
+      "line": "What are we going to do?"
+    },
+    {
+      "character": "Acatzin",
+      "line": "The way I see it, we only have one option. We need to replace the egg."
+    },
+    {
+      "character": "Player",
+      "line": "Replace Pumpty Lumpty? That's madness!"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "It's more than madness. There isn't even a word to properly describe what it is. However, I fear it is the only path available to us."
+    },
+    {
+      "character": "Player",
+      "line": "But where would we even get a replacement egg?"
+    },
+    {
+      "character": "Acatzin",
+      "line": "We're going to need to obtain a chicken egg."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Tetamo! That's preposterous! A chicken egg is far too small."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Not if it's from a rather large chicken."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "A dragon egg is what we need. They are the perfect size."
+    },
+    {
+      "character": "Nezketi",
+      "line": "A dragon egg would be suicide. No dragon would willingly give up its egg. What we need is a jaguar egg."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "But jaguars don't lay eggs..."
+    },
+    {
+      "character": "Player",
+      "line": "How about we gather a few potential eggs and pick the best one?"
+    },
+    {
+      "character": "Acatzin",
+      "line": "Kuani! What a brilliant idea."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, I just need to know where I can find these eggs."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "There are some dragons in a cave just south east of here, across the river from Tal Teklan. One of them should have an egg."
+    },
+    {
+      "character": "Acatzin",
+      "line": "There's a chicken farm on the outskirts of Tal Teklan. I reckon you'll be able to find a large chicken egg there."
+    },
+    {
+      "character": "Nezketi",
+      "line": "And I've heard talk of some eggs in an old camp site by the mine east of Tal Teklan. Apparently the camp site is a hot spot for jaguars! They must be jaguar eggs!"
+    },
+    {
+      "character": "Player",
+      "line": "Right then. I'll be back once I have some eggs."
+    },
+    {
+      "character": "Player",
+      "line": "Remind me, where can I find a dragon egg?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "There are some dragons in a cave just south east of here, across the river from Tal Teklan. One of them should have a suitable egg."
+    },
+    {
+      "character": "Player",
+      "line": "I'll head over there and try to find one."
+    },
+    {
+      "character": "Player",
+      "line": "Remind me, where can I find a large chicken egg?"
+    },
+    {
+      "character": "Acatzin",
+      "line": "There's a farm on the outskirts of Tal Teklan. I reckon you'll be able to find one there."
+    },
+    {
+      "character": "Player",
+      "line": "I'll head over there then."
+    },
+    {
+      "character": "Player",
+      "line": "Remind me, where can I find a jaguar egg?"
+    },
+    {
+      "character": "Nezketi",
+      "line": "I've heard talk of some in an old camp site by the mine east of Tal Teklan."
+    },
+    {
+      "character": "Player",
+      "line": "I'll have a look and see if I can find them."
+    },
+    {
+      "character": "Player",
+      "line": "I managed to find a large chicken egg!"
+    },
+    {
+      "character": "Acatzin",
+      "line": "Good work! I'll get it set up so its ready to be judged."
+    },
+    {
+      "character": "Acatzin",
+      "line": "The chicken egg is ready to be judged. You should get the other eggs gathered."
+    },
+    {
+      "character": "Player",
+      "line": "Will do."
+    },
+    {
+      "character": "Player",
+      "line": "I managed to find a dragon egg!"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Kuani! Excellent work! I'll get it ready to go."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "The dragon egg is ready to be judged. You should get the other eggs gathered."
+    },
+    {
+      "character": "Player",
+      "line": "I have that jaguar egg!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "Kuani! I'll get it set up and ready to be judged."
+    },
+    {
+      "character": "Nezketi",
+      "line": "The jaguar egg is all set up and ready to be judged. You should work on gathering the other eggs."
+    },
+    {
+      "character": "Player",
+      "line": "I'm on it."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "That's the last one. Let's get these eggs judged."
+    },
+    {
+      "character": "Player",
+      "line": "Right, we have the eggs."
+    },
+    {
+      "character": "Nezketi",
+      "line": "We've prettied them up as best we can. Hopefully one of them looks like Scrumpty Lumpy."
+    },
+    {
+      "character": "Acatzin",
+      "line": "First up, the chicken egg."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm... It's not bad, but I think it's just a little bit too small to be Humpty Fumty."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Well, what about the dragon egg?"
+    },
+    {
+      "character": "Player",
+      "line": "It's a good size, but the face... it seems to be melting off. I think the egg is too warm."
+    },
+    {
+      "character": "Nezketi",
+      "line": "The jaguar egg then? It's a perfect size and it's the right temperature."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "I still don't think it's actually a jaguar egg..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, regardless of what it is, I do think it might be the one."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Kuani! Good work everyone. I think we've done it!"
+    },
+    {
+      "character": "Player",
+      "line": "What are we going to do now?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "We gave it our best, but I fear we have failed."
+    },
+    {
+      "character": "Nezketi",
+      "line": "We can't give up!"
+    },
+    {
+      "character": "Acatzin",
+      "line": "There's only one thing for it. We're going to have to put Pumpty Lumpty back together again."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "But how? He was broken beyond repair!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "We don't have any other options. We have to try."
+    },
+    {
+      "character": "Kauayotl",
+      "line": "But it's not possible!"
+    },
+    {
+      "character": "Player",
+      "line": "No, it's necessary..."
+    },
+    {
+      "character": "Player",
+      "line": "Let's fix this egg!"
+    },
+    {
+      "character": "Nezketi",
+      "line": "It's beautiful!"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "Indeed it is. I think this means our work here is done."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. I don't think I could have done it without you three."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Don't mention it. We're happy to have helped. Now, we should leave you to it."
+    },
+    {
+      "character": "Alan",
+      "line": "I'm back! How was Plumper? He didn't cause you any problems, did he?"
+    },
+    {
+      "character": "Player",
+      "line": "Er... No. No problems at all."
+    },
+    {
+      "character": "Alan",
+      "line": "Wonderful! I'm so glad to hear it. Now, I've got quite the meal lined up for us. Would you mind giving me a hand bringing everything inside?"
+    },
+    {
+      "character": "Alan",
+      "line": "You know, friend, it wasn't until now that I came to realise that I'd actually been lost for a long time. I had a job back home... I had a family... and yet, something was missing."
+    },
+    {
+      "character": "Alan",
+      "line": "But now... now I think I've finally found myself. For the first time in my life, I know who I am... who I'm meant to be. I think this can be a proper home. A home for me, and for Rumpy as well. A forever home."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. Thanks again for helping with Mumpty Rumpty."
+    },
+    {
+      "character": "Nezketi",
+      "line": "Don't mention it, iknami. Always happy to be of service."
+    },
+    {
+      "character": "Player",
+      "line": "Hello there. Thanks again for helping with Rumpty Bumpty."
+    },
+    {
+      "character": "Acatzin",
+      "line": "Always happy to help, iknami."
+    },
+    {
+      "character": "King",
+      "line": "Welcome back, iknami. I hear you managed to solve your egg problem."
+    },
+    {
+      "character": "Player",
+      "line": "I did. Your men were a big help."
+    },
+    {
+      "character": "King",
+      "line": "Glad to hear it. Now, what can I get you?"
+    },
+    {
+      "character": "Kauayotl",
+      "line": "It was my pleasure, iknami. We of course wouldn't have been able to do it without you either."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Acatzin",
+      "description": "Adult male, warm Mesoamerican-inspired accent, determined and purposeful tone with quiet gratitude, a man on a mission who appreciates those who help him."
+    },
+    {
+      "name": "Alan",
+      "description": "Middle-aged male, British accent, eccentric and slightly unhinged tone, a deranged tourist who has found contentment in isolation with his beloved egg companion."
+    },
+    {
+      "name": "Blacksmith",
+      "description": "Adult male, gruff and hurried tone, impatient and abrupt, constantly busy and speaks quickly without letting others finish their sentences."
+    },
+    {
+      "name": "Farmer",
+      "description": "Adult male, warm Mesoamerican-inspired accent, calm and helpful tone, a simple local farmer who tends chickens and offers friendly guidance to strangers."
+    },
+    {
+      "name": "Jatziri, Teoki of Ralos",
+      "description": "Adult female, serene Mesoamerican-inspired accent, calm and composed tone, a religious priestess who speaks with measured wisdom and gentle pragmatism."
+    },
+    {
+      "name": "Kauayotl",
+      "description": "Adult male, warm Mesoamerican-inspired accent, practical and capable tone, a resourceful man who gets things done and speaks with confident efficiency."
+    },
+    {
+      "name": "King",
+      "description": "Adult female, street-smart and confident tone, a shrewd bartender with a reputation for problem-solving who speaks with casual authority and dry wit."
+    },
+    {
+      "name": "Nezketi",
+      "description": "Adult male, warm Mesoamerican-inspired accent, dry and sardonic tone with a hint of refinement, a tea-loving Ralos worshipper who appreciates subtle humor."
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "branch": "quest/merlins-crystal",
+  "quest_name": "Merlin's Crystal",
+  "lines": [
+    {
+      "character": "King Arthur",
+      "line": "Welcome to my court. I am King Arthur of the Knights of the Round Table."
+    },
+    {
+      "character": "Player",
+      "line": "I want to become a Knight of the Round Table!"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Really? Well then you will need to go on a quest to prove yourself worthy. My knights all appreciate a good quest."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Unfortunately, our current quest is to rescue Merlin. He recently got himself trapped in some sort of magical crystal. We've moved him from the cave we found him in and now he's upstairs in his tower."
+    },
+    {
+      "character": "Player",
+      "line": "I will see what I can do then."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Talk to my knights if you need any help."
+    },
+    {
+      "character": "Player",
+      "line": "I may come back and try that later."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Be sure that you come speak to me soon then."
+    },
+    {
+      "character": "King Arthur",
+      "line": "Well then you must complete your quest to rescue Merlin. Talk to my knights if you need any help."
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "May I help you?"
+    },
+    {
+      "character": "Player",
+      "line": "Merlin's in a crystal. Little help?"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "That is what we were hoping for from you, adventurer!"
+    },
+    {
+      "character": "Player",
+      "line": "Hmmm. Well, ok, thanks anyway."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "Good morrow!"
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on getting Merlin out of that crystal?"
+    },
+    {
+      "character": "Sir Kay",
+      "line": "Unfortunately not, Sirrah."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "The only person I know of who would possibly have been of help is Merlin..."
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, that's not actually too helpful."
+    },
+    {
+      "character": "Sir Kay",
+      "line": "I am well aware of that, adventurer."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+    },
+    {
+      "character": "Player",
+      "line": "I want to get Merlin out of the crystal."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "Well, if the Knights of the Round Table can't manage it, I can't see how a commoner like you could succeed where we have failed."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "Hello there adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "Any suggestions on freeing Merlin?"
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "I've tried all the weapons I can find, yet none are powerful enough to break his crystal prison..."
+    },
+    {
+      "character": "Player",
+      "line": "Excalibur eh? Where would I find that?"
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "The Lady of the Lake is looking after it I believe... but I know not where she resides currently."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks. I'll try and find someone who does."
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "Hello there adventurer, what do you want of me?"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like some advice on breaking that Crystal Merlin's trapped in."
+    },
+    {
+      "character": "Sir Palomedes",
+      "line": "Sorry, I cannot help you with that."
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "Greetings to the court of King Arthur!"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "My best guess would be some sort of magic. Unfortunately Merlin is our magic expert."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, well, thanks anyway."
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "Hail Arthur, King of the Britons!"
+    },
+    {
+      "character": "Player",
+      "line": "Um... Hello."
+    },
+    {
+      "character": "Player",
+      "line": "Do you know much about breaking magical crystals?"
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "Funnily enough...absolutely nothing."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. Goodbye."
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "Good day to you!"
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on how to get Merlin out of that crystal?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "I'm a little stumped myself. We've tried opening it with anything and everything!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you know how Merlin got trapped?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "I would guess this is the work of the evil Morgan Le Faye!"
+    },
+    {
+      "character": "Player",
+      "line": "And where could I find her?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "She lives in her stronghold to the south of here, guarded by some renegade knights led by Sir Mordred."
+    },
+    {
+      "character": "Player",
+      "line": "Any idea how to get into Morgan Le Faye's stronghold?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "No, you've got me stumped there..."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you for the information."
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "It is the least I can do."
+    },
+    {
+      "character": "Player",
+      "line": "I don't suppose you have any idea how to break into Mordred's fort do you?"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "I am afraid not. Would that we could! Mordred and his cronies have been thorns in our side for far too long already!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok. Thanks. See you later!"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "Take care adventurer, Mordred is an evil and powerful foe."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on getting into Mordred's fort?"
+    },
+    {
+      "character": "Sir Kay",
+      "line": "Mordred... So you think he may be involved with the curse upon Merlin?"
+    },
+    {
+      "character": "Player",
+      "line": "Good a guess as any right?"
+    },
+    {
+      "character": "Sir Kay",
+      "line": "I think that you may be onto something there. Unfortunately his fortress is impregnable!"
+    },
+    {
+      "character": "Player",
+      "line": "...I'll figure something out."
+    },
+    {
+      "character": "Player",
+      "line": "I need to get into Mordred's Fortress."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "So... you think Mordred's behind this? I'm afraid I don't have any suggestions..."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like some advice on breaking into Mordred's fort."
+    },
+    {
+      "character": "Player",
+      "line": "Any suggestions on getting into Mordred's fort?"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "My best guess would be using magic. Unfortunately Merlin is our magic expert."
+    },
+    {
+      "character": "Player",
+      "line": "Um... Hello. I need to get into Mordred's fort..."
+    },
+    {
+      "character": "Sir Tristram",
+      "line": "Good luck with that!"
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on how to get into Morgan Le Faye's stronghold?"
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "That stronghold is built in a strong defensive position."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "It's on a big rock sticking out into the sea."
+    },
+    {
+      "character": "Sir Lancelot",
+      "line": "There are two ways in that I know of, the large heavy front doors, and the sea entrance, only penetrable by boat. They get all their deliveries by boat from Catherby."
+    },
+    {
+      "character": "Arhein",
+      "line": "Hello! Would you like to trade?"
+    },
+    {
+      "character": "Player",
+      "line": "Is that your ship?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Yes, I use it to make deliveries to my customers up and down the coast. These crates here are all ready for my next trip."
+    },
+    {
+      "character": "Player",
+      "line": "Do you deliver to the fort just down the coast?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Yes, I do have orders to deliver there from time to time. I think I may have some bits and pieces for them when I leave here next actually."
+    },
+    {
+      "character": "Player",
+      "line": "Can you drop me off on the way down please?"
+    },
+    {
+      "character": "Arhein",
+      "line": "I don't think Sir Mordred would like that. He wants as few outsiders visiting as possible. I wouldn't want to lose his business."
+    },
+    {
+      "character": "Player",
+      "line": "Aren't you worried about supplying evil knights?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Hey, you gotta take business where you can find it these days! Besides, if I didn't supply them, someone else would."
+    },
+    {
+      "character": "Player",
+      "line": "Where do you deliver to?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Oh, various places up and down the coast. Mostly Karamja and Port Sarim."
+    },
+    {
+      "character": "Player",
+      "line": "I don't suppose I could get a lift anywhere?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Sorry pal, but I'm afraid I'm not quite ready to sail yet."
+    },
+    {
+      "character": "Arhein",
+      "line": "I'm waiting on a big delivery of candles which I need to deliver further along the coast."
+    },
+    {
+      "character": "Player",
+      "line": "Well, good luck with your business."
+    },
+    {
+      "character": "Arhein",
+      "line": "Thanks buddy!"
+    },
+    {
+      "character": "Player",
+      "line": "Are you rich then?"
+    },
+    {
+      "character": "Arhein",
+      "line": "Business is going reasonably well... I wouldn't say I was the richest of merchants ever, but I'm doing fairly well all things considered."
+    },
+    {
+      "character": "Arhein",
+      "line": "Hey buddy! Get away from my ship alright?"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah... uh... sorry..."
+    },
+    {
+      "character": "Sir Mordred",
+      "line": "You DARE to invade MY stronghold?!?! Have at thee knave!!!"
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "STOP! Please... spare my son."
+    },
+    {
+      "character": "Player",
+      "line": "Tell me how to untrap Merlin and I might."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "You have guessed correctly that I'm responsible for that."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "I suppose I can live with that fool Merlin being loose for the sake of my son."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "Setting him free won't be easy though."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "You will need to find a magic symbol as close to the crystal as you can find."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "You will then need to drop some bats' bones on the magic symbol while holding a lit black candle."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "This will summon a mighty spirit named Thrantax."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "You will need to bind him with magic words."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "Then you will need the sword Excalibur with which the spell was bound in order to shatter the crystal."
+    },
+    {
+      "character": "Player",
+      "line": "So where can I find Excalibur?"
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "The lady of the lake has it. I don't know if she'll give it to you though, she can be rather temperamental."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I will go do all that."
+    },
+    {
+      "character": "Player",
+      "line": "What are the magic words?"
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "You will find the magic words at the base of one of the chaos altars."
+    },
+    {
+      "character": "Morgan Le Faye",
+      "line": "Which chaos altar I cannot remember."
+    },
+    {
+      "character": "Player",
+      "line": "No. He deserves to die."
+    },
+    {
+      "character": "Player",
+      "line": "OK then."
+    },
+    {
+      "character": "Candle maker",
+      "line": "Hi! Would you be interested in some of my fine candles?"
+    },
+    {
+      "character": "Player",
+      "line": "Have you got any black candles?"
+    },
+    {
+      "character": "Candle maker",
+      "line": "BLACK candles???"
+    },
+    {
+      "character": "Candle maker",
+      "line": "Hmmm. In the candle making trade, we have a tradition that it's very bad luck to make black candles."
+    },
+    {
+      "character": "Candle maker",
+      "line": "VERY bad luck."
+    },
+    {
+      "character": "Player",
+      "line": "I will pay good money for one..."
+    },
+    {
+      "character": "Candle maker",
+      "line": "I still dunno..."
+    },
+    {
+      "character": "Candle maker",
+      "line": "IF you can bring me a bucket FULL of wax."
+    },
+    {
+      "character": "Candle maker",
+      "line": "Have you got any wax yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have some now."
+    },
+    {
+      "character": "Player",
+      "line": "Nope, not yet."
+    },
+    {
+      "character": "Player",
+      "line": "Know anything about Excalibur?"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "Um... it's a really good sword?"
+    },
+    {
+      "character": "Player",
+      "line": "Know where I can find it?"
+    },
+    {
+      "character": "Sir Bedivere",
+      "line": "Nope, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Any ideas on finding Excalibur?"
+    },
+    {
+      "character": "Sir Gawain",
+      "line": "Unfortunately not, adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "I need to find Excalibur."
+    },
+    {
+      "character": "Sir Lucan",
+      "line": "I'm afraid I don't have any suggestions..."
+    },
+    {
+      "character": "Player",
+      "line": "I'd like some advice on finding Excalibur."
+    },
+    {
+      "character": "Player",
+      "line": "Any suggestions on finding Excalibur?"
+    },
+    {
+      "character": "Sir Pelleas",
+      "line": "My best guess would be some sort of spell. Unfortunately Merlin is our magic expert."
+    },
+    {
+      "character": "Player",
+      "line": "I need to find Excalibur..."
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "Good day to you."
+    },
+    {
+      "character": "Player",
+      "line": "I seek the sword Excalibur."
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "Aye, I have that artefact in my possession."
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "'Tis very valuable, and not an artefact to be given away lightly."
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "I would want to give it away only to one who is worthy and good."
+    },
+    {
+      "character": "Player",
+      "line": "And how am I meant to prove that?"
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "I shall set a test for you."
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "First I need you to travel to Port Sarim. Then go to the upstairs room of the jeweller's shop there."
+    },
+    {
+      "character": "Player",
+      "line": "Ok. That seems easy enough."
+    },
+    {
+      "character": "Beggar",
+      "line": "Please, stranger... my family and I are starving..."
+    },
+    {
+      "character": "Beggar",
+      "line": "Could you find it in your heart to spare me a simple loaf of bread?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, certainly."
+    },
+    {
+      "character": "Beggar",
+      "line": "Thank you very much!"
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "Well done. You have passed my test."
+    },
+    {
+      "character": "The Lady of the Lake",
+      "line": "Here is Excalibur, guard it well."
+    },
+    {
+      "character": "Player",
+      "line": "... except I don't have any bread on me at the moment..."
+    },
+    {
+      "character": "Beggar",
+      "line": "Well, if you get some, you know where to come."
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't have any bread with me."
+    },
+    {
+      "character": "Beggar",
+      "line": "Have you got any bread for me yet?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Actually, I'm wrong. I still don't have any bread. Sorry."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, no, I still have none."
+    },
+    {
+      "character": "Player",
+      "line": "Now what were those magic words again?"
+    },
+    {
+      "character": "Player",
+      "line": "Snarthtrick..."
+    },
+    {
+      "character": "Player",
+      "line": "Candato..."
+    },
+    {
+      "character": "Player",
+      "line": "Termon!"
+    },
+    {
+      "character": "Thrantax the Mighty",
+      "line": "GRAAAAAARGH!"
+    },
+    {
+      "character": "Player",
+      "line": "Snarthanto..."
+    },
+    {
+      "character": "Player",
+      "line": "Candon..."
+    },
+    {
+      "character": "Player",
+      "line": "Termtrick!"
+    },
+    {
+      "character": "Player",
+      "line": "Snarthon..."
+    },
+    {
+      "character": "Player",
+      "line": "Candtrick..."
+    },
+    {
+      "character": "Player",
+      "line": "Termanto!"
+    },
+    {
+      "character": "Thrantax the Mighty",
+      "line": "Thou hast me in thine control. So that I mayst return from whence I came, I must grant thee a boon. What dost thou wish of me?"
+    },
+    {
+      "character": "Player",
+      "line": "I wish to free Merlin from his giant crystal!"
+    },
+    {
+      "character": "Thrantax the Mighty",
+      "line": "The deed is done. Thou mayst now shatter Merlin's crystal with Excalibur, and I can once more rest. Begone! And leave me once more in peace."
+    },
+    {
+      "character": "Merlin",
+      "line": "Thank you! Thank you! Thank you!"
+    },
+    {
+      "character": "Merlin",
+      "line": "It's not fun being trapped in a giant crystal!"
+    },
+    {
+      "character": "Merlin",
+      "line": "Go speak to King Arthur, I'm sure he'll reward you!"
+    },
+    {
+      "character": "Player",
+      "line": "I have freed Merlin from his crystal!"
+    },
+    {
+      "character": "King Arthur",
+      "line": "Ah. A good job, well done. I dub thee a Knight Of The Round Table. You are now an honorary knight."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Arhein",
+      "description": "Middle-aged male, British accent, friendly and pragmatic merchant tone, a prosperous ship trader who values business above all else but remains approachable."
+    },
+    {
+      "name": "Beggar",
+      "description": "Male, British accent, desperate and pleading tone with a humble demeanor, a starving man begging for food to feed his family."
+    },
+    {
+      "name": "Candle maker",
+      "description": "Middle-aged male, British accent, cautious and superstitious tradesman tone, a working-class craftsman who takes his profession's folk beliefs seriously."
+    },
+    {
+      "name": "King Arthur",
+      "description": "Mature male, refined British accent, dignified and commanding royal tone, the legendary King of the Britons who leads with wisdom and authority."
+    },
+    {
+      "name": "Merlin",
+      "description": "Elderly male, British accent, wise and slightly whimsical wizard tone, a powerful sorcerer with dry wit and ancient knowledge."
+    },
+    {
+      "name": "Morgan Le Faye",
+      "description": "Middle-aged female, aristocratic British accent, sinister yet intelligent sorceress tone, a powerful witch capable of showing maternal desperation when her son is threatened."
+    },
+    {
+      "name": "Sir Bedivere",
+      "description": "Adult male, formal British accent, courteous and seasoned knight tone, a distinguished member of the Round Table who speaks with measured respect."
+    },
+    {
+      "name": "Sir Gawain",
+      "description": "Adult male, warm British accent, helpful and forthcoming knight tone, an honorable warrior willing to share information and assist adventurers."
+    },
+    {
+      "name": "Sir Kay",
+      "description": "Adult male, formal British accent, polite but slightly resigned tone, a proper knight who acknowledges his limitations with dry acceptance."
+    },
+    {
+      "name": "Sir Lancelot",
+      "description": "Adult male, confident British accent, arrogant and boastful tone, the self-proclaimed greatest knight who looks down on commoners."
+    },
+    {
+      "name": "Sir Lucan",
+      "description": "Adult male, British accent, thoughtful and earnest knight tone, a warrior who has tried everything to help and speaks with genuine concern."
+    },
+    {
+      "name": "Sir Mordred",
+      "description": "Adult male, aggressive British accent, hostile and threatening tone, a renegade knight fallen from grace who attacks with bitter fury."
+    },
+    {
+      "name": "Sir Palomedes",
+      "description": "Adult male, British accent, apologetic and reserved knight tone, a dignified warrior who regretfully cannot offer assistance."
+    },
+    {
+      "name": "Sir Pelleas",
+      "description": "Adult male, British accent, welcoming and loyal knight tone, a devoted Round Table member who defers to Merlin's expertise on magical matters."
+    },
+    {
+      "name": "Sir Tristram",
+      "description": "Adult male, British accent, blunt and slightly sardonic tone, a stoic knight who speaks with honest directness about his limitations."
+    },
+    {
+      "name": "The Lady of the Lake",
+      "description": "Ageless female, ethereal British accent, mystical and authoritative sorceress tone, a powerful guardian of Excalibur who tests the worthiness of mortals."
+    },
+    {
+      "name": "Thrantax the Mighty",
+      "description": "Deep otherworldly male voice, thunderous and ancient demonic tone speaking in archaic English, a terrifying spirit bound by magic who grants boons to those who control him."
+    }
+  ]
+}

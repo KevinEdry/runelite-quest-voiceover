@@ -1,0 +1,1588 @@
+{
+  "branch": "quest/swan-song",
+  "quest_name": "Swan Song",
+  "lines": [
+    {
+      "character": "Player",
+      "line": "Hello. Lovely day, isn't it?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Lovely? Oh - er - if you say so. But please excuse me, I really don't have time to chat about the weather."
+    },
+    {
+      "character": "Player",
+      "line": "What's the rush?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Trolls! They're attacking my fishing Colony!"
+    },
+    {
+      "character": "Player",
+      "line": "Gosh, I didn't know there were any trolls around here."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "These are a sort of sea-dwelling troll. They feed on the monkfish that live in this part of the sea, but just recently they've started invading my Colony!"
+    },
+    {
+      "character": "Player",
+      "line": "Do you need any help?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Well yes, I do. I've done some research about this, and I think our best hope is to get hold of an experienced adventurer."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "In all the legends I've read, brave adventurers have no trouble vanquishing whatever monsters are menacing the helpless settlement."
+    },
+    {
+      "character": "Player",
+      "line": "You've been... reading stories about adventurers?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Yes, I've done my research very carefully. I've always made important decisions based on careful analysis of whatever documents are available to me on the topic. For example, I chose this site for my Fishing Colony because"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "records show this part of the sea to be a prime site for catching monkfish. I don't just fumble along like an amateur!"
+    },
+    {
+      "character": "Player",
+      "line": "... fair enough, I suppose! Anyway, you think you need an adventurer?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Yes, that's right. A brave adventurer with plenty of experience in this sort of work."
+    },
+    {
+      "character": "Player",
+      "line": "I'm a brave adventurer! Can I try?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "You? I hadn't thought of that... let's have a look at you..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "No, I'm sorry, but you simply do not have enough experience. I've got a LOT at stake here, and I can't afford to have an amateur getting in the way."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Hmmm... You're not what I'm looking for, but... Quest Points is really rather a lot..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Ok, the Piscatoris Fishing Colony gratefully accepts your offer of help. When the Colony is safe you shall be handsomely rewarded."
+    },
+    {
+      "character": "Player",
+      "line": "Oh goody, I love rewards! Now, how can I help?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Well, as qualified as you undoubtedly are, I believe we're going to need a truly expert adventurer if the Colony is to stand a chance."
+    },
+    {
+      "character": "Player",
+      "line": "Expert adventurer? I'll wager I've had more adventures than you've had pickled gherkins!"
+    },
+    {
+      "character": "Player",
+      "line": "Expert adventurer? I'll have you know I'm in the Guild of Legends!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "If you could just stop blowing your own trumpet for a minute..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Excellent! Now, in far-away Misthalin there lives one of the greatest adventurers of all time."
+    },
+    {
+      "character": "Player",
+      "line": "... this better be good..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "His name is lost in the mists of time, but you shouldn't have much trouble finding the Wise Old Man of Draynor Village."
+    },
+    {
+      "character": "Player",
+      "line": "Him? What in the heck do you want with HIM?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Oh, do you know him?"
+    },
+    {
+      "character": "Player",
+      "line": "Well I've met him. Don't you think he's a bit old?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Maybe, but he's still an expert adventurer."
+    },
+    {
+      "character": "Player",
+      "line": "Yes! He's mad! You know he smashed his way into a bank and stole a load of stuff?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Ah well, we must forgive him his little foibles."
+    },
+    {
+      "character": "Player",
+      "line": "He's just called 'Wise Old Man'?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Well, he presumably has a name, but that's what he's called now."
+    },
+    {
+      "character": "Player",
+      "line": "And you want me to fetch this Wise Old Man?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "You don't sound convinced. Look, I'll tell you what I've read about him..."
+    },
+    {
+      "character": "Player",
+      "line": "Right... so you want me to fetch this old man who used to be a great adventurer."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Yes, that's right. And do watch out for the sea trolls!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll leave you to it, then."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Fine, fine."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Ah,. I was wondering where you'd got to."
+    },
+    {
+      "character": "Player",
+      "line": "What was it you wanted me to do?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Go to Draynor Village and fetch the Wise Old Man to help save the Colony!"
+    },
+    {
+      "character": "Player",
+      "line": "Couldn't I just save it myself?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "No! Now go and do what I told you!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Greetings,."
+    },
+    {
+      "character": "Player",
+      "line": "You used to be a famous adventurer, didn't you?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Heh heh! Yes, I suppose you could say that. But that was all quite a long time ago. I haven't been on what you'd call a 'quest' for a while."
+    },
+    {
+      "character": "Player",
+      "line": "Does that mean you'd be interested if someone asked for your help?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Oh? What exactly had you in mind?"
+    },
+    {
+      "character": "Player",
+      "line": "Herman Caranos of the Piscatoris Fishing Colony thinks he needs you to save his colony from a tribe of attacking sea trolls."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Hmmm... so I haven't been forgotten... and the world once again is calling for my aid..."
+    },
+    {
+      "character": "Player",
+      "line": "Well, it's just one man who smells of fish, not exactly the whole world..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "... yet this could be the opportunity I've been waiting for..."
+    },
+    {
+      "character": "Player",
+      "line": "... yawn..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "... but I'm a lot older than I used to be, do I still have the strength? Should I retire now, or can I do just one more quest?"
+    },
+    {
+      "character": "Player",
+      "line": "If you're not feeling up to it, I'll leave you alone."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, I'll do it! This can be my final adventure, my last great quest. Saving this colony shall be my swan song."
+    },
+    {
+      "character": "Player",
+      "line": "Swan song?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Legend tells us that a swan, before it dies, sings a song of outstanding beauty as a fitting conclusion to its graceful life. This adventure will be my swan song."
+    },
+    {
+      "character": "Player",
+      "line": "You're going to sing a song and then snuff it? Maybe I should tell Herman you've flipped..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "No, you ignoramus! I shall bring my adventuring days to a dramatic close by saving this colony!"
+    },
+    {
+      "character": "Player",
+      "line": "Great. So long as you're not going to sing."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, that's right, I'm not going to sing. Anyway, I shall need some supplies from you."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes? What do you want?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I'm rather short of runes. If you could fetch me 5 Blood runes, 10 Lava runes and 10 Mist runes, I'll be able to set off."
+    },
+    {
+      "character": "Player",
+      "line": "I just happen to have those with me!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Gosh, you're very efficient!"
+    },
+    {
+      "character": "Player",
+      "line": "Sometimes I amaze even myself."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Ok, hand 'em over."
+    },
+    {
+      "character": "Player",
+      "line": "Here you go..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Excellent. I'll see you outside the Colony. Don't forget to arm yourself - it could be dangerous!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, 5 Blood runes, 10 Lava runes and 10 Mist runes."
+    },
+    {
+      "character": "Player",
+      "line": "You asked me to get some runes."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Okay, hand 'em over."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I'm guessing you haven't got them all, have you?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well, do get a move on! I need 5 Blood runes, 10 Lava runes and 10 Mist runes, otherwise I'll be no use in a fight."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Hello again, ! I must thank you for persuading me to come - I feel quite invigorated in the sea breeze!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh - er - good. Well, Herman must be inside the Colony now, so we should probably go in."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Are you sure you're ready? I can hear creatures moving around in the trees, and we might have to do some fighting soon."
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready to fight."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Excellent. I think this little tunnel will lead us there..."
+    },
+    {
+      "character": "Player",
+      "line": "I should go and get ready first."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, better safe than sorry! We can go through this little tunnel when you're ready."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Just hop into the tunnel when you're ready."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Wait - I think something's coming!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well, it all seems to have gone smoothly so far!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, we're both still alive."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Please go and tell Herman I'm here. Someone's sure to know where to find him."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Ah, ! Herman told me to expect you. You'll find him in his office by the eastern wall of the Colony."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks I'll go there now."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "So, ! I did hear from Herr Caranos that you were to our Colony coming. The Director in his office is waiting for you."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'll go there now."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "No way can I send items to bank for you with great big trolls outside! You save Colony, then Arnold open bank for you."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "I not have spare stuff to trade with you now. Maybe we trade after you save Colony, ja?"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "No way can I let you collect stuffsies with great big trolls outside! You save Colony, then Arnold help you."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "That thing broken. Arnold fix it when Colony all safe."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Finally you've arrived! Did you bring the Wise Old Man?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Indeed, I am here!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Excellent! You have no idea how grateful I am!"
+    },
+    {
+      "character": "Player",
+      "line": "Talking of gratitude, I believe you mentioned some kind of reward..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Reward? Well... we've got to discuss the Colony's defences now. Perhaps you could go and make yourself useful around the Colony? I'm sure my brother, Franklin, could do with a bit of help. Arnold, the storemaster, said he needed an extra pair of hands too. He's in one of the big storage sheds."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I help out, then I get a reward?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Yes, yes... now please excuse us."
+    },
+    {
+      "character": "Player",
+      "line": "Yoohoo to you two!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "? Have you helped Franklin and Arnold yet?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Please do so!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm on the case, no problems."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "That's what I like to hear. Off you go..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Hello,."
+    },
+    {
+      "character": "Player",
+      "line": "Herman said you wanted a hand with something."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Well, yes, I do. Are you any good at smithing?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, I'm quite an expert."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Ok, we'll see. Now, the trolls managed to smash part of our western wall earlier today. We need 5 sheets of iron to patch it."
+    },
+    {
+      "character": "Player",
+      "line": "Won't iron go all rusty with all the salt water around here?"
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Yes, but it'll do for a few weeks, and we haven't the time or materials to do a proper job just now."
+    },
+    {
+      "character": "Player",
+      "line": "Alrighty. So where do I get sheets of iron?"
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "I've got a press in my shred. You can use it to heat up some iron bars and roll them into sheets. You'll need to fill its firebox first - stick some logs in it and light them."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "When you've got 5 iron sheets, hammer them onto the damage wall."
+    },
+    {
+      "character": "Player",
+      "line": "Why do I need to heat the bars? I've been cold- working metal all my life, and I've never bothered heating it."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "How odd! I'd have expected all your products to be horribly brittle."
+    },
+    {
+      "character": "Player",
+      "line": "I guess I'm just talented."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Anyway, take this tinderbox and get to work."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Anyway, off you go."
+    },
+    {
+      "character": "Player",
+      "line": "It's not hot enough to work at the moment."
+    },
+    {
+      "character": "Player",
+      "line": "The firebox is at the other end of the machine!"
+    },
+    {
+      "character": "Player",
+      "line": "I should probably try putting metal bars into the OTHER end of the machine."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "How are you getting on?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Good, good."
+    },
+    {
+      "character": "Player",
+      "line": "I can't remember what you wanted me to do."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Put some logs into the metal press in my shed, and light them. Then feed 5 iron bars into the press to roll them into sheets. After that, you'll need to hammer them onto the damaged wall."
+    },
+    {
+      "character": "Player",
+      "line": "It's already lit!"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not putting that into the press! I don't want to break it!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, the press is working now, but I still have to patch more bits of wall/the last piece of wall]."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "I hope you don't have too much trouble with that press."
+    },
+    {
+      "character": "Player",
+      "line": "Also I think I need a hammer."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Hammer? Not a problem - here's mine."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "I think you'll need to make more/another] iron first."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "At least you've got enough iron sheets."
+    },
+    {
+      "character": "Player",
+      "line": "I don't think that will help."
+    },
+    {
+      "character": "Player",
+      "line": "This bit of wall is fine. I don't need to mess around with it now."
+    },
+    {
+      "character": "Player",
+      "line": "I've fixed all 5 bits of wall."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Wonderful - thank you very much! Now you can turn your full attention to help Arnold..."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Oh, and if you've got any of those iron sheets left, I'll be happy to buy them off you once the Colony is safe."
+    },
+    {
+      "character": "Player",
+      "line": "This is turning into a lot of work..."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Wonderful - thank you very much! You should return to my brother, Herman, and tell him you've finished helping me and Arnold."
+    },
+    {
+      "character": "Player",
+      "line": "Oh good. Now maybe Herman will give me that reward he mentioned!"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "You come to speak to me, ?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes... Herman said you needed me to do something?"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Ah, that is good. I the storemaster am for this Piscatoris Fishing Colony, and our stores are - ahah - not so good. Indeed, our stores contain not a bit of food!"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "This a catastrophe may become, as difficult it may be to fish while the trolls outside are waiting, and our bellies soon shall rumble loudly!"
+    },
+    {
+      "character": "Player",
+      "line": "Riiiiight..."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "But now you come here to help Arnold! A good and sturdy warrior you must be indeed to have entered our Colony in these times! So you can the fishing do for us!"
+    },
+    {
+      "character": "Player",
+      "line": "You want me to catch fish?"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Ja, this is so. But the fish must then be stored, or stinking rotten they become! So the fish you bring must be shiny fresh!"
+    },
+    {
+      "character": "Player",
+      "line": "Where do I get fresh fish?"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "The monkfish in these waters swim, this is why Herr Caranos build his Colony here."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "You go catch 5 fresh monkfish from sea over in north- west corner. If you bring stinking old monkfish, Arnold know about it, and Arnold not take them!"
+    },
+    {
+      "character": "Player",
+      "line": "I'll need a net or something like that."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Ja, is not a problem."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, five fresh monkfish coming up."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Big thanks,. When Colony safe, Herman reward you good."
+    },
+    {
+      "character": "Player",
+      "line": "I think I should maybe catch my own."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "You bring me fresh monkfish?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't got any."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Well, you go to sea at north-west corner of Colony and catch nice fresh monkfish for Arnold, ja?"
+    },
+    {
+      "character": "Player",
+      "line": "Ok."
+    },
+    {
+      "character": "Player",
+      "line": "I've got this fish..."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "That not monkfish! Go to sea at north-west corner of Colony and catch MONKFISH!"
+    },
+    {
+      "character": "Player",
+      "line": "Arnold, I've got some monkfish for you."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "This? This fresh, but it no good to me raw! You go use range in kitchen!"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Ah, lovely fresh monkfish straight from the sea! Now you bring me more, ja?"
+    },
+    {
+      "character": "Player",
+      "line": "Right, right."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "This is superb, ! Now I store these carefully, and you go help little Frankie."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "This is superb, ! Now I store these carefully, and you go tell Herr Caranos."
+    },
+    {
+      "character": "Player",
+      "line": "Oh good, maybe he'll reward me now."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Your fresh monkfish superb! But now you go help little Frankie, ja?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Now you done helping me and Frankie, you go see what Herr Caranos want next."
+    },
+    {
+      "character": "Player",
+      "line": "I'll get to it."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Now you've finished helping me and Arnold, you should see if Herman's got anything else for you to do."
+    },
+    {
+      "character": "Player",
+      "line": "I've finished helping Franklin and Arnold now."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Or - er - that's good..."
+    },
+    {
+      "character": "Player",
+      "line": "Does this mean you're going to reward me now?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "There's something else I need you to do first."
+    },
+    {
+      "character": "Player",
+      "line": "There always is."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Well, the Wise Old Man and I have discussed the situation, and he's come up with a plan..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, that's right. The sheer number of trolls means that the best hope for the Colony is to gather our forces and wipe out all the trolls at once."
+    },
+    {
+      "character": "Player",
+      "line": "Well, that sounds like a nice plan. One big fight, no more trolls."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "There's a slight problem, though."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, with the bit about gathering our forces."
+    },
+    {
+      "character": "Player",
+      "line": "Let me guess - you haven't got any forces to gather!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "I sent most of the colonists away for their own safety when the trolls started attacking the Colony."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "So what you need to do, is to fetch us an army!"
+    },
+    {
+      "character": "Player",
+      "line": "???"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "In the Wizards' Guild in Yanille, Wizard Frumscone always seems to have a limitless supply of zombies and similar creatures. If you can persuade him to lend us an army, we should be able to defeat these trolls."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so I just need to go see Wizard Frumscone in Yanille?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Yes, please hurry!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello, old man."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "- have you brought an army?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I'm afraid I haven't asked Wizard Frumscone yet."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Do get a move on, !"
+    },
+    {
+      "character": "Player",
+      "line": "What was it you asked me to do?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Go to the Wizards' Guild in Yanille and ask Wizard Frumscone to lend us an army to save the Colony!"
+    },
+    {
+      "character": "Player",
+      "line": "Right, I know it was something like that."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Thanks a lot for your help earlier, but I have a lot to do, so please excuse me..."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "It good to see you, but many things I have to do with lovely fresh monkfish you bring me earlier."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Do you like my magic Zombies? Feel free to kill them, there's plenty more where these came from!"
+    },
+    {
+      "character": "Player",
+      "line": "Hello. I need your help with something..."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Oho? Very well, young man, what can I do for you?"
+    },
+    {
+      "character": "Player",
+      "line": "The Piscatoris Fishing Colony, somewhere north of the Gnome Stronghold, is under attack by sea trolls, and they've sent me to ask for an army."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "An army, heh? But I haven't GOT an army!"
+    },
+    {
+      "character": "Player",
+      "line": "They said you might lend us some of your zombies."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "What? This is a combat training facility, not a library! My magic zombies are not for loan."
+    },
+    {
+      "character": "Player",
+      "line": "So you can't help the Colony?"
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "I'm jolly well not lending them an army! If I did that for you, I'd have to do that for everyone, and I'd never get a moment's peace again!"
+    },
+    {
+      "character": "Player",
+      "line": "So what should I tell the Colony? They've got to give up all their work because you won't help?"
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Actually that does seem rather harsh..."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "I have an idea!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes?"
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Now, you mustn't breathe a word of this to Zavistic or Disentor upstairs, but I know a man who could help you get an army."
+    },
+    {
+      "character": "Player",
+      "line": "Great! Is he a Guild wizard too?"
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "No, his work is completely different. He's a necromancer."
+    },
+    {
+      "character": "Player",
+      "line": "Necromancy? I don't want anything to do with that!"
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "He's not going to have you doing any of the actual spellcasting for it. You'll probably just have to collect some weird item from him and take it to the Colony."
+    },
+    {
+      "character": "Player",
+      "line": "I don't know if I still want to do this."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "If you don't want to continue the quest, just walk away and think no more about it. But I'm sure you won't have to do anything evil or unnatural yourself."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "So what's it to be?"
+    },
+    {
+      "character": "Player",
+      "line": "Enough of this - I'm off."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Understandable. But if you ever change your mind, just come and ask me."
+    },
+    {
+      "character": "Player",
+      "line": "I'll see what the necromancer needs me to do."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Excellent. His name's Malignius Mortifer. You'll find him somewhere south of Falador."
+    },
+    {
+      "character": "Player",
+      "line": "Can't I ask a different necromancer? There's one not so far away."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Hah! Necromancers aren't helpful people. I don't know of many - most guild wizards won't have anything to do with their practices. I think Malignius will help only because he loves showing off his powers."
+    },
+    {
+      "character": "Player",
+      "line": "You said you knew a man who could help me save the Piscatoris Fishing Colony."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "Oh yes. Now, you mustn't mention this to Zavistic or Distentor, but he's a necromancer."
+    },
+    {
+      "character": "Player",
+      "line": "Hello again."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "? Have you spoken to Malignius Mortifer?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't asked him yet."
+    },
+    {
+      "character": "Wizard Frumscone",
+      "line": "He'll probably still be wandering around south of Falador whenever you do want to speak to him."
+    },
+    {
+      "character": "Player",
+      "line": "Wizard Frumscone wouldn't help, but he told me where I could find a wizard who might help. I have to look for him just south of Falador."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Off you go!"
+    },
+    {
+      "character": "Player",
+      "line": "By the way, where's the Wise Old Man gone?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "He said he'd be back in a minute. But never mind him - go to Falador and talk to this wizard!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "So, your curiosity leads you to speak to me?"
+    },
+    {
+      "character": "Player",
+      "line": "I need help with saving a fishing colony."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Not when you're dressed like that! I don't help Saradominist filth!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Hahaha! You want MY help? HAHAHA!"
+    },
+    {
+      "character": "Player",
+      "line": "... um... The Piscatoris Fishing Colony needs an army to defend them against attacking trolls."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "And of all the people in the world, you came to ask ME? HAHAHA!"
+    },
+    {
+      "character": "Player",
+      "line": "... um... pretty please?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Oh, I'll help! I'll give you GOOD help!"
+    },
+    {
+      "character": "Player",
+      "line": "... um... thanks, I think..."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "An army, eh? I can raise you a lovely army of the undead skeletal magi! That'd be just right, wouldn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "I'm not going to have to do anything... evil, am I?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "No, I'll keep the fun bits for myself. You'll just have to get a few things for me."
+    },
+    {
+      "character": "Player",
+      "line": "Alright - what do you need?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Firstly, I need 7 bones, the normal sort you get from people and small monsters."
+    },
+    {
+      "character": "Player",
+      "line": "I have some here!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Hah! And I thought only necromancers and jogres carried bones around with them! Very well, hand 'em over."
+    },
+    {
+      "character": "Player",
+      "line": "What should I do now for the quest?"
+    },
+    {
+      "character": "Player",
+      "line": "What was it you said you'd need to help me save the Colony?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Bones! I need bones, the normal sort you get from humans and small monsters. If you're having trouble, go to the highwaymen just north of here - they've got bones!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, how could I have forgotten?"
+    },
+    {
+      "character": "Player",
+      "line": "I have some bones for you."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Good. Now I need more."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Excellent!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "From the bones you have given me, I shall make bone seeds. These will contain the essence of your army. But you will need some way to carry the seeds."
+    },
+    {
+      "character": "Player",
+      "line": "What had you in mind?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "You must go to the Crafting Guild to ask the advice of the master crafters. There are quite a few of them there, and one of them's sure to help."
+    },
+    {
+      "character": "Player",
+      "line": "I doubt they'll let me in there without a brown apron."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Here, take this one."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Player",
+      "line": "Can you spare me a brown apron so I can go to the Crafting Guild to ask the master crafters about transporting bone seeds?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Yes, yes."
+    },
+    {
+      "character": "Player",
+      "line": "What am I meant to be doing for the Colony?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Is there something wrong with your memory? I told you to go to the Crafting Guild to ask the master crafters for advice on transporting bone seeds."
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Hello, and welcome to the Crafting Guild. Accomplished crafters from all over the land come here to use our top notch workshops."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me anything about transporting bone seeds?"
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Bone seeds? What are bone seeds?"
+    },
+    {
+      "character": "Player",
+      "line": "A necromancer is going to bind the essence of an undead army into some bone seeds for me if I can get a container to carry them in."
+    },
+    {
+      "character": "Master Crafter",
+      "line": "That's horrible - ask someone else!"
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Yeah?"
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Woah dude! That's, like, some seriously maximum stuff you're talking."
+    },
+    {
+      "character": "Player",
+      "line": "But do you know what I should carry them in?"
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Yeah, you just need a pot with a lid. Do you know how to make pot lids?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, a woman called Tassie taught me."
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Tassie Slipcast? She's one groovy lady."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, yes, very nice. So if I get a pot with a lid, I'll be able to carry bone seeds safely in it?"
+    },
+    {
+      "character": "Master Crafter",
+      "line": "Yeah, yeah. You need to chill out more, dude."
+    },
+    {
+      "character": "Player",
+      "line": "What was it you said I needed for transporting bone seeds?"
+    },
+    {
+      "character": "Master Crafter",
+      "line": "A pot with a lid. Nothing more, nothing less."
+    },
+    {
+      "character": "Player",
+      "line": "I've spoken to the master crafter about a container for transporting bone seeds."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "You can take that Saradominist attire off before you try speaking to me about your quest again!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Ah, excellent. HAHAHA! Have you got such a container?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I haven't got one."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Then get one!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have it here."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "I have raised you an army and bound them into bone seeds for you!"
+    },
+    {
+      "character": "Player",
+      "line": "... um... Thanks!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Don't mention it, it was fun! HAHAHA!"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Now I will seal the seeds into your pot."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you. So what do I do with them?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Take the pot to the Colony and open it! HAHAHA! Just don't open it before you get there."
+    },
+    {
+      "character": "Player",
+      "line": "Suppose I - ahem - need another one later?"
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "Bring me another of these pots with a lid and I will give you more bone seeds."
+    },
+    {
+      "character": "Malignius Mortifer",
+      "line": "HAHAHA!"
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Herman tells me you've been fetching us an army."
+    },
+    {
+      "character": "Player",
+      "line": "Something like that!"
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "Interesting. I didn't know magic could do that."
+    },
+    {
+      "character": "Player",
+      "line": "You learn something new every day."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "! I hear you fetch mighty army for us!"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "You go take them to Herr Caranos quickly!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I've got it here!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "You've got what?"
+    },
+    {
+      "character": "Player",
+      "line": "The army's in this pot!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Have you been drinking?"
+    },
+    {
+      "character": "Player",
+      "line": "No, really, the wizard told me he'd put bone seeds in this pot, and when I opened it the army would come forth from the bone seeds."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Frumscone gave you bone seeds?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh... um..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Hmmmph. I don't much like the sound of this. I certainly won't be sending anyone to Frumscone for help again!"
+    },
+    {
+      "character": "Player",
+      "line": "Well... it wasn't exactly..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "You can talk about that later! Now we've got an army we can get on with beating the trolls!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well, I suppose so., this could be VERY dangerous. Do you feel ready to fight?"
+    },
+    {
+      "character": "Player",
+      "line": "Aren't you going to do the fighting?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, of course. But you, my trusty sidekick, are in this adventure with me, and if I'm going forth into battle, you should make sure you're ready too."
+    },
+    {
+      "character": "Player",
+      "line": "I'm ready. Let's fight!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Good. May this, my final adventure, end well!"
+    },
+    {
+      "character": "Player",
+      "line": "I'd like to get some stuff together first."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Come back to us as soon as you're ready."
+    },
+    {
+      "character": "Player",
+      "line": "The trolls are dead!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "They weren't very tough."
+    },
+    {
+      "character": "Player",
+      "line": "Oh... dear..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Leave this to me..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Aahh, that was fun."
+    },
+    {
+      "character": "Player",
+      "line": "How did you do that?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Talent, my dear."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I... can't... move..., you must fight this for me..."
+    },
+    {
+      "character": "Player",
+      "line": "Now I've killed that THING, Herman's sure to reward me!"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "You kick big troll queenie pretty hard, ja?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I don't think you'll have any more trouble with the trolls in future."
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Piscatoris Colony owe you big-time for your help. You go see Hermie - maybe he got something for you."
+    },
+    {
+      "character": "Player",
+      "line": "'Hermie'?"
+    },
+    {
+      "character": "Arnold Lydspor",
+      "line": "Herr Herman Caranos. I call him 'Hermie' when him not listening. Sometimes I call him worse things, but not today."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "I say, you certainly gave that Troll Queen a good thrashing!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, no more trouble from her."
+    },
+    {
+      "character": "Franklin Caranos",
+      "line": "I think Herman would like to talk to you in his office. We all owe you so much."
+    },
+    {
+      "character": "Player",
+      "line": "Ok, I'll go and see Herman."
+    },
+    {
+      "character": "Ramara du Croissant",
+      "line": "? Monsieur Caranos wishes to see you in 'is office. Please, go to 'im!"
+    },
+    {
+      "character": "Player",
+      "line": "Thanks, I'll go see him."
+    },
+    {
+      "character": "Everyone else",
+      "line": "? Mr Caranos said he wanted to see you in his office. I wouldn't keep him waiting if I were you!"
+    },
+    {
+      "character": "Player",
+      "line": "I've defeated the Sea Troll Queen!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Your fight was truly magnificent, ! Congratulations!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": ", how can I ever thank you? You have saved my Fishing Colony from utter destruction!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, you mentioned something about a reward?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Of course, of course!"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "I think you've earned a little something from me, too."
+    },
+    {
+      "character": "Player",
+      "line": "Ooh, goody! Thanks, old man! Um... can I have your hat?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "'Old man'... yes, I am old. That creature nearly killed me - I have never been so close to defeat."
+    },
+    {
+      "character": "Player",
+      "line": "Aww, cheer up - we won! But can I have your hat as my reward?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Yes, we won... YOU won... It is definitely time I retired."
+    },
+    {
+      "character": "Player",
+      "line": "So that's the end of your adventuring? Also, how about that hat of yours?"
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "Well, I'm sure I'll find some way to keep myself busy. But yes, this has been my last quest. My swan song."
+    },
+    {
+      "character": "Player",
+      "line": "It's been... nice working with you! It'd be even nicer if you'd give me that hat..."
+    },
+    {
+      "character": "Wise Old Man",
+      "line": "It's been a pleasure working with you too. Do pop in to see me in Draynor soon! I leave you with my blessing..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Oh, he's gone. I hope he enjoys his retirement."
+    },
+    {
+      "character": "Player",
+      "line": "HE DIDN'T GIVE ME HIS HAT!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "It's only a hat!"
+    },
+    {
+      "character": "Player",
+      "line": "!!!"
+    },
+    {
+      "character": "Player",
+      "line": "Anyway, you were going to reward me too?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Oh yes, of course! You are hereby welcome to visit the Piscatoris Fishing Colony at any time and make full use of our fishing spots!"
+    },
+    {
+      "character": "Player",
+      "line": "Why is it better to fish here than in Catherby or the Fishing Guild?"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Ah, I'm glad you asked that! You see, this is the only known place where you can catch monkfish!"
+    },
+    {
+      "character": "Player",
+      "line": "Ok, so I can catch monkfish. Um... thanks?!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Yes - there's good eating on a monkfish. They heal more health than the swordfish and lobsters most adventurers carry around, but they're easier to catch than sharks."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose that could be useful."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Indeed! I'm sure Arnold will help you send your monkfish to your bank account. Also, seaweed accumulates in the nets down by the shore, which you might find useful. Franklin says it's much quicker than trying to gather it on Entrana."
+    },
+    {
+      "character": "Player",
+      "line": "Maybe if I ever want to do glassblowing again..."
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "Finally, I'd like to give you a little token of my thanks."
+    },
+    {
+      "character": "Player",
+      "line": "Thank you very much!"
+    },
+    {
+      "character": "Herman Caranos",
+      "line": "No, thank YOU!"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Arnold Lydspor",
+      "description": "Middle-aged male, Scandinavian accent with broken English syntax, friendly and hardworking storemaster who speaks deliberately with occasional dry humor."
+    },
+    {
+      "name": "Everyone else",
+      "description": "Generic male colonist, British accent, polite and respectful tone, a simple worker at the fishing colony."
+    },
+    {
+      "name": "Franklin Caranos",
+      "description": "Middle-aged male, British accent, practical and straightforward engineer who takes pride in his technical expertise and speaks with professional competence."
+    },
+    {
+      "name": "Herman Caranos",
+      "description": "Middle-aged male, upper-class British accent, anxious and bureaucratic fishing colony director who relies heavily on research and proper procedure, easily flustered under pressure."
+    },
+    {
+      "name": "Malignius Mortifer",
+      "description": "Older male, theatrical British accent, arrogant and maniacal necromancer who laughs frequently and speaks with grandiose condescension, delighting in dark magic."
+    },
+    {
+      "name": "Master Crafter",
+      "description": "Young adult male, laid-back surfer-style accent, relaxed and casual craftsman who uses slang like 'dude' and 'groovy', easygoing and unhurried."
+    },
+    {
+      "name": "Ramara du Croissant",
+      "description": "Adult female, exaggerated French accent that is deliberately theatrical, a former baker's daughter who adopted a fake accent and now works at the fishing colony."
+    },
+    {
+      "name": "Wise Old Man",
+      "description": "Elderly male, refined British accent, legendary adventurer with a dramatic flair who speaks with wisdom and nostalgia, occasionally pompous but genuinely experienced."
+    },
+    {
+      "name": "Wizard Frumscone",
+      "description": "Older male, eccentric British accent, enthusiastic and slightly unhinged wizard obsessed with zombies, speaks with defensive passion about his unconventional research."
+    }
+  ]
+}

@@ -1,0 +1,1688 @@
+{
+  "branch": "quest/the-great-brain-robbery",
+  "quest_name": "The Great Brain Robbery",
+  "lines": [
+    {
+      "character": "Brother Tranquility",
+      "line": "Excuse me..."
+    },
+    {
+      "character": "Player",
+      "line": "Yes? Can I help you?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Sorry to have bothered you; I'm looking for a more experienced adventurer."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "I'm looking for a bold and true adventurer to help me with a...a...a little problem?"
+    },
+    {
+      "character": "Player",
+      "line": "Well you've found one... Say, you don't look much like a pirate."
+    },
+    {
+      "character": "Player",
+      "line": "In fact, you look a little ill."
+    },
+    {
+      "character": "Player",
+      "line": "A little more than ill, in fact..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Shhh!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "That's all part of the problem...and we can't talk here."
+    },
+    {
+      "character": "Player",
+      "line": "This is starting to sound a little bit dodgy, and I do appreciate I'm in a hive of scum and villainy as I say this."
+    },
+    {
+      "character": "Player",
+      "line": "Is there any part of your problem you can tell me?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well, all I can say is that I am from a small, cloistered order of monks from a tiny island nearby, and that we have a problem with undead pirates..."
+    },
+    {
+      "character": "Player",
+      "line": "Undead pirates? Let me at em!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Oh, you'll help? Wonderful!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Now, I'll just transport us to the island..."
+    },
+    {
+      "character": "Player",
+      "line": "No hitting! No hitting!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Are you all right, my child?"
+    },
+    {
+      "character": "Player",
+      "line": "Sorry, sorry."
+    },
+    {
+      "character": "Player",
+      "line": "I just get this thumping pain in the back of my head whenever I think about travelling to an island full of undead pirates."
+    },
+    {
+      "character": "Player",
+      "line": "I have no idea why."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Hmm, that is odd. Have you considered seeing a doctor?"
+    },
+    {
+      "character": "Player",
+      "line": "No, but I might well do soon if it keeps up."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Anyway, I'll just use the teleport spell I created. Let's go!"
+    },
+    {
+      "character": "Player",
+      "line": "Zombies! Back away from those monks now!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "Wait! Wait! We ARE monks!"
+    },
+    {
+      "character": "Player",
+      "line": "What? Seriously? Zombie monks?"
+    },
+    {
+      "character": "Monk",
+      "line": "Honestly, they are with us, and they aren't zombies."
+    },
+    {
+      "character": "Monk",
+      "line": "Sort of, at any rate."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "It's true. We need your help...will you at least listen to us?"
+    },
+    {
+      "character": "Player",
+      "line": "Okay, but the first one of you that lunges for my brain will be strung up and beaten until they are dead...or very, very sorry."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Oh, but of course. I understand that this is very confusing."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "We are a cloistered order of Saradominist monks. We use this island's relative isolation to translate and illuminate books. We even have a treaty with the pirates; they leave us alone and we provide the occasional"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "blessing they might need."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "This morning, however, we were awakened by the sound of a ship running aground and, as we readied ourselves to venture out to look for survivors, zombie pirates poured into the monastery."
+    },
+    {
+      "character": "Player",
+      "line": "Were they particularly drunken-looking?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Not that we could tell. They seemed to be being given orders by a twisted little zombie called Mi-Gor and his cadre of sorebones."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Some of us, like myself, were dragged away."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "I remember a terrible pain, and then woke up in this body with Mi-Gor nearby, gloating about having 'enhanced' a zombie with a non-rotting brain."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "I laid low, pretending to still be unconscious and, after a while, made my move, freeing the others that had been 'enhanced'."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "We fought our way to the granary and have barred the doors. We stored our now brainless bodies downstairs in case we can be put back to normal."
+    },
+    {
+      "character": "Player",
+      "line": "And what have they done as a result?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "It looked like they were going to storm the doors, but then Mi-Gor called them off."
+    },
+    {
+      "character": "Player",
+      "line": "Called them off? Any idea why?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "No, none whatsoever."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Now that you know our plight, will you help us?"
+    },
+    {
+      "character": "Player",
+      "line": "Of course!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Saradomin be praised!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "There is a secret tunnel into the monastery under the statue in the garden. If you get inside, you can find out what they are planning and we can counter it."
+    },
+    {
+      "character": "Player",
+      "line": "Well good luck with that."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Excuse me...oh, it's you."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Have you thought any more about helping our order?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, I might have done. What was the problem again?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Our island has been overrun by undead pirates."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "So, have you found anything out about the pirates' plans?"
+    },
+    {
+      "character": "Player",
+      "line": "Nothing yet... What would you recommend doing again?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well, the secret passage into the monastery is located in the gardens."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "If you pull the statue there out of the way you'll be able to get into the tunnels, and from there into the monastery."
+    },
+    {
+      "character": "Player",
+      "line": "Thanks!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "What if I start craving brains?"
+    },
+    {
+      "character": "Player",
+      "line": "Just eat a cauliflower or something!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "I don't even know what one of those is!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "This is so awful..."
+    },
+    {
+      "character": "Player",
+      "line": "Hang in there, brother, is on the case."
+    },
+    {
+      "character": "Zombie monk",
+      "line": "Something fell off! Something fell off!"
+    },
+    {
+      "character": "Player",
+      "line": "I don't wanna know!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "I wish I was back in my own body."
+    },
+    {
+      "character": "Player",
+      "line": "I'm working on it, okay? Give me a minute."
+    },
+    {
+      "character": "Zombie monk",
+      "line": "I can feel my brain thumping about in here when I shake my head."
+    },
+    {
+      "character": "Player",
+      "line": "Then try to stay still!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "I don't want to be stuck this way!"
+    },
+    {
+      "character": "Player",
+      "line": "You won't be, trust me!"
+    },
+    {
+      "character": "Zombie monk",
+      "line": "This body feels itchy..."
+    },
+    {
+      "character": "Player",
+      "line": "Likely that's all in the mind..."
+    },
+    {
+      "character": "Player",
+      "line": "Sorry! Sorry!"
+    },
+    {
+      "character": "Monk",
+      "line": "I suppose I should view this as a test of faith..."
+    },
+    {
+      "character": "Player",
+      "line": "That's the spirit!"
+    },
+    {
+      "character": "Monk",
+      "line": "Except the holy texts are light on plagues of zombie pirates."
+    },
+    {
+      "character": "Monk",
+      "line": "Zombies! What ever will we do?"
+    },
+    {
+      "character": "Player",
+      "line": "Keep calm. I'm a professional. I'll take care of it."
+    },
+    {
+      "character": "Monk",
+      "line": "I knew I should have been a bricklayer..."
+    },
+    {
+      "character": "Monk",
+      "line": "I don't want to lose my brain!"
+    },
+    {
+      "character": "Player",
+      "line": "You won't, trust me!"
+    },
+    {
+      "character": "Monk",
+      "line": "I was almost all the way through translating that book too..."
+    },
+    {
+      "character": "Monk",
+      "line": "What if they get in while I'm asleep? Oh no!"
+    },
+    {
+      "character": "Monk",
+      "line": "So, have you dealt with this sort of problem before?"
+    },
+    {
+      "character": "Player",
+      "line": "Sure, although the zombies were drunker, the hostages were less holy and the island was known for exporting swill, not piety."
+    },
+    {
+      "character": "Monk",
+      "line": "Oh, well that's okay then."
+    },
+    {
+      "character": "Monk",
+      "line": "Glabburbleglubble..."
+    },
+    {
+      "character": "Monk",
+      "line": "Blubblelubblebubblelubble..."
+    },
+    {
+      "character": "Monk",
+      "line": "Plib!"
+    },
+    {
+      "character": "Monk",
+      "line": "Blublublubluh..."
+    },
+    {
+      "character": "Player",
+      "line": "Wow, without a brain, these monks seem a lot less holy all of a sudden..."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* I have received a summons to attend to the Captain and so will be 'down below' for a while."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* How is the gas production progressing?"
+    },
+    {
+      "character": "Sorebones",
+      "line": "Arr, it be progressin' well..."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* What is it? I can smell your lie, whelp."
+    },
+    {
+      "character": "Sorebones",
+      "line": "No, no! 'Tis just that we need more ingredients fer enough te blanket the island!"
+    },
+    {
+      "character": "Sorebones",
+      "line": "If ye'd just let us storm the granary we'd be able te take them monks out real easy like."
+    },
+    {
+      "character": "Sorebones",
+      "line": "Why, that thing of yers could hammer the wall down..."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze!* Silence! I will not be questioned by underlings!"
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* If you or the others do not consider yourselves capable of carrying out Rabid Jack's orders, then perhaps you need to spend some time in 'The Box'!"
+    },
+    {
+      "character": "Player",
+      "line": "Rabid Jack! That name again..."
+    },
+    {
+      "character": "Sorebones",
+      "line": "Please, no! Not 'The Box'!"
+    },
+    {
+      "character": "Sorebones",
+      "line": "The sleeping gas will be ready as planned, Surgeon General. Those monks will be takin' a nap for a week when they get a whiff of it, and the experiments will not stand a chance."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* Excellent...the gas will leave the brain intact for the next stage."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* This time there will be no rebellion amongst the subjects."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* Rabid Jack will have his crew of enhanced zombies and I will have as many test subjects as I can vivisect!"
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze* Hekhekhekhek!"
+    },
+    {
+      "character": "Player",
+      "line": "Sleeping gas! I have to tell the monks about this right now! I only hope I have time..."
+    },
+    {
+      "character": "Player",
+      "line": "The pirates are planning on using some sort of sleeping gas to knock you all out!"
+    },
+    {
+      "character": "Player",
+      "line": "When everyone is unconscious, they are going to come in and take you away for brain-swaps!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Fiendish!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "We have to prepare our defence against this threat. I recall something that might well help..."
+    },
+    {
+      "character": "Player",
+      "line": "Is it some sort of potion to counteract the poison?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "No, no. You see, the gas will work on us faster than a normal poison, and a potion would take too long to diffuse through the stomach."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "No, what I'm thinking of is a prayer written centuries ago by one of the abbots at the Edgeville Monastery."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "protected."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm, how come I've never heard of this prayer?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well, the abbot was slain by a group of raiders. Apparently his faith was little protection against their repeated sword blows."
+    },
+    {
+      "character": "Player",
+      "line": "Ouch!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Anyway, the book of prayers he wrote was stored in the Edgeville Monastery, so you will need to go there and retrieve it. And quickly!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Here, I'll take you straight back to Mos Le'Harmless."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Do you have the book?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I don't."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Oh, well hurry to the Edgeville Monastery and get it. We haven't got a moment to lose!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, in my bank."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "What use is it there? Go get it and hurry back. We haven't got a moment to lose!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have your book here."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "When you took the book from the shelf, did you say the words?"
+    },
+    {
+      "character": "Player",
+      "line": "Words? What words?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "The words! The words of power that would prevent..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Wait a moment, I forgot to tell you them, didn't I?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes! There were no words! What were they supposed to prevent?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Oh dear...in all the excitement I completely forgot about them..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "I do hope that we can fix things before the locusts arrive..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Silly me, all this excitement - and likely that crude brain-operation - made me totally forget. I'm sure that it'll all work out somehow."
+    },
+    {
+      "character": "Player",
+      "line": "LOCUSTS?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Oh, don't worry, it'll only be a little swarm."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Now, back to business."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "So have you read the book?"
+    },
+    {
+      "character": "Player",
+      "line": "No, not yet."
+    },
+    {
+      "character": "Brother Tranquillity",
+      "line": "Well, you should give it a try now, just in case there is anything else you need."
+    },
+    {
+      "character": "Brother Tranquillity",
+      "line": "No point in going all the way to Harmony and then back because you need something else."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have read the prayer and I know how to perform it."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Great! Do you have everything you'll need?"
+    },
+    {
+      "character": "Player",
+      "line": "No, I need to go and get a holy symbol."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well hurry! Who knows what depredations are going on back on Harmony!"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I have the book and the holy symbol I need."
+    },
+    {
+      "character": "Brother Tranquillity",
+      "line": "Excellent! Back to Harmony!"
+    },
+    {
+      "character": "Brother Tranquillity",
+      "line": "Quickly, the pirates have released the gas! Use the prayer. The other brothers will help make it powerful enough to cover the whole of the granary."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Quickly, the pirates have released the gas! Use the prayer, the other brothers will help make it powerful enough to cover the whole of the granary."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Are you alright? We dragged you back inside as quickly as we could."
+    },
+    {
+      "character": "Player",
+      "line": "Woah...that gas is pretty potent... I'll need to wear my diving gear outside so that I don't get knocked out again."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "So long as you are unharmed, that is the main thing."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well done! The power of Saradomin will keep the poison from affecting anyone within these walls."
+    },
+    {
+      "character": "Player",
+      "line": "So what now? Want me to go and kill the zombies?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well, fun as that would be, I was wondering if you could help us get our brains back into the right bodies."
+    },
+    {
+      "character": "Player",
+      "line": "You know, that was what I was going to suggest next."
+    },
+    {
+      "character": "Player",
+      "line": "So what do you want me to do, scrub up and grab a pair of pliers or something?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "No. Just...no."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "While I trust your skills in all other areas, I can state without fear of contradiction when I say that you are not a brain surgeon."
+    },
+    {
+      "character": "Player",
+      "line": "Fair enough."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "No, what we want you to do is bring Doctor Fenkenstrain to us to do the operation."
+    },
+    {
+      "character": "Player",
+      "line": "That evil, demented, eye-rollingly insane butcher? What could you want with him and his twisted..."
+    },
+    {
+      "character": "Player",
+      "line": "...brain transplanting..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "In addition to wanting him to come here and help us, we also would like to let the poor soul atone for his sins and for his attempts to meddle in domains into which man was never meant to pry."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Basically, I think when you tell him we have a werewolf- free place for him here on the island, I'm sure he'll agree to come."
+    },
+    {
+      "character": "Player",
+      "line": "Well, I cant say I agree with this...but I do appreciate that he's likely the only person that knows his way around the inside of someone's skull."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "You have my word that he will not be able to continue his depraved experiments here on this island and will instead be moulded into a useful and faithful follower of Saradomin."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Tell him that he is welcome here in exchange for his help."
+    },
+    {
+      "character": "Player",
+      "line": "Not at the moment, thanks."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "What did the doctor say?"
+    },
+    {
+      "character": "Player",
+      "line": "I haven't been to see him yet."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well, when you do, try your best to persuade him to help."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Want me to take you back to Mos Le'Harmless?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Are they here yet? I can hear them...howling!"
+    },
+    {
+      "character": "Player",
+      "line": "For all the things you've done, I'd like to pour barbecue sauce on your head and pitch you out that window."
+    },
+    {
+      "character": "Player",
+      "line": "Instead, I've come to offer you a way out of this castle."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Anything, anything. I will do anything to escape the wolves!"
+    },
+    {
+      "character": "Player",
+      "line": "Would you perform multiple brain surgeries on a number of zombie monks?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "I think you heard me. A number of monks on an island off the coast of Mos Le'Harmless have had their brains placed in zombie pirate bodies, and vice versa, and they want you to switch them back."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I see...and how long have you been hearing these 'monks' talking to you?"
+    },
+    {
+      "character": "Player",
+      "line": "Hands up, everyone who is being hunted by packs of ravenous killer werewolves!"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, why, that would be you, doctor."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Alright, alright! Whatever you say!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I mean, you have to admit that this is a little...unlikely a scenario."
+    },
+    {
+      "character": "Player",
+      "line": "Oh yes, I'm sure that a man that stitches corpses together for a living would be a good judge of rationality."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Did you come here to ask me something or just to insult me?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "And my medical practice was my living. The corpses thing was just a hobby."
+    },
+    {
+      "character": "Player",
+      "line": "Yes, I came here to tell you that a group of monks need your services, and that they are willing to shelter you from the werewolves if you will use your medical skills to help them."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Hmm, sounds like an offer I'd have to be really mad to refuse..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I accept, but you'll have to get me past those werewolves."
+    },
+    {
+      "character": "Player",
+      "line": "Well, you've lived here long enough. Is there some way I can smuggle you past?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Hmm, their sense of smell is quite acute, so no disguise would work. And I have a slight...reaction...to teleporting."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Wait... Rufus might be able to help."
+    },
+    {
+      "character": "Player",
+      "line": "How do you mean?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, he occasionally delivers meat to clients if they are too far away to come and get it themselves. If I were inside a crate of meat then he'd be unable to smell me and you'd be able to get me past."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, that seems sensible. I'll be right back."
+    },
+    {
+      "character": "Player",
+      "line": "Hey, Rufus, I heard that you do deliveries of meat. Could you send me a crate of supplies to Mos Le'Harmless?"
+    },
+    {
+      "character": "Rufus",
+      "line": "Well, it's a bit of a way to go, but for you, I'd wrrrite up a shipping orderrr."
+    },
+    {
+      "character": "Rufus",
+      "line": "What do you want to send?"
+    },
+    {
+      "character": "Player",
+      "line": "Er, some meat?"
+    },
+    {
+      "character": "Rufus",
+      "line": "Well, I didn't think you wanted to send shoes, frrriend; this is a meat shop. What I mean is, what KIND of meat do you want to send?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, don't worry about it, I'll be providing the meat myself. It's a treat for some werewolves down there, you see."
+    },
+    {
+      "character": "Rufus",
+      "line": "Hmm, I hadn't hearrrd about any packs running with the pirrrates...still, I trust you."
+    },
+    {
+      "character": "Rufus",
+      "line": "Look, I apprrreciate you'rrre wanting to catch the meat yourrrself, I mean that's the sort of wolf I am too, but therrre is one thing."
+    },
+    {
+      "character": "Rufus",
+      "line": "I'll gladly give you a crate for the meat, but I'll have to inspect it beforrre you send it over. I don't want my name associated with anything less than 100% frrresh, you understand."
+    },
+    {
+      "character": "Player",
+      "line": "Oh sure, that's entirely reasonable."
+    },
+    {
+      "character": "Rufus",
+      "line": "Grrreat! I have the parrrts for the crrrate forrr you when you have the space to carrrry them."
+    },
+    {
+      "character": "Rufus",
+      "line": "Grrreat! Here's the parrrts of the crrrate. Sorrrry, but I seem to be out of nails."
+    },
+    {
+      "character": "Rufus",
+      "line": "So, can I get a hint as to what you arrre sending?"
+    },
+    {
+      "character": "Rufus",
+      "line": "Rrrabbits? Ducks? Sheep?"
+    },
+    {
+      "character": "Player",
+      "line": "Oh, I'm sure that I'll be able to find some good meat from somewhere."
+    },
+    {
+      "character": "Rufus",
+      "line": "Wait, you are sending it live, rrright?"
+    },
+    {
+      "character": "Rufus",
+      "line": "I mean it is going to take a while to get therrre, so I'm not going to ship it unless it's at least a little alive."
+    },
+    {
+      "character": "Player",
+      "line": "What?"
+    },
+    {
+      "character": "Player",
+      "line": "Err, I mean, what do you mean only a little alive? Of course a good werewolf like me will be sending the food live."
+    },
+    {
+      "character": "Rufus",
+      "line": "Ha, ha, ha! Of courrrse, of course!"
+    },
+    {
+      "character": "Rufus",
+      "line": "So, what can I expect to see when I inspect this shipment of yourrrs?"
+    },
+    {
+      "character": "Player",
+      "line": "Errr, you know, something...special..."
+    },
+    {
+      "character": "Rufus",
+      "line": "It's cats isn't it?"
+    },
+    {
+      "character": "Player",
+      "line": "Cats?"
+    },
+    {
+      "character": "Rufus",
+      "line": "Oh, don't worrrry, you sly dog, I'll not tell anyone."
+    },
+    {
+      "character": "Rufus",
+      "line": "Tell you what, I'll get the shipping order for a crrrate of cats wrrritten up rrright now. You just provide the meat."
+    },
+    {
+      "character": "Player",
+      "line": "But..."
+    },
+    {
+      "character": "Rufus",
+      "line": "No buts, frrriend, you get going. I know how trrricky those things are to grab!"
+    },
+    {
+      "character": "Rufus",
+      "line": "You're carrying too much for me to give this to you now, but I have a whistle you can blow to call me when you have the crrrate filled."
+    },
+    {
+      "character": "Rufus",
+      "line": "Come talk to me when you have some frrree space forrr it."
+    },
+    {
+      "character": "Rufus",
+      "line": "Here, when you need me to inspect the meat, give this a blow and we'll get those tasty kitties of yours shipped off lickety split!"
+    },
+    {
+      "character": "Player",
+      "line": "Well, at least I got him to agree to ship the crate for me."
+    },
+    {
+      "character": "Player",
+      "line": "I suppose in the meantime I'll set the crate up in Fenkenstrain's tower where he can get to it."
+    },
+    {
+      "character": "Player",
+      "line": "All I have to do now is get a load of cats from somewhere..."
+    },
+    {
+      "character": "Player",
+      "line": "Of course! I'll make some fake cats from wood and fur!"
+    },
+    {
+      "character": "Player",
+      "line": "With a little help from the Ring of Charos, he'll never know the difference."
+    },
+    {
+      "character": "Player",
+      "line": "It's just crazy enough to work..."
+    },
+    {
+      "character": "Player",
+      "line": "Rufus, can I have a wolf whistle?"
+    },
+    {
+      "character": "Rufus",
+      "line": "Well, I have plenty, but you seem to have no space for it. Come back when you do."
+    },
+    {
+      "character": "Rufus",
+      "line": "Surrre! Here you go."
+    },
+    {
+      "character": "Player",
+      "line": "Rufus, can I have some crate parts?"
+    },
+    {
+      "character": "Rufus",
+      "line": "Well surrre, as soon as you have some frrree space for them."
+    },
+    {
+      "character": "Rufus",
+      "line": "Yes, herrre are some new ones."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "So how is the plan progressing?"
+    },
+    {
+      "character": "Player",
+      "line": "I still need to talk to Rufus."
+    },
+    {
+      "character": "Player",
+      "line": "I have got Rufus to agree to let me ship some meat, but I have to build the crate and fill it with fake cats first."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Cats? He thought you were shipping cats?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, I don't know...if you were a werewolf, I can see you would strike him as THAT sort of person."
+    },
+    {
+      "character": "Player",
+      "line": "What? Wait? What sort of person?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Oh, it's nothing to worry about."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Hahahahahahahahahaha! Cats...it all makes sense..."
+    },
+    {
+      "character": "Player",
+      "line": "I get the feeling I'm being maligned..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, that's a nice crate, but unless you want me to sit under a layer of (heh heh) cats, I think it'll need a false bottom."
+    },
+    {
+      "character": "Player",
+      "line": "Fine. And if you keep up these cat remarks I'm going to make sure the crate is shipped upside down, and not give you any padding."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Fine. *cough* Catlover *cough*."
+    },
+    {
+      "character": "Player",
+      "line": "Don't make me hurt you!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, it'll be a tight fit, but I'm sure I'll be able to squeeze in."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Now all you have to do is go and get all your little kitty friends!"
+    },
+    {
+      "character": "Player",
+      "line": "Be quiet or I'm going to post this thing direct to Canifis!"
+    },
+    {
+      "character": "Player",
+      "line": "What is with this whole cat thing anyway?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Nothing you need to worry about."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Hahaha - nothing - hehehehe - at all."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Mwuhahahahahahaha! Oh, it's so apt, I can't stop laughing!"
+    },
+    {
+      "character": "Player",
+      "line": "That does it, I'm leaving some nails in the bottom of the crate for him to sit on..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, you certainly seem to know what you are doing when it comes to rounding up cats. You must get a lot of practice!"
+    },
+    {
+      "character": "Player",
+      "line": "Urge to kill...rising!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, regardless, everything seems to be ready for you to call Rufus."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Blow your whistle and I'll get in the crate while we wait."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, Doctor, time to get in the crate."
+    },
+    {
+      "character": "Player",
+      "line": "Let's hope this works..."
+    },
+    {
+      "character": "Rufus",
+      "line": "Well, frrriend, I take it you have-"
+    },
+    {
+      "character": "Rufus",
+      "line": "What are you doing herrre of all places? Don't you smell that weedy human, Fenkenstrrrain?"
+    },
+    {
+      "character": "Player",
+      "line": "Well yeah, but this was the only place I could think of to store the cats."
+    },
+    {
+      "character": "Rufus",
+      "line": "Well, I know I wouldn't want anyone to find out I had a habit like yourrrs, but still..."
+    },
+    {
+      "character": "Rufus",
+      "line": "I take it this is the crrrate?"
+    },
+    {
+      "character": "Player",
+      "line": "That it is!"
+    },
+    {
+      "character": "Rufus",
+      "line": "You know, they look verrry still..."
+    },
+    {
+      "character": "Player",
+      "line": "They must be pining."
+    },
+    {
+      "character": "Rufus",
+      "line": "Pining?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes. Pining."
+    },
+    {
+      "character": "Rufus",
+      "line": "Seems rrreasonable. Is that why they arrren't making any noise?"
+    },
+    {
+      "character": "Box of cats",
+      "line": "Err...meow?"
+    },
+    {
+      "character": "Player",
+      "line": "See, they made a noise."
+    },
+    {
+      "character": "Rufus",
+      "line": "You know, I think therrre might be..."
+    },
+    {
+      "character": "Player",
+      "line": "Nothing wrong whatsoever."
+    },
+    {
+      "character": "Rufus",
+      "line": "...nothing wrrrrong whatsoever!"
+    },
+    {
+      "character": "Box of cats",
+      "line": "Meow?"
+    },
+    {
+      "character": "Player",
+      "line": "I think the meowing point has been more than made."
+    },
+    {
+      "character": "Rufus",
+      "line": "Herrre is the shipping orderrr. Just paste it to send that crrrate on its way!"
+    },
+    {
+      "character": "Rufus",
+      "line": "Although I'd prefer it if you took yourrr cat habit elsewherrre in futurrre. You understand, rrright?"
+    },
+    {
+      "character": "Player",
+      "line": "I don't, but I'll promise you this is the last time I do this."
+    },
+    {
+      "character": "Rufus",
+      "line": "That's good. You should rrreally kick the habit beforrre it gets too late."
+    },
+    {
+      "character": "Rufus",
+      "line": "See you laterrr, frrriend!"
+    },
+    {
+      "character": "Player",
+      "line": "Yeah, Rufus, see you around!"
+    },
+    {
+      "character": "Fenkenstrain in a box",
+      "line": "Has he gone?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, he's gone."
+    },
+    {
+      "character": "Fenkenstrain in a box",
+      "line": "I liked the part where he asked you to keep your cat habit to yourself."
+    },
+    {
+      "character": "Player",
+      "line": "Bear in mind I can still post you to Canifis if I choose!"
+    },
+    {
+      "character": "Player",
+      "line": "Gah...let's get this over with..."
+    },
+    {
+      "character": "Player",
+      "line": "It teleported...but didn't he say he was allergic..."
+    },
+    {
+      "character": "Player",
+      "line": "Oh dear, I do hope the doctor's reaction is not too violent."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "The doctor was delivered safely, although it seems like a bunch of pirates have stolen your cats."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Would you like me to take you to Harmony?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Well, the doctor is downstairs, waiting for you. I think he said he needed some things before he could begin."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "You teleported me! Twice!"
+    },
+    {
+      "character": "Player",
+      "line": "I was entirely unaware of at least one of those teleports."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I told you I reacted badly to teleportation!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, on the plus side, there was plenty of water to clean my clothing with afterwards..."
+    },
+    {
+      "character": "Player",
+      "line": "Too...much...information! Mind...reeling!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Aside from that, I seem to have arrived in one piece. I apologise for not believing you earlier. Brother Tranquility has told me the full story and I am prepared to help."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "However, I am going to need a few things."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, what do you need?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I will need a cranial clamp, a pair of brain tongs, three bell jars and at least thirty skull staples."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Oh, and a hammer."
+    },
+    {
+      "character": "Player",
+      "line": "Brain tongs? Skull staples?"
+    },
+    {
+      "character": "Player",
+      "line": "Where do you suggest I get these things, 'Unusual Implements R Us'?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, the zombies holed up in the main monastery must have at least one set of those items; otherwise, how did they perform the operation in the first place?"
+    },
+    {
+      "character": "Player",
+      "line": "A fair point. I'll pop back through that secret passage and ambush them."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "That won't work. Apparently they have sealed off that passage. The monks heard some explosions and saw the zombies moving something off the ship."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "It seems they found the passage as they did a little interior rearranging."
+    },
+    {
+      "character": "Player",
+      "line": "Well then, it looks like I'll go in through the front door."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Hah, only if you can walk through wood! They sealed it with planks."
+    },
+    {
+      "character": "Player",
+      "line": "Okay, that does it. I'll...I'll..."
+    },
+    {
+      "character": "Player",
+      "line": "Wait a moment... That ship has cannons, right?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I believe so."
+    },
+    {
+      "character": "Player",
+      "line": "Then I'll storm on board, grab some gunpowder and blow those doors off their hinges!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "That sounds pretty dangerous."
+    },
+    {
+      "character": "Player",
+      "line": "Oh, this is nothing. All in a day's work for me."
+    },
+    {
+      "character": "Player",
+      "line": "See you later, doctor. Whatever party they are planning in there, I have to go pick up my invitation."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "When you have all the equipment I asked for, come and see me so we can begin the procedure."
+    },
+    {
+      "character": "Player",
+      "line": "I have a hammer for you, doctor."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Very nice. Although, a sterilised one would be better."
+    },
+    {
+      "character": "Player",
+      "line": "I have some skull staples for you, doctor."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Hmmm, size 3 staples. Interesting..."
+    },
+    {
+      "character": "Player",
+      "line": "I have a cranial clamp for you, doctor."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Excellent, this will come in handy."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Wonderful...and they even have easy-grip handles, too."
+    },
+    {
+      "character": "Player",
+      "line": "I have a bell jar for you, doctor."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "It's exactly this style of jar that I need, thank you."
+    },
+    {
+      "character": "Player",
+      "line": "I have some bell jars for you, doctor."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, that's all of the items I'll need to get this situation fixed up."
+    },
+    {
+      "character": "Player",
+      "line": "So we can begin immediately?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "That's right."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Could you please keep notes of what I do, for posterity?"
+    },
+    {
+      "character": "Player",
+      "line": "Certainly. That and I'll be keeping an eye on you to make sure nothing 'untoward' happens to those brains."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, that is your prerogative."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Let us get this operation started. I'll begin by using the..."
+    },
+    {
+      "character": "Player",
+      "line": "I don't want my eyes anymore!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Pah, you have no stomach for science."
+    },
+    {
+      "character": "Player",
+      "line": "I think I'm going to be sick..."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Well, if you are, do it in a bucket. This is a sterile environment, after all."
+    },
+    {
+      "character": "Player",
+      "line": "But, but, it fell on the floor!"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Only a little, and the sawdust scraped right off with that cheese grater."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Now, why not follow them upstairs while I clean up."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I'm sure as soon as their headaches fade, they will want to talk to you."
+    },
+    {
+      "character": "Player",
+      "line": "How are things going, doctor?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I have been talking with some of the monks. They do seem to be rather intelligent for members of the clergy."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "The ones with brains, that is."
+    },
+    {
+      "character": "Player",
+      "line": "I'm sure that glowing review will endear you to them."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Owwwww..."
+    },
+    {
+      "character": "Player",
+      "line": "How's the...brain?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Hurts..."
+    },
+    {
+      "character": "Player",
+      "line": "I guessed. Look, I'm going to head out and kill this Mi- Gor joker before he can get his crew together and sail away."
+    },
+    {
+      "character": "Player",
+      "line": "You going to be okay?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Yeah...wow...spinny room..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "W-wait...I have a bad feeling about this..."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "The pirates m-must have moved something large into the s-secret room to b-block it, and Mi-Gor mentioned he had a bodyguard."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "You should be prepared for a f-fierce battle."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Have a word with the others. They will bless you before you leave."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "D-do you want me to take you back to the island?"
+    },
+    {
+      "character": "Monk",
+      "line": "Would you like to receive a blessing?"
+    },
+    {
+      "character": "Player",
+      "line": "Yes, please!"
+    },
+    {
+      "character": "Monk",
+      "line": "Well...ow...at least...oof...I'm back in the right body..."
+    },
+    {
+      "character": "Monk",
+      "line": "So...woozy..."
+    },
+    {
+      "character": "Monk",
+      "line": "Ow, ow...those staples sting a little..."
+    },
+    {
+      "character": "Monk",
+      "line": "This is the worst hangover ever...and I didn't even get drunk!"
+    },
+    {
+      "character": "Player",
+      "line": "I think I'll come back when you feel a little better."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze!* You! I will peel you like a grape for your interference!"
+    },
+    {
+      "character": "Player",
+      "line": "That's pretty big talk for someone who can't even breathe properly!"
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze!* Filthy little insect! Wretched little vermin! Let us see how witty you feel after my barrel-chested bodyguard has beaten you to paste!"
+    },
+    {
+      "character": "Player",
+      "line": "Hah, I don't care how muscular your bodyguard is. I'll still defeat them!"
+    },
+    {
+      "character": "Player",
+      "line": "What...what is that?"
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze!* Hekhekhekhek... 'That' is my bodyguard, the Barrelchest!"
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze!* I was going to test his capabilities by letting him wipe out the monks, but I believe a little warm up is in order first."
+    },
+    {
+      "character": "Mi-Gor",
+      "line": "*Wheeze!* Barrelchest - Order: Annihilate that !"
+    },
+    {
+      "character": "Player",
+      "line": "Well, you'll not have to worry about Mi-Gor any more. I defeated his creation and he seems to have slipped away."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Yes, one of the brothers observed him and a few of his sorebones slipping into the water shortly after there was a loud bang from inside the building."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "It is a pity he escaped, but Saradomin's justice will find him in the end."
+    },
+    {
+      "character": "Player",
+      "line": "One thing does strike me as odd. He mentioned the name Rabid Jack, which I have heard in connection to zombie pirates before."
+    },
+    {
+      "character": "Player",
+      "line": "Can you tell me who that is?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "I cannot, but I do recall hearing it before."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "One of the pirates on the island said it while in the grip of a terrible fever. The others quietened him down and refused to answer any questions about it."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "I have no doubt that they know who it is, but I get the feeling that they will not tell you."
+    },
+    {
+      "character": "Player",
+      "line": "Hmm...I'm sure I might be able to get them to say if I persuade them."
+    },
+    {
+      "character": "Player",
+      "line": "Still, that's a job for another time. After all that work, I think I might take a bit of a rest."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Certainly! Saradomin blesses you for your valiant effort!"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Here is a lamp blessed by Saradomin. If you pray over it, it will grant you wisdom."
+    },
+    {
+      "character": "Player",
+      "line": "Did you hear that?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Hear what?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Oh, that? Sounds a little like locusts."
+    },
+    {
+      "character": "Player",
+      "line": "Er, time for me to be off, I think."
+    },
+    {
+      "character": "Player",
+      "line": "How's your head feeling?"
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "A lot better, thanks. Can I help you with anything?"
+    },
+    {
+      "character": "Player",
+      "line": "Not really. I was just popping by to see how you were all getting on and possibly help cull some of the zombies."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Your concern is most gratifying. Saradomin be with you."
+    },
+    {
+      "character": "Brother Tranquility",
+      "line": "Do you want me to take you back to Mos Le'Harmless?"
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "After talking with these monks and seeing your efforts to save them...I'm starting to regret my past actions."
+    },
+    {
+      "character": "Player",
+      "line": "Well, we all make mistakes."
+    },
+    {
+      "character": "Player",
+      "line": "Admittedly, most of us don't accidentally trip and sew a bunch of dead bodies together."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "I know...I think that my time here will be well spent trying to atone for what I did."
+    },
+    {
+      "character": "Dr Fenkenstrain",
+      "line": "Thank you for helping me see the error of my ways,."
+    }
+  ],
+  "characters": [
+    {
+      "name": "Box of cats",
+      "description": "Middle-aged male, muffled voice as if speaking from inside a crate, nervous and uncertain tone, pretending unconvincingly to be cats while clearly being a human."
+    },
+    {
+      "name": "Brother Tranquility",
+      "description": "Middle-aged male, British accent, calm and measured monastic tone, speaks with quiet authority and compassion befitting a Saradominist monk and spiritual leader."
+    },
+    {
+      "name": "Brother Tranquillity",
+      "description": "Middle-aged male, British accent, calm and measured monastic tone, speaks with quiet authority and compassion befitting a Saradominist monk and spiritual leader."
+    },
+    {
+      "name": "Dr Fenkenstrain",
+      "description": "Middle-aged male, German-accented English, nervous and paranoid tone with occasional manic scientific enthusiasm, a brilliant but morally questionable surgeon seeking redemption."
+    },
+    {
+      "name": "Fenkenstrain in a box",
+      "description": "Middle-aged male, German-accented English, muffled voice as if speaking from inside a crate, nervous yet smug tone, making sarcastic remarks about cats."
+    },
+    {
+      "name": "Mi-Gor",
+      "description": "Elderly male, raspy wheezing voice with labored breathing, sinister and menacing tone, a twisted zombie surgeon who struggles to breathe through his medical apparatus."
+    },
+    {
+      "name": "Monk",
+      "description": "Adult male, British accent, humble and devout tone, a peaceful Saradominist monk who is frightened by the zombie invasion but maintains his faith."
+    },
+    {
+      "name": "Rufus",
+      "description": "Adult male, rolling Eastern European accent with exaggerated Rs, friendly and businesslike tone, a werewolf meat trader who maintains a jovial demeanor while running his butcher shop."
+    },
+    {
+      "name": "Sorebones",
+      "description": "Adult male, gravelly undead voice, rough pirate accent with menacing undertones, a zombie pirate surgeon who serves Mi-Gor with fearful obedience."
+    },
+    {
+      "name": "Zombie monk",
+      "description": "Adult male, British accent with hollow undead quality, distressed and confused tone, a monk whose brain has been transplanted into a zombie body and is struggling to cope."
+    }
+  ]
+}
