@@ -11,8 +11,8 @@ public interface QuestVoiceoverConfig extends Config
 	@RequiredArgsConstructor
 	enum PlayerVoice
 	{
-		MALE("Player_Male"),
-		FEMALE("Player_Female");
+		MALE("Player Male"),
+		FEMALE("Player Female");
 
 		private final String characterName;
 
