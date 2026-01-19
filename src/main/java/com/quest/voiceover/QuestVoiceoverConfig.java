@@ -2,23 +2,52 @@ package com.quest.voiceover;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import net.runelite.api.Client;
+import net.runelite.api.Player;
+import net.runelite.api.PlayerComposition;
 import net.runelite.client.config.*;
 
 @ConfigGroup("quest.voiceover")
 public interface QuestVoiceoverConfig extends Config
 {
-	@Getter
 	@RequiredArgsConstructor
 	enum PlayerVoice
 	{
+		AUTO_DETECT(null),
 		MALE("Player Male"),
 		FEMALE("Player Female");
 
 		private final String characterName;
 
+		public String getCharacterName(Client client)
+		{
+			if (characterName != null)
+			{
+				return characterName;
+			}
+
+			Player player = client.getLocalPlayer();
+			if (player == null)
+			{
+				return MALE.characterName;
+			}
+
+			PlayerComposition composition = player.getPlayerComposition();
+			if (composition == null)
+			{
+				return MALE.characterName;
+			}
+
+			return composition.getGender() == 1 ? FEMALE.characterName : MALE.characterName;
+		}
+
 		@Override
 		public String toString()
 		{
+			if (this == AUTO_DETECT)
+			{
+				return "Auto-detect";
+			}
 			return name().charAt(0) + name().substring(1).toLowerCase();
 		}
 	}
@@ -40,7 +69,7 @@ public interface QuestVoiceoverConfig extends Config
 	)
 	default PlayerVoice playerVoice()
 	{
-		return PlayerVoice.MALE;
+		return PlayerVoice.AUTO_DETECT;
 	}
 
 	@ConfigSection(
