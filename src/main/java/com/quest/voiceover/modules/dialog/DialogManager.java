@@ -82,7 +82,7 @@ public class DialogManager {
 
         Widget playerTextWidget = client.getWidget(InterfaceID.DIALOG_PLAYER, DIALOG_PLAYER_TEXT_CHILD);
         if (playerTextWidget != null) {
-            return config.playerVoice().getCharacterName();
+            return config.playerVoice().getCharacterName(client);
         }
 
         return null;

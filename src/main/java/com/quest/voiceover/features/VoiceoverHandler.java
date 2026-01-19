@@ -7,7 +7,7 @@ import com.quest.voiceover.modules.dialog.DialogManager;
 import com.quest.voiceover.utility.MessageUtility;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.api.widgets.Widget;
+import net.runelite.api.Client;
 import net.runelite.client.callback.ClientThread;
 
 import javax.inject.Inject;
@@ -29,6 +29,9 @@ public class VoiceoverHandler {
         "SELECT quest, uri, text, levenshtein_similarity(text, ?) AS similarity " +
         "FROM dialogs WHERE character = ? " +
         "ORDER BY similarity DESC LIMIT 1";
+
+    @Inject
+    private Client client;
 
     @Inject
     private ClientThread clientThread;
@@ -65,7 +68,7 @@ public class VoiceoverHandler {
      * message signals "dialog happened", then we fetch the full content from the widget.
      */
     public void handleDialogMessage(String rawMessage, String playerName) {
-        String playerVoiceName = config.playerVoice().getCharacterName();
+        String playerVoiceName = config.playerVoice().getCharacterName(client);
         MessageUtility.ParsedMessage chatMessage = MessageUtility.parseRawMessage(rawMessage, playerName, playerVoiceName);
         String chatText = chatMessage.dialogText();
         String chatCharacter = chatMessage.characterName();
