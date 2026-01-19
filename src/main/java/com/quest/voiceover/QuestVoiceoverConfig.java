@@ -53,9 +53,9 @@ public interface QuestVoiceoverConfig extends Config
 	}
 
 	@ConfigSection(
-			name = "Voice Settings",
+			name = "Voice",
 			description = "Voice configuration options",
-			position = 5,
+			position = 10,
 			closedByDefault = false
 	)
 	String voiceSettings = "voiceSettings";
@@ -73,12 +73,12 @@ public interface QuestVoiceoverConfig extends Config
 	}
 
 	@ConfigSection(
-			name = "General",
-			description = "General settings",
-			position = 10,
+			name = "Audio",
+			description = "Audio playback settings",
+			position = 5,
 			closedByDefault = false
 	)
-	String generalSettings = "generalSettings";
+	String audioSettings = "audioSettings";
 
 	@ConfigSection(
 			name = "Speech Highlighting",
@@ -102,7 +102,7 @@ public interface QuestVoiceoverConfig extends Config
 			name = "Volume",
 			description = "Volume control for the voiceover sounds.",
 			position = 11,
-			section = generalSettings
+			section = audioSettings
 	)
 	default int volume() {
 		return 75;
@@ -112,7 +112,7 @@ public interface QuestVoiceoverConfig extends Config
 			keyName = "mute",
 			name = "Mute",
 			description = "Mutes the voiceover sound.",
-			section = generalSettings,
+			section = audioSettings,
 			position = 12
 	)
 	default boolean mute()
@@ -124,7 +124,7 @@ public interface QuestVoiceoverConfig extends Config
 			keyName = "audioDucking",
 			name = "Audio Ducking",
 			description = "Lowers game audio while voiceover plays.",
-			section = generalSettings,
+			section = audioSettings,
 			position = 13
 	)
 	default boolean audioDucking()
@@ -137,7 +137,7 @@ public interface QuestVoiceoverConfig extends Config
 			keyName = "audioDuckingAmount",
 			name = "Ducking Amount",
 			description = "How much to lower game audio (0 = mute, 100 = no change).",
-			section = generalSettings,
+			section = audioSettings,
 			position = 14
 	)
 	default int audioDuckingAmount()
@@ -149,7 +149,7 @@ public interface QuestVoiceoverConfig extends Config
 			keyName = "audioQueuing",
 			name = "Audio Queuing",
 			description = "Queue voiceovers instead of interrupting. Unfinished lines continue playing when advancing dialog.",
-			section = generalSettings,
+			section = audioSettings,
 			position = 15
 	)
 	default boolean audioQueuing()
