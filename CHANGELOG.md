@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.11.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.10.1...v1.11.0) (2026-01-19)
+
+
+### Features
+
+* add player voice gender config option ([692f94f](https://github.com/KevinEdry/runelite-quest-voiceover/commit/692f94f313cef8b7b4089eb7a5472ea9a0dd213e))
+* auto-detect player voice based on character body type ([a4c9bed](https://github.com/KevinEdry/runelite-quest-voiceover/commit/a4c9bedf14d5474fa982d9219fd80c16569d984d))
+
+
+### Code Refactoring
+
+* reorganize config sections into Audio and Voice ([5b4304a](https://github.com/KevinEdry/runelite-quest-voiceover/commit/5b4304a4498f58b68a84f66212b18b51d0992a63))
+* use spaces in player voice character names ([97706d4](https://github.com/KevinEdry/runelite-quest-voiceover/commit/97706d4f9f2f43c2dc3772f10eb08de79a92b9d4))
+
 ## [1.10.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.10.0...v1.10.1) (2026-01-12)
 
 
