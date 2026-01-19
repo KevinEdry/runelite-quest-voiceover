@@ -22,6 +22,7 @@ export interface DialogRecord {
 export interface DatabaseProvider {
   readonly checkDialogExists: (character: string, text: string) => Promise<boolean>;
   readonly getCompletedQuests: () => Promise<readonly string[]>;
+  readonly getDialogsByCharacter: (character: string) => Promise<readonly DialogRecord[]>;
   readonly insertDialog: (record: DialogRecord) => Promise<void>;
   readonly uploadDatabase: () => Promise<void>;
   readonly closeDatabase: () => Promise<void>;
@@ -51,20 +52,35 @@ export function createDatabaseProvider(): DatabaseProvider {
         fs.mkdirSync(LOCAL_DB_DIR, { recursive: true });
       }
       state.localDbPath = LOCAL_DB_PATH;
+
+      if (fs.existsSync(LOCAL_DB_PATH)) {
+        console.log(`Using local database at ${LOCAL_DB_PATH}`);
+      } else {
+        console.log(`No local database found, fetching from GitHub...`);
+        const github = getGitHubClient();
+        const existingDb = await github.getFile(DATABASE_FILE, DATABASE_BRANCH);
+        if (existingDb) {
+          console.log(`Downloaded database: ${existingDb.content.length} bytes`);
+          fs.writeFileSync(state.localDbPath, existingDb.content);
+        }
+      }
+    } else if (fs.existsSync(LOCAL_DB_PATH)) {
+      console.log(`Using local database at ${LOCAL_DB_PATH}`);
+      state.localDbPath = LOCAL_DB_PATH;
     } else {
       const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), "quest-voiceover-"));
       state.localDbPath = path.join(tempDir, DATABASE_FILE);
-    }
 
-    console.log(`Fetching database from GitHub (${DATABASE_BRANCH} branch)...`);
-    const github = getGitHubClient();
-    const existingDb = await github.getFile(DATABASE_FILE, DATABASE_BRANCH);
+      console.log(`Fetching database from GitHub (${DATABASE_BRANCH} branch)...`);
+      const github = getGitHubClient();
+      const existingDb = await github.getFile(DATABASE_FILE, DATABASE_BRANCH);
 
-    if (existingDb) {
-      console.log(`Downloaded database: ${existingDb.content.length} bytes`);
-      fs.writeFileSync(state.localDbPath, existingDb.content);
-    } else {
-      console.log(`No database found on GitHub, creating empty database`);
+      if (existingDb) {
+        console.log(`Downloaded database: ${existingDb.content.length} bytes`);
+        fs.writeFileSync(state.localDbPath, existingDb.content);
+      } else {
+        console.log(`No database found on GitHub, creating empty database`);
+      }
     }
 
     state.database = new Database(state.localDbPath, { create: true });
@@ -101,6 +117,16 @@ export function createDatabaseProvider(): DatabaseProvider {
       .all() as { quest: string }[];
 
     return rows.map((row) => row.quest);
+  };
+
+  const getDialogsByCharacter = async (character: string): Promise<readonly DialogRecord[]> => {
+    const database = await ensureDatabase();
+
+    const rows = database
+      .query("SELECT quest, character, text, uri FROM dialogs WHERE character = ?")
+      .all(character) as DialogRecord[];
+
+    return rows;
   };
 
   const insertDialog = async (record: DialogRecord): Promise<void> => {
@@ -180,6 +206,7 @@ export function createDatabaseProvider(): DatabaseProvider {
   return {
     checkDialogExists,
     getCompletedQuests,
+    getDialogsByCharacter,
     insertDialog,
     uploadDatabase,
     closeDatabase,

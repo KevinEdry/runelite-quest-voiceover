@@ -1,18 +1,9 @@
-import { ElevenLabsClient } from "elevenlabs";
-import * as fs from "fs";
-import * as path from "path";
-import { fileURLToPath } from "url";
+import { ElevenLabsClient } from "@elevenlabs/elevenlabs-js";
 import { createRateLimiterRegistry, withRateLimit } from "./base.client.js";
 import { getGitHubClient } from "./github.client.js";
 import { removeSpecialCharacters } from "../utilities/text.util.js";
 import { generateDialogHash } from "../utilities/hash.util.js";
 import type { RateLimitConfig, VoiceInfo, CharacterInfo, VoiceMap } from "../types/index.js";
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const PRONUNCIATION_DICTIONARY_PATH = path.resolve(
-  __dirname,
-  "../../pronunciation_dictionary.pls"
-);
 
 const RATE_LIMIT_CONFIGS: Record<string, RateLimitConfig> = {
   voiceDesign: { tokens: 10, refillRate: 10, intervalMs: 60000 },
@@ -57,41 +48,11 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
   const client = new ElevenLabsClient({ apiKey });
   const getRateLimiter = createRateLimiterRegistry(RATE_LIMIT_CONFIGS);
 
-  let pronunciationDictionaryId: string | null = null;
-  let pronunciationDictionaryVersionId: string | null = null;
-
-  const initializePronunciationDictionary = async (): Promise<void> => {
-    if (pronunciationDictionaryId) {
-      return;
-    }
-
-    if (!fs.existsSync(PRONUNCIATION_DICTIONARY_PATH)) {
-      console.warn("Pronunciation dictionary not found, skipping initialization");
-      return;
-    }
-
-    try {
-      await withRateLimit(getRateLimiter("listVoices"), async () => {
-        const fileContent = fs.readFileSync(PRONUNCIATION_DICTIONARY_PATH);
-        const fileBlob = new Blob([fileContent], { type: "application/pls+xml" });
-        const dictionary = await client.pronunciationDictionary.addFromFile({
-          name: `quest-voiceover-${Date.now()}`,
-          file: fileBlob,
-        });
-
-        pronunciationDictionaryId = dictionary.id;
-        pronunciationDictionaryVersionId = dictionary.version_id;
-      });
-    } catch (error) {
-      console.warn("Failed to load pronunciation dictionary, continuing without it:", error);
-    }
-  };
-
   const listVoices = async (): Promise<readonly VoiceInfo[]> => {
     return withRateLimit(getRateLimiter("listVoices"), async () => {
       const response = await client.voices.getAll();
       return response.voices.map((voice) => ({
-        voiceId: voice.voice_id,
+        voiceId: voice.voiceId,
         name: voice.name ?? "",
       }));
     });
@@ -101,9 +62,9 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
     description: string
   ): Promise<{ generatedVoiceId: string; audioData: Buffer }> => {
     return withRateLimit(getRateLimiter("voiceDesign"), async () => {
-      const result = await client.textToVoice.createPreviews({
-        voice_description: description,
-        text: "Hello, I am a character from Old School RuneScape. It's nice to meet you, adventurer.",
+      const result = await client.textToVoice.design({
+        voiceDescription: description,
+        modelId: "eleven_ttv_v3",
       });
 
       const preview = result.previews[0];
@@ -112,8 +73,8 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
       }
 
       return {
-        generatedVoiceId: preview.generated_voice_id,
-        audioData: Buffer.from(preview.audio_base_64, "base64"),
+        generatedVoiceId: preview.generatedVoiceId,
+        audioData: Buffer.from(preview.audioBase64, "base64"),
       };
     });
   };
@@ -124,13 +85,13 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
     description: string
   ): Promise<string> => {
     return withRateLimit(getRateLimiter("voiceCreate"), async () => {
-      const voice = await client.textToVoice.createVoiceFromPreview({
-        voice_name: name,
-        voice_description: description,
-        generated_voice_id: generatedVoiceId,
+      const voice = await client.textToVoice.create({
+        voiceName: name,
+        voiceDescription: description,
+        generatedVoiceId: generatedVoiceId,
       });
 
-      return voice.voice_id;
+      return voice.voiceId;
     });
   };
 
@@ -185,25 +146,18 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
 
       const options: Parameters<typeof client.textToSpeech.convert>[1] = {
         text: cleanText,
-        model_id: "eleven_multilingual_v2",
-        output_format: "mp3_44100_96",
-        voice_settings: {
-          stability: 0.3,
-          similarity_boost: 0.7,
-          style: 0.4,
+        modelId: "eleven_v3",
+        outputFormat: "mp3_44100_96",
+        voiceSettings: {
+          stability: 1.0,
+          similarityBoost: 1.0,
+          style: 0.0,
+          useSpeakerBoost: true,
+          speed: 1.5,
         },
-        previous_text: cleanPreviousText,
-        next_text: cleanNextText,
+        previousText: cleanPreviousText,
+        nextText: cleanNextText,
       };
-
-      if (pronunciationDictionaryId && pronunciationDictionaryVersionId) {
-        options.pronunciation_dictionary_locators = [
-          {
-            pronunciation_dictionary_id: pronunciationDictionaryId,
-            version_id: pronunciationDictionaryVersionId,
-          },
-        ];
-      }
 
       const audioStream = await client.textToSpeech.convert(voiceId, options);
 
@@ -222,8 +176,6 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClientInstance
 
   const generateSpeech = async (input: GenerateSpeechInput): Promise<GenerateSpeechResult> => {
     const hash = computeHash(input.character, input.text);
-
-    await initializePronunciationDictionary();
 
     const audioData = await generateSpeechAudio(
       input.voiceId,

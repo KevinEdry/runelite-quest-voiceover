@@ -31,7 +31,13 @@ export const questVoiceoverWorkflow = restate.workflow({
       ctx: restate.WorkflowContext,
       input: QuestInput
     ): Promise<QuestResult> => {
-      const { questName, lines, characters, playerMaleVoiceId, playerFemaleVoiceId } = input;
+      const { questName, lines, characters } = input;
+      const playerMaleVoiceId = input.playerMaleVoiceId ?? process.env.PLAYER_MALE_VOICE_ID;
+      const playerFemaleVoiceId = input.playerFemaleVoiceId ?? process.env.PLAYER_FEMALE_VOICE_ID;
+
+      if (!playerMaleVoiceId || !playerFemaleVoiceId) {
+        throw new Error("Player voice IDs must be provided via input or PLAYER_MALE_VOICE_ID/PLAYER_FEMALE_VOICE_ID env vars");
+      }
 
       const elevenlabs = getElevenLabsClient();
       const github = getGitHubClient();
@@ -137,8 +143,6 @@ export const questVoiceoverWorkflow = restate.workflow({
           }
         }
       }
-
-      await ctx.run("upload-database", async () => database.uploadDatabase());
 
       const completed = results.filter((r) => r.status === "completed").length;
       const skipped = results.filter((r) => r.status === "skipped").length;

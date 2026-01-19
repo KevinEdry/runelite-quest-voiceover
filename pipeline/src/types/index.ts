@@ -29,8 +29,8 @@ export interface QuestInput {
   branch: string;
   lines: DialogLine[];
   characters: CharacterInfo[];
-  playerMaleVoiceId: string;
-  playerFemaleVoiceId: string;
+  playerMaleVoiceId?: string;
+  playerFemaleVoiceId?: string;
 }
 
 export interface VoiceSetupInput {

@@ -1,184 +1,600 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lexicon version="1.0"
    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
-     http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-   alphabet="ipa" xml:lang="en-US">
+   xml:lang="en-US">
+
+   <!-- Guttural/grunt sounds -->
    <lexeme>
       <grapheme>urgh</grapheme>
-      <phoneme>/ɜːrɡ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>gargh</grapheme>
-      <phoneme>/ɡɑːrɡ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>urrggghhh</grapheme>
-      <phoneme>/ɜːrɡɡɡɡ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>glurgh</grapheme>
-      <phoneme>/ɡlɜːrɡ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>gargle</grapheme>
-      <phoneme>/ˈɡɑːrɡəl/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>hergle</grapheme>
-      <phoneme>/hɜːrɡəl/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>flergh</grapheme>
-      <phoneme>/flɜːrɡ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Gurgle</grapheme>
-      <phoneme>/ˈɡɜːrɡəl/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Wooo wooo wooooo!</grapheme>
-      <phoneme>/wuː wuː wuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Woo woo?</grapheme>
-      <phoneme>/wuː wuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>WOOOOOOOOO!</grapheme>
-      <phoneme>/wuːuːuːuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Woo wooo. Woooooooooooooooooo!</grapheme>
-      <phoneme>/wuː wuːuː. wuːuːuːuːuːuːuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Wooooooooo!</grapheme>
-      <phoneme>/wuːuːuːuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Wooooooo woo woooooooo.</grapheme>
-      <phoneme>/wuːuːuːuːuː wuː wuːuːuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Woo Wooooo! Wooooo Woo woo woo!</grapheme>
-      <phoneme>/wuː wuːuːuːuː. wuːuːuː wuː wuː wuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Wooo wooo?</grapheme>
-      <phoneme>/wuː wuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Woo.</grapheme>
-      <phoneme>/wuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Wooooooo woo! Wooooo woo wooooo woowoowoowoo</grapheme>
-      <phoneme>/wuːuːuːuːuː wuː. wuːuːuː wuː wuːuːuː wuːwuːwuːwuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Woo wooo. Wooooo woo woo? Woooooooooooooooooo!</grapheme>
-      <phoneme>/wuː wuːuː. wuːuːuː wuː wuː. wuːuːuːuːuːuːuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Wooooooo.</grapheme>
-      <phoneme>/wuːuːuːuːuːuː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>woe</grapheme>
-      <phoneme>/woʊ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Woah</grapheme>
-      <phoneme>/woʊ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>*sniff*</grapheme>
-      <phoneme>/snɪf/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Ah</grapheme>
-      <phoneme>/ɑː/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Uh-huh</grapheme>
-      <phoneme>/ʌˈhʌ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Umm</grapheme>
-      <phoneme>/ʌm/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Oh</grapheme>
-      <phoneme>/oʊ/</phoneme>
-   </lexeme>
-   <lexeme>
-      <grapheme>Urm</grapheme>
-      <phoneme>/ɜːrm/</phoneme>
+      <alias>urrg</alias>
    </lexeme>
    <lexeme>
       <grapheme>Urgh</grapheme>
-      <phoneme>/ɜːrɡ/</phoneme>
+      <alias>Urrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Er...</grapheme>
-      <phoneme>/ɜː/</phoneme>
+      <grapheme>gargh</grapheme>
+      <alias>garrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Er</grapheme>
-      <phoneme>/ɜː/</phoneme>
+      <grapheme>glurgh</grapheme>
+      <alias>glurrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>wi'</grapheme>
-      <phoneme>/wɪ/</phoneme>
+      <grapheme>flergh</grapheme>
+      <alias>flerrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Ah,</grapheme>
-      <phoneme>/ɑː/</phoneme>
+      <grapheme>hergle</grapheme>
+      <alias>her-gul</alias>
+   </lexeme>
+
+   <!-- Argh variations -->
+   <lexeme>
+      <grapheme>Argh</grapheme>
+      <alias>Arrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>dearie</grapheme>
-      <phoneme>/ˈdɪəri/</phoneme>
+      <grapheme>argh</grapheme>
+      <alias>arrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Hi</grapheme>
-      <phoneme>/haɪ/</phoneme>
+      <grapheme>Aargh</grapheme>
+      <alias>Ahrrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Oh...</grapheme>
-      <phoneme>/oʊ/</phoneme>
+      <grapheme>Aaargh</grapheme>
+      <alias>Ahhrrg</alias>
    </lexeme>
    <lexeme>
-      <grapheme>uh,</grapheme>
-      <phoneme>/ʌ/</phoneme>
+      <grapheme>Arrgh</grapheme>
+      <alias>Ahrrg</alias>
    </lexeme>
+
+   <!-- Interjections -->
    <lexeme>
-      <grapheme>Bah!</grapheme>
-      <phoneme>/bɑː/</phoneme>
+      <grapheme>Hmm</grapheme>
+      <alias>Hmmm</alias>
    </lexeme>
    <lexeme>
       <grapheme>Hmmm...</grapheme>
-      <phoneme>/hmm/</phoneme>
+      <alias>Hmmm</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Uh-huh</grapheme>
+      <alias>Uh huh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Bah!</grapheme>
+      <alias>Bah</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Er...</grapheme>
+      <alias>Err</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Oh...</grapheme>
+      <alias>Oh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Ohh</grapheme>
+      <alias>Oh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Ooh</grapheme>
+      <alias>Ooo</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Oooh</grapheme>
+      <alias>Oooo</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Aah</grapheme>
+      <alias>Ahh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Woah</grapheme>
+      <alias>Whoa</alias>
+   </lexeme>
+
+   <!-- Asterisk expressions -->
+   <lexeme>
+      <grapheme>*sniff*</grapheme>
+      <alias>sniff</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*sigh*</grapheme>
+      <alias>sigh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*cough*</grapheme>
+      <alias>cough</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*gulp*</grapheme>
+      <alias>gulp</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*sob*</grapheme>
+      <alias>sob</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*giggle*</grapheme>
+      <alias>giggle</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*yawn*</grapheme>
+      <alias>yawn</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*hic*</grapheme>
+      <alias>hic</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*burp*</grapheme>
+      <alias>burp</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*pant*</grapheme>
+      <alias>pant</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*ahem*</grapheme>
+      <alias>ahem</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*whispers*</grapheme>
+      <alias>whispers</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Snort*</grapheme>
+      <alias>Snort</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Gulp*</grapheme>
+      <alias>Gulp</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Sigh*</grapheme>
+      <alias>Sigh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Sighs*</grapheme>
+      <alias>Sighs</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Sob*</grapheme>
+      <alias>Sob</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Shrugs*</grapheme>
+      <alias>Shrugs</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Wheeze*</grapheme>
+      <alias>Wheeze</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Wheeze!*</grapheme>
+      <alias>Wheeze!</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Sniff*</grapheme>
+      <alias>Sniff</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*kiss*</grapheme>
+      <alias>kiss</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*ouch*</grapheme>
+      <alias>ouch</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>** Gulp! **</grapheme>
+      <alias>Gulp!</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>**Yawwwn**</grapheme>
+      <alias>Yawn</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>* BURP *</grapheme>
+      <alias>Burp</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>* cough *</grapheme>
+      <alias>cough</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>* Uh oh! *</grapheme>
+      <alias>Uh oh!</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>* Gaaaa.... *</grapheme>
+      <alias>Gaaah</alias>
    </lexeme>
    <lexeme>
       <grapheme>(ewww)</grapheme>
-      <phoneme>/juː/</phoneme>
+      <alias>eww</alias>
    </lexeme>
    <lexeme>
       <grapheme>ewww</grapheme>
-      <phoneme>/juː/</phoneme>
+      <alias>eww</alias>
    </lexeme>
+
+   <!-- Bird sounds -->
+   <lexeme>
+      <grapheme>*Squawk*</grapheme>
+      <alias>Squawk</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Squark*</grapheme>
+      <alias>Squawk</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Brakawk*</grapheme>
+      <alias>Bra-kawk</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*brakawk*</grapheme>
+      <alias>bra-kawk</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Brarrrk*</grapheme>
+      <alias>Bra-ark</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Brawwwwwwk*</grapheme>
+      <alias>Bra-awk</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*Cluck*</grapheme>
+      <alias>Cluck</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*cluck*</grapheme>
+      <alias>cluck</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*bwaarrk*</grapheme>
+      <alias>bwark</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Squaaaawk</grapheme>
+      <alias>Squawk</alias>
+   </lexeme>
+
+   <!-- Hiccup/drunk sounds -->
+   <lexeme>
+      <grapheme>hic</grapheme>
+      <alias>hick</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Hic</grapheme>
+      <alias>Hick</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>*hiccup*</grapheme>
+      <alias>hiccup</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>buuurrp</grapheme>
+      <alias>burp</alias>
+   </lexeme>
+
+   <!-- Stuttering/hesitation -->
    <lexeme>
       <grapheme>W..wh..what?!</grapheme>
-      <phoneme>/wʌt/</phoneme>
+      <alias>Wh-what?!</alias>
+   </lexeme>
+
+   <!-- Dialect words -->
+   <lexeme>
+      <grapheme>wi'</grapheme>
+      <alias>wi</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Ohh…</grapheme>
-      <phoneme>/oʊ/</phoneme>
+      <grapheme>yer</grapheme>
+      <alias>your</alias>
    </lexeme>
    <lexeme>
-      <grapheme>Oh… Er…</grapheme>
-      <phoneme>/oʊ ɜː/</phoneme>
+      <grapheme>Yer</grapheme>
+      <alias>Your</alias>
    </lexeme>
+   <lexeme>
+      <grapheme>yerself</grapheme>
+      <alias>yourself</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>meself</grapheme>
+      <alias>myself</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>fer</grapheme>
+      <alias>for</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>wiv</grapheme>
+      <alias>with</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>ter</grapheme>
+      <alias>to</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Ter</grapheme>
+      <alias>To</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>ta</grapheme>
+      <alias>to</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Ta</grapheme>
+      <alias>To</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>wha</grapheme>
+      <alias>what</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Wha</grapheme>
+      <alias>What</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>tis</grapheme>
+      <alias>it is</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Tis</grapheme>
+      <alias>It is</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>'tis</grapheme>
+      <alias>it is</alias>
+   </lexeme>
+
+   <!-- Drunken slurred speech -->
+   <lexeme>
+      <grapheme>shome</grapheme>
+      <alias>some</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shure</grapheme>
+      <alias>sure</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Shure</grapheme>
+      <alias>Sure</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shee</grapheme>
+      <alias>see</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>sho</grapheme>
+      <alias>so</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Sho</grapheme>
+      <alias>So</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shtuff</grapheme>
+      <alias>stuff</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shafe</grapheme>
+      <alias>safe</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shtop</grapheme>
+      <alias>stop</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shtand</grapheme>
+      <alias>stand</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shtraight</grapheme>
+      <alias>straight</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shober</grapheme>
+      <alias>sober</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shense</grapheme>
+      <alias>sense</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shilly</grapheme>
+      <alias>silly</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shuch</grapheme>
+      <alias>such</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shurprise</grapheme>
+      <alias>surprise</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>shay</grapheme>
+      <alias>say</alias>
+   </lexeme>
+
+   <!-- OSRS place names -->
+   <lexeme>
+      <grapheme>Ardougne</grapheme>
+      <alias>Ar-doyn</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Prifddinas</grapheme>
+      <alias>Priv-theenas</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Tirannwn</grapheme>
+      <alias>Tir-anoon</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Isafdar</grapheme>
+      <alias>Iss-af-dar</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Lletya</grapheme>
+      <alias>Chleth-ya</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Rellekka</grapheme>
+      <alias>Reh-leck-ah</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Neitiznot</grapheme>
+      <alias>Nay-tiz-not</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Jatizso</grapheme>
+      <alias>Yat-iz-so</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Dorgesh-Kaan</grapheme>
+      <alias>Dor-gesh Kahn</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Dorgeshuun</grapheme>
+      <alias>Dor-gesh-oon</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>TzHaar</grapheme>
+      <alias>Tez-har</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Keldagrim</grapheme>
+      <alias>Kel-da-grim</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Canifis</grapheme>
+      <alias>Can-ih-fiss</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Morytania</grapheme>
+      <alias>Mor-ih-tay-nee-ah</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Zanaris</grapheme>
+      <alias>Zan-ar-iss</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Kourend</grapheme>
+      <alias>Koo-rend</alias>
+   </lexeme>
+
+   <!-- OSRS character/deity names -->
+   <lexeme>
+      <grapheme>Mahjarrat</grapheme>
+      <alias>Mah-jar-at</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Azzanadra</grapheme>
+      <alias>Az-ah-nad-rah</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Zemouregal</grapheme>
+      <alias>Zem-or-eh-gal</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Zamorak</grapheme>
+      <alias>Zam-or-ak</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Saradomin</grapheme>
+      <alias>Sar-ad-oh-min</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Guthix</grapheme>
+      <alias>Goo-thix</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Zaros</grapheme>
+      <alias>Zar-oss</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Seren</grapheme>
+      <alias>Seh-ren</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Bandos</grapheme>
+      <alias>Ban-doss</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Armadyl</grapheme>
+      <alias>Ar-mah-dill</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Sliske</grapheme>
+      <alias>Sliss-keh</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Lucien</grapheme>
+      <alias>Loo-see-en</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Hazeel</grapheme>
+      <alias>Haz-eel</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Icthlarin</grapheme>
+      <alias>Ik-thlar-in</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Verzik</grapheme>
+      <alias>Ver-zik</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Xeric</grapheme>
+      <alias>Zeh-rik</alias>
+   </lexeme>
+
+   <!-- Barrows brothers -->
+   <lexeme>
+      <grapheme>Dharok</grapheme>
+      <alias>Dar-ok</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Verac</grapheme>
+      <alias>Veh-rack</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Guthan</grapheme>
+      <alias>Goo-than</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Torag</grapheme>
+      <alias>Tor-ag</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Karil</grapheme>
+      <alias>Kah-ril</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Ahrim</grapheme>
+      <alias>Ah-rim</alias>
+   </lexeme>
+
+   <!-- Monsters/bosses -->
+   <lexeme>
+      <grapheme>Elvarg</grapheme>
+      <alias>El-varg</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Delrith</grapheme>
+      <alias>Del-rith</alias>
+   </lexeme>
+   <lexeme>
+      <grapheme>Dagannoth</grapheme>
+      <alias>Dag-an-oth</alias>
+   </lexeme>
+
 </lexicon>

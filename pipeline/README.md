@@ -31,7 +31,8 @@ ELEVENLABS_API_KEY=your_api_key
 GITHUB_TOKEN=your_github_token
 GITHUB_OWNER=KevinEdry
 GITHUB_REPO=runelite-quest-voiceover
-PLAYER_VOICE_ID=iP95p4xoKVk53GoZ742B
+PLAYER_MALE_VOICE_ID=your_male_player_voice_id
+PLAYER_FEMALE_VOICE_ID=your_female_player_voice_id
 TEMPORAL_ADDRESS=localhost:7233
 
 # Testing mode - skips GitHub uploads (audio files and database)

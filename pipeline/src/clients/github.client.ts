@@ -21,6 +21,8 @@ export interface GitHubClient {
   readonly createOrUpdateFile: (path: string, content: Buffer, branch: string, message: string) => Promise<void>;
   readonly uploadAudioFile: (input: UploadAudioInput) => Promise<string>;
   readonly checkAudioFileExists: (hash: string, soundsBranch: string) => Promise<boolean>;
+  readonly createBranch: (branchName: string, sourceBranch: string) => Promise<void>;
+  readonly branchExists: (branchName: string) => Promise<boolean>;
 }
 
 export interface UploadAudioInput {
@@ -96,13 +98,14 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     branch: string,
     message: string
   ): Promise<void> => {
+    const buffer = Buffer.isBuffer(content) ? content : Buffer.from(content);
     await withRateLimit(getRateLimiter("contentCreate"), async () => {
       await octokit.repos.createOrUpdateFileContents({
         owner: config.owner,
         repo: config.repo,
         path,
         message,
-        content: content.toString("base64"),
+        content: buffer.toString("base64"),
         branch,
       });
     });
@@ -115,13 +118,14 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     message: string,
     sha: string
   ): Promise<void> => {
+    const buffer = Buffer.isBuffer(content) ? content : Buffer.from(content);
     await withRateLimit(getRateLimiter("contentEdit"), async () => {
       await octokit.repos.createOrUpdateFileContents({
         owner: config.owner,
         repo: config.repo,
         path,
         message,
-        content: content.toString("base64"),
+        content: buffer.toString("base64"),
         branch,
         sha,
       });
@@ -145,23 +149,57 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
 
   const uploadAudioFile = async (input: UploadAudioInput): Promise<string> => {
     const isDryRun = process.env.DRY_RUN === "true";
-    const path = `${input.hash}.mp3`;
-    const uri = `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${input.soundsBranch}/${path}`;
+    const filename = `${input.hash}.mp3`;
 
     if (isDryRun) {
-      console.log(`[DRY RUN] Would upload audio file: ${path} (${input.questName} - ${input.character})`);
-      return uri;
+      console.log(`[DRY RUN] Would upload audio file: ${filename} (${input.questName} - ${input.character})`);
+      return filename;
     }
 
     const message = `feat: Add sound for quest ${input.questName} character: ${input.character}`;
-    await createOrUpdateFile(path, input.audioData, input.soundsBranch, message);
+    await createOrUpdateFile(filename, input.audioData, input.soundsBranch, message);
 
-    return uri;
+    return filename;
   };
 
   const checkAudioFileExists = async (hash: string, soundsBranch: string): Promise<boolean> => {
     const path = `${hash}.mp3`;
     return fileExists(path, soundsBranch);
+  };
+
+  const branchExists = async (branchName: string): Promise<boolean> => {
+    try {
+      await octokit.git.getRef({
+        owner: config.owner,
+        repo: config.repo,
+        ref: `heads/${branchName}`,
+      });
+      return true;
+    } catch (error: unknown) {
+      if (error && typeof error === "object" && "status" in error && error.status === 404) {
+        return false;
+      }
+      throw error;
+    }
+  };
+
+  const createBranch = async (branchName: string, sourceBranch: string): Promise<void> => {
+    const sourceRef = await octokit.git.getRef({
+      owner: config.owner,
+      repo: config.repo,
+      ref: `heads/${sourceBranch}`,
+    });
+
+    const sourceSha = sourceRef.data.object.sha;
+
+    await octokit.git.createRef({
+      owner: config.owner,
+      repo: config.repo,
+      ref: `refs/heads/${branchName}`,
+      sha: sourceSha,
+    });
+
+    console.log(`Created branch ${branchName} from ${sourceBranch}`);
   };
 
   return {
@@ -172,6 +210,8 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     createOrUpdateFile,
     uploadAudioFile,
     checkAudioFileExists,
+    createBranch,
+    branchExists,
   };
 }
 
