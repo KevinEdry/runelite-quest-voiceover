@@ -27,6 +27,7 @@ public class VoiceoverOverlayHandler extends Overlay {
     private static final int TEXT_HEIGHT = 12;
     private static final Color BACKGROUND_COLOR = new Color(0, 0, 0, 150);
 
+    private final QuestVoiceoverConfig config;
     private final AudioManager audioManager;
     private final AudioQueueManager audioQueueManager;
     private final Client client;
@@ -45,6 +46,7 @@ public class VoiceoverOverlayHandler extends Overlay {
             SpriteManager spriteManager,
             Client client
     ) {
+        this.config = config;
         this.audioManager = audioManager;
         this.audioQueueManager = audioQueueManager;
         this.client = client;
@@ -188,6 +190,6 @@ public class VoiceoverOverlayHandler extends Overlay {
     }
 
     private boolean shouldShowOverlay() {
-        return audioManager.isPlaying();
+        return config.showVoiceoverOverlay() && audioManager.isPlaying();
     }
 }

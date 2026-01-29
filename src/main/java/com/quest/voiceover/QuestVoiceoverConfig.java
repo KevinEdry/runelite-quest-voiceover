@@ -89,12 +89,12 @@ public interface QuestVoiceoverConfig extends Config
 	String speechHighlightingSettings = "speechHighlightingSettings";
 
 	@ConfigSection(
-			name = "Quest List",
-			description = "Settings for the quest list",
+			name = "Display",
+			description = "Visual display settings",
 			position = 30,
 			closedByDefault = false
 	)
-	String questListSettings = "questListSettings";
+	String displaySettings = "displaySettings";
 
 	@Range(min = 1, max = 100)
 	@ConfigItem(
@@ -183,11 +183,23 @@ public interface QuestVoiceoverConfig extends Config
 	}
 
 	@ConfigItem(
-			keyName = "showVoicedIndicator",
-			name = "Toggle Voiced Quest Indicator",
-			description = "Shows [Voiced] prefix next to quests with voice acting in the quest list.",
-			section = questListSettings,
+			keyName = "showVoiceoverOverlay",
+			name = "Show Voiceover Overlay",
+			description = "Shows an overlay with playback controls when voiceover is playing.",
+			section = displaySettings,
 			position = 31
+	)
+	default boolean showVoiceoverOverlay()
+	{
+		return true;
+	}
+
+	@ConfigItem(
+			keyName = "showVoicedIndicator",
+			name = "Show Voiced Quest Indicator",
+			description = "Shows [Voiced] prefix next to quests with voice acting in the quest list.",
+			section = displaySettings,
+			position = 32
 	)
 	default boolean showVoicedIndicator()
 	{
