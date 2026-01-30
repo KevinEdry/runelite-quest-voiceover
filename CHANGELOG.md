@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.11.0...v1.12.0) (2026-01-30)
+
+
+### Features
+
+* add option to hide voiceover overlay ([b546534](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b54653465d44745a85425805cd5836c40ce60918)), closes [#146](https://github.com/KevinEdry/runelite-quest-voiceover/issues/146)
+
 ## [1.11.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.10.1...v1.11.0) (2026-01-19)
 
 
