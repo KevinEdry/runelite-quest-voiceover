@@ -3,7 +3,7 @@ import * as fs from "fs";
 import * as path from "path";
 import * as os from "os";
 import { fileURLToPath } from "url";
-import { getGitHubClient } from "../clients/github.client.js";
+import { getGitHubClient } from "@/clients/github.client.js";
 
 const DATABASE_FILE = "quest_voiceover.db";
 const DATABASE_BRANCH = "database";

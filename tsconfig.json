@@ -18,7 +18,11 @@
     "noEmitOnError": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
-    "types": ["node", "bun"]
+    "types": ["node", "bun"],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
   },
   "include": ["src/**/*.ts"],
   "exclude": ["node_modules", "dist"]

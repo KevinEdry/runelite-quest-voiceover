@@ -1,9 +1,9 @@
 import { ElevenLabsClient } from "@elevenlabs/elevenlabs-js";
 import { createRateLimiterRegistry, withRateLimit } from "./base.client.js";
 import { getGitHubClient } from "./github.client.js";
-import { removeSpecialCharacters } from "../utilities/text.util.js";
-import { generateDialogHash } from "../utilities/hash.util.js";
-import type { RateLimitConfig, VoiceInfo, CharacterInfo, VoiceMap } from "../types/index.js";
+import { removeSpecialCharacters } from "@/utilities/text.util.js";
+import { generateDialogHash } from "@/utilities/hash.util.js";
+import type { RateLimitConfig, VoiceInfo, CharacterInfo, VoiceMap } from "@/types/index.js";
 
 const RATE_LIMIT_CONFIGS: Record<string, RateLimitConfig> = {
   voiceDesign: { tokens: 10, refillRate: 10, intervalMs: 60000 },

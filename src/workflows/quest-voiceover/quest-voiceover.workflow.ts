@@ -1,8 +1,8 @@
 import * as restate from "@restatedev/restate-sdk";
-import type { QuestInput, QuestResult, LineResult, VoiceMap } from "../types/index.js";
-import { getElevenLabsClient } from "../clients/elevenlabs.client.js";
-import { getGitHubClient } from "../clients/github.client.js";
-import { getDatabaseProvider } from "../providers/database.provider.js";
+import type { QuestInput, QuestResult, LineResult, VoiceMap } from "@/types/index.js";
+import { getElevenLabsClient } from "@/clients/elevenlabs.client.js";
+import { getGitHubClient } from "@/clients/github.client.js";
+import { getDatabaseProvider } from "@/providers/database.provider.js";
 
 const SOUNDS_BRANCH = "sounds";
 

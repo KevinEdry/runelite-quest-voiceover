@@ -2,9 +2,9 @@ import * as restate from "@restatedev/restate-sdk";
 import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
-import type { CleanupVoicesInput, CleanupVoicesResult, QuestTranscript } from "../types/index.js";
-import { getElevenLabsClient } from "../clients/elevenlabs.client.js";
-import { getDatabaseProvider, resetDatabaseProvider } from "../providers/database.provider.js";
+import type { CleanupVoicesInput, CleanupVoicesResult, QuestTranscript } from "@/types/index.js";
+import { getElevenLabsClient } from "@/clients/elevenlabs.client.js";
+import { getDatabaseProvider, resetDatabaseProvider } from "@/providers/database.provider.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const TRANSCRIPTS_DIR = path.resolve(__dirname, "../../../transcripts");

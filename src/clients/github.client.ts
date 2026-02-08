@@ -1,6 +1,6 @@
 import { Octokit } from "@octokit/rest";
 import { createRateLimiterRegistry, withRateLimit, type RateLimiter } from "./base.client.js";
-import type { RateLimitConfig } from "../types/index.js";
+import type { RateLimitConfig } from "@/types/index.js";
 
 const RATE_LIMIT_CONFIGS: Record<string, RateLimitConfig> = {
   contentCreate: { tokens: 30, refillRate: 30, intervalMs: 60000 },

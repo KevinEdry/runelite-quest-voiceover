@@ -1,4 +1,4 @@
-import type { RateLimitConfig } from "../types/index.js";
+import type { RateLimitConfig } from "@/types/index.js";
 
 interface TokenBucketState {
   readonly tokens: number;

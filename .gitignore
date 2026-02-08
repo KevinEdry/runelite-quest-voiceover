@@ -1,11 +1,59 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+bun.lockb
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+.claude_settings.json
+
+# Temporal worker artifacts
+.temporal/
+
+# Database files (if running locally)
+*.db
+*.db-shm
+*.db-wal
+output_db/
+
+# Docker volumes
+temporal-postgres-data/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Legacy
 .pixi/
 voiceover_output/
-output_db/quest_voiceover.db
-.mcp.json
-.DS_Store
 __pycache__/
-.idea/
-.claude_settings.json
-.env
-build
 .gradle
+.mcp.json
