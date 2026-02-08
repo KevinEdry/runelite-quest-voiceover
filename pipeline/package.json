@@ -11,6 +11,7 @@
     "@elevenlabs/elevenlabs-js": "^2.31.0",
     "@octokit/rest": "^21.1.0",
     "@restatedev/restate-sdk": "^1.10.2",
+    "cheerio": "^1.2.0",
     "dotenv": "^16.4.7"
   },
   "devDependencies": {
