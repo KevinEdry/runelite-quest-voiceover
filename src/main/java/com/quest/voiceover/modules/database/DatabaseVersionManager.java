@@ -25,6 +25,7 @@ public class DatabaseVersionManager {
 
     private static final Path VERSION_FILE = DOWNLOAD_DIR.resolve(VERSION_FILENAME);
     private static final Path DATABASE_FILE = DOWNLOAD_DIR.resolve(DATABASE_FILENAME);
+    private static final Path DATABASE_TEMP_FILE = DOWNLOAD_DIR.resolve(DATABASE_FILENAME + ".tmp");
 
     public static String getDatabaseVersion() {
         String version = readVersionFile();
@@ -101,7 +102,8 @@ public class DatabaseVersionManager {
             }
 
             try (InputStream inputStream = response.body().byteStream()) {
-                Files.copy(inputStream, DATABASE_FILE, StandardCopyOption.REPLACE_EXISTING);
+                Files.copy(inputStream, DATABASE_TEMP_FILE, StandardCopyOption.REPLACE_EXISTING);
+                Files.move(DATABASE_TEMP_FILE, DATABASE_FILE, StandardCopyOption.REPLACE_EXISTING, StandardCopyOption.ATOMIC_MOVE);
                 writeVersionFile(version);
                 log.info("Database updated successfully");
             }

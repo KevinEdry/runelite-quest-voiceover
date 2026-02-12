@@ -32,6 +32,7 @@ public class DatabaseManager {
     public void closeConnection() throws SQLException {
         if (connection != null) {
             connection.close();
+            connection = null;
         }
     }
 
@@ -57,7 +58,14 @@ public class DatabaseManager {
 
     private Connection getConnection() {
         if (connection != null) {
-            return connection;
+            try {
+                if (!connection.isClosed()) {
+                    return connection;
+                }
+            } catch (SQLException e) {
+                log.warn("Error checking connection status, reconnecting", e);
+            }
+            connection = null;
         }
 
         try {
