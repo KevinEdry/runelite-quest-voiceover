@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.12.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.12.0...v1.12.1) (2026-02-12)
+
+
+### Bug Fixes
+
+* recover database connection after disconnect ([0384a55](https://github.com/KevinEdry/runelite-quest-voiceover/commit/0384a559b4621627224675bf3f3186f4af433224))
+
 ## [1.12.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.11.0...v1.12.0) (2026-01-30)
 
 
