@@ -42,7 +42,7 @@ public class AudioManager {
 
         initializePlayerIfNeeded();
 
-        if (config.audioQueuing() && isPlaying()) {
+        if (shouldQueueAdditionalLines() && isPlaying()) {
             audioQueueManager.add(fileName, questName, characterName);
             return;
         }
@@ -81,7 +81,7 @@ public class AudioManager {
     }
 
     public void stop() {
-        if (config.audioQueuing()) {
+        if (shouldPreserveActivePlayback()) {
             return;
         }
 
@@ -93,10 +93,27 @@ public class AudioManager {
     }
 
     public void stopImmediately() {
-        if (config.audioQueuing()) {
+        if (shouldPreserveActivePlayback()) {
             return;
         }
         stopAll();
+    }
+
+    /**
+     * Queuing stacks every advancing line so each plays in full. When the user opts to
+     * finish only the last line, advancing must interrupt instead so audio stays in sync
+     * with the dialog they are clicking through.
+     */
+    private boolean shouldQueueAdditionalLines() {
+        return config.audioQueuing() && !config.finishLastLine();
+    }
+
+    /**
+     * Both queuing and finish-last-line let the currently playing line ride out when the
+     * dialog closes, so leaving an NPC does not cut the voiceover off mid-sentence.
+     */
+    private boolean shouldPreserveActivePlayback() {
+        return config.audioQueuing() || config.finishLastLine();
     }
 
     public void stopAll() {

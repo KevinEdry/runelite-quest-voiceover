@@ -61,6 +61,18 @@ public interface QuestVoiceoverConfig extends Config
 	String voiceSettings = "voiceSettings";
 
 	@ConfigItem(
+			keyName = "voicePlayerDialog",
+			name = "Voice Player Dialog",
+			description = "Plays voiceovers for your own character's lines. Disable to hear only NPC voices.",
+			section = voiceSettings,
+			position = 5
+	)
+	default boolean voicePlayerDialog()
+	{
+		return true;
+	}
+
+	@ConfigItem(
 			keyName = "playerVoice",
 			name = "Player Voice",
 			description = "Voice used for your character's dialog.",
@@ -155,6 +167,18 @@ public interface QuestVoiceoverConfig extends Config
 	default boolean audioQueuing()
 	{
 		return true;
+	}
+
+	@ConfigItem(
+			keyName = "finishLastLine",
+			name = "Finish Last Line on Exit",
+			description = "Interrupt earlier lines when advancing dialog, but let the final line finish playing after you leave the NPC. Overrides Audio Queuing.",
+			section = audioSettings,
+			position = 16
+	)
+	default boolean finishLastLine()
+	{
+		return false;
 	}
 
 	@ConfigItem(
