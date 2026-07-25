@@ -142,6 +142,14 @@ public class VoiceoverHandler {
      *    where wiki transcript differs from actual in-game text
      */
     private void playVoiceoverIfAvailable(String characterName, String dialogText, String originalText) {
+        if (isPlayerDialog(characterName) && !config.voicePlayerDialog()) {
+            log.debug("Skipping player dialog voiceover (disabled in config)");
+            activeVoiceover = false;
+            dialogSpeechHighlightHandler.stop();
+            audioManager.stopImmediately();
+            return;
+        }
+
         if (tryExactQuery(characterName, dialogText, originalText)) {
             return;
         }
@@ -154,6 +162,11 @@ public class VoiceoverHandler {
         activeVoiceover = false;
         dialogSpeechHighlightHandler.stop();
         audioManager.stopImmediately();
+    }
+
+    private boolean isPlayerDialog(String characterName) {
+        String playerVoiceName = config.playerVoice().getCharacterName(client);
+        return playerVoiceName != null && playerVoiceName.equals(characterName);
     }
 
     private boolean tryExactQuery(String characterName, String dialogText, String originalText) {
