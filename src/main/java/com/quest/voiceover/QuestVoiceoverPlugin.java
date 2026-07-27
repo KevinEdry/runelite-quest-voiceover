@@ -1,6 +1,7 @@
 package com.quest.voiceover;
 
 import com.google.inject.Provides;
+import com.quest.voiceover.features.ChangelogHandler;
 import com.quest.voiceover.features.QuestListIndicatorHandler;
 import com.quest.voiceover.features.voiceover.overlay.VoiceoverOverlayHandler;
 import com.quest.voiceover.features.voiceover.overlay.VoiceoverOverlayMouseListener;
@@ -13,6 +14,7 @@ import com.quest.voiceover.modules.dialog.DialogManager;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
+import net.runelite.api.GameState;
 import net.runelite.api.events.*;
 import net.runelite.api.widgets.InterfaceID;
 import net.runelite.client.config.ConfigManager;
@@ -59,6 +61,9 @@ public class QuestVoiceoverPlugin extends Plugin {
 
     @Inject
     private QuestListIndicatorHandler questListIndicatorHandler;
+
+    @Inject
+    private ChangelogHandler changelogHandler;
 
     @Inject
     private DialogManager dialogManager;
@@ -149,6 +154,13 @@ public class QuestVoiceoverPlugin extends Plugin {
 
         if (event.getGroupId() == InterfaceID.QUEST_LIST) {
             questListIndicatorHandler.onQuestListClosed();
+        }
+    }
+
+    @Subscribe
+    public void onGameStateChanged(GameStateChanged event) {
+        if (event.getGameState() == GameState.LOGGED_IN) {
+            changelogHandler.checkForUpdate();
         }
     }
 
