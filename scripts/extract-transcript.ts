@@ -54,7 +54,7 @@ function parseArguments(commandLineArguments: string[]): {
   const iterator = cliArguments[Symbol.iterator]();
   for (const argument of iterator) {
     if (argument === "-o" || argument === "--output") {
-      outputDirectory = iterator.next().value;
+      outputDirectory = iterator.next().value ?? outputDirectory;
     } else if (argument === "--stdout") {
       useStdout = true;
     } else if (!url) {

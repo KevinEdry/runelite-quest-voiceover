@@ -1,0 +1,69 @@
+# Windmill for CasaOS (Raspberry Pi, arm64 — needs a 64-bit OS).
+#
+# Install: CasaOS → "+" → Custom Install → Import (paste this file).
+# BEFORE installing, replace <PI_IP> below with your Pi's LAN IP (e.g. 192.168.1.50).
+# CasaOS shows the Pi's IP under Settings; or run `hostname -I` on the Pi.
+#
+# Data is stored under /DATA/AppData/windmill (CasaOS's app-data area) so it persists
+# and is visible in the CasaOS file manager. Prefer booting the Pi from SSD/USB — Postgres
+# wears out SD cards.
+name: windmill
+
+services:
+  windmill-db:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: changeme
+      POSTGRES_DB: windmill
+    volumes:
+      - /DATA/AppData/windmill/db:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  windmill-server:
+    image: ghcr.io/windmill-labs/windmill:main
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgres://postgres:changeme@windmill-db/windmill?sslmode=disable
+      MODE: server
+      BASE_URL: http://<PI_IP>:8000
+    depends_on:
+      windmill-db:
+        condition: service_healthy
+
+  windmill-worker:
+    image: ghcr.io/windmill-labs/windmill:main
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgres://postgres:changeme@windmill-db/windmill?sslmode=disable
+      MODE: worker
+      WORKER_GROUP: default
+    depends_on:
+      windmill-db:
+        condition: service_healthy
+    volumes:
+      - /DATA/AppData/windmill/cache:/tmp/windmill/cache
+
+x-casaos:
+  architectures:
+    - arm64
+    - amd64
+  main: windmill-server
+  author: self
+  category: Developer
+  description:
+    en_us: Self-hosted Windmill workflow engine running the quest voiceover pipeline.
+  tagline:
+    en_us: Scripts, flows and schedules.
+  title:
+    en_us: Windmill
+  icon: https://raw.githubusercontent.com/windmill-labs/windmill/main/frontend/static/logo.png
+  port_map: "8000"
+  scheme: http
+  index: /

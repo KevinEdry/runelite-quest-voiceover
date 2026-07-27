@@ -1,0 +1,11 @@
+defaultTs: bun
+includes:
+  - f/**
+excludes: []
+# Secrets are configured directly in the Windmill workspace, never committed.
+skipVariables: false
+skipResources: false
+skipSecrets: true
+skipScripts: false
+skipFlows: false
+skipApps: false

@@ -1,0 +1,48 @@
+summary: Insert generated dialogs into the SQLite database
+description: Downloads the database from the database branch, inserts every
+  non-failed line result that isn't already present, and re-uploads it. Runs
+  once at the end of the flow. Returns a summary of completed / skipped / failed
+  / inserted counts.
+lock: '!inline f/quest_voiceover/write_database.script.lock'
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - questName
+    - results
+    - githubOwner
+    - githubRepo
+    - databaseBranch
+    - dryRun
+  properties:
+    databaseBranch:
+      type: string
+      default: database
+      originalType: string
+    dryRun:
+      type: boolean
+      default: false
+    githubOwner:
+      type: string
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      default: null
+      originalType: string
+    questName:
+      type: string
+      default: null
+      originalType: string
+    results:
+      type: array
+      default: null
+      items:
+        type: resource
+        resourceType: line_result
+      originalType: resource[]
+  required:
+    - questName
+    - results
+    - githubOwner
+    - githubRepo

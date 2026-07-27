@@ -1,0 +1,44 @@
+services:
+  db:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: changeme
+      POSTGRES_DB: windmill
+    volumes:
+      - windmill_db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  windmill_server:
+    image: ghcr.io/windmill-labs/windmill:main
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgres://postgres:changeme@db/windmill?sslmode=disable
+      MODE: server
+      BASE_URL: http://localhost:8000
+    depends_on:
+      db:
+        condition: service_healthy
+
+  windmill_worker:
+    image: ghcr.io/windmill-labs/windmill:main
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgres://postgres:changeme@db/windmill?sslmode=disable
+      MODE: worker
+      WORKER_GROUP: default
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - worker_dependency_cache:/tmp/windmill/cache
+
+volumes:
+  windmill_db_data:
+  worker_dependency_cache:

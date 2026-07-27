@@ -34,6 +34,9 @@ Thumbs.db
 *.sublime-*
 .claude_settings.json
 
+# Surface tool local index
+.surface/
+
 # Temporal worker artifacts
 .temporal/
 

@@ -4,16 +4,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Voice generation pipeline for the RuneLite Quest Voiceover plugin. This branch contains a TypeScript service built on [Restate](https://restate.dev/) that generates voice lines via ElevenLabs API, uploads audio to GitHub, and populates the database used by the plugin.
+Voice generation pipeline for the RuneLite Quest Voiceover plugin. This branch contains a self-hosted [Windmill](https://www.windmill.dev/) flow (in `windmill/`) that generates voice lines via the ElevenLabs API, uploads audio to GitHub, and populates the database used by the plugin.
 
 ## Build Commands
 
 ```bash
-bun install                       # Install dependencies
-bun run service                   # Start the Restate service (src/service.ts)
+bun install                       # Install dependencies (for the scripts/ helpers)
 bun run quest-order               # Run optimal quest order script
-docker compose up                 # Start Restate server
+bun run typecheck                 # Type-check the scripts/ helpers
 ```
+
+The pipeline itself lives in `windmill/` and runs as self-hosted Windmill flows. See
+`windmill/README.md` for setup and running. Test a flow via the Windmill UI with
+`dryRun: true` and a small `limit`.
 
 ## Code Style
 
@@ -40,21 +43,31 @@ docker compose up                 # Start Restate server
 
 ## Architecture
 
-### Source Layout (`src/`)
-- **`service.ts`** - Restate service entry point, registers all workflows
-- **`clients/`** - API client abstractions (ElevenLabs, GitHub)
-- **`providers/`** - Data providers (SQLite database)
-- **`types/`** - Shared TypeScript types
-- **`utilities/`** - Utility functions (text processing, hashing)
-- **`workflows/`** - Restate workflow definitions:
-  - `quest-voiceover/` - Main workflow: generates voice lines for a quest
-  - `backfill-female-voices/` - Backfills Player Female voice lines from existing Player Male lines
-  - `cleanup-voices/` - Removes unused ElevenLabs voices
+### Reusable toolsets (`windmill/f/tools/`)
+Domain modules imported by any flow's step scripts (Windmill resolves relative cross-folder
+imports, e.g. `import { createGitHubClient } from "../tools/git"`). Shared-logic modules with
+no `main`:
+- **`voice.bun.ts`** - ElevenLabs client: setup/create voices, generate speech
+- **`git.bun.ts`** - GitHub client: get/commit files, branches, audio upload
+- **`database.bun.ts`** - SQLite-on-a-branch: download, query, insert, upload the plugin DB
+- **`text.bun.ts`** - Dialogue hashing + template-token cleanup
+- **`retry.bun.ts`** - Shared retry (429 / 5xx / 409) for the API clients
+- **`types.bun.ts`** - Shared domain types
+
+**File extension:** `.bun.ts` marks the Bun runtime (Windmill convention); required for
+`bun:sqlite` / `Buffer`. `.bun.ts` modules only resolve under Windmill's bundler, not plain
+`bun`/`tsc`.
+
+### Flows (`windmill/f/`)
+- **`quest_voiceover/`** - Main flow: setup_voices → expand_targets → generate_loop → write_database. `lib.bun.ts` is a barrel re-exporting the toolsets for this flow's steps.
+- **`regenerate_female_voices/`** - Regenerates all Player Female lines (and fills the ones missing from the old professional-clone voice) onto a feature branch off `sounds`, one commit per line; adds the missing DB rows to a feature branch off `database`.
+
+Secrets are Windmill variables (`f/quest_voiceover/*`); see `windmill/README.md`.
 
 ### Other Files
 - **`pronunciation_dictionary.pls`** - ElevenLabs pronunciation dictionary
 - **`transcripts/`** - Quest transcript JSON files extracted from OSRS Wiki
-- **`scripts/`** - Helper scripts (extract-transcript, optimal-quest-order)
+- **`scripts/`** - Helper scripts (extract-transcript, optimal-quest-order, smoke-test)
 
 ### Git Branch Structure
 
