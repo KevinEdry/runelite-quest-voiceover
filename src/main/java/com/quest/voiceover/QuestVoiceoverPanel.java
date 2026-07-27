@@ -2,6 +2,7 @@ package com.quest.voiceover;
 
 import com.quest.voiceover.modules.database.DatabaseManager;
 import com.quest.voiceover.modules.database.DatabaseVersionManager;
+import com.quest.voiceover.utility.PluginVersionUtility;
 import net.runelite.api.Quest;
 import net.runelite.client.ui.ColorScheme;
 import net.runelite.client.ui.FontManager;
@@ -12,10 +13,9 @@ import net.runelite.client.util.LinkBrowser;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
+import java.awt.geom.Ellipse2D;
+import java.awt.geom.Path2D;
 import java.awt.image.BufferedImage;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.Properties;
 import java.util.Set;
 
 public class QuestVoiceoverPanel extends PluginPanel
@@ -24,27 +24,29 @@ public class QuestVoiceoverPanel extends PluginPanel
     private static final String REQUEST_QUEST_URL = "https://github.com/KevinEdry/runelite-quest-voiceover/issues/new?template=quest-request.yml";
     private static final String REPORT_ISSUE_URL = "https://github.com/KevinEdry/runelite-quest-voiceover/issues/new?template=issue-report.yml";
     private static final String DISCORD_URL = "https://discord.com/invite/tkr6tEbXJr";
+    private static final String KOFI_URL = "https://ko-fi.com/kedry";
+
+    private static final int ICON_SIZE = 24;
+    private static final Color KOFI_RED = new Color(0xFF, 0x5E, 0x5B);
+
+    private static final double HEART_LOBE_RADIUS = ICON_SIZE * 0.20;
+    private static final double HEART_LOBE_CENTER_Y = ICON_SIZE * 0.34;
+    private static final double HEART_LEFT_LOBE_CENTER_X = ICON_SIZE * 0.32;
+    private static final double HEART_RIGHT_LOBE_CENTER_X = ICON_SIZE * 0.68;
+    private static final double HEART_BODY_TOP_LEFT_X = ICON_SIZE * 0.13;
+    private static final double HEART_BODY_TOP_RIGHT_X = ICON_SIZE * 0.87;
+    private static final double HEART_BODY_TOP_Y = ICON_SIZE * 0.40;
+    private static final double HEART_BODY_TIP_X = ICON_SIZE * 0.50;
+    private static final double HEART_BODY_TIP_Y = ICON_SIZE * 0.84;
 
     private static final ImageIcon ARROW_RIGHT_ICON;
     private static final ImageIcon GITHUB_ICON;
     private static final ImageIcon DISCORD_ICON;
+    private static final ImageIcon DONATION_ICON;
 
     static
     {
-        String version = "Unknown";
-        try (InputStream input = QuestVoiceoverPanel.class.getResourceAsStream("version.properties"))
-        {
-            if (input != null)
-            {
-                Properties props = new Properties();
-                props.load(input);
-                version = props.getProperty("version", "Unknown");
-            }
-        }
-        catch (IOException ignored)
-        {
-        }
-        PLUGIN_VERSION = version;
+        PLUGIN_VERSION = PluginVersionUtility.get();
 
         final BufferedImage arrowRight = ImageUtil.loadImageResource(QuestVoiceoverPanel.class, "arrow_right.png");
         ARROW_RIGHT_ICON = new ImageIcon(arrowRight);
@@ -54,6 +56,8 @@ public class QuestVoiceoverPanel extends PluginPanel
 
         final BufferedImage discordIcon = ImageUtil.loadImageResource(QuestVoiceoverPanel.class, "discord_icon.png");
         DISCORD_ICON = new ImageIcon(discordIcon);
+
+        DONATION_ICON = createHeartIcon();
     }
 
     private final JLabel databaseVersionLabel;
@@ -166,6 +170,8 @@ public class QuestVoiceoverPanel extends PluginPanel
         add(buildLinkPanel(GITHUB_ICON, "Report an issue or", "make a suggestion", REPORT_ISSUE_URL));
         add(Box.createVerticalStrut(10));
         add(buildLinkPanel(DISCORD_ICON, "Talk to us on our", "Discord server", DISCORD_URL));
+        add(Box.createVerticalStrut(10));
+        add(buildLinkPanel(DONATION_ICON, "Support the plugin", "on Ko-fi", KOFI_URL));
         add(Box.createVerticalGlue());
     }
 
@@ -191,6 +197,36 @@ public class QuestVoiceoverPanel extends PluginPanel
     private static String htmlLabel(String key, String value)
     {
         return "<html><body>" + key + "<span style='color:white'>" + value + "</span></body></html>";
+    }
+
+    /**
+     * Drawn at runtime rather than shipped as an asset so the donation button needs no
+     * bundled image and carries no third-party logo/trademark.
+     */
+    private static ImageIcon createHeartIcon()
+    {
+        BufferedImage image = new BufferedImage(ICON_SIZE, ICON_SIZE, BufferedImage.TYPE_INT_ARGB);
+        Graphics2D graphics = image.createGraphics();
+        graphics.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
+        graphics.setColor(KOFI_RED);
+
+        double lobeDiameter = HEART_LOBE_RADIUS * 2;
+        graphics.fill(new Ellipse2D.Double(
+            HEART_LEFT_LOBE_CENTER_X - HEART_LOBE_RADIUS, HEART_LOBE_CENTER_Y - HEART_LOBE_RADIUS,
+            lobeDiameter, lobeDiameter));
+        graphics.fill(new Ellipse2D.Double(
+            HEART_RIGHT_LOBE_CENTER_X - HEART_LOBE_RADIUS, HEART_LOBE_CENTER_Y - HEART_LOBE_RADIUS,
+            lobeDiameter, lobeDiameter));
+
+        Path2D.Double body = new Path2D.Double();
+        body.moveTo(HEART_BODY_TOP_LEFT_X, HEART_BODY_TOP_Y);
+        body.lineTo(HEART_BODY_TOP_RIGHT_X, HEART_BODY_TOP_Y);
+        body.lineTo(HEART_BODY_TIP_X, HEART_BODY_TIP_Y);
+        body.closePath();
+        graphics.fill(body);
+
+        graphics.dispose();
+        return new ImageIcon(image);
     }
 
     private static JPanel buildLinkPanel(ImageIcon icon, String topText, String bottomText, String url)
