@@ -1,0 +1,54 @@
+summary: ''
+description: ''
+lock: '!inline f/regenerate_female_voices/prepare_female_regen.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    databaseBranch:
+      type: string
+      description: ''
+      default: database
+      originalType: string
+    featureBranch:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    forceRegenerate:
+      type: boolean
+      description: ''
+      default: true
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    limit:
+      type: number
+      description: ''
+      default: null
+    playerFemaleVoiceId:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    soundsBranch:
+      type: string
+      description: ''
+      default: sounds
+      originalType: string
+    sourceCharacter:
+      type: string
+      description: ''
+      default: Player Male
+      originalType: string
+  required:
+    - githubOwner
+    - githubRepo

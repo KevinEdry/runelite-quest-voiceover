@@ -1,0 +1,177 @@
+summary: Regenerate Player Female voice lines
+description: Regenerates the Player Female voice lines with the configured
+  premade voice (replacing audio produced by the old professional clone) and
+  fills in the lines the clone failed to produce under v3. Each line is
+  committed to a feature branch off the sounds branch (one commit per line) for
+  manual review — no PR is opened. The previously-missing dialog rows are
+  written to a matching feature branch off the database branch. Set dryRun to
+  synthesise without committing; set a limit for a cheap test run first
+  (ElevenLabs is billed even in dry-run).
+value:
+  modules:
+    - id: prepare_female_regen
+      summary: Prepare work list + feature branch
+      value:
+        type: script
+        input_transforms:
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          featureBranch:
+            type: javascript
+            expr: flow_input.featureBranch
+          forceRegenerate:
+            type: javascript
+            expr: flow_input.forceRegenerate
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          limit:
+            type: javascript
+            expr: flow_input.limit
+          playerFemaleVoiceId:
+            type: javascript
+            expr: flow_input.playerFemaleVoiceId
+          soundsBranch:
+            type: javascript
+            expr: flow_input.soundsBranch
+          sourceCharacter:
+            type: javascript
+            expr: flow_input.sourceCharacter
+        path: f/regenerate_female_voices/prepare_female_regen
+    - id: generate_loop
+      summary: Regenerate + commit each line
+      value:
+        type: forloopflow
+        modules:
+          - id: generate_female_line
+            value:
+              type: script
+              input_transforms:
+                dryRun:
+                  type: javascript
+                  expr: flow_input.dryRun
+                featureBranch:
+                  type: javascript
+                  expr: results.prepare_female_regen.featureBranch
+                githubOwner:
+                  type: javascript
+                  expr: flow_input.githubOwner
+                githubRepo:
+                  type: javascript
+                  expr: flow_input.githubRepo
+                soundsBranch:
+                  type: javascript
+                  expr: flow_input.soundsBranch
+                resume:
+                  type: javascript
+                  expr: flow_input.resume
+                target:
+                  type: javascript
+                  expr: flow_input.iter.value
+              path: f/regenerate_female_voices/generate_female_line
+        iterator:
+          type: javascript
+          expr: results.prepare_female_regen.targets
+        parallel: true
+        parallelism:
+          type: static
+          value: 3
+        skip_failures: true
+    - id: write_female_database
+      summary: Write missing rows to a database feature branch
+      value:
+        type: script
+        input_transforms:
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          dryRun:
+            type: javascript
+            expr: flow_input.dryRun
+          featureBranch:
+            type: javascript
+            expr: results.prepare_female_regen.featureBranch
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          results:
+            type: javascript
+            expr: results.generate_loop
+          updateDatabase:
+            type: javascript
+            expr: flow_input.updateDatabase
+        path: f/regenerate_female_voices/write_female_database
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - githubOwner
+    - githubRepo
+    - forceRegenerate
+    - limit
+    - dryRun
+    - resume
+    - updateDatabase
+    - featureBranch
+    - playerFemaleVoiceId
+    - sourceCharacter
+    - soundsBranch
+    - databaseBranch
+  properties:
+    databaseBranch:
+      type: string
+      default: database
+    dryRun:
+      type: boolean
+      description: Synthesise audio without committing anything. Note ElevenLabs is
+        billed even in dry-run.
+      default: false
+    resume:
+      type: boolean
+      description: Skip lines already regenerated on this feature branch in a prior attempt (set featureBranch to the existing branch). Adds a cheap sha check per line; no ElevenLabs cost for skipped lines.
+      default: false
+    featureBranch:
+      type: string
+      description: Branch to commit audio to. Leave blank to auto-name
+        regen-female-voices-<date>-<time> (unique per run).
+    forceRegenerate:
+      type: boolean
+      description: Regenerate every Player Female line. Uncheck to only generate the
+        lines missing from the database.
+      default: true
+    githubOwner:
+      type: string
+      default: KevinEdry
+    githubRepo:
+      type: string
+      default: runelite-quest-voiceover
+    limit:
+      type: integer
+      description: Cap the number of lines processed. Leave blank for all. Use a small
+        value for a cheap first run.
+    playerFemaleVoiceId:
+      type: string
+      description: Optional; falls back to the
+        f/quest_voiceover/player_female_voice_id variable (currently Jessica).
+    soundsBranch:
+      type: string
+      default: sounds
+    sourceCharacter:
+      type: string
+      default: Player Male
+      description: The character whose lines are the source set of player dialog. The plugin's v2 database has all 11,997 player lines under "Player Male".
+    updateDatabase:
+      type: boolean
+      description: Write the previously-missing dialog rows to a feature branch off
+        the database branch.
+      default: true
+  required:
+    - githubOwner
+    - githubRepo

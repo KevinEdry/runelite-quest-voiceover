@@ -1,0 +1,49 @@
+summary: ''
+description: ''
+lock: '!inline f/regenerate_female_voices/write_female_database.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    databaseBranch:
+      type: string
+      description: ''
+      default: database
+      originalType: string
+    dryRun:
+      type: boolean
+      description: ''
+      default: false
+    featureBranch:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    results:
+      type: array
+      description: ''
+      default: null
+      items:
+        type: resource
+        resourceType: regen_line_result
+      originalType: resource[]
+    updateDatabase:
+      type: boolean
+      description: ''
+      default: true
+  required:
+    - results
+    - githubOwner
+    - githubRepo
+    - featureBranch

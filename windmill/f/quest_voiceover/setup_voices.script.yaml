@@ -1,0 +1,30 @@
+summary: Set up ElevenLabs voices for a quest
+description: Lists existing ElevenLabs voices, matches quest characters to them,
+  and creates new voices from descriptions where none match. Returns a character
+  -> voiceId map.
+lock: '!inline f/quest_voiceover/setup_voices.script.lock'
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - characters
+    - playerMaleVoiceId
+    - playerFemaleVoiceId
+  properties:
+    characters:
+      type: array
+      default: null
+      items:
+        type: resource
+        resourceType: character_info
+      originalType: resource[]
+    playerFemaleVoiceId:
+      type: string
+      default: null
+      originalType: string
+    playerMaleVoiceId:
+      type: string
+      default: null
+      originalType: string
+  required:
+    - characters

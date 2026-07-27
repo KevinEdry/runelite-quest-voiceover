@@ -1,0 +1,46 @@
+summary: ''
+description: ''
+lock: '!inline f/regenerate_female_voices/generate_female_line.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    dryRun:
+      type: boolean
+      description: ''
+      default: false
+    featureBranch:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    resume:
+      type: boolean
+      description: ''
+      default: false
+    soundsBranch:
+      type: string
+      description: ''
+      default: sounds
+      originalType: string
+    target:
+      type: object
+      description: ''
+      default: null
+      format: resource-generation_target
+  required:
+    - target
+    - githubOwner
+    - githubRepo
+    - featureBranch

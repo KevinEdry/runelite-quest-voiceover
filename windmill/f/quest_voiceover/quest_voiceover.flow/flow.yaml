@@ -1,0 +1,158 @@
+summary: Quest voiceover
+description: 'Generates voice lines for a single quest: sets up ElevenLabs
+  voices, fans each dialog line out into per-voice targets, generates and
+  uploads the audio to the sounds branch in parallel, then writes the results
+  into the SQLite database on the database branch.'
+value:
+  modules:
+    - id: setup_voices
+      summary: Set up voices
+      value:
+        type: script
+        input_transforms:
+          characters:
+            type: javascript
+            expr: flow_input.characters
+          playerFemaleVoiceId:
+            type: javascript
+            expr: flow_input.playerFemaleVoiceId
+          playerMaleVoiceId:
+            type: javascript
+            expr: flow_input.playerMaleVoiceId
+        path: f/quest_voiceover/setup_voices
+    - id: expand_targets
+      summary: Expand targets
+      value:
+        type: script
+        input_transforms:
+          lines:
+            type: javascript
+            expr: flow_input.lines
+          questName:
+            type: javascript
+            expr: flow_input.questName
+          voiceMap:
+            type: javascript
+            expr: results.setup_voices
+        path: f/quest_voiceover/expand_targets
+    - id: generate_loop
+      summary: Generate audio per line
+      value:
+        type: forloopflow
+        modules:
+          - id: generate_line
+            value:
+              type: script
+              input_transforms:
+                dryRun:
+                  type: javascript
+                  expr: flow_input.dryRun
+                githubOwner:
+                  type: javascript
+                  expr: flow_input.githubOwner
+                githubRepo:
+                  type: javascript
+                  expr: flow_input.githubRepo
+                soundsBranch:
+                  type: javascript
+                  expr: flow_input.soundsBranch
+                target:
+                  type: javascript
+                  expr: flow_input.iter.value
+              path: f/quest_voiceover/generate_line
+        iterator:
+          type: javascript
+          expr: results.expand_targets
+        parallel: true
+        parallelism:
+          type: static
+          value: 3
+        skip_failures: true
+    - id: write_db
+      summary: Write database
+      value:
+        type: script
+        input_transforms:
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          dryRun:
+            type: javascript
+            expr: flow_input.dryRun
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          questName:
+            type: javascript
+            expr: flow_input.questName
+          results:
+            type: javascript
+            expr: results.generate_loop
+        path: f/quest_voiceover/write_database
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - questName
+    - lines
+    - characters
+    - githubOwner
+    - githubRepo
+    - playerMaleVoiceId
+    - playerFemaleVoiceId
+    - soundsBranch
+    - databaseBranch
+    - dryRun
+  properties:
+    characters:
+      type: array
+      items:
+        type: object
+        properties:
+          name:
+            type: string
+          description:
+            type: string
+    databaseBranch:
+      type: string
+      default: database
+    dryRun:
+      type: boolean
+      default: false
+    githubOwner:
+      type: string
+      default: KevinEdry
+    githubRepo:
+      type: string
+      default: runelite-quest-voiceover
+    lines:
+      type: array
+      items:
+        type: object
+        properties:
+          character:
+            type: string
+          line:
+            type: string
+    playerFemaleVoiceId:
+      type: string
+      description: Optional; falls back to the
+        f/quest_voiceover/player_female_voice_id variable.
+    playerMaleVoiceId:
+      type: string
+      description: Optional; falls back to the f/quest_voiceover/player_male_voice_id
+        variable.
+    questName:
+      type: string
+    soundsBranch:
+      type: string
+      default: sounds
+  required:
+    - questName
+    - lines
+    - characters
+    - githubOwner
+    - githubRepo

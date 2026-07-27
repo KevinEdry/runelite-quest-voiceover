@@ -1,0 +1,38 @@
+summary: Generate and upload audio for one dialog target
+description: Skips generation if the hashed audio file already exists on the
+  sounds branch, otherwise synthesises speech via ElevenLabs and uploads the
+  MP3. Returns a line result (completed / skipped / failed) without throwing.
+lock: '!inline f/quest_voiceover/generate_line.script.lock'
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - target
+    - githubOwner
+    - githubRepo
+    - soundsBranch
+    - dryRun
+  properties:
+    dryRun:
+      type: boolean
+      default: false
+    githubOwner:
+      type: string
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      default: null
+      originalType: string
+    soundsBranch:
+      type: string
+      default: sounds
+      originalType: string
+    target:
+      type: object
+      default: null
+      format: resource-generation_target
+  required:
+    - target
+    - githubOwner
+    - githubRepo

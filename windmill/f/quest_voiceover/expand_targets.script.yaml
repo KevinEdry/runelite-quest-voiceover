@@ -1,0 +1,32 @@
+summary: Flatten quest lines into per-voice generation targets
+description: Expands each dialog line into one target per voice (Player fans out
+  to Male and Female), attaches neighbour text, and drops lines whose character
+  has no voice.
+lock: '!inline f/quest_voiceover/expand_targets.script.lock'
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - questName
+    - lines
+    - voiceMap
+  properties:
+    lines:
+      type: array
+      default: null
+      items:
+        type: resource
+        resourceType: dialog_line
+      originalType: resource[]
+    questName:
+      type: string
+      default: null
+      originalType: string
+    voiceMap:
+      type: object
+      default: null
+      format: resource-voice_map
+  required:
+    - questName
+    - lines
+    - voiceMap
