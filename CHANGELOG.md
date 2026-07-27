@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.13.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.12.1...v1.13.0) (2026-07-27)
+
+
+### Features
+
+* add Ko-fi donation button and update changelog message ([c42a6fc](https://github.com/KevinEdry/runelite-quest-voiceover/commit/c42a6fc26554eea145a2cfa752b757bed0122170))
+* add player dialog toggle and finish-last-line option ([c8dc78a](https://github.com/KevinEdry/runelite-quest-voiceover/commit/c8dc78a10cb7c19d5ee076b552f512cc35e7a1f2))
+
 ## [1.12.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.12.0...v1.12.1) (2026-02-12)
 
 
