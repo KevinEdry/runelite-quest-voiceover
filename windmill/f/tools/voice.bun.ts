@@ -149,6 +149,8 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
     if (!cleanText) throw new Error(`Text is empty after cleaning: "${input.text}"`);
 
     const audioData = await withRetry(async () => {
+      // eleven_v3 doesn't support previous_text/next_text yet, so the neighbour context on
+      // the input isn't forwarded to the model.
       const audioStream = await client.textToSpeech.convert(input.voiceId, {
         text: cleanText,
         modelId: "eleven_v3",
@@ -160,8 +162,6 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
           useSpeakerBoost: true,
           speed: 1.5,
         },
-        previousText: input.previousText ? removeSpecialCharacters(input.previousText) : undefined,
-        nextText: input.nextText ? removeSpecialCharacters(input.nextText) : undefined,
       });
 
       const chunks: Buffer[] = [];
