@@ -53,16 +53,11 @@ function matchCharacterToVoice(
   characterName: string,
   existingVoices: readonly VoiceInfo[]
 ): string | null {
+  // Exact (case-insensitive) match only — pipeline voices are named exactly the character
+  // name, and substring matching mis-assigns (e.g. "Ivan Strom" grabbing the "Ivan" voice).
   const normalizedCharacter = characterName.toLowerCase().trim();
   for (const voice of existingVoices) {
-    const normalizedVoiceName = voice.name.toLowerCase().trim();
-    if (normalizedVoiceName === normalizedCharacter) return voice.voiceId;
-    if (
-      normalizedVoiceName.includes(normalizedCharacter) ||
-      normalizedCharacter.includes(normalizedVoiceName)
-    ) {
-      return voice.voiceId;
-    }
+    if (voice.name.toLowerCase().trim() === normalizedCharacter) return voice.voiceId;
   }
   return null;
 }

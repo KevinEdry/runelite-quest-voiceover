@@ -54,6 +54,12 @@ value:
           databaseBranch:
             type: javascript
             expr: flow_input.databaseBranch
+          soundsBranch:
+            type: javascript
+            expr: flow_input.soundsBranch
+          featureBranch:
+            type: javascript
+            expr: flow_input.featureBranch
           playerMaleVoiceId:
             type: javascript
             expr: flow_input.playerMaleVoiceId

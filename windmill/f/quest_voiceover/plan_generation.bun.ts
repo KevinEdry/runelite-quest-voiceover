@@ -7,7 +7,7 @@ import {
 } from "../tools/voice";
 import { createGitHubClient } from "../tools/git";
 import { openDialogsDatabase } from "../tools/database";
-import { removeSpecialCharacters } from "../tools/text";
+import { removeSpecialCharacters, generateDialogHash } from "../tools/text";
 import type { DialogLine } from "../tools/types";
 
 export interface CharacterVoicePlan {
@@ -23,6 +23,8 @@ export interface QuestPlan {
   voicesToCreate: string[];
   totalLines: number;
   totalClips: number;
+  alreadyGenerated: number;
+  clipsToGenerate: number;
   estimatedCharacters: number;
   costPer1kCharacters: number;
   estimatedCostUsd: number;
@@ -37,6 +39,8 @@ export async function main(
   githubRepo: string,
   costPer1kCharacters = 0.1,
   databaseBranch = "database",
+  soundsBranch = "sounds",
+  featureBranch = "",
   playerMaleVoiceId?: string,
   playerFemaleVoiceId?: string
 ): Promise<QuestPlan> {
@@ -58,30 +62,40 @@ export async function main(
       if (plan.voiceMap[character.name]) {
         return { character: character.name, status: "matched", voiceId: plan.voiceMap[character.name] };
       }
-      if (hasAudio(character.name)) {
-        return { character: character.name, status: "to_clone", voiceId: null };
-      }
-      if (character.description) {
-        return { character: character.name, status: "to_create", voiceId: null };
-      }
+      if (hasAudio(character.name)) return { character: character.name, status: "to_clone", voiceId: null };
+      if (character.description) return { character: character.name, status: "to_create", voiceId: null };
       return { character: character.name, status: "missing", voiceId: null };
     });
+  dialogs.database.close();
+  dialogs.cleanup();
 
-  const voiced = new Set(
-    characterPlans.filter((c) => c.status !== "missing").map((c) => c.character)
-  );
+  const voiced = new Set(characterPlans.filter((c) => c.status !== "missing").map((c) => c.character));
 
-  let totalClips = 0;
-  let estimatedCharacters = 0;
+  // One generation target per voiced clip (Player fans out to Player Male + Female).
+  const targets: { hash: string; chars: number }[] = [];
   for (const line of lines) {
     if (line.character !== "Player" && !voiced.has(line.character)) continue;
     const cleanText = removeSpecialCharacters(line.line.trim());
     if (!cleanText) continue;
-    const clips = line.character === "Player" ? 2 : 1;
-    totalClips += clips;
-    estimatedCharacters += cleanText.length * clips;
+    const cast = line.character === "Player" ? ["Player Male", "Player Female"] : [line.character];
+    for (const character of cast) targets.push({ hash: generateDialogHash(character, line.line), chars: cleanText.length });
   }
 
+  // A clip already on the branch it would commit to is skipped, so it doesn't count toward
+  // cost — this makes a re-run/resume show only what's left rather than the whole quest.
+  const branch = featureBranch.length > 0 ? featureBranch : soundsBranch;
+  let alreadyGenerated = 0;
+  let estimatedCharacters = 0;
+  const CONCURRENCY = 40;
+  for (let i = 0; i < targets.length; i += CONCURRENCY) {
+    const batch = targets.slice(i, i + CONCURRENCY);
+    const present = await Promise.all(batch.map((t) => github.checkAudioFileExists(t.hash, branch)));
+    batch.forEach((t, index) => {
+      if (present[index]) alreadyGenerated++;
+      else estimatedCharacters += t.chars;
+    });
+  }
+  const clipsToGenerate = targets.length - alreadyGenerated;
   const estimatedCostUsd = Math.round((estimatedCharacters / 1000) * costPer1kCharacters * 100) / 100;
 
   let subscription: (SubscriptionInfo & { remaining: number }) | null = null;
@@ -92,16 +106,15 @@ export async function main(
     console.warn(`Could not read subscription: ${error instanceof Error ? error.message : String(error)}`);
   }
 
-  dialogs.database.close();
-  dialogs.cleanup();
-
   return {
     questName,
     characters: characterPlans,
     voicesToClone: characterPlans.filter((c) => c.status === "to_clone").map((c) => c.character),
     voicesToCreate: characterPlans.filter((c) => c.status === "to_create").map((c) => c.character),
     totalLines: lines.length,
-    totalClips,
+    totalClips: targets.length,
+    alreadyGenerated,
+    clipsToGenerate,
     estimatedCharacters,
     costPer1kCharacters,
     estimatedCostUsd,
