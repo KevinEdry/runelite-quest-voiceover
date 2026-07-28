@@ -1,0 +1,15 @@
+summary: ''
+description: ''
+lock: '!inline f/clone_voices/approve_clones.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    plan:
+      type: object
+      description: ''
+      default: null
+      format: resource-plan_voice_clones_result
+  required:
+    - plan

@@ -1,0 +1,133 @@
+summary: Clone voices from existing audio
+description: Rebuilds deleted character voices via Instant Voice Cloning from
+  their existing clips on the sounds branch, so future quests keep voice
+  continuity. For each character it collects ~2 minutes of their audio (IVC's
+  sweet spot; more can hurt) and creates a voice named after them. IVC voices
+  are category "cloned", which the cleanup flow never deletes. Characters that
+  already have a voice, or have no existing audio, are skipped. Pauses for
+  approval before creating anything.
+value:
+  modules:
+    - id: plan_voice_clones
+      summary: Plan clones
+      value:
+        type: script
+        input_transforms:
+          characters:
+            type: javascript
+            expr: flow_input.characters
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          soundsBranch:
+            type: javascript
+            expr: flow_input.soundsBranch
+        path: f/clone_voices/plan_voice_clones
+    - id: approve_clones
+      summary: Review + approve
+      value:
+        type: script
+        input_transforms:
+          plan:
+            type: javascript
+            expr: results.plan_voice_clones
+        path: f/clone_voices/approve_clones
+      suspend:
+        hide_cancel: false
+        required_events: 1
+        timeout: 86400
+    - id: clone_loop
+      summary: Clone each character
+      value:
+        type: forloopflow
+        modules:
+          - id: clone_character
+            value:
+              type: script
+              input_transforms:
+                dryRun:
+                  type: javascript
+                  expr: flow_input.dryRun
+                githubOwner:
+                  type: javascript
+                  expr: flow_input.githubOwner
+                githubRepo:
+                  type: javascript
+                  expr: flow_input.githubRepo
+                soundsBranch:
+                  type: javascript
+                  expr: flow_input.soundsBranch
+                target:
+                  type: javascript
+                  expr: flow_input.iter.value
+                targetSeconds:
+                  type: javascript
+                  expr: flow_input.targetSeconds
+              path: f/clone_voices/clone_character
+        iterator:
+          type: javascript
+          expr: results.plan_voice_clones.targets
+        parallel: true
+        parallelism:
+          type: static
+          value: 2
+        skip_failures: true
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - characters
+    - githubOwner
+    - githubRepo
+    - targetSeconds
+    - dryRun
+    - soundsBranch
+    - databaseBranch
+  properties:
+    characters:
+      type: array
+      description: Characters to clone from their existing audio (defaults to the
+        deleted Blood Moon Rises recurring NPCs).
+      default:
+        - Veliaf Hurtz
+        - Vanescula Drakan
+        - Safalaan Hallow
+        - Ivan Strom
+        - Lowerniel Drakan
+        - Aeonisig Raispher
+        - Sarius Guile
+        - Lord Alexei Jovkai
+      items:
+        type: string
+    databaseBranch:
+      type: string
+      default: database
+    dryRun:
+      type: boolean
+      description: Report which characters would be cloned and from how much audio,
+        without creating voices.
+      default: false
+    githubOwner:
+      type: string
+      default: KevinEdry
+    githubRepo:
+      type: string
+      default: runelite-quest-voiceover
+    soundsBranch:
+      type: string
+      default: sounds
+    targetSeconds:
+      type: integer
+      description: Amount of sample audio per clone. ~120s (2 min) is IVC's sweet
+        spot; over ~180s can degrade the clone.
+      default: 120
+  required:
+    - characters
+    - githubOwner
+    - githubRepo

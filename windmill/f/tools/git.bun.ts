@@ -22,6 +22,7 @@ export interface GitHubClient {
   readonly uploadAudioFile: (input: UploadAudioInput) => Promise<string>;
   readonly checkAudioFileExists: (hash: string, soundsBranch: string) => Promise<boolean>;
   readonly getFileSha: (path: string, branch: string) => Promise<string | null>;
+  readonly listDirectory: (path: string, branch: string) => Promise<string[]>;
   readonly branchExists: (branchName: string) => Promise<boolean>;
   readonly createBranch: (branchName: string, sourceBranch: string) => Promise<void>;
 }
@@ -93,9 +94,8 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
   const checkAudioFileExists = async (hash: string, soundsBranch: string): Promise<boolean> =>
     fileExists(`${hash}.mp3`, soundsBranch);
 
-  // The content-addressed git blob sha of a file on a branch (null if absent). Identical
-  // content yields the same sha across branches, so comparing shas tells whether a file
-  // differs from a baseline without downloading it.
+  // Identical content yields the same blob sha across branches, so callers compare shas
+  // to detect whether a file differs from a baseline without downloading it.
   const getFileSha = async (path: string, branch: string): Promise<string | null> => {
     try {
       const response = await octokit.repos.getContent({ owner: config.owner, repo: config.repo, path, ref: branch });
@@ -105,6 +105,12 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
       if (extractStatus(error) === 404) return null;
       throw error;
     }
+  };
+
+  const listDirectory = async (path: string, branch: string): Promise<string[]> => {
+    const response = await octokit.repos.getContent({ owner: config.owner, repo: config.repo, path, ref: branch });
+    if (!Array.isArray(response.data)) return [];
+    return response.data.filter((entry) => entry.type === "file").map((entry) => entry.path);
   };
 
   const branchExists = async (branchName: string): Promise<boolean> => {
@@ -139,6 +145,7 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     uploadAudioFile,
     checkAudioFileExists,
     getFileSha,
+    listDirectory,
     branchExists,
     createBranch,
   };

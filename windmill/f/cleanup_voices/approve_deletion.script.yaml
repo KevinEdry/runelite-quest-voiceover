@@ -1,0 +1,18 @@
+summary: ''
+description: ''
+lock: '!inline f/cleanup_voices/approve_deletion.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    unused:
+      type: array
+      description: ''
+      default: null
+      items:
+        type: resource
+        resourceType: voice_info
+      originalType: resource[]
+  required:
+    - unused

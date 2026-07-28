@@ -8,16 +8,10 @@ export interface RegenLineResult extends LineResult {
   quest: string;
 }
 
-// Regenerates one Player Female line with the configured premade voice and commits it
-// to the feature branch (one commit per line). Unlike the main flow's generate step,
-// it does NOT skip when the file exists on sounds — the point is to overwrite the old
-// professional-clone audio. Failures are returned, not thrown, so skip_failures in the
-// loop keeps one bad line from aborting the run.
-//
-// resume: skip a line already regenerated on this feature branch in a prior attempt.
-// A file whose feature-branch blob differs from the sounds baseline (or is absent from
-// sounds) was written by us this run, so re-running the same featureBranch continues
-// where it stopped without re-billing ElevenLabs.
+// Unlike the main flow, this does not skip lines already on sounds — the whole point is
+// to overwrite the old professional-clone audio. On resume, a feature-branch file whose
+// blob differs from the sounds baseline (or is absent from sounds) was written by us, so
+// it's skipped and the run continues without re-billing ElevenLabs.
 export async function main(
   target: GenerationTarget,
   githubOwner: string,

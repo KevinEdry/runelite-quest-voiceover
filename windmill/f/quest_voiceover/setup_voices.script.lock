@@ -63,7 +63,7 @@
 
     "whatwg-url": ["whatwg-url@5.0.0", "", { "dependencies": { "tr46": "~0.0.3", "webidl-conversions": "^3.0.0" } }, "sha512-saE57nupxk6v3HY35+jzBwYa0rKSy0XR8JSxZPwgLr7ys0IBzhGviA1/TUGJLmSVqs8pb9AnvICXEuOHLprYTw=="],
 
-    "windmill-client": ["windmill-client@1.771.0", "", {}, "sha512-FHpSZNPWl9wm67xZeZI9ZT31IE0KHFX+4od5wZa9OJRZRuC76INXU1EO3Tr0OpASvKtQaaeYpiJuUmqo9oSYRw=="],
+    "windmill-client": ["windmill-client@1.773.0", "", {}, "sha512-2VZZ5MNgFTRp4kWA25EoG//NEKK7NtgdRHSXhW+u2lBjiAaVKOswVs/5e63lNMyBwSLRyJo4WGQQrl0Sya66DQ=="],
 
     "ws": ["ws@8.21.1", "", { "peerDependencies": { "bufferutil": "^4.0.1", "utf-8-validate": ">=5.0.2" }, "optionalPeers": ["bufferutil", "utf-8-validate"] }, "sha512-+0NTnW77fFN/DjQi6k/Sq/Yvk4Sgajw7urW8V+asjXnRgDs9gyGkdb7EzgfhA4goXsRIZKE28fzIXBHEzhuiWw=="],
   }

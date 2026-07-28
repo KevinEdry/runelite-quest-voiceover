@@ -1,14 +1,8 @@
-// Retry helper shared by the API-client toolsets. Windmill runs each loop iteration
-// as a separate job, so rate limiting can't be coordinated in-process; this absorbs
-// the throttling / transient errors that flow concurrency alone doesn't prevent:
-//   - 429 (rate limited) and 5xx (transient server errors)
-//   - 409 — parallel commits racing a branch ref forward; each job writes a distinct
-//     file, so retrying resolves it
-//   - 403 *only when it's a GitHub secondary/abuse rate limit* (never a genuine
-//     permission 403), detected via headers / message
-// When the response carries a Retry-After or X-RateLimit-Reset, that wait is honored
-// instead of blind exponential backoff — GitHub returns 403/429 with these on its
-// secondary limits and expects callers to wait exactly that long.
+// Windmill runs each loop iteration as a separate job, so API rate limits can't be
+// coordinated in-process — this absorbs what flow concurrency alone doesn't prevent.
+// 409 is retryable because parallel commits race a branch ref forward (each job writes a
+// distinct file). GitHub signals its secondary limits with a Retry-After / X-RateLimit-
+// Reset, which is honored instead of blind backoff.
 const RETRYABLE_STATUS = new Set([409, 429, 500, 502, 503, 504]);
 const MAX_ATTEMPTS = 6;
 const MAX_WAIT_MS = 120_000;
@@ -44,7 +38,8 @@ function extractMessage(error: unknown): string {
   return String(error);
 }
 
-// A 403 that is really a rate/abuse limit (not a permission error), or any 429.
+// GitHub returns 403 for both secondary rate limits and permission errors; only the
+// former should be retried.
 function isRateLimit(error: unknown): boolean {
   const status = extractStatus(error);
   if (status === 429) return true;
@@ -55,7 +50,6 @@ function isRateLimit(error: unknown): boolean {
   return message.includes("secondary rate limit") || message.includes("abuse") || message.includes("rate limit");
 }
 
-// Explicit wait requested by the server, in ms, if any.
 function retryAfterMs(error: unknown): number | undefined {
   const headers = extractHeaders(error);
   if (!headers) return undefined;
@@ -85,15 +79,14 @@ export async function withRetry<T>(operation: () => Promise<T>, attempts = MAX_A
       lastError = error;
       const status = extractStatus(error);
       const rateLimited = isRateLimit(error);
-      // Retry transient/rate-limit statuses and network errors (no status); throw
-      // anything else (e.g. a genuine 403/404/422) immediately.
+      // An undefined status is a network error, which is worth retrying.
       const retryable = rateLimited || status === undefined || RETRYABLE_STATUS.has(status);
       if (!retryable) throw error;
 
       const explicitWait = retryAfterMs(error);
       const backoffMs =
         explicitWait !== undefined
-          ? Math.min(MAX_WAIT_MS, explicitWait + 1000) // small buffer past the reset
+          ? Math.min(MAX_WAIT_MS, explicitWait + 1000) // clear the reset window
           : Math.min(60_000, 2 ** attempt * 1000);
 
       console.log(

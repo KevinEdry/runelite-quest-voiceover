@@ -18,6 +18,25 @@ schema:
         type: resource
         resourceType: character_info
       originalType: resource[]
+    databaseBranch:
+      type: string
+      description: ''
+      default: database
+      originalType: string
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    maxClips:
+      type: integer
+      description: ''
+      default: 60
     playerFemaleVoiceId:
       type: string
       default: null
@@ -26,5 +45,16 @@ schema:
       type: string
       default: null
       originalType: string
+    soundsBranch:
+      type: string
+      description: ''
+      default: sounds
+      originalType: string
+    targetSeconds:
+      type: integer
+      description: ''
+      default: 120
   required:
     - characters
+    - githubOwner
+    - githubRepo

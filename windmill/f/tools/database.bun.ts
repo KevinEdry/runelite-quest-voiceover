@@ -20,16 +20,16 @@ export interface DialogsDatabase {
   readonly database: Database;
   readonly dbPath: string;
   readonly getByCharacter: (character: string) => DialogRecord[];
+  readonly getClipUris: (character: string, max: number) => string[];
+  readonly getQuests: () => string[];
   readonly exists: (character: string, text: string) => boolean;
   readonly insert: (record: DialogRecord) => boolean;
   readonly save: (branch: string, message: string) => Promise<number>;
   readonly cleanup: () => void;
 }
 
-// Windmill runs every job stateless, so the plugin database is round-tripped through
-// GitHub: download the file from `branch` into a temp dir, mutate it locally, upload
-// it back. Pass readonly to skip schema creation when only querying. Call cleanup()
-// (or save(), which cleans up after uploading) to remove the temp dir.
+// Windmill jobs are stateless, so the plugin database is round-tripped through GitHub
+// rather than held open across steps.
 export async function openDialogsDatabase(
   github: GitHubClient,
   branch: string,
@@ -66,7 +66,22 @@ export async function openDialogsDatabase(
   const getByCharacter = (character: string): DialogRecord[] =>
     database.query("SELECT quest, character, text, uri FROM dialogs WHERE character = ?").all(character) as DialogRecord[];
 
-  // Inserts unless an identical (character, text) row already exists. Returns whether a row was added.
+  const getQuests = (): string[] =>
+    (database.query("SELECT DISTINCT quest FROM dialogs").all() as { quest: string }[]).map((row) => row.quest);
+
+  // Deduped, longest-first — longer clips reach an IVC sample-duration target with fewer files.
+  const getClipUris = (character: string, max: number): string[] => {
+    const seen = new Set<string>();
+    const uris: string[] = [];
+    for (const row of getByCharacter(character).sort((a, b) => b.text.length - a.text.length)) {
+      if (seen.has(row.uri)) continue;
+      seen.add(row.uri);
+      uris.push(row.uri);
+      if (uris.length >= max) break;
+    }
+    return uris;
+  };
+
   const insert = (record: DialogRecord): boolean => {
     if (exists(record.character, record.text)) return false;
     insertStmt.run(record.quest, record.character, record.text, record.uri);
@@ -86,5 +101,5 @@ export async function openDialogsDatabase(
     return content.length;
   };
 
-  return { database, dbPath, getByCharacter, exists, insert, save, cleanup };
+  return { database, dbPath, getByCharacter, getClipUris, getQuests, exists, insert, save, cleanup };
 }

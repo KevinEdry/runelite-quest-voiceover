@@ -1,0 +1,32 @@
+summary: ''
+description: ''
+lock: '!inline f/quest_voiceover/load_transcript.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    quest:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    transcriptsBranch:
+      type: string
+      description: ''
+      default: automations
+      originalType: string
+  required:
+    - quest
+    - githubOwner
+    - githubRepo

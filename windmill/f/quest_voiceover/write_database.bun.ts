@@ -10,15 +10,15 @@ export interface QuestSummary {
   skipped: number;
   failed: number;
   inserted: number;
+  databaseFeatureBranch: string | null;
 }
 
-// Consolidated database write. Every generation job is independent, so the
-// download -> insert-all -> upload cycle happens exactly once, at the end.
 export async function main(
   questName: string,
   results: LineResult[],
   githubOwner: string,
   githubRepo: string,
+  featureBranch: string,
   databaseBranch = "database",
   dryRun = false
 ): Promise<QuestSummary> {
@@ -38,18 +38,27 @@ export async function main(
   const completed = results.filter((r) => r?.status === "completed").length;
   const skipped = results.filter((r) => r?.status === "skipped").length;
   const failed = results.filter((r) => r?.status === "failed").length;
+  const databaseFeatureBranch = `${featureBranch}-db`;
+
+  const summary = { questName, totalTargets: results.length, completed, skipped, failed, inserted };
 
   if (dryRun) {
-    console.log(`[DRY RUN] Would upload database with ${inserted} new rows`);
+    console.log(`[DRY RUN] Would write ${inserted} rows to ${databaseFeatureBranch}`);
     dialogs.database.close();
     dialogs.cleanup();
-  } else if (inserted > 0) {
-    await dialogs.save(databaseBranch, "feat: Update quest voiceover database");
-  } else {
-    console.log("No new rows; skipping database upload");
-    dialogs.database.close();
-    dialogs.cleanup();
+    return { ...summary, databaseFeatureBranch };
   }
 
-  return { questName, totalTargets: results.length, completed, skipped, failed, inserted };
+  if (inserted === 0) {
+    dialogs.database.close();
+    dialogs.cleanup();
+    return { ...summary, databaseFeatureBranch: null };
+  }
+
+  if (!(await github.branchExists(databaseFeatureBranch))) {
+    await github.createBranch(databaseFeatureBranch, databaseBranch);
+  }
+  await dialogs.save(databaseFeatureBranch, `feat: Add ${inserted} dialog rows for ${questName}`);
+
+  return { ...summary, databaseFeatureBranch };
 }

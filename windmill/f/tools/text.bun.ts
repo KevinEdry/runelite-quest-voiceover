@@ -1,7 +1,6 @@
 import { createHash } from "crypto";
 
-// Strips OSRS dialogue template tokens ([player name], [he/she], ...) that would
-// otherwise be read aloud, normalising gendered variants to a single form.
+// Template tokens like [player name] / [he/she] would otherwise be read aloud verbatim.
 export function removeSpecialCharacters(line: string): string {
   return line
     .replace(/\[player name\]/gi, "")
@@ -20,8 +19,7 @@ export function removeSpecialCharacters(line: string): string {
     .trim();
 }
 
-// Audio filenames are the MD5 of `${character}|${line}`, keeping references stable
-// between the database and the sounds branch.
+// This hash is the audio filename convention shared with the sounds branch and the plugin.
 export function generateDialogHash(character: string, line: string): string {
   return createHash("md5").update(`${character}|${line}`).digest("hex");
 }
