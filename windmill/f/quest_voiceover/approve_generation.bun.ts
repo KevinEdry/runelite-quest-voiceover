@@ -10,18 +10,13 @@ export async function main(plan: QuestPlan) {
     to_create: "new voice",
     missing: "NO VOICE (skipped)",
   };
-  const breakdown = plan.characters
-    .map((c) => `| ${c.character} | ${c.status === "matched" ? c.voiceId : label[c.status]} |`)
-    .join("\n");
-
+  const breakdown = plan.characters.map((c) => `- ${c.character} — ${label[c.status]}`).join("\n");
   const list = (names: string[], empty: string) =>
     names.length > 0 ? names.map((name) => `- ${name}`).join("\n") : empty;
-  const voicesToClone = list(plan.voicesToClone, "_none_");
-  const voicesToCreate = list(plan.voicesToCreate, "_none_");
 
   const quota = plan.subscription
-    ? `**Plan:** ${plan.subscription.tier} · used ${plan.subscription.characterCount.toLocaleString()} / ` +
-      `${plan.subscription.characterLimit.toLocaleString()} · **${plan.subscription.remaining.toLocaleString()} characters remaining** this cycle`
+    ? `**Plan:** ${plan.subscription.tier} · ${plan.subscription.remaining.toLocaleString()} of ` +
+      `${plan.subscription.characterLimit.toLocaleString()} characters remaining this cycle`
     : "_subscription/quota unavailable_";
 
   return {
@@ -33,14 +28,15 @@ export async function main(plan: QuestPlan) {
         { markdown: `# Generate voiceover — ${plan.questName}` },
         {
           markdown:
-            `**Lines:** ${plan.totalLines} · **Clips to generate:** ${plan.totalClips}\n\n` +
+            `**Clips to generate:** ${plan.clipsToGenerate.toLocaleString()} ` +
+            `(of ${plan.totalClips.toLocaleString()} total; ${plan.alreadyGenerated.toLocaleString()} already done, skipped)\n\n` +
             `**Estimated characters:** ${plan.estimatedCharacters.toLocaleString()}\n\n` +
             `**Estimated cost:** $${plan.estimatedCostUsd} (at $${plan.costPer1kCharacters} / 1K characters)\n\n` +
             quota,
         },
-        { markdown: `## Voices to clone from existing audio (${plan.voicesToClone.length})\n${voicesToClone}` },
-        { markdown: `## New voices to create (${plan.voicesToCreate.length})\n${voicesToCreate}` },
-        { markdown: `## Character → voice\n| Character | Voice |\n|---|---|\n${breakdown}` },
+        { markdown: `## Voices to clone from existing audio (${plan.voicesToClone.length})\n${list(plan.voicesToClone, "_none_")}` },
+        { markdown: `## New voices to create (${plan.voicesToCreate.length})\n${list(plan.voicesToCreate, "_none_")}` },
+        { markdown: `## Character → voice\n${breakdown}` },
       ],
     },
   };
