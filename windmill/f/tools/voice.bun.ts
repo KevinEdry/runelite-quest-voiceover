@@ -101,6 +101,9 @@ export interface SubscriptionInfo {
   resetAtUnix: number;
 }
 
+const VOICE_PREVIEW_TEXT =
+  "Hello there. Thank you for coming to speak with me today. I hope this short sample gives you a clear sense of how my voice sounds.";
+
 export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
   const client = new ElevenLabsApi({ apiKey });
 
@@ -174,7 +177,10 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
       client.textToVoice.design({
         voiceDescription: character.description,
         modelId: "eleven_ttv_v3",
-        autoGenerateText: true,
+        // A fixed neutral sample instead of auto-generated text — auto-generation elaborates
+        // the (often dark, vampyre) description into sample text that trips ElevenLabs' safety
+        // filter, blocking the design.
+        text: VOICE_PREVIEW_TEXT,
       })
     );
     const preview = result.previews[0];
@@ -204,19 +210,27 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
     for (const character of characters) {
       if (character.name === "Player" || voiceMap[character.name]) continue;
 
-      // A character with existing audio but no voice was cloned away or deleted — rebuild it
-      // via IVC from its own clips so it keeps continuity, rather than designing a new voice.
-      const samples = resolveSamples ? await resolveSamples(character.name) : null;
-      if (samples && samples.length > 0) {
-        voiceMap[character.name] = await createInstantVoiceClone(
-          character.name,
-          samples,
-          `Continuity clone of ${character.name} rebuilt from existing audio.`
+      try {
+        // A character with existing audio but no voice was cloned away or deleted — rebuild it
+        // via IVC from its own clips so it keeps continuity, rather than designing a new voice.
+        const samples = resolveSamples ? await resolveSamples(character.name) : null;
+        if (samples && samples.length > 0) {
+          voiceMap[character.name] = await createInstantVoiceClone(
+            character.name,
+            samples,
+            `Continuity clone of ${character.name} rebuilt from existing audio.`
+          );
+        } else if (character.description) {
+          voiceMap[character.name] = await generateAndCreateVoice(character);
+        } else {
+          console.warn(`No voice, no audio, and no description for: ${character.name}, skipping`);
+        }
+      } catch (error) {
+        // One voice failure (e.g. a safety-blocked design) shouldn't abort the whole quest —
+        // skip this character (its lines are dropped in expand_targets) and continue.
+        console.error(
+          `Voice setup failed for ${character.name}, skipping: ${error instanceof Error ? error.message : String(error)}`
         );
-      } else if (character.description) {
-        voiceMap[character.name] = await generateAndCreateVoice(character);
-      } else {
-        console.warn(`No voice, no audio, and no description for: ${character.name}, skipping`);
       }
     }
 
