@@ -176,7 +176,11 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
 
   const generateAndCreateVoice = async (character: CharacterInfo): Promise<string> => {
     const result = await withRetry(() =>
-      client.textToVoice.design({ voiceDescription: character.description, modelId: "eleven_ttv_v3" })
+      client.textToVoice.design({
+        voiceDescription: character.description,
+        modelId: "eleven_ttv_v3",
+        autoGenerateText: true,
+      })
     );
     const preview = result.previews[0];
     if (!preview) throw new Error(`No voice preview generated for ${character.name}`);
