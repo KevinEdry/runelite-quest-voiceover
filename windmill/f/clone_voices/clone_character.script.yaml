@@ -1,0 +1,40 @@
+summary: ''
+description: ''
+lock: '!inline f/clone_voices/clone_character.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    dryRun:
+      type: boolean
+      description: ''
+      default: false
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    soundsBranch:
+      type: string
+      description: ''
+      default: sounds
+      originalType: string
+    target:
+      type: object
+      description: ''
+      default: null
+      format: resource-clone_target
+    targetSeconds:
+      type: integer
+      description: ''
+      default: 120
+  required:
+    - target
+    - githubOwner
+    - githubRepo

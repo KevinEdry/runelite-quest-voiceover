@@ -10,11 +10,8 @@ export interface WriteFemaleDatabaseResult {
   inserted: number;
 }
 
-// Adds the previously-missing Player Female rows to the database. Regenerated-in-place
-// lines keep the same filename, so their existing rows already point at the right file
-// and need no change — insert() dedupes them out. The new rows reference audio that
-// lives on the audio feature branch, so they are written to a matching feature branch
-// off the database branch; merge both branches together.
+// New rows reference audio on the audio feature branch, so they go to a matching feature
+// branch off the database branch — merge both together.
 export async function main(
   results: RegenLineResult[],
   githubOwner: string,
@@ -37,9 +34,7 @@ export async function main(
 
   const dialogs = await openDialogsDatabase(github, databaseBranch);
 
-  // Insert every line that produced a file (completed, or skipped-because-already-
-  // regenerated on a resume) — not failures. insert() dedupes, so rows already present
-  // from an earlier attempt are harmless.
+  // A resume-skipped line still produced a file, so it counts too — only failures don't.
   let inserted = 0;
   for (const result of results) {
     if (!result || result.status === "failed" || !result.uri) continue;

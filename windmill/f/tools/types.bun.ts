@@ -1,5 +1,3 @@
-// Shared domain types used across flows and toolsets.
-
 export interface DialogLine {
   character: string;
   line: string;

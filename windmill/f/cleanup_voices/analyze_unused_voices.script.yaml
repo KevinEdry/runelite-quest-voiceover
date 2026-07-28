@@ -1,0 +1,36 @@
+summary: ''
+description: ''
+lock: '!inline f/cleanup_voices/analyze_unused_voices.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    databaseBranch:
+      type: string
+      description: ''
+      default: database
+      originalType: string
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    transcriptsBranch:
+      type: string
+      description: ''
+      default: automations
+      originalType: string
+    transcriptsPath:
+      type: string
+      description: ''
+      default: transcripts
+      originalType: string
+  required:
+    - githubOwner
+    - githubRepo

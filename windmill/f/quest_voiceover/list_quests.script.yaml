@@ -1,0 +1,34 @@
+summary: ''
+description: ''
+lock: '!inline f/quest_voiceover/list_quests.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    databaseBranch:
+      type: string
+      description: ''
+      default: database
+      originalType: string
+    githubOwner:
+      type: string
+      description: ''
+      default: KevinEdry
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: runelite-quest-voiceover
+      originalType: string
+    transcriptsBranch:
+      type: string
+      description: ''
+      default: automations
+      originalType: string
+    transcriptsPath:
+      type: string
+      description: ''
+      default: transcripts
+      originalType: string
+  required: []

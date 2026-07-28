@@ -4,9 +4,8 @@ import { openDialogsDatabase } from "../tools/database";
 import type { GenerationTarget } from "../tools/types";
 
 export interface FemaleRegenTarget extends GenerationTarget {
-  // Whether a Player Female row already exists in the database for this text.
-  // Regenerated-in-place lines keep the same filename (hash), so only the ones
-  // NOT already in the database need a new row written at the end.
+  // Regenerating overwrites the same filename, so only lines without an existing row
+  // need one written at the end.
   alreadyInDatabase: boolean;
 }
 
@@ -19,12 +18,8 @@ export interface PrepareFemaleRegenResult {
   targets: FemaleRegenTarget[];
 }
 
-// Builds the work list from the player dialog rows — the authoritative set of player
-// lines (sourceCharacter, "Player Male" in the plugin's v2 database, which has all 11,997
-// player lines). Each unique player text maps to a Player Female target. forceRegenerate=true
-// regenerates every line; false processes only the lines missing a Player Female row (the
-// ones the professional clone failed to produce under v3). Also creates the feature branch
-// off the sounds branch.
+// sourceCharacter ("Player Male") is the authoritative set of player lines — the plugin's
+// v2 database has every player line under it.
 export async function main(
   githubOwner: string,
   githubRepo: string,
@@ -52,8 +47,7 @@ export async function main(
   const seenTexts = new Set<string>();
   const allTargets: FemaleRegenTarget[] = [];
   for (const line of dialogs.getByCharacter(sourceCharacter)) {
-    // The hash (and therefore the audio file) is character|text, quest-independent,
-    // so the same line reused across quests is one target.
+    // The hash is quest-independent, so a line reused across quests is a single target.
     if (seenTexts.has(line.text)) continue;
     seenTexts.add(line.text);
     allTargets.push({

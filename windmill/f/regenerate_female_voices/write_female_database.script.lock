@@ -49,6 +49,6 @@
 
     "universal-user-agent": ["universal-user-agent@7.0.3", "", {}, "sha512-TmnEAEAsBJVZM/AADELsK76llnwcf9vMKuPz8JflO1frO8Lchitr0fNaN9d+Ap0BjKtqWqd/J17qeDnXh8CL2A=="],
 
-    "windmill-client": ["windmill-client@1.771.0", "", {}, "sha512-FHpSZNPWl9wm67xZeZI9ZT31IE0KHFX+4od5wZa9OJRZRuC76INXU1EO3Tr0OpASvKtQaaeYpiJuUmqo9oSYRw=="],
+    "windmill-client": ["windmill-client@1.773.0", "", {}, "sha512-2VZZ5MNgFTRp4kWA25EoG//NEKK7NtgdRHSXhW+u2lBjiAaVKOswVs/5e63lNMyBwSLRyJo4WGQQrl0Sya66DQ=="],
   }
 }

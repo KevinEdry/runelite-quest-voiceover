@@ -7,15 +7,13 @@ import {
   type LineResult,
 } from "./lib";
 
-// One job per generation target: skip if the audio already exists on the sounds
-// branch, otherwise synthesise speech and upload it. Audio never leaves this job,
-// so the binary buffer is never serialised across a flow step boundary. Failures
-// are returned (not thrown) so a single bad line can't abort the whole quest.
 export async function main(
   target: GenerationTarget,
   githubOwner: string,
   githubRepo: string,
+  featureBranch: string,
   soundsBranch = "sounds",
+  resume = false,
   dryRun = false
 ): Promise<LineResult> {
   const hash = generateDialogHash(target.character, target.text);
@@ -26,6 +24,11 @@ export async function main(
     const github = createGitHubClient({ token: githubToken, owner: githubOwner, repo: githubRepo });
 
     if (await github.checkAudioFileExists(hash, soundsBranch)) {
+      return { ...base, uri: `${hash}.mp3`, status: "skipped" };
+    }
+
+    // On the feature branch but not on sounds means we committed it on a prior attempt.
+    if (resume && (await github.checkAudioFileExists(hash, featureBranch))) {
       return { ...base, uri: `${hash}.mp3`, status: "skipped" };
     }
 
@@ -40,7 +43,7 @@ export async function main(
     });
 
     if (dryRun) {
-      console.log(`[DRY RUN] Would upload ${hash}.mp3 (${target.character})`);
+      console.log(`[DRY RUN] Would commit ${hash}.mp3 (${target.character}) to ${featureBranch}`);
       return { ...base, uri: `${hash}.mp3`, status: "completed" };
     }
 
@@ -49,7 +52,7 @@ export async function main(
       hash: speech.hash,
       questName: target.questName,
       character: target.character,
-      soundsBranch,
+      soundsBranch: featureBranch,
     });
     return { ...base, uri, status: "completed" };
   } catch (error) {

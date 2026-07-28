@@ -59,8 +59,12 @@ no `main`:
 `bun`/`tsc`.
 
 ### Flows (`windmill/f/`)
-- **`quest_voiceover/`** - Main flow: setup_voices → expand_targets → generate_loop → write_database. `lib.bun.ts` is a barrel re-exporting the toolsets for this flow's steps.
+- **`quest_voiceover/`** - Main flow: plan_generation → approve_generation (human approval, shows voices-to-create + character/voice breakdown + estimated characters and cost) → setup_voices → expand_targets → generate_loop → write_database. Commits audio to a feature branch off `sounds` and DB rows to a `…-db` branch off `database`; supports `dryRun` and `resume`. `lib.bun.ts` is a barrel re-exporting the toolsets for this flow's steps.
 - **`regenerate_female_voices/`** - Regenerates all Player Female lines (and fills the ones missing from the old professional-clone voice) onto a feature branch off `sounds`, one commit per line; adds the missing DB rows to a feature branch off `database`.
+- **`cleanup_voices/`** - Deletes ElevenLabs `generated` voices whose character won't appear in a future (not-yet-voiced) quest. Preserves premade/professional/cloned and the player voices; suspends for human approval before deleting (approve to continue, reject to stop).
+- **`clone_voices/`** - Rebuilds deleted character voices via Instant Voice Cloning (IVC) from their existing clips on the `sounds` branch (~2 min of audio each — IVC's sweet spot), naming each after the character so generation name-matches it. IVC voices are category `cloned`, so `cleanup_voices` never deletes them. Suspends for approval before creating voices.
+
+**Voice continuity note:** ElevenLabs voice *design* (text-to-voice from a description) is non-deterministic, so a deleted `generated` voice cannot be recreated identically from its description. To preserve continuity for a recurring character whose voice was deleted, IVC-clone it from its existing audio (`clone_voices`) rather than regenerating from the description.
 
 Secrets are Windmill variables (`f/quest_voiceover/*`); see `windmill/README.md`.
 

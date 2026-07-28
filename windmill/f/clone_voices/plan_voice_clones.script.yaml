@@ -1,0 +1,43 @@
+summary: ''
+description: ''
+lock: '!inline f/clone_voices/plan_voice_clones.script.lock'
+kind: script
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  properties:
+    characters:
+      type: array
+      description: ''
+      default: null
+      items:
+        type: string
+      originalType: string[]
+    databaseBranch:
+      type: string
+      description: ''
+      default: database
+      originalType: string
+    githubOwner:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    githubRepo:
+      type: string
+      description: ''
+      default: null
+      originalType: string
+    maxCandidateClips:
+      type: integer
+      description: ''
+      default: 60
+    soundsBranch:
+      type: string
+      description: ''
+      default: sounds
+      originalType: string
+  required:
+    - characters
+    - githubOwner
+    - githubRepo

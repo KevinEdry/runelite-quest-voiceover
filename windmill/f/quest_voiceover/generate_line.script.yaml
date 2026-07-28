@@ -16,6 +16,11 @@ schema:
     dryRun:
       type: boolean
       default: false
+    featureBranch:
+      type: string
+      description: ''
+      default: null
+      originalType: string
     githubOwner:
       type: string
       default: null
@@ -24,6 +29,10 @@ schema:
       type: string
       default: null
       originalType: string
+    resume:
+      type: boolean
+      description: ''
+      default: false
     soundsBranch:
       type: string
       default: sounds
@@ -36,3 +45,4 @@ schema:
     - target
     - githubOwner
     - githubRepo
+    - featureBranch

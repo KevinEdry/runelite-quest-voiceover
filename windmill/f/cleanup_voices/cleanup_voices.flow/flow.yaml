@@ -1,0 +1,94 @@
+summary: Cleanup ElevenLabs voices
+description: 'Deletes ElevenLabs voices that won''t be used by future quest
+  generations. A voice is kept if its character appears in a quest that hasn''t
+  been voiced yet (a transcript whose quest is not in the database); voices only
+  used by already-completed quests are removed. Only pipeline-created
+  ("generated") voices are ever deleted — premade/professional/cloned voices and
+  the configured player voices are always preserved. The flow pauses for human
+  approval before deleting anything: approve to continue, reject to stop.'
+value:
+  modules:
+    - id: analyze_unused_voices
+      summary: Find unused voices
+      value:
+        type: script
+        input_transforms:
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          transcriptsBranch:
+            type: javascript
+            expr: flow_input.transcriptsBranch
+          transcriptsPath:
+            type: javascript
+            expr: flow_input.transcriptsPath
+        path: f/cleanup_voices/analyze_unused_voices
+    - id: approve_deletion
+      summary: Review + approve deletion
+      value:
+        type: script
+        input_transforms:
+          unused:
+            type: javascript
+            expr: results.analyze_unused_voices.unused
+        path: f/cleanup_voices/approve_deletion
+      suspend:
+        hide_cancel: false
+        required_events: 1
+        timeout: 86400
+    - id: delete_loop
+      summary: Delete each unused voice
+      value:
+        type: forloopflow
+        modules:
+          - id: delete_voice
+            value:
+              type: script
+              input_transforms:
+                voice:
+                  type: javascript
+                  expr: flow_input.iter.value
+              path: f/cleanup_voices/delete_voice
+        iterator:
+          type: javascript
+          expr: results.analyze_unused_voices.unused
+        parallel: true
+        parallelism:
+          type: static
+          value: 3
+        skip_failures: true
+schema:
+  $schema: https://json-schema.org/draft/2020-12/schema
+  type: object
+  order:
+    - githubOwner
+    - githubRepo
+    - transcriptsBranch
+    - transcriptsPath
+    - databaseBranch
+  properties:
+    databaseBranch:
+      type: string
+      default: database
+    githubOwner:
+      type: string
+      default: KevinEdry
+    githubRepo:
+      type: string
+      default: runelite-quest-voiceover
+    transcriptsBranch:
+      type: string
+      description: Branch holding the transcripts/ directory that defines upcoming quests.
+      default: automations
+    transcriptsPath:
+      type: string
+      default: transcripts
+  required:
+    - githubOwner
+    - githubRepo

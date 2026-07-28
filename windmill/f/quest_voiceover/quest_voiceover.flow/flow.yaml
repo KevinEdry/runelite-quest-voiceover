@@ -1,42 +1,138 @@
 summary: Quest voiceover
-description: 'Generates voice lines for a single quest: sets up ElevenLabs
-  voices, fans each dialog line out into per-voice targets, generates and
-  uploads the audio to the sounds branch in parallel, then writes the results
-  into the SQLite database on the database branch.'
+description: >-
+  Generates voice lines for a single quest. Pick the quest from the dropdown (transcripts you
+  have, [ ] not generated first, [x] already generated); the flow loads its lines and characters,
+  previews the plan — voices to create, the character/voice breakdown, and the estimated
+  ElevenLabs characters and cost — and pauses for approval. On approval it matches/creates the
+  voices, fans each dialog line into per-voice targets (Player fans out to Player Male + Female),
+  commits the audio to a feature branch off sounds (one commit per line), and writes the new
+  dialog rows to a matching feature branch off the database branch. Set dryRun to synthesise
+  without committing; set resume + the existing featureBranch to continue an interrupted run.
 value:
   modules:
+    - id: load_transcript
+      summary: Load the selected quest transcript
+      value:
+        type: script
+        input_transforms:
+          quest:
+            type: javascript
+            expr: flow_input.quest?.value ?? flow_input.quest
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          transcriptsBranch:
+            type: javascript
+            expr: flow_input.transcriptsBranch
+        path: f/quest_voiceover/load_transcript
+    - id: plan_generation
+      summary: Plan + estimate
+      value:
+        type: script
+        input_transforms:
+          questName:
+            type: javascript
+            expr: results.load_transcript.questName
+          lines:
+            type: javascript
+            expr: results.load_transcript.lines
+          characters:
+            type: javascript
+            expr: results.load_transcript.characters
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          costPer1kCharacters:
+            type: javascript
+            expr: flow_input.costPer1kCharacters
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          playerMaleVoiceId:
+            type: javascript
+            expr: flow_input.playerMaleVoiceId
+          playerFemaleVoiceId:
+            type: javascript
+            expr: flow_input.playerFemaleVoiceId
+        path: f/quest_voiceover/plan_generation
+    - id: approve_generation
+      summary: Review + approve
+      value:
+        type: script
+        input_transforms:
+          plan:
+            type: javascript
+            expr: results.plan_generation
+        path: f/quest_voiceover/approve_generation
+      suspend:
+        required_events: 1
+        timeout: 86400
+        hide_cancel: false
     - id: setup_voices
-      summary: Set up voices
+      summary: Set up voices (match / clone / create)
       value:
         type: script
         input_transforms:
           characters:
             type: javascript
-            expr: flow_input.characters
+            expr: results.load_transcript.characters
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
           playerFemaleVoiceId:
             type: javascript
             expr: flow_input.playerFemaleVoiceId
           playerMaleVoiceId:
             type: javascript
             expr: flow_input.playerMaleVoiceId
+          soundsBranch:
+            type: javascript
+            expr: flow_input.soundsBranch
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          targetSeconds:
+            type: javascript
+            expr: flow_input.targetSeconds
         path: f/quest_voiceover/setup_voices
     - id: expand_targets
-      summary: Expand targets
+      summary: Expand targets + create feature branch
       value:
         type: script
         input_transforms:
-          lines:
-            type: javascript
-            expr: flow_input.lines
           questName:
             type: javascript
-            expr: flow_input.questName
+            expr: results.load_transcript.questName
+          lines:
+            type: javascript
+            expr: results.load_transcript.lines
           voiceMap:
             type: javascript
             expr: results.setup_voices
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          soundsBranch:
+            type: javascript
+            expr: flow_input.soundsBranch
+          featureBranch:
+            type: javascript
+            expr: flow_input.featureBranch
         path: f/quest_voiceover/expand_targets
     - id: generate_loop
-      summary: Generate audio per line
+      summary: Generate + commit audio per line
       value:
         type: forloopflow
         modules:
@@ -44,25 +140,31 @@ value:
             value:
               type: script
               input_transforms:
-                dryRun:
+                target:
                   type: javascript
-                  expr: flow_input.dryRun
+                  expr: flow_input.iter.value
                 githubOwner:
                   type: javascript
                   expr: flow_input.githubOwner
                 githubRepo:
                   type: javascript
                   expr: flow_input.githubRepo
+                featureBranch:
+                  type: javascript
+                  expr: results.expand_targets.featureBranch
                 soundsBranch:
                   type: javascript
                   expr: flow_input.soundsBranch
-                target:
+                resume:
                   type: javascript
-                  expr: flow_input.iter.value
+                  expr: flow_input.resume
+                dryRun:
+                  type: javascript
+                  expr: flow_input.dryRun
               path: f/quest_voiceover/generate_line
         iterator:
           type: javascript
-          expr: results.expand_targets
+          expr: results.expand_targets.targets
         parallel: true
         parallelism:
           type: static
@@ -73,86 +175,99 @@ value:
       value:
         type: script
         input_transforms:
-          databaseBranch:
+          questName:
             type: javascript
-            expr: flow_input.databaseBranch
-          dryRun:
+            expr: results.load_transcript.questName
+          results:
             type: javascript
-            expr: flow_input.dryRun
+            expr: results.generate_loop
           githubOwner:
             type: javascript
             expr: flow_input.githubOwner
           githubRepo:
             type: javascript
             expr: flow_input.githubRepo
-          questName:
+          featureBranch:
             type: javascript
-            expr: flow_input.questName
-          results:
+            expr: results.expand_targets.featureBranch
+          databaseBranch:
             type: javascript
-            expr: results.generate_loop
+            expr: flow_input.databaseBranch
+          dryRun:
+            type: javascript
+            expr: flow_input.dryRun
         path: f/quest_voiceover/write_database
 schema:
   $schema: https://json-schema.org/draft/2020-12/schema
   type: object
+  x-windmill-dyn-select-lang: bun
+  x-windmill-dyn-select-code: |
+    import { main as listQuests } from "/f/quest_voiceover/list_quests";
+
+    export async function quest(githubOwner: string, githubRepo: string, transcriptsBranch: string) {
+      return await listQuests(githubOwner, githubRepo, transcriptsBranch);
+    }
   order:
-    - questName
-    - lines
-    - characters
+    - quest
     - githubOwner
     - githubRepo
+    - costPer1kCharacters
+    - targetSeconds
+    - dryRun
+    - resume
+    - featureBranch
     - playerMaleVoiceId
     - playerFemaleVoiceId
     - soundsBranch
     - databaseBranch
-    - dryRun
+    - transcriptsBranch
   properties:
-    characters:
-      type: array
-      items:
-        type: object
-        properties:
-          name:
-            type: string
-          description:
-            type: string
+    quest:
+      type: object
+      format: dynselect-quest
+      description: The quest transcript to voice — dynamic dropdown ([ ] not generated first, [x] already generated). Value is the transcript file path.
+    costPer1kCharacters:
+      type: number
+      default: 0.1
+      description: ElevenLabs price per 1,000 characters, used for the cost estimate on the approval page.
+    targetSeconds:
+      type: integer
+      default: 120
+      description: Sample audio per IVC clone when a character has audio but its voice was deleted. ~120s (2 min) is the sweet spot.
     databaseBranch:
       type: string
       default: database
     dryRun:
       type: boolean
       default: false
+      description: Synthesise audio without committing anything. ElevenLabs is billed even in dry-run.
+    resume:
+      type: boolean
+      default: false
+      description: Skip lines already committed to this feature branch in a prior attempt (set featureBranch to the existing branch).
+    featureBranch:
+      type: string
+      description: Branch to commit audio to. Leave blank to auto-name voiceover-<quest>-<date>-<time> (reused if it already exists).
     githubOwner:
       type: string
       default: KevinEdry
     githubRepo:
       type: string
       default: runelite-quest-voiceover
-    lines:
-      type: array
-      items:
-        type: object
-        properties:
-          character:
-            type: string
-          line:
-            type: string
     playerFemaleVoiceId:
       type: string
-      description: Optional; falls back to the
-        f/quest_voiceover/player_female_voice_id variable.
+      description: Optional; falls back to the f/quest_voiceover/player_female_voice_id variable.
     playerMaleVoiceId:
       type: string
-      description: Optional; falls back to the f/quest_voiceover/player_male_voice_id
-        variable.
-    questName:
-      type: string
+      description: Optional; falls back to the f/quest_voiceover/player_male_voice_id variable.
     soundsBranch:
       type: string
       default: sounds
+    transcriptsBranch:
+      type: string
+      default: automations
+      description: Branch holding the transcripts/ directory the quest dropdown reads from.
   required:
-    - questName
-    - lines
-    - characters
+    - quest
     - githubOwner
     - githubRepo

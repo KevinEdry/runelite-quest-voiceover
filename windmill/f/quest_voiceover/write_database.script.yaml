@@ -22,6 +22,11 @@ schema:
     dryRun:
       type: boolean
       default: false
+    featureBranch:
+      type: string
+      description: ''
+      default: null
+      originalType: string
     githubOwner:
       type: string
       default: null
@@ -46,3 +51,4 @@ schema:
     - results
     - githubOwner
     - githubRepo
+    - featureBranch

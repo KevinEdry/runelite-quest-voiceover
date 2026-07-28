@@ -7,9 +7,14 @@ export interface CharacterInfo {
   description: string;
 }
 
+// Only "generated" voices are created by this pipeline and safe to delete; the rest are
+// shared/default voices that must be preserved.
+export type VoiceCategory = "generated" | "premade" | "professional" | "cloned" | "famous" | "high_quality";
+
 export interface VoiceInfo {
   voiceId: string;
   name: string;
+  category?: VoiceCategory;
 }
 
 export interface VoiceMap {
@@ -24,6 +29,11 @@ export interface GenerateSpeechInput {
   readonly nextText?: string;
 }
 
+export interface VoiceSample {
+  filename: string;
+  data: Buffer;
+}
+
 export interface ElevenLabsClient {
   readonly listVoices: () => Promise<readonly VoiceInfo[]>;
   readonly deleteVoice: (voiceId: string) => Promise<void>;
@@ -31,8 +41,12 @@ export interface ElevenLabsClient {
   readonly setupVoicesForQuest: (
     characters: readonly CharacterInfo[],
     playerMaleVoiceId: string,
-    playerFemaleVoiceId: string
+    playerFemaleVoiceId: string,
+    resolveSamples?: (character: string) => Promise<VoiceSample[] | null>
   ) => Promise<VoiceMap>;
+  readonly getSubscription: () => Promise<SubscriptionInfo>;
+  // Instant Voice Clone — a "cloned" voice, which the cleanup flow never deletes.
+  readonly createInstantVoiceClone: (name: string, samples: VoiceSample[], description?: string) => Promise<string>;
 }
 
 function matchCharacterToVoice(
@@ -53,12 +67,55 @@ function matchCharacterToVoice(
   return null;
 }
 
+export interface VoiceSetupPlan {
+  voiceMap: VoiceMap;
+  toCreate: CharacterInfo[];
+  missing: string[];
+}
+
+// Shared by setupVoicesForQuest and the pre-generation plan step so the "which voices
+// exist vs. need creating" decision is identical in the preview and the execution.
+export function planVoiceSetup(
+  characters: readonly CharacterInfo[],
+  existingVoices: readonly VoiceInfo[],
+  playerMaleVoiceId: string,
+  playerFemaleVoiceId: string
+): VoiceSetupPlan {
+  const voiceMap: VoiceMap = {
+    "Player Male": playerMaleVoiceId,
+    "Player Female": playerFemaleVoiceId,
+  };
+  const toCreate: CharacterInfo[] = [];
+  const missing: string[] = [];
+
+  for (const character of characters) {
+    if (character.name === "Player") continue;
+    const matched = matchCharacterToVoice(character.name, existingVoices);
+    if (matched) voiceMap[character.name] = matched;
+    else if (character.description) toCreate.push(character);
+    else missing.push(character.name);
+  }
+
+  return { voiceMap, toCreate, missing };
+}
+
+export interface SubscriptionInfo {
+  tier: string;
+  characterCount: number;
+  characterLimit: number;
+  resetAtUnix: number;
+}
+
 export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
   const client = new ElevenLabsApi({ apiKey });
 
   const listVoices = async (): Promise<readonly VoiceInfo[]> => {
     const response = await withRetry(() => client.voices.getAll());
-    return response.voices.map((voice) => ({ voiceId: voice.voiceId, name: voice.name ?? "" }));
+    return response.voices.map((voice) => ({
+      voiceId: voice.voiceId,
+      name: voice.name ?? "",
+      category: voice.category,
+    }));
   };
 
   const deleteVoice = async (voiceId: string): Promise<void> => {
@@ -138,35 +195,78 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
   const setupVoicesForQuest = async (
     characters: readonly CharacterInfo[],
     playerMaleVoiceId: string,
-    playerFemaleVoiceId: string
+    playerFemaleVoiceId: string,
+    resolveSamples?: (character: string) => Promise<VoiceSample[] | null>
   ): Promise<VoiceMap> => {
     const existingVoices = await listVoices();
-    console.log(`Found ${existingVoices.length} existing voices`);
-
-    const voiceMap: VoiceMap = {
-      "Player Male": playerMaleVoiceId,
-      "Player Female": playerFemaleVoiceId,
-    };
-    const mutableExistingVoices = [...existingVoices];
+    const plan = planVoiceSetup(characters, existingVoices, playerMaleVoiceId, playerFemaleVoiceId);
+    const voiceMap: VoiceMap = { ...plan.voiceMap };
 
     for (const character of characters) {
-      if (character.name === "Player") continue;
+      if (character.name === "Player" || voiceMap[character.name]) continue;
 
-      const matchedVoiceId = matchCharacterToVoice(character.name, mutableExistingVoices);
-      if (matchedVoiceId) {
-        console.log(`Matched ${character.name} to existing voice: ${matchedVoiceId}`);
-        voiceMap[character.name] = matchedVoiceId;
+      // A character with existing audio but no voice was cloned away or deleted — rebuild it
+      // via IVC from its own clips so it keeps continuity, rather than designing a new voice.
+      const samples = resolveSamples ? await resolveSamples(character.name) : null;
+      if (samples && samples.length > 0) {
+        voiceMap[character.name] = await createInstantVoiceClone(
+          character.name,
+          samples,
+          `Continuity clone of ${character.name} rebuilt from existing audio.`
+        );
       } else if (character.description) {
-        const newVoiceId = await generateAndCreateVoice(character);
-        voiceMap[character.name] = newVoiceId;
-        mutableExistingVoices.push({ voiceId: newVoiceId, name: character.name });
+        voiceMap[character.name] = await generateAndCreateVoice(character);
       } else {
-        console.warn(`No voice match and no description for: ${character.name}, skipping`);
+        console.warn(`No voice, no audio, and no description for: ${character.name}, skipping`);
       }
     }
 
     return voiceMap;
   };
 
-  return { listVoices, deleteVoice, generateSpeech, setupVoicesForQuest };
+  const getSubscription = async (): Promise<SubscriptionInfo> => {
+    const response = await fetch("https://api.elevenlabs.io/v1/user/subscription", {
+      headers: { "xi-api-key": apiKey },
+    });
+    if (!response.ok) throw new Error(`Subscription fetch failed: ${response.status}`);
+    const data: {
+      tier: string;
+      character_count: number;
+      character_limit: number;
+      next_character_count_reset_unix: number;
+    } = await response.json();
+    return {
+      tier: data.tier,
+      characterCount: data.character_count,
+      characterLimit: data.character_limit,
+      resetAtUnix: data.next_character_count_reset_unix,
+    };
+  };
+
+  const createInstantVoiceClone = async (
+    name: string,
+    samples: VoiceSample[],
+    description?: string
+  ): Promise<string> => {
+    const response = await withRetry(async () => {
+      const form = new FormData();
+      form.append("name", name);
+      if (description) form.append("description", description);
+      for (const sample of samples) {
+        form.append("files", new Blob([sample.data], { type: "audio/mpeg" }), sample.filename);
+      }
+      const result = await fetch("https://api.elevenlabs.io/v1/voices/add", {
+        method: "POST",
+        headers: { "xi-api-key": apiKey },
+        body: form,
+      });
+      if (!result.ok) throw new Error(`Instant voice clone failed: ${result.status} ${await result.text()}`);
+      return result;
+    });
+    const data: { voice_id: string } = await response.json();
+    console.log(`Cloned voice ${data.voice_id} for: ${name}`);
+    return data.voice_id;
+  };
+
+  return { listVoices, deleteVoice, generateSpeech, setupVoicesForQuest, getSubscription, createInstantVoiceClone };
 }
