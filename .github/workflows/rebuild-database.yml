@@ -1,0 +1,43 @@
+name: Rebuild database
+
+# quest_voiceover_v2.db is a derived artifact built from the per-quest shards in db/rows/.
+# Whenever a shard lands on the database branch, rebuild the blob so the file the plugin
+# downloads stays in sync. Only shard changes trigger this; the resulting .db commit does
+# not touch db/rows/, so it cannot retrigger the workflow.
+on:
+  push:
+    branches: [database]
+    paths:
+      - "db/rows/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-database
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: database
+
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Rebuild quest_voiceover_v2.db from db/rows/
+        run: bun scripts/rebuild-db.ts
+
+      - name: Commit rebuilt database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- quest_voiceover_v2.db; then
+            echo "Database unchanged; nothing to commit."
+          else
+            git add quest_voiceover_v2.db
+            git commit -m "chore: rebuild quest_voiceover_v2.db from row shards"
+            git push
+          fi
