@@ -23,3 +23,13 @@ export function removeSpecialCharacters(line: string): string {
 export function generateDialogHash(character: string, line: string): string {
   return createHash("md5").update(`${character}|${line}`).digest("hex");
 }
+
+// Stable per-quest slug shared by the feature-branch name and the db/rows/<slug>.jsonl
+// shard, so re-running a quest overwrites its own shard rather than creating a second one.
+export function slugifyQuest(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 40);
+}

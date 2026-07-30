@@ -1,6 +1,7 @@
 import * as wmill from "windmill-client";
 import {
   createGitHubClient,
+  slugifyQuest,
   type DialogLine,
   type GenerationTarget,
   type VoiceMap,
@@ -9,14 +10,6 @@ import {
 export interface PrepareQuestResult {
   featureBranch: string;
   targets: GenerationTarget[];
-}
-
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .slice(0, 40);
 }
 
 export async function main(
@@ -51,7 +44,7 @@ export async function main(
 
   const now = new Date().toISOString();
   const timestamp = `${now.slice(0, 10).replace(/-/g, "")}-${now.slice(11, 19).replace(/:/g, "")}`;
-  const branch = featureBranch || `voiceover-${slugify(questName)}-${timestamp}`;
+  const branch = featureBranch || `voiceover-${slugifyQuest(questName)}-${timestamp}`;
   if (await github.branchExists(branch)) {
     console.log(`Feature branch ${branch} already exists, reusing it`);
   } else {
