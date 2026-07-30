@@ -25,6 +25,14 @@ export interface GitHubClient {
   readonly listDirectory: (path: string, branch: string) => Promise<string[]>;
   readonly branchExists: (branchName: string) => Promise<boolean>;
   readonly createBranch: (branchName: string, sourceBranch: string) => Promise<void>;
+  readonly createPullRequest: (input: PullRequestInput) => Promise<{ url: string; number: number } | null>;
+}
+
+export interface PullRequestInput {
+  readonly head: string;
+  readonly base: string;
+  readonly title: string;
+  readonly body: string;
 }
 
 export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
@@ -138,6 +146,37 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     console.log(`Created branch ${branchName} from ${sourceBranch}`);
   };
 
+  // Idempotent: a resume run re-opening the same head/base returns the already-open PR
+  // instead of failing, and a head with no new commits yields null rather than throwing.
+  const createPullRequest = async (
+    input: PullRequestInput
+  ): Promise<{ url: string; number: number } | null> => {
+    try {
+      const created = await withRetry(() =>
+        octokit.pulls.create({
+          owner: config.owner,
+          repo: config.repo,
+          head: input.head,
+          base: input.base,
+          title: input.title,
+          body: input.body,
+        })
+      );
+      return { url: created.data.html_url, number: created.data.number };
+    } catch (error: unknown) {
+      if (extractStatus(error) !== 422) throw error;
+      const existing = await octokit.pulls.list({
+        owner: config.owner,
+        repo: config.repo,
+        head: `${config.owner}:${input.head}`,
+        base: input.base,
+        state: "open",
+      });
+      const open = existing.data[0];
+      return open ? { url: open.html_url, number: open.number } : null;
+    }
+  };
+
   return {
     getFile,
     fileExists,
@@ -148,5 +187,6 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     listDirectory,
     branchExists,
     createBranch,
+    createPullRequest,
   };
 }
