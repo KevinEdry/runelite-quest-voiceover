@@ -7,8 +7,9 @@ export interface QuestOption {
   label: string;
 }
 
-// Reads run in parallel batches: this backs a dropdown, so ~200 sequential transcript
-// fetches would take too long for the field to populate.
+// Transcript bodies are read from raw.githubusercontent.com in parallel batches: this backs
+// a dropdown, so ~200 sequential fetches would be too slow, and raw reads (unlike the
+// Contents API) don't draw down the REST rate limit.
 const READ_CONCURRENCY = 30;
 
 export async function main(
@@ -26,14 +27,14 @@ export async function main(
   dialogs.database.close();
   dialogs.cleanup();
 
-  const files = (await github.listDirectory(transcriptsPath, transcriptsBranch)).filter((file) =>
-    file.endsWith(".json")
+  const files = [...(await github.listBranchFiles(transcriptsBranch))].filter(
+    (file) => file.startsWith(`${transcriptsPath}/`) && file.endsWith(".json")
   );
 
   const readQuest = async (file: string) => {
-    const found = await github.getFile(file, transcriptsBranch);
-    if (!found) return null;
-    const questName = (JSON.parse(found.content.toString("utf-8")) as { quest_name: string }).quest_name;
+    const content = await github.getRawFile(file, transcriptsBranch);
+    if (!content) return null;
+    const questName = (JSON.parse(content.toString("utf-8")) as { quest_name: string }).quest_name;
     return { value: file, questName, generated: voiced.has(questName) };
   };
 

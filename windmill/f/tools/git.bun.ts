@@ -17,10 +17,12 @@ export interface UploadAudioInput {
 
 export interface GitHubClient {
   readonly getFile: (path: string, branch: string) => Promise<{ content: Buffer; sha: string } | null>;
+  readonly getRawFile: (path: string, branch: string) => Promise<Buffer | null>;
   readonly fileExists: (path: string, branch: string) => Promise<boolean>;
   readonly createOrUpdateFile: (path: string, content: Buffer, branch: string, message: string) => Promise<void>;
   readonly uploadAudioFile: (input: UploadAudioInput) => Promise<string>;
   readonly checkAudioFileExists: (hash: string, soundsBranch: string) => Promise<boolean>;
+  readonly listBranchFiles: (branch: string) => Promise<Set<string>>;
   readonly getFileSha: (path: string, branch: string) => Promise<string | null>;
   readonly listDirectory: (path: string, branch: string) => Promise<string[]>;
   readonly branchExists: (branchName: string) => Promise<boolean>;
@@ -64,6 +66,17 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     }
   };
 
+  // Reads straight from raw.githubusercontent.com (public repo, unauthenticated) so bulk
+  // reads don't draw down the 5,000/hour REST budget. Not for the database: raw is
+  // CDN-cached for a few minutes and the DB read must reflect the latest committed rows.
+  const getRawFile = async (path: string, branch: string): Promise<Buffer | null> => {
+    const rawUrl = `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${branch}/${path}`;
+    const response = await fetch(rawUrl);
+    if (response.status === 404) return null;
+    if (!response.ok) throw new Error(`Failed to fetch raw file ${path}: ${response.status}`);
+    return Buffer.from(await response.arrayBuffer());
+  };
+
   const createOrUpdateFile = async (
     path: string,
     content: Buffer,
@@ -91,8 +104,38 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
     return filename;
   };
 
-  const checkAudioFileExists = async (hash: string, soundsBranch: string): Promise<boolean> =>
-    fileExists(`${hash}.mp3`, soundsBranch);
+  // A raw.githubusercontent.com HEAD rather than a Contents API request: the resume path
+  // checks one clip per generated line, which on a large quest would exhaust the REST rate
+  // limit — raw has its own, far higher budget.
+  const checkAudioFileExists = async (hash: string, soundsBranch: string): Promise<boolean> => {
+    const rawUrl = `https://raw.githubusercontent.com/${config.owner}/${config.repo}/${soundsBranch}/${hash}.mp3`;
+    const response = await fetch(rawUrl, { method: "HEAD" });
+    if (response.status === 404) return false;
+    if (!response.ok) throw new Error(`Failed to check ${hash}.mp3: ${response.status}`);
+    return true;
+  };
+
+  // A single recursive Git Trees request lists every path on a branch, so callers test
+  // existence in memory instead of a Contents API request per file. The pre-generation
+  // estimate checks thousands of clips and would otherwise blow the REST rate limit.
+  const listBranchFiles = async (branch: string): Promise<Set<string>> => {
+    try {
+      const tree = await withRetry(() =>
+        octokit.git.getTree({ owner: config.owner, repo: config.repo, tree_sha: branch, recursive: "true" })
+      );
+      if (tree.data.truncated) {
+        throw new Error(`Tree for ${branch} exceeds the single-request limit; existence checks would be incomplete`);
+      }
+      return new Set(
+        tree.data.tree
+          .filter((entry) => entry.type === "blob" && typeof entry.path === "string")
+          .map((entry) => entry.path as string)
+      );
+    } catch (error: unknown) {
+      if (extractStatus(error) === 404) return new Set();
+      throw error;
+    }
+  };
 
   // Identical content yields the same blob sha across branches, so callers compare shas
   // to detect whether a file differs from a baseline without downloading it.
@@ -140,10 +183,12 @@ export function createGitHubClient(config: GitHubClientConfig): GitHubClient {
 
   return {
     getFile,
+    getRawFile,
     fileExists,
     createOrUpdateFile,
     uploadAudioFile,
     checkAudioFileExists,
+    listBranchFiles,
     getFileSha,
     listDirectory,
     branchExists,
