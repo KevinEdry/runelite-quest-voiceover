@@ -83,17 +83,15 @@ export async function main(
 
   // A clip already on the branch it would commit to is skipped, so it doesn't count toward
   // cost — this makes a re-run/resume show only what's left rather than the whole quest.
+  // One recursive tree listing replaces a Contents API request per clip, which on a large
+  // quest exhausted the REST rate limit.
   const branch = featureBranch.length > 0 ? featureBranch : soundsBranch;
+  const present = await github.listBranchFiles(branch);
   let alreadyGenerated = 0;
   let estimatedCharacters = 0;
-  const CONCURRENCY = 40;
-  for (let i = 0; i < targets.length; i += CONCURRENCY) {
-    const batch = targets.slice(i, i + CONCURRENCY);
-    const present = await Promise.all(batch.map((t) => github.checkAudioFileExists(t.hash, branch)));
-    batch.forEach((t, index) => {
-      if (present[index]) alreadyGenerated++;
-      else estimatedCharacters += t.chars;
-    });
+  for (const target of targets) {
+    if (present.has(`${target.hash}.mp3`)) alreadyGenerated++;
+    else estimatedCharacters += target.chars;
   }
   const clipsToGenerate = targets.length - alreadyGenerated;
   const estimatedCostUsd = Math.round((estimatedCharacters / 1000) * costPer1kCharacters * 100) / 100;
