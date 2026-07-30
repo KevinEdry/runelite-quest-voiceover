@@ -5,9 +5,10 @@ description: >-
   previews the plan — voices to create, the character/voice breakdown, and the estimated
   ElevenLabs characters and cost — and pauses for approval. On approval it matches/creates the
   voices, fans each dialog line into per-voice targets (Player fans out to Player Male + Female),
-  commits the audio to a feature branch off sounds (one commit per line), and writes the new
-  dialog rows to a matching feature branch off the database branch. Set dryRun to synthesise
-  without committing; set resume + the existing featureBranch to continue an interrupted run.
+  commits the audio to a feature branch off sounds (one commit per line), writes the new
+  dialog rows to a matching feature branch off the database branch, and opens a pull request
+  for each (audio to sounds, rows to database). Set dryRun to synthesise without committing;
+  set resume + the existing featureBranch to continue an interrupted run.
 value:
   modules:
     - id: load_transcript
@@ -203,6 +204,36 @@ value:
             type: javascript
             expr: flow_input.dryRun
         path: f/quest_voiceover/write_database
+    - id: open_pull_requests
+      summary: Open PRs to sounds + database
+      value:
+        type: script
+        input_transforms:
+          questName:
+            type: javascript
+            expr: results.load_transcript.questName
+          featureBranch:
+            type: javascript
+            expr: results.expand_targets.featureBranch
+          databaseFeatureBranch:
+            type: javascript
+            expr: results.write_db.databaseFeatureBranch
+          githubOwner:
+            type: javascript
+            expr: flow_input.githubOwner
+          githubRepo:
+            type: javascript
+            expr: flow_input.githubRepo
+          soundsBranch:
+            type: javascript
+            expr: flow_input.soundsBranch
+          databaseBranch:
+            type: javascript
+            expr: flow_input.databaseBranch
+          dryRun:
+            type: javascript
+            expr: flow_input.dryRun
+        path: f/quest_voiceover/open_pull_requests
 schema:
   $schema: https://json-schema.org/draft/2020-12/schema
   type: object
