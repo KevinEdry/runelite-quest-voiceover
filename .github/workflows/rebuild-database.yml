@@ -9,6 +9,7 @@ on:
     branches: [database]
     paths:
       - "db/rows/**"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,17 +28,31 @@ jobs:
 
       - uses: oven-sh/setup-bun@v2
 
-      - name: Rebuild quest_voiceover_v2.db from db/rows/
-        run: bun scripts/rebuild-db.ts
-
-      - name: Commit rebuilt database
+      # Rebuild and push, retrying if another merge moves the database branch underneath us.
+      # Each attempt re-syncs to the latest database (picking up any concurrently merged
+      # shard) and rebuilds from scratch, so the result is always correct regardless of the
+      # race. Commits are gated on the deterministic row checksum, not the non-reproducible
+      # .db bytes, so an unchanged row set is a genuine no-op.
+      - name: Rebuild and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- quest_voiceover_v2.db; then
-            echo "Database unchanged; nothing to commit."
-          else
-            git add quest_voiceover_v2.db
+          for attempt in 1 2 3 4 5; do
+            git fetch origin database
+            git reset --hard origin/database
+            bun scripts/rebuild-db.ts
+            git add quest_voiceover_v2.db quest_voiceover_v2.db.sha256
+            if git diff --cached --quiet -- quest_voiceover_v2.db.sha256; then
+              echo "Row set unchanged; nothing to commit."
+              exit 0
+            fi
             git commit -m "chore: rebuild quest_voiceover_v2.db from row shards"
-            git push
-          fi
+            if git push origin HEAD:database; then
+              echo "Pushed on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push rejected (database branch moved); re-syncing and retrying..."
+            sleep $((RANDOM % 5 + 3))
+          done
+          echo "Failed to push after 5 attempts."
+          exit 1
