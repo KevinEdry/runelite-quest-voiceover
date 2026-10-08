@@ -147,9 +147,6 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
     if (!cleanText) throw new Error(`Text is empty after cleaning: "${input.text}"`);
 
     const audioData = await withRetry(async () => {
-      // The model is invoked without previous_text/next_text, so the neighbour context on the
-      // input isn't forwarded. eleven_v4 ignores style/useSpeakerBoost (unsupported) but
-      // accepts them without error, so the settings below are left intact.
       const audioStream = await client.textToSpeech.convert(input.voiceId, {
         text: cleanText,
         modelId: "eleven_v4",
@@ -177,7 +174,6 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
     const result = await withRetry(() =>
       client.textToVoice.design({
         voiceDescription: character.description,
-        // Voice design has no v4 model yet; eleven_ttv_v3 is the current text-to-voice model.
         modelId: "eleven_ttv_v3",
         // A fixed neutral sample instead of auto-generated text — auto-generation elaborates
         // the (often dark, vampyre) description into sample text that trips ElevenLabs' safety
