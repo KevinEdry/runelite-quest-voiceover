@@ -156,9 +156,6 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
         voiceSettings: {
           stability: 1.0,
           similarityBoost: 1.0,
-          style: 0.0,
-          useSpeakerBoost: true,
-          speed: 1.5,
         },
       });
 
