@@ -4,11 +4,13 @@
   "lines": [
     {
       "character": "Player",
-      "line": "Hello? Are you okay? That's a pretty nasty looking injury you've got there..."
+      "line": "Hello? Are you okay? That's a pretty nasty looking injury you've got there...",
+      "delivery": "concerned"
     },
     {
       "character": "Injured Tortugan",
-      "line": "I'm... I'm fine... Please... leave me alone..."
+      "line": "I'm... I'm fine... Please... leave me alone...",
+      "delivery": "weakly, pained"
     },
     {
       "character": "Player",
@@ -16,15 +18,18 @@
     },
     {
       "character": "Injured Tortugan",
-      "line": "No... No help... I'll fix it myself..."
+      "line": "No... No help... I'll fix it myself...",
+      "delivery": "weakly, stubborn"
     },
     {
       "character": "Player",
-      "line": "Now look, there is no way you're going to be able to fix this on your own. Either you let me help, or you die here. Is that what you want?"
+      "line": "Now look, there is no way you're going to be able to fix this on your own. Either you let me help, or you die here. Is that what you want?",
+      "delivery": "firm"
     },
     {
       "character": "Injured Tortugan",
-      "line": "No..."
+      "line": "No...",
+      "delivery": "quietly, defeated"
     },
     {
       "character": "Player",
@@ -36,7 +41,8 @@
     },
     {
       "character": "Player",
-      "line": "Right, you take it easy. I'll get your bandages sorted as quick as possible."
+      "line": "Right, you take it easy. I'll get your bandages sorted as quick as possible.",
+      "delivery": "reassuring"
     },
     {
       "character": "Player",
@@ -48,11 +54,13 @@
     },
     {
       "character": "Injured Tortugan",
-      "line": "I feel... fine."
+      "line": "I feel... fine.",
+      "delivery": "unconvincing"
     },
     {
       "character": "Player",
-      "line": "You're a terrible liar, you know? I'll get your bandages sorted as quick as possible. Seaweed and a palm leaf, right?"
+      "line": "You're a terrible liar, you know? I'll get your bandages sorted as quick as possible. Seaweed and a palm leaf, right?",
+      "delivery": "dry amusement"
     },
     {
       "character": "Injured Tortugan",
@@ -64,19 +72,23 @@
     },
     {
       "character": "Injured Tortugan",
-      "line": "You... helped me?"
+      "line": "You... helped me?",
+      "delivery": "disbelieving"
     },
     {
       "character": "Player",
-      "line": "Of course! Did you expect me to just leave you to die? I'm not a monster!"
+      "line": "Of course! Did you expect me to just leave you to die? I'm not a monster!",
+      "delivery": "incredulous"
     },
     {
       "character": "Injured Tortugan",
-      "line": "I'm sorry for not trusting you, it's just... Well, I guess it doesn't matter now. I'm Floopa. Thank you for saving my life."
+      "line": "I'm sorry for not trusting you, it's just... Well, I guess it doesn't matter now. I'm Floopa. Thank you for saving my life.",
+      "delivery": "softly, grateful"
     },
     {
       "character": "Player",
-      "line": "Don't mention it. I'm. Pleased to meet you, Floopa."
+      "line": "Don't mention it. I'm. Pleased to meet you, Floopa.",
+      "delivery": "warm"
     },
     {
       "character": "Floopa",
@@ -88,7 +100,8 @@
     },
     {
       "character": "Floopa",
-      "line": "Help? No, I'll be fine now. I can sort the rest out myself."
+      "line": "Help? No, I'll be fine now. I can sort the rest out myself.",
+      "delivery": "stubborn"
     },
     {
       "character": "Player",
@@ -100,7 +113,8 @@
     },
     {
       "character": "Player",
-      "line": "Floopa, I understand that you don't trust me, but I promise I'm only here to help."
+      "line": "Floopa, I understand that you don't trust me, but I promise I'm only here to help.",
+      "delivery": "gently"
     },
     {
       "character": "Floopa",
@@ -112,7 +126,8 @@
     },
     {
       "character": "Floopa",
-      "line": "I'd have to go home..."
+      "line": "I'd have to go home...",
+      "delivery": "reluctant"
     },
     {
       "character": "Player",
@@ -120,7 +135,8 @@
     },
     {
       "character": "Floopa",
-      "line": "Nothing, but... if I go there, then I'll have failed."
+      "line": "Nothing, but... if I go there, then I'll have failed.",
+      "delivery": "quietly, ashamed"
     },
     {
       "character": "Player",
@@ -128,19 +144,23 @@
     },
     {
       "character": "Floopa",
-      "line": "Everything!"
+      "line": "Everything!",
+      "delivery": "anguished"
     },
     {
       "character": "Player",
-      "line": "Well, those bandages aren't going to last forever, and unfortunately I don't think that book of yours can help... not unless you use the pages as replacement bandages."
+      "line": "Well, those bandages aren't going to last forever, and unfortunately I don't think that book of yours can help... not unless you use the pages as replacement bandages.",
+      "delivery": "dryly"
     },
     {
       "character": "Floopa",
-      "line": "You don't understand!"
+      "line": "You don't understand!",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
-      "line": "Please, Floopa, let me take you home. We can use my boat."
+      "line": "Please, Floopa, let me take you home. We can use my boat.",
+      "delivery": "gently"
     },
     {
       "character": "Floopa",
@@ -152,7 +172,8 @@
     },
     {
       "character": "Floopa",
-      "line": "Alright, fine!"
+      "line": "Alright, fine!",
+      "delivery": "reluctantly relenting"
     },
     {
       "character": "Player",
@@ -184,15 +205,18 @@
     },
     {
       "character": "Elder Korel",
-      "line": "Goodness, Floopa, look at you!"
+      "line": "Goodness, Floopa, look at you!",
+      "delivery": "alarmed"
     },
     {
       "character": "Floopa",
-      "line": "I'm sorry, Korel. I didn't want to come back, but..."
+      "line": "I'm sorry, Korel. I didn't want to come back, but...",
+      "delivery": "guiltily"
     },
     {
       "character": "Elder Korel",
-      "line": "Nonsense! It would have been foolish to try and deal with this yourself! Now, get yourself over to Elder Raley's at once!"
+      "line": "Nonsense! It would have been foolish to try and deal with this yourself! Now, get yourself over to Elder Raley's at once!",
+      "delivery": "firm"
     },
     {
       "character": "Elder Korel",
@@ -200,7 +224,8 @@
     },
     {
       "character": "Player",
-      "line": "That's right, though she wasn't overly keen on coming."
+      "line": "That's right, though she wasn't overly keen on coming.",
+      "delivery": "wry"
     },
     {
       "character": "Elder Korel",
@@ -268,7 +293,8 @@
     },
     {
       "character": "Mag",
-      "line": "Hello, human. I'm afraid I can't help you with anything until we've sorted out all the problems that gryphon caused."
+      "line": "Hello, human. I'm afraid I can't help you with anything until we've sorted out all the problems that gryphon caused.",
+      "delivery": "apologetic"
     },
     {
       "character": "Elder Blunn",
@@ -280,7 +306,8 @@
     },
     {
       "character": "Elder Strom",
-      "line": "No time to talk, human. That gryphon caused no end of problems that need to be dealt with. You'll need to come back later."
+      "line": "No time to talk, human. That gryphon caused no end of problems that need to be dealt with. You'll need to come back later.",
+      "delivery": "brusque"
     },
     {
       "character": "Elder Coco",
@@ -288,7 +315,8 @@
     },
     {
       "character": "Elder Reggle",
-      "line": "Sorry, human, but I'm not particularly interested in making conversation with those that I don't trust."
+      "line": "Sorry, human, but I'm not particularly interested in making conversation with those that I don't trust.",
+      "delivery": "suspicious, dismissive"
     },
     {
       "character": "Chet",
@@ -300,23 +328,28 @@
     },
     {
       "character": "Elder Raley",
-      "line": "... really no fuss at all! Anyway, has that potion done anything for you yet?"
+      "line": "... really no fuss at all! Anyway, has that potion done anything for you yet?",
+      "delivery": "cheerful"
     },
     {
       "character": "Floopa",
-      "line": "I think so. I feel a lot less... like death."
+      "line": "I think so. I feel a lot less... like death.",
+      "delivery": "weakly"
     },
     {
       "character": "Elder Raley",
-      "line": "Very good! Very good! A positive first step indeed! We'll give it a bit longer to make sure it properly kicks in, and then we can start on cleaning up that wound."
+      "line": "Very good! Very good! A positive first step indeed! We'll give it a bit longer to make sure it properly kicks in, and then we can start on cleaning up that wound.",
+      "delivery": "excitable"
     },
     {
       "character": "Elder Raley",
-      "line": "Oh look, a human! Is this the one you mentioned, Floopa?"
+      "line": "Oh look, a human! Is this the one you mentioned, Floopa?",
+      "delivery": "delighted"
     },
     {
       "character": "Floopa",
-      "line": "Yes, but..., what are you doing here?"
+      "line": "Yes, but..., what are you doing here?",
+      "delivery": "surprised"
     },
     {
       "character": "Player",
@@ -328,15 +361,18 @@
     },
     {
       "character": "Elder Raley",
-      "line": "Come now, Floopa. You should be more welcoming to the human."
+      "line": "Come now, Floopa. You should be more welcoming to the human.",
+      "delivery": "gently chiding"
     },
     {
       "character": "Floopa",
-      "line": "Of course, you're right. I'm sorry,. I didn't mean to be rude. This is all just... a lot."
+      "line": "Of course, you're right. I'm sorry,. I didn't mean to be rude. This is all just... a lot.",
+      "delivery": "contrite"
     },
     {
       "character": "Elder Raley",
-      "line": "You can say that again! It looks like you've been in a fight with the Sharhai itself!"
+      "line": "You can say that again! It looks like you've been in a fight with the Sharhai itself!",
+      "delivery": "tactlessly cheerful"
     },
     {
       "character": "Elder Raley",
@@ -348,11 +384,13 @@
     },
     {
       "character": "Elder Raley",
-      "line": "You'll have to forgive me, but I'm a bit all over the place at the moment. We're still dealing with the aftermath of another blasted gryphon attack!"
+      "line": "You'll have to forgive me, but I'm a bit all over the place at the moment. We're still dealing with the aftermath of another blasted gryphon attack!",
+      "delivery": "flustered"
     },
     {
       "character": "Floopa",
-      "line": "An attack? Was anyone hurt?"
+      "line": "An attack? Was anyone hurt?",
+      "delivery": "worried"
     },
     {
       "character": "Elder Raley",
@@ -400,7 +438,8 @@
     },
     {
       "character": "Floopa",
-      "line": "This is going to hurt, isn't it?"
+      "line": "This is going to hurt, isn't it?",
+      "delivery": "apprehensive"
     },
     {
       "character": "Elder Raley",
@@ -412,7 +451,8 @@
     },
     {
       "character": "Floopa",
-      "line": "Argh..."
+      "line": "Argh...",
+      "delivery": "in pain"
     },
     {
       "character": "Elder Raley",
@@ -500,7 +540,8 @@
     },
     {
       "character": "Elder Strom",
-      "line": "Not bad on those repairs. Still plenty of things I need to do though. If you need something, you'll have to come back later."
+      "line": "Not bad on those repairs. Still plenty of things I need to do though. If you need something, you'll have to come back later.",
+      "delivery": "gruff"
     },
     {
       "character": "Elder Coco",
@@ -512,23 +553,28 @@
     },
     {
       "character": "Elder Raley",
-      "line": "Wonderful! And, you'll be pleased to know that I was successful in properly tidying up Floopa's wound. I'll need her to stay here for a while to make sure it properly heals, but I expect a full recovery!"
+      "line": "Wonderful! And, you'll be pleased to know that I was successful in properly tidying up Floopa's wound. I'll need her to stay here for a while to make sure it properly heals, but I expect a full recovery!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
-      "line": "That's fantastic!"
+      "line": "That's fantastic!",
+      "delivery": "pleased"
     },
     {
       "character": "Floopa",
-      "line": "Is it? Even if I recover, my flipper... it's gone. Without it I'm... useless..."
+      "line": "Is it? Even if I recover, my flipper... it's gone. Without it I'm... useless...",
+      "delivery": "despondent"
     },
     {
       "character": "Elder Raley",
-      "line": "Floopa, this is a highly traumatic experience you've gone through, and I won't lie to you, it will change your life forever. But Floopa, you are not, and never will be, useless."
+      "line": "Floopa, this is a highly traumatic experience you've gone through, and I won't lie to you, it will change your life forever. But Floopa, you are not, and never will be, useless.",
+      "delivery": "earnest, compassionate"
     },
     {
       "character": "Floopa",
-      "line": "I hope you're right..."
+      "line": "I hope you're right...",
+      "delivery": "quietly, uncertain"
     },
     {
       "character": "Elder Raley",
@@ -560,11 +606,13 @@
     },
     {
       "character": "Elder Raley",
-      "line": "Very good! You really are too kind! It seemed like the injury prevented the gryphon from flying, so you hopefully won't have much trouble picking up its trail. I suggest you start in the middle of town."
+      "line": "Very good! You really are too kind! It seemed like the injury prevented the gryphon from flying, so you hopefully won't have much trouble picking up its trail. I suggest you start in the middle of town.",
+      "delivery": "grateful"
     },
     {
       "character": "Player",
-      "line": "Will do. I'm sure I'll have it dealt with in no time!"
+      "line": "Will do. I'm sure I'll have it dealt with in no time!",
+      "delivery": "confident"
     },
     {
       "character": "Elder Raley",
@@ -608,11 +656,13 @@
     },
     {
       "character": "Floopa",
-      "line": "I can hear you, you know?"
+      "line": "I can hear you, you know?",
+      "delivery": "dryly"
     },
     {
       "character": "Elder Raley",
-      "line": "It's rude to eavesdrop, Floopa! You should be resting!"
+      "line": "It's rude to eavesdrop, Floopa! You should be resting!",
+      "delivery": "flustered"
     },
     {
       "character": "Elder Raley",
@@ -640,7 +690,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm sorry. It can't be nice living with that threat."
+      "line": "I'm sorry. It can't be nice living with that threat.",
+      "delivery": "sympathetic"
     },
     {
       "character": "Elder Raley",
@@ -688,31 +739,38 @@
     },
     {
       "character": "Elder Korel",
-      "line": "... holding it at bay, but they need support quick!"
+      "line": "... holding it at bay, but they need support quick!",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
-      "line": "What's going on?"
+      "line": "What's going on?",
+      "delivery": "alarmed"
     },
     {
       "character": "Floopa",
-      "line": "Another gryphon attack, but this time on the Little Pearl!"
+      "line": "Another gryphon attack, but this time on the Little Pearl!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Elder Raley",
-      "line": "This doesn't make sense! They've never attacked the Pearl before!"
+      "line": "This doesn't make sense! They've never attacked the Pearl before!",
+      "delivery": "distressed"
     },
     {
       "character": "Elder Korel",
-      "line": "I'm heading over right away. The eggs must be protected!"
+      "line": "I'm heading over right away. The eggs must be protected!",
+      "delivery": "urgent, resolute"
     },
     {
       "character": "Player",
-      "line": "What can I do?"
+      "line": "What can I do?",
+      "delivery": "urgent"
     },
     {
       "character": "Elder Korel",
-      "line": "Join me, human! Sail to the Little Pearl as fast as you can and help protect our eggs!"
+      "line": "Join me, human! Sail to the Little Pearl as fast as you can and help protect our eggs!",
+      "delivery": "commanding, urgent"
     },
     {
       "character": "Elder Raley",
@@ -732,11 +790,13 @@
     },
     {
       "character": "Elder Korel",
-      "line": "Quickly, human! You need to sail to the Little Pearl, south east of the Conch. I will meet you there. Oh, and don't forget to pick up a shield from Elder Blunn outside!"
+      "line": "Quickly, human! You need to sail to the Little Pearl, south east of the Conch. I will meet you there. Oh, and don't forget to pick up a shield from Elder Blunn outside!",
+      "delivery": "urgent"
     },
     {
       "character": "Elder Raley",
-      "line": "Hurry, ! You need to head to the Little Pearl!"
+      "line": "Hurry, ! You need to head to the Little Pearl!",
+      "delivery": "urgent, pleading"
     },
     {
       "character": "Floopa",
@@ -748,7 +808,8 @@
     },
     {
       "character": "Player",
-      "line": "I need a shield to protect me against one of the larger gryphons. I'm afraid it's quite urgent."
+      "line": "I need a shield to protect me against one of the larger gryphons. I'm afraid it's quite urgent.",
+      "delivery": "urgent"
     },
     {
       "character": "Elder Blunn",
@@ -760,7 +821,8 @@
     },
     {
       "character": "Player",
-      "line": "Like my very own shell?"
+      "line": "Like my very own shell?",
+      "delivery": "amused"
     },
     {
       "character": "Elder Blunn",
@@ -772,7 +834,8 @@
     },
     {
       "character": "Elder Blunn",
-      "line": "Do not lose it, human, for I won't be able to give you another for free. Any more will come at a cost."
+      "line": "Do not lose it, human, for I won't be able to give you another for free. Any more will come at a cost.",
+      "delivery": "cautioning"
     },
     {
       "character": "Elder Blunn",
@@ -792,15 +855,18 @@
     },
     {
       "character": "Crewmate",
-      "line": "Er... Problem over here, Captain!"
+      "line": "Er... Problem over here, Captain!",
+      "delivery": "panicked, urgent"
     },
     {
       "character": "Elder Hubber",
-      "line": "Thank you for your help with that gryphon, human."
+      "line": "Thank you for your help with that gryphon, human.",
+      "delivery": "grateful"
     },
     {
       "character": "Elder Root",
-      "line": "The eggs are safe once more! Good work, human."
+      "line": "The eggs are safe once more! Good work, human.",
+      "delivery": "relieved"
     },
     {
       "character": "Elder Korel",
@@ -808,15 +874,18 @@
     },
     {
       "character": "Player",
-      "line": "Are the eggs okay?"
+      "line": "Are the eggs okay?",
+      "delivery": "concerned"
     },
     {
       "character": "Elder Korel",
-      "line": "As good as can be expected. We lost a fair few, but it could have been much worse."
+      "line": "As good as can be expected. We lost a fair few, but it could have been much worse.",
+      "delivery": "somber"
     },
     {
       "character": "Player",
-      "line": "I'm sorry about the ones that were lost."
+      "line": "I'm sorry about the ones that were lost.",
+      "delivery": "sympathetic"
     },
     {
       "character": "Elder Korel",
@@ -828,11 +897,13 @@
     },
     {
       "character": "Player",
-      "line": "About that... It may be nothing, but when I arrived here, I saw a ship with red sails sailing away from the island. You don't think it's connected, do you?"
+      "line": "About that... It may be nothing, but when I arrived here, I saw a ship with red sails sailing away from the island. You don't think it's connected, do you?",
+      "delivery": "tentative"
     },
     {
       "character": "Elder Korel",
-      "line": "A ship with red sails? Curious... and concerning... Hmm..."
+      "line": "A ship with red sails? Curious... and concerning... Hmm...",
+      "delivery": "troubled, pensive"
     },
     {
       "character": "Elder Korel",
@@ -868,7 +939,8 @@
     },
     {
       "character": "Floopa",
-      "line": "Red sails? Surely not..."
+      "line": "Red sails? Surely not...",
+      "delivery": "disbelieving, uneasy"
     },
     {
       "character": "Elder Raley",
@@ -876,7 +948,8 @@
     },
     {
       "character": "Floopa",
-      "line": "It's... I'm not sure. It might... It might have something to do with my injury."
+      "line": "It's... I'm not sure. It might... It might have something to do with my injury.",
+      "delivery": "hesitant, uneasy"
     },
     {
       "character": "Player",
@@ -884,19 +957,23 @@
     },
     {
       "character": "Floopa",
-      "line": "My captain... My crew... They betrayed me. Stabbed me with my own spear and abandoned me to the waves..."
+      "line": "My captain... My crew... They betrayed me. Stabbed me with my own spear and abandoned me to the waves...",
+      "delivery": "bitterly, haunted"
     },
     {
       "character": "Elder Raley",
-      "line": "Floopa... I'm so sorry..."
+      "line": "Floopa... I'm so sorry...",
+      "delivery": "softly, compassionate"
     },
     {
       "character": "Player",
-      "line": "This ship? Does it have something to do with your old crew?"
+      "line": "This ship? Does it have something to do with your old crew?",
+      "delivery": "gently"
     },
     {
       "character": "Floopa",
-      "line": "I think so... but I need time to think... I need to work out what it all means..."
+      "line": "I think so... but I need time to think... I need to work out what it all means...",
+      "delivery": "troubled"
     },
     {
       "character": "Elder Raley",
@@ -912,7 +989,8 @@
     },
     {
       "character": "Elder Raley",
-      "line": "No, no, no! Thank you, ! We will talk again soon."
+      "line": "No, no, no! Thank you, ! We will talk again soon.",
+      "delivery": "warm, grateful"
     }
   ],
   "characters": [

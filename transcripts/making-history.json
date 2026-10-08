@@ -8,15 +8,18 @@
     },
     {
       "character": "Jorral",
-      "line": "Stop! I can't help you unless you help me out first."
+      "line": "Stop! I can't help you unless you help me out first.",
+      "delivery": "urgent, commanding"
     },
     {
       "character": "Player",
-      "line": "Okay then, moving on..."
+      "line": "Okay then, moving on...",
+      "delivery": "dryly, dismissive"
     },
     {
       "character": "Jorral",
-      "line": "All is lost!"
+      "line": "All is lost!",
+      "delivery": "despairing"
     },
     {
       "character": "Player",
@@ -24,11 +27,13 @@
     },
     {
       "character": "Jorral",
-      "line": "Don't bother, you're not experienced enough to help me!"
+      "line": "Don't bother, you're not experienced enough to help me!",
+      "delivery": "dismissive"
     },
     {
       "character": "Jorral",
-      "line": "Just look around you! This great building will soon be in ruin."
+      "line": "Just look around you! This great building will soon be in ruin.",
+      "delivery": "lamenting"
     },
     {
       "character": "Player",
@@ -36,7 +41,8 @@
     },
     {
       "character": "Jorral",
-      "line": "Of course! This building has a history spanning generations!"
+      "line": "Of course! This building has a history spanning generations!",
+      "delivery": "passionate"
     },
     {
       "character": "Player",
@@ -48,7 +54,8 @@
     },
     {
       "character": "Player",
-      "line": "Does the king not respect the outpost's GREAT history?"
+      "line": "Does the king not respect the outpost's GREAT history?",
+      "delivery": "pointed, sardonic"
     },
     {
       "character": "Jorral",
@@ -56,15 +63,18 @@
     },
     {
       "character": "Jorral",
-      "line": "Wait a minute. You could help me!"
+      "line": "Wait a minute. You could help me!",
+      "delivery": "hopeful, realizing"
     },
     {
       "character": "Player",
-      "line": "Me?"
+      "line": "Me?",
+      "delivery": "surprised"
     },
     {
       "character": "Jorral",
-      "line": "Yes! Uncover the history of this building to convince King Lathas to leave it alone. Do you want to know more?"
+      "line": "Yes! Uncover the history of this building to convince King Lathas to leave it alone. Do you want to know more?",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -92,15 +102,18 @@
     },
     {
       "character": "Jorral",
-      "line": "If all goes well, I hope to be able to turn it into a museum as a monument to the area's history. What do you think?"
+      "line": "If all goes well, I hope to be able to turn it into a museum as a monument to the area's history. What do you think?",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
-      "line": "OK, I will make a stand for history!"
+      "line": "OK, I will make a stand for history!",
+      "delivery": "determined"
     },
     {
       "character": "Jorral",
-      "line": "Oh thank you so much, you really are my saviour!"
+      "line": "Oh thank you so much, you really are my saviour!",
+      "delivery": "effusive, grateful"
     },
     {
       "character": "Player",
@@ -136,7 +149,8 @@
     },
     {
       "character": "Player",
-      "line": "Sounds ominous. Does he have a name?"
+      "line": "Sounds ominous. Does he have a name?",
+      "delivery": "wary"
     },
     {
       "character": "Jorral",
@@ -152,7 +166,8 @@
     },
     {
       "character": "Player",
-      "line": "I've conversed with the dead before, that shouldn't be too much of a problem."
+      "line": "I've conversed with the dead before, that shouldn't be too much of a problem.",
+      "delivery": "confident, dry"
     },
     {
       "character": "Jorral",
@@ -180,7 +195,8 @@
     },
     {
       "character": "Jorral",
-      "line": "What do you mean? You've discovered nothing!"
+      "line": "What do you mean? You've discovered nothing!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -188,11 +204,13 @@
     },
     {
       "character": "Player",
-      "line": "I don't care about some dusty building."
+      "line": "I don't care about some dusty building.",
+      "delivery": "dismissive"
     },
     {
       "character": "Jorral",
-      "line": "It's doomed. DOOMED!"
+      "line": "It's doomed. DOOMED!",
+      "delivery": "despairing, anguished"
     },
     {
       "character": "Jorral",
@@ -200,7 +218,8 @@
     },
     {
       "character": "Silver merchant",
-      "line": "Silver! Silver! Best prices for buying and selling in all Kandarin!"
+      "line": "Silver! Silver! Best prices for buying and selling in all Kandarin!",
+      "delivery": "hawking, loud"
     },
     {
       "character": "Player",
@@ -208,7 +227,8 @@
     },
     {
       "character": "Silver merchant",
-      "line": "That I am. What do you want? You realise I'm working here."
+      "line": "That I am. What do you want? You realise I'm working here.",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -216,7 +236,8 @@
     },
     {
       "character": "Silver merchant",
-      "line": "What's it to you?"
+      "line": "What's it to you?",
+      "delivery": "curt"
     },
     {
       "character": "Player",
@@ -224,7 +245,8 @@
     },
     {
       "character": "Silver merchant",
-      "line": "That can only cause chaos! Well, my great Grandfather lived and died there according to my mother, but even she knows very little about him."
+      "line": "That can only cause chaos! Well, my great Grandfather lived and died there according to my mother, but even she knows very little about him.",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -288,7 +310,8 @@
     },
     {
       "character": "Player",
-      "line": "I found a journal!"
+      "line": "I found a journal!",
+      "delivery": "excited"
     },
     {
       "character": "Jorral",
@@ -300,7 +323,8 @@
     },
     {
       "character": "Jorral",
-      "line": "He talks of all the nasty things they did to the people of Ardougne, which I don't care to mention! It looks like they were stopped by someone. But it doesn't say who."
+      "line": "He talks of all the nasty things they did to the people of Ardougne, which I don't care to mention! It looks like they were stopped by someone. But it doesn't say who.",
+      "delivery": "distaste"
     },
     {
       "character": "Player",
@@ -308,7 +332,8 @@
     },
     {
       "character": "Droklak",
-      "line": "wooo wooo"
+      "line": "wooo wooo",
+      "delivery": "mournful, ghostly"
     },
     {
       "character": "Player",
@@ -316,7 +341,8 @@
     },
     {
       "character": "Droalak",
-      "line": "Wow. I haven't spoken to the living for... for... I don't remember how long."
+      "line": "Wow. I haven't spoken to the living for... for... I don't remember how long.",
+      "delivery": "wistful, weary"
     },
     {
       "character": "Player",
@@ -332,11 +358,13 @@
     },
     {
       "character": "Droalak",
-      "line": "I don't really like to talk about it, but I died there."
+      "line": "I don't really like to talk about it, but I died there.",
+      "delivery": "somber"
     },
     {
       "character": "Player",
-      "line": "Oh dear."
+      "line": "Oh dear.",
+      "delivery": "sympathetic"
     },
     {
       "character": "Droalak",
@@ -348,7 +376,8 @@
     },
     {
       "character": "Droalak",
-      "line": "Well, I left to go to the outpost against the wishes of my wife. I promised I would return to her, but obviously I did not as I died there. She's a ghost nearby, but won't listen to my apologies."
+      "line": "Well, I left to go to the outpost against the wishes of my wife. I promised I would return to her, but obviously I did not as I died there. She's a ghost nearby, but won't listen to my apologies.",
+      "delivery": "regretful, sorrowful"
     },
     {
       "character": "Player",
@@ -360,7 +389,8 @@
     },
     {
       "character": "Player",
-      "line": "Call it 'traveller's intuition'."
+      "line": "Call it 'traveller's intuition'.",
+      "delivery": "wry"
     },
     {
       "character": "Droalak",
@@ -376,7 +406,8 @@
     },
     {
       "character": "Droalak",
-      "line": "I said it needed to be a STRUNG sapphire amulet - best get some string!"
+      "line": "I said it needed to be a STRUNG sapphire amulet - best get some string!",
+      "delivery": "exasperated"
     },
     {
       "character": "Droalak",
@@ -392,11 +423,13 @@
     },
     {
       "character": "Player",
-      "line": "Ok. Ok."
+      "line": "Ok. Ok.",
+      "delivery": "placating"
     },
     {
       "character": "Melina",
-      "line": "wooo wooo"
+      "line": "wooo wooo",
+      "delivery": "mournful, ghostly"
     },
     {
       "character": "Player",
@@ -404,7 +437,8 @@
     },
     {
       "character": "Melina",
-      "line": "Oh why did he leave me? Did he truly love me?"
+      "line": "Oh why did he leave me? Did he truly love me?",
+      "delivery": "anguished, sorrowful"
     },
     {
       "character": "Player",
@@ -412,15 +446,18 @@
     },
     {
       "character": "Melina",
-      "line": "You're giving me empty words. That is all."
+      "line": "You're giving me empty words. That is all.",
+      "delivery": "hesitant"
     },
     {
       "character": "Player",
-      "line": "If you don't mind me asking, are you Melina?"
+      "line": "If you don't mind me asking, are you Melina?",
+      "delivery": "bitter"
     },
     {
       "character": "Melina",
-      "line": "That I am. What's it to you?"
+      "line": "That I am. What's it to you?",
+      "delivery": "sullen"
     },
     {
       "character": "Player",
@@ -428,7 +465,8 @@
     },
     {
       "character": "Melina",
-      "line": "He did. I suppose he has asked you to tell me he's sorry. What an empty gesture!"
+      "line": "He did. I suppose he has asked you to tell me he's sorry. What an empty gesture!",
+      "delivery": "bitter, resentful"
     },
     {
       "character": "Player",
@@ -436,7 +474,8 @@
     },
     {
       "character": "Melina",
-      "line": "A sapphire amulet! He remembers! It's just like the one he gave me before he left."
+      "line": "A sapphire amulet! He remembers! It's just like the one he gave me before he left.",
+      "delivery": "moved, surprised"
     },
     {
       "character": "Player",
@@ -444,7 +483,8 @@
     },
     {
       "character": "Melina",
-      "line": "I'm so glad. Please, tell him I forgive him!"
+      "line": "I'm so glad. Please, tell him I forgive him!",
+      "delivery": "relieved, tender"
     },
     {
       "character": "Player",
@@ -452,7 +492,8 @@
     },
     {
       "character": "Melina",
-      "line": "At last I feel complete. Fare well."
+      "line": "At last I feel complete. Fare well.",
+      "delivery": "serene, peaceful"
     },
     {
       "character": "Player",
@@ -460,7 +501,8 @@
     },
     {
       "character": "Droalak",
-      "line": "wooo wooo"
+      "line": "wooo wooo",
+      "delivery": "mournful, ghostly"
     },
     {
       "character": "Player",
@@ -468,7 +510,8 @@
     },
     {
       "character": "Droalak",
-      "line": "Excellent! I am so glad she believes me. I can finally rest in peace."
+      "line": "Excellent! I am so glad she believes me. I can finally rest in peace.",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",
@@ -484,11 +527,13 @@
     },
     {
       "character": "Player",
-      "line": "Thank's for the scroll, but I seem to have lost it."
+      "line": "Thank's for the scroll, but I seem to have lost it.",
+      "delivery": "sheepish"
     },
     {
       "character": "Droalak",
-      "line": "It's a good job I stuck around then isn't it! Have another copy."
+      "line": "It's a good job I stuck around then isn't it! Have another copy.",
+      "delivery": "wry"
     },
     {
       "character": "Droalak",
@@ -508,7 +553,8 @@
     },
     {
       "character": "Dron",
-      "line": "Look, I don't have time for weaklings, if you want conversation, talk to my brother Blanin!"
+      "line": "Look, I don't have time for weaklings, if you want conversation, talk to my brother Blanin!",
+      "delivery": "gruff, dismissive"
     },
     {
       "character": "Player",
@@ -516,11 +562,13 @@
     },
     {
       "character": "Blanin",
-      "line": "That I am. Why? Has he killed one of your family?"
+      "line": "That I am. Why? Has he killed one of your family?",
+      "delivery": "casual, matter-of-fact"
     },
     {
       "character": "Player",
-      "line": "Not that I know of..."
+      "line": "Not that I know of...",
+      "delivery": "uneasy"
     },
     {
       "character": "Blanin",
@@ -544,11 +592,13 @@
     },
     {
       "character": "Blanin",
-      "line": "His favorite drink is red spider blood, he's 36 years, 8 months and 21 days old, studies famous battles of the Fourth and Fifth ages, lives on the North East side of town and his, erm... pet cat is called Fluffy."
+      "line": "His favorite drink is red spider blood, he's 36 years, 8 months and 21 days old, studies famous battles of the Fourth and Fifth ages, lives on the North East side of town and his, erm... pet cat is called Fluffy.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "O..K...."
+      "line": "O..K....",
+      "delivery": "bewildered"
     },
     {
       "character": "Blanin",
@@ -560,23 +610,28 @@
     },
     {
       "character": "Dron",
-      "line": "Why should I?"
+      "line": "Why should I?",
+      "delivery": "gruff, hostile"
     },
     {
       "character": "Player",
-      "line": "Erm, sorry I don't mean to cause offence."
+      "line": "Erm, sorry I don't mean to cause offence.",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
-      "line": "Please don't hurt me."
+      "line": "Please don't hurt me.",
+      "delivery": "fearful, pleading"
     },
     {
       "character": "Player",
-      "line": "I'm after important answers."
+      "line": "I'm after important answers.",
+      "delivery": "firm"
     },
     {
       "character": "Dron",
-      "line": "But how do you know me?"
+      "line": "But how do you know me?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
@@ -584,11 +639,13 @@
     },
     {
       "character": "Dron",
-      "line": "Don't talk of my brother. He's not on my good side at the moment."
+      "line": "Don't talk of my brother. He's not on my good side at the moment.",
+      "delivery": "gruff"
     },
     {
       "character": "Player",
-      "line": "Why, you're the famous warrior Dron!"
+      "line": "Why, you're the famous warrior Dron!",
+      "delivery": "flattering"
     },
     {
       "character": "Dron",
@@ -688,19 +745,23 @@
     },
     {
       "character": "Dron",
-      "line": "Everything! Besides, it's 13!"
+      "line": "Everything! Besides, it's 13!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
-      "line": "Er, I think you'll find it's 12."
+      "line": "Er, I think you'll find it's 12.",
+      "delivery": "dryly"
     },
     {
       "character": "Dron",
-      "line": "Very well, you seem to know me quite well, I'll answer your questions best I can."
+      "line": "Very well, you seem to know me quite well, I'll answer your questions best I can.",
+      "delivery": "grudging"
     },
     {
       "character": "Player",
-      "line": "Phew!"
+      "line": "Phew!",
+      "delivery": "relieved"
     },
     {
       "character": "Dron",
@@ -732,11 +793,13 @@
     },
     {
       "character": "Player",
-      "line": "Ah, I like happy endings."
+      "line": "Ah, I like happy endings.",
+      "delivery": "pleased"
     },
     {
       "character": "Dron",
-      "line": "You would."
+      "line": "You would.",
+      "delivery": "dry, dismissive"
     },
     {
       "character": "Player",
@@ -748,11 +811,13 @@
     },
     {
       "character": "Player",
-      "line": "Well, I was wondering how you get the blood stains out of your clothes?"
+      "line": "Well, I was wondering how you get the blood stains out of your clothes?",
+      "delivery": "cheeky"
     },
     {
       "character": "Dron",
-      "line": "BE GONE!"
+      "line": "BE GONE!",
+      "delivery": "shouting, furious"
     },
     {
       "character": "Player",
@@ -776,7 +841,8 @@
     },
     {
       "character": "Dron",
-      "line": "Eww. Gross. You have some strange tastes."
+      "line": "Eww. Gross. You have some strange tastes.",
+      "delivery": "disgusted"
     },
     {
       "character": "Player",
@@ -788,15 +854,18 @@
     },
     {
       "character": "Dron",
-      "line": "You know nothing!"
+      "line": "You know nothing!",
+      "delivery": "contemptuous"
     },
     {
       "character": "Dron",
-      "line": "Leave me alone!"
+      "line": "Leave me alone!",
+      "delivery": "angry"
     },
     {
       "character": "Dron",
-      "line": "Wrong, wrong, wrong!"
+      "line": "Wrong, wrong, wrong!",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
@@ -804,7 +873,8 @@
     },
     {
       "character": "Jorral",
-      "line": "Excellent! What did he say?"
+      "line": "Excellent! What did he say?",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -812,15 +882,18 @@
     },
     {
       "character": "Player",
-      "line": "And then I asked him about getting the blood stains out of his clothes, but he didn't like that!"
+      "line": "And then I asked him about getting the blood stains out of his clothes, but he didn't like that!",
+      "delivery": "sheepish, amused"
     },
     {
       "character": "Jorral",
-      "line": "It seems you're lucky he didn't beat you up! Well done, that's another piece of the puzzle."
+      "line": "It seems you're lucky he didn't beat you up! Well done, that's another piece of the puzzle.",
+      "delivery": "amused"
     },
     {
       "character": "Jorral",
-      "line": "It all makes sense now, I never realised there was quite so much history to this place, it was more than I could have hoped."
+      "line": "It all makes sense now, I never realised there was quite so much history to this place, it was more than I could have hoped.",
+      "delivery": "awed, delighted"
     },
     {
       "character": "Player",
@@ -856,11 +929,13 @@
     },
     {
       "character": "Player",
-      "line": "Then I suppose you want ME to deliver it to the king?"
+      "line": "Then I suppose you want ME to deliver it to the king?",
+      "delivery": "wry, resigned"
     },
     {
       "character": "Jorral",
-      "line": "You've got that right!"
+      "line": "You've got that right!",
+      "delivery": "cheerful"
     },
     {
       "character": "Player",
@@ -868,7 +943,8 @@
     },
     {
       "character": "Jorral",
-      "line": "Ok. Just don't lose it again!"
+      "line": "Ok. Just don't lose it again!",
+      "delivery": "exasperated"
     },
     {
       "character": "Jorral",
@@ -880,11 +956,13 @@
     },
     {
       "character": "Jorral",
-      "line": "Any time soon would be great."
+      "line": "Any time soon would be great.",
+      "delivery": "dryly, impatient"
     },
     {
       "character": "Player",
-      "line": "Excuse me. I have been asked to give you from Jorral... Ooops, I had a letter, but I don't have it with me - be right back!"
+      "line": "Excuse me. I have been asked to give you from Jorral... Ooops, I had a letter, but I don't have it with me - be right back!",
+      "delivery": "flustered"
     },
     {
       "character": "Player",
@@ -896,7 +974,8 @@
     },
     {
       "character": "King Lathas",
-      "line": "I had no idea that place had any value at all! All this about my Great Grandfather and Jorral's plans to make it into a museum makes for a convincing case."
+      "line": "I had no idea that place had any value at all! All this about my Great Grandfather and Jorral's plans to make it into a museum makes for a convincing case.",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -904,11 +983,13 @@
     },
     {
       "character": "King Lathas",
-      "line": "Very well, I will comply with his request. Take this letter back to him with my kind regards."
+      "line": "Very well, I will comply with his request. Take this letter back to him with my kind regards.",
+      "delivery": "gracious, regal"
     },
     {
       "character": "Player",
-      "line": "Excuse me sire, but I seem to have lost that letter you gave me."
+      "line": "Excuse me sire, but I seem to have lost that letter you gave me.",
+      "delivery": "sheepish, apologetic"
     },
     {
       "character": "King Lathas",
@@ -920,7 +1001,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm working on it!"
+      "line": "I'm working on it!",
+      "delivery": "defensive"
     },
     {
       "character": "Player",
@@ -936,11 +1018,13 @@
     },
     {
       "character": "Jorral",
-      "line": "Quick, let me see."
+      "line": "Quick, let me see.",
+      "delivery": "eager, urgent"
     },
     {
       "character": "Jorral",
-      "line": "Hurrah! Good work, you've done it. You've saved the outpost!"
+      "line": "Hurrah! Good work, you've done it. You've saved the outpost!",
+      "delivery": "jubilant, elated"
     },
     {
       "character": "Player",
@@ -960,7 +1044,8 @@
     },
     {
       "character": "Droalak",
-      "line": "Thanks for telling me! I've been waiting for ages!"
+      "line": "Thanks for telling me! I've been waiting for ages!",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",

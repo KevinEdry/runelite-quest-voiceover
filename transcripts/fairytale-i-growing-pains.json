@@ -4,15 +4,18 @@
   "lines": [
     {
       "character": "Martin the Master Gardener",
-      "line": "Hello, you look familiar. Didn't I catch you going through my pockets not that long ago?"
+      "line": "Hello, you look familiar. Didn't I catch you going through my pockets not that long ago?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "Me? No, I'm afraid you must have me confused with somebody else!"
+      "line": "Me? No, I'm afraid you must have me confused with somebody else!",
+      "delivery": "feigning innocence"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "I could have sworn..."
+      "line": "I could have sworn...",
+      "delivery": "puzzled"
     },
     {
       "character": "Martin the Master Gardener",
@@ -24,7 +27,8 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "I can't chat now, I have too many things to worry about."
+      "line": "I can't chat now, I have too many things to worry about.",
+      "delivery": "harried"
     },
     {
       "character": "Martin the Master Gardener",
@@ -40,11 +44,13 @@
     },
     {
       "character": "Player",
-      "line": "Um, you seem to be getting side-tracked already."
+      "line": "Um, you seem to be getting side-tracked already.",
+      "delivery": "dryly, impatient"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "What? Oh sorry."
+      "line": "What? Oh sorry.",
+      "delivery": "flustered"
     },
     {
       "character": "Martin the Master Gardener",
@@ -52,7 +58,8 @@
     },
     {
       "character": "Player",
-      "line": "You're not making much sense. Who's Mister Lincoln?"
+      "line": "You're not making much sense. Who's Mister Lincoln?",
+      "delivery": "confused"
     },
     {
       "character": "Martin the Master Gardener",
@@ -92,11 +99,13 @@
     },
     {
       "character": "Player",
-      "line": "This doesn't sound like something I can help with. Good luck."
+      "line": "This doesn't sound like something I can help with. Good luck.",
+      "delivery": "dismissive"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "I'm not sure I can, but I guess I have to try."
+      "line": "I'm not sure I can, but I guess I have to try.",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
@@ -108,11 +117,13 @@
     },
     {
       "character": "Player",
-      "line": "Err, of course you are."
+      "line": "Err, of course you are.",
+      "delivery": "dry, skeptical"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Say, you're a brave adventurer, would you be interested in trying to get to the root of our woes? There would be a cash reward if you could help us."
+      "line": "Say, you're a brave adventurer, would you be interested in trying to get to the root of our woes? There would be a cash reward if you could help us.",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
@@ -120,11 +131,13 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "I'm so glad to hear that."
+      "line": "I'm so glad to hear that.",
+      "delivery": "flat, unconvincing"
     },
     {
       "character": "Player",
-      "line": "You don't look it."
+      "line": "You don't look it.",
+      "delivery": "dryly"
     },
     {
       "character": "Martin the Master Gardener",
@@ -140,7 +153,8 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Oh. Oh dear. Oh well, if there's nothing I can do to make you change your mind..."
+      "line": "Oh. Oh dear. Oh well, if there's nothing I can do to make you change your mind...",
+      "delivery": "crestfallen"
     },
     {
       "character": "Player",
@@ -160,7 +174,8 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Well please hurry, otherwise I won't be able to make enough produce to feed my 13 children soon."
+      "line": "Well please hurry, otherwise I won't be able to make enough produce to feed my 13 children soon.",
+      "delivery": "pleading, worried"
     },
     {
       "character": "Player",
@@ -184,7 +199,8 @@
     },
     {
       "character": "Gardener #1",
-      "line": "Ah, Martin sent you, why didn't you say so? I personally think that our problems are all down to the fact that we haven't had enough rain of late. It's plain to see - just look at the levels of the rivers."
+      "line": "Ah, Martin sent you, why didn't you say so? I personally think that our problems are all down to the fact that we haven't had enough rain of late. It's plain to see - just look at the levels of the rivers.",
+      "delivery": "earnest, self-assured"
     },
     {
       "character": "Gardener #1",
@@ -196,7 +212,8 @@
     },
     {
       "character": "Gardener #1",
-      "line": "Well there you go then. Until you find out how to make it rain you're going to have a hard time solving our problems."
+      "line": "Well there you go then. Until you find out how to make it rain you're going to have a hard time solving our problems.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -208,7 +225,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, yeah. I hadn't thought of that."
+      "line": "Oh, yeah. I hadn't thought of that.",
+      "delivery": "sheepish"
     },
     {
       "character": "Martin the Master Gardener",
@@ -220,7 +238,8 @@
     },
     {
       "character": "Gardener #2",
-      "line": "Insects! That's what you can tell him! Insects! Stop the insects from eating so many of our crops and we'd get maximum yield, I tell you!"
+      "line": "Insects! That's what you can tell him! Insects! Stop the insects from eating so many of our crops and we'd get maximum yield, I tell you!",
+      "delivery": "excited, emphatic"
     },
     {
       "character": "Player",
@@ -236,35 +255,43 @@
     },
     {
       "character": "Gardener #3",
-      "line": "How can you ask such a thing? It's obvious! It's all you adventurers. Every time I get a crop planted, some adventurer comes along and digs it up and plants crops of their own, as if they owned my farming patch!"
+      "line": "How can you ask such a thing? It's obvious! It's all you adventurers. Every time I get a crop planted, some adventurer comes along and digs it up and plants crops of their own, as if they owned my farming patch!",
+      "delivery": "indignant, accusatory"
     },
     {
       "character": "Gardener #3",
-      "line": "It's really annoying! You should speak to your friends about their rude behaviour!"
+      "line": "It's really annoying! You should speak to your friends about their rude behaviour!",
+      "delivery": "annoyed"
     },
     {
       "character": "Player",
-      "line": "But...but...they're not my friends! I've never even spoken to most of them!"
+      "line": "But...but...they're not my friends! I've never even spoken to most of them!",
+      "delivery": "flustered, defensive"
     },
     {
       "character": "Gardener #3",
-      "line": "Don't give me that! You're an adventurer, they're all adventurers. I bet you have some sort of secret guild and you gather there and say things like 'let's annoy the gardeners this week', don't you?"
+      "line": "Don't give me that! You're an adventurer, they're all adventurers. I bet you have some sort of secret guild and you gather there and say things like 'let's annoy the gardeners this week', don't you?",
+      "delivery": "accusatory"
     },
     {
       "character": "Player",
-      "line": "No, I mean yes. There is a heroes guild, but...!"
+      "line": "No, I mean yes. There is a heroes guild, but...!",
+      "delivery": "flustered"
     },
     {
       "character": "Gardener #3",
-      "line": "Aha, so you admit it then! You should be ashamed of yourselves!"
+      "line": "Aha, so you admit it then! You should be ashamed of yourselves!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
-      "line": "Oh, I give up!"
+      "line": "Oh, I give up!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "One of your members is implying that the gardeners' problems are all caused by adventurers using the plots. I would like to point out that these plots are communal property and that we have as much right as anyone to"
+      "line": "One of your members is implying that the gardeners' problems are all caused by adventurers using the plots. I would like to point out that these plots are communal property and that we have as much right as anyone to",
+      "delivery": "firm, indignant"
     },
     {
       "character": "Player",
@@ -272,7 +299,8 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "All right! All right! You're absolutely right! I never said there was a problem with anybody using my plots. Besides, we get part of our income from watching crops for adventurers. I'm afraid that our problem is"
+      "line": "All right! All right! You're absolutely right! I never said there was a problem with anybody using my plots. Besides, we get part of our income from watching crops for adventurers. I'm afraid that our problem is",
+      "delivery": "conceding, placating"
     },
     {
       "character": "Martin the Master Gardener",
@@ -284,7 +312,8 @@
     },
     {
       "character": "Gardener #4",
-      "line": "Well obviously it's the seasons. They all seem to be out-of-wack these days. Summer comes earlier and earlier each year, but then it simply rushes by!"
+      "line": "Well obviously it's the seasons. They all seem to be out-of-wack these days. Summer comes earlier and earlier each year, but then it simply rushes by!",
+      "delivery": "thoughtful"
     },
     {
       "character": "Gardener #4",
@@ -312,15 +341,18 @@
     },
     {
       "character": "Player",
-      "line": "Ha ha!"
+      "line": "Ha ha!",
+      "delivery": "laughing"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "What are you laughing at? These are serious problems!"
+      "line": "What are you laughing at? These are serious problems!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
-      "line": "You're absolutely right. Don't worry, I'll find out what the problem is."
+      "line": "You're absolutely right. Don't worry, I'll find out what the problem is.",
+      "delivery": "reassuring"
     },
     {
       "character": "Gardener #5",
@@ -328,11 +360,13 @@
     },
     {
       "character": "Gardener #5",
-      "line": "Well I can tell by the look on your face that I'm not the first person you've asked. Why don't you tell me what you've heard from other members of the group so far?"
+      "line": "Well I can tell by the look on your face that I'm not the first person you've asked. Why don't you tell me what you've heard from other members of the group so far?",
+      "delivery": "knowingly"
     },
     {
       "character": "Player",
-      "line": "Why not? They all seem to be a bunch of loonies anyway."
+      "line": "Why not? They all seem to be a bunch of loonies anyway.",
+      "delivery": "exasperated, dry"
     },
     {
       "character": "Player",
@@ -340,15 +374,18 @@
     },
     {
       "character": "Gardener #5",
-      "line": "Did you ever consider that all those theories might be correct?"
+      "line": "Did you ever consider that all those theories might be correct?",
+      "delivery": "knowingly"
     },
     {
       "character": "Player",
-      "line": "But they're all different, how could they all be correct?"
+      "line": "But they're all different, how could they all be correct?",
+      "delivery": "baffled"
     },
     {
       "character": "Gardener #5",
-      "line": "I'll let you into a little secret that'll explain it all to you. In a word - fairies!"
+      "line": "I'll let you into a little secret that'll explain it all to you. In a word - fairies!",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
@@ -356,7 +393,8 @@
     },
     {
       "character": "Gardener #5",
-      "line": "I'm serious!"
+      "line": "I'm serious!",
+      "delivery": "insistent"
     },
     {
       "character": "Gardener #5",
@@ -368,11 +406,13 @@
     },
     {
       "character": "Gardener",
-      "line": "I've already told you everything I suspect."
+      "line": "I've already told you everything I suspect.",
+      "delivery": "impatient"
     },
     {
       "character": "Gardener",
-      "line": "I don't think the crops ARE failing, now leave me alone, I have work to do."
+      "line": "I don't think the crops ARE failing, now leave me alone, I have work to do.",
+      "delivery": "gruff, dismissive"
     },
     {
       "character": "Martin the Master Gardener",
@@ -392,11 +432,13 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Hmm, that's an interesting idea. Now that I think about it that does make some sense. Yes, maybe you should talk to a fairy about it."
+      "line": "Hmm, that's an interesting idea. Now that I think about it that does make some sense. Yes, maybe you should talk to a fairy about it.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
-      "line": "O-kay! You're the boss, any idea which flower I should look under to find a fairy?"
+      "line": "O-kay! You're the boss, any idea which flower I should look under to find a fairy?",
+      "delivery": "bemused"
     },
     {
       "character": "Martin the Master Gardener",
@@ -408,11 +450,13 @@
     },
     {
       "character": "Player",
-      "line": "Who are you? Where's the Fairy Queen? What's going on here? Where's the Fairy Queen's throne gone?"
+      "line": "Who are you? Where's the Fairy Queen? What's going on here? Where's the Fairy Queen's throne gone?",
+      "delivery": "alarmed, confused"
     },
     {
       "character": "Fairy Godfather",
-      "line": "Ciao esploratore! So many questions. Whicha one would you hava me answer first?"
+      "line": "Ciao esploratore! So many questions. Whicha one would you hava me answer first?",
+      "delivery": "smooth, amused"
     },
     {
       "character": "Player",
@@ -420,7 +464,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Me?! I am-a da Fairy Godfather."
+      "line": "Me?! I am-a da Fairy Godfather.",
+      "delivery": "grandly, proud"
     },
     {
       "character": "Player",
@@ -432,7 +477,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Ah, eet iz a trageec-a tale. Da Queen Bee she iz-a, how-you-say, seek?"
+      "line": "Ah, eet iz a trageec-a tale. Da Queen Bee she iz-a, how-you-say, seek?",
+      "delivery": "theatrically mournful"
     },
     {
       "character": "Player",
@@ -472,7 +518,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "A word-a of advice. You be-a careful not to cause da trouble for da folk while you are Zanaris. Ciao."
+      "line": "A word-a of advice. You be-a careful not to cause da trouble for da folk while you are Zanaris. Ciao.",
+      "delivery": "quietly menacing"
     },
     {
       "character": "Player",
@@ -484,7 +531,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Hmm, an eenteresting question, my friend. I am-a trying to run-a da fairy kingdom, and youz iz-a being da irritating adventurer."
+      "line": "Hmm, an eenteresting question, my friend. I am-a trying to run-a da fairy kingdom, and youz iz-a being da irritating adventurer.",
+      "delivery": "dryly, menacing"
     },
     {
       "character": "Player",
@@ -492,7 +540,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "No, but-a dat iz da question I answered. Now iz-a dere anything else?"
+      "line": "No, but-a dat iz da question I answered. Now iz-a dere anything else?",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -508,11 +557,13 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Eef there iz anytheeng I can-a help you weeth whilst you are-a veesiting Zanaris, plsi, do not-a trouble to bother me."
+      "line": "Eef there iz anytheeng I can-a help you weeth whilst you are-a veesiting Zanaris, plsi, do not-a trouble to bother me.",
+      "delivery": "sardonic"
     },
     {
       "character": "Fat Rocco",
-      "line": "Da Boss is a busy fairy! He don' have time to talk to yous humans. Vamoose!"
+      "line": "Da Boss is a busy fairy! He don' have time to talk to yous humans. Vamoose!",
+      "delivery": "intimidating, gruff"
     },
     {
       "character": "Fairy Nuff",
@@ -524,11 +575,13 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "Oh!"
+      "line": "Oh!",
+      "delivery": "surprised"
     },
     {
       "character": "Fairy Nuff",
-      "line": "Sorry, I didn't realise."
+      "line": "Sorry, I didn't realise.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -536,7 +589,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "Oh, thank you! I really need help, I have no idea what ails the Queen. You must be a mighty healer!"
+      "line": "Oh, thank you! I really need help, I have no idea what ails the Queen. You must be a mighty healer!",
+      "delivery": "hopeful, relieved"
     },
     {
       "character": "Player",
@@ -576,11 +630,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm a mighty adventurer!"
+      "line": "I'm a mighty adventurer!",
+      "delivery": "proudly"
     },
     {
       "character": "Fairy Nuff",
-      "line": "A what?!"
+      "line": "A what?!",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -592,7 +648,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "But hang on, you might be just the sort of person I need to help me!"
+      "line": "But hang on, you might be just the sort of person I need to help me!",
+      "delivery": "brightening"
     },
     {
       "character": "Player",
@@ -608,11 +665,13 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "Shhh, somebody might hear. Look you're a visitor, so I'll tell you this much; it doesn't pay to talk about the Godfather behind his back."
+      "line": "Shhh, somebody might hear. Look you're a visitor, so I'll tell you this much; it doesn't pay to talk about the Godfather behind his back.",
+      "delivery": "hushed, wary"
     },
     {
       "character": "Fairy Nuff",
-      "line": "But back to the problem at hand - the Fairy Queen. She was brought here after her battle with the Tanglefoot in a terrible state, extremely weak and barely able to fly!"
+      "line": "But back to the problem at hand - the Fairy Queen. She was brought here after her battle with the Tanglefoot in a terrible state, extremely weak and barely able to fly!",
+      "delivery": "grave, concerned"
     },
     {
       "character": "Fairy Nuff",
@@ -628,7 +687,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "I believe he now resides in the Dark Wizard's tower near Falador, and, please hurry. I fear the Queen doesn't have much time left!"
+      "line": "I believe he now resides in the Dark Wizard's tower near Falador, and, please hurry. I fear the Queen doesn't have much time left!",
+      "delivery": "urgent, worried"
     },
     {
       "character": "Fairy Nuff",
@@ -648,7 +708,8 @@
     },
     {
       "character": "Zandar Horfyre",
-      "line": "And why should I help you, fool? You attack my brethren and I, and then you demand my help! I think not!"
+      "line": "And why should I help you, fool? You attack my brethren and I, and then you demand my help! I think not!",
+      "delivery": "hostile, indignant"
     },
     {
       "character": "Player",
@@ -656,7 +717,8 @@
     },
     {
       "character": "Zandar Horfyre",
-      "line": "Fairy Nuff sent you!"
+      "line": "Fairy Nuff sent you!",
+      "delivery": "surprised"
     },
     {
       "character": "Player",
@@ -664,11 +726,13 @@
     },
     {
       "character": "Zandar Horfyre",
-      "line": "This is grave news indeed!"
+      "line": "This is grave news indeed!",
+      "delivery": "grave"
     },
     {
       "character": "Zandar Horfyre",
-      "line": "You think the Tanglefoot is responsible? I don't see how that could be. A Tanglefoot will normally kill its victim outright...unless...hmmmm...I wonder..."
+      "line": "You think the Tanglefoot is responsible? I don't see how that could be. A Tanglefoot will normally kill its victim outright...unless...hmmmm...I wonder...",
+      "delivery": "pondering"
     },
     {
       "character": "Player",
@@ -680,7 +744,8 @@
     },
     {
       "character": "Player",
-      "line": "You do? That's great! What is it?"
+      "line": "You do? That's great! What is it?",
+      "delivery": "eager"
     },
     {
       "character": "Zandar Horfyre",
@@ -692,11 +757,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes, but about the Fairy Queen?"
+      "line": "Yes, but about the Fairy Queen?",
+      "delivery": "impatient"
     },
     {
       "character": "Zandar Horfyre",
-      "line": "Patience, I'm getting to that. It appears the Fairy Queen has lost a large part, indeed the majority, of her life essence. Either it was drained from her by the Tanglefoot or she did it voluntarily."
+      "line": "Patience, I'm getting to that. It appears the Fairy Queen has lost a large part, indeed the majority, of her life essence. Either it was drained from her by the Tanglefoot or she did it voluntarily.",
+      "delivery": "sternly"
     },
     {
       "character": "Zandar Horfyre",
@@ -744,7 +811,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Almost certainly, I am a great practitioner of the magic arts, after all."
+      "line": "Almost certainly, I am a great practitioner of the magic arts, after all.",
+      "delivery": "boastful, arrogant"
     },
     {
       "character": "Player",
@@ -752,7 +820,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "That is true and an epic battle it was too."
+      "line": "That is true and an epic battle it was too.",
+      "delivery": "grandiose"
     },
     {
       "character": "Player",
@@ -760,7 +829,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Of course I won! As I've already stated I am a master of the magic arts."
+      "line": "Of course I won! As I've already stated I am a master of the magic arts.",
+      "delivery": "haughty"
     },
     {
       "character": "Malignius Mortifer",
@@ -772,7 +842,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "I see. Well I could tell you how to defeat your Tanglefoot, however I would need you to perform a little undertaking for me first."
+      "line": "I see. Well I could tell you how to defeat your Tanglefoot, however I would need you to perform a little undertaking for me first.",
+      "delivery": "sly"
     },
     {
       "character": "Player",
@@ -856,7 +927,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "I guess so. Forgot to take notes did you? Well, listen carefully this time. You will need to enchant a pair of secateurs. Only these can harm a Tanglefoot."
+      "line": "I guess so. Forgot to take notes did you? Well, listen carefully this time. You will need to enchant a pair of secateurs. Only these can harm a Tanglefoot.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
@@ -868,7 +940,8 @@
     },
     {
       "character": "Nature Spirit",
-      "line": "Welcome back, my friend. I sensed that you require my help and so I have once more returned."
+      "line": "Welcome back, my friend. I sensed that you require my help and so I have once more returned.",
+      "delivery": "serene, warm"
     },
     {
       "character": "Player",
@@ -876,7 +949,8 @@
     },
     {
       "character": "Nature Spirit",
-      "line": "Secateurs? That's a strange thing to enchant. Would you care to inform me why you need them?"
+      "line": "Secateurs? That's a strange thing to enchant. Would you care to inform me why you need them?",
+      "delivery": "curious"
     },
     {
       "character": "Player",
@@ -896,7 +970,8 @@
     },
     {
       "character": "Nature Spirit",
-      "line": "Then let us begin..."
+      "line": "Then let us begin...",
+      "delivery": "solemn"
     },
     {
       "character": "Nature Spirit",
@@ -944,23 +1019,28 @@
     },
     {
       "character": "Player",
-      "line": "I did it! I've got the Fairy Queens' enchanted secateurs!"
+      "line": "I did it! I've got the Fairy Queens' enchanted secateurs!",
+      "delivery": "triumphant"
     },
     {
       "character": "Fairy Nuff",
-      "line": "That's fantastic! You'd better take them to the Fairy Godfather though; he'd be cross if he knew you brought them to me first. But, come back to me once the queen has had a chance to recover. I'm sure she'll want to thank you personally."
+      "line": "That's fantastic! You'd better take them to the Fairy Godfather though; he'd be cross if he knew you brought them to me first. But, come back to me once the queen has had a chance to recover. I'm sure she'll want to thank you personally.",
+      "delivery": "delighted"
     },
     {
       "character": "Fairy Godfather",
-      "line": "Ciao. I am-a glad to see-a yous back! I was-a worried that the Tanglefoot would-a kill-a you too."
+      "line": "Ciao. I am-a glad to see-a yous back! I was-a worried that the Tanglefoot would-a kill-a you too.",
+      "delivery": "warm, smooth"
     },
     {
       "character": "Player",
-      "line": "You needn't have worried I managed to kill it!"
+      "line": "You needn't have worried I managed to kill it!",
+      "delivery": "proudly"
     },
     {
       "character": "Fairy Godfather",
-      "line": "Ben fatto, my friend! Da folk-a dey owe yous a great-a deal! So did-a youss getta back da Queen Bee's magic power?"
+      "line": "Ben fatto, my friend! Da folk-a dey owe yous a great-a deal! So did-a youss getta back da Queen Bee's magic power?",
+      "delivery": "pleased, grandly"
     },
     {
       "character": "Player",
@@ -968,7 +1048,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Grazie infinite! I will give-a dem to da healing fairy. Da Queen Bee, she will-a soon be strong again!"
+      "line": "Grazie infinite! I will give-a dem to da healing fairy. Da Queen Bee, she will-a soon be strong again!",
+      "delivery": "delighted"
     }
   ],
   "characters": [

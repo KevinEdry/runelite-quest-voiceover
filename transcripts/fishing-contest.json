@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Vestri",
-      "line": "Hmmph. What do you want?"
+      "line": "Hmmph. What do you want?",
+      "delivery": "gruff, annoyed"
     },
     {
       "character": "Player",
@@ -12,7 +13,8 @@
     },
     {
       "character": "Vestri",
-      "line": "You can't go down there!"
+      "line": "You can't go down there!",
+      "delivery": "stern, forceful"
     },
     {
       "character": "Player",
@@ -84,7 +86,8 @@
     },
     {
       "character": "Vestri",
-      "line": "I'd rather not, thank you."
+      "line": "I'd rather not, thank you.",
+      "delivery": "dryly dismissive"
     },
     {
       "character": "Player",
@@ -92,7 +95,8 @@
     },
     {
       "character": "Vestri",
-      "line": "My, we are the persistent one aren't we?"
+      "line": "My, we are the persistent one aren't we?",
+      "delivery": "wry, exasperated"
     },
     {
       "character": "Vestri",
@@ -104,11 +108,13 @@
     },
     {
       "character": "Vestri",
-      "line": "Unfortunately Dwarves don't make good fishermen."
+      "line": "Unfortunately Dwarves don't make good fishermen.",
+      "delivery": "rueful"
     },
     {
       "character": "Player",
-      "line": "Fortunately I'm alright at fishing!"
+      "line": "Fortunately I'm alright at fishing!",
+      "delivery": "cheerful, confident"
     },
     {
       "character": "Vestri",
@@ -120,7 +126,8 @@
     },
     {
       "character": "Player",
-      "line": "You're a grumpy little man aren't you?"
+      "line": "You're a grumpy little man aren't you?",
+      "delivery": "teasing"
     },
     {
       "character": "Vestri",
@@ -128,15 +135,18 @@
     },
     {
       "character": "Player",
-      "line": "I'm bigger than you. Let me by!"
+      "line": "I'm bigger than you. Let me by!",
+      "delivery": "demanding"
     },
     {
       "character": "Player",
-      "line": "...stumpy."
+      "line": "...stumpy.",
+      "delivery": "muttered"
     },
     {
       "character": "Vestri",
-      "line": "Go away! You're not going to bully your way in HERE!"
+      "line": "Go away! You're not going to bully your way in HERE!",
+      "delivery": "angry, forceful"
     },
     {
       "character": "Player",
@@ -144,7 +154,8 @@
     },
     {
       "character": "Vestri",
-      "line": "Hello then."
+      "line": "Hello then.",
+      "delivery": "grudging"
     },
     {
       "character": "Player",
@@ -152,11 +163,13 @@
     },
     {
       "character": "Vestri",
-      "line": "What if I do! It's no business of yours."
+      "line": "What if I do! It's no business of yours.",
+      "delivery": "irritated, defensive"
     },
     {
       "character": "Austri",
-      "line": "Hmmph. What do you want?"
+      "line": "Hmmph. What do you want?",
+      "delivery": "gruff, annoyed"
     },
     {
       "character": "Austri",
@@ -200,7 +213,8 @@
     },
     {
       "character": "Austri",
-      "line": "My, we are the persistent one aren't we?"
+      "line": "My, we are the persistent one aren't we?",
+      "delivery": "wry, exasperated"
     },
     {
       "character": "Austri",
@@ -228,7 +242,8 @@
     },
     {
       "character": "Austri",
-      "line": "Go away! You're not going to bully your way in HERE!"
+      "line": "Go away! You're not going to bully your way in HERE!",
+      "delivery": "angry, forceful"
     },
     {
       "character": "Austri",
@@ -236,7 +251,8 @@
     },
     {
       "character": "Austri",
-      "line": "What if I do! It's no business of yours."
+      "line": "What if I do! It's no business of yours.",
+      "delivery": "irritated, defensive"
     },
     {
       "character": "Vestri",
@@ -276,7 +292,8 @@
     },
     {
       "character": "Vestri",
-      "line": "Maybe that's where we are going wrong when we try fishing?"
+      "line": "Maybe that's where we are going wrong when we try fishing?",
+      "delivery": "wry realization"
     },
     {
       "character": "Player",
@@ -296,7 +313,8 @@
     },
     {
       "character": "Austri",
-      "line": "Maybe that's where we are going wrong when we try fishing?"
+      "line": "Maybe that's where we are going wrong when we try fishing?",
+      "delivery": "wry realization"
     },
     {
       "character": "Austri",
@@ -332,19 +350,23 @@
     },
     {
       "character": "Player",
-      "line": "Who are you?"
+      "line": "Who are you?",
+      "delivery": "wary"
     },
     {
       "character": "Sinister Stranger",
-      "line": "My name iz Vlad. I come from far avay, vere the sun iz not so bright."
+      "line": "My name iz Vlad. I come from far avay, vere the sun iz not so bright.",
+      "delivery": "mysterious, theatrical"
     },
     {
       "character": "Player",
-      "line": "You're a vampyre aren't you?"
+      "line": "You're a vampyre aren't you?",
+      "delivery": "blunt, suspicious"
     },
     {
       "character": "Sinister Stranger",
-      "line": "Just because I can't stand ze smell ov garlic und I don't like bright sunlight doesn't necessarily mean I'm ein vampyre!"
+      "line": "Just because I can't stand ze smell ov garlic und I don't like bright sunlight doesn't necessarily mean I'm ein vampyre!",
+      "delivery": "indignant, defensive"
     },
     {
       "character": "Player",
@@ -352,7 +374,8 @@
     },
     {
       "character": "Sinister Stranger",
-      "line": "It is vonderful! Ze vomen are beautiful und ze nights are long!"
+      "line": "It is vonderful! Ze vomen are beautiful und ze nights are long!",
+      "delivery": "theatrical, relishing"
     },
     {
       "character": "Player",
@@ -360,7 +383,8 @@
     },
     {
       "character": "Sinister Stranger",
-      "line": "Luck haz notsing to do vith it it is all in ze technique."
+      "line": "Luck haz notsing to do vith it it is all in ze technique.",
+      "delivery": "smug, confident"
     },
     {
       "character": "Player",
@@ -368,23 +392,28 @@
     },
     {
       "character": "Sinister Stranger",
-      "line": "My doctor told me to take up ein velaxing hobby. Vhen I am stressed I tend to get ein little.."
+      "line": "My doctor told me to take up ein velaxing hobby. Vhen I am stressed I tend to get ein little..",
+      "delivery": "ominous"
     },
     {
       "character": "Sinister Stranger",
-      "line": "..thirsty."
+      "line": "..thirsty.",
+      "delivery": "quietly menacing"
     },
     {
       "character": "Player",
-      "line": "If you get thirsty you should drink something."
+      "line": "If you get thirsty you should drink something.",
+      "delivery": "cheerfully oblivious"
     },
     {
       "character": "Sinister Stranger",
-      "line": "I tsink I may do zat soon..."
+      "line": "I tsink I may do zat soon...",
+      "delivery": "quietly menacing"
     },
     {
       "character": "Big Dave",
-      "line": "Hey guy! Always nice to see a fresh face!"
+      "line": "Hey guy! Always nice to see a fresh face!",
+      "delivery": "hearty, friendly"
     },
     {
       "character": "Player",
@@ -392,7 +421,8 @@
     },
     {
       "character": "Big Dave",
-      "line": "That's right, guy! Ain't nobody better at fishing round here than me! That's for sure!"
+      "line": "That's right, guy! Ain't nobody better at fishing round here than me! That's for sure!",
+      "delivery": "boastful, proud"
     },
     {
       "character": "Player",
@@ -408,7 +438,8 @@
     },
     {
       "character": "Big Dave",
-      "line": "Why would I help you? I wanna stay the best! I'm not givin' away my secrets like old Grampa Jack does!"
+      "line": "Why would I help you? I wanna stay the best! I'm not givin' away my secrets like old Grampa Jack does!",
+      "delivery": "competitive, dismissive"
     },
     {
       "character": "Player",
@@ -416,11 +447,13 @@
     },
     {
       "character": "Big Dave",
-      "line": "You really have no clue do you! He won this competition four years in a row! He lives in the house just outside the gate."
+      "line": "You really have no clue do you! He won this competition four years in a row! He lives in the house just outside the gate.",
+      "delivery": "incredulous"
     },
     {
       "character": "Joshua",
-      "line": "Yeah? What you want?"
+      "line": "Yeah? What you want?",
+      "delivery": "laid-back, dismissive"
     },
     {
       "character": "Player",
@@ -428,7 +461,8 @@
     },
     {
       "character": "Joshua",
-      "line": "Quit bugging me then! I got me some fish to catch!"
+      "line": "Quit bugging me then! I got me some fish to catch!",
+      "delivery": "casually irritated"
     },
     {
       "character": "Joshua",
@@ -436,7 +470,8 @@
     },
     {
       "character": "Joshua",
-      "line": "Dude! Why should I help you? You like, might beat me! I'm not giving away my secrets like that dude Grampa Jack does!"
+      "line": "Dude! Why should I help you? You like, might beat me! I'm not giving away my secrets like that dude Grampa Jack does!",
+      "delivery": "defensive, casual"
     },
     {
       "character": "Joshua",
@@ -444,7 +479,8 @@
     },
     {
       "character": "Grandpa Jack",
-      "line": "Hello young man! Come to visit old Grandpa Jack? I can tell ye stories for sure. I used to be the best fisherman these parts have seen!"
+      "line": "Hello young man! Come to visit old Grandpa Jack? I can tell ye stories for sure. I used to be the best fisherman these parts have seen!",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",
@@ -452,7 +488,8 @@
     },
     {
       "character": "Grandpa Jack",
-      "line": "Well, when I were a young man we used to take fishing trips over to Catherby; The fishing over there - now that was something!"
+      "line": "Well, when I were a young man we used to take fishing trips over to Catherby; The fishing over there - now that was something!",
+      "delivery": "nostalgic"
     },
     {
       "character": "Grandpa Jack",
@@ -460,7 +497,8 @@
     },
     {
       "character": "Grandpa Jack",
-      "line": "To my amazement I'd caught this little chest thing!"
+      "line": "To my amazement I'd caught this little chest thing!",
+      "delivery": "amazed, delighted"
     },
     {
       "character": "Player",
@@ -472,7 +510,8 @@
     },
     {
       "character": "Grandpa Jack",
-      "line": "I know all about that... I won that four years straight! I'm too old for that lark now though..."
+      "line": "I know all about that... I won that four years straight! I'm too old for that lark now though...",
+      "delivery": "proud, then rueful"
     },
     {
       "character": "Player",
@@ -492,7 +531,8 @@
     },
     {
       "character": "Player",
-      "line": "There's this weird creepy guy who says he's not a vampyre using that spot. He keeps winning too."
+      "line": "There's this weird creepy guy who says he's not a vampyre using that spot. He keeps winning too.",
+      "delivery": "suspicious, annoyed"
     },
     {
       "character": "Grandpa Jack",
@@ -500,15 +540,18 @@
     },
     {
       "character": "Player",
-      "line": "You're right! Thanks Jack!"
+      "line": "You're right! Thanks Jack!",
+      "delivery": "grateful, excited"
     },
     {
       "character": "Player",
-      "line": "That's less competition for me then."
+      "line": "That's less competition for me then.",
+      "delivery": "scheming"
     },
     {
       "character": "Grandpa Jack",
-      "line": "Why you young whippersnapper! If I was twenty years younger I'd show you something that's for sure!"
+      "line": "Why you young whippersnapper! If I was twenty years younger I'd show you something that's for sure!",
+      "delivery": "mock-indignant"
     },
     {
       "character": "Player",
@@ -516,7 +559,8 @@
     },
     {
       "character": "Grandpa Jack",
-      "line": "Sigh..."
+      "line": "Sigh...",
+      "delivery": "weary sigh"
     },
     {
       "character": "Grandpa Jack",
@@ -556,15 +600,18 @@
     },
     {
       "character": "Grandpa Jack",
-      "line": "Yep! Go get em tiger."
+      "line": "Yep! Go get em tiger.",
+      "delivery": "warm encouragement"
     },
     {
       "character": "Bonzo",
-      "line": "Hey, you need to pay to enter the competition first! Only 5 gp entrance fee!"
+      "line": "Hey, you need to pay to enter the competition first! Only 5 gp entrance fee!",
+      "delivery": "energetic"
     },
     {
       "character": "Bonzo",
-      "line": "Roll up, roll up!"
+      "line": "Roll up, roll up!",
+      "delivery": "booming, carnival barker"
     },
     {
       "character": "Bonzo",
@@ -584,7 +631,8 @@
     },
     {
       "character": "Sinister Stranger",
-      "line": "Arrgh! WHAT is that GHASTLY smell??? I think I will move over here instead..."
+      "line": "Arrgh! WHAT is that GHASTLY smell??? I think I will move over here instead...",
+      "delivery": "disgusted, alarmed"
     },
     {
       "character": "Bonzo",
@@ -636,7 +684,8 @@
     },
     {
       "character": "Bonzo",
-      "line": "And the winner is... The stranger in black!"
+      "line": "And the winner is... The stranger in black!",
+      "delivery": "announcing with flourish"
     },
     {
       "character": "Player",
@@ -652,7 +701,8 @@
     },
     {
       "character": "Bonzo",
-      "line": "We have a new winner! The heroic-looking person who was fishing by the pipes has caught the biggest carp I've seen since Grandpa Jack used to compete!"
+      "line": "We have a new winner! The heroic-looking person who was fishing by the pipes has caught the biggest carp I've seen since Grandpa Jack used to compete!",
+      "delivery": "excited, announcing"
     },
     {
       "character": "Player",
@@ -664,11 +714,13 @@
     },
     {
       "character": "Bonzo",
-      "line": "Hello champ!"
+      "line": "Hello champ!",
+      "delivery": "cheerful, welcoming"
     },
     {
       "character": "Player",
-      "line": "I don't feel like a champ..."
+      "line": "I don't feel like a champ...",
+      "delivery": "glum"
     },
     {
       "character": "Bonzo",
@@ -676,11 +728,13 @@
     },
     {
       "character": "Player",
-      "line": "I lost my fishing trophy..."
+      "line": "I lost my fishing trophy...",
+      "delivery": "sheepish, glum"
     },
     {
       "character": "Bonzo",
-      "line": "Is that all chump? Don't worry, I have a spare!"
+      "line": "Is that all chump? Don't worry, I have a spare!",
+      "delivery": "cheery reassurance"
     },
     {
       "character": "Bonzo",
@@ -688,15 +742,18 @@
     },
     {
       "character": "Player",
-      "line": "I think I'll keep them to myself."
+      "line": "I think I'll keep them to myself.",
+      "delivery": "coy"
     },
     {
       "character": "Player",
-      "line": "Yes I have!"
+      "line": "Yes I have!",
+      "delivery": "triumphant"
     },
     {
       "character": "Vestri",
-      "line": "Well done! That's brilliant! Do you have the trophy with you?"
+      "line": "Well done! That's brilliant! Do you have the trophy with you?",
+      "delivery": "pleasantly surprised"
     },
     {
       "character": "Player",
@@ -704,11 +761,13 @@
     },
     {
       "character": "Vestri",
-      "line": "Oh! It's even more shiny and gold than I thought possible..."
+      "line": "Oh! It's even more shiny and gold than I thought possible...",
+      "delivery": "awed, delighted"
     },
     {
       "character": "Vestri",
-      "line": "You've done us proud. Thank you. I think we can now trust you enough to let you in..."
+      "line": "You've done us proud. Thank you. I think we can now trust you enough to let you in...",
+      "delivery": "gruff warmth"
     },
     {
       "character": "Player",
@@ -716,7 +775,8 @@
     },
     {
       "character": "Vestri",
-      "line": "Why the tunnel of course! You may now come and go freely, avoiding the wolves and dangers of the cold, high mountain. You could even stop in for a beer or two!"
+      "line": "Why the tunnel of course! You may now come and go freely, avoiding the wolves and dangers of the cold, high mountain. You could even stop in for a beer or two!",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",
@@ -728,11 +788,13 @@
     },
     {
       "character": "Austri",
-      "line": "Oh! It's even more shiny and gold than I thought possible..."
+      "line": "Oh! It's even more shiny and gold than I thought possible...",
+      "delivery": "awed, delighted"
     },
     {
       "character": "Austri",
-      "line": "Welcome, oh great Fishing Champion! Feel free to pop by and use our tunnel any time."
+      "line": "Welcome, oh great Fishing Champion! Feel free to pop by and use our tunnel any time.",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",

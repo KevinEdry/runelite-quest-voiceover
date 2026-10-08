@@ -8,7 +8,8 @@
     },
     {
       "character": "King Arthur",
-      "line": "Aha! I'm glad you are here! I am sending out various knights on an important quest. I was wondering if you too would like to take up this quest?"
+      "line": "Aha! I'm glad you are here! I am sending out various knights on an important quest. I was wondering if you too would like to take up this quest?",
+      "delivery": "pleased, eager"
     },
     {
       "character": "Player",
@@ -20,11 +21,13 @@
     },
     {
       "character": "King Arthur",
-      "line": "This is most fortuitous!"
+      "line": "This is most fortuitous!",
+      "delivery": "delighted"
     },
     {
       "character": "King Arthur",
-      "line": "None of my knights ever did return with it last time. Now we have the opportunity to give it another go, maybe this time we will have more luck!"
+      "line": "None of my knights ever did return with it last time. Now we have the opportunity to give it another go, maybe this time we will have more luck!",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
@@ -48,7 +51,8 @@
     },
     {
       "character": "Player",
-      "line": "I am weary of questing for the time being..."
+      "line": "I am weary of questing for the time being...",
+      "delivery": "weary"
     },
     {
       "character": "King Arthur",
@@ -68,7 +72,8 @@
     },
     {
       "character": "King Arthur",
-      "line": "Well, the Grail IS very elusive, it may take some perseverance."
+      "line": "Well, the Grail IS very elusive, it may take some perseverance.",
+      "delivery": "encouraging"
     },
     {
       "character": "King Arthur",
@@ -80,7 +85,8 @@
     },
     {
       "character": "Merlin",
-      "line": "Ah yes... the Holy Grail..."
+      "line": "Ah yes... the Holy Grail...",
+      "delivery": "thoughtful, mystical"
     },
     {
       "character": "Merlin",
@@ -136,11 +142,13 @@
     },
     {
       "character": "Player",
-      "line": "I seek the Grail of legend!"
+      "line": "I seek the Grail of legend!",
+      "delivery": "boldly"
     },
     {
       "character": "Sir Lucan",
-      "line": "I'm afraid I don't have any suggestions..."
+      "line": "I'm afraid I don't have any suggestions...",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -148,15 +156,18 @@
     },
     {
       "character": "Sir Gawain",
-      "line": "Good day to you!"
+      "line": "Good day to you!",
+      "delivery": "warm, friendly"
     },
     {
       "character": "Player",
-      "line": "I seek the Grail in the name of Camelot!"
+      "line": "I seek the Grail in the name of Camelot!",
+      "delivery": "boldly"
     },
     {
       "character": "Sir Gawain",
-      "line": "The Grail? That is truly a noble quest indeed. None but Galahad have come close."
+      "line": "The Grail? That is truly a noble quest indeed. None but Galahad have come close.",
+      "delivery": "impressed"
     },
     {
       "character": "Player",
@@ -184,7 +195,8 @@
     },
     {
       "character": "Sir Kay",
-      "line": "I hear you are questing for the Holy Grail?!"
+      "line": "I hear you are questing for the Holy Grail?!",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -192,15 +204,18 @@
     },
     {
       "character": "Sir Kay",
-      "line": "Unfortunately not, Sirrah."
+      "line": "Unfortunately not, Sirrah.",
+      "delivery": "apologetic"
     },
     {
       "character": "Sir Tristram",
-      "line": "Hail Arthur, King of the Britons!"
+      "line": "Hail Arthur, King of the Britons!",
+      "delivery": "boisterous"
     },
     {
       "character": "Player",
-      "line": "Um... Hello."
+      "line": "Um... Hello.",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
@@ -208,7 +223,8 @@
     },
     {
       "character": "Sir Tristram",
-      "line": "Good luck with that!"
+      "line": "Good luck with that!",
+      "delivery": "cheerful"
     },
     {
       "character": "Sir Pelleas",
@@ -248,11 +264,13 @@
     },
     {
       "character": "Sir Bedivere",
-      "line": "The best of luck to you! Make the name of Camelot proud, and bring it back to us."
+      "line": "The best of luck to you! Make the name of Camelot proud, and bring it back to us.",
+      "delivery": "warm, encouraging"
     },
     {
       "character": "Sir Lancelot",
-      "line": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+      "line": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?",
+      "delivery": "boastful, arrogant"
     },
     {
       "character": "Player",
@@ -260,7 +278,8 @@
     },
     {
       "character": "Sir Lancelot",
-      "line": "The Grail? Ha! Frankly, friend, you're not in that league."
+      "line": "The Grail? Ha! Frankly, friend, you're not in that league.",
+      "delivery": "scornful, dismissive"
     },
     {
       "character": "Player",
@@ -268,11 +287,13 @@
     },
     {
       "character": "Sir Lancelot",
-      "line": "You got lucky with freeing Merlin but there's no way a puny wannabe like you is going to find the Holy Grail where so many others have failed."
+      "line": "You got lucky with freeing Merlin but there's no way a puny wannabe like you is going to find the Holy Grail where so many others have failed.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
-      "line": "We'll see about that."
+      "line": "We'll see about that.",
+      "delivery": "defiant"
     },
     {
       "character": "High Priest",
@@ -288,15 +309,18 @@
     },
     {
       "character": "High Priest",
-      "line": "Nor do I really care."
+      "line": "Nor do I really care.",
+      "delivery": "dismissive, indifferent"
     },
     {
       "character": "Crone",
-      "line": "Did you say the Grail? You are a Grail knight, yes? Well you'd better hurry. A Fisher King is in pain."
+      "line": "Did you say the Grail? You are a Grail knight, yes? Well you'd better hurry. A Fisher King is in pain.",
+      "delivery": "urgent, cryptic"
     },
     {
       "character": "Player",
-      "line": "Well I would, but I don't know where I am going!"
+      "line": "Well I would, but I don't know where I am going!",
+      "delivery": "exasperated"
     },
     {
       "character": "Crone",
@@ -320,7 +344,8 @@
     },
     {
       "character": "Crone",
-      "line": "The Fisher King is the owner and slave of the Grail..."
+      "line": "The Fisher King is the owner and slave of the Grail...",
+      "delivery": "ominous, cryptic"
     },
     {
       "character": "Player",
@@ -328,7 +353,8 @@
     },
     {
       "character": "Crone",
-      "line": "Good luck with that."
+      "line": "Good luck with that.",
+      "delivery": "dryly"
     },
     {
       "character": "Player",
@@ -352,11 +378,13 @@
     },
     {
       "character": "Crone",
-      "line": "The realm of the Fisher King is not quite of this reality. It is of a reality very close to ours though... Where it is easiest to cross, THAT is a point of realm crossing."
+      "line": "The realm of the Fisher King is not quite of this reality. It is of a reality very close to ours though... Where it is easiest to cross, THAT is a point of realm crossing.",
+      "delivery": "mysterious"
     },
     {
       "character": "Galahad",
-      "line": "Welcome to my home. It's rare for me to have guests! Would you like a cup of tea? I'll just put the kettle on."
+      "line": "Welcome to my home. It's rare for me to have guests! Would you like a cup of tea? I'll just put the kettle on.",
+      "delivery": "warm, hospitable"
     },
     {
       "character": "Player",
@@ -364,7 +392,8 @@
     },
     {
       "character": "Galahad",
-      "line": "Ah... the Grail... yes... that did fill me with wonder! Oh, that I could have stayed forever! The spear, the food, the people..."
+      "line": "Ah... the Grail... yes... that did fill me with wonder! Oh, that I could have stayed forever! The spear, the food, the people...",
+      "delivery": "wistful, wonder"
     },
     {
       "character": "Player",
@@ -372,7 +401,8 @@
     },
     {
       "character": "Galahad",
-      "line": "The Grail castle... It's... hard to describe with words. It mostly felt like a dream!"
+      "line": "The Grail castle... It's... hard to describe with words. It mostly felt like a dream!",
+      "delivery": "dreamy, wistful"
     },
     {
       "character": "Player",
@@ -404,7 +434,8 @@
     },
     {
       "character": "Galahad",
-      "line": "I did not find it through looking - though admittedly I looked long and hard - eventually, it found me."
+      "line": "I did not find it through looking - though admittedly I looked long and hard - eventually, it found me.",
+      "delivery": "contemplative"
     },
     {
       "character": "Player",
@@ -436,15 +467,18 @@
     },
     {
       "character": "Player",
-      "line": "Okay, have at ye oh evil knight!"
+      "line": "Okay, have at ye oh evil knight!",
+      "delivery": "fierce, bold"
     },
     {
       "character": "Player",
-      "line": "Actually I think I'll run away!"
+      "line": "Actually I think I'll run away!",
+      "delivery": "panicked"
     },
     {
       "character": "Fisherman",
-      "line": "Hi! I don't get many visitors here!"
+      "line": "Hi! I don't get many visitors here!",
+      "delivery": "pleasantly surprised"
     },
     {
       "character": "Player",
@@ -452,7 +486,8 @@
     },
     {
       "character": "Fisherman",
-      "line": "Not amazing. Not many fish can live in this gungey stuff. I remember when this was a pleasant river teeming with every sort of fish..."
+      "line": "Not amazing. Not many fish can live in this gungey stuff. I remember when this was a pleasant river teeming with every sort of fish...",
+      "delivery": "wistful, nostalgic"
     },
     {
       "character": "Player",
@@ -468,27 +503,33 @@
     },
     {
       "character": "Player",
-      "line": "...I didn't see any bells."
+      "line": "...I didn't see any bells.",
+      "delivery": "confused"
     },
     {
       "character": "Fisherman",
-      "line": "You must be blind then. There's ALWAYS bells there when I go to the castle."
+      "line": "You must be blind then. There's ALWAYS bells there when I go to the castle.",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
-      "line": "Yes, well, this place is a dump!"
+      "line": "Yes, well, this place is a dump!",
+      "delivery": "annoyed"
     },
     {
       "character": "Fisherman",
-      "line": "This place used to be very beautiful, however, as our king grows old and weak, the land seems to be dying too."
+      "line": "This place used to be very beautiful, however, as our king grows old and weak, the land seems to be dying too.",
+      "delivery": "sorrowful, nostalgic"
     },
     {
       "character": "Peasant",
-      "line": "Woe is me! Our crops are all failing... how shall I feed myself this winter?"
+      "line": "Woe is me! Our crops are all failing... how shall I feed myself this winter?",
+      "delivery": "despairing"
     },
     {
       "character": "Grail Maiden",
-      "line": "Welcome to the Grail castle. You should come inside, it's cold out here."
+      "line": "Welcome to the Grail castle. You should come inside, it's cold out here.",
+      "delivery": "serene, gentle"
     },
     {
       "character": "Grail Maiden",
@@ -496,7 +537,8 @@
     },
     {
       "character": "The Fisher King",
-      "line": "Ah! You got inside at last! You spent all that time fumbling around outside, I thought you'd never make it here."
+      "line": "Ah! You got inside at last! You spent all that time fumbling around outside, I thought you'd never make it here.",
+      "delivery": "weak, amused"
     },
     {
       "character": "Player",
@@ -512,7 +554,8 @@
     },
     {
       "character": "The Fisher King",
-      "line": "Ah excellent. A knight come to seek the Holy Grail. Maybe our land can be restored to its former glory."
+      "line": "Ah excellent. A knight come to seek the Holy Grail. Maybe our land can be restored to its former glory.",
+      "delivery": "weak, hopeful"
     },
     {
       "character": "The Fisher King",
@@ -528,19 +571,23 @@
     },
     {
       "character": "Player",
-      "line": "You don't look too well."
+      "line": "You don't look too well.",
+      "delivery": "concerned"
     },
     {
       "character": "The Fisher King",
-      "line": "Nope, I don't feel so good either."
+      "line": "Nope, I don't feel so good either.",
+      "delivery": "weakly"
     },
     {
       "character": "The Fisher King",
-      "line": "I fear my life is running short... Alas, my son and heir is not here. I am waiting for my son to return to this castle."
+      "line": "I fear my life is running short... Alas, my son and heir is not here. I am waiting for my son to return to this castle.",
+      "delivery": "weak, sorrowful"
     },
     {
       "character": "The Fisher King",
-      "line": "If you could find my son, that would be a great weight off my shoulders."
+      "line": "If you could find my son, that would be a great weight off my shoulders.",
+      "delivery": "pleading, weary"
     },
     {
       "character": "Player",
@@ -572,7 +619,8 @@
     },
     {
       "character": "King Arthur",
-      "line": "Ah yes. I remember young Percival. He rode off on a quest a couple of months ago. We are getting a bit worried, he's not back yet..."
+      "line": "Ah yes. I remember young Percival. He rode off on a quest a couple of months ago. We are getting a bit worried, he's not back yet...",
+      "delivery": "concerned"
     },
     {
       "character": "King Arthur",
@@ -600,7 +648,8 @@
     },
     {
       "character": "Sir Percival",
-      "line": "Wow, thank you! I could hardly breathe in there!"
+      "line": "Wow, thank you! I could hardly breathe in there!",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",
@@ -608,7 +657,8 @@
     },
     {
       "character": "Sir Percival",
-      "line": "It's a little embarrassing really."
+      "line": "It's a little embarrassing really.",
+      "delivery": "embarrassed"
     },
     {
       "character": "Sir Percival",
@@ -616,11 +666,13 @@
     },
     {
       "character": "Sir Percival",
-      "line": "I've been kept as a slave here for the last 3 months!"
+      "line": "I've been kept as a slave here for the last 3 months!",
+      "delivery": "distressed"
     },
     {
       "character": "Sir Percival",
-      "line": "A day or so ago, they decided it was a fun game to put me in this sack: then they forgot about me!"
+      "line": "A day or so ago, they decided it was a fun game to put me in this sack: then they forgot about me!",
+      "delivery": "indignant"
     },
     {
       "character": "Sir Percival",
@@ -628,7 +680,8 @@
     },
     {
       "character": "Player",
-      "line": "Come with me, I shall make you a king."
+      "line": "Come with me, I shall make you a king.",
+      "delivery": "grandly"
     },
     {
       "character": "Sir Percival",
@@ -676,31 +729,38 @@
     },
     {
       "character": "Sir Percival",
-      "line": "I said I will see you there then!"
+      "line": "I said I will see you there then!",
+      "delivery": "impatient"
     },
     {
       "character": "King Percival",
-      "line": "You missed all the excitement!"
+      "line": "You missed all the excitement!",
+      "delivery": "excited"
     },
     {
       "character": "King Percival",
-      "line": "I got here and agreed to take over duties as king here, then before my eyes the most miraculous changes occured here... grass and trees were growing outside before our very eyes!"
+      "line": "I got here and agreed to take over duties as king here, then before my eyes the most miraculous changes occured here... grass and trees were growing outside before our very eyes!",
+      "delivery": "amazed, joyful"
     },
     {
       "character": "King Percival",
-      "line": "Thank you very much for showing me the way home."
+      "line": "Thank you very much for showing me the way home.",
+      "delivery": "warm, grateful"
     },
     {
       "character": "Player",
-      "line": "I have retrieved the Grail!"
+      "line": "I have retrieved the Grail!",
+      "delivery": "triumphant"
     },
     {
       "character": "King Arthur",
-      "line": "Wow! Incredible! You truly are a splendid knight!"
+      "line": "Wow! Incredible! You truly are a splendid knight!",
+      "delivery": "delighted, impressed"
     },
     {
       "character": "King Arthur",
-      "line": "Thank you for retrieving the Grail! You shall be long remembered as one of the greatest heroes amongst the Knights of the Round Table!"
+      "line": "Thank you for retrieving the Grail! You shall be long remembered as one of the greatest heroes amongst the Knights of the Round Table!",
+      "delivery": "proud, grateful"
     },
     {
       "character": "Sir Palomedes",
@@ -724,7 +784,8 @@
     },
     {
       "character": "Sir Pelleas",
-      "line": "You are a very talented Knight indeed to have freed Merlin so quickly. You have all of our gratitude."
+      "line": "You are a very talented Knight indeed to have freed Merlin so quickly. You have all of our gratitude.",
+      "delivery": "appreciative"
     },
     {
       "character": "Sir Bedivere",
@@ -732,7 +793,8 @@
     },
     {
       "character": "Sir Lancelot",
-      "line": "Hmmm. I heard you freed Merlin. Either you're better than you look or you got lucky. I think the latter."
+      "line": "Hmmm. I heard you freed Merlin. Either you're better than you look or you got lucky. I think the latter.",
+      "delivery": "grudging, dismissive"
     },
     {
       "character": "Player",
@@ -748,7 +810,8 @@
     },
     {
       "character": "Merlin",
-      "line": "Congratulations, brave knight, on aiding Camelot in so many ways! If we ever require help again, I will make sure to call upon you!"
+      "line": "Congratulations, brave knight, on aiding Camelot in so many ways! If we ever require help again, I will make sure to call upon you!",
+      "delivery": "warm, proud"
     },
     {
       "character": "Player",

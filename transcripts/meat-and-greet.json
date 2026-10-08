@@ -8,11 +8,13 @@
     },
     {
       "character": "Player",
-      "line": "I don't know? Can you?"
+      "line": "I don't know? Can you?",
+      "delivery": "dry amusement"
     },
     {
       "character": "Emelio",
-      "line": "Hang on... You're one of them easterners, aren't you?"
+      "line": "Hang on... You're one of them easterners, aren't you?",
+      "delivery": "dawning realization"
     },
     {
       "character": "Player",
@@ -20,7 +22,8 @@
     },
     {
       "character": "Emelio",
-      "line": "Kuani! I'm Emelio, and you might be just the person I need to help me out with an exciting new business venture!"
+      "line": "Kuani! I'm Emelio, and you might be just the person I need to help me out with an exciting new business venture!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -28,15 +31,18 @@
     },
     {
       "character": "Emelio",
-      "line": "Well as an easterner, I've no doubt you're all too familiar with the wonder that is the kabit!"
+      "line": "Well as an easterner, I've no doubt you're all too familiar with the wonder that is the kabit!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
-      "line": "Kabit? What's a kabit?"
+      "line": "Kabit? What's a kabit?",
+      "delivery": "puzzled"
     },
     {
       "character": "Emelio",
-      "line": "You don't know? But how could you not know? My life was changed forever when I tried one!"
+      "line": "You don't know? But how could you not know? My life was changed forever when I tried one!",
+      "delivery": "incredulous"
     },
     {
       "character": "Emelio",
@@ -44,23 +50,28 @@
     },
     {
       "character": "Emelio",
-      "line": "But then I tried a kabit, and it changed everything! If that's the kind of food you easterners can make, then as far as I'm concerned, you're welcome here any day of the week!"
+      "line": "But then I tried a kabit, and it changed everything! If that's the kind of food you easterners can make, then as far as I'm concerned, you're welcome here any day of the week!",
+      "delivery": "passionate"
     },
     {
       "character": "Player",
-      "line": "Okay... but what's a kabit?"
+      "line": "Okay... but what's a kabit?",
+      "delivery": "exasperated"
     },
     {
       "character": "Emelio",
-      "line": "A kabit! The amazing blend of meat, spices and salad, all wrapped in bread! Genius!"
+      "line": "A kabit! The amazing blend of meat, spices and salad, all wrapped in bread! Genius!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
-      "line": "Oh, you mean a kebab!"
+      "line": "Oh, you mean a kebab!",
+      "delivery": "realization"
     },
     {
       "character": "Emelio",
-      "line": "Yes, kebab! Brilliant!"
+      "line": "Yes, kebab! Brilliant!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -76,7 +87,8 @@
     },
     {
       "character": "Emelio",
-      "line": "Exactly!"
+      "line": "Exactly!",
+      "delivery": "emphatic"
     },
     {
       "character": "Player",
@@ -104,11 +116,13 @@
     },
     {
       "character": "Emelio",
-      "line": "Kuani! I look forward to your return."
+      "line": "Kuani! I look forward to your return.",
+      "delivery": "warm"
     },
     {
       "character": "Player",
-      "line": "Sorry, but I think I'll have to pass on this one."
+      "line": "Sorry, but I think I'll have to pass on this one.",
+      "delivery": "apologetic"
     },
     {
       "character": "Emelio",
@@ -120,7 +134,8 @@
     },
     {
       "character": "Spice Merchant",
-      "line": "A little bit of spice makes everything taste nice! Come and get it here!"
+      "line": "A little bit of spice makes everything taste nice! Come and get it here!",
+      "delivery": "playful, shouting"
     },
     {
       "character": "Player",
@@ -136,7 +151,8 @@
     },
     {
       "character": "Spice Merchant",
-      "line": "Well the good news is that his spices arrived this morning. The bad news is that I can't get the box open."
+      "line": "Well the good news is that his spices arrived this morning. The bad news is that I can't get the box open.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -148,7 +164,8 @@
     },
     {
       "character": "Spice Merchant",
-      "line": "Thing is, he's gone and locked the box to make sure the goods can't be stolen, but hasn't told me how to unlock it again!"
+      "line": "Thing is, he's gone and locked the box to make sure the goods can't be stolen, but hasn't told me how to unlock it again!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -164,7 +181,8 @@
     },
     {
       "character": "Spice Merchant",
-      "line": "Kuani! You did it! I'll have these sent over to Emelio right away. Thanks for the help."
+      "line": "Kuani! You did it! I'll have these sent over to Emelio right away. Thanks for the help.",
+      "delivery": "delighted, grateful"
     },
     {
       "character": "Player",
@@ -196,7 +214,8 @@
     },
     {
       "character": "Alba",
-      "line": "Nilsal, iknami. What can I do for you today?"
+      "line": "Nilsal, iknami. What can I do for you today?",
+      "delivery": "warm"
     },
     {
       "character": "Player",
@@ -204,7 +223,8 @@
     },
     {
       "character": "Alba",
-      "line": "Ah, yes. Apologies, iknami, but we've been dealing with a bit of a wolf problem recently and it's delayed some of our orders."
+      "line": "Ah, yes. Apologies, iknami, but we've been dealing with a bit of a wolf problem recently and it's delayed some of our orders.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -248,7 +268,8 @@
     },
     {
       "character": "Alba",
-      "line": "Kuani! Thank you so much for the help, iknami. While you were gone, I was able to get Emelio's order finished. It's on the way to him now."
+      "line": "Kuani! Thank you so much for the help, iknami. While you were gone, I was able to get Emelio's order finished. It's on the way to him now.",
+      "delivery": "grateful"
     },
     {
       "character": "Player",
@@ -272,47 +293,58 @@
     },
     {
       "character": "Lucas",
-      "line": "I hope this food is worth it. I've got plenty of other things to be doing."
+      "line": "I hope this food is worth it. I've got plenty of other things to be doing.",
+      "delivery": "impatient, grumbling"
     },
     {
       "character": "Renata",
-      "line": "I'll never turn down free food! I just hope it tastes good!"
+      "line": "I'll never turn down free food! I just hope it tastes good!",
+      "delivery": "cheerful, eager"
     },
     {
       "character": "Vincens",
-      "line": "I wonder what Emelio has cooked up this time."
+      "line": "I wonder what Emelio has cooked up this time.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Emelio",
-      "line": "Nilsal, friend. Thanks to your good work out there, all the ingredients have now arrived! Now we move on to the critical step: The recipe!"
+      "line": "Nilsal, friend. Thanks to your good work out there, all the ingredients have now arrived! Now we move on to the critical step: The recipe!",
+      "delivery": "excited"
     },
     {
       "character": "Emelio",
-      "line": "Outside, I have gathered the finest group of connoisseurs who will assist us in finding the perfect ratio of ingredients to achieve the ultimate kebab!"
+      "line": "Outside, I have gathered the finest group of connoisseurs who will assist us in finding the perfect ratio of ingredients to achieve the ultimate kebab!",
+      "delivery": "grandiose"
     },
     {
       "character": "Player",
-      "line": "Where did these connoisseurs come from?"
+      "line": "Where did these connoisseurs come from?",
+      "delivery": "skeptical"
     },
     {
       "character": "Emelio",
-      "line": "Oh, I just went into the local pub and promised a free drink to anyone who would help."
+      "line": "Oh, I just went into the local pub and promised a free drink to anyone who would help.",
+      "delivery": "breezy"
     },
     {
       "character": "Player",
-      "line": "I see. Are you sure they're going to give us the most reliable opinions?"
+      "line": "I see. Are you sure they're going to give us the most reliable opinions?",
+      "delivery": "dubious"
     },
     {
       "character": "Emelio",
-      "line": "Of course! People like them are going to be our top customers!"
+      "line": "Of course! People like them are going to be our top customers!",
+      "delivery": "confident"
     },
     {
       "character": "Emelio",
-      "line": "Imagine, you've been out late at your local establishment, and before heading home, you find yourself in need of the perfect late-night meal. That is where we come in!"
+      "line": "Imagine, you've been out late at your local establishment, and before heading home, you find yourself in need of the perfect late-night meal. That is where we come in!",
+      "delivery": "grandiose"
     },
     {
       "character": "Player",
-      "line": "If you're sure."
+      "line": "If you're sure.",
+      "delivery": "unconvinced"
     },
     {
       "character": "Emelio",
@@ -348,7 +380,8 @@
     },
     {
       "character": "Lucas",
-      "line": "Well the main thing is to make sure you're not putting too much salad in. You want there to be twice as much meat as there is salad."
+      "line": "Well the main thing is to make sure you're not putting too much salad in. You want there to be twice as much meat as there is salad.",
+      "delivery": "gruff"
     },
     {
       "character": "Emelio",
@@ -464,19 +497,23 @@
     },
     {
       "character": "Renata",
-      "line": "Eww! This is awful."
+      "line": "Eww! This is awful.",
+      "delivery": "disgusted"
     },
     {
       "character": "Player",
-      "line": "Oh. I guess we'd better try again."
+      "line": "Oh. I guess we'd better try again.",
+      "delivery": "disappointed"
     },
     {
       "character": "Renata",
-      "line": "This is brilliant! Amazing stuff!"
+      "line": "This is brilliant! Amazing stuff!",
+      "delivery": "delighted, excited"
     },
     {
       "character": "Player",
-      "line": "Fantastic! I'll let Emilio know right away!"
+      "line": "Fantastic! I'll let Emilio know right away!",
+      "delivery": "excited"
     },
     {
       "character": "Emelio",
@@ -488,15 +525,18 @@
     },
     {
       "character": "Emelio",
-      "line": "Tatamo! This is worse than the day my father left us! We must try again. I've currently got portion of meat, portion of salad, portion of spice and portion of sauce. What shall we change?"
+      "line": "Tatamo! This is worse than the day my father left us! We must try again. I've currently got portion of meat, portion of salad, portion of spice and portion of sauce. What shall we change?",
+      "delivery": "melodramatic, despairing"
     },
     {
       "character": "Player",
-      "line": "They loved it!"
+      "line": "They loved it!",
+      "delivery": "excited"
     },
     {
       "character": "Emelio",
-      "line": "Excellent!"
+      "line": "Excellent!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
@@ -512,23 +552,28 @@
     },
     {
       "character": "Emelio",
-      "line": "One word, iknami: Marketing! And I know just the place to do it."
+      "line": "One word, iknami: Marketing! And I know just the place to do it.",
+      "delivery": "excited"
     },
     {
       "character": "Emelio",
-      "line": "You must visit Lelia at the Colosseum at once. Take her a sample of our fine kebabs, and she will beg us to let her help sell them to the people of Varlamore!"
+      "line": "You must visit Lelia at the Colosseum at once. Take her a sample of our fine kebabs, and she will beg us to let her help sell them to the people of Varlamore!",
+      "delivery": "grandiose"
     },
     {
       "character": "Lucas",
-      "line": "Well now that we're done here, when am I getting paid?"
+      "line": "Well now that we're done here, when am I getting paid?",
+      "delivery": "impatient, grumbling"
     },
     {
       "character": "Renata",
-      "line": "I think I deserve a lifetime supply of these kebabs for helping to get things started."
+      "line": "I think I deserve a lifetime supply of these kebabs for helping to get things started.",
+      "delivery": "cheerful"
     },
     {
       "character": "Vincens",
-      "line": "I think Emelio might actually be on for a winner this time.*"
+      "line": "I think Emelio might actually be on for a winner this time.*",
+      "delivery": "thoughtful"
     },
     {
       "character": "Emelio",
@@ -536,15 +581,18 @@
     },
     {
       "character": "Player",
-      "line": "I lost one."
+      "line": "I lost one.",
+      "delivery": "sheepish"
     },
     {
       "character": "Emelio",
-      "line": "Tatamo! We're very lucky I made some spares."
+      "line": "Tatamo! We're very lucky I made some spares.",
+      "delivery": "exasperated"
     },
     {
       "character": "Emelio",
-      "line": "Now you must hurry over there at once!"
+      "line": "Now you must hurry over there at once!",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -556,7 +604,8 @@
     },
     {
       "character": "Lelia",
-      "line": "Need something?"
+      "line": "Need something?",
+      "delivery": "dismissive, curt"
     },
     {
       "character": "Player",
@@ -564,7 +613,8 @@
     },
     {
       "character": "Lelia",
-      "line": "Looking to market another one of his buisness ideas is he? It will cost him double this time. We still haven't cleaned up the mess made by his last great idea."
+      "line": "Looking to market another one of his buisness ideas is he? It will cost him double this time. We still haven't cleaned up the mess made by his last great idea.",
+      "delivery": "dismissive, weary"
     },
     {
       "character": "Player",
@@ -572,7 +622,8 @@
     },
     {
       "character": "Lelia",
-      "line": "Emelio having ideas, or said ideas not being very good? Yes to both, I suppose."
+      "line": "Emelio having ideas, or said ideas not being very good? Yes to both, I suppose.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -588,7 +639,8 @@
     },
     {
       "character": "Lelia",
-      "line": "Hmm... I must admit, I'm somewhat impressed. Emelio might finally be on to something here."
+      "line": "Hmm... I must admit, I'm somewhat impressed. Emelio might finally be on to something here.",
+      "delivery": "pleasantly surprised"
     },
     {
       "character": "Player",
@@ -620,11 +672,13 @@
     },
     {
       "character": "Player",
-      "line": "Great! So, er... What do I do with this minotaur?"
+      "line": "Great! So, er... What do I do with this minotaur?",
+      "delivery": "uncertain"
     },
     {
       "character": "Lelia",
-      "line": "You want to convince people to buy these kebabs, right? I'd suggest you head on in, take a bite out of one and then give the minotaur a good kick."
+      "line": "You want to convince people to buy these kebabs, right? I'd suggest you head on in, take a bite out of one and then give the minotaur a good kick.",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Lelia",
@@ -632,7 +686,8 @@
     },
     {
       "character": "Player",
-      "line": "Will the minotaur be okay with that?"
+      "line": "Will the minotaur be okay with that?",
+      "delivery": "concerned"
     },
     {
       "character": "Lelia",
@@ -648,7 +703,8 @@
     },
     {
       "character": "Player",
-      "line": "What? Right now?"
+      "line": "What? Right now?",
+      "delivery": "alarmed"
     },
     {
       "character": "Lelia",
@@ -664,11 +720,13 @@
     },
     {
       "character": "Colosseum Announcer",
-      "line": "Welcome, one and all, to the Fortis Colosseum! We have a thrilling event lined up for you today, but first, we have something new to show you!"
+      "line": "Welcome, one and all, to the Fortis Colosseum! We have a thrilling event lined up for you today, but first, we have something new to show you!",
+      "delivery": "booming, theatrical"
     },
     {
       "character": "Colosseum Announcer",
-      "line": "Introducing the kebab! This delicacy comes straight from the east and is just the thing to give you the strength you need after a hard day of work."
+      "line": "Introducing the kebab! This delicacy comes straight from the east and is just the thing to give you the strength you need after a hard day of work.",
+      "delivery": "enthusiastic, theatrical"
     },
     {
       "character": "Colosseum Announcer",
@@ -676,15 +734,18 @@
     },
     {
       "character": "Minotaur",
-      "line": "Huh? Human... eat... friend?"
+      "line": "Huh? Human... eat... friend?",
+      "delivery": "slow, confused"
     },
     {
       "character": "Player",
-      "line": "What? No, it's a kebab. The meat is... buffalo... I think."
+      "line": "What? No, it's a kebab. The meat is... buffalo... I think.",
+      "delivery": "flustered"
     },
     {
       "character": "Minotaur",
-      "line": "Kebab... is... minotaur?"
+      "line": "Kebab... is... minotaur?",
+      "delivery": "slow, suspicious"
     },
     {
       "character": "Player",
@@ -692,11 +753,13 @@
     },
     {
       "character": "Minotaur",
-      "line": "Human... eat... minotaur! Human... die!"
+      "line": "Human... eat... minotaur! Human... die!",
+      "delivery": "enraged, menacing"
     },
     {
       "character": "Player",
-      "line": "Oh boy..."
+      "line": "Oh boy...",
+      "delivery": "dread"
     },
     {
       "character": "Player",
@@ -712,11 +775,13 @@
     },
     {
       "character": "Player",
-      "line": "That minotaur tried to kill me!"
+      "line": "That minotaur tried to kill me!",
+      "delivery": "alarmed, indignant"
     },
     {
       "character": "Lelia",
-      "line": "Yes, he doesn't seem too happy about those kebabs. I'll speak to the beastmaster about it. In the meantime, you'd better get in there and deal with him."
+      "line": "Yes, he doesn't seem too happy about those kebabs. I'll speak to the beastmaster about it. In the meantime, you'd better get in there and deal with him.",
+      "delivery": "unbothered"
     },
     {
       "character": "Player",
@@ -736,15 +801,18 @@
     },
     {
       "character": "Lelia",
-      "line": "What about it? It got out of control and you killed it. Saves the beastmaster a job."
+      "line": "What about it? It got out of control and you killed it. Saves the beastmaster a job.",
+      "delivery": "callous, dismissive"
     },
     {
       "character": "Player",
-      "line": "But it could have killed me! You said it would be safe."
+      "line": "But it could have killed me! You said it would be safe.",
+      "delivery": "indignant"
     },
     {
       "character": "Lelia",
-      "line": "You survived, didn't you? I don't see the problem."
+      "line": "You survived, didn't you? I don't see the problem.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -756,7 +824,8 @@
     },
     {
       "character": "Player",
-      "line": "Fine."
+      "line": "Fine.",
+      "delivery": "resigned"
     },
     {
       "character": "Lelia",
@@ -772,23 +841,28 @@
     },
     {
       "character": "Player",
-      "line": "Well I did run into a slight complication, but apart from that, it went very well."
+      "line": "Well I did run into a slight complication, but apart from that, it went very well.",
+      "delivery": "wry, understated"
     },
     {
       "character": "Emelio",
-      "line": "You have done a great service to Varlamore, friend. Thanks to you, all here will be able to indulge in the joy that is kebabs. As thanks, I will offer you a special price for any kebabs you buy!"
+      "line": "You have done a great service to Varlamore, friend. Thanks to you, all here will be able to indulge in the joy that is kebabs. As thanks, I will offer you a special price for any kebabs you buy!",
+      "delivery": "warm, grateful"
     },
     {
       "character": "Player",
-      "line": "Do I not get to share in any of the profits, given I helped set it all up?"
+      "line": "Do I not get to share in any of the profits, given I helped set it all up?",
+      "delivery": "hopeful"
     },
     {
       "character": "Emelio",
-      "line": "Sorry, friend, but I must prepare some more kebabs for our next customers! Until next time."
+      "line": "Sorry, friend, but I must prepare some more kebabs for our next customers! Until next time.",
+      "delivery": "breezy"
     },
     {
       "character": "Player",
-      "line": "Right..."
+      "line": "Right...",
+      "delivery": "deflated, dry"
     }
   ],
   "characters": [
