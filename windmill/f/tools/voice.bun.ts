@@ -24,6 +24,7 @@ export interface VoiceMap {
 export interface GenerateSpeechInput {
   readonly voiceId: string;
   readonly text: string;
+  readonly deliveryText?: string;
   readonly character: string;
   readonly previousText?: string;
   readonly nextText?: string;
@@ -145,10 +146,11 @@ export function createElevenLabsClient(apiKey: string): ElevenLabsClient {
     const hash = generateDialogHash(input.character, input.text);
     const cleanText = removeSpecialCharacters(input.text.trim());
     if (!cleanText) throw new Error(`Text is empty after cleaning: "${input.text}"`);
+    const spokenText = input.deliveryText?.trim() || cleanText;
 
     const audioData = await withRetry(async () => {
       const audioStream = await client.textToSpeech.convert(input.voiceId, {
-        text: cleanText,
+        text: spokenText,
         modelId: "eleven_v4",
         outputFormat: "mp3_44100_96",
         voiceSettings: {

@@ -1,6 +1,7 @@
 import * as wmill from "windmill-client";
 import {
   createGitHubClient,
+  removeSpecialCharacters,
   slugifyQuest,
   type DialogLine,
   type GenerationTarget,
@@ -25,6 +26,9 @@ export async function main(
   for (const [index, line] of lines.entries()) {
     const previousText = lines[index - 1]?.line;
     const nextText = lines[index + 1]?.line;
+    const deliveryText = line.delivery
+      ? `[${line.delivery}] ${removeSpecialCharacters(line.line.trim())}`
+      : undefined;
 
     const characters =
       line.character === "Player" ? ["Player Male", "Player Female"] : [line.character];
@@ -35,7 +39,7 @@ export async function main(
         console.warn(`No voice for "${character}", skipping: "${line.line.substring(0, 50)}"`);
         continue;
       }
-      targets.push({ questName, character, voiceId, text: line.line, previousText, nextText });
+      targets.push({ questName, character, voiceId, text: line.line, deliveryText, previousText, nextText });
     }
   }
 
