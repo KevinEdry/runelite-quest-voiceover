@@ -8,10 +8,10 @@ Extract dialogue and character data from an OSRS Wiki quest transcript page.
 
 ### Step 1: Run the extraction script
 
-Run the Python script to extract dialogue lines:
+Run the extraction script to extract dialogue lines:
 
 ```bash
-pixi run python3 scripts/extract_transcript.py "$ARGUMENTS"
+bun run scripts/extract-transcript.ts "$ARGUMENTS"
 ```
 
 This will:
