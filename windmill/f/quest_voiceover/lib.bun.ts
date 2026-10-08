@@ -4,3 +4,4 @@ export * from "../tools/text";
 export * from "../tools/types";
 export * from "../tools/voice";
 export * from "../tools/git";
+export * from "../tools/delivery";

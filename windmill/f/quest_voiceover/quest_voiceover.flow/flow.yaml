@@ -125,6 +125,9 @@ value:
           voiceMap:
             type: javascript
             expr: results.setup_voices
+          characters:
+            type: javascript
+            expr: results.load_transcript.characters
           githubOwner:
             type: javascript
             expr: flow_input.githubOwner
@@ -137,6 +140,9 @@ value:
           featureBranch:
             type: javascript
             expr: flow_input.featureBranch
+          voiceActing:
+            type: javascript
+            expr: flow_input.voiceActing
         path: f/quest_voiceover/expand_targets
     - id: generate_loop
       summary: Generate + commit audio per line
@@ -250,6 +256,7 @@ schema:
     - githubRepo
     - costPer1kCharacters
     - targetSeconds
+    - voiceActing
     - dryRun
     - resume
     - featureBranch
@@ -274,6 +281,10 @@ schema:
     databaseBranch:
       type: string
       default: database
+    voiceActing:
+      type: boolean
+      default: true
+      description: Annotate each line with eleven_v4 delivery tags via the LLM before synthesis. Requires the f/quest_voiceover/anthropic_api_key variable; falls back to plain delivery if absent.
     dryRun:
       type: boolean
       default: false

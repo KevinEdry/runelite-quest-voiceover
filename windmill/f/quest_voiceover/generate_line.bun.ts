@@ -37,6 +37,7 @@ export async function main(
     const speech = await elevenlabs.generateSpeech({
       voiceId: target.voiceId,
       text: target.text,
+      deliveryText: target.deliveryText,
       character: target.character,
       previousText: target.previousText,
       nextText: target.nextText,

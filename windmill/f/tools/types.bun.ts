@@ -8,6 +8,7 @@ export interface GenerationTarget {
   character: string;
   voiceId: string;
   text: string;
+  deliveryText?: string;
   previousText?: string;
   nextText?: string;
 }
