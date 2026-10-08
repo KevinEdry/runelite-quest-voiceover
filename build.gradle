@@ -22,7 +22,9 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 
-	implementation 'net.runelite:jaco-mp3-player:0.10.2-rl1'
+	implementation('com.googlecode.soundlibs:jlayer:1.0.1.4') {
+		exclude group: 'junit'
+	}
 	implementation 'org.xerial:sqlite-jdbc:3.46.0.0'
 }
 
@@ -32,6 +34,14 @@ version = '1.13.0' // x-release-please-version
 tasks.withType(JavaCompile) {
 	options.encoding = 'UTF-8'
 	options.release.set(11)
+}
+
+tasks.register('runClient', JavaExec) {
+	group = 'application'
+	description = 'Launch RuneLite with the Quest Voiceover plugin for manual testing'
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass.set('com.quest.voiceover.QuestVoiceoverPluginTest')
+	jvmArgs = ['-ea']
 }
 
 task generateVersionProperties {

@@ -3,6 +3,7 @@ package com.quest.voiceover.modules.audio;
 import com.quest.voiceover.QuestVoiceoverConfig;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
+import okhttp3.OkHttpClient;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
@@ -20,6 +21,9 @@ public class AudioManager {
     private Client client;
 
     @Inject
+    private OkHttpClient okHttpClient;
+
+    @Inject
     private AudioDuckingManager audioDuckingManager;
 
     @Inject
@@ -30,8 +34,12 @@ public class AudioManager {
 
     private void initializePlayerIfNeeded() {
         if (audioPlayer == null) {
-            audioPlayer = new AudioPlayerManager(this::onPlaybackComplete);
+            audioPlayer = new AudioPlayerManager(this::onPlaybackComplete, okHttpClient);
         }
+    }
+
+    public int getPlaybackPositionMillis() {
+        return audioPlayer == null ? 0 : audioPlayer.getPositionMillis();
     }
 
     public void play(String fileName, String questName, String characterName) {
@@ -54,6 +62,7 @@ public class AudioManager {
         audioDuckingManager.duck();
 
         applyVolume();
+        applySpeed();
         audioPlayer.play(fileName);
     }
 
@@ -140,6 +149,7 @@ public class AudioManager {
         log.info("Skipping to next: {}", next.getFileName());
         audioQueueManager.setCurrentlyPlaying(next.getFileName(), next.getQuestName(), next.getCharacterName());
         applyVolume();
+        applySpeed();
         audioPlayer.play(next.getFileName());
     }
 
@@ -159,11 +169,16 @@ public class AudioManager {
         log.info("Playing next from queue: {}", next.getFileName());
         audioQueueManager.setCurrentlyPlaying(next.getFileName(), next.getQuestName(), next.getCharacterName());
         applyVolume();
+        applySpeed();
         audioPlayer.play(next.getFileName());
     }
 
     private void applyVolume() {
         int volume = config.mute() ? 0 : config.volume();
         audioPlayer.setVolume(volume);
+    }
+
+    private void applySpeed() {
+        audioPlayer.setSpeed(config.playbackSpeed().getMultiplier());
     }
 }

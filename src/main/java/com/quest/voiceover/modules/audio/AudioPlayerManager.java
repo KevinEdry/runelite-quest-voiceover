@@ -1,9 +1,9 @@
 package com.quest.voiceover.modules.audio;
 
 import com.quest.voiceover.Constants;
-import jaco.mp3.player.MP3Player;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
+import okhttp3.OkHttpClient;
 
 import java.net.URL;
 import java.util.concurrent.Executors;
@@ -17,8 +17,9 @@ public class AudioPlayerManager {
 
     private final ScheduledExecutorService executor = Executors.newSingleThreadScheduledExecutor();
     private final Runnable onPlaybackComplete;
+    private final OkHttpClient okHttpClient;
 
-    private volatile MP3Player player;
+    private volatile AudioPlayer player;
 
     @Getter
     private volatile boolean playing;
@@ -26,8 +27,14 @@ public class AudioPlayerManager {
     @Getter
     private volatile boolean paused;
 
-    public AudioPlayerManager(Runnable onPlaybackComplete) {
+    public AudioPlayerManager(Runnable onPlaybackComplete, OkHttpClient okHttpClient) {
         this.onPlaybackComplete = onPlaybackComplete;
+        this.okHttpClient = okHttpClient;
+    }
+
+    public int getPositionMillis() {
+        AudioPlayer currentPlayer = player;
+        return currentPlayer == null ? 0 : currentPlayer.getPositionMillis();
     }
 
     public void play(String fileName) {
@@ -82,9 +89,17 @@ public class AudioPlayerManager {
         });
     }
 
+    public void setSpeed(double speed) {
+        executor.submit(() -> {
+            if (player != null) {
+                player.setSpeed(speed);
+            }
+        });
+    }
+
     private void playInternal(String fileName) {
         URL soundUrl = buildSoundUrl(fileName);
-        MP3Player currentPlayer = getOrCreatePlayer();
+        AudioPlayer currentPlayer = getOrCreatePlayer();
 
         currentPlayer.add(soundUrl);
         currentPlayer.play();
@@ -129,14 +144,14 @@ public class AudioPlayerManager {
             .url();
     }
 
-    private MP3Player getOrCreatePlayer() {
+    private AudioPlayer getOrCreatePlayer() {
         if (player != null) {
             return player;
         }
 
         synchronized (this) {
             if (player == null) {
-                player = new MP3Player();
+                player = new AudioPlayer(okHttpClient);
             }
         }
         return player;
