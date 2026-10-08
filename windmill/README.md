@@ -215,8 +215,8 @@ description yields a different voice every time — so a deleted `generated` voi
 from its description. But the character's **audio still exists** on the `sounds` branch, so the
 `clone_voices` flow rebuilds the voice via **Instant Voice Cloning (IVC)** from those clips.
 
-Why IVC specifically: PVC (professional cloning) isn't optimized for `eleven_v3` yet (this is what
-broke the old professional Player Female), whereas **IVC works with v3**. For each character the flow
+Why IVC specifically: PVC (professional cloning) isn't optimized for the expressive v3/v4 models yet
+(this is what broke the old professional Player Female), whereas **IVC works with them**. For each character the flow
 collects **~2 minutes** of their audio — IVC's sweet spot; more than ~3 min can *degrade* the clone,
 and file count doesn't matter, only total duration — and creates a voice named after them.
 

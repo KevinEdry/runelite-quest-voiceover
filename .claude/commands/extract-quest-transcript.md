@@ -8,10 +8,10 @@ Extract dialogue and character data from an OSRS Wiki quest transcript page.
 
 ### Step 1: Run the extraction script
 
-Run the Python script to extract dialogue lines:
+Run the extraction script to extract dialogue lines:
 
 ```bash
-pixi run python3 scripts/extract_transcript.py "$ARGUMENTS"
+bun run scripts/extract-transcript.ts "$ARGUMENTS"
 ```
 
 This will:
@@ -42,9 +42,18 @@ Example description:
 "Middle-aged male, British accent, gruff and impatient tone, a hardworking cook who takes pride in his work but is easily stressed."
 ```
 
-### Step 4: Update the JSON file
+### Step 4: Add per-line delivery tags
 
-Add the `description` field to each character in the JSON file.
+For **every** line — including the Player's — add an optional `delivery` field holding ElevenLabs v4 audio tags that direct how the line is spoken. Unlike descriptions (which skip the Player), delivery applies to Player lines too, since the Player is voiced. The pipeline wraps the value in brackets and prepends it to the line at synthesis, so store the cues **without brackets**.
+
+1. **Base the delivery** on the line's content, and for NPCs the speaker's personality (from their description). For Player lines, base it on the line's content and the conversational moment.
+2. **Use comma-separated cues**, at most two, e.g. `"annoyed"`, `"nervous, urgent"`, `"quietly, resigned"`, `"dry amusement"`, `"shouting"`, `"whispering"`.
+3. **Be tasteful** — most lines need no delivery tag. Omit the field entirely for flat or purely functional lines. Do not tag every line.
+4. **Never put words to be spoken in `delivery`** — it is direction only; the spoken words stay in `line`.
+
+### Step 5: Update the JSON file
+
+Add the `description` field to each character, and the `delivery` field to lines that warrant it.
 
 Final JSON structure:
 ```json
@@ -52,8 +61,8 @@ Final JSON structure:
   "branch": "quest/quest-name",
   "quest_name": "Quest Name",
   "lines": [
-    { "character": "NPC Name", "line": "Dialogue text here." },
-    { "character": "Player", "line": "Player's response." }
+    { "character": "NPC Name", "line": "You'll never take me alive!", "delivery": "shouting, defiant" },
+    { "character": "Player", "line": "Wait... you're the thief?", "delivery": "surprised" }
   ],
   "characters": [
     {
@@ -64,14 +73,16 @@ Final JSON structure:
 }
 ```
 
-### Step 5: Validation
+### Step 6: Validation
 
 1. Count the number of `lines` in the generated JSON
 2. Compare with the wiki page speaker count to verify extraction accuracy
 3. Ensure all characters have descriptions
+4. Ensure any `delivery` values are bare cues (no brackets) and contain no spoken words
 
 ## Important Notes
 
 - Dialogue lines should preserve the original punctuation and formatting
 - Character descriptions should be suitable for ElevenLabs voice generation
 - If a character has little lore, make reasonable inferences based on their role and dialogue
+- `delivery` is optional per line and affects only the generated audio, not the line's filename

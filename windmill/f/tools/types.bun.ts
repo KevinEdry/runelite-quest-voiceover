@@ -1,6 +1,7 @@
 export interface DialogLine {
   character: string;
   line: string;
+  delivery?: string;
 }
 
 export interface GenerationTarget {
@@ -8,6 +9,7 @@ export interface GenerationTarget {
   character: string;
   voiceId: string;
   text: string;
+  deliveryText?: string;
   previousText?: string;
   nextText?: string;
 }
