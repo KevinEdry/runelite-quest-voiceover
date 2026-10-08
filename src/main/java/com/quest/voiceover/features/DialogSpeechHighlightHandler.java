@@ -1,6 +1,7 @@
 package com.quest.voiceover.features;
 
 import com.quest.voiceover.QuestVoiceoverConfig;
+import com.quest.voiceover.modules.audio.AudioManager;
 import com.quest.voiceover.modules.dialog.DialogManager;
 import com.quest.voiceover.utility.ColorUtility;
 import com.quest.voiceover.Constants;
@@ -31,6 +32,7 @@ public class DialogSpeechHighlightHandler {
     private static final Pattern WORD_PATTERN = Pattern.compile("\\S+");
     private static final Pattern PUNCTUATION_PAUSE_PATTERN = Pattern.compile("[.!?]+$");
     private static final int PUNCTUATION_PAUSE_WEIGHT = 7;
+    private static final long HIGHLIGHT_POLL_MS = 50;
 
     @Inject
     private QuestVoiceoverConfig config;
@@ -47,9 +49,13 @@ public class DialogSpeechHighlightHandler {
     @Inject
     private OkHttpClient okHttpClient;
 
+    @Inject
+    private AudioManager audioManager;
+
     private String originalText;
     private List<WordPosition> wordPositions;
     private volatile int currentWordIndex;
+    private long playbackStartWallClock;
     private final List<ScheduledFuture<?>> scheduledTasks = new ArrayList<>();
 
     public void startAsync(String audioUri, String dialogText) {
@@ -140,22 +146,61 @@ public class DialogSpeechHighlightHandler {
     }
 
     private void scheduleWordHighlights(long totalDurationMs) {
+        long[] wordStartTimes = computeWordStartTimes(totalDurationMs);
+        playbackStartWallClock = System.currentTimeMillis();
+        pollHighlight(wordStartTimes);
+    }
+
+    private long[] computeWordStartTimes(long totalDurationMs) {
         int totalWeight = calculateTotalWeight();
+        long[] startTimes = new long[wordPositions.size()];
         long cumulativeTime = 0;
 
         for (int wordIndex = 0; wordIndex < wordPositions.size(); wordIndex++) {
-            WordPosition pos = wordPositions.get(wordIndex);
-            long wordDuration = calculateWordDuration(pos.weight, totalWeight, totalDurationMs);
-
-            final int targetWordIndex = wordIndex + 1;
-            ScheduledFuture<?> task = executor.schedule(
-                () -> highlightUpToWord(targetWordIndex),
-                cumulativeTime,
-                TimeUnit.MILLISECONDS
-            );
-            scheduledTasks.add(task);
-            cumulativeTime += wordDuration;
+            startTimes[wordIndex] = cumulativeTime;
+            cumulativeTime += calculateWordDuration(wordPositions.get(wordIndex).weight, totalWeight, totalDurationMs);
         }
+
+        return startTimes;
+    }
+
+    private void pollHighlight(long[] wordStartTimes) {
+        ScheduledFuture<?> task = executor.schedule(() -> {
+            long position = resolvePlaybackPosition();
+            int wordsStarted = countWordsStarted(wordStartTimes, position);
+
+            if (wordsStarted > currentWordIndex) {
+                highlightUpToWord(wordsStarted);
+            }
+
+            if (currentWordIndex < wordStartTimes.length) {
+                pollHighlight(wordStartTimes);
+            }
+        }, HIGHLIGHT_POLL_MS, TimeUnit.MILLISECONDS);
+        scheduledTasks.add(task);
+    }
+
+    /**
+     * Prefer the player's true position so highlighting tracks the audio (and halts with it while
+     * paused); fall back to elapsed wall-clock before the line opens or once playback has ended.
+     */
+    private long resolvePlaybackPosition() {
+        // Word timings are computed against the un-sped audio, so scale elapsed playback back
+        // onto that timeline when the user speeds voiceovers up.
+        double speed = config.playbackSpeed().getMultiplier();
+        long audioPosition = audioManager.getPlaybackPositionMillis();
+        if (audioPosition > 0) {
+            return (long) (audioPosition * speed);
+        }
+        return (long) ((System.currentTimeMillis() - playbackStartWallClock) * speed);
+    }
+
+    private int countWordsStarted(long[] wordStartTimes, long position) {
+        int count = 0;
+        while (count < wordStartTimes.length && wordStartTimes[count] <= position) {
+            count++;
+        }
+        return count;
     }
 
     private void highlightUpToWord(int wordIndex) {
