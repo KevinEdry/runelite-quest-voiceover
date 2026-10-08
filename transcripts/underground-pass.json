@@ -20,15 +20,18 @@
     },
     {
       "character": "King Lathas",
-      "line": "Unfortunately, the pass is a treacherous place. Some of my best soldiers have fallen trying to find a way though."
+      "line": "Unfortunately, the pass is a treacherous place. Some of my best soldiers have fallen trying to find a way though.",
+      "delivery": "grave"
     },
     {
       "character": "King Lathas",
-      "line": "To make matters worse, some crazed group of cultists has recently made their home in the pass. Their leader, some madman named Iban, claims to be the son of Zamorak himself."
+      "line": "To make matters worse, some crazed group of cultists has recently made their home in the pass. Their leader, some madman named Iban, claims to be the son of Zamorak himself.",
+      "delivery": "ominous"
     },
     {
       "character": "Player",
-      "line": "Well that doesn't sound good. So what do you need from me?"
+      "line": "Well that doesn't sound good. So what do you need from me?",
+      "delivery": "dry concern"
     },
     {
       "character": "King Lathas",
@@ -36,7 +39,8 @@
     },
     {
       "character": "Player",
-      "line": "There's only one way to find out. Where do I start?"
+      "line": "There's only one way to find out. Where do I start?",
+      "delivery": "resolute"
     },
     {
       "character": "King Lathas",
@@ -52,11 +56,13 @@
     },
     {
       "character": "King Lathas",
-      "line": "Remember, the Underground Pass is lethal. Go prepared with food and armour or you won't last long."
+      "line": "Remember, the Underground Pass is lethal. Go prepared with food and armour or you won't last long.",
+      "delivery": "gravely, warning"
     },
     {
       "character": "Player",
-      "line": "It sounds too dangerous for me. I'd better prepare more first."
+      "line": "It sounds too dangerous for me. I'd better prepare more first.",
+      "delivery": "hesitant"
     },
     {
       "character": "King Lathas",
@@ -92,11 +98,13 @@
     },
     {
       "character": "Player",
-      "line": "He said we need to find a way through the Underground Pass. Shouldn't be too bad, I've travelled through many a cave in my time."
+      "line": "He said we need to find a way through the Underground Pass. Shouldn't be too bad, I've travelled through many a cave in my time.",
+      "delivery": "confident"
     },
     {
       "character": "Koftik",
-      "line": "These caves are different... There is a darkness in there unlike any other. You can feel it as you wind your way round the stalagmites... an icy chill that penetrates the very fabric of your being..."
+      "line": "These caves are different... There is a darkness in there unlike any other. You can feel it as you wind your way round the stalagmites... an icy chill that penetrates the very fabric of your being...",
+      "delivery": "uneasy, foreboding"
     },
     {
       "character": "Player",
@@ -104,7 +112,8 @@
     },
     {
       "character": "Koftik",
-      "line": "I have. I didn't go far though, nor did I stay for long. People change in these caves..."
+      "line": "I have. I didn't go far though, nor did I stay for long. People change in these caves...",
+      "delivery": "weary, uneasy"
     },
     {
       "character": "Player",
@@ -120,7 +129,8 @@
     },
     {
       "character": "Koftik",
-      "line": "I remember one warrior. His name was Randas. He stood tall and proud like an elven king..."
+      "line": "I remember one warrior. His name was Randas. He stood tall and proud like an elven king...",
+      "delivery": "wistful"
     },
     {
       "character": "Koftik",
@@ -128,7 +138,8 @@
     },
     {
       "character": "Koftik",
-      "line": "Within the cave, he heard the voice of Zamorak himself..."
+      "line": "Within the cave, he heard the voice of Zamorak himself...",
+      "delivery": "hushed, ominous"
     },
     {
       "character": "Koftik",
@@ -140,7 +151,8 @@
     },
     {
       "character": "Koftik",
-      "line": "No one knows..."
+      "line": "No one knows...",
+      "delivery": "quietly, ominous"
     },
     {
       "character": "Koftik",
@@ -176,7 +188,8 @@
     },
     {
       "character": "Player",
-      "line": "Charred arrows? They must have been trying to burn something. Or someone!"
+      "line": "Charred arrows? They must have been trying to burn something. Or someone!",
+      "delivery": "alarmed"
     },
     {
       "character": "Koftik",
@@ -184,7 +197,8 @@
     },
     {
       "character": "Player",
-      "line": "Probably just litter."
+      "line": "Probably just litter.",
+      "delivery": "dismissive"
     },
     {
       "character": "Koftik",
@@ -204,11 +218,13 @@
     },
     {
       "character": "Mysterious Voice",
-      "line": "Join us..."
+      "line": "Join us...",
+      "delivery": "whispering, seductive"
     },
     {
       "character": "Mysterious Voice",
-      "line": "Death is only the beginning..."
+      "line": "Death is only the beginning...",
+      "delivery": "whispering, sinister"
     },
     {
       "character": "Mysterious Voice",
@@ -216,7 +232,8 @@
     },
     {
       "character": "Mysterious Voice",
-      "line": "I'll swallow your soul..."
+      "line": "I'll swallow your soul...",
+      "delivery": "menacing, hungry"
     },
     {
       "character": "Mysterious Voice",
@@ -224,7 +241,8 @@
     },
     {
       "character": "Mysterious Voice",
-      "line": "Blood... Pain... Hate..."
+      "line": "Blood... Pain... Hate...",
+      "delivery": "guttural, venomous"
     },
     {
       "character": "Mysterious Voice",
@@ -232,7 +250,8 @@
     },
     {
       "character": "Mysterious Voice",
-      "line": "Give in to your desires..."
+      "line": "Give in to your desires...",
+      "delivery": "whispering, coaxing"
     },
     {
       "character": "Mysterious Voice",
@@ -244,11 +263,13 @@
     },
     {
       "character": "Mysterious Voice",
-      "line": "Make them all pay..."
+      "line": "Make them all pay...",
+      "delivery": "seductive, insidious"
     },
     {
       "character": "Mysterious Voice",
-      "line": "Kill... Maim... Murder..."
+      "line": "Kill... Maim... Murder...",
+      "delivery": "whispering, venomous"
     },
     {
       "character": "Player",
@@ -256,19 +277,23 @@
     },
     {
       "character": "Koftik",
-      "line": "Do you hear them? The voices tell me things."
+      "line": "Do you hear them? The voices tell me things.",
+      "delivery": "distant, unsettling"
     },
     {
       "character": "Player",
-      "line": "Are you okay?"
+      "line": "Are you okay?",
+      "delivery": "concerned"
     },
     {
       "character": "Koftik",
-      "line": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men."
+      "line": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men.",
+      "delivery": "ominous, reciting"
     },
     {
       "character": "Player",
-      "line": "Tyranny of the righteous? What?"
+      "line": "Tyranny of the righteous? What?",
+      "delivery": "confused"
     },
     {
       "character": "Koftik",
@@ -280,7 +305,8 @@
     },
     {
       "character": "Slave",
-      "line": "Eating me... they keep eating me! Eating me from the inside! Please stop them! I can feel them wriggling around inside me right now... please stop them!"
+      "line": "Eating me... they keep eating me! Eating me from the inside! Please stop them! I can feel them wriggling around inside me right now... please stop them!",
+      "delivery": "frantic, terrified"
     },
     {
       "character": "Player",
@@ -288,7 +314,8 @@
     },
     {
       "character": "Slave",
-      "line": "Blood, blood... never enough blood to go round. When I lift up my arm like this, it all pours back into my body."
+      "line": "Blood, blood... never enough blood to go round. When I lift up my arm like this, it all pours back into my body.",
+      "delivery": "deranged, rambling"
     },
     {
       "character": "Slave",
@@ -304,7 +331,8 @@
     },
     {
       "character": "Slave",
-      "line": "Oh yes, you're a fine one. Nice red cheeks, shiny hair."
+      "line": "Oh yes, you're a fine one. Nice red cheeks, shiny hair.",
+      "delivery": "sinister, delighted"
     },
     {
       "character": "Slave",
@@ -312,11 +340,13 @@
     },
     {
       "character": "Slave",
-      "line": "Yes I think you'd make a fine soup. You don't mind do you?"
+      "line": "Yes I think you'd make a fine soup. You don't mind do you?",
+      "delivery": "cheerfully menacing"
     },
     {
       "character": "Player",
-      "line": "Actually I do."
+      "line": "Actually I do.",
+      "delivery": "alarmed"
     },
     {
       "character": "Slave",
@@ -328,11 +358,13 @@
     },
     {
       "character": "Slave",
-      "line": "Mwaarrr fnnntchh. Gbpp dng sktd delp?"
+      "line": "Mwaarrr fnnntchh. Gbpp dng sktd delp?",
+      "delivery": "incoherent, mumbling"
     },
     {
       "character": "Player",
-      "line": "Pardon?"
+      "line": "Pardon?",
+      "delivery": "confused"
     },
     {
       "character": "Slave",
@@ -344,7 +376,8 @@
     },
     {
       "character": "Slave",
-      "line": "Mwaarrr fnnntchh. Gbpp dng sktd delp? GBPP DNG SKTD DELP!"
+      "line": "Mwaarrr fnnntchh. Gbpp dng sktd delp? GBPP DNG SKTD DELP!",
+      "delivery": "shouting, frustrated"
     },
     {
       "character": "Player",
@@ -352,11 +385,13 @@
     },
     {
       "character": "Slave",
-      "line": "Kill the villagers, burn them all... every last one! I want nothing to survive... nothing but the sweet smell of burning flesh..."
+      "line": "Kill the villagers, burn them all... every last one! I want nothing to survive... nothing but the sweet smell of burning flesh...",
+      "delivery": "deranged, gleeful"
     },
     {
       "character": "Player",
-      "line": "You're ill!"
+      "line": "You're ill!",
+      "delivery": "disturbed"
     },
     {
       "character": "Slave",
@@ -364,7 +399,8 @@
     },
     {
       "character": "Slave",
-      "line": "Danger, everywhere danger! But not from man nor beast! This is the danger that is inside you."
+      "line": "Danger, everywhere danger! But not from man nor beast! This is the danger that is inside you.",
+      "delivery": "urgent, raving"
     },
     {
       "character": "Slave",
@@ -376,15 +412,18 @@
     },
     {
       "character": "Slave",
-      "line": "For what is a man but this quintessence of dust? And so I say goodnight sweet prince. The rest is silence."
+      "line": "For what is a man but this quintessence of dust? And so I say goodnight sweet prince. The rest is silence.",
+      "delivery": "theatrical, mournful"
     },
     {
       "character": "Koftik",
-      "line": "The voices, they've been telling me things..."
+      "line": "The voices, they've been telling me things...",
+      "delivery": "distant, unsettling"
     },
     {
       "character": "Player",
-      "line": "Koftik, is everything okay? You're getting me worried."
+      "line": "Koftik, is everything okay? You're getting me worried.",
+      "delivery": "worried"
     },
     {
       "character": "Koftik",
@@ -392,7 +431,8 @@
     },
     {
       "character": "Player",
-      "line": "Err... what?"
+      "line": "Err... what?",
+      "delivery": "baffled"
     },
     {
       "character": "Koftik",
@@ -404,7 +444,8 @@
     },
     {
       "character": "Koftik",
-      "line": "You see, once I was insane. But now... now I am finally free..."
+      "line": "You see, once I was insane. But now... now I am finally free...",
+      "delivery": "serene, unsettling"
     },
     {
       "character": "Player",
@@ -412,11 +453,13 @@
     },
     {
       "character": "Player",
-      "line": "Hello Paladin. I wasn't expecting to see anyone else down here."
+      "line": "Hello Paladin. I wasn't expecting to see anyone else down here.",
+      "delivery": "surprised"
     },
     {
       "character": "Sir Jerro",
-      "line": "Nor were we traveller. What are you doing in this most unholy place?"
+      "line": "Nor were we traveller. What are you doing in this most unholy place?",
+      "delivery": "wary"
     },
     {
       "character": "Player",
@@ -424,7 +467,8 @@
     },
     {
       "character": "Sir Jerro",
-      "line": "Ah, the king tasked us with the same mission. Alas, a little further on lies the great doors of Iban. We've tried everything, but we cannot enter."
+      "line": "Ah, the king tasked us with the same mission. Alas, a little further on lies the great doors of Iban. We've tried everything, but we cannot enter.",
+      "delivery": "weary, frustrated"
     },
     {
       "character": "Sir Jerro",
@@ -436,19 +480,23 @@
     },
     {
       "character": "Sir Carl",
-      "line": "Hello again traveller. You should consider leaving this place. Let us handle things here."
+      "line": "Hello again traveller. You should consider leaving this place. Let us handle things here.",
+      "delivery": "weary"
     },
     {
       "character": "Koftik",
-      "line": "Ah, you've arrived. We've been waiting for you."
+      "line": "Ah, you've arrived. We've been waiting for you.",
+      "delivery": "unsettling, eager"
     },
     {
       "character": "Player",
-      "line": "Koftik, you're still here? You should leave."
+      "line": "Koftik, you're still here? You should leave.",
+      "delivery": "concerned"
     },
     {
       "character": "Koftik",
-      "line": "Leave? But this is my home now. Home with my lord. He talks to me, he's my friend."
+      "line": "Leave? But this is my home now. Home with my lord. He talks to me, he's my friend.",
+      "delivery": "unhinged, earnest"
     },
     {
       "character": "Player",
@@ -464,15 +512,18 @@
     },
     {
       "character": "Koftik",
-      "line": "Foolish dwarves, still believing that they can resist. No one resists Iban."
+      "line": "Foolish dwarves, still believing that they can resist. No one resists Iban.",
+      "delivery": "contemptuous"
     },
     {
       "character": "Koftik",
-      "line": "You could help! Deep down you know you want it! I know you already dealt with those Paladins. Now you just need to kill the dwarves!"
+      "line": "You could help! Deep down you know you want it! I know you already dealt with those Paladins. Now you just need to kill the dwarves!",
+      "delivery": "manic, coaxing"
     },
     {
       "character": "Koftik",
-      "line": "Head south and through the tunnel. You'll find the dwarves at the other end. Go slay them. Slay them for our lord!"
+      "line": "Head south and through the tunnel. You'll find the dwarves at the other end. Go slay them. Slay them for our lord!",
+      "delivery": "fervent"
     },
     {
       "character": "Koftik",
@@ -480,11 +531,13 @@
     },
     {
       "character": "Disciple of Iban",
-      "line": "An impostor... Die, scum!"
+      "line": "An impostor... Die, scum!",
+      "delivery": "snarling, hostile"
     },
     {
       "character": "Disciple of Iban",
-      "line": "Iban is our father, our guide. Soon he will rule all life."
+      "line": "Iban is our father, our guide. Soon he will rule all life.",
+      "delivery": "zealous"
     },
     {
       "character": "Disciple of Iban",
@@ -492,7 +545,8 @@
     },
     {
       "character": "Disciple of Iban",
-      "line": "Hail the great one, my lord Iban. I die for you again and again."
+      "line": "Hail the great one, my lord Iban. I die for you again and again.",
+      "delivery": "fanatical, reverent"
     },
     {
       "character": "Player",
@@ -504,11 +558,13 @@
     },
     {
       "character": "Disciple of Iban",
-      "line": "Succumb to the might of Iban, the ruler of this world."
+      "line": "Succumb to the might of Iban, the ruler of this world.",
+      "delivery": "fervent"
     },
     {
       "character": "Niloof",
-      "line": "Back away! Back away! Wait... you're human!"
+      "line": "Back away! Back away! Wait... you're human!",
+      "delivery": "startled, relieved"
     },
     {
       "character": "Niloof",
@@ -524,11 +580,13 @@
     },
     {
       "character": "Player",
-      "line": "Well I'll just have to kill him then."
+      "line": "Well I'll just have to kill him then.",
+      "delivery": "confident"
     },
     {
       "character": "Niloof",
-      "line": "Ha! Good luck with that. If we knew how, we'd have slain him already."
+      "line": "Ha! Good luck with that. If we knew how, we'd have slain him already.",
+      "delivery": "wry, skeptical"
     },
     {
       "character": "Niloof",
@@ -536,7 +594,8 @@
     },
     {
       "character": "Niloof",
-      "line": "She lives on the platforms above, we dare not go there."
+      "line": "She lives on the platforms above, we dare not go there.",
+      "delivery": "wary"
     },
     {
       "character": "Niloof",
@@ -548,7 +607,8 @@
     },
     {
       "character": "Niloof",
-      "line": "Don't stay too long traveller. Iban's calls will soon penetrate your delicate human mind."
+      "line": "Don't stay too long traveller. Iban's calls will soon penetrate your delicate human mind.",
+      "delivery": "warning"
     },
     {
       "character": "Niloof",
@@ -560,7 +620,8 @@
     },
     {
       "character": "Kamen",
-      "line": "Ooooh, my head... I'm fried."
+      "line": "Ooooh, my head... I'm fried.",
+      "delivery": "groaning, hungover"
     },
     {
       "character": "Player",
@@ -568,7 +629,8 @@
     },
     {
       "character": "Kamen",
-      "line": "Too much of this home brew my friend. We make it from plant roots, but it blows your head off."
+      "line": "Too much of this home brew my friend. We make it from plant roots, but it blows your head off.",
+      "delivery": "slurred, jovial"
     },
     {
       "character": "Kamen",
@@ -580,11 +642,13 @@
     },
     {
       "character": "Kamen",
-      "line": "Here you go... Hic!"
+      "line": "Here you go... Hic!",
+      "delivery": "slurred, jovial"
     },
     {
       "character": "Kamen",
-      "line": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit."
+      "line": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit.",
+      "delivery": "laughing, slurred"
     },
     {
       "character": "Player",
@@ -592,7 +656,8 @@
     },
     {
       "character": "Kamen",
-      "line": "Your losh... Hic!"
+      "line": "Your losh... Hic!",
+      "delivery": "slurred"
     },
     {
       "character": "Kamen",
@@ -608,11 +673,13 @@
     },
     {
       "character": "Kamen",
-      "line": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit. I could part with some food for a few coins."
+      "line": "Ha ha! I warned you that it's strong stuff. Have a good meal. It may sober you up a bit. I could part with some food for a few coins.",
+      "delivery": "laughing, slurred"
     },
     {
       "character": "Kamen",
-      "line": "75 coins pleashe."
+      "line": "75 coins pleashe.",
+      "delivery": "slurred"
     },
     {
       "character": "Kamen",
@@ -620,7 +687,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh dear, I haven't enough money..."
+      "line": "Oh dear, I haven't enough money...",
+      "delivery": "sheepish"
     },
     {
       "character": "Kamen",
@@ -644,7 +712,8 @@
     },
     {
       "character": "Klank",
-      "line": "Good day to you outsider. You should be careful down here. We're the only ones that haven't yet turned."
+      "line": "Good day to you outsider. You should be careful down here. We're the only ones that haven't yet turned.",
+      "delivery": "gruff, wary"
     },
     {
       "character": "Klank",
@@ -656,7 +725,8 @@
     },
     {
       "character": "Klank",
-      "line": "They're not followers, they're slaves, they're the soulless..."
+      "line": "They're not followers, they're slaves, they're the soulless...",
+      "delivery": "grim"
     },
     {
       "character": "Player",
@@ -668,7 +738,8 @@
     },
     {
       "character": "Klank",
-      "line": "Now they all seem to think with one conscience... As if they're being controlled by one being..."
+      "line": "Now they all seem to think with one conscience... As if they're being controlled by one being...",
+      "delivery": "uneasy"
     },
     {
       "character": "Player",
@@ -700,15 +771,18 @@
     },
     {
       "character": "Player",
-      "line": "No wonder their breath is so bad!"
+      "line": "No wonder their breath is so bad!",
+      "delivery": "dry amusement"
     },
     {
       "character": "Klank",
-      "line": "You think this is funny... Eh?"
+      "line": "You think this is funny... Eh?",
+      "delivery": "gruff, unamused"
     },
     {
       "character": "Player",
-      "line": "Not really, just trying to lighten up the conversation."
+      "line": "Not really, just trying to lighten up the conversation.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -732,15 +806,18 @@
     },
     {
       "character": "Klank",
-      "line": "Good luck traveller, give Iban a slap for me!"
+      "line": "Good luck traveller, give Iban a slap for me!",
+      "delivery": "gruff, hearty"
     },
     {
       "character": "Player",
-      "line": "That witch probably won't take kindly to me going in there. Maybe I can distract her..."
+      "line": "That witch probably won't take kindly to me going in there. Maybe I can distract her...",
+      "delivery": "scheming"
     },
     {
       "character": "Witch's cat",
-      "line": "Sssss! Thou art brave to wander so far into the domain of Kardia, mine mistress!"
+      "line": "Sssss! Thou art brave to wander so far into the domain of Kardia, mine mistress!",
+      "delivery": "hissing, menacing"
     },
     {
       "character": "Witch's cat",
@@ -748,11 +825,13 @@
     },
     {
       "character": "Witch's cat",
-      "line": "Glad shall mine heart be when I see thee prostrate thineself before the altars of Zamorak the Mighty."
+      "line": "Glad shall mine heart be when I see thee prostrate thineself before the altars of Zamorak the Mighty.",
+      "delivery": "theatrical, gloating"
     },
     {
       "character": "Player",
-      "line": "No milk for you, puss!"
+      "line": "No milk for you, puss!",
+      "delivery": "taunting"
     },
     {
       "character": "Niloof",
@@ -760,7 +839,8 @@
     },
     {
       "character": "Player",
-      "line": "I found a strange doll, but I've lost it."
+      "line": "I found a strange doll, but I've lost it.",
+      "delivery": "sheepish"
     },
     {
       "character": "Niloof",
@@ -768,7 +848,8 @@
     },
     {
       "character": "Niloof",
-      "line": "I've heard about these dolls. This here be dark magic traveller. They say the witch resurrected Iban from death. She must have used this doll to do it."
+      "line": "I've heard about these dolls. This here be dark magic traveller. They say the witch resurrected Iban from death. She must have used this doll to do it.",
+      "delivery": "hushed, ominous"
     },
     {
       "character": "Niloof",
@@ -808,7 +889,8 @@
     },
     {
       "character": "Iban",
-      "line": "The doll? You mean to destroy Iban? No! I am the son of Zamorak! I can't die! And you... You are his slave now! Even if you kill me you will hear his calls forever! You have already fallen!"
+      "line": "The doll? You mean to destroy Iban? No! I am the son of Zamorak! I can't die! And you... You are his slave now! Even if you kill me you will hear his calls forever! You have already fallen!",
+      "delivery": "wrathful, booming"
     },
     {
       "character": "Player",
@@ -816,11 +898,13 @@
     },
     {
       "character": "Niloof",
-      "line": "Traveller, thank the stars you're still around! I thought your time had come."
+      "line": "Traveller, thank the stars you're still around! I thought your time had come.",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
-      "line": "I've still a few years in me yet."
+      "line": "I've still a few years in me yet.",
+      "delivery": "wry"
     },
     {
       "character": "Niloof",
@@ -872,11 +956,13 @@
     },
     {
       "character": "Player",
-      "line": "5,000, you must be joking!"
+      "line": "5,000, you must be joking!",
+      "delivery": "incredulous"
     },
     {
       "character": "Klank",
-      "line": "We don't joke down here friend..."
+      "line": "We don't joke down here friend...",
+      "delivery": "gruff, deadpan"
     },
     {
       "character": "Player",
@@ -884,7 +970,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh dear, I haven't got enough money..."
+      "line": "Oh dear, I haven't got enough money...",
+      "delivery": "sheepish"
     },
     {
       "character": "Klank",
@@ -900,7 +987,8 @@
     },
     {
       "character": "Koftik",
-      "line": "Adventurer, where am I? I can't remember a thing!"
+      "line": "Adventurer, where am I? I can't remember a thing!",
+      "delivery": "confused, disoriented"
     },
     {
       "character": "Player",
@@ -908,7 +996,8 @@
     },
     {
       "character": "Koftik",
-      "line": "What? Of course, the voices... But they've stopped. What happened?"
+      "line": "What? Of course, the voices... But they've stopped. What happened?",
+      "delivery": "bewildered"
     },
     {
       "character": "Player",
@@ -916,7 +1005,8 @@
     },
     {
       "character": "Koftik",
-      "line": "You've done well! Thank you for saving me."
+      "line": "You've done well! Thank you for saving me.",
+      "delivery": "grateful, relieved"
     },
     {
       "character": "Koftik",
@@ -924,7 +1014,8 @@
     },
     {
       "character": "Player",
-      "line": "I... I don't think so..."
+      "line": "I... I don't think so...",
+      "delivery": "uncertain"
     },
     {
       "character": "Koftik",
@@ -932,7 +1023,8 @@
     },
     {
       "character": "Player",
-      "line": "At last! I've had enough of these caves."
+      "line": "At last! I've had enough of these caves.",
+      "delivery": "relieved, exasperated"
     },
     {
       "character": "Player",
@@ -948,7 +1040,8 @@
     },
     {
       "character": "Koftik",
-      "line": "This is no time to linger. The King must know that Iban is dead. This is a truly historical moment for Ardougne."
+      "line": "This is no time to linger. The King must know that Iban is dead. This is a truly historical moment for Ardougne.",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -956,7 +1049,8 @@
     },
     {
       "character": "Niloof",
-      "line": "Well with Iban and his lot gone, we've been left with a great cavern filled with resources. We thought we'd actually do what we came here for and get mining."
+      "line": "Well with Iban and his lot gone, we've been left with a great cavern filled with resources. We thought we'd actually do what we came here for and get mining.",
+      "delivery": "cheerful"
     },
     {
       "character": "Player",
@@ -972,11 +1066,13 @@
     },
     {
       "character": "Player",
-      "line": "Indeed, the quest is complete. I have defeated Iban and his minions."
+      "line": "Indeed, the quest is complete. I have defeated Iban and his minions.",
+      "delivery": "triumphant"
     },
     {
       "character": "King Lathas",
-      "line": "Incredible, you are a true warrior. So do we now have a way through to the west?"
+      "line": "Incredible, you are a true warrior. So do we now have a way through to the west?",
+      "delivery": "impressed"
     },
     {
       "character": "Player",
@@ -1008,7 +1104,8 @@
     },
     {
       "character": "Player",
-      "line": "Elves? I've never seen an elf before."
+      "line": "Elves? I've never seen an elf before.",
+      "delivery": "intrigued"
     },
     {
       "character": "King Lathas",
@@ -1032,7 +1129,8 @@
     },
     {
       "character": "Player",
-      "line": "Actually, I don't think I'm ready for this yet."
+      "line": "Actually, I don't think I'm ready for this yet.",
+      "delivery": "hesitant"
     },
     {
       "character": "King Lathas",
@@ -1048,7 +1146,8 @@
     },
     {
       "character": "King Lathas",
-      "line": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity. The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil..."
+      "line": "The Dark Lord agreed to spare his life, but only on one condition... That he would drink from the Chalice of Eternity. The chalice corrupted him. He joined forces with the Dark Lord, the embodiment of pure evil...",
+      "delivery": "grave"
     },
     {
       "character": "King Lathas",
@@ -1056,7 +1155,8 @@
     },
     {
       "character": "King Lathas",
-      "line": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe."
+      "line": "I knew people would never believe the truth, so I had the plague made up as an excuse for the cordon. I'm not proud of it, but it was the only way to keep people safe.",
+      "delivery": "quietly, conflicted"
     },
     {
       "character": "Player",
@@ -1080,7 +1180,8 @@
     },
     {
       "character": "King Lathas",
-      "line": "Ahh... adventurer. The repair work on the Well of Voyage has been completed. We're finally ready to move against my brother."
+      "line": "Ahh... adventurer. The repair work on the Well of Voyage has been completed. We're finally ready to move against my brother.",
+      "delivery": "satisfied"
     }
   ],
   "characters": [

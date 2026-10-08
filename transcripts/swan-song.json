@@ -8,7 +8,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Lovely? Oh - er - if you say so. But please excuse me, I really don't have time to chat about the weather."
+      "line": "Lovely? Oh - er - if you say so. But please excuse me, I really don't have time to chat about the weather.",
+      "delivery": "flustered, distracted"
     },
     {
       "character": "Player",
@@ -16,11 +17,13 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Trolls! They're attacking my fishing Colony!"
+      "line": "Trolls! They're attacking my fishing Colony!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Player",
-      "line": "Gosh, I didn't know there were any trolls around here."
+      "line": "Gosh, I didn't know there were any trolls around here.",
+      "delivery": "surprised"
     },
     {
       "character": "Herman Caranos",
@@ -40,7 +43,8 @@
     },
     {
       "character": "Player",
-      "line": "You've been... reading stories about adventurers?"
+      "line": "You've been... reading stories about adventurers?",
+      "delivery": "dry amusement"
     },
     {
       "character": "Herman Caranos",
@@ -48,7 +52,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "records show this part of the sea to be a prime site for catching monkfish. I don't just fumble along like an amateur!"
+      "line": "records show this part of the sea to be a prime site for catching monkfish. I don't just fumble along like an amateur!",
+      "delivery": "defensive"
     },
     {
       "character": "Player",
@@ -60,19 +65,23 @@
     },
     {
       "character": "Player",
-      "line": "I'm a brave adventurer! Can I try?"
+      "line": "I'm a brave adventurer! Can I try?",
+      "delivery": "eager"
     },
     {
       "character": "Herman Caranos",
-      "line": "You? I hadn't thought of that... let's have a look at you..."
+      "line": "You? I hadn't thought of that... let's have a look at you...",
+      "delivery": "skeptical"
     },
     {
       "character": "Herman Caranos",
-      "line": "No, I'm sorry, but you simply do not have enough experience. I've got a LOT at stake here, and I can't afford to have an amateur getting in the way."
+      "line": "No, I'm sorry, but you simply do not have enough experience. I've got a LOT at stake here, and I can't afford to have an amateur getting in the way.",
+      "delivery": "dismissive"
     },
     {
       "character": "Herman Caranos",
-      "line": "Hmmm... You're not what I'm looking for, but... Quest Points is really rather a lot..."
+      "line": "Hmmm... You're not what I'm looking for, but... Quest Points is really rather a lot...",
+      "delivery": "reluctant, considering"
     },
     {
       "character": "Herman Caranos",
@@ -80,7 +89,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh goody, I love rewards! Now, how can I help?"
+      "line": "Oh goody, I love rewards! Now, how can I help?",
+      "delivery": "delighted"
     },
     {
       "character": "Herman Caranos",
@@ -88,15 +98,18 @@
     },
     {
       "character": "Player",
-      "line": "Expert adventurer? I'll wager I've had more adventures than you've had pickled gherkins!"
+      "line": "Expert adventurer? I'll wager I've had more adventures than you've had pickled gherkins!",
+      "delivery": "boastful, indignant"
     },
     {
       "character": "Player",
-      "line": "Expert adventurer? I'll have you know I'm in the Guild of Legends!"
+      "line": "Expert adventurer? I'll have you know I'm in the Guild of Legends!",
+      "delivery": "boastful"
     },
     {
       "character": "Herman Caranos",
-      "line": "If you could just stop blowing your own trumpet for a minute..."
+      "line": "If you could just stop blowing your own trumpet for a minute...",
+      "delivery": "exasperated"
     },
     {
       "character": "Herman Caranos",
@@ -104,7 +117,8 @@
     },
     {
       "character": "Player",
-      "line": "... this better be good..."
+      "line": "... this better be good...",
+      "delivery": "impatient, muttering"
     },
     {
       "character": "Herman Caranos",
@@ -112,7 +126,8 @@
     },
     {
       "character": "Player",
-      "line": "Him? What in the heck do you want with HIM?"
+      "line": "Him? What in the heck do you want with HIM?",
+      "delivery": "incredulous"
     },
     {
       "character": "Herman Caranos",
@@ -120,7 +135,8 @@
     },
     {
       "character": "Player",
-      "line": "Well I've met him. Don't you think he's a bit old?"
+      "line": "Well I've met him. Don't you think he's a bit old?",
+      "delivery": "skeptical"
     },
     {
       "character": "Herman Caranos",
@@ -128,11 +144,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes! He's mad! You know he smashed his way into a bank and stole a load of stuff?"
+      "line": "Yes! He's mad! You know he smashed his way into a bank and stole a load of stuff?",
+      "delivery": "incredulous"
     },
     {
       "character": "Herman Caranos",
-      "line": "Ah well, we must forgive him his little foibles."
+      "line": "Ah well, we must forgive him his little foibles.",
+      "delivery": "breezy, dismissive"
     },
     {
       "character": "Player",
@@ -152,7 +170,8 @@
     },
     {
       "character": "Player",
-      "line": "Right... so you want me to fetch this old man who used to be a great adventurer."
+      "line": "Right... so you want me to fetch this old man who used to be a great adventurer.",
+      "delivery": "resigned"
     },
     {
       "character": "Herman Caranos",
@@ -184,7 +203,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "No! Now go and do what I told you!"
+      "line": "No! Now go and do what I told you!",
+      "delivery": "exasperated, firm"
     },
     {
       "character": "Wise Old Man",
@@ -196,7 +216,8 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Heh heh! Yes, I suppose you could say that. But that was all quite a long time ago. I haven't been on what you'd call a 'quest' for a while."
+      "line": "Heh heh! Yes, I suppose you could say that. But that was all quite a long time ago. I haven't been on what you'd call a 'quest' for a while.",
+      "delivery": "chuckling, nostalgic"
     },
     {
       "character": "Player",
@@ -204,7 +225,8 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Oh? What exactly had you in mind?"
+      "line": "Oh? What exactly had you in mind?",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -212,23 +234,28 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Hmmm... so I haven't been forgotten... and the world once again is calling for my aid..."
+      "line": "Hmmm... so I haven't been forgotten... and the world once again is calling for my aid...",
+      "delivery": "dramatic, wistful"
     },
     {
       "character": "Player",
-      "line": "Well, it's just one man who smells of fish, not exactly the whole world..."
+      "line": "Well, it's just one man who smells of fish, not exactly the whole world...",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Wise Old Man",
-      "line": "... yet this could be the opportunity I've been waiting for..."
+      "line": "... yet this could be the opportunity I've been waiting for...",
+      "delivery": "wistful, hopeful"
     },
     {
       "character": "Player",
-      "line": "... yawn..."
+      "line": "... yawn...",
+      "delivery": "bored"
     },
     {
       "character": "Wise Old Man",
-      "line": "... but I'm a lot older than I used to be, do I still have the strength? Should I retire now, or can I do just one more quest?"
+      "line": "... but I'm a lot older than I used to be, do I still have the strength? Should I retire now, or can I do just one more quest?",
+      "delivery": "uncertain, reflective"
     },
     {
       "character": "Player",
@@ -236,23 +263,28 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Yes, I'll do it! This can be my final adventure, my last great quest. Saving this colony shall be my swan song."
+      "line": "Yes, I'll do it! This can be my final adventure, my last great quest. Saving this colony shall be my swan song.",
+      "delivery": "resolute, dramatic"
     },
     {
       "character": "Player",
-      "line": "Swan song?"
+      "line": "Swan song?",
+      "delivery": "puzzled"
     },
     {
       "character": "Wise Old Man",
-      "line": "Legend tells us that a swan, before it dies, sings a song of outstanding beauty as a fitting conclusion to its graceful life. This adventure will be my swan song."
+      "line": "Legend tells us that a swan, before it dies, sings a song of outstanding beauty as a fitting conclusion to its graceful life. This adventure will be my swan song.",
+      "delivery": "grandiose, wistful"
     },
     {
       "character": "Player",
-      "line": "You're going to sing a song and then snuff it? Maybe I should tell Herman you've flipped..."
+      "line": "You're going to sing a song and then snuff it? Maybe I should tell Herman you've flipped...",
+      "delivery": "mocking, incredulous"
     },
     {
       "character": "Wise Old Man",
-      "line": "No, you ignoramus! I shall bring my adventuring days to a dramatic close by saving this colony!"
+      "line": "No, you ignoramus! I shall bring my adventuring days to a dramatic close by saving this colony!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -280,7 +312,8 @@
     },
     {
       "character": "Player",
-      "line": "Sometimes I amaze even myself."
+      "line": "Sometimes I amaze even myself.",
+      "delivery": "smug"
     },
     {
       "character": "Wise Old Man",
@@ -320,15 +353,18 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Hello again, ! I must thank you for persuading me to come - I feel quite invigorated in the sea breeze!"
+      "line": "Hello again, ! I must thank you for persuading me to come - I feel quite invigorated in the sea breeze!",
+      "delivery": "invigorated, cheerful"
     },
     {
       "character": "Player",
-      "line": "Oh - er - good. Well, Herman must be inside the Colony now, so we should probably go in."
+      "line": "Oh - er - good. Well, Herman must be inside the Colony now, so we should probably go in.",
+      "delivery": "awkward"
     },
     {
       "character": "Wise Old Man",
-      "line": "Are you sure you're ready? I can hear creatures moving around in the trees, and we might have to do some fighting soon."
+      "line": "Are you sure you're ready? I can hear creatures moving around in the trees, and we might have to do some fighting soon.",
+      "delivery": "cautious"
     },
     {
       "character": "Player",
@@ -352,15 +388,18 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Wait - I think something's coming!"
+      "line": "Wait - I think something's coming!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Wise Old Man",
-      "line": "Well, it all seems to have gone smoothly so far!"
+      "line": "Well, it all seems to have gone smoothly so far!",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
-      "line": "Yes, we're both still alive."
+      "line": "Yes, we're both still alive.",
+      "delivery": "dry"
     },
     {
       "character": "Wise Old Man",
@@ -400,23 +439,28 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Finally you've arrived! Did you bring the Wise Old Man?"
+      "line": "Finally you've arrived! Did you bring the Wise Old Man?",
+      "delivery": "anxious, relieved"
     },
     {
       "character": "Wise Old Man",
-      "line": "Indeed, I am here!"
+      "line": "Indeed, I am here!",
+      "delivery": "grand"
     },
     {
       "character": "Herman Caranos",
-      "line": "Excellent! You have no idea how grateful I am!"
+      "line": "Excellent! You have no idea how grateful I am!",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",
-      "line": "Talking of gratitude, I believe you mentioned some kind of reward..."
+      "line": "Talking of gratitude, I believe you mentioned some kind of reward...",
+      "delivery": "hopeful, angling"
     },
     {
       "character": "Herman Caranos",
-      "line": "Reward? Well... we've got to discuss the Colony's defences now. Perhaps you could go and make yourself useful around the Colony? I'm sure my brother, Franklin, could do with a bit of help. Arnold, the storemaster, said he needed an extra pair of hands too. He's in one of the big storage sheds."
+      "line": "Reward? Well... we've got to discuss the Colony's defences now. Perhaps you could go and make yourself useful around the Colony? I'm sure my brother, Franklin, could do with a bit of help. Arnold, the storemaster, said he needed an extra pair of hands too. He's in one of the big storage sheds.",
+      "delivery": "evasive, flustered"
     },
     {
       "character": "Player",
@@ -424,11 +468,13 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Yes, yes... now please excuse us."
+      "line": "Yes, yes... now please excuse us.",
+      "delivery": "distracted, dismissive"
     },
     {
       "character": "Player",
-      "line": "Yoohoo to you two!"
+      "line": "Yoohoo to you two!",
+      "delivery": "playful, sing-song"
     },
     {
       "character": "Herman Caranos",
@@ -444,7 +490,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm on the case, no problems."
+      "line": "I'm on the case, no problems.",
+      "delivery": "breezy, confident"
     },
     {
       "character": "Herman Caranos",
@@ -496,11 +543,13 @@
     },
     {
       "character": "Franklin Caranos",
-      "line": "How odd! I'd have expected all your products to be horribly brittle."
+      "line": "How odd! I'd have expected all your products to be horribly brittle.",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
-      "line": "I guess I'm just talented."
+      "line": "I guess I'm just talented.",
+      "delivery": "smug"
     },
     {
       "character": "Franklin Caranos",
@@ -552,7 +601,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm not putting that into the press! I don't want to break it!"
+      "line": "I'm not putting that into the press! I don't want to break it!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -600,7 +650,8 @@
     },
     {
       "character": "Player",
-      "line": "This is turning into a lot of work..."
+      "line": "This is turning into a lot of work...",
+      "delivery": "weary, exasperated"
     },
     {
       "character": "Franklin Caranos",
@@ -608,7 +659,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh good. Now maybe Herman will give me that reward he mentioned!"
+      "line": "Oh good. Now maybe Herman will give me that reward he mentioned!",
+      "delivery": "hopeful"
     },
     {
       "character": "Arnold Lydspor",
@@ -628,11 +680,13 @@
     },
     {
       "character": "Player",
-      "line": "Riiiiight..."
+      "line": "Riiiiight...",
+      "delivery": "bemused, skeptical"
     },
     {
       "character": "Arnold Lydspor",
-      "line": "But now you come here to help Arnold! A good and sturdy warrior you must be indeed to have entered our Colony in these times! So you can the fishing do for us!"
+      "line": "But now you come here to help Arnold! A good and sturdy warrior you must be indeed to have entered our Colony in these times! So you can the fishing do for us!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
@@ -696,7 +750,8 @@
     },
     {
       "character": "Arnold Lydspor",
-      "line": "That not monkfish! Go to sea at north-west corner of Colony and catch MONKFISH!"
+      "line": "That not monkfish! Go to sea at north-west corner of Colony and catch MONKFISH!",
+      "delivery": "frustrated, emphatic"
     },
     {
       "character": "Player",
@@ -704,7 +759,8 @@
     },
     {
       "character": "Arnold Lydspor",
-      "line": "This? This fresh, but it no good to me raw! You go use range in kitchen!"
+      "line": "This? This fresh, but it no good to me raw! You go use range in kitchen!",
+      "delivery": "exasperated"
     },
     {
       "character": "Arnold Lydspor",
@@ -716,7 +772,8 @@
     },
     {
       "character": "Arnold Lydspor",
-      "line": "This is superb, ! Now I store these carefully, and you go help little Frankie."
+      "line": "This is superb, ! Now I store these carefully, and you go help little Frankie.",
+      "delivery": "delighted"
     },
     {
       "character": "Arnold Lydspor",
@@ -752,11 +809,13 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Or - er - that's good..."
+      "line": "Or - er - that's good...",
+      "delivery": "distracted, flustered"
     },
     {
       "character": "Player",
-      "line": "Does this mean you're going to reward me now?"
+      "line": "Does this mean you're going to reward me now?",
+      "delivery": "hopeful"
     },
     {
       "character": "Herman Caranos",
@@ -764,7 +823,8 @@
     },
     {
       "character": "Player",
-      "line": "There always is."
+      "line": "There always is.",
+      "delivery": "resigned, dry"
     },
     {
       "character": "Herman Caranos",
@@ -780,7 +840,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "There's a slight problem, though."
+      "line": "There's a slight problem, though.",
+      "delivery": "hesitant"
     },
     {
       "character": "Wise Old Man",
@@ -788,7 +849,8 @@
     },
     {
       "character": "Player",
-      "line": "Let me guess - you haven't got any forces to gather!"
+      "line": "Let me guess - you haven't got any forces to gather!",
+      "delivery": "sardonic"
     },
     {
       "character": "Herman Caranos",
@@ -796,11 +858,13 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "So what you need to do, is to fetch us an army!"
+      "line": "So what you need to do, is to fetch us an army!",
+      "delivery": "grand, emphatic"
     },
     {
       "character": "Player",
-      "line": "???"
+      "line": "???",
+      "delivery": "baffled"
     },
     {
       "character": "Wise Old Man",
@@ -820,7 +884,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "- have you brought an army?"
+      "line": "- have you brought an army?",
+      "delivery": "anxious, eager"
     },
     {
       "character": "Player",
@@ -828,7 +893,8 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Do get a move on, !"
+      "line": "Do get a move on, !",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -852,7 +918,8 @@
     },
     {
       "character": "Wizard Frumscone",
-      "line": "Do you like my magic Zombies? Feel free to kill them, there's plenty more where these came from!"
+      "line": "Do you like my magic Zombies? Feel free to kill them, there's plenty more where these came from!",
+      "delivery": "gleeful, enthusiastic"
     },
     {
       "character": "Player",
@@ -860,7 +927,8 @@
     },
     {
       "character": "Wizard Frumscone",
-      "line": "Oho? Very well, young man, what can I do for you?"
+      "line": "Oho? Very well, young man, what can I do for you?",
+      "delivery": "jovial"
     },
     {
       "character": "Player",
@@ -868,7 +936,8 @@
     },
     {
       "character": "Wizard Frumscone",
-      "line": "An army, heh? But I haven't GOT an army!"
+      "line": "An army, heh? But I haven't GOT an army!",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -876,7 +945,8 @@
     },
     {
       "character": "Wizard Frumscone",
-      "line": "What? This is a combat training facility, not a library! My magic zombies are not for loan."
+      "line": "What? This is a combat training facility, not a library! My magic zombies are not for loan.",
+      "delivery": "indignant, defensive"
     },
     {
       "character": "Player",
@@ -888,11 +958,13 @@
     },
     {
       "character": "Player",
-      "line": "So what should I tell the Colony? They've got to give up all their work because you won't help?"
+      "line": "So what should I tell the Colony? They've got to give up all their work because you won't help?",
+      "delivery": "pointed"
     },
     {
       "character": "Wizard Frumscone",
-      "line": "Actually that does seem rather harsh..."
+      "line": "Actually that does seem rather harsh...",
+      "delivery": "reconsidering, softening"
     },
     {
       "character": "Wizard Frumscone",
@@ -904,7 +976,8 @@
     },
     {
       "character": "Wizard Frumscone",
-      "line": "Now, you mustn't breathe a word of this to Zavistic or Disentor upstairs, but I know a man who could help you get an army."
+      "line": "Now, you mustn't breathe a word of this to Zavistic or Disentor upstairs, but I know a man who could help you get an army.",
+      "delivery": "conspiratorial, hushed"
     },
     {
       "character": "Player",
@@ -916,15 +989,18 @@
     },
     {
       "character": "Player",
-      "line": "Necromancy? I don't want anything to do with that!"
+      "line": "Necromancy? I don't want anything to do with that!",
+      "delivery": "alarmed"
     },
     {
       "character": "Wizard Frumscone",
-      "line": "He's not going to have you doing any of the actual spellcasting for it. You'll probably just have to collect some weird item from him and take it to the Colony."
+      "line": "He's not going to have you doing any of the actual spellcasting for it. You'll probably just have to collect some weird item from him and take it to the Colony.",
+      "delivery": "reassuring"
     },
     {
       "character": "Player",
-      "line": "I don't know if I still want to do this."
+      "line": "I don't know if I still want to do this.",
+      "delivery": "hesitant, uneasy"
     },
     {
       "character": "Wizard Frumscone",
@@ -1000,7 +1076,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "So, your curiosity leads you to speak to me?"
+      "line": "So, your curiosity leads you to speak to me?",
+      "delivery": "theatrical, ominous"
     },
     {
       "character": "Player",
@@ -1008,15 +1085,18 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Not when you're dressed like that! I don't help Saradominist filth!"
+      "line": "Not when you're dressed like that! I don't help Saradominist filth!",
+      "delivery": "contemptuous, sneering"
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Hahaha! You want MY help? HAHAHA!"
+      "line": "Hahaha! You want MY help? HAHAHA!",
+      "delivery": "maniacal, laughing"
     },
     {
       "character": "Player",
-      "line": "... um... The Piscatoris Fishing Colony needs an army to defend them against attacking trolls."
+      "line": "... um... The Piscatoris Fishing Colony needs an army to defend them against attacking trolls.",
+      "delivery": "nervous, hesitant"
     },
     {
       "character": "Malignius Mortifer",
@@ -1024,11 +1104,13 @@
     },
     {
       "character": "Player",
-      "line": "... um... pretty please?"
+      "line": "... um... pretty please?",
+      "delivery": "meek, nervous"
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Oh, I'll help! I'll give you GOOD help!"
+      "line": "Oh, I'll help! I'll give you GOOD help!",
+      "delivery": "gleeful, sinister"
     },
     {
       "character": "Player",
@@ -1036,15 +1118,18 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "An army, eh? I can raise you a lovely army of the undead skeletal magi! That'd be just right, wouldn't it?"
+      "line": "An army, eh? I can raise you a lovely army of the undead skeletal magi! That'd be just right, wouldn't it?",
+      "delivery": "delighted, grandiose"
     },
     {
       "character": "Player",
-      "line": "I'm not going to have to do anything... evil, am I?"
+      "line": "I'm not going to have to do anything... evil, am I?",
+      "delivery": "wary, nervous"
     },
     {
       "character": "Malignius Mortifer",
-      "line": "No, I'll keep the fun bits for myself. You'll just have to get a few things for me."
+      "line": "No, I'll keep the fun bits for myself. You'll just have to get a few things for me.",
+      "delivery": "sinister, amused"
     },
     {
       "character": "Player",
@@ -1128,7 +1213,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Is there something wrong with your memory? I told you to go to the Crafting Guild to ask the master crafters for advice on transporting bone seeds."
+      "line": "Is there something wrong with your memory? I told you to go to the Crafting Guild to ask the master crafters for advice on transporting bone seeds.",
+      "delivery": "condescending, irritated"
     },
     {
       "character": "Master Crafter",
@@ -1148,7 +1234,8 @@
     },
     {
       "character": "Master Crafter",
-      "line": "That's horrible - ask someone else!"
+      "line": "That's horrible - ask someone else!",
+      "delivery": "disgusted"
     },
     {
       "character": "Master Crafter",
@@ -1156,7 +1243,8 @@
     },
     {
       "character": "Master Crafter",
-      "line": "Woah dude! That's, like, some seriously maximum stuff you're talking."
+      "line": "Woah dude! That's, like, some seriously maximum stuff you're talking.",
+      "delivery": "laid-back, awed"
     },
     {
       "character": "Player",
@@ -1180,7 +1268,8 @@
     },
     {
       "character": "Master Crafter",
-      "line": "Yeah, yeah. You need to chill out more, dude."
+      "line": "Yeah, yeah. You need to chill out more, dude.",
+      "delivery": "laid-back, mellow"
     },
     {
       "character": "Player",
@@ -1196,11 +1285,13 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "You can take that Saradominist attire off before you try speaking to me about your quest again!"
+      "line": "You can take that Saradominist attire off before you try speaking to me about your quest again!",
+      "delivery": "contemptuous"
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Ah, excellent. HAHAHA! Have you got such a container?"
+      "line": "Ah, excellent. HAHAHA! Have you got such a container?",
+      "delivery": "gleeful, laughing"
     },
     {
       "character": "Player",
@@ -1208,7 +1299,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Then get one!"
+      "line": "Then get one!",
+      "delivery": "impatient, sharp"
     },
     {
       "character": "Player",
@@ -1216,11 +1308,13 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "I have raised you an army and bound them into bone seeds for you!"
+      "line": "I have raised you an army and bound them into bone seeds for you!",
+      "delivery": "triumphant, grandiose"
     },
     {
       "character": "Player",
-      "line": "... um... Thanks!"
+      "line": "... um... Thanks!",
+      "delivery": "uneasy"
     },
     {
       "character": "Malignius Mortifer",
@@ -1236,7 +1330,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "Take the pot to the Colony and open it! HAHAHA! Just don't open it before you get there."
+      "line": "Take the pot to the Colony and open it! HAHAHA! Just don't open it before you get there.",
+      "delivery": "gleeful, warning"
     },
     {
       "character": "Player",
@@ -1248,7 +1343,8 @@
     },
     {
       "character": "Malignius Mortifer",
-      "line": "HAHAHA!"
+      "line": "HAHAHA!",
+      "delivery": "maniacal laughter"
     },
     {
       "character": "Franklin Caranos",
@@ -1260,7 +1356,8 @@
     },
     {
       "character": "Franklin Caranos",
-      "line": "Interesting. I didn't know magic could do that."
+      "line": "Interesting. I didn't know magic could do that.",
+      "delivery": "curious, intrigued"
     },
     {
       "character": "Player",
@@ -1268,7 +1365,8 @@
     },
     {
       "character": "Arnold Lydspor",
-      "line": "! I hear you fetch mighty army for us!"
+      "line": "! I hear you fetch mighty army for us!",
+      "delivery": "impressed"
     },
     {
       "character": "Arnold Lydspor",
@@ -1280,7 +1378,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "You've got what?"
+      "line": "You've got what?",
+      "delivery": "confused, incredulous"
     },
     {
       "character": "Player",
@@ -1288,35 +1387,43 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Have you been drinking?"
+      "line": "Have you been drinking?",
+      "delivery": "incredulous, flat"
     },
     {
       "character": "Player",
-      "line": "No, really, the wizard told me he'd put bone seeds in this pot, and when I opened it the army would come forth from the bone seeds."
+      "line": "No, really, the wizard told me he'd put bone seeds in this pot, and when I opened it the army would come forth from the bone seeds.",
+      "delivery": "earnest"
     },
     {
       "character": "Wise Old Man",
-      "line": "Frumscone gave you bone seeds?"
+      "line": "Frumscone gave you bone seeds?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "Oh... um..."
+      "line": "Oh... um...",
+      "delivery": "sheepish, caught out"
     },
     {
       "character": "Wise Old Man",
-      "line": "Hmmmph. I don't much like the sound of this. I certainly won't be sending anyone to Frumscone for help again!"
+      "line": "Hmmmph. I don't much like the sound of this. I certainly won't be sending anyone to Frumscone for help again!",
+      "delivery": "displeased, gruff"
     },
     {
       "character": "Player",
-      "line": "Well... it wasn't exactly..."
+      "line": "Well... it wasn't exactly...",
+      "delivery": "stammering, evasive"
     },
     {
       "character": "Herman Caranos",
-      "line": "You can talk about that later! Now we've got an army we can get on with beating the trolls!"
+      "line": "You can talk about that later! Now we've got an army we can get on with beating the trolls!",
+      "delivery": "eager, urgent"
     },
     {
       "character": "Wise Old Man",
-      "line": "Well, I suppose so., this could be VERY dangerous. Do you feel ready to fight?"
+      "line": "Well, I suppose so., this could be VERY dangerous. Do you feel ready to fight?",
+      "delivery": "grave, cautioning"
     },
     {
       "character": "Player",
@@ -1328,11 +1435,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm ready. Let's fight!"
+      "line": "I'm ready. Let's fight!",
+      "delivery": "determined, eager"
     },
     {
       "character": "Wise Old Man",
-      "line": "Good. May this, my final adventure, end well!"
+      "line": "Good. May this, my final adventure, end well!",
+      "delivery": "solemn, dramatic"
     },
     {
       "character": "Player",
@@ -1344,43 +1453,53 @@
     },
     {
       "character": "Player",
-      "line": "The trolls are dead!"
+      "line": "The trolls are dead!",
+      "delivery": "triumphant"
     },
     {
       "character": "Wise Old Man",
-      "line": "They weren't very tough."
+      "line": "They weren't very tough.",
+      "delivery": "breezy, dismissive"
     },
     {
       "character": "Player",
-      "line": "Oh... dear..."
+      "line": "Oh... dear...",
+      "delivery": "dismayed"
     },
     {
       "character": "Wise Old Man",
-      "line": "Leave this to me..."
+      "line": "Leave this to me...",
+      "delivery": "confident, resolute"
     },
     {
       "character": "Wise Old Man",
-      "line": "Aahh, that was fun."
+      "line": "Aahh, that was fun.",
+      "delivery": "satisfied"
     },
     {
       "character": "Player",
-      "line": "How did you do that?"
+      "line": "How did you do that?",
+      "delivery": "amazed"
     },
     {
       "character": "Wise Old Man",
-      "line": "Talent, my dear."
+      "line": "Talent, my dear.",
+      "delivery": "smug"
     },
     {
       "character": "Wise Old Man",
-      "line": "I... can't... move..., you must fight this for me..."
+      "line": "I... can't... move..., you must fight this for me...",
+      "delivery": "strained, weak"
     },
     {
       "character": "Player",
-      "line": "Now I've killed that THING, Herman's sure to reward me!"
+      "line": "Now I've killed that THING, Herman's sure to reward me!",
+      "delivery": "triumphant, hopeful"
     },
     {
       "character": "Arnold Lydspor",
-      "line": "You kick big troll queenie pretty hard, ja?"
+      "line": "You kick big troll queenie pretty hard, ja?",
+      "delivery": "impressed, cheerful"
     },
     {
       "character": "Player",
@@ -1388,15 +1507,18 @@
     },
     {
       "character": "Arnold Lydspor",
-      "line": "Piscatoris Colony owe you big-time for your help. You go see Hermie - maybe he got something for you."
+      "line": "Piscatoris Colony owe you big-time for your help. You go see Hermie - maybe he got something for you.",
+      "delivery": "warm, grateful"
     },
     {
       "character": "Player",
-      "line": "'Hermie'?"
+      "line": "'Hermie'?",
+      "delivery": "amused"
     },
     {
       "character": "Arnold Lydspor",
-      "line": "Herr Herman Caranos. I call him 'Hermie' when him not listening. Sometimes I call him worse things, but not today."
+      "line": "Herr Herman Caranos. I call him 'Hermie' when him not listening. Sometimes I call him worse things, but not today.",
+      "delivery": "dry, conspiratorial"
     },
     {
       "character": "Franklin Caranos",
@@ -1432,15 +1554,18 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Your fight was truly magnificent, ! Congratulations!"
+      "line": "Your fight was truly magnificent, ! Congratulations!",
+      "delivery": "proud, warm"
     },
     {
       "character": "Herman Caranos",
-      "line": ", how can I ever thank you? You have saved my Fishing Colony from utter destruction!"
+      "line": ", how can I ever thank you? You have saved my Fishing Colony from utter destruction!",
+      "delivery": "overwhelmed, grateful"
     },
     {
       "character": "Player",
-      "line": "Well, you mentioned something about a reward?"
+      "line": "Well, you mentioned something about a reward?",
+      "delivery": "hopeful, angling"
     },
     {
       "character": "Herman Caranos",
@@ -1452,19 +1577,23 @@
     },
     {
       "character": "Player",
-      "line": "Ooh, goody! Thanks, old man! Um... can I have your hat?"
+      "line": "Ooh, goody! Thanks, old man! Um... can I have your hat?",
+      "delivery": "delighted, cheeky"
     },
     {
       "character": "Wise Old Man",
-      "line": "'Old man'... yes, I am old. That creature nearly killed me - I have never been so close to defeat."
+      "line": "'Old man'... yes, I am old. That creature nearly killed me - I have never been so close to defeat.",
+      "delivery": "somber, reflective"
     },
     {
       "character": "Player",
-      "line": "Aww, cheer up - we won! But can I have your hat as my reward?"
+      "line": "Aww, cheer up - we won! But can I have your hat as my reward?",
+      "delivery": "cheerful, cheeky"
     },
     {
       "character": "Wise Old Man",
-      "line": "Yes, we won... YOU won... It is definitely time I retired."
+      "line": "Yes, we won... YOU won... It is definitely time I retired.",
+      "delivery": "wistful, resigned"
     },
     {
       "character": "Player",
@@ -1472,15 +1601,18 @@
     },
     {
       "character": "Wise Old Man",
-      "line": "Well, I'm sure I'll find some way to keep myself busy. But yes, this has been my last quest. My swan song."
+      "line": "Well, I'm sure I'll find some way to keep myself busy. But yes, this has been my last quest. My swan song.",
+      "delivery": "wistful, reflective"
     },
     {
       "character": "Player",
-      "line": "It's been... nice working with you! It'd be even nicer if you'd give me that hat..."
+      "line": "It's been... nice working with you! It'd be even nicer if you'd give me that hat...",
+      "delivery": "wheedling"
     },
     {
       "character": "Wise Old Man",
-      "line": "It's been a pleasure working with you too. Do pop in to see me in Draynor soon! I leave you with my blessing..."
+      "line": "It's been a pleasure working with you too. Do pop in to see me in Draynor soon! I leave you with my blessing...",
+      "delivery": "warm, fond"
     },
     {
       "character": "Herman Caranos",
@@ -1488,15 +1620,18 @@
     },
     {
       "character": "Player",
-      "line": "HE DIDN'T GIVE ME HIS HAT!"
+      "line": "HE DIDN'T GIVE ME HIS HAT!",
+      "delivery": "outraged, shouting"
     },
     {
       "character": "Herman Caranos",
-      "line": "It's only a hat!"
+      "line": "It's only a hat!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "!!!"
+      "line": "!!!",
+      "delivery": "furious, speechless"
     },
     {
       "character": "Player",
@@ -1512,11 +1647,13 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "Ah, I'm glad you asked that! You see, this is the only known place where you can catch monkfish!"
+      "line": "Ah, I'm glad you asked that! You see, this is the only known place where you can catch monkfish!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
-      "line": "Ok, so I can catch monkfish. Um... thanks?!"
+      "line": "Ok, so I can catch monkfish. Um... thanks?!",
+      "delivery": "underwhelmed, unsure"
     },
     {
       "character": "Herman Caranos",
@@ -1544,7 +1681,8 @@
     },
     {
       "character": "Herman Caranos",
-      "line": "No, thank YOU!"
+      "line": "No, thank YOU!",
+      "delivery": "warm, grateful"
     }
   ],
   "characters": [

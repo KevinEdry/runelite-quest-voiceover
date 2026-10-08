@@ -4,15 +4,18 @@
   "lines": [
     {
       "character": "King Arthur",
-      "line": "Welcome to my court. I am King Arthur of the Knights of the Round Table."
+      "line": "Welcome to my court. I am King Arthur of the Knights of the Round Table.",
+      "delivery": "dignified, welcoming"
     },
     {
       "character": "Player",
-      "line": "I want to become a Knight of the Round Table!"
+      "line": "I want to become a Knight of the Round Table!",
+      "delivery": "eager"
     },
     {
       "character": "King Arthur",
-      "line": "Really? Well then you will need to go on a quest to prove yourself worthy. My knights all appreciate a good quest."
+      "line": "Really? Well then you will need to go on a quest to prove yourself worthy. My knights all appreciate a good quest.",
+      "delivery": "intrigued"
     },
     {
       "character": "King Arthur",
@@ -44,15 +47,18 @@
     },
     {
       "character": "Player",
-      "line": "Merlin's in a crystal. Little help?"
+      "line": "Merlin's in a crystal. Little help?",
+      "delivery": "casual"
     },
     {
       "character": "Sir Bedivere",
-      "line": "That is what we were hoping for from you, adventurer!"
+      "line": "That is what we were hoping for from you, adventurer!",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
-      "line": "Hmmm. Well, ok, thanks anyway."
+      "line": "Hmmm. Well, ok, thanks anyway.",
+      "delivery": "deflated"
     },
     {
       "character": "Sir Kay",
@@ -64,7 +70,8 @@
     },
     {
       "character": "Sir Kay",
-      "line": "Unfortunately not, Sirrah."
+      "line": "Unfortunately not, Sirrah.",
+      "delivery": "politely resigned"
     },
     {
       "character": "Sir Kay",
@@ -72,15 +79,18 @@
     },
     {
       "character": "Player",
-      "line": "Yeah, that's not actually too helpful."
+      "line": "Yeah, that's not actually too helpful.",
+      "delivery": "dryly sarcastic"
     },
     {
       "character": "Sir Kay",
-      "line": "I am well aware of that, adventurer."
+      "line": "I am well aware of that, adventurer.",
+      "delivery": "dry, resigned"
     },
     {
       "character": "Sir Lancelot",
-      "line": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?"
+      "line": "Greetings! I am Sir Lancelot, the greatest Knight in the land! What do you want?",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
@@ -88,7 +98,8 @@
     },
     {
       "character": "Sir Lancelot",
-      "line": "Well, if the Knights of the Round Table can't manage it, I can't see how a commoner like you could succeed where we have failed."
+      "line": "Well, if the Knights of the Round Table can't manage it, I can't see how a commoner like you could succeed where we have failed.",
+      "delivery": "condescending"
     },
     {
       "character": "Sir Lucan",
@@ -100,11 +111,13 @@
     },
     {
       "character": "Sir Lucan",
-      "line": "I've tried all the weapons I can find, yet none are powerful enough to break his crystal prison..."
+      "line": "I've tried all the weapons I can find, yet none are powerful enough to break his crystal prison...",
+      "delivery": "earnest, weary"
     },
     {
       "character": "Player",
-      "line": "Excalibur eh? Where would I find that?"
+      "line": "Excalibur eh? Where would I find that?",
+      "delivery": "intrigued"
     },
     {
       "character": "Sir Lucan",
@@ -124,11 +137,13 @@
     },
     {
       "character": "Sir Palomedes",
-      "line": "Sorry, I cannot help you with that."
+      "line": "Sorry, I cannot help you with that.",
+      "delivery": "apologetic"
     },
     {
       "character": "Sir Pelleas",
-      "line": "Greetings to the court of King Arthur!"
+      "line": "Greetings to the court of King Arthur!",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Sir Pelleas",
@@ -144,7 +159,8 @@
     },
     {
       "character": "Player",
-      "line": "Um... Hello."
+      "line": "Um... Hello.",
+      "delivery": "awkward"
     },
     {
       "character": "Player",
@@ -152,7 +168,8 @@
     },
     {
       "character": "Sir Tristram",
-      "line": "Funnily enough...absolutely nothing."
+      "line": "Funnily enough...absolutely nothing.",
+      "delivery": "dryly sardonic"
     },
     {
       "character": "Player",
@@ -168,7 +185,8 @@
     },
     {
       "character": "Sir Gawain",
-      "line": "I'm a little stumped myself. We've tried opening it with anything and everything!"
+      "line": "I'm a little stumped myself. We've tried opening it with anything and everything!",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -176,7 +194,8 @@
     },
     {
       "character": "Sir Gawain",
-      "line": "I would guess this is the work of the evil Morgan Le Faye!"
+      "line": "I would guess this is the work of the evil Morgan Le Faye!",
+      "delivery": "ominous"
     },
     {
       "character": "Player",
@@ -200,7 +219,8 @@
     },
     {
       "character": "Sir Gawain",
-      "line": "It is the least I can do."
+      "line": "It is the least I can do.",
+      "delivery": "warm"
     },
     {
       "character": "Player",
@@ -208,7 +228,8 @@
     },
     {
       "character": "Sir Bedivere",
-      "line": "I am afraid not. Would that we could! Mordred and his cronies have been thorns in our side for far too long already!"
+      "line": "I am afraid not. Would that we could! Mordred and his cronies have been thorns in our side for far too long already!",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
@@ -216,7 +237,8 @@
     },
     {
       "character": "Sir Bedivere",
-      "line": "Take care adventurer, Mordred is an evil and powerful foe."
+      "line": "Take care adventurer, Mordred is an evil and powerful foe.",
+      "delivery": "cautioning, grave"
     },
     {
       "character": "Player",
@@ -224,7 +246,8 @@
     },
     {
       "character": "Sir Kay",
-      "line": "Mordred... So you think he may be involved with the curse upon Merlin?"
+      "line": "Mordred... So you think he may be involved with the curse upon Merlin?",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -236,7 +259,8 @@
     },
     {
       "character": "Player",
-      "line": "...I'll figure something out."
+      "line": "...I'll figure something out.",
+      "delivery": "quietly determined"
     },
     {
       "character": "Player",
@@ -264,7 +288,8 @@
     },
     {
       "character": "Sir Tristram",
-      "line": "Good luck with that!"
+      "line": "Good luck with that!",
+      "delivery": "sardonic"
     },
     {
       "character": "Player",
@@ -284,7 +309,8 @@
     },
     {
       "character": "Arhein",
-      "line": "Hello! Would you like to trade?"
+      "line": "Hello! Would you like to trade?",
+      "delivery": "friendly"
     },
     {
       "character": "Player",
@@ -308,7 +334,8 @@
     },
     {
       "character": "Arhein",
-      "line": "I don't think Sir Mordred would like that. He wants as few outsiders visiting as possible. I wouldn't want to lose his business."
+      "line": "I don't think Sir Mordred would like that. He wants as few outsiders visiting as possible. I wouldn't want to lose his business.",
+      "delivery": "wary"
     },
     {
       "character": "Player",
@@ -316,7 +343,8 @@
     },
     {
       "character": "Arhein",
-      "line": "Hey, you gotta take business where you can find it these days! Besides, if I didn't supply them, someone else would."
+      "line": "Hey, you gotta take business where you can find it these days! Besides, if I didn't supply them, someone else would.",
+      "delivery": "breezy, pragmatic"
     },
     {
       "character": "Player",
@@ -332,7 +360,8 @@
     },
     {
       "character": "Arhein",
-      "line": "Sorry pal, but I'm afraid I'm not quite ready to sail yet."
+      "line": "Sorry pal, but I'm afraid I'm not quite ready to sail yet.",
+      "delivery": "apologetic"
     },
     {
       "character": "Arhein",
@@ -344,7 +373,8 @@
     },
     {
       "character": "Arhein",
-      "line": "Thanks buddy!"
+      "line": "Thanks buddy!",
+      "delivery": "cheerful"
     },
     {
       "character": "Player",
@@ -356,23 +386,28 @@
     },
     {
       "character": "Arhein",
-      "line": "Hey buddy! Get away from my ship alright?"
+      "line": "Hey buddy! Get away from my ship alright?",
+      "delivery": "annoyed"
     },
     {
       "character": "Player",
-      "line": "Yeah... uh... sorry..."
+      "line": "Yeah... uh... sorry...",
+      "delivery": "sheepish"
     },
     {
       "character": "Sir Mordred",
-      "line": "You DARE to invade MY stronghold?!?! Have at thee knave!!!"
+      "line": "You DARE to invade MY stronghold?!?! Have at thee knave!!!",
+      "delivery": "enraged, shouting"
     },
     {
       "character": "Morgan Le Faye",
-      "line": "STOP! Please... spare my son."
+      "line": "STOP! Please... spare my son.",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Player",
-      "line": "Tell me how to untrap Merlin and I might."
+      "line": "Tell me how to untrap Merlin and I might.",
+      "delivery": "cold, firm"
     },
     {
       "character": "Morgan Le Faye",
@@ -380,7 +415,8 @@
     },
     {
       "character": "Morgan Le Faye",
-      "line": "I suppose I can live with that fool Merlin being loose for the sake of my son."
+      "line": "I suppose I can live with that fool Merlin being loose for the sake of my son.",
+      "delivery": "grudging"
     },
     {
       "character": "Morgan Le Faye",
@@ -396,7 +432,8 @@
     },
     {
       "character": "Morgan Le Faye",
-      "line": "This will summon a mighty spirit named Thrantax."
+      "line": "This will summon a mighty spirit named Thrantax.",
+      "delivery": "ominous"
     },
     {
       "character": "Morgan Le Faye",
@@ -432,7 +469,8 @@
     },
     {
       "character": "Player",
-      "line": "No. He deserves to die."
+      "line": "No. He deserves to die.",
+      "delivery": "cold, resolute"
     },
     {
       "character": "Player",
@@ -448,23 +486,28 @@
     },
     {
       "character": "Candle maker",
-      "line": "BLACK candles???"
+      "line": "BLACK candles???",
+      "delivery": "alarmed"
     },
     {
       "character": "Candle maker",
-      "line": "Hmmm. In the candle making trade, we have a tradition that it's very bad luck to make black candles."
+      "line": "Hmmm. In the candle making trade, we have a tradition that it's very bad luck to make black candles.",
+      "delivery": "wary, hushed"
     },
     {
       "character": "Candle maker",
-      "line": "VERY bad luck."
+      "line": "VERY bad luck.",
+      "delivery": "emphatic, hushed"
     },
     {
       "character": "Player",
-      "line": "I will pay good money for one..."
+      "line": "I will pay good money for one...",
+      "delivery": "coaxing"
     },
     {
       "character": "Candle maker",
-      "line": "I still dunno..."
+      "line": "I still dunno...",
+      "delivery": "hesitant"
     },
     {
       "character": "Candle maker",
@@ -488,7 +531,8 @@
     },
     {
       "character": "Sir Bedivere",
-      "line": "Um... it's a really good sword?"
+      "line": "Um... it's a really good sword?",
+      "delivery": "uncertain"
     },
     {
       "character": "Player",
@@ -532,7 +576,8 @@
     },
     {
       "character": "The Lady of the Lake",
-      "line": "Good day to you."
+      "line": "Good day to you.",
+      "delivery": "serene, mystical"
     },
     {
       "character": "Player",
@@ -556,7 +601,8 @@
     },
     {
       "character": "The Lady of the Lake",
-      "line": "I shall set a test for you."
+      "line": "I shall set a test for you.",
+      "delivery": "authoritative"
     },
     {
       "character": "The Lady of the Lake",
@@ -568,31 +614,38 @@
     },
     {
       "character": "Beggar",
-      "line": "Please, stranger... my family and I are starving..."
+      "line": "Please, stranger... my family and I are starving...",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Beggar",
-      "line": "Could you find it in your heart to spare me a simple loaf of bread?"
+      "line": "Could you find it in your heart to spare me a simple loaf of bread?",
+      "delivery": "pleading"
     },
     {
       "character": "Player",
-      "line": "Yes, certainly."
+      "line": "Yes, certainly.",
+      "delivery": "kind"
     },
     {
       "character": "Beggar",
-      "line": "Thank you very much!"
+      "line": "Thank you very much!",
+      "delivery": "grateful"
     },
     {
       "character": "The Lady of the Lake",
-      "line": "Well done. You have passed my test."
+      "line": "Well done. You have passed my test.",
+      "delivery": "approving"
     },
     {
       "character": "The Lady of the Lake",
-      "line": "Here is Excalibur, guard it well."
+      "line": "Here is Excalibur, guard it well.",
+      "delivery": "solemn"
     },
     {
       "character": "Player",
-      "line": "... except I don't have any bread on me at the moment..."
+      "line": "... except I don't have any bread on me at the moment...",
+      "delivery": "sheepish"
     },
     {
       "character": "Beggar",
@@ -612,7 +665,8 @@
     },
     {
       "character": "Player",
-      "line": "Actually, I'm wrong. I still don't have any bread. Sorry."
+      "line": "Actually, I'm wrong. I still don't have any bread. Sorry.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -624,7 +678,8 @@
     },
     {
       "character": "Player",
-      "line": "Snarthtrick..."
+      "line": "Snarthtrick...",
+      "delivery": "tentative"
     },
     {
       "character": "Player",
@@ -636,7 +691,8 @@
     },
     {
       "character": "Thrantax the Mighty",
-      "line": "GRAAAAAARGH!"
+      "line": "GRAAAAAARGH!",
+      "delivery": "roaring, furious"
     },
     {
       "character": "Player",
@@ -660,39 +716,48 @@
     },
     {
       "character": "Player",
-      "line": "Termanto!"
+      "line": "Termanto!",
+      "delivery": "triumphant"
     },
     {
       "character": "Thrantax the Mighty",
-      "line": "Thou hast me in thine control. So that I mayst return from whence I came, I must grant thee a boon. What dost thou wish of me?"
+      "line": "Thou hast me in thine control. So that I mayst return from whence I came, I must grant thee a boon. What dost thou wish of me?",
+      "delivery": "booming, grave"
     },
     {
       "character": "Player",
-      "line": "I wish to free Merlin from his giant crystal!"
+      "line": "I wish to free Merlin from his giant crystal!",
+      "delivery": "commanding"
     },
     {
       "character": "Thrantax the Mighty",
-      "line": "The deed is done. Thou mayst now shatter Merlin's crystal with Excalibur, and I can once more rest. Begone! And leave me once more in peace."
+      "line": "The deed is done. Thou mayst now shatter Merlin's crystal with Excalibur, and I can once more rest. Begone! And leave me once more in peace.",
+      "delivery": "booming, commanding"
     },
     {
       "character": "Merlin",
-      "line": "Thank you! Thank you! Thank you!"
+      "line": "Thank you! Thank you! Thank you!",
+      "delivery": "overjoyed, relieved"
     },
     {
       "character": "Merlin",
-      "line": "It's not fun being trapped in a giant crystal!"
+      "line": "It's not fun being trapped in a giant crystal!",
+      "delivery": "dry, exasperated"
     },
     {
       "character": "Merlin",
-      "line": "Go speak to King Arthur, I'm sure he'll reward you!"
+      "line": "Go speak to King Arthur, I'm sure he'll reward you!",
+      "delivery": "warm"
     },
     {
       "character": "Player",
-      "line": "I have freed Merlin from his crystal!"
+      "line": "I have freed Merlin from his crystal!",
+      "delivery": "proud"
     },
     {
       "character": "King Arthur",
-      "line": "Ah. A good job, well done. I dub thee a Knight Of The Round Table. You are now an honorary knight."
+      "line": "Ah. A good job, well done. I dub thee a Knight Of The Round Table. You are now an honorary knight.",
+      "delivery": "proud, ceremonial"
     }
   ],
   "characters": [

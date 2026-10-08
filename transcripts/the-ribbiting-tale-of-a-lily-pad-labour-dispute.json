@@ -8,7 +8,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "You! I bet you're with them!"
+      "line": "You! I bet you're with them!",
+      "delivery": "paranoid, accusatory"
     },
     {
       "character": "Player",
@@ -24,7 +25,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "Ah, I see. So you're going to play dumb are you? Well, be gone! I won't fall for your lies!"
+      "line": "Ah, I see. So you're going to play dumb are you? Well, be gone! I won't fall for your lies!",
+      "delivery": "indignant, dismissive"
     },
     {
       "character": "Player",
@@ -44,7 +46,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "It's those frogs on the other side of the oasis! They're out to get us! All of us! If someone doesn't kill them all, we'll be living our lives as their slaves!"
+      "line": "It's those frogs on the other side of the oasis! They're out to get us! All of us! If someone doesn't kill them all, we'll be living our lives as their slaves!",
+      "delivery": "frantic, urgent"
     },
     {
       "character": "Player",
@@ -52,7 +55,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "You want to go near them? Well then you're a fool! I will watch from a safe distance as they dine on your corpse!"
+      "line": "You want to go near them? Well then you're a fool! I will watch from a safe distance as they dine on your corpse!",
+      "delivery": "ominous, dramatic"
     },
     {
       "character": "Player",
@@ -60,11 +64,13 @@
     },
     {
       "character": "Player",
-      "line": "I think I'm just going to go now. You clearly have some... issues that you need to get on top of."
+      "line": "I think I'm just going to go now. You clearly have some... issues that you need to get on top of.",
+      "delivery": "dry, wary"
     },
     {
       "character": "Marcellus",
-      "line": "That's it! You walk away! Just remember, I know the truth!"
+      "line": "That's it! You walk away! Just remember, I know the truth!",
+      "delivery": "shouting, defiant"
     },
     {
       "character": "Marcellus",
@@ -84,15 +90,18 @@
     },
     {
       "character": "Frog",
-      "line": "Oh, hello there."
+      "line": "Oh, hello there.",
+      "delivery": "warm, amused"
     },
     {
       "character": "Player",
-      "line": "Hang on... You can talk?"
+      "line": "Hang on... You can talk?",
+      "delivery": "startled"
     },
     {
       "character": "Frog",
-      "line": "Well of course we can talk, silly. Why wouldn't we be able to?"
+      "line": "Well of course we can talk, silly. Why wouldn't we be able to?",
+      "delivery": "dry amusement"
     },
     {
       "character": "Player",
@@ -100,7 +109,8 @@
     },
     {
       "character": "Frog",
-      "line": "We live in a world where giant lizards with wings fly around and expel highly combustible fluids from their throats, but you never considered a frog could talk?"
+      "line": "We live in a world where giant lizards with wings fly around and expel highly combustible fluids from their throats, but you never considered a frog could talk?",
+      "delivery": "dry amusement"
     },
     {
       "character": "Player",
@@ -128,11 +138,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm sorry, what?"
+      "line": "I'm sorry, what?",
+      "delivery": "baffled"
     },
     {
       "character": "Sue",
-      "line": "We're on strike. Fair work requires fair treatment, and we've had enough of his nonsense."
+      "line": "We're on strike. Fair work requires fair treatment, and we've had enough of his nonsense.",
+      "delivery": "firm, resolute"
     },
     {
       "character": "Player",
@@ -148,7 +160,8 @@
     },
     {
       "character": "Gary",
-      "line": "I know it's because of him though. That monster spends every day mistreating us. If he ever wants to see any work from us, he needs to start showing some basic respect."
+      "line": "I know it's because of him though. That monster spends every day mistreating us. If he ever wants to see any work from us, he needs to start showing some basic respect.",
+      "delivery": "indignant, passionate"
     },
     {
       "character": "Sue",
@@ -164,15 +177,18 @@
     },
     {
       "character": "Sue",
-      "line": "Overthrow humanity? What a load of nonsense! We love humans! Gary here had one as a pet once."
+      "line": "Overthrow humanity? What a load of nonsense! We love humans! Gary here had one as a pet once.",
+      "delivery": "incredulous"
     },
     {
       "character": "Gary",
-      "line": "Ah, those were the days. I always loved my Sentia. Such a shame about the accident..."
+      "line": "Ah, those were the days. I always loved my Sentia. Such a shame about the accident...",
+      "delivery": "wistful, sad"
     },
     {
       "character": "Sue",
-      "line": "It wasn't your fault, Gary. It wasn't your fault. Anyway, if this chap thinks we're plotting to overthrow humanity, what's he planning to do about it?"
+      "line": "It wasn't your fault, Gary. It wasn't your fault. Anyway, if this chap thinks we're plotting to overthrow humanity, what's he planning to do about it?",
+      "delivery": "gently reassuring"
     },
     {
       "character": "Player",
@@ -180,23 +196,28 @@
     },
     {
       "character": "Sue",
-      "line": "He wants to what?!"
+      "line": "He wants to what?!",
+      "delivery": "shocked, indignant"
     },
     {
       "character": "Gary",
-      "line": "He wants to kill us?! Well now I think we should overthrow humanity!"
+      "line": "He wants to kill us?! Well now I think we should overthrow humanity!",
+      "delivery": "outraged, rallying"
     },
     {
       "character": "Player",
-      "line": "Wait... No..."
+      "line": "Wait... No...",
+      "delivery": "alarmed"
     },
     {
       "character": "Sue",
-      "line": "Yeah, we've been treated like second class citizens for too long. The revolution starts today!"
+      "line": "Yeah, we've been treated like second class citizens for too long. The revolution starts today!",
+      "delivery": "fired up"
     },
     {
       "character": "Player",
-      "line": "Wait! How about peace?"
+      "line": "Wait! How about peace?",
+      "delivery": "urgent"
     },
     {
       "character": "Sue",
@@ -224,7 +245,8 @@
     },
     {
       "character": "Cuthbert",
-      "line": "I hear you're the one handling the peace talks. You will fail. There is no peace to be had with that man."
+      "line": "I hear you're the one handling the peace talks. You will fail. There is no peace to be had with that man.",
+      "delivery": "brooding, ominous"
     },
     {
       "character": "Player",
@@ -232,7 +254,8 @@
     },
     {
       "character": "Cuthbert",
-      "line": "So be it."
+      "line": "So be it.",
+      "delivery": "cold, resigned"
     },
     {
       "character": "Dave",
@@ -248,7 +271,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "The frogs didn't kill you? This is unexpected."
+      "line": "The frogs didn't kill you? This is unexpected.",
+      "delivery": "surprised, wary"
     },
     {
       "character": "Player",
@@ -256,7 +280,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "Peace? The hypocrisy! After everything they've done they think peace is an option? Absolutely not!"
+      "line": "Peace? The hypocrisy! After everything they've done they think peace is an option? Absolutely not!",
+      "delivery": "indignant, dramatic"
     },
     {
       "character": "Player",
@@ -276,7 +301,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "Er..."
+      "line": "Er...",
+      "delivery": "trailing off, flustered"
     },
     {
       "character": "Player",
@@ -284,19 +310,23 @@
     },
     {
       "character": "Marcellus",
-      "line": "Look, I can't remember. But they must have done something!"
+      "line": "Look, I can't remember. But they must have done something!",
+      "delivery": "defensive, flustered"
     },
     {
       "character": "Marcellus",
-      "line": "Tetamo! I know! My brain!"
+      "line": "Tetamo! I know! My brain!",
+      "delivery": "sudden excitement"
     },
     {
       "character": "Player",
-      "line": "Yes I'm starting to think that's where the problem lies as well."
+      "line": "Yes I'm starting to think that's where the problem lies as well.",
+      "delivery": "dry"
     },
     {
       "character": "Marcellus",
-      "line": "They must have taken my brain! That's why I can't remember! You tell them I want my brain back!"
+      "line": "They must have taken my brain! That's why I can't remember! You tell them I want my brain back!",
+      "delivery": "frantic"
     },
     {
       "character": "Player",
@@ -324,7 +354,8 @@
     },
     {
       "character": "Player",
-      "line": "Every day I find myself further questioning my life choices. Fine. I'll go and ask them about their leader."
+      "line": "Every day I find myself further questioning my life choices. Fine. I'll go and ask them about their leader.",
+      "delivery": "weary, resigned"
     },
     {
       "character": "Marcellus",
@@ -344,7 +375,8 @@
     },
     {
       "character": "Gary",
-      "line": "Nah, we're more about collective leadership. We did consider starting a union at one point, but Dave messed up the paperwork."
+      "line": "Nah, we're more about collective leadership. We did consider starting a union at one point, but Dave messed up the paperwork.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -380,11 +412,13 @@
     },
     {
       "character": "Player",
-      "line": "I see. Well, I don't, but for the sake of my sanity, let's say I do. Shall we call an election then?"
+      "line": "I see. Well, I don't, but for the sake of my sanity, let's say I do. Shall we call an election then?",
+      "delivery": "exasperated, dry"
     },
     {
       "character": "Sue",
-      "line": "Sounds like a wonderful idea! There is just the small matter of Cuthbert..."
+      "line": "Sounds like a wonderful idea! There is just the small matter of Cuthbert...",
+      "delivery": "hesitant"
     },
     {
       "character": "Player",
@@ -400,11 +434,13 @@
     },
     {
       "character": "Gary",
-      "line": "I mean, can you blame the guy? Cuthbert was once the leader of the Frogs for Humanity society. The guy loved humans, but after what they did to his favourite plant..."
+      "line": "I mean, can you blame the guy? Cuthbert was once the leader of the Frogs for Humanity society. The guy loved humans, but after what they did to his favourite plant...",
+      "delivery": "sympathetic"
     },
     {
       "character": "Sue",
-      "line": "Some wounds never heal..."
+      "line": "Some wounds never heal...",
+      "delivery": "solemn"
     },
     {
       "character": "Player",
@@ -412,7 +448,8 @@
     },
     {
       "character": "Sue",
-      "line": "The idea of rigging an election is one that fills my democracy-loving heart with terror, but yes, we will need to do that."
+      "line": "The idea of rigging an election is one that fills my democracy-loving heart with terror, but yes, we will need to do that.",
+      "delivery": "reluctant, conflicted"
     },
     {
       "character": "Gary",
@@ -428,11 +465,13 @@
     },
     {
       "character": "Sue",
-      "line": "The hop-off will see the candidates hop from the shore to a lily pad. Now, if Cuthbert's lily pad had an unfortunate hole in it..."
+      "line": "The hop-off will see the candidates hop from the shore to a lily pad. Now, if Cuthbert's lily pad had an unfortunate hole in it...",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
-      "line": "Okay... I guess I'm off to sabotage a lily pad."
+      "line": "Okay... I guess I'm off to sabotage a lily pad.",
+      "delivery": "resigned, dry"
     },
     {
       "character": "Sue",
@@ -448,7 +487,8 @@
     },
     {
       "character": "Cuthbert",
-      "line": "It seems we are to have an election. Know that once I win, our war with humanity will be unlike anything ever seen."
+      "line": "It seems we are to have an election. Know that once I win, our war with humanity will be unlike anything ever seen.",
+      "delivery": "ominous, menacing"
     },
     {
       "character": "Player",
@@ -456,7 +496,8 @@
     },
     {
       "character": "Cuthbert",
-      "line": "You should go. Go and be with your loved ones. Hold them close while you can. Soon you will never have that luxury again."
+      "line": "You should go. Go and be with your loved ones. Hold them close while you can. Soon you will never have that luxury again.",
+      "delivery": "ominous, foreboding"
     },
     {
       "character": "Jane",
@@ -464,11 +505,13 @@
     },
     {
       "character": "Dave",
-      "line": "Hello there! Have you heard about the election? Isn't it thrilling?"
+      "line": "Hello there! Have you heard about the election? Isn't it thrilling?",
+      "delivery": "excited"
     },
     {
       "character": "Player",
-      "line": "That is definitely a word that could be used to describe this situation. Anyway, speaking of the election, I need to inspect the lily pads."
+      "line": "That is definitely a word that could be used to describe this situation. Anyway, speaking of the election, I need to inspect the lily pads.",
+      "delivery": "dry"
     },
     {
       "character": "Jane",
@@ -488,7 +531,8 @@
     },
     {
       "character": "Jane",
-      "line": "Oh I'd kill for a nice tasty orange!"
+      "line": "Oh I'd kill for a nice tasty orange!",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -520,11 +564,13 @@
     },
     {
       "character": "Jane",
-      "line": "Look! Oranges!"
+      "line": "Look! Oranges!",
+      "delivery": "excited, distracted"
     },
     {
       "character": "Dave",
-      "line": "Can't stop to talk! There's oranges to be had!"
+      "line": "Can't stop to talk! There's oranges to be had!",
+      "delivery": "excited, distracted"
     },
     {
       "character": "Player",
@@ -556,11 +602,13 @@
     },
     {
       "character": "Gary",
-      "line": "Welcome, one and all, to what is bound to be a thrilling frog hop-off! The stakes are high for this one, and indeed the future of our entire world may well be at stake."
+      "line": "Welcome, one and all, to what is bound to be a thrilling frog hop-off! The stakes are high for this one, and indeed the future of our entire world may well be at stake.",
+      "delivery": "announcer, enthusiastic"
     },
     {
       "character": "Gary",
-      "line": "Our first contender for today is Sue! Let's see what she's got!"
+      "line": "Our first contender for today is Sue! Let's see what she's got!",
+      "delivery": "announcer, excited"
     },
     {
       "character": "Gary",
@@ -572,7 +620,8 @@
     },
     {
       "character": "Gary",
-      "line": "Well, he's dead!"
+      "line": "Well, he's dead!",
+      "delivery": "cheerful, casual"
     },
     {
       "character": "Player",
@@ -584,11 +633,13 @@
     },
     {
       "character": "Player",
-      "line": "A frog that never learnt to swim? Are you serious right now?!"
+      "line": "A frog that never learnt to swim? Are you serious right now?!",
+      "delivery": "incredulous, exasperated"
     },
     {
       "character": "Gary",
-      "line": "Afraid so! Cuthbert is now as dead as an Old One. With only one contender left standing, I can now announce that Sue is the winner!"
+      "line": "Afraid so! Cuthbert is now as dead as an Old One. With only one contender left standing, I can now announce that Sue is the winner!",
+      "delivery": "breezy, announcer"
     },
     {
       "character": "Sue",
@@ -596,11 +647,13 @@
     },
     {
       "character": "Player",
-      "line": "I can't believe we killed him..."
+      "line": "I can't believe we killed him...",
+      "delivery": "guilt-stricken, subdued"
     },
     {
       "character": "Gary",
-      "line": "Ah, don't worry yourself. Something like this was bound to happen at some point. It's his fault really. Imagine never learning to swim!"
+      "line": "Ah, don't worry yourself. Something like this was bound to happen at some point. It's his fault really. Imagine never learning to swim!",
+      "delivery": "breezy, dismissive"
     },
     {
       "character": "Sue",
@@ -612,7 +665,8 @@
     },
     {
       "character": "Gary",
-      "line": "His brain? But we don't have his brain..."
+      "line": "His brain? But we don't have his brain...",
+      "delivery": "confused"
     },
     {
       "character": "Player",
@@ -644,7 +698,8 @@
     },
     {
       "character": "Sue",
-      "line": "Fair pay for fair work, of course. If not, we'll go on strike! We're good at going on strike."
+      "line": "Fair pay for fair work, of course. If not, we'll go on strike! We're good at going on strike.",
+      "delivery": "firm, wry"
     },
     {
       "character": "Player",
@@ -668,7 +723,8 @@
     },
     {
       "character": "Player",
-      "line": "From the tap? But orange juice doesn't..."
+      "line": "From the tap? But orange juice doesn't...",
+      "delivery": "confused"
     },
     {
       "character": "Player",
@@ -684,7 +740,8 @@
     },
     {
       "character": "Dave",
-      "line": "Can you believe Cuthbert died? Such a shame."
+      "line": "Can you believe Cuthbert died? Such a shame.",
+      "delivery": "sad"
     },
     {
       "character": "Jane",
@@ -708,7 +765,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "Flies? But what have the flies done wrong?"
+      "line": "Flies? But what have the flies done wrong?",
+      "delivery": "bewildered"
     },
     {
       "character": "Player",
@@ -720,19 +778,23 @@
     },
     {
       "character": "Player",
-      "line": "I don't know! You seemed convinced the frogs were out to get you before, maybe the flies are as well!"
+      "line": "I don't know! You seemed convinced the frogs were out to get you before, maybe the flies are as well!",
+      "delivery": "exasperated"
     },
     {
       "character": "Marcellus",
-      "line": "The flies are out to get me? Is it really true?"
+      "line": "The flies are out to get me? Is it really true?",
+      "delivery": "anxious, gullible"
     },
     {
       "character": "Player",
-      "line": "You know what, sure. The flies want you dead and they plan to do it tonight."
+      "line": "You know what, sure. The flies want you dead and they plan to do it tonight.",
+      "delivery": "deadpan"
     },
     {
       "character": "Marcellus",
-      "line": "The monsters!"
+      "line": "The monsters!",
+      "delivery": "outraged"
     },
     {
       "character": "Player",
@@ -740,11 +802,13 @@
     },
     {
       "character": "Marcellus",
-      "line": "Not yet. First I must see proof of this horrific betrayal by the flies. Find this proof for me, and I will agree to the deal."
+      "line": "Not yet. First I must see proof of this horrific betrayal by the flies. Find this proof for me, and I will agree to the deal.",
+      "delivery": "dramatic, insistent"
     },
     {
       "character": "Player",
-      "line": "Maybe my whole life is just one big nightmare. Fine, I'll find this proof."
+      "line": "Maybe my whole life is just one big nightmare. Fine, I'll find this proof.",
+      "delivery": "weary, resigned"
     },
     {
       "character": "Marcellus",
@@ -764,7 +828,8 @@
     },
     {
       "character": "Gary",
-      "line": "He doesn't half complain, does he? Maybe it would have just been easier to kill him..."
+      "line": "He doesn't half complain, does he? Maybe it would have just been easier to kill him...",
+      "delivery": "exasperated"
     },
     {
       "character": "Sue",
@@ -772,7 +837,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh good, now we're adding theft to today's crimes."
+      "line": "Oh good, now we're adding theft to today's crimes.",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Gary",
@@ -780,11 +846,13 @@
     },
     {
       "character": "Player",
-      "line": "We already committed murder."
+      "line": "We already committed murder.",
+      "delivery": "flat, deadpan"
     },
     {
       "character": "Gary",
-      "line": "Nah, that wasn't murder! Manslaughter at best! Or would that be frogslaughter..."
+      "line": "Nah, that wasn't murder! Manslaughter at best! Or would that be frogslaughter...",
+      "delivery": "cheerful, musing"
     },
     {
       "character": "Sue",
@@ -812,7 +880,8 @@
     },
     {
       "character": "Player",
-      "line": "Poo! How wonderful!"
+      "line": "Poo! How wonderful!",
+      "delivery": "sarcastic, disgusted"
     },
     {
       "character": "Sue",
@@ -836,11 +905,13 @@
     },
     {
       "character": "Marcellus",
-      "line": "It cannot be?! Wait here! I must check at once!"
+      "line": "It cannot be?! Wait here! I must check at once!",
+      "delivery": "alarmed, frantic"
     },
     {
       "character": "Marcellus",
-      "line": "I see my worst fears have come to pass. This is dark day not just for me, but for all of humanity."
+      "line": "I see my worst fears have come to pass. This is dark day not just for me, but for all of humanity.",
+      "delivery": "despairing, dramatic"
     },
     {
       "character": "Marcellus",
@@ -848,7 +919,8 @@
     },
     {
       "character": "Marcellus",
-      "line": "Leave me. I need time to contemplate this great loss. Return to the frogs. Tell them we have a deal."
+      "line": "Leave me. I need time to contemplate this great loss. Return to the frogs. Tell them we have a deal.",
+      "delivery": "mournful"
     },
     {
       "character": "Dave",
@@ -868,7 +940,8 @@
     },
     {
       "character": "Sue",
-      "line": "Wonderful! Peace at last!"
+      "line": "Wonderful! Peace at last!",
+      "delivery": "joyful, relieved"
     },
     {
       "character": "Player",
@@ -876,19 +949,23 @@
     },
     {
       "character": "Gary",
-      "line": "Cuthbert's alive? Amazing!"
+      "line": "Cuthbert's alive? Amazing!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
-      "line": "Er... no. He's now properly dead."
+      "line": "Er... no. He's now properly dead.",
+      "delivery": "awkward, flat"
     },
     {
       "character": "Gary",
-      "line": "Oh..."
+      "line": "Oh...",
+      "delivery": "deflated"
     },
     {
       "character": "Sue",
-      "line": "War always has casualties. We will forever remember Cuthbert's sacrifice."
+      "line": "War always has casualties. We will forever remember Cuthbert's sacrifice.",
+      "delivery": "solemn"
     },
     {
       "character": "Gary",
@@ -896,7 +973,8 @@
     },
     {
       "character": "Player",
-      "line": "Thanks. I only wish I had the ability to scrub the memories of all this from my brain, but as I can't, I guess I now have to carry them forever."
+      "line": "Thanks. I only wish I had the ability to scrub the memories of all this from my brain, but as I can't, I guess I now have to carry them forever.",
+      "delivery": "weary, haunted"
     },
     {
       "character": "Gary",
@@ -904,11 +982,13 @@
     },
     {
       "character": "Player",
-      "line": "Oddly enough, no."
+      "line": "Oddly enough, no.",
+      "delivery": "deadpan"
     },
     {
       "character": "Sue",
-      "line": "Oh don't be so negative. You've done a good thing, ! Now go. Go with the blessing of the frogs, and know that you really are a true hero!"
+      "line": "Oh don't be so negative. You've done a good thing, ! Now go. Go with the blessing of the frogs, and know that you really are a true hero!",
+      "delivery": "warm, encouraging"
     },
     {
       "character": "Marcellus",
@@ -916,7 +996,8 @@
     },
     {
       "character": "Sue",
-      "line": "Look who it is!"
+      "line": "Look who it is!",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",
@@ -924,7 +1005,8 @@
     },
     {
       "character": "Gary",
-      "line": "Amazing! We get paid to eat all day, and our payment is more food. Life has never been better!"
+      "line": "Amazing! We get paid to eat all day, and our payment is more food. Life has never been better!",
+      "delivery": "elated"
     },
     {
       "character": "Sue",
@@ -940,7 +1022,8 @@
     },
     {
       "character": "Jane",
-      "line": "It sure is. Now that we have peace, life is at an all time high!"
+      "line": "It sure is. Now that we have peace, life is at an all time high!",
+      "delivery": "upbeat"
     }
   ],
   "characters": [

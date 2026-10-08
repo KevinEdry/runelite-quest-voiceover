@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Player",
-      "line": "I've solved your problems! I've returned the Fairy Queen's magical essence!"
+      "line": "I've solved your problems! I've returned the Fairy Queen's magical essence!",
+      "delivery": "triumphant, eager"
     },
     {
       "character": "Martin the Master Gardener",
@@ -36,15 +37,18 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Stop being so impatient,. They'll grow in their own good time - come back later."
+      "line": "Stop being so impatient,. They'll grow in their own good time - come back later.",
+      "delivery": "annoyed"
     },
     {
       "character": "Player",
-      "line": "Hello Martin, you must be the slowest gardener in the world! I don't suppose those crops have grown yet?"
+      "line": "Hello Martin, you must be the slowest gardener in the world! I don't suppose those crops have grown yet?",
+      "delivery": "teasing"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Well, you've got a nerve showing up around here again!"
+      "line": "Well, you've got a nerve showing up around here again!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -52,15 +56,18 @@
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "You told me that you'd solved the problems of the Gardening Group's members, well I've planted loads of seeds since then and there's no doubt that even more plants are dying!"
+      "line": "You told me that you'd solved the problems of the Gardening Group's members, well I've planted loads of seeds since then and there's no doubt that even more plants are dying!",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
-      "line": "But I gave the Fairy Queen's secateurs back to the Godfather, things should be growing again."
+      "line": "But I gave the Fairy Queen's secateurs back to the Godfather, things should be growing again.",
+      "delivery": "defensive"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Yah, sure, whatever. You know, I didn't believe you when you told me that story about 'the fairies' in the first place. You'd just better solve this problem, when people get hungry, they get angry and you're the"
+      "line": "Yah, sure, whatever. You know, I didn't believe you when you told me that story about 'the fairies' in the first place. You'd just better solve this problem, when people get hungry, they get angry and you're the",
+      "delivery": "sarcastic, irritated"
     },
     {
       "character": "Martin the Master Gardener",
@@ -72,11 +79,13 @@
     },
     {
       "character": "Player",
-      "line": "I've done enough for you, sort it out yourself!"
+      "line": "I've done enough for you, sort it out yourself!",
+      "delivery": "exasperated"
     },
     {
       "character": "Martin the Master Gardener",
-      "line": "Hello again,. Our crops are still failing. Please do something fast, the food reserves are starting to fail. People will start to realise that there is an imminent food crisis soon!"
+      "line": "Hello again,. Our crops are still failing. Please do something fast, the food reserves are starting to fail. People will start to realise that there is an imminent food crisis soon!",
+      "delivery": "worried, urgent"
     },
     {
       "character": "Player",
@@ -88,7 +97,8 @@
     },
     {
       "character": "Player",
-      "line": "Godfather! Where is the Fairy Queen?"
+      "line": "Godfather! Where is the Fairy Queen?",
+      "delivery": "urgent"
     },
     {
       "character": "Fairy Godfather",
@@ -100,7 +110,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Essere nel panico! You-a say datta Queen Bee, she izza meesing? Theez izza terreeble! Who could-a have done such a theeng? We musta find her! I weel organise a search-a party right-a-way!"
+      "line": "Essere nel panico! You-a say datta Queen Bee, she izza meesing? Theez izza terreeble! Who could-a have done such a theeng? We musta find her! I weel organise a search-a party right-a-way!",
+      "delivery": "feigned alarm"
     },
     {
       "character": "Player",
@@ -112,11 +123,13 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Errm...no! None atta all! Da Queen Bee, she izza well liked by-a everyone."
+      "line": "Errm...no! None atta all! Da Queen Bee, she izza well liked by-a everyone.",
+      "delivery": "evasive"
     },
     {
       "character": "Player",
-      "line": "That's not very helpful."
+      "line": "That's not very helpful.",
+      "delivery": "dry, unimpressed"
     },
     {
       "character": "Player",
@@ -128,7 +141,8 @@
     },
     {
       "character": "Player",
-      "line": "We must go after them!"
+      "line": "We must go after them!",
+      "delivery": "determined"
     },
     {
       "character": "Fairy Godfather",
@@ -140,7 +154,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Ye-es, dat izza good idea. Hokay, you may use-a da fairyreengs. Talk-a to da co-ordinator, she will-a explain-a to you how to use-a da reengs, but you must-a promees me dat you weel come-a back-a here, eef you"
+      "line": "Ye-es, dat izza good idea. Hokay, you may use-a da fairyreengs. Talk-a to da co-ordinator, she will-a explain-a to you how to use-a da reengs, but you must-a promees me dat you weel come-a back-a here, eef you",
+      "delivery": "sly"
     },
     {
       "character": "Fairy Godfather",
@@ -160,7 +175,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Oh no, dat eet eez no good. Yous wanna to be da hero, but what-a about me? She izza my queen! No, no. You cannot-a use-a da fairyreengs"
+      "line": "Oh no, dat eet eez no good. Yous wanna to be da hero, but what-a about me? She izza my queen! No, no. You cannot-a use-a da fairyreengs",
+      "delivery": "falsely wounded"
     },
     {
       "character": "Player",
@@ -172,7 +188,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Ah, yous hassa changed your mind? Yous weel-a come and getta me before yous rescue da Queen Bee? Only den can-a I geev yous permission to use-a da reengs."
+      "line": "Ah, yous hassa changed your mind? Yous weel-a come and getta me before yous rescue da Queen Bee? Only den can-a I geev yous permission to use-a da reengs.",
+      "delivery": "pleased, sly"
     },
     {
       "character": "Player",
@@ -180,15 +197,18 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Good, I knew-a you would change-a your mind. Now I just-a need you to sign-a dis scroll before I geev-a yous da permission to use-a da fairyreengs."
+      "line": "Good, I knew-a you would change-a your mind. Now I just-a need you to sign-a dis scroll before I geev-a yous da permission to use-a da fairyreengs.",
+      "delivery": "scheming"
     },
     {
       "character": "Player",
-      "line": "I am not signing this! It says I am indebted to you until you release me!"
+      "line": "I am not signing this! It says I am indebted to you until you release me!",
+      "delivery": "indignant"
     },
     {
       "character": "Fairy Godfather",
-      "line": "Eet does? Oh, sorry, must-a geeven yous da wrong-a scroll. Tell-a yous what, yous hazza da honest face, so I'll trust-a yous. Go ahead, use-a da fairyreengs, but just-a make sure dat yous come-a back here and tell-a"
+      "line": "Eet does? Oh, sorry, must-a geeven yous da wrong-a scroll. Tell-a yous what, yous hazza da honest face, so I'll trust-a yous. Go ahead, use-a da fairyreengs, but just-a make sure dat yous come-a back here and tell-a",
+      "delivery": "feigned innocence"
     },
     {
       "character": "Fairy Godfather",
@@ -200,7 +220,8 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "Yous weel change-a your mind. Come and talk-a to me me yous do."
+      "line": "Yous weel change-a your mind. Come and talk-a to me me yous do.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -208,7 +229,8 @@
     },
     {
       "character": "Co-ordinator",
-      "line": "Goodness! As if I don't have enough to do already without giving every adventurer that comes along a history lesson! Let's get this over with quickly. Zanaris is an extremely old place, it was here long before we"
+      "line": "Goodness! As if I don't have enough to do already without giving every adventurer that comes along a history lesson! Let's get this over with quickly. Zanaris is an extremely old place, it was here long before we",
+      "delivery": "exasperated"
     },
     {
       "character": "Co-ordinator",
@@ -236,7 +258,8 @@
     },
     {
       "character": "Fairy Fixit",
-      "line": "What is it, human? Busy busy busy!"
+      "line": "What is it, human? Busy busy busy!",
+      "delivery": "hurried, distracted"
     },
     {
       "character": "Player",
@@ -244,7 +267,8 @@
     },
     {
       "character": "Fairy Fixit",
-      "line": "It's the fizgog! It's picking up cable again!"
+      "line": "It's the fizgog! It's picking up cable again!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
@@ -268,15 +292,18 @@
     },
     {
       "character": "Player",
-      "line": "Err, no, not yet."
+      "line": "Err, no, not yet.",
+      "delivery": "sheepish"
     },
     {
       "character": "Fairy Godfather",
-      "line": "Den whatta are you doing-a back here? Go and-a search for her!"
+      "line": "Den whatta are you doing-a back here? Go and-a search for her!",
+      "delivery": "impatient"
     },
     {
       "character": "Fairy Godfather",
-      "line": "For why you show-a me dat? I-a busy fairy! I donn-a have time for nonsense!"
+      "line": "For why you show-a me dat? I-a busy fairy! I donn-a have time for nonsense!",
+      "delivery": "irritated"
     },
     {
       "character": "Player",
@@ -284,19 +311,23 @@
     },
     {
       "character": "Fairy Godfather",
-      "line": "For why you show-a me dat? Eez very nice to see yous learning to draw! Bravo!"
+      "line": "For why you show-a me dat? Eez very nice to see yous learning to draw! Bravo!",
+      "delivery": "mocking"
     },
     {
       "character": "Cow",
-      "line": "Can't the human take a hint? I've been ignoring you! Do you think I would ignore you if I wanted to discuss your Rorschach ink-blots ?"
+      "line": "Can't the human take a hint? I've been ignoring you! Do you think I would ignore you if I wanted to discuss your Rorschach ink-blots ?",
+      "delivery": "snooty, dismissive"
     },
     {
       "character": "Sheep",
-      "line": "The human found some symbols And doesn't know what they mean So now it's cross-examining me And spoiling my routine!"
+      "line": "The human found some symbols And doesn't know what they mean So now it's cross-examining me And spoiling my routine!",
+      "delivery": "theatrical"
     },
     {
       "character": "Fairy chef",
-      "line": "Very nice, dearie, but that belongs to Fairy Nuff. I should put it back on her wall before she misses it if I were you. You wouldn't want her to think you stole it now, would you?"
+      "line": "Very nice, dearie, but that belongs to Fairy Nuff. I should put it back on her wall before she misses it if I were you. You wouldn't want her to think you stole it now, would you?",
+      "delivery": "warm, gently warning"
     },
     {
       "character": "Fairy chef",
@@ -304,7 +335,8 @@
     },
     {
       "character": "Gatekeeper",
-      "line": "That you've been doodelling? If you don't mind I have a job to do, please stop distracting me."
+      "line": "That you've been doodelling? If you don't mind I have a job to do, please stop distracting me.",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Gatekeeper",
@@ -324,7 +356,8 @@
     },
     {
       "character": "Fairy",
-      "line": "I don't want to go back! That orc tried to kill me!"
+      "line": "I don't want to go back! That orc tried to kill me!",
+      "delivery": "frightened"
     },
     {
       "character": "Fairy",
@@ -348,11 +381,13 @@
     },
     {
       "character": "Fairy",
-      "line": "How is the Queen? Has she woken up yet?"
+      "line": "How is the Queen? Has she woken up yet?",
+      "delivery": "anxious, hopeful"
     },
     {
       "character": "Fairy Nuff",
-      "line": "! You found us! I'm so glad, I was afraid you wouldn't get my message."
+      "line": "! You found us! I'm so glad, I was afraid you wouldn't get my message.",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
@@ -364,7 +399,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "noticed that lots of my friends were missing, when I asked him about them he said they were off working for him and then he threatened to have his bodyguards pull my wings off! I was scared for the Queen, and so I"
+      "line": "noticed that lots of my friends were missing, when I asked him about them he said they were off working for him and then he threatened to have his bodyguards pull my wings off! I was scared for the Queen, and so I",
+      "delivery": "distressed"
     },
     {
       "character": "Fairy Nuff",
@@ -416,15 +452,18 @@
     },
     {
       "character": "Fairy Very Wise",
-      "line": "So you're also the idiot who gave that Godfather maniac the Fairy Queen's magic secateurs!"
+      "line": "So you're also the idiot who gave that Godfather maniac the Fairy Queen's magic secateurs!",
+      "delivery": "scathing"
     },
     {
       "character": "Player",
-      "line": "But that was a mistake! I thought he was trying to help the Fairy Queen!"
+      "line": "But that was a mistake! I thought he was trying to help the Fairy Queen!",
+      "delivery": "defensive"
     },
     {
       "character": "Fairy Very Wise",
-      "line": "So you're not evil, you're just not too bright. Well I'm glad you found this place, although if you can find it it's obviously not much of a hiding place, now you can help fix the damage that you've done!"
+      "line": "So you're not evil, you're just not too bright. Well I'm glad you found this place, although if you can find it it's obviously not much of a hiding place, now you can help fix the damage that you've done!",
+      "delivery": "cutting"
     },
     {
       "character": "Player",
@@ -436,7 +475,8 @@
     },
     {
       "character": "Player",
-      "line": "That's easy I'll just pickpocket them off of him, I'm really good at that."
+      "line": "That's easy I'll just pickpocket them off of him, I'm really good at that.",
+      "delivery": "cocky"
     },
     {
       "character": "Fairy Very Wise",
@@ -444,15 +484,18 @@
     },
     {
       "character": "Fairy Very Wise",
-      "line": "I'm so worried about the Queen, without her the fairy people may be chased out of Gielinor completely! You must wake her, for all our sakes!"
+      "line": "I'm so worried about the Queen, without her the fairy people may be chased out of Gielinor completely! You must wake her, for all our sakes!",
+      "delivery": "worried, imploring"
     },
     {
       "character": "Fairy Nuff",
-      "line": "What are you doing? You need to get those secateurs back very urgently!"
+      "line": "What are you doing? You need to get those secateurs back very urgently!",
+      "delivery": "urgent"
     },
     {
       "character": "Fairy Nuff",
-      "line": "Oh, you're back! I'm so glad. Did you manage to get the secateurs?"
+      "line": "Oh, you're back! I'm so glad. Did you manage to get the secateurs?",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
@@ -460,7 +503,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "I can't believe you did that! You know how important it is that I get those secateurs as soon as possible! Please go and find them immediately!"
+      "line": "I can't believe you did that! You know how important it is that I get those secateurs as soon as possible! Please go and find them immediately!",
+      "delivery": "exasperated"
     },
     {
       "character": "Fairy Nuff",
@@ -468,19 +512,23 @@
     },
     {
       "character": "Player",
-      "line": "You should have seen me! The Godfather didn't even know I was going through his pockets! Here they are."
+      "line": "You should have seen me! The Godfather didn't even know I was going through his pockets! Here they are.",
+      "delivery": "boastful"
     },
     {
       "character": "Fairy Nuff",
-      "line": "Fantastic! Let's just hope that it's not too late..."
+      "line": "Fantastic! Let's just hope that it's not too late...",
+      "delivery": "relieved, anxious"
     },
     {
       "character": "Fairy Nuff",
-      "line": "Oh no! It didn't work! She's been asleep too long!"
+      "line": "Oh no! It didn't work! She's been asleep too long!",
+      "delivery": "distressed"
     },
     {
       "character": "Player",
-      "line": "Calm down! There's got to be something that we can do. After all, we've given her back her magical essence, right?"
+      "line": "Calm down! There's got to be something that we can do. After all, we've given her back her magical essence, right?",
+      "delivery": "reassuring"
     },
     {
       "character": "Fairy Nuff",
@@ -524,7 +572,8 @@
     },
     {
       "character": "Cosmic Being",
-      "line": "Salutations traveller! It is unusual for one of the creatures called 'humans' to visit this plane. How can I assist you?"
+      "line": "Salutations traveller! It is unusual for one of the creatures called 'humans' to visit this plane. How can I assist you?",
+      "delivery": "serene"
     },
     {
       "character": "Player",
@@ -544,7 +593,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "That's great news! Well what are you waiting for? We need that potion as soon as possible!"
+      "line": "That's great news! Well what are you waiting for? We need that potion as soon as possible!",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -560,7 +610,8 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "I don't have to tell you again how important it is that you hurry!"
+      "line": "I don't have to tell you again how important it is that you hurry!",
+      "delivery": "pointed, urgent"
     },
     {
       "character": "Fairy Nuff",
@@ -572,27 +623,33 @@
     },
     {
       "character": "Fairy Nuff",
-      "line": "That's nice for you, but please stop wasting time. You need to finish the potion with a Gorak's claw."
+      "line": "That's nice for you, but please stop wasting time. You need to finish the potion with a Gorak's claw.",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
-      "line": "I've got it, I've made a potion of magic essence!"
+      "line": "I've got it, I've made a potion of magic essence!",
+      "delivery": "triumphant"
     },
     {
       "character": "Fairy Nuff",
-      "line": "Oh, that's fantastic! Please give it to Her Majesty immediately."
+      "line": "Oh, that's fantastic! Please give it to Her Majesty immediately.",
+      "delivery": "excited, urgent"
     },
     {
       "character": "Fairy Very Wise",
-      "line": "Thank you for your great service to the fairy people, we are indebted to you!"
+      "line": "Thank you for your great service to the fairy people, we are indebted to you!",
+      "delivery": "grateful"
     },
     {
       "character": "Fairy Queen",
-      "line": "...Urgh! Wh... what happened?...Why do I feel so awful?"
+      "line": "...Urgh! Wh... what happened?...Why do I feel so awful?",
+      "delivery": "weak, disoriented"
     },
     {
       "character": "Fairy Nuff",
-      "line": "Your majesty! You're awake!"
+      "line": "Your majesty! You're awake!",
+      "delivery": "overjoyed"
     },
     {
       "character": "Fairy Queen",
@@ -600,7 +657,8 @@
     },
     {
       "character": "Player",
-      "line": "THE GODFATHER?"
+      "line": "THE GODFATHER?",
+      "delivery": "shocked, shouting"
     },
     {
       "character": "Fairy Queen",
@@ -608,15 +666,18 @@
     },
     {
       "character": "Player",
-      "line": "I'm not really sure how to tell you this, your majesty... It seems as though you've fallen foul of a clever scheme of the Godfather's..."
+      "line": "I'm not really sure how to tell you this, your majesty... It seems as though you've fallen foul of a clever scheme of the Godfather's...",
+      "delivery": "hesitant"
     },
     {
       "character": "Fairy Queen",
-      "line": "That's absurd, why would the Godfather want to hurt me?"
+      "line": "That's absurd, why would the Godfather want to hurt me?",
+      "delivery": "disbelieving"
     },
     {
       "character": "Fairy Very Wise",
-      "line": "I'm afraid it's true your majesty. You see nobody knew that the Godfather was with you when you fought the Tanglefoot..."
+      "line": "I'm afraid it's true your majesty. You see nobody knew that the Godfather was with you when you fought the Tanglefoot...",
+      "delivery": "grave"
     },
     {
       "character": "Fairy Queen",
@@ -636,11 +697,13 @@
     },
     {
       "character": "Fairy Queen",
-      "line": "I can't believe it!"
+      "line": "I can't believe it!",
+      "delivery": "stunned"
     },
     {
       "character": "Fairy Queen",
-      "line": "He shan't get away with this, how do I get back to Zanaris? The Godfather shall answer for his crimes!"
+      "line": "He shan't get away with this, how do I get back to Zanaris? The Godfather shall answer for his crimes!",
+      "delivery": "furious, resolute"
     },
     {
       "character": "Fairy Very Wise",
@@ -664,7 +727,8 @@
     },
     {
       "character": "Fairy Queen",
-      "line": "you find us in trying times, but please accept this magic lamp as a sign of our thanks."
+      "line": "you find us in trying times, but please accept this magic lamp as a sign of our thanks.",
+      "delivery": "gracious"
     },
     {
       "character": "Player",
@@ -672,7 +736,8 @@
     },
     {
       "character": "Fairy Queen",
-      "line": "That's alright, come back and get it when you can."
+      "line": "That's alright, come back and get it when you can.",
+      "delivery": "warm"
     }
   ],
   "characters": [

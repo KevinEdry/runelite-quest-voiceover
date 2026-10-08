@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Jolly good show on getting into the White Knights, what?"
+      "line": "Jolly good show on getting into the White Knights, what?",
+      "delivery": "jovial, warm"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -12,7 +13,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay... So when can I start doing missions for the Temple Knights, and get some better Temple Knight armour and weapons and stuff?"
+      "line": "Okay... So when can I start doing missions for the Temple Knights, and get some better Temple Knight armour and weapons and stuff?",
+      "delivery": "eager"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -32,11 +34,13 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Already done, old bean! The scales of justice never sleep."
+      "line": "Already done, old bean! The scales of justice never sleep.",
+      "delivery": "cheerful, brisk"
     },
     {
       "character": "Player",
-      "line": "Uh, right."
+      "line": "Uh, right.",
+      "delivery": "bemused"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -44,7 +48,8 @@
     },
     {
       "character": "Player",
-      "line": "Really? Great! Am I to be flung to some far off and exotic land to defeat some evil genius?"
+      "line": "Really? Great! Am I to be flung to some far off and exotic land to defeat some evil genius?",
+      "delivery": "excited, eager"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -52,15 +57,18 @@
     },
     {
       "character": "Player",
-      "line": "Ardougne?"
+      "line": "Ardougne?",
+      "delivery": "deflated"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Hmm, what's happening in Ardougne?"
+      "line": "Hmm, what's happening in Ardougne?",
+      "delivery": "absent-minded"
     },
     {
       "character": "Player",
-      "line": "I don't know, you were about to tell me."
+      "line": "I don't know, you were about to tell me.",
+      "delivery": "exasperated"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -68,11 +76,13 @@
     },
     {
       "character": "Player",
-      "line": "Are you sure? I mean, you're not a little... senile, maybe?"
+      "line": "Are you sure? I mean, you're not a little... senile, maybe?",
+      "delivery": "cheeky"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Haw, Haw, Haw, very funny old bean. I need you to report to Col O'Niall in Witchaven. He's a retired Temple Knight, but his clearance is still active. He will be able to fill you in."
+      "line": "Haw, Haw, Haw, very funny old bean. I need you to report to Col O'Niall in Witchaven. He's a retired Temple Knight, but his clearance is still active. He will be able to fill you in.",
+      "delivery": "jovial, amused"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -80,11 +90,13 @@
     },
     {
       "character": "Player",
-      "line": "You know, I'm still not sure this isn't some giant wind up."
+      "line": "You know, I'm still not sure this isn't some giant wind up.",
+      "delivery": "skeptical"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Nonsense, my, we take our work very seriously. The fate of the world rests in our hands, don't you know."
+      "line": "Nonsense, my, we take our work very seriously. The fate of the world rests in our hands, don't you know.",
+      "delivery": "earnest"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -108,7 +120,8 @@
     },
     {
       "character": "Player",
-      "line": "Hey Tiffy, I lost my CommOrb..."
+      "line": "Hey Tiffy, I lost my CommOrb...",
+      "delivery": "sheepish"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -116,7 +129,8 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Very careless of you, what? Here, take another, but be careful of this one!"
+      "line": "Very careless of you, what? Here, take another, but be careful of this one!",
+      "delivery": "chiding"
     },
     {
       "character": "Player",
@@ -132,15 +146,18 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Good show! That's the spirit."
+      "line": "Good show! That's the spirit.",
+      "delivery": "encouraging, cheerful"
     },
     {
       "character": "Player",
-      "line": "Hey, Savant! Good to speak to you again!"
+      "line": "Hey, Savant! Good to speak to you again!",
+      "delivery": "warm"
     },
     {
       "character": "Savant",
-      "line": ", I am so glad you've been assigned this mission."
+      "line": ", I am so glad you've been assigned this mission.",
+      "delivery": "warm"
     },
     {
       "character": "Player",
@@ -148,7 +165,8 @@
     },
     {
       "character": "Savant",
-      "line": "Only what is already available through your CommOrb I'm afraid. I'm currently collating a lot of other data pertaining to Witchaven. I'll keep you updated if anything turns up."
+      "line": "Only what is already available through your CommOrb I'm afraid. I'm currently collating a lot of other data pertaining to Witchaven. I'll keep you updated if anything turns up.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -160,11 +178,13 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Well hello there; welcome to our little village. Pray, stay awhile."
+      "line": "Well hello there; welcome to our little village. Pray, stay awhile.",
+      "delivery": "eerily calm"
     },
     {
       "character": "Brother Maledict",
-      "line": "The blessings of Saradomin be with you child."
+      "line": "The blessings of Saradomin be with you child.",
+      "delivery": "gentle, pious"
     },
     {
       "character": "Player",
@@ -172,7 +192,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "I might. Who's asking?"
+      "line": "I might. Who's asking?",
+      "delivery": "gruff, guarded"
     },
     {
       "character": "Player",
@@ -180,35 +201,43 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "And?"
+      "line": "And?",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
-      "line": "Umm... In Falador the geese fly backwards on Tuesdays?"
+      "line": "Umm... In Falador the geese fly backwards on Tuesdays?",
+      "delivery": "hesitant"
     },
     {
       "character": "Col. O'Niall",
-      "line": "What? Are you mad ?"
+      "line": "What? Are you mad ?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
-      "line": "Uhh. I thought it was a Temple Knight, secret code phrase."
+      "line": "Uhh. I thought it was a Temple Knight, secret code phrase.",
+      "delivery": "sheepish"
     },
     {
       "character": "Col. O'Niall",
-      "line": "I see Sir Tiffy still has his fun with the Initiates. Sigh, I asked for a Knight and I get a whelp."
+      "line": "I see Sir Tiffy still has his fun with the Initiates. Sigh, I asked for a Knight and I get a whelp.",
+      "delivery": "weary"
     },
     {
       "character": "Player",
-      "line": "Whelp? I am a full member of the Temple Knights, sir!"
+      "line": "Whelp? I am a full member of the Temple Knights, sir!",
+      "delivery": "indignant"
     },
     {
       "character": "Col. O'Niall",
-      "line": "Like I said, a whelp. And don't 'Sir' me, I work for a living."
+      "line": "Like I said, a whelp. And don't 'Sir' me, I work for a living.",
+      "delivery": "gruff, dismissive"
     },
     {
       "character": "Player",
-      "line": "Right sir, I mean Colonel."
+      "line": "Right sir, I mean Colonel.",
+      "delivery": "flustered"
     },
     {
       "character": "Col. O'Niall",
@@ -236,15 +265,18 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "Now, I thought that was a bit off since he's about as religious as a dead dog on a termite mound."
+      "line": "Now, I thought that was a bit off since he's about as religious as a dead dog on a termite mound.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
-      "line": "Eeew!"
+      "line": "Eeew!",
+      "delivery": "disgusted"
     },
     {
       "character": "Col. O'Niall",
-      "line": "Quiet down, I'm talking here."
+      "line": "Quiet down, I'm talking here.",
+      "delivery": "irritated"
     },
     {
       "character": "Col. O'Niall",
@@ -252,7 +284,8 @@
     },
     {
       "character": "Player",
-      "line": "What, like surface to air ballistas, intercontinental exploding fireballs and quasi-futuristic henchman uniforms?"
+      "line": "What, like surface to air ballistas, intercontinental exploding fireballs and quasi-futuristic henchman uniforms?",
+      "delivery": "playful"
     },
     {
       "character": "Player",
@@ -260,11 +293,13 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "No, mining equipment."
+      "line": "No, mining equipment.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "That doesn't sound very evil?"
+      "line": "That doesn't sound very evil?",
+      "delivery": "puzzled"
     },
     {
       "character": "Col. O'Niall",
@@ -288,7 +323,8 @@
     },
     {
       "character": "Player",
-      "line": "Are you sure they're not just getting drunk?"
+      "line": "Are you sure they're not just getting drunk?",
+      "delivery": "wry"
     },
     {
       "character": "Col. O'Niall",
@@ -308,7 +344,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "Well, what's to say. This place is falling apart."
+      "line": "Well, what's to say. This place is falling apart.",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
@@ -316,7 +353,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "Run down? Hah! This place used to be a bustling hive of industry."
+      "line": "Run down? Hah! This place used to be a bustling hive of industry.",
+      "delivery": "wistful"
     },
     {
       "character": "Player",
@@ -324,7 +362,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "The Fishing Platform happened to it."
+      "line": "The Fishing Platform happened to it.",
+      "delivery": "bitter"
     },
     {
       "character": "Col. O'Niall",
@@ -332,7 +371,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "Almost overnight Witchaven became a ghost town."
+      "line": "Almost overnight Witchaven became a ghost town.",
+      "delivery": "somber"
     },
     {
       "character": "Player",
@@ -340,7 +380,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "I'm going to pretend you didn't say that girl."
+      "line": "I'm going to pretend you didn't say that girl.",
+      "delivery": "stern"
     },
     {
       "character": "Col. O'Niall",
@@ -416,7 +457,8 @@
     },
     {
       "character": "Jeb",
-      "line": "You are not part of us. Leave us alone."
+      "line": "You are not part of us. Leave us alone.",
+      "delivery": "flat, cold"
     },
     {
       "character": "Player",
@@ -424,7 +466,8 @@
     },
     {
       "character": "Holgart",
-      "line": "Well, hello again m'hearty. How're yer fare?"
+      "line": "Well, hello again m'hearty. How're yer fare?",
+      "delivery": "warm"
     },
     {
       "character": "Player",
@@ -432,7 +475,8 @@
     },
     {
       "character": "Holgart",
-      "line": "'Fraid not. I've been washed up and left to dry."
+      "line": "'Fraid not. I've been washed up and left to dry.",
+      "delivery": "melancholic"
     },
     {
       "character": "Player",
@@ -440,7 +484,8 @@
     },
     {
       "character": "Holgart",
-      "line": "Scuppered I am, keelhauled and bottomed out."
+      "line": "Scuppered I am, keelhauled and bottomed out.",
+      "delivery": "glum"
     },
     {
       "character": "Player",
@@ -448,11 +493,13 @@
     },
     {
       "character": "Holgart",
-      "line": "I'm destitute. I can sail no more."
+      "line": "I'm destitute. I can sail no more.",
+      "delivery": "defeated"
     },
     {
       "character": "Player",
-      "line": "Oh my, that's terrible! What happened?"
+      "line": "Oh my, that's terrible! What happened?",
+      "delivery": "sympathetic"
     },
     {
       "character": "Holgart",
@@ -460,11 +507,13 @@
     },
     {
       "character": "Holgart",
-      "line": "He tells me that under his new laws my boat is forfeit."
+      "line": "He tells me that under his new laws my boat is forfeit.",
+      "delivery": "bitter"
     },
     {
       "character": "Player",
-      "line": "He took your boat?"
+      "line": "He took your boat?",
+      "delivery": "incredulous"
     },
     {
       "character": "Holgart",
@@ -484,7 +533,8 @@
     },
     {
       "character": "Holgart",
-      "line": "I don't know what to do without my boat."
+      "line": "I don't know what to do without my boat.",
+      "delivery": "despondent"
     },
     {
       "character": "Player",
@@ -492,7 +542,8 @@
     },
     {
       "character": "Jeb",
-      "line": "Yes, we can do that."
+      "line": "Yes, we can do that.",
+      "delivery": "flat"
     },
     {
       "character": "Player",
@@ -516,7 +567,8 @@
     },
     {
       "character": "Bailey",
-      "line": "Are you insane? Have you seen what's happening out there?"
+      "line": "Are you insane? Have you seen what's happening out there?",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -524,7 +576,8 @@
     },
     {
       "character": "Bailey",
-      "line": "Yes the mutant lobsters! I swear at any minute they are going to break down the door and attack me."
+      "line": "Yes the mutant lobsters! I swear at any minute they are going to break down the door and attack me.",
+      "delivery": "panicked"
     },
     {
       "character": "Player",
@@ -556,7 +609,8 @@
     },
     {
       "character": "Bailey",
-      "line": "Please be quick, I can't leave whilst those things are out there."
+      "line": "Please be quick, I can't leave whilst those things are out there.",
+      "delivery": "pleading"
     },
     {
       "character": "Player",
@@ -600,7 +654,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "Well, to be perfectly honest with you, I am a little concerned."
+      "line": "Well, to be perfectly honest with you, I am a little concerned.",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
@@ -608,7 +663,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "It's my congregation. They seem to be drifting away from me."
+      "line": "It's my congregation. They seem to be drifting away from me.",
+      "delivery": "troubled"
     },
     {
       "character": "Brother Maledict",
@@ -644,11 +700,13 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "Ah yes, one of the wonders of Witchaven. That particular shrine has existed since before Witchaven was even founded."
+      "line": "Ah yes, one of the wonders of Witchaven. That particular shrine has existed since before Witchaven was even founded.",
+      "delivery": "reverent"
     },
     {
       "character": "Player",
-      "line": "Wow! Now that is old."
+      "line": "Wow! Now that is old.",
+      "delivery": "impressed"
     },
     {
       "character": "Brother Maledict",
@@ -668,7 +726,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "Well yes, it came as something of a pleasant shock. I only hope he will let me visit it soon."
+      "line": "Well yes, it came as something of a pleasant shock. I only hope he will let me visit it soon.",
+      "delivery": "pleasantly surprised"
     },
     {
       "character": "Brother Maledict",
@@ -684,7 +743,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "Ah, the people of Witchaven are the salt of the earth. Hardworking and very generous. Well, usually that is."
+      "line": "Ah, the people of Witchaven are the salt of the earth. Hardworking and very generous. Well, usually that is.",
+      "delivery": "warm"
     },
     {
       "character": "Player",
@@ -696,7 +756,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "It's nothing I can put my finger on. My flock aren't exactly unfriendly anymore, just different."
+      "line": "It's nothing I can put my finger on. My flock aren't exactly unfriendly anymore, just different.",
+      "delivery": "uneasy"
     },
     {
       "character": "Player",
@@ -720,7 +781,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "I'm not sure but something about him has me worried."
+      "line": "I'm not sure but something about him has me worried.",
+      "delivery": "worried"
     },
     {
       "character": "Player",
@@ -748,7 +810,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Well hello there; welcome to our little village. Pray, stay a while."
+      "line": "Well hello there; welcome to our little village. Pray, stay a while.",
+      "delivery": "eerily calm"
     },
     {
       "character": "Player",
@@ -780,11 +843,13 @@
     },
     {
       "character": "Player",
-      "line": "Are you alright? You seem a little, hazy."
+      "line": "Are you alright? You seem a little, hazy.",
+      "delivery": "wary"
     },
     {
       "character": "Mayor Hobb",
-      "line": "It's nothing, I'm just a little tired at the moment. So much work, so much to do."
+      "line": "It's nothing, I'm just a little tired at the moment. So much work, so much to do.",
+      "delivery": "distant"
     },
     {
       "character": "Player",
@@ -792,15 +857,18 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "To the West, the shrine needs... work, yes work. Things must be made better."
+      "line": "To the West, the shrine needs... work, yes work. Things must be made better.",
+      "delivery": "halting"
     },
     {
       "character": "Player",
-      "line": "Well, um. Yes. Indeed. I'm sure Saradomin would be pleased."
+      "line": "Well, um. Yes. Indeed. I'm sure Saradomin would be pleased.",
+      "delivery": "awkward"
     },
     {
       "character": "Mayor Hobb",
-      "line": "Saradomin... Why are you really here?"
+      "line": "Saradomin... Why are you really here?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
@@ -808,7 +876,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Are you sure that's the only reason you are here, ?"
+      "line": "Are you sure that's the only reason you are here, ?",
+      "delivery": "probing"
     },
     {
       "character": "Player",
@@ -816,11 +885,13 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Ahh, then this all makes sense. Yes, this is very good."
+      "line": "Ahh, then this all makes sense. Yes, this is very good.",
+      "delivery": "quietly sinister"
     },
     {
       "character": "Player",
-      "line": "Err, how did you know my name?"
+      "line": "Err, how did you know my name?",
+      "delivery": "alarmed"
     },
     {
       "character": "Mayor Hobb",
@@ -832,7 +903,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "It does not matter. One of my... villagers, must have mentioned that you are here."
+      "line": "It does not matter. One of my... villagers, must have mentioned that you are here.",
+      "delivery": "evasive"
     },
     {
       "character": "Mayor Hobb",
@@ -844,7 +916,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "The land has seen much sorrow, much loss."
+      "line": "The land has seen much sorrow, much loss.",
+      "delivery": "somber"
     },
     {
       "character": "Player",
@@ -856,7 +929,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "The platform heralds a new beginning for Witchaven, undreamed of by those who built it."
+      "line": "The platform heralds a new beginning for Witchaven, undreamed of by those who built it.",
+      "delivery": "ominous"
     },
     {
       "character": "Player",
@@ -880,15 +954,18 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Ahh, the shrine - the future, our destiny, our heritage."
+      "line": "Ahh, the shrine - the future, our destiny, our heritage.",
+      "delivery": "fervent"
     },
     {
       "character": "Mayor Hobb",
-      "line": "That which the shrine holds can unlock a new path for all the village of Witchaven. And in time the whole of Gielinor."
+      "line": "That which the shrine holds can unlock a new path for all the village of Witchaven. And in time the whole of Gielinor.",
+      "delivery": "grandiose"
     },
     {
       "character": "Player",
-      "line": "Wow, the whole of Gielinor? I thought it was just some old shrine to Saradomin."
+      "line": "Wow, the whole of Gielinor? I thought it was just some old shrine to Saradomin.",
+      "delivery": "surprised"
     },
     {
       "character": "Mayor Hobb",
@@ -908,7 +985,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "When you are ready, it may be that you will be unable to keep yourself away."
+      "line": "When you are ready, it may be that you will be unable to keep yourself away.",
+      "delivery": "ominous"
     },
     {
       "character": "Player",
@@ -916,7 +994,8 @@
     },
     {
       "character": "Player",
-      "line": "Do you know you look very ill?"
+      "line": "Do you know you look very ill?",
+      "delivery": "concerned"
     },
     {
       "character": "Mayor Hobb",
@@ -936,11 +1015,13 @@
     },
     {
       "character": "Player",
-      "line": "I've seen food poisoning. People normally don't look like... that."
+      "line": "I've seen food poisoning. People normally don't look like... that.",
+      "delivery": "skeptical"
     },
     {
       "character": "Mayor Hobb",
-      "line": "Time is all that is needed. Yes, time to... get better."
+      "line": "Time is all that is needed. Yes, time to... get better.",
+      "delivery": "halting"
     },
     {
       "character": "Player",
@@ -968,7 +1049,8 @@
     },
     {
       "character": "Player",
-      "line": "Something is definitely very wrong here."
+      "line": "Something is definitely very wrong here.",
+      "delivery": "grave"
     },
     {
       "character": "Player",
@@ -976,7 +1058,8 @@
     },
     {
       "character": "Player",
-      "line": "As well as this, there's something very... fishy about him."
+      "line": "As well as this, there's something very... fishy about him.",
+      "delivery": "wry"
     },
     {
       "character": "Col. O'Niall",
@@ -996,7 +1079,8 @@
     },
     {
       "character": "Player",
-      "line": "However, last time he was there, there was a very definite unpleasant feeling in the air."
+      "line": "However, last time he was there, there was a very definite unpleasant feeling in the air.",
+      "delivery": "uneasy"
     },
     {
       "character": "Col. O'Niall",
@@ -1028,7 +1112,8 @@
     },
     {
       "character": "Savant",
-      "line": "You shouldn't really waste my time like this,..."
+      "line": "You shouldn't really waste my time like this,...",
+      "delivery": "mildly annoyed"
     },
     {
       "character": "Savant",
@@ -1040,7 +1125,8 @@
     },
     {
       "character": "Savant",
-      "line": ", hang on a second."
+      "line": ", hang on a second.",
+      "delivery": "alert"
     },
     {
       "character": "Player",
@@ -1056,7 +1142,8 @@
     },
     {
       "character": "Savant",
-      "line": "I thought so. Those glyphs look similar to some ancient Saradomin runes I studied at the academy."
+      "line": "I thought so. Those glyphs look similar to some ancient Saradomin runes I studied at the academy.",
+      "delivery": "intrigued"
     },
     {
       "character": "Savant",
@@ -1064,7 +1151,8 @@
     },
     {
       "character": "Player",
-      "line": "Um... So how am I supposed to show him the glyphs?"
+      "line": "Um... So how am I supposed to show him the glyphs?",
+      "delivery": "puzzled"
     },
     {
       "character": "Savant",
@@ -1096,7 +1184,8 @@
     },
     {
       "character": "Savant",
-      "line": "Very, though I can't shake the feeling that I've seen something like that before."
+      "line": "Very, though I can't shake the feeling that I've seen something like that before.",
+      "delivery": "pensive"
     },
     {
       "character": "Player",
@@ -1116,7 +1205,8 @@
     },
     {
       "character": "Savant",
-      "line": "Although, to be fair he does tend to get a bit obsessive at times."
+      "line": "Although, to be fair he does tend to get a bit obsessive at times.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -1140,7 +1230,8 @@
     },
     {
       "character": "Jorral",
-      "line": "Hah! I am the foremost historian in the world."
+      "line": "Hah! I am the foremost historian in the world.",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
@@ -1148,7 +1239,8 @@
     },
     {
       "character": "Jorral",
-      "line": "Possibly, I am very busy you see and my services don't come cheap."
+      "line": "Possibly, I am very busy you see and my services don't come cheap.",
+      "delivery": "haughty"
     },
     {
       "character": "Player",
@@ -1160,7 +1252,8 @@
     },
     {
       "character": "Player",
-      "line": "That was a bit longer than I was willing to wait. Can't you fit me in anytime sooner?"
+      "line": "That was a bit longer than I was willing to wait. Can't you fit me in anytime sooner?",
+      "delivery": "impatient"
     },
     {
       "character": "Jorral",
@@ -1168,7 +1261,8 @@
     },
     {
       "character": "Savant",
-      "line": "Psst,."
+      "line": "Psst,.",
+      "delivery": "whispering"
     },
     {
       "character": "Player",
@@ -1180,27 +1274,33 @@
     },
     {
       "character": "Savant",
-      "line": "Drat, I was hoping he wouldn't notice."
+      "line": "Drat, I was hoping he wouldn't notice.",
+      "delivery": "whispering"
     },
     {
       "character": "Jorral",
-      "line": "Excuse me, but are you talking to your backpack?"
+      "line": "Excuse me, but are you talking to your backpack?",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
-      "line": "Um, no. (whispers) Savant, help."
+      "line": "Um, no. (whispers) Savant, help.",
+      "delivery": "nervous, hushed"
     },
     {
       "character": "Savant",
-      "line": "Uh. Tell him that you're working for a wizard who's sending you telepathic instructions."
+      "line": "Uh. Tell him that you're working for a wizard who's sending you telepathic instructions.",
+      "delivery": "hushed"
     },
     {
       "character": "Player",
-      "line": "I, err, am working for a wizard who is giving me telepathic instructions."
+      "line": "I, err, am working for a wizard who is giving me telepathic instructions.",
+      "delivery": "unconvincing"
     },
     {
       "character": "Jorral",
-      "line": "Riiiight. Okay. What does this err, voice, want you to do?"
+      "line": "Riiiight. Okay. What does this err, voice, want you to do?",
+      "delivery": "skeptical"
     },
     {
       "character": "Savant",
@@ -1212,7 +1312,8 @@
     },
     {
       "character": "Savant",
-      "line": "No! Hang on, I wasn't finished."
+      "line": "No! Hang on, I wasn't finished.",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -1228,7 +1329,8 @@
     },
     {
       "character": "Savant",
-      "line": "Can I finish now? Anyway, tell him you are working for Petmel Books."
+      "line": "Can I finish now? Anyway, tell him you are working for Petmel Books.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -1236,19 +1338,23 @@
     },
     {
       "character": "Jorral",
-      "line": "Oh, right! That explains the mild insanity. No problem; hand over the document and I'll have a look"
+      "line": "Oh, right! That explains the mild insanity. No problem; hand over the document and I'll have a look",
+      "delivery": "dry amusement"
     },
     {
       "character": "Player",
-      "line": "Um, I don't appear to have it on me."
+      "line": "Um, I don't appear to have it on me.",
+      "delivery": "sheepish"
     },
     {
       "character": "Jorral",
-      "line": "Well, run along and fetch it then."
+      "line": "Well, run along and fetch it then.",
+      "delivery": "dismissive"
     },
     {
       "character": "Jorral",
-      "line": "Hmm. Interesting, very interesting."
+      "line": "Hmm. Interesting, very interesting.",
+      "delivery": "intrigued"
     },
     {
       "character": "Jorral",
@@ -1264,7 +1370,8 @@
     },
     {
       "character": "Player",
-      "line": "Yes, yes I'm sure it's very interesting but what does it say?"
+      "line": "Yes, yes I'm sure it's very interesting but what does it say?",
+      "delivery": "impatient"
     },
     {
       "character": "Jorral",
@@ -1292,7 +1399,8 @@
     },
     {
       "character": "Jorral",
-      "line": "Any time. I recommend a doctor for those voices, though."
+      "line": "Any time. I recommend a doctor for those voices, though.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -1316,7 +1424,8 @@
     },
     {
       "character": "Player",
-      "line": "Finally, some solid information."
+      "line": "Finally, some solid information.",
+      "delivery": "relieved"
     },
     {
       "character": "Savant",
@@ -1324,7 +1433,8 @@
     },
     {
       "character": "Player",
-      "line": "Now, why doesn't that surprise me?"
+      "line": "Now, why doesn't that surprise me?",
+      "delivery": "wry"
     },
     {
       "character": "Savant",
@@ -1344,7 +1454,8 @@
     },
     {
       "character": "Player",
-      "line": "Great, that means we can free those poor people who have already fallen."
+      "line": "Great, that means we can free those poor people who have already fallen.",
+      "delivery": "hopeful"
     },
     {
       "character": "Savant",
@@ -1364,11 +1475,13 @@
     },
     {
       "character": "Savant",
-      "line": "No, I hit a brick wall after that. We had a dragon crash land on our headquarters a few years ago and the resulting fire destroyed a lot of our records."
+      "line": "No, I hit a brick wall after that. We had a dragon crash land on our headquarters a few years ago and the resulting fire destroyed a lot of our records.",
+      "delivery": "rueful"
     },
     {
       "character": "Player",
-      "line": "Drat, that complicates things."
+      "line": "Drat, that complicates things.",
+      "delivery": "frustrated"
     },
     {
       "character": "Savant",
@@ -1412,11 +1525,13 @@
     },
     {
       "character": "Player",
-      "line": "Col. O'Niall, this is worse than we thought."
+      "line": "Col. O'Niall, this is worse than we thought.",
+      "delivery": "grave"
     },
     {
       "character": "Col. O'Niall",
-      "line": "I doubt that, but go on."
+      "line": "I doubt that, but go on.",
+      "delivery": "gruff"
     },
     {
       "character": "Player",
@@ -1428,11 +1543,13 @@
     },
     {
       "character": "Player",
-      "line": "Something ancient and very, very evil."
+      "line": "Something ancient and very, very evil.",
+      "delivery": "ominous"
     },
     {
       "character": "Col. O'Niall",
-      "line": "That's an awful big something girl."
+      "line": "That's an awful big something girl.",
+      "delivery": "wry"
     },
     {
       "character": "Col. O'Niall",
@@ -1444,7 +1561,8 @@
     },
     {
       "character": "Col. O'Niall",
-      "line": "Hmm, it can't be a coincidence that the Mayor is 'renovating' the shrine. He must be preparing to break the Mother Mallum free."
+      "line": "Hmm, it can't be a coincidence that the Mayor is 'renovating' the shrine. He must be preparing to break the Mother Mallum free.",
+      "delivery": "grim"
     },
     {
       "character": "Player",
@@ -1480,7 +1598,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "Hmm. Oh, yes. We are Maledict."
+      "line": "Hmm. Oh, yes. We are Maledict.",
+      "delivery": "flat, eerie"
     },
     {
       "character": "Player",
@@ -1488,11 +1607,13 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "It's nothing, just a little tired at the moment. So much work, so much to do."
+      "line": "It's nothing, just a little tired at the moment. So much work, so much to do.",
+      "delivery": "distant"
     },
     {
       "character": "Player",
-      "line": "That sounds hauntingly familiar."
+      "line": "That sounds hauntingly familiar.",
+      "delivery": "wary"
     },
     {
       "character": "Brother Maledict",
@@ -1520,11 +1641,13 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "Ahh. Right. No."
+      "line": "Ahh. Right. No.",
+      "delivery": "flat"
     },
     {
       "character": "Player",
-      "line": "What do you mean, no?"
+      "line": "What do you mean, no?",
+      "delivery": "incredulous"
     },
     {
       "character": "Brother Maledict",
@@ -1532,15 +1655,18 @@
     },
     {
       "character": "Player",
-      "line": "Great! Can I have a look please?"
+      "line": "Great! Can I have a look please?",
+      "delivery": "eager"
     },
     {
       "character": "Brother Maledict",
-      "line": "No."
+      "line": "No.",
+      "delivery": "flatly"
     },
     {
       "character": "Player",
-      "line": "Again with this no business. Why not?"
+      "line": "Again with this no business. Why not?",
+      "delivery": "exasperated"
     },
     {
       "character": "Brother Maledict",
@@ -1552,7 +1678,8 @@
     },
     {
       "character": "Brother Maledict",
-      "line": "It is imperative that you find them."
+      "line": "It is imperative that you find them.",
+      "delivery": "insistent"
     },
     {
       "character": "Brother Maledict",
@@ -1568,7 +1695,8 @@
     },
     {
       "character": "Player",
-      "line": "Frustrating, to be honest."
+      "line": "Frustrating, to be honest.",
+      "delivery": "weary"
     },
     {
       "character": "Ezekial Lovecraft",
@@ -1584,7 +1712,8 @@
     },
     {
       "character": "Ezekial Lovecraft",
-      "line": "What, like this?"
+      "line": "What, like this?",
+      "delivery": "nonchalant"
     },
     {
       "character": "Player",
@@ -1592,7 +1721,8 @@
     },
     {
       "character": "Player",
-      "line": "Where on Gielinor did you get that?"
+      "line": "Where on Gielinor did you get that?",
+      "delivery": "astonished"
     },
     {
       "character": "Ezekial Lovecraft",
@@ -1628,7 +1758,8 @@
     },
     {
       "character": "Ezekial Lovecraft",
-      "line": "Really? That's the nicest thing anyone has ever said."
+      "line": "Really? That's the nicest thing anyone has ever said.",
+      "delivery": "touched"
     },
     {
       "character": "Ezekial Lovecraft",
@@ -1644,31 +1775,38 @@
     },
     {
       "character": "Player",
-      "line": "No really, what with the unhealthy skin tone and bulging eyes. The resemblance is uncanny."
+      "line": "No really, what with the unhealthy skin tone and bulging eyes. The resemblance is uncanny.",
+      "delivery": "wry"
     },
     {
       "character": "Ezekial Lovecraft",
-      "line": "Well, I haven't spoken to him in a while. I don't get out much."
+      "line": "Well, I haven't spoken to him in a while. I don't get out much.",
+      "delivery": "awkward"
     },
     {
       "character": "Player",
-      "line": "I can see why."
+      "line": "I can see why.",
+      "delivery": "dry"
     },
     {
       "character": "Ezekial Lovecraft",
-      "line": "Maybe the Mayor has finally seen how much I admire him and has grown to admire me?"
+      "line": "Maybe the Mayor has finally seen how much I admire him and has grown to admire me?",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
-      "line": "Anything's possible I suppose. Wait a minute, you mean you've always looked that odd?"
+      "line": "Anything's possible I suppose. Wait a minute, you mean you've always looked that odd?",
+      "delivery": "surprised"
     },
     {
       "character": "Ezekial Lovecraft",
-      "line": "Hey, I resent that!"
+      "line": "Hey, I resent that!",
+      "delivery": "offended"
     },
     {
       "character": "Player",
-      "line": "I'm sorry, it's just... Nevermind."
+      "line": "I'm sorry, it's just... Nevermind.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -1676,7 +1814,8 @@
     },
     {
       "character": "Ezekial Lovecraft",
-      "line": "Sniff. Yes, everyone says that."
+      "line": "Sniff. Yes, everyone says that.",
+      "delivery": "dejected"
     },
     {
       "character": "Col. O'Niall",
@@ -1692,27 +1831,33 @@
     },
     {
       "character": "Player",
-      "line": "Well I... Hang on a moment, you're looking a bit sickly."
+      "line": "Well I... Hang on a moment, you're looking a bit sickly.",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
-      "line": "Oh no. They got to you too, didn't they?"
+      "line": "Oh no. They got to you too, didn't they?",
+      "delivery": "dismayed"
     },
     {
       "character": "Col. O'Niall",
-      "line": "Are you sure this is not some elaborate deception on my part, to fool them?"
+      "line": "Are you sure this is not some elaborate deception on my part, to fool them?",
+      "delivery": "flat"
     },
     {
       "character": "Player",
-      "line": "Well, I don't know, but how can I trust you?"
+      "line": "Well, I don't know, but how can I trust you?",
+      "delivery": "wary"
     },
     {
       "character": "Col. O'Niall",
-      "line": "Because you seek the last page of Maledict's holy book. It is right here for you."
+      "line": "Because you seek the last page of Maledict's holy book. It is right here for you.",
+      "delivery": "flat"
     },
     {
       "character": "Player",
-      "line": "That seems a tad convenient."
+      "line": "That seems a tad convenient.",
+      "delivery": "suspicious"
     },
     {
       "character": "Col. O'Niall",
@@ -1720,7 +1865,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm not so sure that this is a good idea, but yes, I'll take it."
+      "line": "I'm not so sure that this is a good idea, but yes, I'll take it.",
+      "delivery": "reluctant"
     },
     {
       "character": "Col. O'Niall",
@@ -1736,7 +1882,8 @@
     },
     {
       "character": "Player",
-      "line": "Great, another complication I didn't need. I wonder if swamp paste will do the trick?"
+      "line": "Great, another complication I didn't need. I wonder if swamp paste will do the trick?",
+      "delivery": "exasperated"
     },
     {
       "character": "Col. O'Niall",
@@ -1744,7 +1891,8 @@
     },
     {
       "character": "Savant",
-      "line": ", stop!"
+      "line": ", stop!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -1776,23 +1924,28 @@
     },
     {
       "character": "Bailey",
-      "line": "Waaaaah!"
+      "line": "Waaaaah!",
+      "delivery": "screaming"
     },
     {
       "character": "Player",
-      "line": "Arrrgh!"
+      "line": "Arrrgh!",
+      "delivery": "startled, shouting"
     },
     {
       "character": "Bailey",
-      "line": "Oh, sorry,. I thought you were one of those fishermen."
+      "line": "Oh, sorry,. I thought you were one of those fishermen.",
+      "delivery": "flustered"
     },
     {
       "character": "Player",
-      "line": "N-No problem. It was just a surprise that's all."
+      "line": "N-No problem. It was just a surprise that's all.",
+      "delivery": "shaken"
     },
     {
       "character": "Bailey",
-      "line": "Well, I am scared half to death out here."
+      "line": "Well, I am scared half to death out here.",
+      "delivery": "fearful"
     },
     {
       "character": "Player",
@@ -1800,7 +1953,8 @@
     },
     {
       "character": "Bailey",
-      "line": "Really, great!"
+      "line": "Really, great!",
+      "delivery": "hopeful"
     },
     {
       "character": "Bailey",
@@ -1832,11 +1986,13 @@
     },
     {
       "character": "Player",
-      "line": "Wow! That was good timing wasn't it."
+      "line": "Wow! That was good timing wasn't it.",
+      "delivery": "pleasantly surprised"
     },
     {
       "character": "Bailey",
-      "line": "Uncanny really."
+      "line": "Uncanny really.",
+      "delivery": "dry"
     },
     {
       "character": "Bailey",
@@ -1844,7 +2000,8 @@
     },
     {
       "character": "Player",
-      "line": "Ah. Um. No, not at the moment."
+      "line": "Ah. Um. No, not at the moment.",
+      "delivery": "sheepish"
     },
     {
       "character": "Bailey",
@@ -1880,19 +2037,23 @@
     },
     {
       "character": "Player",
-      "line": "Um Colonel, I lost my CommOrb..."
+      "line": "Um Colonel, I lost my CommOrb...",
+      "delivery": "sheepish"
     },
     {
       "character": "Col. O'Niall",
-      "line": "Very careless of you, what? Here, take another, but be careful with this one!"
+      "line": "Very careless of you, what? Here, take another, but be careful with this one!",
+      "delivery": "chiding"
     },
     {
       "character": "Mayor Hobb",
-      "line": "Ah, so good of you to finally join us. To be honest, I never thought you'd make it this far."
+      "line": "Ah, so good of you to finally join us. To be honest, I never thought you'd make it this far.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
-      "line": "What? Mayor Hobb."
+      "line": "What? Mayor Hobb.",
+      "delivery": "shocked"
     },
     {
       "character": "Player",
@@ -1900,11 +2061,13 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Oh come now. Surely you are smart enough to know when you've been played for a fool?"
+      "line": "Oh come now. Surely you are smart enough to know when you've been played for a fool?",
+      "delivery": "mocking"
     },
     {
       "character": "Player",
-      "line": "Ahh, the penny drops. You got me to do your dirty work for you."
+      "line": "Ahh, the penny drops. You got me to do your dirty work for you.",
+      "delivery": "bitter"
     },
     {
       "character": "Mayor Hobb",
@@ -1912,11 +2075,13 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "With your superb timing, our plans have been advanced quicker than even we could have anticipated."
+      "line": "With your superb timing, our plans have been advanced quicker than even we could have anticipated.",
+      "delivery": "gloating"
     },
     {
       "character": "Player",
-      "line": "And what are they? What are your plans?"
+      "line": "And what are they? What are your plans?",
+      "delivery": "demanding"
     },
     {
       "character": "Mayor Hobb",
@@ -1924,7 +2089,8 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Behold, the beauteous visage of our beloved Prince."
+      "line": "Behold, the beauteous visage of our beloved Prince.",
+      "delivery": "reverent"
     },
     {
       "character": "Player",
@@ -1932,39 +2098,48 @@
     },
     {
       "character": "Mayor Hobb",
-      "line": "Mwahahaha... Fool. No, this is not our Great Mother, though I sincerely wish you had the chance to gaze upon her."
+      "line": "Mwahahaha... Fool. No, this is not our Great Mother, though I sincerely wish you had the chance to gaze upon her.",
+      "delivery": "gleeful, menacing"
     },
     {
       "character": "Mayor Hobb",
-      "line": "Sadly for you, this will be the last thing you ever see."
+      "line": "Sadly for you, this will be the last thing you ever see.",
+      "delivery": "menacing"
     },
     {
       "character": "Mayor Hobb",
-      "line": "No! Do you realise what you have done?"
+      "line": "No! Do you realise what you have done?",
+      "delivery": "horrified"
     },
     {
       "character": "Player",
-      "line": "Yes. I have destroyed one of the great evils infesting this world."
+      "line": "Yes. I have destroyed one of the great evils infesting this world.",
+      "delivery": "defiant"
     },
     {
       "character": "Mayor Hobb",
-      "line": "You fool! Did you think it would be so easy? The Prince will be reborn in all his glory!"
+      "line": "You fool! Did you think it would be so easy? The Prince will be reborn in all his glory!",
+      "delivery": "furious"
     },
     {
       "character": "Mayor Hobb",
-      "line": "Now you face the true wrath of the Mother Mallum!"
+      "line": "Now you face the true wrath of the Mother Mallum!",
+      "delivery": "shouting"
     },
     {
       "character": "Mother Mallum",
-      "line": "Calm yourself, my child. We anticipated this eventuality. Go now and prepare the throne for our arrival."
+      "line": "Calm yourself, my child. We anticipated this eventuality. Go now and prepare the throne for our arrival.",
+      "delivery": "commanding"
     },
     {
       "character": "Mayor Hobb",
-      "line": "By your command, my queen."
+      "line": "By your command, my queen.",
+      "delivery": "submissive"
     },
     {
       "character": "Mother Mallum",
-      "line": "So then, it is just us. What shall we do with you?"
+      "line": "So then, it is just us. What shall we do with you?",
+      "delivery": "sinister"
     },
     {
       "character": "Mother Mallum",
@@ -1972,7 +2147,8 @@
     },
     {
       "character": "Mother Mallum",
-      "line": "You have great potential,. We should destroy you now, lest you interfere with our plans further."
+      "line": "You have great potential,. We should destroy you now, lest you interfere with our plans further.",
+      "delivery": "cold"
     },
     {
       "character": "Mother Mallum",
@@ -1980,15 +2156,18 @@
     },
     {
       "character": "Mother Mallum",
-      "line": "After millennia, this husk is almost spent and requires replacement. Yes, you will make an excellent host."
+      "line": "After millennia, this husk is almost spent and requires replacement. Yes, you will make an excellent host.",
+      "delivery": "sinister"
     },
     {
       "character": "Player",
-      "line": "Never! I'll never serve you. I shall fight until my last breath before giving in."
+      "line": "Never! I'll never serve you. I shall fight until my last breath before giving in.",
+      "delivery": "defiant"
     },
     {
       "character": "Mother Mallum",
-      "line": "Yes, that's it, fight, fight with all your heart."
+      "line": "Yes, that's it, fight, fight with all your heart.",
+      "delivery": "cruel"
     },
     {
       "character": "Mother Mallum",
@@ -1996,39 +2175,48 @@
     },
     {
       "character": "Player",
-      "line": "Nooooooooo!"
+      "line": "Nooooooooo!",
+      "delivery": "anguished"
     },
     {
       "character": "Savant",
-      "line": ", are you there? We've been having a few technical problems..."
+      "line": ", are you there? We've been having a few technical problems...",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
-      "line": "Savant! Help me, please, for the love of Saradomin!"
+      "line": "Savant! Help me, please, for the love of Saradomin!",
+      "delivery": "desperate"
     },
     {
       "character": "Savant",
-      "line": "By the gods! I'll get you out of there immediately! Initiating emergency teleport."
+      "line": "By the gods! I'll get you out of there immediately! Initiating emergency teleport.",
+      "delivery": "urgent"
     },
     {
       "character": "Mother Mallum",
-      "line": "Come with us,. Come and be with us for all eternity."
+      "line": "Come with us,. Come and be with us for all eternity.",
+      "delivery": "hypnotic"
     },
     {
       "character": "Player",
-      "line": "Savant!"
+      "line": "Savant!",
+      "delivery": "shouting"
     },
     {
       "character": "Savant",
-      "line": "She's blocking my magic! One second, I'll try something else."
+      "line": "She's blocking my magic! One second, I'll try something else.",
+      "delivery": "urgent"
     },
     {
       "character": "Mother Mallum",
-      "line": "Ahh, it is useless to resist. Now we shall become as one."
+      "line": "Ahh, it is useless to resist. Now we shall become as one.",
+      "delivery": "sinister"
     },
     {
       "character": "Player",
-      "line": "Savant, now would be a good time!"
+      "line": "Savant, now would be a good time!",
+      "delivery": "frantic"
     },
     {
       "character": "Savant",
@@ -2040,15 +2228,18 @@
     },
     {
       "character": "Savant",
-      "line": ", are you okay? Speak to me!"
+      "line": ", are you okay? Speak to me!",
+      "delivery": "anxious"
     },
     {
       "character": "Player",
-      "line": "Phew! Yes, Savant. That was too close for comfort."
+      "line": "Phew! Yes, Savant. That was too close for comfort.",
+      "delivery": "relieved"
     },
     {
       "character": "Savant",
-      "line": "Thank Saradomin!"
+      "line": "Thank Saradomin!",
+      "delivery": "relieved"
     },
     {
       "character": "Savant",
@@ -2064,11 +2255,13 @@
     },
     {
       "character": "Player",
-      "line": "Sir Tiffy, it's all gone horribly wrong!"
+      "line": "Sir Tiffy, it's all gone horribly wrong!",
+      "delivery": "distressed"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Nonsense, dear gal, it can't be as bad as all that."
+      "line": "Nonsense, dear gal, it can't be as bad as all that.",
+      "delivery": "reassuring"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -2076,7 +2269,8 @@
     },
     {
       "character": "Player",
-      "line": "The town of Witchaven has been overrun by mind controlling sea slugs!"
+      "line": "The town of Witchaven has been overrun by mind controlling sea slugs!",
+      "delivery": "urgent"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -2088,15 +2282,18 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Oh dear, that is a shame. Please go on."
+      "line": "Oh dear, that is a shame. Please go on.",
+      "delivery": "understated"
     },
     {
       "character": "Player",
-      "line": "Well, they tricked me into opening the prison that kept their Queen imprisoned."
+      "line": "Well, they tricked me into opening the prison that kept their Queen imprisoned.",
+      "delivery": "rueful"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Ahh, the Mother Mallum. Dear-oh-dear, this isn't good news at all."
+      "line": "Ahh, the Mother Mallum. Dear-oh-dear, this isn't good news at all.",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
@@ -2104,11 +2301,13 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Excellent! That should delay her plans somewhat. If she follows the same pattern as last time, the important figures of Gielinor will be her next targets."
+      "line": "Excellent! That should delay her plans somewhat. If she follows the same pattern as last time, the important figures of Gielinor will be her next targets.",
+      "delivery": "pleased"
     },
     {
       "character": "Player",
-      "line": "That cannot be allowed to happen! What can we do about it?"
+      "line": "That cannot be allowed to happen! What can we do about it?",
+      "delivery": "determined"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -2128,19 +2327,23 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "So, with immediate effect, I am promoting you within the Temple Knights. Congratulations!"
+      "line": "So, with immediate effect, I am promoting you within the Temple Knights. Congratulations!",
+      "delivery": "warm"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "I only wish it were under better circumstances."
+      "line": "I only wish it were under better circumstances.",
+      "delivery": "rueful"
     },
     {
       "character": "Player",
-      "line": "Wow! I am honoured."
+      "line": "Wow! I am honoured.",
+      "delivery": "delighted"
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Tish, pashaw and nonsense. It's about time you were rewarded for your work."
+      "line": "Tish, pashaw and nonsense. It's about time you were rewarded for your work.",
+      "delivery": "jovial"
     },
     {
       "character": "Sir Tiffy Cashien",
@@ -2160,7 +2363,8 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Good lass. Oh and Colonel O'Niall has been placed on our disavowed list. He should be considered extremely dangerous and is to be killed on sight."
+      "line": "Good lass. Oh and Colonel O'Niall has been placed on our disavowed list. He should be considered extremely dangerous and is to be killed on sight.",
+      "delivery": "grave"
     },
     {
       "character": "Player",
@@ -2168,7 +2372,8 @@
     },
     {
       "character": "Sir Tiffy Cashien",
-      "line": "Ta ta, old bean."
+      "line": "Ta ta, old bean.",
+      "delivery": "cheerful"
     }
   ],
   "characters": [

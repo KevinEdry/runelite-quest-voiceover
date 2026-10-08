@@ -8,11 +8,13 @@
     },
     {
       "character": "Alan",
-      "line": "You found me! What a day, huh, Humpy Plumpy?"
+      "line": "You found me! What a day, huh, Humpy Plumpy?",
+      "delivery": "cheerful, eccentric"
     },
     {
       "character": "Player",
-      "line": "Right... Is everything okay?"
+      "line": "Right... Is everything okay?",
+      "delivery": "wary"
     },
     {
       "character": "Alan",
@@ -32,19 +34,23 @@
     },
     {
       "character": "Alan",
-      "line": "Oh, no thank you. Like I say, I've actually come to quite like it here. Had I never got lost, I might never have met my best friend, Numpty Bumpty."
+      "line": "Oh, no thank you. Like I say, I've actually come to quite like it here. Had I never got lost, I might never have met my best friend, Numpty Bumpty.",
+      "delivery": "warmly, eccentric"
     },
     {
       "character": "Alan",
-      "line": "Still, it is nice for us to finally have a guest. In fact, you should stay for a while! I'll prepare a little feast for us all! What do you say?"
+      "line": "Still, it is nice for us to finally have a guest. In fact, you should stay for a while! I'll prepare a little feast for us all! What do you say?",
+      "delivery": "eager, excited"
     },
     {
       "character": "Player",
-      "line": "Well, I suppose I can't say no to that."
+      "line": "Well, I suppose I can't say no to that.",
+      "delivery": "dry amusement"
     },
     {
       "character": "Alan",
-      "line": "Wonderful! Would you mind staying here while I go out and gather the food? I may not have known you long, but I'm sure I can trust you to keep an eye on Wumty Scrumpty over there."
+      "line": "Wonderful! Would you mind staying here while I go out and gather the food? I may not have known you long, but I'm sure I can trust you to keep an eye on Wumty Scrumpty over there.",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
@@ -52,19 +58,23 @@
     },
     {
       "character": "Alan",
-      "line": "Right, time for me to get going. Don't worry, Hampty, our new friend here is going to take good care of you while I'm gone. Love you lots. Miss you already."
+      "line": "Right, time for me to get going. Don't worry, Hampty, our new friend here is going to take good care of you while I'm gone. Love you lots. Miss you already.",
+      "delivery": "tenderly"
     },
     {
       "character": "Player",
-      "line": "Hello there, egg."
+      "line": "Hello there, egg.",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
-      "line": "********."
+      "line": "********.",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
-      "line": "Bollocks."
+      "line": "Bollocks.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -80,7 +90,8 @@
     },
     {
       "character": "Player",
-      "line": "This isn't good. I'd better head into town and try to find some help."
+      "line": "This isn't good. I'd better head into town and try to find some help.",
+      "delivery": "worried"
     },
     {
       "character": "Player",
@@ -92,7 +103,8 @@
     },
     {
       "character": "Player",
-      "line": "Mumpty Rumpty fell off a wall!"
+      "line": "Mumpty Rumpty fell off a wall!",
+      "delivery": "urgent, distressed"
     },
     {
       "character": "Jatziri, Teoki of Ralos",
@@ -104,19 +116,23 @@
     },
     {
       "character": "Jatziri, Teoki of Ralos",
-      "line": "Yes, I noticed the tourist had an egg with him... I didn't realise it had a name..."
+      "line": "Yes, I noticed the tourist had an egg with him... I didn't realise it had a name...",
+      "delivery": "calmly, bemused"
     },
     {
       "character": "Player",
-      "line": "We need to do something!"
+      "line": "We need to do something!",
+      "delivery": "urgent, pleading"
     },
     {
       "character": "Jatziri, Teoki of Ralos",
-      "line": "Well... it's an egg, iknami. If it's broken, then there isn't much you can do about that."
+      "line": "Well... it's an egg, iknami. If it's broken, then there isn't much you can do about that.",
+      "delivery": "gently, matter-of-fact"
     },
     {
       "character": "Player",
-      "line": "I'm not giving up without at least trying first."
+      "line": "I'm not giving up without at least trying first.",
+      "delivery": "determined"
     },
     {
       "character": "Jatziri, Teoki of Ralos",
@@ -132,7 +148,8 @@
     },
     {
       "character": "Player",
-      "line": "This might sound a little strange... but Rumpty Bumpty fell off a wall."
+      "line": "This might sound a little strange... but Rumpty Bumpty fell off a wall.",
+      "delivery": "sheepish"
     },
     {
       "character": "Farmer",
@@ -152,7 +169,8 @@
     },
     {
       "character": "Farmer",
-      "line": "You want to put a broken egg back together again?"
+      "line": "You want to put a broken egg back together again?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -180,7 +198,8 @@
     },
     {
       "character": "King",
-      "line": "The king? No, no, you won't be finding anybody like that around these parts!"
+      "line": "The king? No, no, you won't be finding anybody like that around these parts!",
+      "delivery": "dry amusement"
     },
     {
       "character": "Player",
@@ -204,15 +223,18 @@
     },
     {
       "character": "King",
-      "line": "An egg fell off a wall?"
+      "line": "An egg fell off a wall?",
+      "delivery": "skeptical"
     },
     {
       "character": "Player",
-      "line": "It was a disaster! He's everywhere! I was told that if anybody could help put him together again, it would be you."
+      "line": "It was a disaster! He's everywhere! I was told that if anybody could help put him together again, it would be you.",
+      "delivery": "distressed"
     },
     {
       "character": "King",
-      "line": "Yes, I guess I have managed to gain a bit of a reputation when it comes to situations like this. After all, there's a reason everyone calls me King."
+      "line": "Yes, I guess I have managed to gain a bit of a reputation when it comes to situations like this. After all, there's a reason everyone calls me King.",
+      "delivery": "casual confidence"
     },
     {
       "character": "King",
@@ -228,11 +250,13 @@
     },
     {
       "character": "Player",
-      "line": "What's a horse?"
+      "line": "What's a horse?",
+      "delivery": "puzzled"
     },
     {
       "character": "King",
-      "line": "I have no idea."
+      "line": "I have no idea.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
@@ -256,7 +280,8 @@
     },
     {
       "character": "Player",
-      "line": "Scrumpty Numpty fell off a wall!"
+      "line": "Scrumpty Numpty fell off a wall!",
+      "delivery": "urgent"
     },
     {
       "character": "King",
@@ -268,11 +293,13 @@
     },
     {
       "character": "Player",
-      "line": "It was a disaster! He's everywhere! Can you help?"
+      "line": "It was a disaster! He's everywhere! Can you help?",
+      "delivery": "distressed"
     },
     {
       "character": "King",
-      "line": "I think you came to the right person. I've managed to gain a bit of a reputation when it comes to situations like this. There's a reason everyone calls me King."
+      "line": "I think you came to the right person. I've managed to gain a bit of a reputation when it comes to situations like this. There's a reason everyone calls me King.",
+      "delivery": "casual confidence"
     },
     {
       "character": "King",
@@ -312,7 +339,8 @@
     },
     {
       "character": "Player",
-      "line": "Well... not exactly a man. He's an egg."
+      "line": "Well... not exactly a man. He's an egg.",
+      "delivery": "sheepish"
     },
     {
       "character": "Acatzin",
@@ -340,7 +368,8 @@
     },
     {
       "character": "Player",
-      "line": "There's no time for this!"
+      "line": "There's no time for this!",
+      "delivery": "frustrated"
     },
     {
       "character": "Acatzin",
@@ -356,7 +385,8 @@
     },
     {
       "character": "Player",
-      "line": "Yes, yes. Egg, fell off a wall, disaster."
+      "line": "Yes, yes. Egg, fell off a wall, disaster.",
+      "delivery": "weary"
     },
     {
       "character": "Acatzin",
@@ -372,7 +402,8 @@
     },
     {
       "character": "Acatzin",
-      "line": "Well, good luck getting a word in with that blacksmith!"
+      "line": "Well, good luck getting a word in with that blacksmith!",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -380,7 +411,8 @@
     },
     {
       "character": "Blacksmith",
-      "line": "Blacksmith! Yes, I'm the blacksmith!"
+      "line": "Blacksmith! Yes, I'm the blacksmith!",
+      "delivery": "brusque, hurried"
     },
     {
       "character": "Player",
@@ -388,7 +420,8 @@
     },
     {
       "character": "Blacksmith",
-      "line": "I'm very busy, so you'll need to be quick! What do you need?"
+      "line": "I'm very busy, so you'll need to be quick! What do you need?",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -396,11 +429,13 @@
     },
     {
       "character": "Blacksmith",
-      "line": "Sorry, I don't sell those! Move along!"
+      "line": "Sorry, I don't sell those! Move along!",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
-      "line": "I don't want to buy one! I'm here to pick up one that you're repairing."
+      "line": "I don't want to buy one! I'm here to pick up one that you're repairing.",
+      "delivery": "exasperated"
     },
     {
       "character": "Blacksmith",
@@ -412,7 +447,8 @@
     },
     {
       "character": "Blacksmith",
-      "line": "Well, you can't. No repairs are getting done until the whetstone is fixed!"
+      "line": "Well, you can't. No repairs are getting done until the whetstone is fixed!",
+      "delivery": "abrupt"
     },
     {
       "character": "Player",
@@ -420,11 +456,13 @@
     },
     {
       "character": "Blacksmith",
-      "line": "Yes, the whetstone! Are you going to get it fixed or are you just going to keep standing around like that?"
+      "line": "Yes, the whetstone! Are you going to get it fixed or are you just going to keep standing around like that?",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
-      "line": "Okay... I guess I can try and fix the whetstone."
+      "line": "Okay... I guess I can try and fix the whetstone.",
+      "delivery": "resigned"
     },
     {
       "character": "Blacksmith",
@@ -436,11 +474,13 @@
     },
     {
       "character": "Blacksmith",
-      "line": "Too slow! We need to speed things up! Let's come together and fix this whetstone!"
+      "line": "Too slow! We need to speed things up! Let's come together and fix this whetstone!",
+      "delivery": "hurried, urgent"
     },
     {
       "character": "Player",
-      "line": "Okay..."
+      "line": "Okay...",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
@@ -448,7 +488,8 @@
     },
     {
       "character": "Blacksmith",
-      "line": "Axe? I don't have your axe. Are you sure you gave it to me?"
+      "line": "Axe? I don't have your axe. Are you sure you gave it to me?",
+      "delivery": "oblivious"
     },
     {
       "character": "Player",
@@ -496,7 +537,8 @@
     },
     {
       "character": "Nezketi",
-      "line": "I might be."
+      "line": "I might be.",
+      "delivery": "dryly"
     },
     {
       "character": "Player",
@@ -520,7 +562,8 @@
     },
     {
       "character": "Nezketi",
-      "line": "I think I can, but I'm going to need to be on top of my game for a job like this. In other words, I'm going to need some tea."
+      "line": "I think I can, but I'm going to need to be on top of my game for a job like this. In other words, I'm going to need some tea.",
+      "delivery": "dry, refined"
     },
     {
       "character": "Player",
@@ -560,11 +603,13 @@
     },
     {
       "character": "Player",
-      "line": "Now's not the time for tea!"
+      "line": "Now's not the time for tea!",
+      "delivery": "frustrated"
     },
     {
       "character": "Nezketi",
-      "line": "Well, I don't think I'll be much use without it..."
+      "line": "Well, I don't think I'll be much use without it...",
+      "delivery": "dryly"
     },
     {
       "character": "Player",
@@ -576,7 +621,8 @@
     },
     {
       "character": "Player",
-      "line": "Yes, the egg I was telling you about before..."
+      "line": "Yes, the egg I was telling you about before...",
+      "delivery": "weary"
     },
     {
       "character": "Nezketi",
@@ -628,11 +674,13 @@
     },
     {
       "character": "Nezketi",
-      "line": "Hmm... doesn't smell much like my usual tea..."
+      "line": "Hmm... doesn't smell much like my usual tea...",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "Oh, no of course not."
+      "line": "Oh, no of course not.",
+      "delivery": "nervously deflecting"
     },
     {
       "character": "Nezketi",
@@ -652,7 +700,8 @@
     },
     {
       "character": "Nezketi",
-      "line": "That's what I said. Where is he?"
+      "line": "That's what I said. Where is he?",
+      "delivery": "dryly"
     },
     {
       "character": "Player",
@@ -680,7 +729,8 @@
     },
     {
       "character": "Kauayotl",
-      "line": "Tell me you're joking?!"
+      "line": "Tell me you're joking?!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -688,15 +738,18 @@
     },
     {
       "character": "Kauayotl",
-      "line": "My friend, this is a matter that's very personal to me. I once lost a good friend under similar horrific circumstances. However, I first need to finish sorting out my racing cart."
+      "line": "My friend, this is a matter that's very personal to me. I once lost a good friend under similar horrific circumstances. However, I first need to finish sorting out my racing cart.",
+      "delivery": "solemn, heartfelt"
     },
     {
       "character": "Player",
-      "line": "Racing cart?"
+      "line": "Racing cart?",
+      "delivery": "puzzled"
     },
     {
       "character": "Kauayotl",
-      "line": "That's right! We race them over in the Colosseum. Mine took quite a bit of damage last time so I need to get that sorted."
+      "line": "That's right! We race them over in the Colosseum. Mine took quite a bit of damage last time so I need to get that sorted.",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
@@ -708,11 +761,13 @@
     },
     {
       "character": "Player",
-      "line": "We have bigger problems right now!"
+      "line": "We have bigger problems right now!",
+      "delivery": "frustrated"
     },
     {
       "character": "Kauayotl",
-      "line": "My friend, I know your plight, but the cart must be sorted before I can do anything else. I'm sorry."
+      "line": "My friend, I know your plight, but the cart must be sorted before I can do anything else. I'm sorry.",
+      "delivery": "apologetic"
     },
     {
       "character": "Kauayotl",
@@ -732,7 +787,8 @@
     },
     {
       "character": "Kauayotl",
-      "line": "Kuani! It's looking great! All it needs now is a nice new red racing stripe. That's one for later though. For now, let's sort out this problem of yours. Where do you need me?"
+      "line": "Kuani! It's looking great! All it needs now is a nice new red racing stripe. That's one for later though. For now, let's sort out this problem of yours. Where do you need me?",
+      "delivery": "pleased"
     },
     {
       "character": "Player",
@@ -756,11 +812,13 @@
     },
     {
       "character": "Nezketi",
-      "line": "This isn't good, iknami. We don't think there's any way we can put this egg back together again."
+      "line": "This isn't good, iknami. We don't think there's any way we can put this egg back together again.",
+      "delivery": "grim"
     },
     {
       "character": "Player",
-      "line": "What are we going to do?"
+      "line": "What are we going to do?",
+      "delivery": "worried"
     },
     {
       "character": "Acatzin",
@@ -768,11 +826,13 @@
     },
     {
       "character": "Player",
-      "line": "Replace Pumpty Lumpty? That's madness!"
+      "line": "Replace Pumpty Lumpty? That's madness!",
+      "delivery": "incredulous"
     },
     {
       "character": "Kauayotl",
-      "line": "It's more than madness. There isn't even a word to properly describe what it is. However, I fear it is the only path available to us."
+      "line": "It's more than madness. There isn't even a word to properly describe what it is. However, I fear it is the only path available to us.",
+      "delivery": "solemn"
     },
     {
       "character": "Player",
@@ -784,11 +844,13 @@
     },
     {
       "character": "Nezketi",
-      "line": "Tetamo! That's preposterous! A chicken egg is far too small."
+      "line": "Tetamo! That's preposterous! A chicken egg is far too small.",
+      "delivery": "indignant"
     },
     {
       "character": "Acatzin",
-      "line": "Not if it's from a rather large chicken."
+      "line": "Not if it's from a rather large chicken.",
+      "delivery": "deadpan"
     },
     {
       "character": "Kauayotl",
@@ -800,7 +862,8 @@
     },
     {
       "character": "Kauayotl",
-      "line": "But jaguars don't lay eggs..."
+      "line": "But jaguars don't lay eggs...",
+      "delivery": "flatly, bemused"
     },
     {
       "character": "Player",
@@ -808,7 +871,8 @@
     },
     {
       "character": "Acatzin",
-      "line": "Kuani! What a brilliant idea."
+      "line": "Kuani! What a brilliant idea.",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
@@ -868,7 +932,8 @@
     },
     {
       "character": "Player",
-      "line": "I managed to find a large chicken egg!"
+      "line": "I managed to find a large chicken egg!",
+      "delivery": "pleased"
     },
     {
       "character": "Acatzin",
@@ -888,7 +953,8 @@
     },
     {
       "character": "Kauayotl",
-      "line": "Kuani! Excellent work! I'll get it ready to go."
+      "line": "Kuani! Excellent work! I'll get it ready to go.",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Kauayotl",
@@ -920,7 +986,8 @@
     },
     {
       "character": "Nezketi",
-      "line": "We've prettied them up as best we can. Hopefully one of them looks like Scrumpty Lumpy."
+      "line": "We've prettied them up as best we can. Hopefully one of them looks like Scrumpty Lumpy.",
+      "delivery": "hopeful"
     },
     {
       "character": "Acatzin",
@@ -928,7 +995,8 @@
     },
     {
       "character": "Player",
-      "line": "Hmm... It's not bad, but I think it's just a little bit too small to be Humpty Fumty."
+      "line": "Hmm... It's not bad, but I think it's just a little bit too small to be Humpty Fumty.",
+      "delivery": "considering"
     },
     {
       "character": "Kauayotl",
@@ -936,7 +1004,8 @@
     },
     {
       "character": "Player",
-      "line": "It's a good size, but the face... it seems to be melting off. I think the egg is too warm."
+      "line": "It's a good size, but the face... it seems to be melting off. I think the egg is too warm.",
+      "delivery": "dismayed"
     },
     {
       "character": "Nezketi",
@@ -944,7 +1013,8 @@
     },
     {
       "character": "Kauayotl",
-      "line": "I still don't think it's actually a jaguar egg..."
+      "line": "I still don't think it's actually a jaguar egg...",
+      "delivery": "dubious"
     },
     {
       "character": "Player",
@@ -952,7 +1022,8 @@
     },
     {
       "character": "Nezketi",
-      "line": "Kuani! Good work everyone. I think we've done it!"
+      "line": "Kuani! Good work everyone. I think we've done it!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
@@ -960,19 +1031,23 @@
     },
     {
       "character": "Kauayotl",
-      "line": "We gave it our best, but I fear we have failed."
+      "line": "We gave it our best, but I fear we have failed.",
+      "delivery": "defeated"
     },
     {
       "character": "Nezketi",
-      "line": "We can't give up!"
+      "line": "We can't give up!",
+      "delivery": "determined"
     },
     {
       "character": "Acatzin",
-      "line": "There's only one thing for it. We're going to have to put Pumpty Lumpty back together again."
+      "line": "There's only one thing for it. We're going to have to put Pumpty Lumpty back together again.",
+      "delivery": "resolute"
     },
     {
       "character": "Kauayotl",
-      "line": "But how? He was broken beyond repair!"
+      "line": "But how? He was broken beyond repair!",
+      "delivery": "despairing"
     },
     {
       "character": "Nezketi",
@@ -980,19 +1055,23 @@
     },
     {
       "character": "Kauayotl",
-      "line": "But it's not possible!"
+      "line": "But it's not possible!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "No, it's necessary..."
+      "line": "No, it's necessary...",
+      "delivery": "quietly resolute"
     },
     {
       "character": "Player",
-      "line": "Let's fix this egg!"
+      "line": "Let's fix this egg!",
+      "delivery": "rallying, determined"
     },
     {
       "character": "Nezketi",
-      "line": "It's beautiful!"
+      "line": "It's beautiful!",
+      "delivery": "awed"
     },
     {
       "character": "Kauayotl",
@@ -1000,7 +1079,8 @@
     },
     {
       "character": "Player",
-      "line": "Thank you. I don't think I could have done it without you three."
+      "line": "Thank you. I don't think I could have done it without you three.",
+      "delivery": "warm, grateful"
     },
     {
       "character": "Acatzin",
@@ -1008,23 +1088,28 @@
     },
     {
       "character": "Alan",
-      "line": "I'm back! How was Plumper? He didn't cause you any problems, did he?"
+      "line": "I'm back! How was Plumper? He didn't cause you any problems, did he?",
+      "delivery": "cheerful, eccentric"
     },
     {
       "character": "Player",
-      "line": "Er... No. No problems at all."
+      "line": "Er... No. No problems at all.",
+      "delivery": "nervous, guilty"
     },
     {
       "character": "Alan",
-      "line": "Wonderful! I'm so glad to hear it. Now, I've got quite the meal lined up for us. Would you mind giving me a hand bringing everything inside?"
+      "line": "Wonderful! I'm so glad to hear it. Now, I've got quite the meal lined up for us. Would you mind giving me a hand bringing everything inside?",
+      "delivery": "delighted"
     },
     {
       "character": "Alan",
-      "line": "You know, friend, it wasn't until now that I came to realise that I'd actually been lost for a long time. I had a job back home... I had a family... and yet, something was missing."
+      "line": "You know, friend, it wasn't until now that I came to realise that I'd actually been lost for a long time. I had a job back home... I had a family... and yet, something was missing.",
+      "delivery": "wistful, reflective"
     },
     {
       "character": "Alan",
-      "line": "But now... now I think I've finally found myself. For the first time in my life, I know who I am... who I'm meant to be. I think this can be a proper home. A home for me, and for Rumpy as well. A forever home."
+      "line": "But now... now I think I've finally found myself. For the first time in my life, I know who I am... who I'm meant to be. I think this can be a proper home. A home for me, and for Rumpy as well. A forever home.",
+      "delivery": "wistful, intense"
     },
     {
       "character": "Player",
@@ -1056,7 +1141,8 @@
     },
     {
       "character": "Kauayotl",
-      "line": "It was my pleasure, iknami. We of course wouldn't have been able to do it without you either."
+      "line": "It was my pleasure, iknami. We of course wouldn't have been able to do it without you either.",
+      "delivery": "warm"
     }
   ],
   "characters": [

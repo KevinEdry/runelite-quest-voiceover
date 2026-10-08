@@ -12,11 +12,13 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Sorry to have bothered you; I'm looking for a more experienced adventurer."
+      "line": "Sorry to have bothered you; I'm looking for a more experienced adventurer.",
+      "delivery": "apologetic"
     },
     {
       "character": "Brother Tranquility",
-      "line": "I'm looking for a bold and true adventurer to help me with a...a...a little problem?"
+      "line": "I'm looking for a bold and true adventurer to help me with a...a...a little problem?",
+      "delivery": "nervous, hesitant"
     },
     {
       "character": "Player",
@@ -32,7 +34,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Shhh!"
+      "line": "Shhh!",
+      "delivery": "hushed, urgent"
     },
     {
       "character": "Brother Tranquility",
@@ -40,7 +43,8 @@
     },
     {
       "character": "Player",
-      "line": "This is starting to sound a little bit dodgy, and I do appreciate I'm in a hive of scum and villainy as I say this."
+      "line": "This is starting to sound a little bit dodgy, and I do appreciate I'm in a hive of scum and villainy as I say this.",
+      "delivery": "wary, dry"
     },
     {
       "character": "Player",
@@ -52,11 +56,13 @@
     },
     {
       "character": "Player",
-      "line": "Undead pirates? Let me at em!"
+      "line": "Undead pirates? Let me at em!",
+      "delivery": "eager"
     },
     {
       "character": "Brother Tranquility",
-      "line": "Oh, you'll help? Wonderful!"
+      "line": "Oh, you'll help? Wonderful!",
+      "delivery": "relieved, delighted"
     },
     {
       "character": "Brother Tranquility",
@@ -64,15 +70,18 @@
     },
     {
       "character": "Player",
-      "line": "No hitting! No hitting!"
+      "line": "No hitting! No hitting!",
+      "delivery": "panicked"
     },
     {
       "character": "Brother Tranquility",
-      "line": "Are you all right, my child?"
+      "line": "Are you all right, my child?",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
-      "line": "Sorry, sorry."
+      "line": "Sorry, sorry.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -96,15 +105,18 @@
     },
     {
       "character": "Player",
-      "line": "Zombies! Back away from those monks now!"
+      "line": "Zombies! Back away from those monks now!",
+      "delivery": "alarmed, shouting"
     },
     {
       "character": "Zombie monk",
-      "line": "Wait! Wait! We ARE monks!"
+      "line": "Wait! Wait! We ARE monks!",
+      "delivery": "panicked"
     },
     {
       "character": "Player",
-      "line": "What? Seriously? Zombie monks?"
+      "line": "What? Seriously? Zombie monks?",
+      "delivery": "incredulous"
     },
     {
       "character": "Monk",
@@ -112,15 +124,18 @@
     },
     {
       "character": "Monk",
-      "line": "Sort of, at any rate."
+      "line": "Sort of, at any rate.",
+      "delivery": "uncertain"
     },
     {
       "character": "Brother Tranquility",
-      "line": "It's true. We need your help...will you at least listen to us?"
+      "line": "It's true. We need your help...will you at least listen to us?",
+      "delivery": "pleading"
     },
     {
       "character": "Player",
-      "line": "Okay, but the first one of you that lunges for my brain will be strung up and beaten until they are dead...or very, very sorry."
+      "line": "Okay, but the first one of you that lunges for my brain will be strung up and beaten until they are dead...or very, very sorry.",
+      "delivery": "wary, threatening"
     },
     {
       "character": "Brother Tranquility",
@@ -140,7 +155,8 @@
     },
     {
       "character": "Player",
-      "line": "Were they particularly drunken-looking?"
+      "line": "Were they particularly drunken-looking?",
+      "delivery": "dry"
     },
     {
       "character": "Brother Tranquility",
@@ -152,7 +168,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "I remember a terrible pain, and then woke up in this body with Mi-Gor nearby, gloating about having 'enhanced' a zombie with a non-rotting brain."
+      "line": "I remember a terrible pain, and then woke up in this body with Mi-Gor nearby, gloating about having 'enhanced' a zombie with a non-rotting brain.",
+      "delivery": "haunted"
     },
     {
       "character": "Brother Tranquility",
@@ -180,7 +197,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Now that you know our plight, will you help us?"
+      "line": "Now that you know our plight, will you help us?",
+      "delivery": "earnest"
     },
     {
       "character": "Player",
@@ -188,7 +206,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Saradomin be praised!"
+      "line": "Saradomin be praised!",
+      "delivery": "relieved, joyful"
     },
     {
       "character": "Brother Tranquility",
@@ -236,35 +255,43 @@
     },
     {
       "character": "Zombie monk",
-      "line": "What if I start craving brains?"
+      "line": "What if I start craving brains?",
+      "delivery": "anxious"
     },
     {
       "character": "Player",
-      "line": "Just eat a cauliflower or something!"
+      "line": "Just eat a cauliflower or something!",
+      "delivery": "exasperated"
     },
     {
       "character": "Zombie monk",
-      "line": "I don't even know what one of those is!"
+      "line": "I don't even know what one of those is!",
+      "delivery": "distressed"
     },
     {
       "character": "Zombie monk",
-      "line": "This is so awful..."
+      "line": "This is so awful...",
+      "delivery": "despairing"
     },
     {
       "character": "Player",
-      "line": "Hang in there, brother, is on the case."
+      "line": "Hang in there, brother, is on the case.",
+      "delivery": "reassuring"
     },
     {
       "character": "Zombie monk",
-      "line": "Something fell off! Something fell off!"
+      "line": "Something fell off! Something fell off!",
+      "delivery": "panicked, alarmed"
     },
     {
       "character": "Player",
-      "line": "I don't wanna know!"
+      "line": "I don't wanna know!",
+      "delivery": "disgusted"
     },
     {
       "character": "Zombie monk",
-      "line": "I wish I was back in my own body."
+      "line": "I wish I was back in my own body.",
+      "delivery": "mournful"
     },
     {
       "character": "Player",
@@ -280,7 +307,8 @@
     },
     {
       "character": "Zombie monk",
-      "line": "I don't want to be stuck this way!"
+      "line": "I don't want to be stuck this way!",
+      "delivery": "desperate"
     },
     {
       "character": "Player",
@@ -296,15 +324,18 @@
     },
     {
       "character": "Player",
-      "line": "Sorry! Sorry!"
+      "line": "Sorry! Sorry!",
+      "delivery": "flustered"
     },
     {
       "character": "Monk",
-      "line": "I suppose I should view this as a test of faith..."
+      "line": "I suppose I should view this as a test of faith...",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
-      "line": "That's the spirit!"
+      "line": "That's the spirit!",
+      "delivery": "encouraging"
     },
     {
       "character": "Monk",
@@ -312,19 +343,23 @@
     },
     {
       "character": "Monk",
-      "line": "Zombies! What ever will we do?"
+      "line": "Zombies! What ever will we do?",
+      "delivery": "panicked"
     },
     {
       "character": "Player",
-      "line": "Keep calm. I'm a professional. I'll take care of it."
+      "line": "Keep calm. I'm a professional. I'll take care of it.",
+      "delivery": "confident"
     },
     {
       "character": "Monk",
-      "line": "I knew I should have been a bricklayer..."
+      "line": "I knew I should have been a bricklayer...",
+      "delivery": "lamenting"
     },
     {
       "character": "Monk",
-      "line": "I don't want to lose my brain!"
+      "line": "I don't want to lose my brain!",
+      "delivery": "fearful"
     },
     {
       "character": "Player",
@@ -332,7 +367,8 @@
     },
     {
       "character": "Monk",
-      "line": "I was almost all the way through translating that book too..."
+      "line": "I was almost all the way through translating that book too...",
+      "delivery": "wistful"
     },
     {
       "character": "Monk",
@@ -344,7 +380,8 @@
     },
     {
       "character": "Player",
-      "line": "Sure, although the zombies were drunker, the hostages were less holy and the island was known for exporting swill, not piety."
+      "line": "Sure, although the zombies were drunker, the hostages were less holy and the island was known for exporting swill, not piety.",
+      "delivery": "dry, wry"
     },
     {
       "character": "Monk",
@@ -352,7 +389,8 @@
     },
     {
       "character": "Monk",
-      "line": "Glabburbleglubble..."
+      "line": "Glabburbleglubble...",
+      "delivery": "vacant, slurred"
     },
     {
       "character": "Monk",
@@ -368,7 +406,8 @@
     },
     {
       "character": "Player",
-      "line": "Wow, without a brain, these monks seem a lot less holy all of a sudden..."
+      "line": "Wow, without a brain, these monks seem a lot less holy all of a sudden...",
+      "delivery": "bemused, dry"
     },
     {
       "character": "Mi-Gor",
@@ -380,11 +419,13 @@
     },
     {
       "character": "Sorebones",
-      "line": "Arr, it be progressin' well..."
+      "line": "Arr, it be progressin' well...",
+      "delivery": "nervous"
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze* What is it? I can smell your lie, whelp."
+      "line": "*Wheeze* What is it? I can smell your lie, whelp.",
+      "delivery": "menacing, suspicious"
     },
     {
       "character": "Sorebones",
@@ -400,7 +441,8 @@
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze!* Silence! I will not be questioned by underlings!"
+      "line": "*Wheeze!* Silence! I will not be questioned by underlings!",
+      "delivery": "furious, shouting"
     },
     {
       "character": "Mi-Gor",
@@ -408,11 +450,13 @@
     },
     {
       "character": "Player",
-      "line": "Rabid Jack! That name again..."
+      "line": "Rabid Jack! That name again...",
+      "delivery": "quietly, intrigued"
     },
     {
       "character": "Sorebones",
-      "line": "Please, no! Not 'The Box'!"
+      "line": "Please, no! Not 'The Box'!",
+      "delivery": "terrified, pleading"
     },
     {
       "character": "Sorebones",
@@ -420,7 +464,8 @@
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze* Excellent...the gas will leave the brain intact for the next stage."
+      "line": "*Wheeze* Excellent...the gas will leave the brain intact for the next stage.",
+      "delivery": "sinister, pleased"
     },
     {
       "character": "Mi-Gor",
@@ -428,15 +473,18 @@
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze* Rabid Jack will have his crew of enhanced zombies and I will have as many test subjects as I can vivisect!"
+      "line": "*Wheeze* Rabid Jack will have his crew of enhanced zombies and I will have as many test subjects as I can vivisect!",
+      "delivery": "gleeful, menacing"
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze* Hekhekhekhek!"
+      "line": "*Wheeze* Hekhekhekhek!",
+      "delivery": "cackling"
     },
     {
       "character": "Player",
-      "line": "Sleeping gas! I have to tell the monks about this right now! I only hope I have time..."
+      "line": "Sleeping gas! I have to tell the monks about this right now! I only hope I have time...",
+      "delivery": "urgent, alarmed"
     },
     {
       "character": "Player",
@@ -448,7 +496,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Fiendish!"
+      "line": "Fiendish!",
+      "delivery": "appalled"
     },
     {
       "character": "Brother Tranquility",
@@ -476,11 +525,13 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Well, the abbot was slain by a group of raiders. Apparently his faith was little protection against their repeated sword blows."
+      "line": "Well, the abbot was slain by a group of raiders. Apparently his faith was little protection against their repeated sword blows.",
+      "delivery": "wry, grim"
     },
     {
       "character": "Player",
-      "line": "Ouch!"
+      "line": "Ouch!",
+      "delivery": "wincing"
     },
     {
       "character": "Brother Tranquility",
@@ -500,7 +551,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Oh, well hurry to the Edgeville Monastery and get it. We haven't got a moment to lose!"
+      "line": "Oh, well hurry to the Edgeville Monastery and get it. We haven't got a moment to lose!",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -508,7 +560,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "What use is it there? Go get it and hurry back. We haven't got a moment to lose!"
+      "line": "What use is it there? Go get it and hurry back. We haven't got a moment to lose!",
+      "delivery": "exasperated, urgent"
     },
     {
       "character": "Player",
@@ -520,19 +573,23 @@
     },
     {
       "character": "Player",
-      "line": "Words? What words?"
+      "line": "Words? What words?",
+      "delivery": "confused"
     },
     {
       "character": "Brother Tranquility",
-      "line": "The words! The words of power that would prevent..."
+      "line": "The words! The words of power that would prevent...",
+      "delivery": "urgent, alarmed"
     },
     {
       "character": "Brother Tranquility",
-      "line": "Wait a moment, I forgot to tell you them, didn't I?"
+      "line": "Wait a moment, I forgot to tell you them, didn't I?",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
-      "line": "Yes! There were no words! What were they supposed to prevent?"
+      "line": "Yes! There were no words! What were they supposed to prevent?",
+      "delivery": "exasperated, alarmed"
     },
     {
       "character": "Brother Tranquility",
@@ -548,11 +605,13 @@
     },
     {
       "character": "Player",
-      "line": "LOCUSTS?"
+      "line": "LOCUSTS?",
+      "delivery": "alarmed, shouting"
     },
     {
       "character": "Brother Tranquility",
-      "line": "Oh, don't worry, it'll only be a little swarm."
+      "line": "Oh, don't worry, it'll only be a little swarm.",
+      "delivery": "breezily reassuring"
     },
     {
       "character": "Brother Tranquility",
@@ -604,15 +663,18 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Quickly, the pirates have released the gas! Use the prayer, the other brothers will help make it powerful enough to cover the whole of the granary."
+      "line": "Quickly, the pirates have released the gas! Use the prayer, the other brothers will help make it powerful enough to cover the whole of the granary.",
+      "delivery": "urgent"
     },
     {
       "character": "Brother Tranquility",
-      "line": "Are you alright? We dragged you back inside as quickly as we could."
+      "line": "Are you alright? We dragged you back inside as quickly as we could.",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
-      "line": "Woah...that gas is pretty potent... I'll need to wear my diving gear outside so that I don't get knocked out again."
+      "line": "Woah...that gas is pretty potent... I'll need to wear my diving gear outside so that I don't get knocked out again.",
+      "delivery": "groggy"
     },
     {
       "character": "Brother Tranquility",
@@ -624,7 +686,8 @@
     },
     {
       "character": "Player",
-      "line": "So what now? Want me to go and kill the zombies?"
+      "line": "So what now? Want me to go and kill the zombies?",
+      "delivery": "eager"
     },
     {
       "character": "Brother Tranquility",
@@ -636,11 +699,13 @@
     },
     {
       "character": "Player",
-      "line": "So what do you want me to do, scrub up and grab a pair of pliers or something?"
+      "line": "So what do you want me to do, scrub up and grab a pair of pliers or something?",
+      "delivery": "flippant"
     },
     {
       "character": "Brother Tranquility",
-      "line": "No. Just...no."
+      "line": "No. Just...no.",
+      "delivery": "firm, deadpan"
     },
     {
       "character": "Brother Tranquility",
@@ -656,7 +721,8 @@
     },
     {
       "character": "Player",
-      "line": "That evil, demented, eye-rollingly insane butcher? What could you want with him and his twisted..."
+      "line": "That evil, demented, eye-rollingly insane butcher? What could you want with him and his twisted...",
+      "delivery": "incredulous, disgusted"
     },
     {
       "character": "Player",
@@ -672,7 +738,8 @@
     },
     {
       "character": "Player",
-      "line": "Well, I cant say I agree with this...but I do appreciate that he's likely the only person that knows his way around the inside of someone's skull."
+      "line": "Well, I cant say I agree with this...but I do appreciate that he's likely the only person that knows his way around the inside of someone's skull.",
+      "delivery": "reluctant"
     },
     {
       "character": "Brother Tranquility",
@@ -704,11 +771,13 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Are they here yet? I can hear them...howling!"
+      "line": "Are they here yet? I can hear them...howling!",
+      "delivery": "paranoid, fearful"
     },
     {
       "character": "Player",
-      "line": "For all the things you've done, I'd like to pour barbecue sauce on your head and pitch you out that window."
+      "line": "For all the things you've done, I'd like to pour barbecue sauce on your head and pitch you out that window.",
+      "delivery": "dryly menacing"
     },
     {
       "character": "Player",
@@ -716,7 +785,8 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Anything, anything. I will do anything to escape the wolves!"
+      "line": "Anything, anything. I will do anything to escape the wolves!",
+      "delivery": "desperate"
     },
     {
       "character": "Player",
@@ -724,7 +794,8 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "What?"
+      "line": "What?",
+      "delivery": "baffled"
     },
     {
       "character": "Player",
@@ -732,19 +803,23 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "I see...and how long have you been hearing these 'monks' talking to you?"
+      "line": "I see...and how long have you been hearing these 'monks' talking to you?",
+      "delivery": "condescending, skeptical"
     },
     {
       "character": "Player",
-      "line": "Hands up, everyone who is being hunted by packs of ravenous killer werewolves!"
+      "line": "Hands up, everyone who is being hunted by packs of ravenous killer werewolves!",
+      "delivery": "sarcastic"
     },
     {
       "character": "Player",
-      "line": "Oh, why, that would be you, doctor."
+      "line": "Oh, why, that would be you, doctor.",
+      "delivery": "dry, mocking"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Alright, alright! Whatever you say!"
+      "line": "Alright, alright! Whatever you say!",
+      "delivery": "flustered"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -752,15 +827,18 @@
     },
     {
       "character": "Player",
-      "line": "Oh yes, I'm sure that a man that stitches corpses together for a living would be a good judge of rationality."
+      "line": "Oh yes, I'm sure that a man that stitches corpses together for a living would be a good judge of rationality.",
+      "delivery": "sarcastic"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Did you come here to ask me something or just to insult me?"
+      "line": "Did you come here to ask me something or just to insult me?",
+      "delivery": "irritated"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "And my medical practice was my living. The corpses thing was just a hobby."
+      "line": "And my medical practice was my living. The corpses thing was just a hobby.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
@@ -812,11 +890,13 @@
     },
     {
       "character": "Player",
-      "line": "Er, some meat?"
+      "line": "Er, some meat?",
+      "delivery": "hesitant"
     },
     {
       "character": "Rufus",
-      "line": "Well, I didn't think you wanted to send shoes, frrriend; this is a meat shop. What I mean is, what KIND of meat do you want to send?"
+      "line": "Well, I didn't think you wanted to send shoes, frrriend; this is a meat shop. What I mean is, what KIND of meat do you want to send?",
+      "delivery": "good-natured, teasing"
     },
     {
       "character": "Player",
@@ -856,7 +936,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, I'm sure that I'll be able to find some good meat from somewhere."
+      "line": "Oh, I'm sure that I'll be able to find some good meat from somewhere.",
+      "delivery": "evasive"
     },
     {
       "character": "Rufus",
@@ -868,15 +949,18 @@
     },
     {
       "character": "Player",
-      "line": "What?"
+      "line": "What?",
+      "delivery": "startled"
     },
     {
       "character": "Player",
-      "line": "Err, I mean, what do you mean only a little alive? Of course a good werewolf like me will be sending the food live."
+      "line": "Err, I mean, what do you mean only a little alive? Of course a good werewolf like me will be sending the food live.",
+      "delivery": "flustered, bluffing"
     },
     {
       "character": "Rufus",
-      "line": "Ha, ha, ha! Of courrrse, of course!"
+      "line": "Ha, ha, ha! Of courrrse, of course!",
+      "delivery": "laughing heartily"
     },
     {
       "character": "Rufus",
@@ -884,15 +968,18 @@
     },
     {
       "character": "Player",
-      "line": "Errr, you know, something...special..."
+      "line": "Errr, you know, something...special...",
+      "delivery": "evasive, nervous"
     },
     {
       "character": "Rufus",
-      "line": "It's cats isn't it?"
+      "line": "It's cats isn't it?",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
-      "line": "Cats?"
+      "line": "Cats?",
+      "delivery": "bewildered"
     },
     {
       "character": "Rufus",
@@ -908,7 +995,8 @@
     },
     {
       "character": "Rufus",
-      "line": "No buts, frrriend, you get going. I know how trrricky those things are to grab!"
+      "line": "No buts, frrriend, you get going. I know how trrricky those things are to grab!",
+      "delivery": "cheerfully dismissive"
     },
     {
       "character": "Rufus",
@@ -936,15 +1024,18 @@
     },
     {
       "character": "Player",
-      "line": "Of course! I'll make some fake cats from wood and fur!"
+      "line": "Of course! I'll make some fake cats from wood and fur!",
+      "delivery": "inspired"
     },
     {
       "character": "Player",
-      "line": "With a little help from the Ring of Charos, he'll never know the difference."
+      "line": "With a little help from the Ring of Charos, he'll never know the difference.",
+      "delivery": "sly"
     },
     {
       "character": "Player",
-      "line": "It's just crazy enough to work..."
+      "line": "It's just crazy enough to work...",
+      "delivery": "scheming"
     },
     {
       "character": "Player",
@@ -984,15 +1075,18 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Cats? He thought you were shipping cats?"
+      "line": "Cats? He thought you were shipping cats?",
+      "delivery": "incredulous, amused"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Well, I don't know...if you were a werewolf, I can see you would strike him as THAT sort of person."
+      "line": "Well, I don't know...if you were a werewolf, I can see you would strike him as THAT sort of person.",
+      "delivery": "teasing"
     },
     {
       "character": "Player",
-      "line": "What? Wait? What sort of person?"
+      "line": "What? Wait? What sort of person?",
+      "delivery": "indignant"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1000,7 +1094,8 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Hahahahahahahahahaha! Cats...it all makes sense..."
+      "line": "Hahahahahahahahahaha! Cats...it all makes sense...",
+      "delivery": "manic laughter"
     },
     {
       "character": "Player",
@@ -1012,11 +1107,13 @@
     },
     {
       "character": "Player",
-      "line": "Fine. And if you keep up these cat remarks I'm going to make sure the crate is shipped upside down, and not give you any padding."
+      "line": "Fine. And if you keep up these cat remarks I'm going to make sure the crate is shipped upside down, and not give you any padding.",
+      "delivery": "irritated"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Fine. *cough* Catlover *cough*."
+      "line": "Fine. *cough* Catlover *cough*.",
+      "delivery": "teasing, under breath"
     },
     {
       "character": "Player",
@@ -1032,7 +1129,8 @@
     },
     {
       "character": "Player",
-      "line": "Be quiet or I'm going to post this thing direct to Canifis!"
+      "line": "Be quiet or I'm going to post this thing direct to Canifis!",
+      "delivery": "threatening"
     },
     {
       "character": "Player",
@@ -1044,15 +1142,18 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Hahaha - nothing - hehehehe - at all."
+      "line": "Hahaha - nothing - hehehehe - at all.",
+      "delivery": "stifling laughter"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Mwuhahahahahahaha! Oh, it's so apt, I can't stop laughing!"
+      "line": "Mwuhahahahahahaha! Oh, it's so apt, I can't stop laughing!",
+      "delivery": "manic laughter"
     },
     {
       "character": "Player",
-      "line": "That does it, I'm leaving some nails in the bottom of the crate for him to sit on..."
+      "line": "That does it, I'm leaving some nails in the bottom of the crate for him to sit on...",
+      "delivery": "muttering, vengeful"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1060,7 +1161,8 @@
     },
     {
       "character": "Player",
-      "line": "Urge to kill...rising!"
+      "line": "Urge to kill...rising!",
+      "delivery": "seething"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1076,7 +1178,8 @@
     },
     {
       "character": "Player",
-      "line": "Let's hope this works..."
+      "line": "Let's hope this works...",
+      "delivery": "apprehensive"
     },
     {
       "character": "Rufus",
@@ -1084,7 +1187,8 @@
     },
     {
       "character": "Rufus",
-      "line": "What are you doing herrre of all places? Don't you smell that weedy human, Fenkenstrrrain?"
+      "line": "What are you doing herrre of all places? Don't you smell that weedy human, Fenkenstrrrain?",
+      "delivery": "surprised, disgusted"
     },
     {
       "character": "Player",
@@ -1104,19 +1208,23 @@
     },
     {
       "character": "Rufus",
-      "line": "You know, they look verrry still..."
+      "line": "You know, they look verrry still...",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "They must be pining."
+      "line": "They must be pining.",
+      "delivery": "deadpan"
     },
     {
       "character": "Rufus",
-      "line": "Pining?"
+      "line": "Pining?",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
-      "line": "Yes. Pining."
+      "line": "Yes. Pining.",
+      "delivery": "deadpan"
     },
     {
       "character": "Rufus",
@@ -1124,7 +1232,8 @@
     },
     {
       "character": "Box of cats",
-      "line": "Err...meow?"
+      "line": "Err...meow?",
+      "delivery": "unconvincing, nervous"
     },
     {
       "character": "Player",
@@ -1176,7 +1285,8 @@
     },
     {
       "character": "Fenkenstrain in a box",
-      "line": "Has he gone?"
+      "line": "Has he gone?",
+      "delivery": "muffled, cautious"
     },
     {
       "character": "Player",
@@ -1184,7 +1294,8 @@
     },
     {
       "character": "Fenkenstrain in a box",
-      "line": "I liked the part where he asked you to keep your cat habit to yourself."
+      "line": "I liked the part where he asked you to keep your cat habit to yourself.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -1192,11 +1303,13 @@
     },
     {
       "character": "Player",
-      "line": "Gah...let's get this over with..."
+      "line": "Gah...let's get this over with...",
+      "delivery": "weary"
     },
     {
       "character": "Player",
-      "line": "It teleported...but didn't he say he was allergic..."
+      "line": "It teleported...but didn't he say he was allergic...",
+      "delivery": "worried"
     },
     {
       "character": "Player",
@@ -1216,7 +1329,8 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "You teleported me! Twice!"
+      "line": "You teleported me! Twice!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -1224,19 +1338,23 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "I told you I reacted badly to teleportation!"
+      "line": "I told you I reacted badly to teleportation!",
+      "delivery": "exasperated"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Well, on the plus side, there was plenty of water to clean my clothing with afterwards..."
+      "line": "Well, on the plus side, there was plenty of water to clean my clothing with afterwards...",
+      "delivery": "rueful"
     },
     {
       "character": "Player",
-      "line": "Too...much...information! Mind...reeling!"
+      "line": "Too...much...information! Mind...reeling!",
+      "delivery": "disgusted"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Aside from that, I seem to have arrived in one piece. I apologise for not believing you earlier. Brother Tranquility has told me the full story and I am prepared to help."
+      "line": "Aside from that, I seem to have arrived in one piece. I apologise for not believing you earlier. Brother Tranquility has told me the full story and I am prepared to help.",
+      "delivery": "contrite"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1256,11 +1374,13 @@
     },
     {
       "character": "Player",
-      "line": "Brain tongs? Skull staples?"
+      "line": "Brain tongs? Skull staples?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
-      "line": "Where do you suggest I get these things, 'Unusual Implements R Us'?"
+      "line": "Where do you suggest I get these things, 'Unusual Implements R Us'?",
+      "delivery": "sarcastic"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1284,15 +1404,18 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Hah, only if you can walk through wood! They sealed it with planks."
+      "line": "Hah, only if you can walk through wood! They sealed it with planks.",
+      "delivery": "mocking"
     },
     {
       "character": "Player",
-      "line": "Okay, that does it. I'll...I'll..."
+      "line": "Okay, that does it. I'll...I'll...",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
-      "line": "Wait a moment... That ship has cannons, right?"
+      "line": "Wait a moment... That ship has cannons, right?",
+      "delivery": "scheming"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1300,7 +1423,8 @@
     },
     {
       "character": "Player",
-      "line": "Then I'll storm on board, grab some gunpowder and blow those doors off their hinges!"
+      "line": "Then I'll storm on board, grab some gunpowder and blow those doors off their hinges!",
+      "delivery": "determined, excited"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1308,11 +1432,13 @@
     },
     {
       "character": "Player",
-      "line": "Oh, this is nothing. All in a day's work for me."
+      "line": "Oh, this is nothing. All in a day's work for me.",
+      "delivery": "breezy, confident"
     },
     {
       "character": "Player",
-      "line": "See you later, doctor. Whatever party they are planning in there, I have to go pick up my invitation."
+      "line": "See you later, doctor. Whatever party they are planning in there, I have to go pick up my invitation.",
+      "delivery": "dry, cocky"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1332,7 +1458,8 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Hmmm, size 3 staples. Interesting..."
+      "line": "Hmmm, size 3 staples. Interesting...",
+      "delivery": "clinical, intrigued"
     },
     {
       "character": "Player",
@@ -1388,15 +1515,18 @@
     },
     {
       "character": "Player",
-      "line": "I don't want my eyes anymore!"
+      "line": "I don't want my eyes anymore!",
+      "delivery": "horrified"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Pah, you have no stomach for science."
+      "line": "Pah, you have no stomach for science.",
+      "delivery": "scoffing"
     },
     {
       "character": "Player",
-      "line": "I think I'm going to be sick..."
+      "line": "I think I'm going to be sick...",
+      "delivery": "queasy"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1404,11 +1534,13 @@
     },
     {
       "character": "Player",
-      "line": "But, but, it fell on the floor!"
+      "line": "But, but, it fell on the floor!",
+      "delivery": "horrified"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Only a little, and the sawdust scraped right off with that cheese grater."
+      "line": "Only a little, and the sawdust scraped right off with that cheese grater.",
+      "delivery": "unbothered"
     },
     {
       "character": "Dr Fenkenstrain",
@@ -1432,11 +1564,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm sure that glowing review will endear you to them."
+      "line": "I'm sure that glowing review will endear you to them.",
+      "delivery": "sarcastic"
     },
     {
       "character": "Brother Tranquility",
-      "line": "Owwwww..."
+      "line": "Owwwww...",
+      "delivery": "groaning, pained"
     },
     {
       "character": "Player",
@@ -1444,7 +1578,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Hurts..."
+      "line": "Hurts...",
+      "delivery": "pained"
     },
     {
       "character": "Player",
@@ -1456,19 +1591,23 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Yeah...wow...spinny room..."
+      "line": "Yeah...wow...spinny room...",
+      "delivery": "woozy"
     },
     {
       "character": "Brother Tranquility",
-      "line": "W-wait...I have a bad feeling about this..."
+      "line": "W-wait...I have a bad feeling about this...",
+      "delivery": "uneasy"
     },
     {
       "character": "Brother Tranquility",
-      "line": "The pirates m-must have moved something large into the s-secret room to b-block it, and Mi-Gor mentioned he had a bodyguard."
+      "line": "The pirates m-must have moved something large into the s-secret room to b-block it, and Mi-Gor mentioned he had a bodyguard.",
+      "delivery": "groggy, stammering"
     },
     {
       "character": "Brother Tranquility",
-      "line": "You should be prepared for a f-fierce battle."
+      "line": "You should be prepared for a f-fierce battle.",
+      "delivery": "warning"
     },
     {
       "character": "Brother Tranquility",
@@ -1488,7 +1627,8 @@
     },
     {
       "character": "Monk",
-      "line": "Well...ow...at least...oof...I'm back in the right body..."
+      "line": "Well...ow...at least...oof...I'm back in the right body...",
+      "delivery": "pained, relieved"
     },
     {
       "character": "Monk",
@@ -1496,11 +1636,13 @@
     },
     {
       "character": "Monk",
-      "line": "Ow, ow...those staples sting a little..."
+      "line": "Ow, ow...those staples sting a little...",
+      "delivery": "wincing"
     },
     {
       "character": "Monk",
-      "line": "This is the worst hangover ever...and I didn't even get drunk!"
+      "line": "This is the worst hangover ever...and I didn't even get drunk!",
+      "delivery": "groaning"
     },
     {
       "character": "Player",
@@ -1508,35 +1650,43 @@
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze!* You! I will peel you like a grape for your interference!"
+      "line": "*Wheeze!* You! I will peel you like a grape for your interference!",
+      "delivery": "furious, menacing"
     },
     {
       "character": "Player",
-      "line": "That's pretty big talk for someone who can't even breathe properly!"
+      "line": "That's pretty big talk for someone who can't even breathe properly!",
+      "delivery": "taunting"
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze!* Filthy little insect! Wretched little vermin! Let us see how witty you feel after my barrel-chested bodyguard has beaten you to paste!"
+      "line": "*Wheeze!* Filthy little insect! Wretched little vermin! Let us see how witty you feel after my barrel-chested bodyguard has beaten you to paste!",
+      "delivery": "seething, menacing"
     },
     {
       "character": "Player",
-      "line": "Hah, I don't care how muscular your bodyguard is. I'll still defeat them!"
+      "line": "Hah, I don't care how muscular your bodyguard is. I'll still defeat them!",
+      "delivery": "defiant"
     },
     {
       "character": "Player",
-      "line": "What...what is that?"
+      "line": "What...what is that?",
+      "delivery": "alarmed"
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze!* Hekhekhekhek... 'That' is my bodyguard, the Barrelchest!"
+      "line": "*Wheeze!* Hekhekhekhek... 'That' is my bodyguard, the Barrelchest!",
+      "delivery": "gloating"
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze!* I was going to test his capabilities by letting him wipe out the monks, but I believe a little warm up is in order first."
+      "line": "*Wheeze!* I was going to test his capabilities by letting him wipe out the monks, but I believe a little warm up is in order first.",
+      "delivery": "menacing"
     },
     {
       "character": "Mi-Gor",
-      "line": "*Wheeze!* Barrelchest - Order: Annihilate that !"
+      "line": "*Wheeze!* Barrelchest - Order: Annihilate that !",
+      "delivery": "commanding, shouting"
     },
     {
       "character": "Player",
@@ -1548,11 +1698,13 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "It is a pity he escaped, but Saradomin's justice will find him in the end."
+      "line": "It is a pity he escaped, but Saradomin's justice will find him in the end.",
+      "delivery": "solemn"
     },
     {
       "character": "Player",
-      "line": "One thing does strike me as odd. He mentioned the name Rabid Jack, which I have heard in connection to zombie pirates before."
+      "line": "One thing does strike me as odd. He mentioned the name Rabid Jack, which I have heard in connection to zombie pirates before.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -1564,7 +1716,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "One of the pirates on the island said it while in the grip of a terrible fever. The others quietened him down and refused to answer any questions about it."
+      "line": "One of the pirates on the island said it while in the grip of a terrible fever. The others quietened him down and refused to answer any questions about it.",
+      "delivery": "ominous, quiet"
     },
     {
       "character": "Brother Tranquility",
@@ -1580,7 +1733,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Certainly! Saradomin blesses you for your valiant effort!"
+      "line": "Certainly! Saradomin blesses you for your valiant effort!",
+      "delivery": "warm, grateful"
     },
     {
       "character": "Brother Tranquility",
@@ -1588,7 +1742,8 @@
     },
     {
       "character": "Player",
-      "line": "Did you hear that?"
+      "line": "Did you hear that?",
+      "delivery": "wary"
     },
     {
       "character": "Brother Tranquility",
@@ -1596,7 +1751,8 @@
     },
     {
       "character": "Brother Tranquility",
-      "line": "Oh, that? Sounds a little like locusts."
+      "line": "Oh, that? Sounds a little like locusts.",
+      "delivery": "casual"
     },
     {
       "character": "Player",
@@ -1624,23 +1780,28 @@
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "After talking with these monks and seeing your efforts to save them...I'm starting to regret my past actions."
+      "line": "After talking with these monks and seeing your efforts to save them...I'm starting to regret my past actions.",
+      "delivery": "reflective"
     },
     {
       "character": "Player",
-      "line": "Well, we all make mistakes."
+      "line": "Well, we all make mistakes.",
+      "delivery": "gentle"
     },
     {
       "character": "Player",
-      "line": "Admittedly, most of us don't accidentally trip and sew a bunch of dead bodies together."
+      "line": "Admittedly, most of us don't accidentally trip and sew a bunch of dead bodies together.",
+      "delivery": "dry"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "I know...I think that my time here will be well spent trying to atone for what I did."
+      "line": "I know...I think that my time here will be well spent trying to atone for what I did.",
+      "delivery": "earnest"
     },
     {
       "character": "Dr Fenkenstrain",
-      "line": "Thank you for helping me see the error of my ways,."
+      "line": "Thank you for helping me see the error of my ways,.",
+      "delivery": "sincere, grateful"
     }
   ],
   "characters": [
