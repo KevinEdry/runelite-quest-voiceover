@@ -1,7 +1,9 @@
 import * as wmill from "windmill-client";
 import { createGitHubClient } from "../tools/git";
 import { openDialogsDatabase } from "../tools/database";
-import { createElevenLabsClient, type VoiceInfo } from "../tools/voice";
+import { createElevenLabsClient, type VoiceCategory, type VoiceInfo } from "../tools/voice";
+
+const DELETABLE_CATEGORIES: readonly VoiceCategory[] = ["generated", "cloned"];
 
 interface TranscriptCharacters {
   quest_name: string;
@@ -56,7 +58,8 @@ export async function main(
 
   const unused = voices.filter(
     (voice) =>
-      voice.category === "generated" &&
+      voice.category !== undefined &&
+      DELETABLE_CATEGORIES.includes(voice.category) &&
       !protectedVoiceIds.has(voice.voiceId) &&
       !needed.has(voice.name)
   );

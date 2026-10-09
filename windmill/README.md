@@ -197,8 +197,9 @@ that hasn't been voiced yet (a `transcripts/*.json` whose `quest_name` isn't in 
 voices used only by already-completed quests are removed.
 
 Safety rails:
-- Only **`generated`** voices (the ones this pipeline creates) are ever deleted — `premade`,
-  `professional`, and `cloned` voices are always preserved.
+- Only **`generated`** and **`cloned`** voices (the ones this pipeline creates) are ever
+  deleted, and only when their character appears in no not-yet-voiced quest — `premade` and
+  `professional` voices are always preserved.
 - The configured `player_male_voice_id` / `player_female_voice_id` are never deleted.
 - **Human approval before deleting** — after `analyze_unused_voices`, the flow suspends on an
   approval step showing the list. Approve to continue into the deletions, reject to cancel the
@@ -220,7 +221,8 @@ Why IVC specifically: PVC (professional cloning) isn't optimized for the express
 collects **~2 minutes** of their audio — IVC's sweet spot; more than ~3 min can *degrade* the clone,
 and file count doesn't matter, only total duration — and creates a voice named after them.
 
-IVC voices are category **`cloned`**, which `cleanup_voices` never deletes, so rebuilt voices stay put.
+IVC voices are category **`cloned`**; `cleanup_voices` only deletes them once their character no
+longer appears in any not-yet-voiced quest, so clones needed for upcoming quests stay put.
 Run it before generating a quest whose recurring characters lost their voices (it defaults to Blood
 Moon Rises' deleted recurring NPCs). Characters that already have a voice or lack audio are skipped,
 and it pauses for approval before creating anything.
