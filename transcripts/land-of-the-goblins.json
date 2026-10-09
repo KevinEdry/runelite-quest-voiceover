@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Grubfoot",
-      "line": "Please let me in Dorgesh-city!"
+      "line": "Please let me in Dorgesh-city!",
+      "delivery": "pleading"
     },
     {
       "character": "Mistag",
@@ -16,7 +17,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "! I so glad you here! You help me get into Dorgesh-city? I want talk to Chosen Commander."
+      "line": "! I so glad you here! You help me get into Dorgesh-city? I want talk to Chosen Commander.",
+      "delivery": "excited, hopeful"
     },
     {
       "character": "Player",
@@ -28,7 +30,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "Generals still not sure, but Grubfoot sure. She Chosen Commander!"
+      "line": "Generals still not sure, but Grubfoot sure. She Chosen Commander!",
+      "delivery": "earnest"
     },
     {
       "character": "Player",
@@ -44,7 +47,8 @@
     },
     {
       "character": "Mistag",
-      "line": "Hmm... If you are prepared to vouch for him, then I suppose we can trust him."
+      "line": "Hmm... If you are prepared to vouch for him, then I suppose we can trust him.",
+      "delivery": "considering"
     },
     {
       "character": "Mistag",
@@ -52,7 +56,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "Thank you, ! I promise I be no trouble."
+      "line": "Thank you, ! I promise I be no trouble.",
+      "delivery": "grateful, eager"
     },
     {
       "character": "Player",
@@ -92,15 +97,18 @@
     },
     {
       "character": "Grubfoot",
-      "line": "So big...so many Dorgesh-goblins..."
+      "line": "So big...so many Dorgesh-goblins...",
+      "delivery": "awestruck"
     },
     {
       "character": "Grubfoot",
-      "line": "Chosen Commander..."
+      "line": "Chosen Commander...",
+      "delivery": "reverent, hushed"
     },
     {
       "character": "Grubfoot",
-      "line": "You talk to her for me, ! I too nervous!"
+      "line": "You talk to her for me, ! I too nervous!",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
@@ -108,7 +116,8 @@
     },
     {
       "character": "Guard",
-      "line": "What are you doing in the city, surface goblin?"
+      "line": "What are you doing in the city, surface goblin?",
+      "delivery": "suspicious"
     },
     {
       "character": "Grubfoot",
@@ -132,7 +141,8 @@
     },
     {
       "character": "Guard",
-      "line": "A surface goblin in the city? That's against the rules!"
+      "line": "A surface goblin in the city? That's against the rules!",
+      "delivery": "stern, alarmed"
     },
     {
       "character": "Player",
@@ -140,19 +150,23 @@
     },
     {
       "character": "Guard",
-      "line": "Hmm... Carry on, then. But I'm keeping an eye on you."
+      "line": "Hmm... Carry on, then. But I'm keeping an eye on you.",
+      "delivery": "grudging, wary"
     },
     {
       "character": "Guard",
-      "line": "I'm keeping an eye on you, surface gobiln."
+      "line": "I'm keeping an eye on you, surface gobiln.",
+      "delivery": "wary"
     },
     {
       "character": "Grubfoot",
-      "line": "I not make any trouble!"
+      "line": "I not make any trouble!",
+      "delivery": "anxious, defensive"
     },
     {
       "character": "Cave goblin",
-      "line": "What happened to your eyes?"
+      "line": "What happened to your eyes?",
+      "delivery": "curious"
     },
     {
       "character": "Grubfoot",
@@ -164,7 +178,8 @@
     },
     {
       "character": "Cave goblin",
-      "line": "Oh! Welcome to the city, surface goblin! What are you doing down here?"
+      "line": "Oh! Welcome to the city, surface goblin! What are you doing down here?",
+      "delivery": "warm, curious"
     },
     {
       "character": "Grubfoot",
@@ -176,7 +191,8 @@
     },
     {
       "character": "Cave goblin",
-      "line": "Eek! A goblin!"
+      "line": "Eek! A goblin!",
+      "delivery": "frightened"
     },
     {
       "character": "Player",
@@ -196,7 +212,8 @@
     },
     {
       "character": "Cave goblin",
-      "line": "Zanik? I should hope that fool isn't in command of anything!"
+      "line": "Zanik? I should hope that fool isn't in command of anything!",
+      "delivery": "scornful"
     },
     {
       "character": "Cave goblin",
@@ -224,15 +241,18 @@
     },
     {
       "character": "Cave goblin",
-      "line": "The war god? Oh no!"
+      "line": "The war god? Oh no!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
-      "line": "It's okay! Zanik isn't in league with any war god."
+      "line": "It's okay! Zanik isn't in league with any war god.",
+      "delivery": "reassuring"
     },
     {
       "character": "Player",
-      "line": "Grubfoot, you probably shouldn't mention the Big High War God down here. He's not exactly popular with the Dorgeshuun."
+      "line": "Grubfoot, you probably shouldn't mention the Big High War God down here. He's not exactly popular with the Dorgeshuun.",
+      "delivery": "cautioning, quiet"
     },
     {
       "character": "Ur-tag",
@@ -292,7 +312,8 @@
     },
     {
       "character": "Zanik",
-      "line": "I certainly don't!"
+      "line": "I certainly don't!",
+      "delivery": "emphatic"
     },
     {
       "character": "Grubfoot",
@@ -308,11 +329,13 @@
     },
     {
       "character": "Grubfoot",
-      "line": "Most do, but not me. I see goblins kill goblins, humans kill goblins. I think, is this really best thing in life?"
+      "line": "Most do, but not me. I see goblins kill goblins, humans kill goblins. I think, is this really best thing in life?",
+      "delivery": "thoughtful, troubled"
     },
     {
       "character": "Grubfoot",
-      "line": "I not say that to other goblins. They kill me if they think I not like war."
+      "line": "I not say that to other goblins. They kill me if they think I not like war.",
+      "delivery": "fearful, hushed"
     },
     {
       "character": "Player",
@@ -348,7 +371,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "I have dream of far-off land. It like no land I ever see, but somehow I know it."
+      "line": "I have dream of far-off land. It like no land I ever see, but somehow I know it.",
+      "delivery": "wistful"
     },
     {
       "character": "Grubfoot",
@@ -360,7 +384,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "Then I see Chosen Commander. She stand at entrance to new land, she show way in. She lead all goblins on long journey to new land."
+      "line": "Then I see Chosen Commander. She stand at entrance to new land, she show way in. She lead all goblins on long journey to new land.",
+      "delivery": "reverent"
     },
     {
       "character": "Grubfoot",
@@ -388,7 +413,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "This dream not like other dream. It so real."
+      "line": "This dream not like other dream. It so real.",
+      "delivery": "earnest, insistent"
     },
     {
       "character": "Zanik",
@@ -396,15 +422,18 @@
     },
     {
       "character": "Player",
-      "line": "It's just a dream. It doesn't mean anything."
+      "line": "It's just a dream. It doesn't mean anything.",
+      "delivery": "dismissive"
     },
     {
       "character": "Grubfoot",
-      "line": "It not just dream! It true! I know in heart!"
+      "line": "It not just dream! It true! I know in heart!",
+      "delivery": "passionate, pleading"
     },
     {
       "character": "Oldak",
-      "line": "I'm sorry, Grubfoot, but wanting something badly doesn't make it true."
+      "line": "I'm sorry, Grubfoot, but wanting something badly doesn't make it true.",
+      "delivery": "gentle"
     },
     {
       "character": "Zanik",
@@ -412,15 +441,18 @@
     },
     {
       "character": "Player",
-      "line": "I think it must mean something."
+      "line": "I think it must mean something.",
+      "delivery": "reassuring"
     },
     {
       "character": "Grubfoot",
-      "line": "Thank you, ! I know you believe me!"
+      "line": "Thank you, ! I know you believe me!",
+      "delivery": "grateful, joyful"
     },
     {
       "character": "Player",
-      "line": "I don't know."
+      "line": "I don't know.",
+      "delivery": "uncertain"
     },
     {
       "character": "Zanik",
@@ -440,15 +472,18 @@
     },
     {
       "character": "Grubfoot",
-      "line": "I should not tell! Not in front of non-goblin!"
+      "line": "I should not tell! Not in front of non-goblin!",
+      "delivery": "anxious"
     },
     {
       "character": "Zanik",
-      "line": "is a friend. You can tell."
+      "line": "is a friend. You can tell.",
+      "delivery": "reassuring"
     },
     {
       "character": "Grubfoot",
-      "line": "I suppose..."
+      "line": "I suppose...",
+      "delivery": "hesitant"
     },
     {
       "character": "Grubfoot",
@@ -456,7 +491,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "But before I tell you where temple is, you must make promise. Promise not to tell any other non-goblins where temple is. If humans find out, maybe they attack, kill all goblins in temple."
+      "line": "But before I tell you where temple is, you must make promise. Promise not to tell any other non-goblins where temple is. If humans find out, maybe they attack, kill all goblins in temple.",
+      "delivery": "serious, earnest"
     },
     {
       "character": "Zanik",
@@ -476,7 +512,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "I trust you,. You save village from H.A.M. attack. Now I tell you where temple is."
+      "line": "I trust you,. You save village from H.A.M. attack. Now I tell you where temple is.",
+      "delivery": "trusting"
     },
     {
       "character": "Grubfoot",
@@ -488,7 +525,8 @@
     },
     {
       "character": "Grubfoot",
-      "line": "I can't go. I must get back to village before generals miss me."
+      "line": "I can't go. I must get back to village before generals miss me.",
+      "delivery": "anxious"
     },
     {
       "character": "Oldak",
@@ -552,11 +590,13 @@
     },
     {
       "character": "General Bentnoze",
-      "line": "Shut up Grubfoot!"
+      "line": "Shut up Grubfoot!",
+      "delivery": "shouting, angry"
     },
     {
       "character": "General Wartface",
-      "line": "Shut up Grubfoot!"
+      "line": "Shut up Grubfoot!",
+      "delivery": "shouting, angry"
     },
     {
       "character": "Zanik",
@@ -568,11 +608,13 @@
     },
     {
       "character": "Goblin guard (1)",
-      "line": "Who you?"
+      "line": "Who you?",
+      "delivery": "suspicious"
     },
     {
       "character": "Zanik",
-      "line": "I'm Zanik of the Dorgeshuun!"
+      "line": "I'm Zanik of the Dorgeshuun!",
+      "delivery": "proud"
     },
     {
       "character": "Goblin guard (2)",
@@ -588,7 +630,8 @@
     },
     {
       "character": "Zanik",
-      "line": "Yes please!"
+      "line": "Yes please!",
+      "delivery": "eager"
     },
     {
       "character": "Goblin guard (1)",
@@ -596,27 +639,33 @@
     },
     {
       "character": "Goblin guard (2)",
-      "line": "Human! Where you think you going?"
+      "line": "Human! Where you think you going?",
+      "delivery": "aggressive"
     },
     {
       "character": "Player",
-      "line": "But you said we could go in!"
+      "line": "But you said we could go in!",
+      "delivery": "indignant"
     },
     {
       "character": "Goblin guard (1)",
-      "line": "No, we say Dorgesh-goblin go in. You human, you go away!"
+      "line": "No, we say Dorgesh-goblin go in. You human, you go away!",
+      "delivery": "dismissive"
     },
     {
       "character": "Goblin guard (2)",
-      "line": "Humans not allowed! Only goblins allowed!"
+      "line": "Humans not allowed! Only goblins allowed!",
+      "delivery": "firm"
     },
     {
       "character": "Goblin guard (2)",
-      "line": "Go away, human! We already tell you not to come in!"
+      "line": "Go away, human! We already tell you not to come in!",
+      "delivery": "aggressive"
     },
     {
       "character": "Goblin guard (1)",
-      "line": "Only goblins allowed in. If you goblin, you come in. But you not goblin, you stupid stinky puny human."
+      "line": "Only goblins allowed in. If you goblin, you come in. But you not goblin, you stupid stinky puny human.",
+      "delivery": "mocking, contemptuous"
     },
     {
       "character": "Player",
@@ -632,11 +681,13 @@
     },
     {
       "character": "Oldak",
-      "line": "Perhaps you can't."
+      "line": "Perhaps you can't.",
+      "delivery": "flatly"
     },
     {
       "character": "Player",
-      "line": "What? But you said you had a way."
+      "line": "What? But you said you had a way.",
+      "delivery": "exasperated"
     },
     {
       "character": "Oldak",
@@ -676,7 +727,8 @@
     },
     {
       "character": "Makeover Mage",
-      "line": "Hello there! I am known as the Makeover Mage! I have spent many years researching magics that can change your physical appearance!"
+      "line": "Hello there! I am known as the Makeover Mage! I have spent many years researching magics that can change your physical appearance!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Makeover Mage",
@@ -688,7 +740,8 @@
     },
     {
       "character": "Makeover Mage",
-      "line": "Into a goblin? What do you want to turn into a goblin for?"
+      "line": "Into a goblin? What do you want to turn into a goblin for?",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
@@ -696,7 +749,8 @@
     },
     {
       "character": "Makeover Mage",
-      "line": "Really? What are they guarding?"
+      "line": "Really? What are they guarding?",
+      "delivery": "curious"
     },
     {
       "character": "Player",
@@ -704,7 +758,8 @@
     },
     {
       "character": "Makeover Mage",
-      "line": "Okay, okay, sorry I asked."
+      "line": "Okay, okay, sorry I asked.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -712,7 +767,8 @@
     },
     {
       "character": "Makeover Mage",
-      "line": "I think I know how, but I've never deliberately transmogrified someone into another species before. It's a very risky procedure, and I don't want to be held responsible if it goes wrong."
+      "line": "I think I know how, but I've never deliberately transmogrified someone into another species before. It's a very risky procedure, and I don't want to be held responsible if it goes wrong.",
+      "delivery": "cautious"
     },
     {
       "character": "Makeover Mage",
@@ -728,7 +784,8 @@
     },
     {
       "character": "Makeover Mage",
-      "line": "Now, once you've made the potion, remember that the transformation is very delicate. It will reverse itself if you are in direct sunlight or if you perform a strenuous activity like fighting."
+      "line": "Now, once you've made the potion, remember that the transformation is very delicate. It will reverse itself if you are in direct sunlight or if you perform a strenuous activity like fighting.",
+      "delivery": "cautioning"
     },
     {
       "character": "Makeover Mage",
@@ -740,11 +797,13 @@
     },
     {
       "character": "Player",
-      "line": "I just like goblins."
+      "line": "I just like goblins.",
+      "delivery": "deadpan"
     },
     {
       "character": "Makeover Mage",
-      "line": "What a strange thing to want to turn into."
+      "line": "What a strange thing to want to turn into.",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
@@ -764,7 +823,8 @@
     },
     {
       "character": "Oldak",
-      "line": "Excellent! You'd better head back to the temple and try this potion out."
+      "line": "Excellent! You'd better head back to the temple and try this potion out.",
+      "delivery": "encouraging"
     },
     {
       "character": "Goblin guard (2)",
@@ -776,15 +836,18 @@
     },
     {
       "character": "Goblin guard (2)",
-      "line": "Why you talk strange?"
+      "line": "Why you talk strange?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "Oh... Err..."
+      "line": "Oh... Err...",
+      "delivery": "flustered"
     },
     {
       "character": "Player",
-      "line": "Me want get into temple?"
+      "line": "Me want get into temple?",
+      "delivery": "tentative"
     },
     {
       "character": "Goblin guard (2)",
@@ -808,7 +871,8 @@
     },
     {
       "character": "Goblin guard (1)",
-      "line": "Ha ha! Me knew me guess right!"
+      "line": "Ha ha! Me knew me guess right!",
+      "delivery": "gleeful"
     },
     {
       "character": "Goblin guard (2)",
@@ -820,7 +884,8 @@
     },
     {
       "character": "Goblin guard (2)",
-      "line": "That thing you carrying! It look alive!"
+      "line": "That thing you carrying! It look alive!",
+      "delivery": "alarmed"
     },
     {
       "character": "Goblin guard (2)",
@@ -832,7 +897,8 @@
     },
     {
       "character": "Goblin guard (1)",
-      "line": "Me not like it."
+      "line": "Me not like it.",
+      "delivery": "wary"
     },
     {
       "character": "Goblin guard (2)",
@@ -872,31 +938,38 @@
     },
     {
       "character": "Goblin",
-      "line": "Me hear Dorgesh tribe come back from underground. Maybe now all tribes united, prophecy will come true! Chosen Commander come and lead all tribes to victory over world!"
+      "line": "Me hear Dorgesh tribe come back from underground. Maybe now all tribes united, prophecy will come true! Chosen Commander come and lead all tribes to victory over world!",
+      "delivery": "excited, fervent"
     },
     {
       "character": "Goblin",
-      "line": "Me hear there ghost in temple crypt! No one see it, but sometimes they hear it. 'Wooo... wooo...' it say."
+      "line": "Me hear there ghost in temple crypt! No one see it, but sometimes they hear it. 'Wooo... wooo...' it say.",
+      "delivery": "hushed, spooked"
     },
     {
       "character": "Goblin",
-      "line": "Me mighty warrior of Big High War God! Me find farmer working in field, and me attack! He so scared he run off! Then me trample on crops! This deeds of great warrior of Big High War God!"
+      "line": "Me mighty warrior of Big High War God! Me find farmer working in field, and me attack! He so scared he run off! Then me trample on crops! This deeds of great warrior of Big High War God!",
+      "delivery": "boastful"
     },
     {
       "character": "Goblin",
-      "line": "Me glad me finally get to secret goblin temple! Me walk long way to get here, always in danger of humans. But now me here, me safe! There no humans here!"
+      "line": "Me glad me finally get to secret goblin temple! Me walk long way to get here, always in danger of humans. But now me here, me safe! There no humans here!",
+      "delivery": "relieved"
     },
     {
       "character": "Goblin",
-      "line": "Me hate humans! When me leave temple, me go and kill many human children!"
+      "line": "Me hate humans! When me leave temple, me go and kill many human children!",
+      "delivery": "hateful"
     },
     {
       "character": "Goblin",
-      "line": "Shh! Not to talk in temple!"
+      "line": "Shh! Not to talk in temple!",
+      "delivery": "hushed, scolding"
     },
     {
       "character": "Goblin",
-      "line": "Praise Big High War God!"
+      "line": "Praise Big High War God!",
+      "delivery": "fervent"
     },
     {
       "character": "Player",
@@ -908,7 +981,8 @@
     },
     {
       "character": "Guard",
-      "line": "You go away! Only tribe come in here!"
+      "line": "You go away! Only tribe come in here!",
+      "delivery": "aggressive"
     },
     {
       "character": "Guard",
@@ -920,7 +994,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "May the Big High War God fill your soul with the glory of war!"
+      "line": "May the Big High War God fill your soul with the glory of war!",
+      "delivery": "booming, fervent"
     },
     {
       "character": "High Priest Bighead",
@@ -932,7 +1007,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "May the Big High War God fill your heart with courage to die for him!"
+      "line": "May the Big High War God fill your heart with courage to die for him!",
+      "delivery": "booming, zealous"
     },
     {
       "character": "High Priest Bighead",
@@ -956,7 +1032,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Chosen Commander? You have history mixed up. Chosen Commander come in future, not now. When Chosen Commander come, I know, and I not see any Chosen Commander today."
+      "line": "Chosen Commander? You have history mixed up. Chosen Commander come in future, not now. When Chosen Commander come, I know, and I not see any Chosen Commander today.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -968,7 +1045,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "She not just not know answers. Lots of goblins not know answers. She start shouting crazy ideas about how war is bad and we not need gods."
+      "line": "She not just not know answers. Lots of goblins not know answers. She start shouting crazy ideas about how war is bad and we not need gods.",
+      "delivery": "scornful"
     },
     {
       "character": "High Priest Bighead",
@@ -1000,11 +1078,13 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Some goblins say they go to witch-lady in Draynor for it. Me hope they beat up witch-lady and take dye! That way of Big High War God!"
+      "line": "Some goblins say they go to witch-lady in Draynor for it. Me hope they beat up witch-lady and take dye! That way of Big High War God!",
+      "delivery": "gleeful malice"
     },
     {
       "character": "High Priest Bighead",
-      "line": "You forgetful? I told you, guards put her in prison in Huzamogaarb enclave."
+      "line": "You forgetful? I told you, guards put her in prison in Huzamogaarb enclave.",
+      "delivery": "impatient"
     },
     {
       "character": "Oldak",
@@ -1012,19 +1092,23 @@
     },
     {
       "character": "Player",
-      "line": "The goblins there have imprisoned Zanik!"
+      "line": "The goblins there have imprisoned Zanik!",
+      "delivery": "urgent, alarmed"
     },
     {
       "character": "Oldak",
-      "line": "Oh no! You'd better find a way to get her out!"
+      "line": "Oh no! You'd better find a way to get her out!",
+      "delivery": "worried"
     },
     {
       "character": "Zanik",
-      "line": "What do you want now?"
+      "line": "What do you want now?",
+      "delivery": "irritated"
     },
     {
       "character": "Player",
-      "line": "Zanik! It's me, !"
+      "line": "Zanik! It's me, !",
+      "delivery": "urgent"
     },
     {
       "character": "Zanik",
@@ -1036,15 +1120,18 @@
     },
     {
       "character": "Zanik",
-      "line": "You did what?"
+      "line": "You did what?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
-      "line": "Yes... Definitely one of my more interesting choices."
+      "line": "Yes... Definitely one of my more interesting choices.",
+      "delivery": "dry amusement"
     },
     {
       "character": "Zanik",
-      "line": "I'll say. You can tell me all about it later. For now, I could do with a bit of a hand getting out of here."
+      "line": "I'll say. You can tell me all about it later. For now, I could do with a bit of a hand getting out of here.",
+      "delivery": "amused"
     },
     {
       "character": "Player",
@@ -1052,15 +1139,18 @@
     },
     {
       "character": "Zanik",
-      "line": "I managed to upset the high priest. He said he'd tell me about Yu'biusk if I passed a test on goblin religion. I don't think he liked my answers."
+      "line": "I managed to upset the high priest. He said he'd tell me about Yu'biusk if I passed a test on goblin religion. I don't think he liked my answers.",
+      "delivery": "rueful"
     },
     {
       "character": "Player",
-      "line": "Clearly. Well luckily I have a moving-over-distance sphere here. You can use it to teleport out."
+      "line": "Clearly. Well luckily I have a moving-over-distance sphere here. You can use it to teleport out.",
+      "delivery": "dry"
     },
     {
       "character": "Zanik",
-      "line": "Thank you, ! I'm sorry to leave you, but it looks like you'll have to find out about Yu'biusk on your own. Hopefully you have better luck with that high priest than I did."
+      "line": "Thank you, ! I'm sorry to leave you, but it looks like you'll have to find out about Yu'biusk on your own. Hopefully you have better luck with that high priest than I did.",
+      "delivery": "grateful, apologetic"
     },
     {
       "character": "Player",
@@ -1100,7 +1190,8 @@
     },
     {
       "character": "Zanik",
-      "line": "Don't give up! I know you'll work it out."
+      "line": "Don't give up! I know you'll work it out.",
+      "delivery": "encouraging"
     },
     {
       "character": "Oldak",
@@ -1120,7 +1211,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "That knowledge not for ordinary goblin. Only those who understand ways of Big High War God may learn of Yu'biusk."
+      "line": "That knowledge not for ordinary goblin. Only those who understand ways of Big High War God may learn of Yu'biusk.",
+      "delivery": "lofty"
     },
     {
       "character": "Player",
@@ -1172,7 +1264,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Fool! Heretic! You guilty of sin of pride! Goblins teach selves nothing. All good we have come from Big High War God!"
+      "line": "Fool! Heretic! You guilty of sin of pride! Goblins teach selves nothing. All good we have come from Big High War God!",
+      "delivery": "furious"
     },
     {
       "character": "Player",
@@ -1196,7 +1289,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Naturally? Let me tell you what goblins are naturally! We tiny, we weak, we cowardly, we love peace and not war!"
+      "line": "Naturally? Let me tell you what goblins are naturally! We tiny, we weak, we cowardly, we love peace and not war!",
+      "delivery": "scornful"
     },
     {
       "character": "High Priest Bighead",
@@ -1216,7 +1310,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "What other quality important, except that we great warriors? Get away, silly goblin! Too much drink muddle brain and give you strange thoughts!"
+      "line": "What other quality important, except that we great warriors? Get away, silly goblin! Too much drink muddle brain and give you strange thoughts!",
+      "delivery": "dismissive, mocking"
     },
     {
       "character": "Player",
@@ -1244,7 +1339,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "What? Where you hear that? You think for yourself, you maybe think stupid, dangerous thoughts. You maybe think war not good, or Big High War God not best god."
+      "line": "What? Where you hear that? You think for yourself, you maybe think stupid, dangerous thoughts. You maybe think war not good, or Big High War God not best god.",
+      "delivery": "alarmed"
     },
     {
       "character": "High Priest Bighead",
@@ -1296,7 +1392,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "That right! And war will end in victory and victory last forever!"
+      "line": "That right! And war will end in victory and victory last forever!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
@@ -1304,7 +1401,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Destroy world? Why Big High War God want to do that? Then there be no goblins to fight for him!"
+      "line": "Destroy world? Why Big High War God want to do that? Then there be no goblins to fight for him!",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -1312,7 +1410,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Ha ha ha! Big High War God not need send commander to do that! Only reason goblins not fight more is prophet Hopespear say not."
+      "line": "Ha ha ha! Big High War God not need send commander to do that! Only reason goblins not fight more is prophet Hopespear say not.",
+      "delivery": "mocking, laughing"
     },
     {
       "character": "Player",
@@ -1328,7 +1427,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "You call me stupid? Big High War God make goblins perfect! Big High War God tell us not make plans, but if we make plans, they be best plans ever!"
+      "line": "You call me stupid? Big High War God make goblins perfect! Big High War God tell us not make plans, but if we make plans, they be best plans ever!",
+      "delivery": "offended"
     },
     {
       "character": "Player",
@@ -1336,11 +1436,13 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "How dare you? You insult goblin race in holy temple! We mighty warriors because we worship Big High War God!"
+      "line": "How dare you? You insult goblin race in holy temple! We mighty warriors because we worship Big High War God!",
+      "delivery": "outraged"
     },
     {
       "character": "High Priest Bighead",
-      "line": "Goblins like you, who say we not strong, you are thing that make us weak! Never doubt, never question, never think! That way of Big High War God."
+      "line": "Goblins like you, who say we not strong, you are thing that make us weak! Never doubt, never question, never think! That way of Big High War God.",
+      "delivery": "fervent"
     },
     {
       "character": "Player",
@@ -1364,7 +1466,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "You not understand Big High War God at all! You like filthy stinking cave goblin! Go away and think on how stupid you are!"
+      "line": "You not understand Big High War God at all! You like filthy stinking cave goblin! Go away and think on how stupid you are!",
+      "delivery": "contemptuous"
     },
     {
       "character": "Player",
@@ -1384,7 +1487,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Convert them? You stupid goblin! You not even know name of god. He Big High WAR God! We kill enemies, not convert!"
+      "line": "Convert them? You stupid goblin! You not even know name of god. He Big High WAR God! We kill enemies, not convert!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -1392,7 +1496,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "That good. True goblin not want to understand. Fight and die for glory of Big High War God. Never ask question or have thought."
+      "line": "That good. True goblin not want to understand. Fight and die for glory of Big High War God. Never ask question or have thought.",
+      "delivery": "approving"
     },
     {
       "character": "Player",
@@ -1412,7 +1517,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "You have passed test. Now I answer your questions."
+      "line": "You have passed test. Now I answer your questions.",
+      "delivery": "solemn"
     },
     {
       "character": "High Priest Bighead",
@@ -1444,7 +1550,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "He old high priest in temple crypt behind me! He dead!"
+      "line": "He old high priest in temple crypt behind me! He dead!",
+      "delivery": "blunt"
     },
     {
       "character": "Player",
@@ -1452,15 +1559,18 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "Maybe me ask him next time me see him."
+      "line": "Maybe me ask him next time me see him.",
+      "delivery": "casual"
     },
     {
       "character": "Player",
-      "line": "What? But you said he dead!"
+      "line": "What? But you said he dead!",
+      "delivery": "confused"
     },
     {
       "character": "High Priest Bighead",
-      "line": "Ha ha! You not know, but since you pass test, me tell you."
+      "line": "Ha ha! You not know, but since you pass test, me tell you.",
+      "delivery": "amused"
     },
     {
       "character": "High Priest Bighead",
@@ -1488,7 +1598,8 @@
     },
     {
       "character": "High Priest Bighead",
-      "line": "You ask big question. Big High War God's true name not for normal goblin minds, but since you pass test, I tell you. His true name Bandos."
+      "line": "You ask big question. Big High War God's true name not for normal goblin minds, but since you pass test, I tell you. His true name Bandos.",
+      "delivery": "hushed, reverent"
     },
     {
       "character": "High Priest Bighead",
@@ -1564,7 +1675,8 @@
     },
     {
       "character": "Aggie",
-      "line": "But white dye? There's no such thing!"
+      "line": "But white dye? There's no such thing!",
+      "delivery": "emphatic"
     },
     {
       "character": "Player",
@@ -1596,11 +1708,13 @@
     },
     {
       "character": "Aggie",
-      "line": "You're welcome!"
+      "line": "You're welcome!",
+      "delivery": "cheerful"
     },
     {
       "character": "Morris",
-      "line": "Competition pass please."
+      "line": "Competition pass please.",
+      "delivery": "bored"
     },
     {
       "character": "Morris",
@@ -1636,7 +1750,8 @@
     },
     {
       "character": "Aggie",
-      "line": "What goblin mail?"
+      "line": "What goblin mail?",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
@@ -1644,15 +1759,18 @@
     },
     {
       "character": "Aggie",
-      "line": "That goblin mail is already white."
+      "line": "That goblin mail is already white.",
+      "delivery": "dry amusement"
     },
     {
       "character": "Player",
-      "line": "Oh yes, so it is."
+      "line": "Oh yes, so it is.",
+      "delivery": "sheepish"
     },
     {
       "character": "Priest",
-      "line": "Listen! Whoever does not worship Big High War God, whether great or small, goblin or other, must die!"
+      "line": "Listen! Whoever does not worship Big High War God, whether great or small, goblin or other, must die!",
+      "delivery": "thundering, fervent"
     },
     {
       "character": "Priest",
@@ -1660,11 +1778,13 @@
     },
     {
       "character": "Priest",
-      "line": "Kill peoples who worship different gods! Smite them! Destroy them! Do not show mercy!"
+      "line": "Kill peoples who worship different gods! Smite them! Destroy them! Do not show mercy!",
+      "delivery": "raging"
     },
     {
       "character": "Priest",
-      "line": "Enemies must die! Doubters must die! These words of Big High War God!"
+      "line": "Enemies must die! Doubters must die! These words of Big High War God!",
+      "delivery": "fervent"
     },
     {
       "character": "Priest",
@@ -1676,7 +1796,8 @@
     },
     {
       "character": "Priest",
-      "line": "Soon Big High War God send Chosen Commander!"
+      "line": "Soon Big High War God send Chosen Commander!",
+      "delivery": "impassioned"
     },
     {
       "character": "Priest",
@@ -1688,7 +1809,8 @@
     },
     {
       "character": "Priest",
-      "line": "Then Big High War God himself return and sit on throne of bronze and rull over all!"
+      "line": "Then Big High War God himself return and sit on throne of bronze and rull over all!",
+      "delivery": "grandiose"
     },
     {
       "character": "Priest",
@@ -1700,7 +1822,8 @@
     },
     {
       "character": "Priest",
-      "line": "The he look at them, and curse them in name of Big High War God. Then monsters come and tear children to pieces!"
+      "line": "The he look at them, and curse them in name of Big High War God. Then monsters come and tear children to pieces!",
+      "delivery": "gleeful menace"
     },
     {
       "character": "Priest",
@@ -1724,15 +1847,18 @@
     },
     {
       "character": "Priest",
-      "line": "Big High War God himself lead us into battle! Then we crush enemies, we burn cities to ground, we kill every man, woman and child! Even animals!"
+      "line": "Big High War God himself lead us into battle! Then we crush enemies, we burn cities to ground, we kill every man, woman and child! Even animals!",
+      "delivery": "bloodthirsty"
     },
     {
       "character": "Priest",
-      "line": "Some enemies, we kill them so bad, now there no trace and no one ever remember them! That what happen to enemies of Big High War God!"
+      "line": "Some enemies, we kill them so bad, now there no trace and no one ever remember them! That what happen to enemies of Big High War God!",
+      "delivery": "menacing"
     },
     {
       "character": "Snothead",
-      "line": "You beat me. What you want?"
+      "line": "You beat me. What you want?",
+      "delivery": "curt, cold"
     },
     {
       "character": "Snothead",
@@ -1752,7 +1878,8 @@
     },
     {
       "character": "Snothead",
-      "line": "You not goblin. Not high priest. So me attack."
+      "line": "You not goblin. Not high priest. So me attack.",
+      "delivery": "flat"
     },
     {
       "character": "Player",
@@ -1760,7 +1887,8 @@
     },
     {
       "character": "Snothead",
-      "line": "It dark. Very dark. And cold."
+      "line": "It dark. Very dark. And cold.",
+      "delivery": "hollow, bleak"
     },
     {
       "character": "Player",
@@ -1768,7 +1896,8 @@
     },
     {
       "character": "Snailfeet",
-      "line": "You beaten me. Ask your questions."
+      "line": "You beaten me. Ask your questions.",
+      "delivery": "weary, hollow"
     },
     {
       "character": "Snailfeet",
@@ -1780,11 +1909,13 @@
     },
     {
       "character": "Snailfeet",
-      "line": "You not goblin high priest! Me only answer questions for goblin high priest!"
+      "line": "You not goblin high priest! Me only answer questions for goblin high priest!",
+      "delivery": "indignant"
     },
     {
       "character": "Snailfeet",
-      "line": "Why me here? Me die in battle, fighting humans! Why me not in Yu'biusk?"
+      "line": "Why me here? Me die in battle, fighting humans! Why me not in Yu'biusk?",
+      "delivery": "confused, anguished"
     },
     {
       "character": "Mosschin",
@@ -1804,11 +1935,13 @@
     },
     {
       "character": "Mosschin",
-      "line": "I only answer questions for those who are worthy! I had to test you!"
+      "line": "I only answer questions for those who are worthy! I had to test you!",
+      "delivery": "proud"
     },
     {
       "character": "Mosschin",
-      "line": "All alone. I thought my soul would travel to Yu'biusk. But perhaps I was not worthy."
+      "line": "All alone. I thought my soul would travel to Yu'biusk. But perhaps I was not worthy.",
+      "delivery": "melancholy"
     },
     {
       "character": "Mosschin",
@@ -1840,11 +1973,13 @@
     },
     {
       "character": "Redeyes",
-      "line": "I had thought perhaps I would go to Yu'biusk, to fight in endless battles for the Big High War God. Instead, there is only endless sleep."
+      "line": "I had thought perhaps I would go to Yu'biusk, to fight in endless battles for the Big High War God. Instead, there is only endless sleep.",
+      "delivery": "mournful"
     },
     {
       "character": "Redeyes",
-      "line": "Good luck in your quest, human."
+      "line": "Good luck in your quest, human.",
+      "delivery": "solemn"
     },
     {
       "character": "Strongbones",
@@ -1872,15 +2007,18 @@
     },
     {
       "character": "Strongbones",
-      "line": "I cannot tell you. I no longer remember what it is like to be alive."
+      "line": "I cannot tell you. I no longer remember what it is like to be alive.",
+      "delivery": "hollow, distant"
     },
     {
       "character": "Strongbones",
-      "line": "Goodbye, human. I am sure that the Chosen Commander will find what she is looking for when you bring her to Yu'biusk."
+      "line": "Goodbye, human. I am sure that the Chosen Commander will find what she is looking for when you bring her to Yu'biusk.",
+      "delivery": "grave, knowing"
     },
     {
       "character": "Player",
-      "line": "Wait... What?"
+      "line": "Wait... What?",
+      "delivery": "startled"
     },
     {
       "character": "Player",
@@ -1888,7 +2026,8 @@
     },
     {
       "character": "Oldak",
-      "line": "Another plane? You mean goblins aren't native to Gielinor? That's remarkable. Think of the historical implications..."
+      "line": "Another plane? You mean goblins aren't native to Gielinor? That's remarkable. Think of the historical implications...",
+      "delivery": "fascinated, excited"
     },
     {
       "character": "Player",
@@ -1896,7 +2035,8 @@
     },
     {
       "character": "Zanik",
-      "line": "I know! The fungus ring in the southern caves! Didn't you say that had magical properties, Oldak?"
+      "line": "I know! The fungus ring in the southern caves! Didn't you say that had magical properties, Oldak?",
+      "delivery": "excited"
     },
     {
       "character": "Oldak",
@@ -1908,7 +2048,8 @@
     },
     {
       "character": "Zanik",
-      "line": "Well that confirms it then. This fungus ring might be just what we need!"
+      "line": "Well that confirms it then. This fungus ring might be just what we need!",
+      "delivery": "excited"
     },
     {
       "character": "Oldak",
@@ -1928,11 +2069,13 @@
     },
     {
       "character": "Zanik",
-      "line": "I can't believe this! The goblin homeland! This could be somewhere safe for goblins like Grubfoot. A new home, free of war!"
+      "line": "I can't believe this! The goblin homeland! This could be somewhere safe for goblins like Grubfoot. A new home, free of war!",
+      "delivery": "elated, hopeful"
     },
     {
       "character": "Zanik",
-      "line": "Could this be it, ? Could this be my destiny? Could this be why I was marked by the Tears of Guthix?"
+      "line": "Could this be it, ? Could this be my destiny? Could this be why I was marked by the Tears of Guthix?",
+      "delivery": "wondering, hopeful"
     },
     {
       "character": "Oldak",
@@ -1952,7 +2095,8 @@
     },
     {
       "character": "Zanik",
-      "line": "Hey,. This is incredible! I can't believe we're really going to go to Yu'biusk, the Land of the Goblins!"
+      "line": "Hey,. This is incredible! I can't believe we're really going to go to Yu'biusk, the Land of the Goblins!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -1988,23 +2132,28 @@
     },
     {
       "character": "Zanik",
-      "line": "Oldak! It's working!"
+      "line": "Oldak! It's working!",
+      "delivery": "thrilled"
     },
     {
       "character": "Oldak",
-      "line": "Something must have gone wrong. This isn't what Grubfoot described."
+      "line": "Something must have gone wrong. This isn't what Grubfoot described.",
+      "delivery": "concerned"
     },
     {
       "character": "Zanik",
-      "line": "No, no, no..."
+      "line": "No, no, no...",
+      "delivery": "dismayed"
     },
     {
       "character": "Oldak",
-      "line": "I don't understand. What happened here?"
+      "line": "I don't understand. What happened here?",
+      "delivery": "bewildered"
     },
     {
       "character": "Zanik",
-      "line": "We must be missing something. This can't be it..."
+      "line": "We must be missing something. This can't be it...",
+      "delivery": "desperate, denial"
     },
     {
       "character": "Player",
@@ -2032,7 +2181,8 @@
     },
     {
       "character": "Zanik",
-      "line": "There must be something around here. It can't all be dead... can it?"
+      "line": "There must be something around here. It can't all be dead... can it?",
+      "delivery": "uneasy"
     },
     {
       "character": "Player",
@@ -2040,7 +2190,8 @@
     },
     {
       "character": "Zanik",
-      "line": "This is really it, isn't it? Grubfoot's dream was just that, a dream. All Yu'biusk is now is an empty wasteland."
+      "line": "This is really it, isn't it? Grubfoot's dream was just that, a dream. All Yu'biusk is now is an empty wasteland.",
+      "delivery": "crushed, resigned"
     },
     {
       "character": "Player",
@@ -2048,63 +2199,78 @@
     },
     {
       "character": "Zanik",
-      "line": "The Big High War God happened."
+      "line": "The Big High War God happened.",
+      "delivery": "bitter"
     },
     {
       "character": "Zanik",
-      "line": "I thought this might be it,. I really did. I thought this place might finally give me some answers, but it's just another dead end."
+      "line": "I thought this might be it,. I really did. I thought this place might finally give me some answers, but it's just another dead end.",
+      "delivery": "disheartened"
     },
     {
       "character": "Player",
-      "line": "I'm sorry, Zanik."
+      "line": "I'm sorry, Zanik.",
+      "delivery": "gentle, sympathetic"
     },
     {
       "character": "Zanik",
-      "line": "Let's have a look at what this box is, then let's go home. There's nothing here for anyone any more."
+      "line": "Let's have a look at what this box is, then let's go home. There's nothing here for anyone any more.",
+      "delivery": "resigned"
     },
     {
       "character": "Zanik",
-      "line": "What's happening? !"
+      "line": "What's happening? !",
+      "delivery": "panicked"
     },
     {
       "character": "Player",
-      "line": "Zanik!"
+      "line": "Zanik!",
+      "delivery": "shouting, alarmed"
     },
     {
       "character": "Oldak",
-      "line": "The portal is closing! You've got to get back now!"
+      "line": "The portal is closing! You've got to get back now!",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
-      "line": "Zanik..."
+      "line": "Zanik...",
+      "delivery": "stunned, grief"
     },
     {
       "character": "Oldak",
-      "line": "? What's going on? Where's Zanik?"
+      "line": "? What's going on? Where's Zanik?",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
-      "line": "She's gone."
+      "line": "She's gone.",
+      "delivery": "stunned, hollow"
     },
     {
       "character": "Oldak",
-      "line": "Gone? What do you mean?"
+      "line": "Gone? What do you mean?",
+      "delivery": "disbelief"
     },
     {
       "character": "Player",
-      "line": "I don't know... She just disappeared..."
+      "line": "I don't know... She just disappeared...",
+      "delivery": "shaken"
     },
     {
       "character": "Oldak",
-      "line": "No... Zanik..."
+      "line": "No... Zanik...",
+      "delivery": "grief, quiet"
     },
     {
       "character": "Oldak",
-      "line": "The portal... We have to go."
+      "line": "The portal... We have to go.",
+      "delivery": "urgent, shaken"
     },
     {
       "character": "Player",
-      "line": "I'll find you Zanik."
+      "line": "I'll find you Zanik.",
+      "delivery": "determined, quiet"
     },
     {
       "character": "Oldak",
@@ -2116,7 +2282,8 @@
     },
     {
       "character": "Oldak",
-      "line": "We can only assume she's still in Yu'biusk somewhere. Problem is, I haven't been able to get the fungus ring machine working again."
+      "line": "We can only assume she's still in Yu'biusk somewhere. Problem is, I haven't been able to get the fungus ring machine working again.",
+      "delivery": "subdued"
     },
     {
       "character": "Player",
@@ -2136,7 +2303,8 @@
     },
     {
       "character": "Oldak",
-      "line": "You did? Did you find anything there? Was there any trace of Zanik?"
+      "line": "You did? Did you find anything there? Was there any trace of Zanik?",
+      "delivery": "hopeful, anxious"
     },
     {
       "character": "Player",
@@ -2144,39 +2312,48 @@
     },
     {
       "character": "Oldak",
-      "line": "Then it's just as I feared. It seems that whatever's happened to Zanik, wherever she is... she's on her own."
+      "line": "Then it's just as I feared. It seems that whatever's happened to Zanik, wherever she is... she's on her own.",
+      "delivery": "grim, sorrowful"
     },
     {
       "character": "Player",
-      "line": "I will find her, Oldak."
+      "line": "I will find her, Oldak.",
+      "delivery": "resolute"
     },
     {
       "character": "Oldak",
-      "line": "I know you will,."
+      "line": "I know you will,.",
+      "delivery": "quiet, warm"
     },
     {
       "character": "Player",
-      "line": "Yes, but it wasn't how you'd dreamed. It was a devastated wasteland."
+      "line": "Yes, but it wasn't how you'd dreamed. It was a devastated wasteland.",
+      "delivery": "gentle, sad"
     },
     {
       "character": "Grubfoot",
-      "line": "Yu'biusk... Land of Goblins... All gone?"
+      "line": "Yu'biusk... Land of Goblins... All gone?",
+      "delivery": "heartbroken"
     },
     {
       "character": "Player",
-      "line": "I'm afraid so. And that's not all. Zanik vanished there."
+      "line": "I'm afraid so. And that's not all. Zanik vanished there.",
+      "delivery": "somber"
     },
     {
       "character": "Grubfoot",
-      "line": "Chosen Commander? She vanish?"
+      "line": "Chosen Commander? She vanish?",
+      "delivery": "shocked, dismayed"
     },
     {
       "character": "Player",
-      "line": "Yes. A bright white light picked her up and then she was gone."
+      "line": "Yes. A bright white light picked her up and then she was gone.",
+      "delivery": "subdued"
     },
     {
       "character": "Grubfoot",
-      "line": "She not gone. I sure of it. Someday she return."
+      "line": "She not gone. I sure of it. Someday she return.",
+      "delivery": "quiet conviction, hopeful"
     }
   ],
   "characters": [
