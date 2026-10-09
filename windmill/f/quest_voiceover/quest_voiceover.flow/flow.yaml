@@ -8,7 +8,8 @@ description: >-
   commits the audio to a feature branch off sounds (one commit per line), writes the new
   dialog rows to a matching feature branch off the database branch, and opens a pull request
   for each (audio to sounds, rows to database). Set dryRun to synthesise without committing;
-  set resume + the existing featureBranch to continue an interrupted run.
+  set resume + the existing featureBranch to continue an interrupted run; set regenerate to
+  re-synthesise every line and overwrite the existing audio (e.g. to re-voice on a new model).
 value:
   modules:
     - id: load_transcript
@@ -67,6 +68,9 @@ value:
           playerFemaleVoiceId:
             type: javascript
             expr: flow_input.playerFemaleVoiceId
+          regenerate:
+            type: javascript
+            expr: flow_input.regenerate
         path: f/quest_voiceover/plan_generation
     - id: approve_generation
       summary: Review + approve
@@ -168,6 +172,9 @@ value:
                 dryRun:
                   type: javascript
                   expr: flow_input.dryRun
+                regenerate:
+                  type: javascript
+                  expr: flow_input.regenerate
               path: f/quest_voiceover/generate_line
         iterator:
           type: javascript
@@ -252,6 +259,7 @@ schema:
     - targetSeconds
     - dryRun
     - resume
+    - regenerate
     - featureBranch
     - playerMaleVoiceId
     - playerFemaleVoiceId
@@ -282,6 +290,10 @@ schema:
       type: boolean
       default: false
       description: Skip lines already committed to this feature branch in a prior attempt (set featureBranch to the existing branch).
+    regenerate:
+      type: boolean
+      default: false
+      description: Re-synthesise every line and overwrite the existing audio on GitHub, instead of skipping clips that already exist. Use to re-voice a quest (e.g. on a new model or with new delivery tags). ElevenLabs is billed for every line.
     featureBranch:
       type: string
       description: Branch to commit audio to. Leave blank to auto-name voiceover-<quest>-<date>-<time> (reused if it already exists).

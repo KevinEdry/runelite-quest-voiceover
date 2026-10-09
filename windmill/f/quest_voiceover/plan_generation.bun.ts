@@ -42,7 +42,8 @@ export async function main(
   soundsBranch = "sounds",
   featureBranch = "",
   playerMaleVoiceId?: string,
-  playerFemaleVoiceId?: string
+  playerFemaleVoiceId?: string,
+  regenerate = false
 ): Promise<QuestPlan> {
   const maleVoiceId = playerMaleVoiceId || (await wmill.getVariable("f/quest_voiceover/player_male_voice_id"));
   const femaleVoiceId = playerFemaleVoiceId || (await wmill.getVariable("f/quest_voiceover/player_female_voice_id"));
@@ -86,7 +87,7 @@ export async function main(
   // One recursive tree listing replaces a Contents API request per clip, which on a large
   // quest exhausted the REST rate limit.
   const branch = featureBranch.length > 0 ? featureBranch : soundsBranch;
-  const present = await github.listBranchFiles(branch);
+  const present = regenerate ? new Set<string>() : await github.listBranchFiles(branch);
   let alreadyGenerated = 0;
   let estimatedCharacters = 0;
   for (const target of targets) {
