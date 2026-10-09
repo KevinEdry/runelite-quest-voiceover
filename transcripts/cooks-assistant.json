@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Cook",
-      "line": "What am I to do?"
+      "line": "What am I to do?",
+      "delivery": "anxious, fretting"
     },
     {
       "character": "Player",
@@ -12,11 +13,13 @@
     },
     {
       "character": "Cook",
-      "line": "Oh dear, oh dear, oh dear, I'm in a terrible terrible mess! It's the Duke's birthday today, and I should be making him a lovely big birthday cake."
+      "line": "Oh dear, oh dear, oh dear, I'm in a terrible terrible mess! It's the Duke's birthday today, and I should be making him a lovely big birthday cake.",
+      "delivery": "distressed, panicked"
     },
     {
       "character": "Cook",
-      "line": "I've forgotten to buy the ingredients. I'll never get them in time now. He'll sack me! What will I do? I have four children and a goat to look after. Would you help me? Please?"
+      "line": "I've forgotten to buy the ingredients. I'll never get them in time now. He'll sack me! What will I do? I have four children and a goat to look after. Would you help me? Please?",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Player",
@@ -24,7 +27,8 @@
     },
     {
       "character": "Cook",
-      "line": "Oh thank you, thank you. I need milk, an egg and flour. I'd be very grateful if you can get them for me."
+      "line": "Oh thank you, thank you. I need milk, an egg and flour. I'd be very grateful if you can get them for me.",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",
@@ -32,19 +36,23 @@
     },
     {
       "character": "Cook",
-      "line": "That's an odd coincidence... Were you planning on making a cake too?"
+      "line": "That's an odd coincidence... Were you planning on making a cake too?",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
-      "line": "Not exactly. I just had an odd feeling you might be needing these ingredients. If I see a cook, I presume there's food of some kind! Lucky guess I suppose."
+      "line": "Not exactly. I just had an odd feeling you might be needing these ingredients. If I see a cook, I presume there's food of some kind! Lucky guess I suppose.",
+      "delivery": "sheepish"
     },
     {
       "character": "Cook",
-      "line": "Well thank you! Hand them over, please."
+      "line": "Well thank you! Hand them over, please.",
+      "delivery": "grateful"
     },
     {
       "character": "Cook",
-      "line": "You've brought me everything I need! I am saved! Thank you!"
+      "line": "You've brought me everything I need! I am saved! Thank you!",
+      "delivery": "overjoyed, relieved"
     },
     {
       "character": "Player",
@@ -52,7 +60,8 @@
     },
     {
       "character": "Cook",
-      "line": "I'm afraid not, only the big cheeses get to dine with the Duke."
+      "line": "I'm afraid not, only the big cheeses get to dine with the Duke.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -60,7 +69,8 @@
     },
     {
       "character": "Cook",
-      "line": "Maybe, but I won't be holding my breath."
+      "line": "Maybe, but I won't be holding my breath.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -116,7 +126,8 @@
     },
     {
       "character": "Cook",
-      "line": "Fine. I always knew you Adventurer types were callous beasts. Go on your merry way!"
+      "line": "Fine. I always knew you Adventurer types were callous beasts. Go on your merry way!",
+      "delivery": "bitter, indignant"
     },
     {
       "character": "Player",
@@ -124,7 +135,8 @@
     },
     {
       "character": "Cook",
-      "line": "*sniff* Don't talk to me about cakes..."
+      "line": "*sniff* Don't talk to me about cakes...",
+      "delivery": "mournful"
     },
     {
       "character": "Player",
@@ -132,7 +144,8 @@
     },
     {
       "character": "Cook",
-      "line": "No, I'm not. The world is caving in around me - I am overcome by dark feelings of impending doom."
+      "line": "No, I'm not. The world is caving in around me - I am overcome by dark feelings of impending doom.",
+      "delivery": "despairing"
     },
     {
       "character": "Player",
@@ -140,7 +153,8 @@
     },
     {
       "character": "Cook",
-      "line": "No, that's the worst thing I could do. I'd get in terrible trouble."
+      "line": "No, that's the worst thing I could do. I'd get in terrible trouble.",
+      "delivery": "anxious"
     },
     {
       "character": "Player",
@@ -148,15 +162,18 @@
     },
     {
       "character": "Cook",
-      "line": "That would be nice, but the Duke doesn't allow holidays for core staff."
+      "line": "That would be nice, but the Duke doesn't allow holidays for core staff.",
+      "delivery": "wistful"
     },
     {
       "character": "Player",
-      "line": "Hmm, why not run away to the sea and start a new life as a Pirate?"
+      "line": "Hmm, why not run away to the sea and start a new life as a Pirate?",
+      "delivery": "playful"
     },
     {
       "character": "Cook",
-      "line": "My wife gets sea sick, and I have an irrational fear of eyepatches. I don't see it working myself."
+      "line": "My wife gets sea sick, and I have an irrational fear of eyepatches. I don't see it working myself.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
@@ -164,15 +181,18 @@
     },
     {
       "character": "Cook",
-      "line": "I know I'm doomed."
+      "line": "I know I'm doomed.",
+      "delivery": "gloomy, resigned"
     },
     {
       "character": "Player",
-      "line": "Nice hat!"
+      "line": "Nice hat!",
+      "delivery": "cheerful"
     },
     {
       "character": "Cook",
-      "line": "Err thank you. It's a pretty ordinary cooks hat really."
+      "line": "Err thank you. It's a pretty ordinary cooks hat really.",
+      "delivery": "bashful"
     },
     {
       "character": "Player",
@@ -184,11 +204,13 @@
     },
     {
       "character": "Player",
-      "line": "The whole hat, apron, stripey trousers ensemble - it works. It make you looks like a real cook."
+      "line": "The whole hat, apron, stripey trousers ensemble - it works. It make you looks like a real cook.",
+      "delivery": "teasing"
     },
     {
       "character": "Cook",
-      "line": "I am a real cook! I haven't got time to be chatting about Culinary Fashion. I am in desperate need of help!"
+      "line": "I am a real cook! I haven't got time to be chatting about Culinary Fashion. I am in desperate need of help!",
+      "delivery": "exasperated, frazzled"
     },
     {
       "character": "Cook",
@@ -200,7 +222,8 @@
     },
     {
       "character": "Cook",
-      "line": "Please get the ingredients quickly - I'm running out of time! The Duke will throw me into the streets!"
+      "line": "Please get the ingredients quickly - I'm running out of time! The Duke will throw me into the streets!",
+      "delivery": "frantic, pleading"
     },
     {
       "character": "Player",
@@ -216,7 +239,8 @@
     },
     {
       "character": "Cook",
-      "line": "Thanks for the ingredients you have got so far. Please get the rest quickly - I'm running out of time! The Duke will throw me into the streets!"
+      "line": "Thanks for the ingredients you have got so far. Please get the rest quickly - I'm running out of time! The Duke will throw me into the streets!",
+      "delivery": "anxious, hurried"
     }
   ],
   "characters": [
