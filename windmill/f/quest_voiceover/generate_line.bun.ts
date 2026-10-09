@@ -14,7 +14,8 @@ export async function main(
   featureBranch: string,
   soundsBranch = "sounds",
   resume = false,
-  dryRun = false
+  dryRun = false,
+  regenerate = false
 ): Promise<LineResult> {
   const hash = generateDialogHash(target.character, target.text);
   const base = { character: target.character, text: target.text, hash };
@@ -23,12 +24,12 @@ export async function main(
     const githubToken = await wmill.getVariable("f/quest_voiceover/github_token");
     const github = createGitHubClient({ token: githubToken, owner: githubOwner, repo: githubRepo });
 
-    if (await github.checkAudioFileExists(hash, soundsBranch)) {
+    if (!regenerate && (await github.checkAudioFileExists(hash, soundsBranch))) {
       return { ...base, uri: `${hash}.mp3`, status: "skipped" };
     }
 
     // On the feature branch but not on sounds means we committed it on a prior attempt.
-    if (resume && (await github.checkAudioFileExists(hash, featureBranch))) {
+    if (!regenerate && resume && (await github.checkAudioFileExists(hash, featureBranch))) {
       return { ...base, uri: `${hash}.mp3`, status: "skipped" };
     }
 
