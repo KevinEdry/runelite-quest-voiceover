@@ -8,11 +8,13 @@
     },
     {
       "character": "Player",
-      "line": "Hey! Don't call me outerlander! I'm known as the mighty !"
+      "line": "Hey! Don't call me outerlander! I'm known as the mighty !",
+      "delivery": "indignant, proud"
     },
     {
       "character": "Lokar Searunner",
-      "line": "Can't say I've heard of you. So they let your sort into the clan nowadays? Wow. Things have really changed since I've been gone..."
+      "line": "Can't say I've heard of you. So they let your sort into the clan nowadays? Wow. Things have really changed since I've been gone...",
+      "delivery": "dismissive, sarcastic"
     },
     {
       "character": "Player",
@@ -28,15 +30,18 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Oh, you haven't heard of the infamous Lokar, scourge of the northern seas?"
+      "line": "Oh, you haven't heard of the infamous Lokar, scourge of the northern seas?",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
-      "line": "Erm... no... That's you then, is it?"
+      "line": "Erm... no... That's you then, is it?",
+      "delivery": "unimpressed, deadpan"
     },
     {
       "character": "Lokar Searunner",
-      "line": "Forgotten already? Tch! I have no regrets about why I left!"
+      "line": "Forgotten already? Tch! I have no regrets about why I left!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -56,23 +61,28 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Growing crops, milking cows, catching and cooking food, the day to day activities of our life..."
+      "line": "Growing crops, milking cows, catching and cooking food, the day to day activities of our life...",
+      "delivery": "weary, bored"
     },
     {
       "character": "Lokar Searunner",
-      "line": "THEY'RE SO BORING!"
+      "line": "THEY'RE SO BORING!",
+      "delivery": "shouting, exasperated"
     },
     {
       "character": "Lokar Searunner",
-      "line": "No, I knew what I wanted to do, and that was attack innocent people going about their daily business, steal all their money, then spend it on wine, women and song!"
+      "line": "No, I knew what I wanted to do, and that was attack innocent people going about their daily business, steal all their money, then spend it on wine, women and song!",
+      "delivery": "gleeful, menacing"
     },
     {
       "character": "Player",
-      "line": "Oh.... Kaaaaay...."
+      "line": "Oh.... Kaaaaay....",
+      "delivery": "uneasy, wary"
     },
     {
       "character": "Lokar Searunner",
-      "line": "So I ran away from Rellekka to become a PIRATE! It's way more fun. Plus you get to see the world!"
+      "line": "So I ran away from Rellekka to become a PIRATE! It's way more fun. Plus you get to see the world!",
+      "delivery": "excited, boastful"
     },
     {
       "character": "Player",
@@ -84,11 +94,13 @@
     },
     {
       "character": "Player",
-      "line": "I see. So where are you and your scurvy sea-dogs headed to next? Arrr shiver-me timbers!"
+      "line": "I see. So where are you and your scurvy sea-dogs headed to next? Arrr shiver-me timbers!",
+      "delivery": "playful, mock-piratey"
     },
     {
       "character": "Lokar Searunner",
-      "line": "You're trying my patience..."
+      "line": "You're trying my patience...",
+      "delivery": "irritated"
     },
     {
       "character": "Player",
@@ -120,11 +132,13 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Yeah, they're a really powerful race of mages. They'd read your mind and see that you're a Fremennik straight away, then probably turn you inside out and feed you to the birds."
+      "line": "Yeah, they're a really powerful race of mages. They'd read your mind and see that you're a Fremennik straight away, then probably turn you inside out and feed you to the birds.",
+      "delivery": "casual, ominous"
     },
     {
       "character": "Player",
-      "line": "Cosmic."
+      "line": "Cosmic.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
@@ -132,19 +146,23 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Yeah, but I think the Fremenniks are a bunch of losers. They probably picked up on that."
+      "line": "Yeah, but I think the Fremenniks are a bunch of losers. They probably picked up on that.",
+      "delivery": "dismissive"
     },
     {
       "character": "Lokar Searunner",
-      "line": "Look, I know a way you'll be able to travel there without, you know, getting killed and that, if you fancy a trip!"
+      "line": "Look, I know a way you'll be able to travel there without, you know, getting killed and that, if you fancy a trip!",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
-      "line": "Why not, I've always wondered what the state of my innards are!"
+      "line": "Why not, I've always wondered what the state of my innards are!",
+      "delivery": "sarcastic, wry"
     },
     {
       "character": "Lokar Searunner",
-      "line": "That's the spirit!"
+      "line": "That's the spirit!",
+      "delivery": "upbeat, encouraging"
     },
     {
       "character": "Lokar Searunner",
@@ -164,23 +182,28 @@
     },
     {
       "character": "Player",
-      "line": "So I have to try and bring peace to two warring nations who have been fighting for centuries?!?!"
+      "line": "So I have to try and bring peace to two warring nations who have been fighting for centuries?!?!",
+      "delivery": "incredulous, alarmed"
     },
     {
       "character": "Lokar Searunner",
-      "line": "What? I never said you had to bother trying to do that, you just have to pretend like you might."
+      "line": "What? I never said you had to bother trying to do that, you just have to pretend like you might.",
+      "delivery": "dismissive"
     },
     {
       "character": "Lokar Searunner",
-      "line": "No skin off my nose if those losers want to get slaughtered by the Moon Clan, just more stuff for me to loot when they're all dead."
+      "line": "No skin off my nose if those losers want to get slaughtered by the Moon Clan, just more stuff for me to loot when they're all dead.",
+      "delivery": "callous, indifferent"
     },
     {
       "character": "Player",
-      "line": "Well I will try. I am the mighty after all!"
+      "line": "Well I will try. I am the mighty after all!",
+      "delivery": "proud, confident"
     },
     {
       "character": "Lokar Searunner",
-      "line": "Yes...."
+      "line": "Yes....",
+      "delivery": "unconvinced, dry"
     },
     {
       "character": "Player",
@@ -204,11 +227,13 @@
     },
     {
       "character": "Player",
-      "line": "No thanks, I'd like to live."
+      "line": "No thanks, I'd like to live.",
+      "delivery": "deadpan"
     },
     {
       "character": "Lokar Searunner",
-      "line": "Oh, so you're a loser like the rest of the Fremenniks then? See ya around, loser."
+      "line": "Oh, so you're a loser like the rest of the Fremenniks then? See ya around, loser.",
+      "delivery": "sneering, dismissive"
     },
     {
       "character": "Player",
@@ -224,7 +249,8 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Well hurry it up, okay? I'm sick of this dump of a town, I want to go back to the ship!"
+      "line": "Well hurry it up, okay? I'm sick of this dump of a town, I want to go back to the ship!",
+      "delivery": "impatient, annoyed"
     },
     {
       "character": "Player",
@@ -240,11 +266,13 @@
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "Ah, many have tried, but The Moon Clan are by no means a sharing group of people. They do everything by magic, something we never use. But they are so secretive about it. If only they would share, we"
+      "line": "Ah, many have tried, but The Moon Clan are by no means a sharing group of people. They do everything by magic, something we never use. But they are so secretive about it. If only they would share, we",
+      "delivery": "weary, exasperated"
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "wouldn't have to kill them all the time!"
+      "line": "wouldn't have to kill them all the time!",
+      "delivery": "matter-of-fact, grim"
     },
     {
       "character": "Player",
@@ -256,7 +284,8 @@
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "Yes, but you have no room to carry it. You should have thought of that before, !"
+      "line": "Yes, but you have no room to carry it. You should have thought of that before, !",
+      "delivery": "admonishing"
     },
     {
       "character": "Brundt the Chieftain",
@@ -272,7 +301,8 @@
     },
     {
       "character": "Player",
-      "line": "I lost my Seal of Passage!"
+      "line": "I lost my Seal of Passage!",
+      "delivery": "sheepish"
     },
     {
       "character": "Brundt the Chieftain",
@@ -284,11 +314,13 @@
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "Oh dear..."
+      "line": "Oh dear...",
+      "delivery": "disapproving, sighing"
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "Then you had better take a replacement and be less careless in future."
+      "line": "Then you had better take a replacement and be less careless in future.",
+      "delivery": "stern, admonishing"
     },
     {
       "character": "Brundt the Chieftain",
@@ -296,15 +328,18 @@
     },
     {
       "character": "Player",
-      "line": "Oh, you know. Ongoing negotiations."
+      "line": "Oh, you know. Ongoing negotiations.",
+      "delivery": "breezy, evasive"
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "I see. Well, I don't hold out for much hope!"
+      "line": "I see. Well, I don't hold out for much hope!",
+      "delivery": "pessimistic, blunt"
     },
     {
       "character": "Player",
-      "line": "I'm glad you're confident in my abilities."
+      "line": "I'm glad you're confident in my abilities.",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Lokar Searunner",
@@ -316,11 +351,13 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "What are you? Useless? Go get another one from Brundt the Chieftain, and hurry it up, I don't want to be here any longer than I have to be!"
+      "line": "What are you? Useless? Go get another one from Brundt the Chieftain, and hurry it up, I don't want to be here any longer than I have to be!",
+      "delivery": "exasperated, annoyed"
     },
     {
       "character": "Player",
-      "line": "Yup, I've got it right here!"
+      "line": "Yup, I've got it right here!",
+      "delivery": "cheerful, upbeat"
     },
     {
       "character": "Lokar Searunner",
@@ -328,11 +365,13 @@
     },
     {
       "character": "Player",
-      "line": "Arrr! Yar! Let's be on our way, yar!"
+      "line": "Arrr! Yar! Let's be on our way, yar!",
+      "delivery": "hammy, piratey"
     },
     {
       "character": "Lokar Searunner",
-      "line": "...Why are you talking like that?"
+      "line": "...Why are you talking like that?",
+      "delivery": "baffled, deadpan"
     },
     {
       "character": "Player",
@@ -340,11 +379,13 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Only the very stupid ones..."
+      "line": "Only the very stupid ones...",
+      "delivery": "withering, dry"
     },
     {
       "character": "Lokar Searunner",
-      "line": "I suggest you DON'T talk like that to my crew. They will probably assume you are mocking them and kill you."
+      "line": "I suggest you DON'T talk like that to my crew. They will probably assume you are mocking them and kill you.",
+      "delivery": "stern, warning"
     },
     {
       "character": "Lokar Searunner",
@@ -352,7 +393,8 @@
     },
     {
       "character": "Player",
-      "line": "Why yes! Tally-ho!"
+      "line": "Why yes! Tally-ho!",
+      "delivery": "posh, enthusiastic"
     },
     {
       "character": "Lokar Searunner",
@@ -368,7 +410,8 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Well hurry it up okay? This place is a dump, and I'm a vicious blood-thirsty pirate, not your personal travel agent."
+      "line": "Well hurry it up okay? This place is a dump, and I'm a vicious blood-thirsty pirate, not your personal travel agent.",
+      "delivery": "irritated, sarcastic"
     },
     {
       "character": "Player",
@@ -392,7 +435,8 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Silly you. You'll have to go back to Brundt the Chieftain to get another before you can go on to Lunar Isle."
+      "line": "Silly you. You'll have to go back to Brundt the Chieftain to get another before you can go on to Lunar Isle.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
@@ -400,7 +444,8 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Hey, if you want to go back to loserville with all the losers, who am I to stop you?"
+      "line": "Hey, if you want to go back to loserville with all the losers, who am I to stop you?",
+      "delivery": "mocking"
     },
     {
       "character": "Player",
@@ -408,7 +453,8 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "Hey, I knew you seemed cool when I met you !"
+      "line": "Hey, I knew you seemed cool when I met you !",
+      "delivery": "friendly, upbeat"
     },
     {
       "character": "Lokar Searunner",
@@ -436,7 +482,8 @@
     },
     {
       "character": "Lokar Searunner",
-      "line": "You are possibly the most indecisive person I have ever met..."
+      "line": "You are possibly the most indecisive person I have ever met...",
+      "delivery": "exasperated, dry"
     },
     {
       "character": "Player",
@@ -456,7 +503,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "You obviously haven't met the cook yet..."
+      "line": "You obviously haven't met the cook yet...",
+      "delivery": "wry, ominous"
     },
     {
       "character": "Player",
@@ -464,15 +512,18 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "The galley ain't open fer food yet whipper-snapper, ye'll hafta come back later if'n ye be wanting food."
+      "line": "The galley ain't open fer food yet whipper-snapper, ye'll hafta come back later if'n ye be wanting food.",
+      "delivery": "gruff, irritable"
     },
     {
       "character": "Player",
-      "line": "Uh... something something open, something something food?"
+      "line": "Uh... something something open, something something food?",
+      "delivery": "confused, mumbling"
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Aye, ter be sure, yer yella-bellied land-lizard!"
+      "line": "Aye, ter be sure, yer yella-bellied land-lizard!",
+      "delivery": "gruff, taunting"
     },
     {
       "character": "Player",
@@ -488,7 +539,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Me? I'm the navigator. My job is to ensure the ship travels where it's supposed to go once it's moving by constantly checking our"
+      "line": "Me? I'm the navigator. My job is to ensure the ship travels where it's supposed to go once it's moving by constantly checking our",
+      "delivery": "proud, self-important"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -496,7 +548,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "People often think that we just sail off when we feel like it, but its actually far more complicated than that!"
+      "line": "People often think that we just sail off when we feel like it, but its actually far more complicated than that!",
+      "delivery": "boastful"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -504,7 +557,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay. So... What are you doing?"
+      "line": "Okay. So... What are you doing?",
+      "delivery": "flat, bored"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -524,7 +578,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "You could almost say that I'm the linchpin of the entire operation! Why, if it wasn't for me, the rest of the guys might be sailing for, oooh, hours, and be slightly off course and"
+      "line": "You could almost say that I'm the linchpin of the entire operation! Why, if it wasn't for me, the rest of the guys might be sailing for, oooh, hours, and be slightly off course and",
+      "delivery": "self-important, grandiose"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -544,11 +599,13 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Exactly!"
+      "line": "Exactly!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
-      "line": "Great. So... What are you doing?"
+      "line": "Great. So... What are you doing?",
+      "delivery": "exasperated, deadpan"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -560,7 +617,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay, OKAY!"
+      "line": "Okay, OKAY!",
+      "delivery": "exasperated, shouting"
     },
     {
       "character": "Player",
@@ -568,11 +626,13 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "It is customary when stowing away on a vessel to not introduce yourself to the Captains First Mate, oh foolish one."
+      "line": "It is customary when stowing away on a vessel to not introduce yourself to the Captains First Mate, oh foolish one.",
+      "delivery": "haughty, condescending"
     },
     {
       "character": "Player",
-      "line": "Hey! I'm not a stowaway!"
+      "line": "Hey! I'm not a stowaway!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -584,7 +644,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Try not to distract any of the crew either, Zamorak knows it's hard enough to get them to do any work around here without strangers wandering round the ship asking them inane questions."
+      "line": "Try not to distract any of the crew either, Zamorak knows it's hard enough to get them to do any work around here without strangers wandering round the ship asking them inane questions.",
+      "delivery": "officious, exasperated"
     },
     {
       "character": "Player",
@@ -596,7 +657,8 @@
     },
     {
       "character": "Player",
-      "line": "(sigh) NO, I am NOT a stowaway..."
+      "line": "(sigh) NO, I am NOT a stowaway...",
+      "delivery": "exasperated, weary"
     },
     {
       "character": "Player",
@@ -604,7 +666,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Hey, I'm not here to judge you, if you're a stowaway you picked a good ship for it!"
+      "line": "Hey, I'm not here to judge you, if you're a stowaway you picked a good ship for it!",
+      "delivery": "cheery, conspiratorial"
     },
     {
       "character": "Cabin boy",
@@ -628,11 +691,13 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Hmmmm? I don't recognise you as one of my men, what are you doing aboard my ship?"
+      "line": "Hmmmm? I don't recognise you as one of my men, what are you doing aboard my ship?",
+      "delivery": "suspicious, gruff"
     },
     {
       "character": "Parrot",
-      "line": "Stowaway! Stowaway! *Squark*"
+      "line": "Stowaway! Stowaway! *Squark*",
+      "delivery": "squawking, shrill"
     },
     {
       "character": "Player",
@@ -640,7 +705,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Oh he DID, did he? (sigh) I sometimes regret ever allowing that vagabond to join the crew."
+      "line": "Oh he DID, did he? (sigh) I sometimes regret ever allowing that vagabond to join the crew.",
+      "delivery": "weary, irritated"
     },
     {
       "character": "Captain Bentley",
@@ -648,7 +714,8 @@
     },
     {
       "character": "Parrot",
-      "line": "Lokar's a loser! *Brakawk*!"
+      "line": "Lokar's a loser! *Brakawk*!",
+      "delivery": "squawking, mocking"
     },
     {
       "character": "Player",
@@ -668,7 +735,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Now, as captain of this ship I feel I must play host, even if you aren't exactly a welcome guest, so was there anything you wished to know?"
+      "line": "Now, as captain of this ship I feel I must play host, even if you aren't exactly a welcome guest, so was there anything you wished to know?",
+      "delivery": "pompous, grudging"
     },
     {
       "character": "Player",
@@ -676,7 +744,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "The Moon Clan? Oh, very fine people. Very hospitable."
+      "line": "The Moon Clan? Oh, very fine people. Very hospitable.",
+      "delivery": "warm, approving"
     },
     {
       "character": "Captain Bentley",
@@ -684,7 +753,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Well, they even threw a big festival in our honour!"
+      "line": "Well, they even threw a big festival in our honour!",
+      "delivery": "delighted"
     },
     {
       "character": "Captain Bentley",
@@ -712,11 +782,13 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "After all, it's not everywhere that a pirate captain and his crew can rest ashore without having to worry about the authorities catching them, is it?"
+      "line": "After all, it's not everywhere that a pirate captain and his crew can rest ashore without having to worry about the authorities catching them, is it?",
+      "delivery": "conspiratorial, pleased"
     },
     {
       "character": "Parrot",
-      "line": "Fight the law! *Squawk*"
+      "line": "Fight the law! *Squawk*",
+      "delivery": "squawking, defiant"
     },
     {
       "character": "Player",
@@ -732,7 +804,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Well, obviously the actual pirating is a big part of our agenda, but we like to think of ourselves as non- regulated merchants."
+      "line": "Well, obviously the actual pirating is a big part of our agenda, but we like to think of ourselves as non- regulated merchants.",
+      "delivery": "smooth, self-justifying"
     },
     {
       "character": "Captain Bentley",
@@ -748,7 +821,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Well, obviously not initially. Obviously, our first thought was to show up, rob them blind, then take off again with the plunder spilling from our decks."
+      "line": "Well, obviously not initially. Obviously, our first thought was to show up, rob them blind, then take off again with the plunder spilling from our decks.",
+      "delivery": "matter-of-fact, gleeful"
     },
     {
       "character": "Player",
@@ -760,11 +834,13 @@
     },
     {
       "character": "Player",
-      "line": "M-monsters?"
+      "line": "M-monsters?",
+      "delivery": "nervous, stammering"
     },
     {
       "character": "Captain Bentley",
-      "line": "Oh yes, hundreds of the things. The island's swarming with them you know."
+      "line": "Oh yes, hundreds of the things. The island's swarming with them you know.",
+      "delivery": "casual, grim"
     },
     {
       "character": "Captain Bentley",
@@ -776,7 +852,8 @@
     },
     {
       "character": "Parrot",
-      "line": "*Squawk* Run fer yer lives lads, it's a monster! *Squawk*"
+      "line": "*Squawk* Run fer yer lives lads, it's a monster! *Squawk*",
+      "delivery": "squawking, panicked"
     },
     {
       "character": "Player",
@@ -792,7 +869,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Yes, the next reason being that the Moon Clan are quite stupendously powerful magicians."
+      "line": "Yes, the next reason being that the Moon Clan are quite stupendously powerful magicians.",
+      "delivery": "awed, emphatic"
     },
     {
       "character": "Captain Bentley",
@@ -816,7 +894,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Oh yes. They can read minds, you see. If we'd shown up there thinking about robbing them they would have just killed us all on the spot."
+      "line": "Oh yes. They can read minds, you see. If we'd shown up there thinking about robbing them they would have just killed us all on the spot.",
+      "delivery": "grave, ominous"
     },
     {
       "character": "Captain Bentley",
@@ -824,7 +903,8 @@
     },
     {
       "character": "Player",
-      "line": "Yes, yes you did."
+      "line": "Yes, yes you did.",
+      "delivery": "deadpan, weary"
     },
     {
       "character": "Captain Bentley",
@@ -868,11 +948,13 @@
     },
     {
       "character": "Player",
-      "line": "I was hoping you could tell me a little bit about your ship. I must say, it's really very impressive."
+      "line": "I was hoping you could tell me a little bit about your ship. I must say, it's really very impressive.",
+      "delivery": "flattering, admiring"
     },
     {
       "character": "Captain Bentley",
-      "line": "Ah, a connoisseur! Yes, she's named the Lady Zay, and may I say, is one of the finest ships to ever sail the seas!"
+      "line": "Ah, a connoisseur! Yes, she's named the Lady Zay, and may I say, is one of the finest ships to ever sail the seas!",
+      "delivery": "proud, boastful"
     },
     {
       "character": "Captain Bentley",
@@ -880,7 +962,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "And when I say it was a steal, I mean to say that myself and some of the lads broke in and stole it one night."
+      "line": "And when I say it was a steal, I mean to say that myself and some of the lads broke in and stole it one night.",
+      "delivery": "amused, conspiratorial"
     },
     {
       "character": "Captain Bentley",
@@ -896,11 +979,13 @@
     },
     {
       "character": "Parrot",
-      "line": "*Brawwwwwwk* I want guns, lots of guns! I want guns, lots of guns!"
+      "line": "*Brawwwwwwk* I want guns, lots of guns! I want guns, lots of guns!",
+      "delivery": "squawking, manic"
     },
     {
       "character": "Player",
-      "line": "I used to own my own ship you know..."
+      "line": "I used to own my own ship you know...",
+      "delivery": "wistful"
     },
     {
       "character": "Player",
@@ -936,7 +1021,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Ah yes, it was a tragedy..."
+      "line": "Ah yes, it was a tragedy...",
+      "delivery": "mournful, theatrical"
     },
     {
       "character": "Captain Bentley",
@@ -948,19 +1034,23 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Who? Oh. Yes. The crew. Yes, it was a tragedy."
+      "line": "Who? Oh. Yes. The crew. Yes, it was a tragedy.",
+      "delivery": "dismissive, feigned"
     },
     {
       "character": "Captain Bentley",
-      "line": "I'd paid them in advance you know, I'll never see that money again!"
+      "line": "I'd paid them in advance you know, I'll never see that money again!",
+      "delivery": "aggrieved, indignant"
     },
     {
       "character": "Player",
-      "line": "Um... no, I actually meant it was a shame that so many of your crew must have died in the shipwreck."
+      "line": "Um... no, I actually meant it was a shame that so many of your crew must have died in the shipwreck.",
+      "delivery": "awkward, pointed"
     },
     {
       "character": "Captain Bentley",
-      "line": "Was it? Well, if you say so."
+      "line": "Was it? Well, if you say so.",
+      "delivery": "indifferent, breezy"
     },
     {
       "character": "Captain Bentley",
@@ -968,7 +1058,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "If you're particularly worried about them, perhaps you might like to go and pay them a visit someday, and make sure to bring a lot of easily transferable wealth with you."
+      "line": "If you're particularly worried about them, perhaps you might like to go and pay them a visit someday, and make sure to bring a lot of easily transferable wealth with you.",
+      "delivery": "sly, insinuating"
     },
     {
       "character": "Captain Bentley",
@@ -980,7 +1071,8 @@
     },
     {
       "character": "Parrot",
-      "line": "*Squawk* Move it or lose it, move it or lose it."
+      "line": "*Squawk* Move it or lose it, move it or lose it.",
+      "delivery": "squawking, urgent"
     },
     {
       "character": "Captain Bentley",
@@ -1000,7 +1092,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh. Oh yeah, I'm a Fremennik aren't I?"
+      "line": "Oh. Oh yeah, I'm a Fremennik aren't I?",
+      "delivery": "sheepish, realizing"
     },
     {
       "character": "Captain Bentley",
@@ -1020,7 +1113,8 @@
     },
     {
       "character": "Parrot",
-      "line": "*Brakawk* Don't drop quest items half way through a quest! *Squawk*"
+      "line": "*Brakawk* Don't drop quest items half way through a quest! *Squawk*",
+      "delivery": "squawking, chiding"
     },
     {
       "character": "Player",
@@ -1040,7 +1134,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "I'm not kidding, they are a very dangerous people, and it would NOT be wise for you to travel there without your Seal Of Passage marking you as a diplomat."
+      "line": "I'm not kidding, they are a very dangerous people, and it would NOT be wise for you to travel there without your Seal Of Passage marking you as a diplomat.",
+      "delivery": "serious, warning"
     },
     {
       "character": "Player",
@@ -1048,27 +1143,33 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Ah, yes indeed! The winds seem good, so let's make a move!"
+      "line": "Ah, yes indeed! The winds seem good, so let's make a move!",
+      "delivery": "eager, upbeat"
     },
     {
       "character": "Parrot",
-      "line": "She's blowing a storm, cap'n! *Brarrrrrk*"
+      "line": "She's blowing a storm, cap'n! *Brarrrrrk*",
+      "delivery": "squawking, alarmed"
     },
     {
       "character": "Captain Bentley",
-      "line": "Well... THAT was deuced strange!"
+      "line": "Well... THAT was deuced strange!",
+      "delivery": "baffled"
     },
     {
       "character": "Player",
-      "line": "Um... Way to sail a boat?"
+      "line": "Um... Way to sail a boat?",
+      "delivery": "deadpan, sarcastic"
     },
     {
       "character": "Parrot",
-      "line": "*Squawk* Way to sail a boat! Way to sail a boat! *Brarrrk*"
+      "line": "*Squawk* Way to sail a boat! Way to sail a boat! *Brarrrk*",
+      "delivery": "squawking, mocking"
     },
     {
       "character": "Captain Bentley",
-      "line": "This... This is VERY strange!"
+      "line": "This... This is VERY strange!",
+      "delivery": "bewildered"
     },
     {
       "character": "Player",
@@ -1076,7 +1177,8 @@
     },
     {
       "character": "Player",
-      "line": "In fact, I don't even know why I began talking to you in the first place!"
+      "line": "In fact, I don't even know why I began talking to you in the first place!",
+      "delivery": "exasperated"
     },
     {
       "character": "Captain Bentley",
@@ -1092,7 +1194,8 @@
     },
     {
       "character": "Jenny Blade",
-      "line": "In all my years as a pirate, I have never seen such sailing!"
+      "line": "In all my years as a pirate, I have never seen such sailing!",
+      "delivery": "astonished"
     },
     {
       "character": "Player",
@@ -1100,11 +1203,13 @@
     },
     {
       "character": "Jenny Blade",
-      "line": "If I was a less superstitious person, I would suggest an evil magic of some kind."
+      "line": "If I was a less superstitious person, I would suggest an evil magic of some kind.",
+      "delivery": "ominous, confiding"
     },
     {
       "character": "Player",
-      "line": "Iiiinteresting..."
+      "line": "Iiiinteresting...",
+      "delivery": "intrigued, drawn-out"
     },
     {
       "character": "Player",
@@ -1112,7 +1217,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "Weird, the ships never done that before..."
+      "line": "Weird, the ships never done that before...",
+      "delivery": "menacing, low"
     },
     {
       "character": "Player",
@@ -1120,7 +1226,8 @@
     },
     {
       "character": "'Sticky' Sanders",
-      "line": "I can't say for sure, but it must be either the Captain or the Navigator to blame."
+      "line": "I can't say for sure, but it must be either the Captain or the Navigator to blame.",
+      "delivery": "laid-back"
     },
     {
       "character": "'Sticky' Sanders",
@@ -1136,7 +1243,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "I have literally never seen anything like it! The ship seemed to... I don't know, suddenly swing round as we approached shore!"
+      "line": "I have literally never seen anything like it! The ship seemed to... I don't know, suddenly swing round as we approached shore!",
+      "delivery": "astonished, agitated"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -1148,7 +1256,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Well, my first thought would be that we have jinx aboard."
+      "line": "Well, my first thought would be that we have jinx aboard.",
+      "delivery": "suspicious, grave"
     },
     {
       "character": "Player",
@@ -1160,19 +1269,23 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "overboard as shark food."
+      "line": "overboard as shark food.",
+      "delivery": "menacing, matter-of-fact"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "You just recently came aboard the ship yourself didn't you? Because I don't recall us having any trouble before you showed up."
+      "line": "You just recently came aboard the ship yourself didn't you? Because I don't recall us having any trouble before you showed up.",
+      "delivery": "accusing, suspicious"
     },
     {
       "character": "Player",
-      "line": "Uh... yes... But... I'm pretty sure I didn't do anything. I hope."
+      "line": "Uh... yes... But... I'm pretty sure I didn't do anything. I hope.",
+      "delivery": "nervous, hesitant"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Well, you had better hope it isn't your fault. If there's one thing I hate more than a stowaway, it's a jinx."
+      "line": "Well, you had better hope it isn't your fault. If there's one thing I hate more than a stowaway, it's a jinx.",
+      "delivery": "threatening, cold"
     },
     {
       "character": "Player",
@@ -1180,7 +1293,8 @@
     },
     {
       "character": "'Picarron' Pete",
-      "line": "Woah! Did you see that crazy trip?"
+      "line": "Woah! Did you see that crazy trip?",
+      "delivery": "excited, startled"
     },
     {
       "character": "Player",
@@ -1188,7 +1302,8 @@
     },
     {
       "character": "'Picarron' Pete",
-      "line": "I dunno, but I'm keeping out of it. I don't want anyone blaming me for it!"
+      "line": "I dunno, but I'm keeping out of it. I don't want anyone blaming me for it!",
+      "delivery": "defensive, wary"
     },
     {
       "character": "Player",
@@ -1196,7 +1311,8 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "How... bizarre."
+      "line": "How... bizarre.",
+      "delivery": "cryptic, mysterious"
     },
     {
       "character": "Player",
@@ -1220,7 +1336,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "What do you want, spoken to the captain yet?"
+      "line": "What do you want, spoken to the captain yet?",
+      "delivery": "gruff, dismissive"
     },
     {
       "character": "Player",
@@ -1236,7 +1353,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Oh, I'm sooooo scared now."
+      "line": "Oh, I'm sooooo scared now.",
+      "delivery": "sarcastic, mocking"
     },
     {
       "character": "Player",
@@ -1276,7 +1394,8 @@
     },
     {
       "character": "'Betty' B.Boppin",
-      "line": "What's happening with the ship???"
+      "line": "What's happening with the ship???",
+      "delivery": "alarmed, excitable"
     },
     {
       "character": "Player",
@@ -1300,7 +1419,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Aye, I've felt like that me whole life ter be honest..."
+      "line": "Aye, I've felt like that me whole life ter be honest...",
+      "delivery": "weary, wistful"
     },
     {
       "character": "Player",
@@ -1332,7 +1452,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "No... Usually he's one of the best around, I don't know why we didn't reach our destination like we were supposed to, and it CERTAINLY wasn't anything to do with me"
+      "line": "No... Usually he's one of the best around, I don't know why we didn't reach our destination like we were supposed to, and it CERTAINLY wasn't anything to do with me",
+      "delivery": "defensive, nervous"
     },
     {
       "character": "Cabin boy",
@@ -1344,15 +1465,18 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Good, because it has NOTHING to do with me!"
+      "line": "Good, because it has NOTHING to do with me!",
+      "delivery": "agitated, defensive"
     },
     {
       "character": "Cabin boy",
-      "line": "IT'S NOT MY FAULT!"
+      "line": "IT'S NOT MY FAULT!",
+      "delivery": "shouting, panicked"
     },
     {
       "character": "Player",
-      "line": "I think you should lay off the coffee for a bit, youngster..."
+      "line": "I think you should lay off the coffee for a bit, youngster...",
+      "delivery": "wry, dry"
     },
     {
       "character": "Player",
@@ -1404,19 +1528,23 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Um... Sorry, I can't really say, but I'll know it when I see it!"
+      "line": "Um... Sorry, I can't really say, but I'll know it when I see it!",
+      "delivery": "evasive, cryptic"
     },
     {
       "character": "Bedread the bold",
-      "line": "Sorry, don't have time to chat! Something's up with the ship, I'm trying to find out what!"
+      "line": "Sorry, don't have time to chat! Something's up with the ship, I'm trying to find out what!",
+      "delivery": "hurried, distracted"
     },
     {
       "character": "Captain Bentley",
-      "line": "I... I don't understand... This is all very strange..."
+      "line": "I... I don't understand... This is all very strange...",
+      "delivery": "bewildered"
     },
     {
       "character": "Player",
-      "line": "That was possibly the most pointless journey I have ever taken in my life."
+      "line": "That was possibly the most pointless journey I have ever taken in my life.",
+      "delivery": "exasperated, dry"
     },
     {
       "character": "Captain Bentley",
@@ -1424,7 +1552,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "BUT WE HAVEN'T BUDGED AN INCH!"
+      "line": "BUT WE HAVEN'T BUDGED AN INCH!",
+      "delivery": "shouting, frustrated"
     },
     {
       "character": "Captain Bentley",
@@ -1460,19 +1589,23 @@
     },
     {
       "character": "Player",
-      "line": "Think you can navigate us a course on this ship that isn't a BIG STUPID CIRCLE?"
+      "line": "Think you can navigate us a course on this ship that isn't a BIG STUPID CIRCLE?",
+      "delivery": "sarcastic, mocking"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "I'm SURE I don't know what you mean!"
+      "line": "I'm SURE I don't know what you mean!",
+      "delivery": "indignant, defensive"
     },
     {
       "character": "Player",
-      "line": "C'mon now... If you're the navigator, then it stands to reason it's your fault we didn't sail anywhere!"
+      "line": "C'mon now... If you're the navigator, then it stands to reason it's your fault we didn't sail anywhere!",
+      "delivery": "accusing"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Now listen here bucko, my course was true, like all of my others, and if you have a problem with how I do my job, then you'd better go and speak to the Captain about it, because I don't appreciate a stowaway"
+      "line": "Now listen here bucko, my course was true, like all of my others, and if you have a problem with how I do my job, then you'd better go and speak to the Captain about it, because I don't appreciate a stowaway",
+      "delivery": "indignant, huffy"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1520,7 +1653,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "You will? Well, thank you!"
+      "line": "You will? Well, thank you!",
+      "delivery": "pleased, surprised"
     },
     {
       "character": "Captain Bentley",
@@ -1528,7 +1662,8 @@
     },
     {
       "character": "Player",
-      "line": "I'M NOT A STOWAWAY! GAH!"
+      "line": "I'M NOT A STOWAWAY! GAH!",
+      "delivery": "shouting, exasperated"
     },
     {
       "character": "Captain Bentley",
@@ -1540,15 +1675,18 @@
     },
     {
       "character": "Player",
-      "line": "I, uh, kind of didn't bother to go and talk to him yet..."
+      "line": "I, uh, kind of didn't bother to go and talk to him yet...",
+      "delivery": "sheepish"
     },
     {
       "character": "Captain Bentley",
-      "line": "I see..."
+      "line": "I see...",
+      "delivery": "disappointed, dry"
     },
     {
       "character": "Parrot",
-      "line": "*Squaaaawk* Lazy stowaway!"
+      "line": "*Squaaaawk* Lazy stowaway!",
+      "delivery": "squawking, mocking"
     },
     {
       "character": "Player",
@@ -1584,7 +1722,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "He's an arrogant fool, but he gets the job done."
+      "line": "He's an arrogant fool, but he gets the job done.",
+      "delivery": "gruff, blunt"
     },
     {
       "character": "Murky Pat",
@@ -1612,7 +1751,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Is it now? That sounds like exactly the kind of thing that a stowaway and a jinx might say to throw suspicion off of himself."
+      "line": "Is it now? That sounds like exactly the kind of thing that a stowaway and a jinx might say to throw suspicion off of himself.",
+      "delivery": "suspicious, accusing"
     },
     {
       "character": "Player",
@@ -1620,15 +1760,18 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Ah, so you finally admit you are a stowaway and a jinx!"
+      "line": "Ah, so you finally admit you are a stowaway and a jinx!",
+      "delivery": "triumphant, accusing"
     },
     {
       "character": "Player",
-      "line": "What? NO! Look, I'm pretty sure it's nothing to do with me..."
+      "line": "What? NO! Look, I'm pretty sure it's nothing to do with me...",
+      "delivery": "flustered, defensive"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Well, for your sake I hope you're right. Killing people is such a chore."
+      "line": "Well, for your sake I hope you're right. Killing people is such a chore.",
+      "delivery": "menacing, blasé"
     },
     {
       "character": "Player",
@@ -1672,7 +1815,8 @@
     },
     {
       "character": "'Lecherous' Lee",
-      "line": "I don't deal with gossips."
+      "line": "I don't deal with gossips.",
+      "delivery": "gruff, curt"
     },
     {
       "character": "Player",
@@ -1680,11 +1824,13 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Yeah, the navigator, absolutely, sounds about right, yup."
+      "line": "Yeah, the navigator, absolutely, sounds about right, yup.",
+      "delivery": "eager, deflecting"
     },
     {
       "character": "Cabin boy",
-      "line": "Nope, it has certainly nothing to do with me or anything that I have done to the ship, I swear on my dead mothers life!"
+      "line": "Nope, it has certainly nothing to do with me or anything that I have done to the ship, I swear on my dead mothers life!",
+      "delivery": "defensive, frantic"
     },
     {
       "character": "Player",
@@ -1712,7 +1858,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "His fault, eh? Well, I never liked him much anyway."
+      "line": "His fault, eh? Well, I never liked him much anyway.",
+      "delivery": "casual, gossipy"
     },
     {
       "character": "Player",
@@ -1736,7 +1883,8 @@
     },
     {
       "character": "Player",
-      "line": "How can you never have spoken to him? There's only like 10 people aboard the entire ship!"
+      "line": "How can you never have spoken to him? There's only like 10 people aboard the entire ship!",
+      "delivery": "incredulous"
     },
     {
       "character": "'Beedy-eye' Jones",
@@ -1752,7 +1900,8 @@
     },
     {
       "character": "Player",
-      "line": "So. Absolutely rubbish sailing. It's the navigator's fault, right? You're with me on that, yeah?"
+      "line": "So. Absolutely rubbish sailing. It's the navigator's fault, right? You're with me on that, yeah?",
+      "delivery": "sly, leading"
     },
     {
       "character": "'Beefy' Burns",
@@ -1768,7 +1917,8 @@
     },
     {
       "character": "Player",
-      "line": "You know what? I like you."
+      "line": "You know what? I like you.",
+      "delivery": "amused"
     },
     {
       "character": "Player",
@@ -1776,11 +1926,13 @@
     },
     {
       "character": "Player",
-      "line": "So... Call yourself a navigator huh? Way to plot a course that's a big circle!"
+      "line": "So... Call yourself a navigator huh? Way to plot a course that's a big circle!",
+      "delivery": "mocking, sarcastic"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Frankly sirrah your rudeness is quite appalling!"
+      "line": "Frankly sirrah your rudeness is quite appalling!",
+      "delivery": "indignant"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1788,15 +1940,18 @@
     },
     {
       "character": "Player",
-      "line": "Oh really? What's that then? Wrong kind of waves? Your steering wheel got stuck?"
+      "line": "Oh really? What's that then? Wrong kind of waves? Your steering wheel got stuck?",
+      "delivery": "mocking, sarcastic"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "I do not have to take this kind of abuse from a common stowaway!"
+      "line": "I do not have to take this kind of abuse from a common stowaway!",
+      "delivery": "offended, haughty"
     },
     {
       "character": "Player",
-      "line": "I'll have you know that I am a personal friend of the Captain, and he himself invited me aboard for a small cruise around Lunar Isle along with a variety of local delicacies and beverages!"
+      "line": "I'll have you know that I am a personal friend of the Captain, and he himself invited me aboard for a small cruise around Lunar Isle along with a variety of local delicacies and beverages!",
+      "delivery": "boastful"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1804,7 +1959,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, absolutely. Me and him go way back. Waaaaaaay back."
+      "line": "Oh, absolutely. Me and him go way back. Waaaaaaay back.",
+      "delivery": "exaggerating"
     },
     {
       "character": "Player",
@@ -1828,7 +1984,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, yeah, it's like a nickname. Only his friends are allowed to call him that."
+      "line": "Oh, yeah, it's like a nickname. Only his friends are allowed to call him that.",
+      "delivery": "bluffing"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1836,7 +1993,8 @@
     },
     {
       "character": "Player",
-      "line": "Wow, he must hate you."
+      "line": "Wow, he must hate you.",
+      "delivery": "deadpan"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1844,11 +2002,13 @@
     },
     {
       "character": "Player",
-      "line": "Well, that's all besides the point. It's all your fault and I'm going to make sure the Captain fizzles your gizzard, or whatever it is you piratey types do to each other."
+      "line": "Well, that's all besides the point. It's all your fault and I'm going to make sure the Captain fizzles your gizzard, or whatever it is you piratey types do to each other.",
+      "delivery": "blustering, threatening"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "But it wasn't my fault!"
+      "line": "But it wasn't my fault!",
+      "delivery": "defensive"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1856,7 +2016,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "There can only be one POSSIBLE explanation why the ship hasn't reached its destination, as I mentioned before!"
+      "line": "There can only be one POSSIBLE explanation why the ship hasn't reached its destination, as I mentioned before!",
+      "delivery": "emphatic"
     },
     {
       "character": "Player",
@@ -1864,7 +2025,8 @@
     },
     {
       "character": "Player",
-      "line": "And your explanation had better be good, or Captain Renney is going to shiver your timbers for good!"
+      "line": "And your explanation had better be good, or Captain Renney is going to shiver your timbers for good!",
+      "delivery": "blustering, threatening"
     },
     {
       "character": "Player",
@@ -1872,19 +2034,23 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Magic. It must be magic. Somebody must have jinxed our ship, but I have no idea who would have done that or why."
+      "line": "Magic. It must be magic. Somebody must have jinxed our ship, but I have no idea who would have done that or why.",
+      "delivery": "ominous"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Although your highly suspicious behaviour towards me, and mysterious sudden appearance on board at the *exact time* that this jinx appears to have been brought upon us would seem to make you the obvious candidate."
+      "line": "Although your highly suspicious behaviour towards me, and mysterious sudden appearance on board at the *exact time* that this jinx appears to have been brought upon us would seem to make you the obvious candidate.",
+      "delivery": "accusing, suspicious"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "And we all know what we do to someone who is a jinx."
+      "line": "And we all know what we do to someone who is a jinx.",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
-      "line": "Uh... We do?"
+      "line": "Uh... We do?",
+      "delivery": "nervous"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1896,11 +2062,13 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Oh, it was horrible. I never knew the human body could contain so many mackerel."
+      "line": "Oh, it was horrible. I never knew the human body could contain so many mackerel.",
+      "delivery": "grim, disturbed"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "And then that thing they did with the tinderbox and the cheese... I still wake up with nightmares about that sometimes..."
+      "line": "And then that thing they did with the tinderbox and the cheese... I still wake up with nightmares about that sometimes...",
+      "delivery": "haunted"
     },
     {
       "character": "Player",
@@ -1908,7 +2076,8 @@
     },
     {
       "character": "Player",
-      "line": "SO! I've found you, YOU JINX!"
+      "line": "SO! I've found you, YOU JINX!",
+      "delivery": "shouting, accusatory"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1916,7 +2085,8 @@
     },
     {
       "character": "Player",
-      "line": "Sorry. I thought you might be, and that I could trick it out of you by shouting it at you as an accusation."
+      "line": "Sorry. I thought you might be, and that I could trick it out of you by shouting it at you as an accusation.",
+      "delivery": "sheepish"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -1932,7 +2102,8 @@
     },
     {
       "character": "Player",
-      "line": "(sigh) I suppose so... It just won't be as much fun..."
+      "line": "(sigh) I suppose so... It just won't be as much fun...",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
@@ -1952,7 +2123,8 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "Really? I hope not, they're evil things."
+      "line": "Really? I hope not, they're evil things.",
+      "delivery": "wary"
     },
     {
       "character": "Player",
@@ -2004,7 +2176,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "A jinx yer say? Wassat, some kinda fancy foreign vegetable?"
+      "line": "A jinx yer say? Wassat, some kinda fancy foreign vegetable?",
+      "delivery": "confused"
     },
     {
       "character": "Player",
@@ -2012,7 +2185,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "All vegetables are evil if you ask me!"
+      "line": "All vegetables are evil if you ask me!",
+      "delivery": "irritable"
     },
     {
       "character": "Player",
@@ -2028,7 +2202,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Or vegetables at all! Death ter vegetables!"
+      "line": "Or vegetables at all! Death ter vegetables!",
+      "delivery": "ranting, zealous"
     },
     {
       "character": "Player",
@@ -2044,11 +2219,13 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Yes, and I believe I'm looking right at him. Would this jinx also be a stowaway?"
+      "line": "Yes, and I believe I'm looking right at him. Would this jinx also be a stowaway?",
+      "delivery": "dry, pointed"
     },
     {
       "character": "Player",
-      "line": "Look, this calling me a stowaway and a jinx isn't funny!"
+      "line": "Look, this calling me a stowaway and a jinx isn't funny!",
+      "delivery": "frustrated"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -2064,7 +2241,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "You had better get some evidence quickly as well, I would so hate to have to kill you. Killing someone really tends to ruin my day."
+      "line": "You had better get some evidence quickly as well, I would so hate to have to kill you. Killing someone really tends to ruin my day.",
+      "delivery": "casual, menacing"
     },
     {
       "character": "Player",
@@ -2108,11 +2286,13 @@
     },
     {
       "character": "Cabin boy",
-      "line": "A jinx? I don't know ANYTHING about that!"
+      "line": "A jinx? I don't know ANYTHING about that!",
+      "delivery": "panicked"
     },
     {
       "character": "Cabin boy",
-      "line": "IT'S NOT MY FAULT OKAY?"
+      "line": "IT'S NOT MY FAULT OKAY?",
+      "delivery": "shouting, defensive"
     },
     {
       "character": "Player",
@@ -2120,7 +2300,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "You weren't? Oh. IT WAS STILL NOTHING TO DO WITH ME!"
+      "line": "You weren't? Oh. IT WAS STILL NOTHING TO DO WITH ME!",
+      "delivery": "shouting, guilty"
     },
     {
       "character": "Player",
@@ -2132,7 +2313,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "I'm always getting the blame for things that go wrong aboard."
+      "line": "I'm always getting the blame for things that go wrong aboard.",
+      "delivery": "glum, self-pitying"
     },
     {
       "character": "Player",
@@ -2152,11 +2334,13 @@
     },
     {
       "character": "Player",
-      "line": "IT MIGHT EVEN BE YOU!"
+      "line": "IT MIGHT EVEN BE YOU!",
+      "delivery": "shouting, accusatory"
     },
     {
       "character": "Jenny Blade",
-      "line": "Do I look like a jinx to you?"
+      "line": "Do I look like a jinx to you?",
+      "delivery": "unimpressed, confident"
     },
     {
       "character": "Player",
@@ -2164,7 +2348,8 @@
     },
     {
       "character": "Jenny Blade",
-      "line": "It might be an idea for you to find out before accusing people."
+      "line": "It might be an idea for you to find out before accusing people.",
+      "delivery": "cool, pointed"
     },
     {
       "character": "Player",
@@ -2192,7 +2377,8 @@
     },
     {
       "character": "Jack Sails",
-      "line": "Aw no... I hate those things..."
+      "line": "Aw no... I hate those things...",
+      "delivery": "dismayed"
     },
     {
       "character": "Player",
@@ -2208,7 +2394,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "A JINX you say???"
+      "line": "A JINX you say???",
+      "delivery": "alarmed"
     },
     {
       "character": "Captain Bentley",
@@ -2236,15 +2423,18 @@
     },
     {
       "character": "Parrot",
-      "line": "*brakawk* He means you dummy! You dummy! *Squawk*"
+      "line": "*brakawk* He means you dummy! You dummy! *Squawk*",
+      "delivery": "squawking, mocking"
     },
     {
       "character": "Captain Bentley",
-      "line": "Well, as Captain I have certain responsibilities that must be fulfilled, so I would greatly appreciate a little assistance in tracking down this jinx..."
+      "line": "Well, as Captain I have certain responsibilities that must be fulfilled, so I would greatly appreciate a little assistance in tracking down this jinx...",
+      "delivery": "diplomatic, cajoling"
     },
     {
       "character": "Player",
-      "line": "Yeah, I was afraid you were going to say that..."
+      "line": "Yeah, I was afraid you were going to say that...",
+      "delivery": "resigned, weary"
     },
     {
       "character": "Player",
@@ -2252,11 +2442,13 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Good lad! Let me know if you find out anything important."
+      "line": "Good lad! Let me know if you find out anything important.",
+      "delivery": "hearty, encouraging"
     },
     {
       "character": "Player",
-      "line": "(sigh) Yes, Captain."
+      "line": "(sigh) Yes, Captain.",
+      "delivery": "weary, resigned"
     },
     {
       "character": "Player",
@@ -2308,11 +2500,13 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "But at sea! With nothing saving you from the cold murky death of drowning except the wood below your feet?"
+      "line": "But at sea! With nothing saving you from the cold murky death of drowning except the wood below your feet?",
+      "delivery": "ominous"
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Why, jinxes can kill not just you, but the entire crew of a ship! They are an evil thing indeed, and the only thing you can do to save yourself and your crew is to forcibly"
+      "line": "Why, jinxes can kill not just you, but the entire crew of a ship! They are an evil thing indeed, and the only thing you can do to save yourself and your crew is to forcibly",
+      "delivery": "grave, warning"
     },
     {
       "character": "'Eagle-eye' Shultz",
@@ -2328,7 +2522,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Oh, yes. But they would have to be a very magical and very evil person to risk the lives of an entire ship over some trivial matter."
+      "line": "Oh, yes. But they would have to be a very magical and very evil person to risk the lives of an entire ship over some trivial matter.",
+      "delivery": "foreboding"
     },
     {
       "character": "Player",
@@ -2424,7 +2619,8 @@
     },
     {
       "character": "'Sticky' Sanders",
-      "line": "Gosh, I hope not. They might have been very hospitable towards us, but there was definitely something spooky about them!"
+      "line": "Gosh, I hope not. They might have been very hospitable towards us, but there was definitely something spooky about them!",
+      "delivery": "uneasy"
     },
     {
       "character": "Player",
@@ -2448,27 +2644,33 @@
     },
     {
       "character": "Murky Pat",
-      "line": "What?!?!"
+      "line": "What?!?!",
+      "delivery": "offended, menacing"
     },
     {
       "character": "Player",
-      "line": "Does your mere presence at any occasion cause young children to start crying, old ladies to faint, that kind of thing?"
+      "line": "Does your mere presence at any occasion cause young children to start crying, old ladies to faint, that kind of thing?",
+      "delivery": "mock-innocent"
     },
     {
       "character": "Murky Pat",
-      "line": "I'm not sure I like your tone of voice!"
+      "line": "I'm not sure I like your tone of voice!",
+      "delivery": "menacing, threatening"
     },
     {
       "character": "Player",
-      "line": "Look, all I want to know is if your terrible disregard for social niceties has caused a jinx to be levelled upon this ship and all who sail in her."
+      "line": "Look, all I want to know is if your terrible disregard for social niceties has caused a jinx to be levelled upon this ship and all who sail in her.",
+      "delivery": "accusatory"
     },
     {
       "character": "Murky Pat",
-      "line": "ABSOLUTELY NOT!!!"
+      "line": "ABSOLUTELY NOT!!!",
+      "delivery": "shouting, indignant"
     },
     {
       "character": "Player",
-      "line": "Okay, thanks! All I wanted to know!"
+      "line": "Okay, thanks! All I wanted to know!",
+      "delivery": "hasty, placating"
     },
     {
       "character": "Player",
@@ -2492,11 +2694,13 @@
     },
     {
       "character": "Player",
-      "line": "I have heard some terrible, scurrilous rumours about your wanton and depraved behaviour towards the Moon Clan when on shore leave."
+      "line": "I have heard some terrible, scurrilous rumours about your wanton and depraved behaviour towards the Moon Clan when on shore leave.",
+      "delivery": "theatrical, accusatory"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "What? What ARE you talking about?"
+      "line": "What? What ARE you talking about?",
+      "delivery": "baffled"
     },
     {
       "character": "Player",
@@ -2504,7 +2708,8 @@
     },
     {
       "character": "Player",
-      "line": "Your behaviour was so bad that the Moon Clan have brought a terrible curse down upon the ship, trapping it on this gods-forsaken island forever!"
+      "line": "Your behaviour was so bad that the Moon Clan have brought a terrible curse down upon the ship, trapping it on this gods-forsaken island forever!",
+      "delivery": "dramatic"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -2524,7 +2729,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh.. erm... Well done. You've passed the test."
+      "line": "Oh.. erm... Well done. You've passed the test.",
+      "delivery": "backpedaling, bluffing"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -2544,7 +2750,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "A stowaway, a jinx, AND a liar."
+      "line": "A stowaway, a jinx, AND a liar.",
+      "delivery": "contemptuous"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -2620,7 +2827,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "I SWEAR I DIDN'T MEAN TO!"
+      "line": "I SWEAR I DIDN'T MEAN TO!",
+      "delivery": "panicked"
     },
     {
       "character": "Player",
@@ -2632,7 +2840,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "And nobody can prove that I did, even if I had, which I didn't so they can't. So there."
+      "line": "And nobody can prove that I did, even if I had, which I didn't so they can't. So there.",
+      "delivery": "defiant, guilty"
     },
     {
       "character": "Player",
@@ -2640,11 +2849,13 @@
     },
     {
       "character": "Cabin boy",
-      "line": "No, I'm telling you the EXACT OPPOSITE!"
+      "line": "No, I'm telling you the EXACT OPPOSITE!",
+      "delivery": "shouting, defensive"
     },
     {
       "character": "Cabin boy",
-      "line": "It wasn't me! I SWEAR!"
+      "line": "It wasn't me! I SWEAR!",
+      "delivery": "desperate"
     },
     {
       "character": "Player",
@@ -2652,15 +2863,18 @@
     },
     {
       "character": "Cabin boy",
-      "line": "NO! NOT ME! NUH-UH! NO WAY!"
+      "line": "NO! NOT ME! NUH-UH! NO WAY!",
+      "delivery": "frantic, shouting"
     },
     {
       "character": "Player",
-      "line": "Okay, okay, I believe you, I believe you. There's no need to shout at me."
+      "line": "Okay, okay, I believe you, I believe you. There's no need to shout at me.",
+      "delivery": "placating"
     },
     {
       "character": "Cabin boy",
-      "line": "Sorry, I just didn't want you getting the wrong impression and telling the Captain anything, is all."
+      "line": "Sorry, I just didn't want you getting the wrong impression and telling the Captain anything, is all.",
+      "delivery": "sheepish, nervous"
     },
     {
       "character": "Player",
@@ -2668,19 +2882,23 @@
     },
     {
       "character": "Cabin boy",
-      "line": "IT WASN'T -"
+      "line": "IT WASN'T -",
+      "delivery": "blurting, guilty"
     },
     {
       "character": "Cabin boy",
-      "line": "Oh, I mean, goodbye stowaway."
+      "line": "Oh, I mean, goodbye stowaway.",
+      "delivery": "hasty, covering"
     },
     {
       "character": "Player",
-      "line": "AH-HA! I KNOW it was YOU!"
+      "line": "AH-HA! I KNOW it was YOU!",
+      "delivery": "triumphant, accusatory"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Oh, what is it now?"
+      "line": "Oh, what is it now?",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -2708,7 +2926,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "I am the very model of self-restraint. As you should have realised by now, as I haven't yet given the order to have you put to death. Yet."
+      "line": "I am the very model of self-restraint. As you should have realised by now, as I haven't yet given the order to have you put to death. Yet.",
+      "delivery": "dry, menacing"
     },
     {
       "character": "Player",
@@ -2728,11 +2947,13 @@
     },
     {
       "character": "Player",
-      "line": "Fine. But I've got my eye on you Mr Navigator!"
+      "line": "Fine. But I've got my eye on you Mr Navigator!",
+      "delivery": "suspicious, warning"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Yes, and I certainly have my eye on you."
+      "line": "Yes, and I certainly have my eye on you.",
+      "delivery": "pointed, wary"
     },
     {
       "character": "Player",
@@ -2740,7 +2961,8 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "Oh yeah! It was great! They're kind of spooky, but hey, it was a great do they laid on for us!"
+      "line": "Oh yeah! It was great! They're kind of spooky, but hey, it was a great do they laid on for us!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
@@ -2800,7 +3022,8 @@
     },
     {
       "character": "'Picarron' Pete",
-      "line": "Heavens, no! Just because I'm a pirate doesn't mean I don't treat all cultures no matter how different with the utmost respect!"
+      "line": "Heavens, no! Just because I'm a pirate doesn't mean I don't treat all cultures no matter how different with the utmost respect!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -2824,15 +3047,18 @@
     },
     {
       "character": "Player",
-      "line": "Dude! Duuuuuuude! Dude!"
+      "line": "Dude! Duuuuuuude! Dude!",
+      "delivery": "over-excited"
     },
     {
       "character": "'Betty' B.Boppin",
-      "line": "I'm sorry, do I know you?"
+      "line": "I'm sorry, do I know you?",
+      "delivery": "confused"
     },
     {
       "character": "Player",
-      "line": "Dude! How about them Moon Clan, huh?"
+      "line": "Dude! How about them Moon Clan, huh?",
+      "delivery": "over-familiar"
     },
     {
       "character": "Player",
@@ -2848,11 +3074,13 @@
     },
     {
       "character": "Player",
-      "line": "And I look like an idiot now, don't I?"
+      "line": "And I look like an idiot now, don't I?",
+      "delivery": "embarrassed, deflated"
     },
     {
       "character": "'Betty' B.Boppin",
-      "line": "You do, yes. Very much so."
+      "line": "You do, yes. Very much so.",
+      "delivery": "deadpan, blunt"
     },
     {
       "character": "Player",
@@ -2924,7 +3152,8 @@
     },
     {
       "character": "Player",
-      "line": "I think I have my suspect for when the Moon Clan were offended."
+      "line": "I think I have my suspect for when the Moon Clan were offended.",
+      "delivery": "satisfied, scheming"
     },
     {
       "character": "Player",
@@ -2944,7 +3173,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "All the pirates cept'n me yer mean?"
+      "line": "All the pirates cept'n me yer mean?",
+      "delivery": "pointed, correcting"
     },
     {
       "character": "Player",
@@ -2964,7 +3194,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Yer wants me ter be telling yers all about a feast I wasnae even at?"
+      "line": "Yer wants me ter be telling yers all about a feast I wasnae even at?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -2972,7 +3203,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "I thinks yer need to be laying off of the old alkyhol, mate."
+      "line": "I thinks yer need to be laying off of the old alkyhol, mate.",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Player",
@@ -3048,7 +3280,8 @@
     },
     {
       "character": "'Picarron' Pete",
-      "line": "Oh man, that feast totally RAWKED!"
+      "line": "Oh man, that feast totally RAWKED!",
+      "delivery": "enthusiastic, hyped"
     },
     {
       "character": "Player",
@@ -3056,7 +3289,8 @@
     },
     {
       "character": "'Picarron' Pete",
-      "line": "Oh man, like you WOULDN'T BELIEVE!"
+      "line": "Oh man, like you WOULDN'T BELIEVE!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -3104,7 +3338,8 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "I'm sorry, I didn't see much beyond the food on my plate and the grog in my tankard."
+      "line": "I'm sorry, I didn't see much beyond the food on my plate and the grog in my tankard.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -3112,7 +3347,8 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "Well, good luck with that. I'm very uneasy knowing that there's a jinx on board."
+      "line": "Well, good luck with that. I'm very uneasy knowing that there's a jinx on board.",
+      "delivery": "uneasy, worried"
     },
     {
       "character": "Bedread the bold",
@@ -3124,7 +3360,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "Ah yes, those were the days!"
+      "line": "Ah yes, those were the days!",
+      "delivery": "nostalgic"
     },
     {
       "character": "Player",
@@ -3132,11 +3369,13 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "Oh, like you wouldn't believe... The food... The wine... The women... The songs..."
+      "line": "Oh, like you wouldn't believe... The food... The wine... The women... The songs...",
+      "delivery": "wistful, dreamy"
     },
     {
       "character": "Bedread the bold",
-      "line": "It was everything any honest pirate could ever hope for!"
+      "line": "It was everything any honest pirate could ever hope for!",
+      "delivery": "fond"
     },
     {
       "character": "Player",
@@ -3164,15 +3403,18 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Oh no, not you again!"
+      "line": "Oh no, not you again!",
+      "delivery": "dismayed, weary"
     },
     {
       "character": "Player",
-      "line": "AH-HA! IS that an admission of guilt?"
+      "line": "AH-HA! IS that an admission of guilt?",
+      "delivery": "triumphant, accusatory"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "How is that an admission of guilt???"
+      "line": "How is that an admission of guilt???",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -3180,7 +3422,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "What's to deny??? You haven't asked me anything!"
+      "line": "What's to deny??? You haven't asked me anything!",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
@@ -3188,7 +3431,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "(sigh) Please... Please just ask me your questions then leave me alone..."
+      "line": "(sigh) Please... Please just ask me your questions then leave me alone...",
+      "delivery": "weary, pleading"
     },
     {
       "character": "Player",
@@ -3216,7 +3460,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm asking the questions here!"
+      "line": "I'm asking the questions here!",
+      "delivery": "commanding, bravado"
     },
     {
       "character": "Player",
@@ -3224,7 +3469,8 @@
     },
     {
       "character": "Player",
-      "line": "But I put it to you Mr Navigator that once you had arrived at the feast, when it grew quieter and nobody noticed, you left and decided to steal something from the Moon Clan, and be very rude to some other"
+      "line": "But I put it to you Mr Navigator that once you had arrived at the feast, when it grew quieter and nobody noticed, you left and decided to steal something from the Moon Clan, and be very rude to some other",
+      "delivery": "theatrical, accusatory"
     },
     {
       "character": "Player",
@@ -3232,7 +3478,8 @@
     },
     {
       "character": "Player",
-      "line": "And then you... I don't know. Killed their puppies or something."
+      "line": "And then you... I don't know. Killed their puppies or something.",
+      "delivery": "deadpan, absurd"
     },
     {
       "character": "Player",
@@ -3244,11 +3491,13 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Look, I've had just about enough of you!"
+      "line": "Look, I've had just about enough of you!",
+      "delivery": "angry, fed up"
     },
     {
       "character": "Player",
-      "line": "AH-HA! I notice you don't deny it!"
+      "line": "AH-HA! I notice you don't deny it!",
+      "delivery": "triumphant"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -3256,7 +3505,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "ARE TOO!"
+      "line": "ARE TOO!",
+      "delivery": "shouting, childish"
     },
     {
       "character": "Player",
@@ -3264,7 +3514,8 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Confess to WHAT exactly??? I have done nothing wrong!"
+      "line": "Confess to WHAT exactly??? I have done nothing wrong!",
+      "delivery": "shouting, exasperated"
     },
     {
       "character": "'Birds-Eye' Jack",
@@ -3336,7 +3587,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Mmmmm? You have information on what has happened to my ship for me?"
+      "line": "Mmmmm? You have information on what has happened to my ship for me?",
+      "delivery": "anxious, hopeful"
     },
     {
       "character": "Player",
@@ -3364,7 +3616,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Hmmm. You know, that's some good thinking. You're right, I suspect something like that did indeed happen."
+      "line": "Hmmm. You know, that's some good thinking. You're right, I suspect something like that did indeed happen.",
+      "delivery": "approving, thoughtful"
     },
     {
       "character": "Captain Bentley",
@@ -3372,7 +3625,8 @@
     },
     {
       "character": "Parrot",
-      "line": "*Brakawk* Who's a jinx? Who's a jinx?"
+      "line": "*Brakawk* Who's a jinx? Who's a jinx?",
+      "delivery": "squawking"
     },
     {
       "character": "Player",
@@ -3388,11 +3642,13 @@
     },
     {
       "character": "Player",
-      "line": "So let's begin with you: Where were you at the night of the feast, and what exactly were you doing?"
+      "line": "So let's begin with you: Where were you at the night of the feast, and what exactly were you doing?",
+      "delivery": "interrogating, mock-serious"
     },
     {
       "character": "Captain Bentley",
-      "line": "WHAT? You suspect ME of having been jinxed???"
+      "line": "WHAT? You suspect ME of having been jinxed???",
+      "delivery": "indignant, affronted"
     },
     {
       "character": "Player",
@@ -3436,11 +3692,13 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "We're pirates after all, not barbarians!"
+      "line": "We're pirates after all, not barbarians!",
+      "delivery": "proud, indignant"
     },
     {
       "character": "Parrot",
-      "line": "*Squawk* Not barbarians! Not barbarians! *Squawk*"
+      "line": "*Squawk* Not barbarians! Not barbarians! *Squawk*",
+      "delivery": "squawking"
     },
     {
       "character": "Player",
@@ -3448,7 +3706,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Please keep me informed of your discoveries. A jinx is an evil thing, and if one of my crew has brought it upon the Lady Zay, then I want to know about it."
+      "line": "Please keep me informed of your discoveries. A jinx is an evil thing, and if one of my crew has brought it upon the Lady Zay, then I want to know about it.",
+      "delivery": "grave, firm"
     },
     {
       "character": "Player",
@@ -3472,11 +3731,13 @@
     },
     {
       "character": "Murky Pat",
-      "line": "Yes, it's a very rare medical condition."
+      "line": "Yes, it's a very rare medical condition.",
+      "delivery": "deadpan"
     },
     {
       "character": "Murky Pat",
-      "line": "When I'm drunk I become completely silent and immobile, and just sit quietly by myself until I have sobered up."
+      "line": "When I'm drunk I become completely silent and immobile, and just sit quietly by myself until I have sobered up.",
+      "delivery": "deadpan, matter-of-fact"
     },
     {
       "character": "Player",
@@ -3484,7 +3745,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "Oh, absolutely. I'm in the medical books and everything."
+      "line": "Oh, absolutely. I'm in the medical books and everything.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
@@ -3540,7 +3802,8 @@
     },
     {
       "character": "Player",
-      "line": "Not very well to be honest..."
+      "line": "Not very well to be honest...",
+      "delivery": "discouraged, weary"
     },
     {
       "character": "Player",
@@ -3560,7 +3823,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Well now, let's see..."
+      "line": "Well now, let's see...",
+      "delivery": "thoughtful, recalling"
     },
     {
       "character": "'Eagle-eye' Shultz",
@@ -3588,15 +3852,18 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "No, not at all! A couple of charming Moon Clan members came over and danced along with us!"
+      "line": "No, not at all! A couple of charming Moon Clan members came over and danced along with us!",
+      "delivery": "cheerful"
     },
     {
       "character": "Player",
-      "line": "Well, thanks for the help, but I don't think I'm any closer to solving this whole jinx mystery..."
+      "line": "Well, thanks for the help, but I don't think I'm any closer to solving this whole jinx mystery...",
+      "delivery": "discouraged"
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Well, I wish you luck, because it is very unnerving to think that I'm sailing on a cursed ship!"
+      "line": "Well, I wish you luck, because it is very unnerving to think that I'm sailing on a cursed ship!",
+      "delivery": "unnerved, anxious"
     },
     {
       "character": "Player",
@@ -3628,23 +3895,28 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Hi. Did you find the jinx yet?"
+      "line": "Hi. Did you find the jinx yet?",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
-      "line": "Funny you should ask, I have a few questions for you about that."
+      "line": "Funny you should ask, I have a few questions for you about that.",
+      "delivery": "pointed"
     },
     {
       "character": "Cabin boy",
-      "line": "Oh no... Look, I'm SO SORRY, I SWEAR it wasn't my fault!"
+      "line": "Oh no... Look, I'm SO SORRY, I SWEAR it wasn't my fault!",
+      "delivery": "panicked, guilty"
     },
     {
       "character": "Player",
-      "line": "Huh?"
+      "line": "Huh?",
+      "delivery": "confused"
     },
     {
       "character": "Cabin boy",
-      "line": "Erm, sorry, nothing, what did you want to know?"
+      "line": "Erm, sorry, nothing, what did you want to know?",
+      "delivery": "nervous, backpedaling"
     },
     {
       "character": "Player",
@@ -3652,7 +3924,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Oh, the feast, right, yeah, I was definitely there at that, absolutely."
+      "line": "Oh, the feast, right, yeah, I was definitely there at that, absolutely.",
+      "delivery": "nervous, overcompensating"
     },
     {
       "character": "Player",
@@ -3660,7 +3933,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Um, no, no, everyone was there, yup."
+      "line": "Um, no, no, everyone was there, yup.",
+      "delivery": "evasive"
     },
     {
       "character": "Player",
@@ -3668,27 +3942,33 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Nope, we had a meal and then, um, some other stuff happened..."
+      "line": "Nope, we had a meal and then, um, some other stuff happened...",
+      "delivery": "evasive, fumbling"
     },
     {
       "character": "Cabin boy",
-      "line": "Um... And then... Er, we all went to bed for an early night."
+      "line": "Um... And then... Er, we all went to bed for an early night.",
+      "delivery": "fumbling"
     },
     {
       "character": "Player",
-      "line": "Really? That doesn't sound much like the big raucous feast I've been hearing about from other people..."
+      "line": "Really? That doesn't sound much like the big raucous feast I've been hearing about from other people...",
+      "delivery": "skeptical"
     },
     {
       "character": "Cabin boy",
-      "line": "No, it TOTALLY happened EXACTLY like that. I swear."
+      "line": "No, it TOTALLY happened EXACTLY like that. I swear.",
+      "delivery": "desperate, insistent"
     },
     {
       "character": "Player",
-      "line": "Hmmm. Weird. Maybe I'm barking up the wrong tree..."
+      "line": "Hmmm. Weird. Maybe I'm barking up the wrong tree...",
+      "delivery": "suspicious, musing"
     },
     {
       "character": "Cabin boy",
-      "line": "Yup, sounds like it, okay, well 'bye!"
+      "line": "Yup, sounds like it, okay, well 'bye!",
+      "delivery": "eager, dismissive"
     },
     {
       "character": "Player",
@@ -3696,7 +3976,8 @@
     },
     {
       "character": "'Lecherous' Lee",
-      "line": "Aaaahhhh yes.... I was quite taken with their hospitality!"
+      "line": "Aaaahhhh yes.... I was quite taken with their hospitality!",
+      "delivery": "fond, reminiscing"
     },
     {
       "character": "Player",
@@ -3716,7 +3997,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay tha- Wait, you say you saw the First Mate slip away in the middle of the feast?"
+      "line": "Okay tha- Wait, you say you saw the First Mate slip away in the middle of the feast?",
+      "delivery": "surprised, alert"
     },
     {
       "character": "'Lecherous' Lee",
@@ -3744,11 +4026,13 @@
     },
     {
       "character": "'Lecherous' Lee",
-      "line": "What? Why? Because I said I saw him slip away in the middle of the feast?"
+      "line": "What? Why? Because I said I saw him slip away in the middle of the feast?",
+      "delivery": "surprised, defensive"
     },
     {
       "character": "Player",
-      "line": "Erm.. Yes?"
+      "line": "Erm.. Yes?",
+      "delivery": "sheepish"
     },
     {
       "character": "'Lecherous' Lee",
@@ -3764,7 +4048,8 @@
     },
     {
       "character": "Player",
-      "line": "I have some good news!"
+      "line": "I have some good news!",
+      "delivery": "upbeat, pleased"
     },
     {
       "character": "Cabin boy",
@@ -3772,11 +4057,13 @@
     },
     {
       "character": "Player",
-      "line": "After much to-ing and fro-ing, I've discovered that not everybody who was supposed to be at the feast actually was!"
+      "line": "After much to-ing and fro-ing, I've discovered that not everybody who was supposed to be at the feast actually was!",
+      "delivery": "pleased, building"
     },
     {
       "character": "Cabin boy",
-      "line": "W-what???"
+      "line": "W-what???",
+      "delivery": "panicked, stammering"
     },
     {
       "character": "Player",
@@ -3784,19 +4071,23 @@
     },
     {
       "character": "Player",
-      "line": "Unfortunately for them, somebody DID see them leave, and I'm pretty sure whatever they were up to caused this jinx."
+      "line": "Unfortunately for them, somebody DID see them leave, and I'm pretty sure whatever they were up to caused this jinx.",
+      "delivery": "building, ominous"
     },
     {
       "character": "Cabin boy",
-      "line": "I'M SO SORRY! I SWEAR I DIDN'T MEAN TO!"
+      "line": "I'M SO SORRY! I SWEAR I DIDN'T MEAN TO!",
+      "delivery": "shouting, panicked"
     },
     {
       "character": "Player",
-      "line": "Oh, did you see the First Mate leave as well?"
+      "line": "Oh, did you see the First Mate leave as well?",
+      "delivery": "puzzled"
     },
     {
       "character": "Cabin boy",
-      "line": "W-what?"
+      "line": "W-what?",
+      "delivery": "stammering"
     },
     {
       "character": "Player",
@@ -3804,15 +4095,18 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Um, no, no it really was, yup, so somebody saw the first mate leave and not, oh, say, saw me, right?"
+      "line": "Um, no, no it really was, yup, so somebody saw the first mate leave and not, oh, say, saw me, right?",
+      "delivery": "nervous, deflecting"
     },
     {
       "character": "Player",
-      "line": "You left the feast?"
+      "line": "You left the feast?",
+      "delivery": "pointed"
     },
     {
       "character": "Cabin boy",
-      "line": "Ahahahahaha no, no, not at all, definitely not, nope."
+      "line": "Ahahahahaha no, no, not at all, definitely not, nope.",
+      "delivery": "forced laughter, lying"
     },
     {
       "character": "Player",
@@ -3820,7 +4114,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "So it was all his fault? What a relief, uh, tragedy that has befallen us that is entirely all his fault and not mine."
+      "line": "So it was all his fault? What a relief, uh, tragedy that has befallen us that is entirely all his fault and not mine.",
+      "delivery": "relieved, awkward"
     },
     {
       "character": "Player",
@@ -3840,11 +4135,13 @@
     },
     {
       "character": "Player",
-      "line": "Well, you know. It's fifty percent baseless gossip and fifty percent unfounded speculation."
+      "line": "Well, you know. It's fifty percent baseless gossip and fifty percent unfounded speculation.",
+      "delivery": "deadpan"
     },
     {
       "character": "'Sticky' Sanders",
-      "line": "...I see. I don't for a second agree with you, but I see."
+      "line": "...I see. I don't for a second agree with you, but I see.",
+      "delivery": "skeptical, dry"
     },
     {
       "character": "Player",
@@ -3852,7 +4149,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Davey-boy? What do you want to know about HIM for?"
+      "line": "Davey-boy? What do you want to know about HIM for?",
+      "delivery": "surprised"
     },
     {
       "character": "Player",
@@ -3872,7 +4170,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "We're talking about the same Davey-boy here?"
+      "line": "We're talking about the same Davey-boy here?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -3880,7 +4179,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "I don't believe it of him. Honestly, I can't say I like the man, but he has integrity."
+      "line": "I don't believe it of him. Honestly, I can't say I like the man, but he has integrity.",
+      "delivery": "earnest"
     },
     {
       "character": "'Eagle-eye' Shultz",
@@ -3896,7 +4196,8 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "The things that make him a very boring human being are what makes him a superb first mate."
+      "line": "The things that make him a very boring human being are what makes him a superb first mate.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -3924,7 +4225,8 @@
     },
     {
       "character": "Jack Sails",
-      "line": "Him? Naaaaaaaah..."
+      "line": "Him? Naaaaaaaah...",
+      "delivery": "dismissive, drawn-out"
     },
     {
       "character": "Jack Sails",
@@ -3944,15 +4246,18 @@
     },
     {
       "character": "Player",
-      "line": "I am forced to conclude he did so in order to get up to shenanigans."
+      "line": "I am forced to conclude he did so in order to get up to shenanigans.",
+      "delivery": "mock-serious"
     },
     {
       "character": "Murky Pat",
-      "line": "Shenanigans?"
+      "line": "Shenanigans?",
+      "delivery": "gruff, questioning"
     },
     {
       "character": "Player",
-      "line": "Indeed!"
+      "line": "Indeed!",
+      "delivery": "emphatic"
     },
     {
       "character": "Murky Pat",
@@ -3960,7 +4265,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "HE would never do anything to harm the ship or its crew."
+      "line": "HE would never do anything to harm the ship or its crew.",
+      "delivery": "firm, menacing"
     },
     {
       "character": "Player",
@@ -3968,7 +4274,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "Really."
+      "line": "Really.",
+      "delivery": "flat, firm"
     },
     {
       "character": "Player",
@@ -3976,15 +4283,18 @@
     },
     {
       "character": "Murky Pat",
-      "line": "I think you'd better."
+      "line": "I think you'd better.",
+      "delivery": "firm"
     },
     {
       "character": "Player",
-      "line": "Captain! I think I've made a breakthrough!"
+      "line": "Captain! I think I've made a breakthrough!",
+      "delivery": "excited"
     },
     {
       "character": "Captain Bentley",
-      "line": "Oh? Please, do tell."
+      "line": "Oh? Please, do tell.",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -3992,19 +4302,23 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Davey-boy?"
+      "line": "Davey-boy?",
+      "delivery": "incredulous"
     },
     {
       "character": "Captain Bentley",
-      "line": "Rubbish. I don't believe it. You must be mistaken."
+      "line": "Rubbish. I don't believe it. You must be mistaken.",
+      "delivery": "dismissive, firm"
     },
     {
       "character": "Player",
-      "line": "Well, I have a witness..."
+      "line": "Well, I have a witness...",
+      "delivery": "defensive"
     },
     {
       "character": "Captain Bentley",
-      "line": "I don't care. Not him. No way. I suggest you go and speak to him about this, whatever he did he would have had a very good reason for,"
+      "line": "I don't care. Not him. No way. I suggest you go and speak to him about this, whatever he did he would have had a very good reason for,",
+      "delivery": "firm, insistent"
     },
     {
       "character": "Captain Bentley",
@@ -4020,19 +4334,23 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Oh, what now???"
+      "line": "Oh, what now???",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "I just thought you might like to know, that I have reluctantly decided that the problems with the ship may possibly in some small degree perhaps actually not be entirely down to your incompetence after all."
+      "line": "I just thought you might like to know, that I have reluctantly decided that the problems with the ship may possibly in some small degree perhaps actually not be entirely down to your incompetence after all.",
+      "delivery": "mock-reluctant"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "That's your way of apologising for falsely accusing me of all that stuff earlier is it?"
+      "line": "That's your way of apologising for falsely accusing me of all that stuff earlier is it?",
+      "delivery": "irritated, sarcastic"
     },
     {
       "character": "Player",
-      "line": "No, because an apology would imply that I have done something wrong, and I still think that your rubbishness at, er, navigatorness, is a contributing factor towards the ships problems."
+      "line": "No, because an apology would imply that I have done something wrong, and I still think that your rubbishness at, er, navigatorness, is a contributing factor towards the ships problems.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -4040,19 +4358,23 @@
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Why, you insufferable..."
+      "line": "Why, you insufferable...",
+      "delivery": "angry, seething"
     },
     {
       "character": "Player",
-      "line": "And let me assure you, if I find out that you were in cahoots with the First Mate to bring this jinx upon us, then I will not hesitate to bring it to the Captains attention."
+      "line": "And let me assure you, if I find out that you were in cahoots with the First Mate to bring this jinx upon us, then I will not hesitate to bring it to the Captains attention.",
+      "delivery": "warning, threatening"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "Wait, you mean you're saying you think the First Mate has done this???"
+      "line": "Wait, you mean you're saying you think the First Mate has done this???",
+      "delivery": "incredulous"
     },
     {
       "character": "'Birds-Eye' Jack",
-      "line": "No. No way. You're even more off base with your crazy assumptions than ever."
+      "line": "No. No way. You're even more off base with your crazy assumptions than ever.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -4068,7 +4390,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "It would indeed, because I saw him there with my own eyes!"
+      "line": "It would indeed, because I saw him there with my own eyes!",
+      "delivery": "emphatic, certain"
     },
     {
       "character": "Player",
@@ -4160,7 +4483,8 @@
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "Really. And?"
+      "line": "Really. And?",
+      "delivery": "flat, intense"
     },
     {
       "character": "Player",
@@ -4168,11 +4492,13 @@
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "No, that's what I was asking you."
+      "line": "No, that's what I was asking you.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "I'll ask the questions here!"
+      "line": "I'll ask the questions here!",
+      "delivery": "indignant, blustering"
     },
     {
       "character": "'Beedy-eye' Jones",
@@ -4180,11 +4506,13 @@
     },
     {
       "character": "Player",
-      "line": "I, um, can't remember now..."
+      "line": "I, um, can't remember now...",
+      "delivery": "sheepish, fumbling"
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "Maybe you'd better go think about it then."
+      "line": "Maybe you'd better go think about it then.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -4220,19 +4548,23 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Ter be honest, I don't remember much of what happened terday, let alone stuff that happened awhiles back"
+      "line": "Ter be honest, I don't remember much of what happened terday, let alone stuff that happened awhiles back",
+      "delivery": "gruff, rambling"
     },
     {
       "character": "Player",
-      "line": "Er... okay then."
+      "line": "Er... okay then.",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
-      "line": "So... Finally we get to the truth... MISTER Davey-boy."
+      "line": "So... Finally we get to the truth... MISTER Davey-boy.",
+      "delivery": "dramatic, accusing"
     },
     {
       "character": "Player",
-      "line": "IF that's even your REAL name."
+      "line": "IF that's even your REAL name.",
+      "delivery": "theatrical, accusing"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -4240,27 +4572,33 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "You're finally confessing to being a stowaway and a jinx?"
+      "line": "You're finally confessing to being a stowaway and a jinx?",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Player",
-      "line": "What? NO"
+      "line": "What? NO",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
-      "line": "No, Davey, this is about YOU!"
+      "line": "No, Davey, this is about YOU!",
+      "delivery": "accusing"
     },
     {
       "character": "Player",
-      "line": "This is about your LIES and your BAD behaviour!"
+      "line": "This is about your LIES and your BAD behaviour!",
+      "delivery": "theatrical, accusing"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Oh, what on Gielinor are you on about now?"
+      "line": "Oh, what on Gielinor are you on about now?",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "I know your SECRET Mr first mate! I know that you are a PHONY!"
+      "line": "I know your SECRET Mr first mate! I know that you are a PHONY!",
+      "delivery": "dramatic, accusing"
     },
     {
       "character": "Player",
@@ -4268,7 +4606,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Night in question? Phony? Secret?"
+      "line": "Night in question? Phony? Secret?",
+      "delivery": "baffled"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -4276,15 +4615,18 @@
     },
     {
       "character": "Player",
-      "line": "Oh, come come, Davey-boy! It is too late to weasel your way out of this one!"
+      "line": "Oh, come come, Davey-boy! It is too late to weasel your way out of this one!",
+      "delivery": "smug, theatrical"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "I have absolutely no idea what on earth you are talking about."
+      "line": "I have absolutely no idea what on earth you are talking about.",
+      "delivery": "flat, exasperated"
     },
     {
       "character": "Player",
-      "line": "Oh, you know... your ALIBI?!?!"
+      "line": "Oh, you know... your ALIBI?!?!",
+      "delivery": "dramatic"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -4292,35 +4634,43 @@
     },
     {
       "character": "Player",
-      "line": "YOU know. How you told me that you were at that feast on Lunar Isle ALL night?"
+      "line": "YOU know. How you told me that you were at that feast on Lunar Isle ALL night?",
+      "delivery": "pointed"
     },
     {
       "character": "Player",
-      "line": "Well, let me tell YOU that you are a LIAR!"
+      "line": "Well, let me tell YOU that you are a LIAR!",
+      "delivery": "shouting, accusing"
     },
     {
       "character": "Player",
-      "line": "I have an eyewitness that SAW you leave the feast, and go off and do who-knows-what for a good TWENTY MINUTES!"
+      "line": "I have an eyewitness that SAW you leave the feast, and go off and do who-knows-what for a good TWENTY MINUTES!",
+      "delivery": "dramatic, triumphant"
     },
     {
       "character": "Player",
-      "line": "I think it is time to come clean, Davey-boy. I think we should hear the truth."
+      "line": "I think it is time to come clean, Davey-boy. I think we should hear the truth.",
+      "delivery": "demanding"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "What? Well of COURSE I was at that feast all ni..."
+      "line": "What? Well of COURSE I was at that feast all ni...",
+      "delivery": "defensive, faltering"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "...Hmmm. You know, now that you come to mention it, you are correct, I did leave the feast."
+      "line": "...Hmmm. You know, now that you come to mention it, you are correct, I did leave the feast.",
+      "delivery": "realizing, thoughtful"
     },
     {
       "character": "Player",
-      "line": "AH-HA! I KNEW IT!"
+      "line": "AH-HA! I KNEW IT!",
+      "delivery": "triumphant, shouting"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Oh, do calm down, it was nothing particularly interesting."
+      "line": "Oh, do calm down, it was nothing particularly interesting.",
+      "delivery": "dismissive, calm"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -4352,7 +4702,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Pirates Regulations #445-328."
+      "line": "Pirates Regulations #445-328.",
+      "delivery": "matter-of-fact, officious"
     },
     {
       "character": "Player",
@@ -4364,7 +4715,8 @@
     },
     {
       "character": "Player",
-      "line": "Wait, so he wasn't even at the feast?"
+      "line": "Wait, so he wasn't even at the feast?",
+      "delivery": "realizing"
     },
     {
       "character": "First mate 'Davey-boy'",
@@ -4372,31 +4724,38 @@
     },
     {
       "character": "Player",
-      "line": "So the cabin boy wasn't at the feast at all? WHY DIDN'T YOU TELL ME EARLIER?!?!"
+      "line": "So the cabin boy wasn't at the feast at all? WHY DIDN'T YOU TELL ME EARLIER?!?!",
+      "delivery": "exasperated, shouting"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "I suppose it slipped my mind. Surely it can't be of any importance, a runt like that?"
+      "line": "I suppose it slipped my mind. Surely it can't be of any importance, a runt like that?",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
-      "line": "It's only the single most important thing you've said to me since I've met you!"
+      "line": "It's only the single most important thing you've said to me since I've met you!",
+      "delivery": "exasperated"
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "If you say so."
+      "line": "If you say so.",
+      "delivery": "indifferent"
     },
     {
       "character": "Player",
-      "line": "Well, I guess this explains why the Cabin Boy's been acting so suspiciously... I'd better go and have a word with him!"
+      "line": "Well, I guess this explains why the Cabin Boy's been acting so suspiciously... I'd better go and have a word with him!",
+      "delivery": "determined"
     },
     {
       "character": "Player",
-      "line": "Hey! Where'd the Cabin Boy go? I need to speak to him!"
+      "line": "Hey! Where'd the Cabin Boy go? I need to speak to him!",
+      "delivery": "urgent"
     },
     {
       "character": "Bedread the bold",
-      "line": "Why... That's odd, he was here a minute ago!"
+      "line": "Why... That's odd, he was here a minute ago!",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
@@ -4408,7 +4767,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Aye? Well yer best be speakin' ter him 'bout that then."
+      "line": "Aye? Well yer best be speakin' ter him 'bout that then.",
+      "delivery": "gruff"
     },
     {
       "character": "Player",
@@ -4416,19 +4776,23 @@
     },
     {
       "character": "'Bird's-Eye' Jack",
-      "line": "I wish you would make your mind up, or are you just going to go around accusing everyone?"
+      "line": "I wish you would make your mind up, or are you just going to go around accusing everyone?",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "Well if I did accuse everyone, eventually I would be right."
+      "line": "Well if I did accuse everyone, eventually I would be right.",
+      "delivery": "cheeky, matter-of-fact"
     },
     {
       "character": "'Bird's-Eye' Jack",
-      "line": "Your powers of investigation are impressive, for sure."
+      "line": "Your powers of investigation are impressive, for sure.",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Player",
-      "line": "Thanks."
+      "line": "Thanks.",
+      "delivery": "oblivious, pleased"
     },
     {
       "character": "Player",
@@ -4436,7 +4800,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "The last time I checked, yes, I am."
+      "line": "The last time I checked, yes, I am.",
+      "delivery": "dry, wry"
     },
     {
       "character": "Player",
@@ -4444,11 +4809,13 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "You just did didn't you?"
+      "line": "You just did didn't you?",
+      "delivery": "dry, teasing"
     },
     {
       "character": "Player",
-      "line": "(sigh) Let's start again..."
+      "line": "(sigh) Let's start again...",
+      "delivery": "sighing, exasperated"
     },
     {
       "character": "Player",
@@ -4472,7 +4839,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "As you have already accused two of my crew unfairly, may I ask what leads you to this conclusion?"
+      "line": "As you have already accused two of my crew unfairly, may I ask what leads you to this conclusion?",
+      "delivery": "pointed, dry"
     },
     {
       "character": "Player",
@@ -4500,11 +4868,13 @@
     },
     {
       "character": "Player",
-      "line": "Erm... Not yet, no."
+      "line": "Erm... Not yet, no.",
+      "delivery": "sheepish"
     },
     {
       "character": "Captain Bentley",
-      "line": "Then I suggest you do so. Immediately."
+      "line": "Then I suggest you do so. Immediately.",
+      "delivery": "firm, commanding"
     },
     {
       "character": "Crewmember",
@@ -4512,43 +4882,53 @@
     },
     {
       "character": "Player",
-      "line": "It was you!"
+      "line": "It was you!",
+      "delivery": "accusing"
     },
     {
       "character": "Cabin boy",
-      "line": "Me?"
+      "line": "Me?",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
-      "line": "Yes, you left in the middle of the feast, what did you do? You're a spy for the Moon Clan aren't you."
+      "line": "Yes, you left in the middle of the feast, what did you do? You're a spy for the Moon Clan aren't you.",
+      "delivery": "accusing"
     },
     {
       "character": "Cabin boy",
-      "line": "No!"
+      "line": "No!",
+      "delivery": "panicked, denying"
     },
     {
       "character": "Player",
-      "line": "Admit it!"
+      "line": "Admit it!",
+      "delivery": "demanding"
     },
     {
       "character": "Cabin boy",
-      "line": "But..."
+      "line": "But...",
+      "delivery": "faltering"
     },
     {
       "character": "Player",
-      "line": "I'll go get the captain, a plank and a hungry shark!"
+      "line": "I'll go get the captain, a plank and a hungry shark!",
+      "delivery": "threatening"
     },
     {
       "character": "Cabin boy",
-      "line": "Ok, OK! I confess."
+      "line": "Ok, OK! I confess.",
+      "delivery": "caving, defeated"
     },
     {
       "character": "Player",
-      "line": "Yes! 1-nil to the Player!"
+      "line": "Yes! 1-nil to the Player!",
+      "delivery": "triumphant, gloating"
     },
     {
       "character": "Cabin boy",
-      "line": "There's no need to brag! Yes, I left the feast. I was lured by a girl from the Moon Clan, she promised me control of the ship if I did this simple task for her. I couldn't resist. Have you any idea how hard it is being"
+      "line": "There's no need to brag! Yes, I left the feast. I was lured by a girl from the Moon Clan, she promised me control of the ship if I did this simple task for her. I couldn't resist. Have you any idea how hard it is being",
+      "delivery": "confessing, ashamed"
     },
     {
       "character": "Cabin boy",
@@ -4560,7 +4940,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "She showed me some symbols, she then asked me to draw five of them throughout the ship. Some kind of magic jinx. Please don't tell the Captain! He'll kill me! If I ever get to that island again, I'm going to see what"
+      "line": "She showed me some symbols, she then asked me to draw five of them throughout the ship. Some kind of magic jinx. Please don't tell the Captain! He'll kill me! If I ever get to that island again, I'm going to see what",
+      "delivery": "pleading, fearful"
     },
     {
       "character": "Cabin boy",
@@ -4580,11 +4961,13 @@
     },
     {
       "character": "Player",
-      "line": "You best not be lying!"
+      "line": "You best not be lying!",
+      "delivery": "warning"
     },
     {
       "character": "Cabin boy",
-      "line": "I'm not! Honest. Look, I have a lantern and lens here, put them together then light it with a tinderbox. Then you can use it to search the ship for the symbols."
+      "line": "I'm not! Honest. Look, I have a lantern and lens here, put them together then light it with a tinderbox. Then you can use it to search the ship for the symbols.",
+      "delivery": "earnest, pleading"
     },
     {
       "character": "Player",
@@ -4636,7 +5019,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "What do you mean 'how's things'? Here we are going in circles waiting for you to sort out this jinx, and you ask 'how's things'?"
+      "line": "What do you mean 'how's things'? Here we are going in circles waiting for you to sort out this jinx, and you ask 'how's things'?",
+      "delivery": "irritated"
     },
     {
       "character": "Player",
@@ -4644,7 +5028,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "Don't bother."
+      "line": "Don't bother.",
+      "delivery": "curt"
     },
     {
       "character": "Player",
@@ -4652,7 +5037,8 @@
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "None at all - you thinking of making some?"
+      "line": "None at all - you thinking of making some?",
+      "delivery": "suspicious, intense"
     },
     {
       "character": "Player",
@@ -4664,7 +5050,8 @@
     },
     {
       "character": "'Beefy' Burns/'Eagle-eye' Shultz",
-      "line": "I knew he was up to no good."
+      "line": "I knew he was up to no good.",
+      "delivery": "knowing"
     },
     {
       "character": "Player",
@@ -4688,7 +5075,8 @@
     },
     {
       "character": "'Bird's-Eye' Jack",
-      "line": "Best you get a move on then. My reputation as a navigator is at stake!"
+      "line": "Best you get a move on then. My reputation as a navigator is at stake!",
+      "delivery": "anxious, urgent"
     },
     {
       "character": "Captain Bentley",
@@ -4700,7 +5088,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Don't worry, I was a young'un once. I remember when I used to have all my fingers and toes, and when my right eye wasn't made of glass."
+      "line": "Don't worry, I was a young'un once. I remember when I used to have all my fingers and toes, and when my right eye wasn't made of glass.",
+      "delivery": "wistful, wry"
     },
     {
       "character": "Player",
@@ -4728,15 +5117,18 @@
     },
     {
       "character": "Jenny Blade",
-      "line": "You do know both of these eyes are made of glass don't you?"
+      "line": "You do know both of these eyes are made of glass don't you?",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Player",
-      "line": "Ooops. Sorry."
+      "line": "Ooops. Sorry.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
-      "line": "Arrr!"
+      "line": "Arrr!",
+      "delivery": "playful, piratey"
     },
     {
       "character": "'Lecherous' Lee/'Sticky' Sanders",
@@ -4752,23 +5144,28 @@
     },
     {
       "character": "Player",
-      "line": "AAARRRRRRRRR!!!!!"
+      "line": "AAARRRRRRRRR!!!!!",
+      "delivery": "shouting, boisterous"
     },
     {
       "character": "'Lecherous' Lee/'Sticky' Sanders",
-      "line": "AAAAARRRRRR!"
+      "line": "AAAAARRRRRR!",
+      "delivery": "shouting"
     },
     {
       "character": "Player",
-      "line": "Ok, i'm bored of that."
+      "line": "Ok, i'm bored of that.",
+      "delivery": "deadpan, flat"
     },
     {
       "character": "Player",
-      "line": "Yo ho yo ho! A pirates life for me!"
+      "line": "Yo ho yo ho! A pirates life for me!",
+      "delivery": "singing, cheerful"
     },
     {
       "character": "Murky Pat",
-      "line": "How do ye know that sacred song of the pirates?"
+      "line": "How do ye know that sacred song of the pirates?",
+      "delivery": "menacing, suspicious"
     },
     {
       "character": "Player",
@@ -4784,7 +5181,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "Arrrrr!!!"
+      "line": "Arrrrr!!!",
+      "delivery": "boisterous, shouting"
     },
     {
       "character": "Player",
@@ -4796,7 +5194,8 @@
     },
     {
       "character": "Player",
-      "line": "That's it!"
+      "line": "That's it!",
+      "delivery": "eager"
     },
     {
       "character": "Tommy 2-times",
@@ -4812,15 +5211,18 @@
     },
     {
       "character": "Player",
-      "line": "Exactly!"
+      "line": "Exactly!",
+      "delivery": "eager, excited"
     },
     {
       "character": "Tommy 2-times",
-      "line": "No, sorry."
+      "line": "No, sorry.",
+      "delivery": "deadpan, flat"
     },
     {
       "character": "Player",
-      "line": "Ah-ha! I've found one!"
+      "line": "Ah-ha! I've found one!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
@@ -4840,7 +5242,8 @@
     },
     {
       "character": "Player",
-      "line": "That's it, I've removed all the symbols, and hopefully the jinx."
+      "line": "That's it, I've removed all the symbols, and hopefully the jinx.",
+      "delivery": "relieved, satisfied"
     },
     {
       "character": "Player",
@@ -4856,7 +5259,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "A pirates union? No, they would stab us in the back at the first opportunity."
+      "line": "A pirates union? No, they would stab us in the back at the first opportunity.",
+      "delivery": "cynical, dry"
     },
     {
       "character": "Player",
@@ -4864,11 +5268,13 @@
     },
     {
       "character": "Player",
-      "line": "The jinx has been removed!"
+      "line": "The jinx has been removed!",
+      "delivery": "triumphant"
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "What jinx?"
+      "line": "What jinx?",
+      "delivery": "deadpan, blank"
     },
     {
       "character": "Player",
@@ -4880,7 +5286,8 @@
     },
     {
       "character": "'Betty' B.Boppin",
-      "line": "Drink? Big beards Frothy Rum headbanger!"
+      "line": "Drink? Big beards Frothy Rum headbanger!",
+      "delivery": "excitable, enthusiastic"
     },
     {
       "character": "Player",
@@ -4900,7 +5307,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "Phew. Good work."
+      "line": "Phew. Good work.",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
@@ -4908,7 +5316,8 @@
     },
     {
       "character": "Jack Sails",
-      "line": "What, you want a medal or something."
+      "line": "What, you want a medal or something.",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Player",
@@ -4932,7 +5341,8 @@
     },
     {
       "character": "Murky Pat",
-      "line": "Well done, we'll make a pirate out of you yet!"
+      "line": "Well done, we'll make a pirate out of you yet!",
+      "delivery": "approving, gruff"
     },
     {
       "character": "'Sticky' Sanders",
@@ -4948,27 +5358,33 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "Can't you see i'm busy?"
+      "line": "Can't you see i'm busy?",
+      "delivery": "gruff, dismissive"
     },
     {
       "character": "Player",
-      "line": "Well... no to be honest you seem pretty care-free at the moment."
+      "line": "Well... no to be honest you seem pretty care-free at the moment.",
+      "delivery": "dry"
     },
     {
       "character": "Tommy 2-times",
-      "line": "Well don't be deceived by looks! I'm busy practicing looking fierce."
+      "line": "Well don't be deceived by looks! I'm busy practicing looking fierce.",
+      "delivery": "earnest"
     },
     {
       "character": "Player",
-      "line": "O...K.... Why?"
+      "line": "O...K.... Why?",
+      "delivery": "bemused"
     },
     {
       "character": "Tommy 2-times",
-      "line": "It's very important to strike fear into the enemy just by looks. It's rule 1 of being a pirate."
+      "line": "It's very important to strike fear into the enemy just by looks. It's rule 1 of being a pirate.",
+      "delivery": "serious, intense"
     },
     {
       "character": "Player",
-      "line": "Whatever."
+      "line": "Whatever.",
+      "delivery": "dismissive, flat"
     },
     {
       "character": "Player",
@@ -4984,7 +5400,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Really? Good work, landlubber!"
+      "line": "Really? Good work, landlubber!",
+      "delivery": "pleased, hearty"
     },
     {
       "character": "Player",
@@ -4992,27 +5409,33 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Pesky kid. Ah, but I remember when I was a cabin boy. Many years ago, I started off as..."
+      "line": "Pesky kid. Ah, but I remember when I was a cabin boy. Many years ago, I started off as...",
+      "delivery": "reminiscing, wistful"
     },
     {
       "character": "Player",
-      "line": "Spare me the life story, can we go now?"
+      "line": "Spare me the life story, can we go now?",
+      "delivery": "impatient"
     },
     {
       "character": "Captain Bentley",
-      "line": "No need to be rude."
+      "line": "No need to be rude.",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
-      "line": "Sorry."
+      "line": "Sorry.",
+      "delivery": "sheepish"
     },
     {
       "character": "Captain Bentley",
-      "line": "Very well. It's off we go!"
+      "line": "Very well. It's off we go!",
+      "delivery": "hearty, commanding"
     },
     {
       "character": "Captain Bentley",
-      "line": "Here we are! Lunar Isle!"
+      "line": "Here we are! Lunar Isle!",
+      "delivery": "announcing, pleased"
     },
     {
       "character": "Player",
@@ -5032,7 +5455,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "I do. 16 kids, 12 nephews and 18 nieces."
+      "line": "I do. 16 kids, 12 nephews and 18 nieces.",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Player",
@@ -5040,7 +5464,8 @@
     },
     {
       "character": "Bedread the bold",
-      "line": "I wouldn't, she never cooks my dinner when I get home."
+      "line": "I wouldn't, she never cooks my dinner when I get home.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -5048,15 +5473,18 @@
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "Yeah, don't scratch your nose with an axe."
+      "line": "Yeah, don't scratch your nose with an axe.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "What does that have to do with the island."
+      "line": "What does that have to do with the island.",
+      "delivery": "confused, flat"
     },
     {
       "character": "'Beedy-eye' Jones",
-      "line": "Well if you don't want my advice..."
+      "line": "Well if you don't want my advice...",
+      "delivery": "gruff, offended"
     },
     {
       "character": "Player",
@@ -5064,7 +5492,8 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "My speciality! What else could I be cooking?"
+      "line": "My speciality! What else could I be cooking?",
+      "delivery": "irritable"
     },
     {
       "character": "Player",
@@ -5072,15 +5501,18 @@
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Boiled shark guts with a hint of rosemary and a dash of squid ink."
+      "line": "Boiled shark guts with a hint of rosemary and a dash of squid ink.",
+      "delivery": "proud, matter-of-fact"
     },
     {
       "character": "Player",
-      "line": "I think I'll stick to making my own food."
+      "line": "I think I'll stick to making my own food.",
+      "delivery": "queasy, polite"
     },
     {
       "character": "'Beefy' Burns",
-      "line": "Your loss!"
+      "line": "Your loss!",
+      "delivery": "gruff, dismissive"
     },
     {
       "character": "Player",
@@ -5096,7 +5528,8 @@
     },
     {
       "character": "Player",
-      "line": "I feel a little sea-sick from this travelling."
+      "line": "I feel a little sea-sick from this travelling.",
+      "delivery": "queasy"
     },
     {
       "character": "'Bird's-Eye' Jack",
@@ -5116,23 +5549,28 @@
     },
     {
       "character": "'Bird's-Eye' Jack",
-      "line": "Swim."
+      "line": "Swim.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "Oh HA HA. Thanks for the help!"
+      "line": "Oh HA HA. Thanks for the help!",
+      "delivery": "sarcastic"
     },
     {
       "character": "'Bird's-Eye' Jack",
-      "line": "My pleasure."
+      "line": "My pleasure.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
-      "line": "I was being sarcastic."
+      "line": "I was being sarcastic.",
+      "delivery": "flat"
     },
     {
       "character": "'Bird's-Eye' Jack",
-      "line": "I know. So was I."
+      "line": "I know. So was I.",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Player",
@@ -5140,7 +5578,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "I will, I will. I'm just psyching myself up first!"
+      "line": "I will, I will. I'm just psyching myself up first!",
+      "delivery": "nervous, psyching up"
     },
     {
       "character": "Player",
@@ -5152,15 +5591,18 @@
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "All sorts! Hide and seek, pin the patch on the pirate, walk the plank!"
+      "line": "All sorts! Hide and seek, pin the patch on the pirate, walk the plank!",
+      "delivery": "enthusiastic, cheerful"
     },
     {
       "character": "Player",
-      "line": "What a life! Wait a minute. 'Walk the plank'? Surely that's a bit dangerous?"
+      "line": "What a life! Wait a minute. 'Walk the plank'? Surely that's a bit dangerous?",
+      "delivery": "incredulous"
     },
     {
       "character": "'Eagle-eye' Shultz",
-      "line": "Well of course, but where's the fun without a few deaths?"
+      "line": "Well of course, but where's the fun without a few deaths?",
+      "delivery": "cheerful, casual"
     },
     {
       "character": "Player",
@@ -5172,7 +5614,8 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "Good question. We have a diplomatic consession at the turn of the financial year. Said pirate is chosen should the existing mate be absent without leave."
+      "line": "Good question. We have a diplomatic consession at the turn of the financial year. Said pirate is chosen should the existing mate be absent without leave.",
+      "delivery": "officious, matter-of-fact"
     },
     {
       "character": "Player",
@@ -5180,19 +5623,23 @@
     },
     {
       "character": "First mate 'Davey-boy'",
-      "line": "It is. I'm just pulling your leg."
+      "line": "It is. I'm just pulling your leg.",
+      "delivery": "dry, teasing"
     },
     {
       "character": "Player",
-      "line": "Oh...."
+      "line": "Oh....",
+      "delivery": "deflated"
     },
     {
       "character": "Player",
-      "line": "At last - Lunar Isle!"
+      "line": "At last - Lunar Isle!",
+      "delivery": "relieved, excited"
     },
     {
       "character": "Jack Sails",
-      "line": "Woop de do!"
+      "line": "Woop de do!",
+      "delivery": "sarcastic, flat"
     },
     {
       "character": "Player",
@@ -5200,15 +5647,18 @@
     },
     {
       "character": "Jenny Blade",
-      "line": "Really? You don't think a pirate would know the difference of being out at sea and being at a dock?"
+      "line": "Really? You don't think a pirate would know the difference of being out at sea and being at a dock?",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Player",
-      "line": "I can't say anything right with you Pirates."
+      "line": "I can't say anything right with you Pirates.",
+      "delivery": "exasperated"
     },
     {
       "character": "Jenny Blade",
-      "line": "Well get the hint then!"
+      "line": "Well get the hint then!",
+      "delivery": "sharp, curt"
     },
     {
       "character": "Player",
@@ -5220,7 +5670,8 @@
     },
     {
       "character": "Player",
-      "line": "I feel a bit sick."
+      "line": "I feel a bit sick.",
+      "delivery": "queasy"
     },
     {
       "character": "Murky Pat",
@@ -5232,11 +5683,13 @@
     },
     {
       "character": "Murky Pat",
-      "line": "I can just smell that beautiful smell of fish guts."
+      "line": "I can just smell that beautiful smell of fish guts.",
+      "delivery": "gruff, relishing"
     },
     {
       "character": "Player",
-      "line": "Oh dear..."
+      "line": "Oh dear...",
+      "delivery": "disgusted, queasy"
     },
     {
       "character": "Player",
@@ -5244,7 +5697,8 @@
     },
     {
       "character": "'Picarron' Pete",
-      "line": "Aye, let the feasting begin!"
+      "line": "Aye, let the feasting begin!",
+      "delivery": "hearty, enthusiastic"
     },
     {
       "character": "Player",
@@ -5260,7 +5714,8 @@
     },
     {
       "character": "Tommy 2-times",
-      "line": "Arrr, tis a bootiful place to be sure. Watch your step though. The Moon Clan don't suffer outsiders easily."
+      "line": "Arrr, tis a bootiful place to be sure. Watch your step though. The Moon Clan don't suffer outsiders easily.",
+      "delivery": "gruff, cautionary"
     },
     {
       "character": "Player",
@@ -5268,7 +5723,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "And you're wanting what now?"
+      "line": "And you're wanting what now?",
+      "delivery": "gruff"
     },
     {
       "character": "Captain Bentley",
@@ -5292,7 +5748,8 @@
     },
     {
       "character": "Captain Bentley",
-      "line": "Sure matey!"
+      "line": "Sure matey!",
+      "delivery": "cheerful, piratey"
     },
     {
       "character": "Player",
@@ -5300,7 +5757,8 @@
     },
     {
       "character": "Cabin boy",
-      "line": "That I did, that I did!"
+      "line": "That I did, that I did!",
+      "delivery": "eager, proud"
     },
     {
       "character": "Player",
@@ -5308,19 +5766,23 @@
     },
     {
       "character": "Cabin boy",
-      "line": "She turned out to be really nice! She's joining us to become a pirate!"
+      "line": "She turned out to be really nice! She's joining us to become a pirate!",
+      "delivery": "naive, excited"
     },
     {
       "character": "Player",
-      "line": "Really? And you're not sceptical about this? You know, after what she did last time?"
+      "line": "Really? And you're not sceptical about this? You know, after what she did last time?",
+      "delivery": "skeptical"
     },
     {
       "character": "Cabin boy",
-      "line": "She---has---no---spell---on---me."
+      "line": "She---has---no---spell---on---me.",
+      "delivery": "robotic, monotone"
     },
     {
       "character": "Player",
-      "line": "Huh? Why are you talking like that?"
+      "line": "Huh? Why are you talking like that?",
+      "delivery": "puzzled"
     },
     {
       "character": "Cabin boy",
@@ -5328,7 +5790,8 @@
     },
     {
       "character": "Player",
-      "line": "Like someone else was talking for you. Are you sure she hasn't put a spell on you again? Did she wave a watch in front of your face? You know, tell you to look deep into her eyes?"
+      "line": "Like someone else was talking for you. Are you sure she hasn't put a spell on you again? Did she wave a watch in front of your face? You know, tell you to look deep into her eyes?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
@@ -5336,15 +5799,18 @@
     },
     {
       "character": "Cabin boy",
-      "line": "*Cluck* *cluck* *bwaarrk*"
+      "line": "*Cluck* *cluck* *bwaarrk*",
+      "delivery": "clucking, hypnotized"
     },
     {
       "character": "Player",
-      "line": "Oh dear. Oh well, I'm sure you'll learn one day."
+      "line": "Oh dear. Oh well, I'm sure you'll learn one day.",
+      "delivery": "amused, resigned"
     },
     {
       "character": "Baba Yaga",
-      "line": "Ah! A visitor from a distant land! How can I help?"
+      "line": "Ah! A visitor from a distant land! How can I help?",
+      "delivery": "eccentric, raspy"
     },
     {
       "character": "Player",
@@ -5368,15 +5834,18 @@
     },
     {
       "character": "Baba Yaga",
-      "line": "It just has that certain ring to it, don't you think? Beeerteeee!"
+      "line": "It just has that certain ring to it, don't you think? Beeerteeee!",
+      "delivery": "manic, sing-song"
     },
     {
       "character": "Player",
-      "line": "You're ins..."
+      "line": "You're ins...",
+      "delivery": "wary"
     },
     {
       "character": "Baba Yaga",
-      "line": "Insane? Very."
+      "line": "Insane? Very.",
+      "delivery": "gleeful, unhinged"
     },
     {
       "character": "Player",
@@ -5504,7 +5973,8 @@
     },
     {
       "character": "Pauline Polaris",
-      "line": "Ah, I know the ceremony very well. Maybe I can help. I do have a cape, but why would I want to give it to some random person off the streets?"
+      "line": "Ah, I know the ceremony very well. Maybe I can help. I do have a cape, but why would I want to give it to some random person off the streets?",
+      "delivery": "knowing, aloof"
     },
     {
       "character": "Player",
@@ -5528,7 +5998,8 @@
     },
     {
       "character": "Pauline Polaris",
-      "line": "How rude!"
+      "line": "How rude!",
+      "delivery": "offended"
     },
     {
       "character": "Player",
@@ -5536,7 +6007,8 @@
     },
     {
       "character": "Pauline Polaris",
-      "line": "Get out of my sight!"
+      "line": "Get out of my sight!",
+      "delivery": "angry"
     },
     {
       "character": "Player",
@@ -5544,7 +6016,8 @@
     },
     {
       "character": "Pauline Polaris",
-      "line": "Ah, you'd think so, but no. That is my alias. I want you to tell me my REAL name! I have one first name, and a triple barrel surname!"
+      "line": "Ah, you'd think so, but no. That is my alias. I want you to tell me my REAL name! I have one first name, and a triple barrel surname!",
+      "delivery": "insistent"
     },
     {
       "character": "Player",
@@ -5568,7 +6041,8 @@
     },
     {
       "character": "Player",
-      "line": "Woo hoo! Not the most normal name is it?"
+      "line": "Woo hoo! Not the most normal name is it?",
+      "delivery": "triumphant"
     },
     {
       "character": "Pauline Polaris",
@@ -5576,11 +6050,13 @@
     },
     {
       "character": "Player",
-      "line": "Sounds like they were totally insane."
+      "line": "Sounds like they were totally insane.",
+      "delivery": "deadpan"
     },
     {
       "character": "Pauline Polaris",
-      "line": "Do you want this cape or not?"
+      "line": "Do you want this cape or not?",
+      "delivery": "irritated"
     },
     {
       "character": "Player",
@@ -5612,7 +6088,8 @@
     },
     {
       "character": "Pauline Polaris",
-      "line": "The Fremenniks? Pah! They are just too ignorant and stubborn to listen to anything we have to say - how can we possibly associate with a race that won't listen?"
+      "line": "The Fremenniks? Pah! They are just too ignorant and stubborn to listen to anything we have to say - how can we possibly associate with a race that won't listen?",
+      "delivery": "scornful, dismissive"
     },
     {
       "character": "Player",
@@ -5636,11 +6113,13 @@
     },
     {
       "character": "Pauline Polaris",
-      "line": "Good luck. It's far from simple."
+      "line": "Good luck. It's far from simple.",
+      "delivery": "cool, warning"
     },
     {
       "character": "Selene",
-      "line": "Greetings sweetie. How can I help?"
+      "line": "Greetings sweetie. How can I help?",
+      "delivery": "dreamy, warm"
     },
     {
       "character": "Player",
@@ -5656,7 +6135,8 @@
     },
     {
       "character": "Selene",
-      "line": "Let me see... We value knowledge of self because it is this that gives us our strength! It is most important!"
+      "line": "Let me see... We value knowledge of self because it is this that gives us our strength! It is most important!",
+      "delivery": "earnest"
     },
     {
       "character": "Player",
@@ -5716,7 +6196,8 @@
     },
     {
       "character": "Selene",
-      "line": "I remember those days fondly, hours of digging around, dodging boulders, pits of snakes..."
+      "line": "I remember those days fondly, hours of digging around, dodging boulders, pits of snakes...",
+      "delivery": "wistful, dreamy"
     },
     {
       "character": "Player",
@@ -5736,11 +6217,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm not going to talk to someone that calls me 'sweetie'!"
+      "line": "I'm not going to talk to someone that calls me 'sweetie'!",
+      "delivery": "indignant"
     },
     {
       "character": "Selene",
-      "line": "No need to be rude dear!"
+      "line": "No need to be rude dear!",
+      "delivery": "gently chiding"
     },
     {
       "character": "Rimae Sirsalis",
@@ -5832,7 +6315,8 @@
     },
     {
       "character": "Meteora",
-      "line": "Wot?"
+      "line": "Wot?",
+      "delivery": "confused"
     },
     {
       "character": "Player",
@@ -5856,11 +6340,13 @@
     },
     {
       "character": "Meteora",
-      "line": "Ah, is bad, yeah? One o doews Suqah did nick it. Wish I ad it back, yeah."
+      "line": "Ah, is bad, yeah? One o doews Suqah did nick it. Wish I ad it back, yeah.",
+      "delivery": "glum"
     },
     {
       "character": "Player",
-      "line": "I see wot I cen do, yeah? I mean, I'll see what I can do."
+      "line": "I see wot I cen do, yeah? I mean, I'll see what I can do.",
+      "delivery": "mock cockney, self-correcting"
     },
     {
       "character": "Meteora",
@@ -5868,7 +6354,8 @@
     },
     {
       "character": "Meteora",
-      "line": "Yo yo yo! You got me tiara yet?"
+      "line": "Yo yo yo! You got me tiara yet?",
+      "delivery": "excitable"
     },
     {
       "character": "Player",
@@ -5996,15 +6483,18 @@
     },
     {
       "character": "Player",
-      "line": "Er, how do you know how much space I have?"
+      "line": "Er, how do you know how much space I have?",
+      "delivery": "puzzled"
     },
     {
       "character": "Oneiromancer",
-      "line": "You're forgetting I can read you mind. I simply looked to see what you knew you were carrying, and analysed the average amount a person can carry and extrapolated..."
+      "line": "You're forgetting I can read you mind. I simply looked to see what you knew you were carrying, and analysed the average amount a person can carry and extrapolated...",
+      "delivery": "matter-of-fact, mystical"
     },
     {
       "character": "Player",
-      "line": "Ok ok! I get the picture. I'll be right back."
+      "line": "Ok ok! I get the picture. I'll be right back.",
+      "delivery": "exasperated"
     },
     {
       "character": "Oneiromancer",
@@ -6048,11 +6538,13 @@
     },
     {
       "character": "Player",
-      "line": "Erm, that doesn't sound too realistic. Thanks!"
+      "line": "Erm, that doesn't sound too realistic. Thanks!",
+      "delivery": "skeptical"
     },
     {
       "character": "Oneiromancer",
-      "line": "Look, do you want it or not?"
+      "line": "Look, do you want it or not?",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -6104,7 +6596,8 @@
     },
     {
       "character": "Oneiromancer",
-      "line": "Sure, I don't seem to be able to get rid of them!"
+      "line": "Sure, I don't seem to be able to get rid of them!",
+      "delivery": "wry, amused"
     },
     {
       "character": "Player",
@@ -6132,7 +6625,8 @@
     },
     {
       "character": "Player",
-      "line": "Huh? If I dreamt, I certainly don't remember anything. Wait a minute! I have to wear ALL the ceremonial gear AND be holding the staff."
+      "line": "Huh? If I dreamt, I certainly don't remember anything. Wait a minute! I have to wear ALL the ceremonial gear AND be holding the staff.",
+      "delivery": "sudden realization"
     },
     {
       "character": "Player",
@@ -6144,7 +6638,8 @@
     },
     {
       "character": "Player",
-      "line": "Huh? Was it all a dream?"
+      "line": "Huh? Was it all a dream?",
+      "delivery": "bewildered"
     },
     {
       "character": "Player",
@@ -6164,15 +6659,18 @@
     },
     {
       "character": "Player",
-      "line": "What's going on?"
+      "line": "What's going on?",
+      "delivery": "confused, disoriented"
     },
     {
       "character": "Ethereal Being",
-      "line": "Don't you know, you're in the land of your own dreams!"
+      "line": "Don't you know, you're in the land of your own dreams!",
+      "delivery": "ethereal, mysterious"
     },
     {
       "character": "Player",
-      "line": "But you can't know you're in a dream whilst dreaming, you'd wake up!"
+      "line": "But you can't know you're in a dream whilst dreaming, you'd wake up!",
+      "delivery": "incredulous"
     },
     {
       "character": "Ethereal Being",
@@ -6188,7 +6686,8 @@
     },
     {
       "character": "Player",
-      "line": "This all seems very deep."
+      "line": "This all seems very deep.",
+      "delivery": "bemused"
     },
     {
       "character": "Player",
@@ -6204,11 +6703,13 @@
     },
     {
       "character": "Player",
-      "line": "This is the strangest place I have ever been."
+      "line": "This is the strangest place I have ever been.",
+      "delivery": "bewildered"
     },
     {
       "character": "Ethereal Being",
-      "line": "Then you don't know your mind too well, do you!"
+      "line": "Then you don't know your mind too well, do you!",
+      "delivery": "knowing"
     },
     {
       "character": "Ethereal Being",
@@ -6280,7 +6781,8 @@
     },
     {
       "character": "Ethereal Perceptive",
-      "line": "Well, ya. Hey, bet you canna chop dem troys."
+      "line": "Well, ya. Hey, bet you canna chop dem troys.",
+      "delivery": "challenging, taunting"
     },
     {
       "character": "Player",
@@ -6352,19 +6854,23 @@
     },
     {
       "character": "Ethereal Perceptive",
-      "line": "Stop distractin' me, go chop dem troys!"
+      "line": "Stop distractin' me, go chop dem troys!",
+      "delivery": "irritated"
     },
     {
       "character": "Ethereal Perceptive",
-      "line": "Har har, I did beet ya. You ain't gat no skiws."
+      "line": "Har har, I did beet ya. You ain't gat no skiws.",
+      "delivery": "mocking, gloating"
     },
     {
       "character": "Player",
-      "line": "I will beat you eventually!"
+      "line": "I will beat you eventually!",
+      "delivery": "determined"
     },
     {
       "character": "Ethereal Perceptive",
-      "line": "Oh ah. Come on nen."
+      "line": "Oh ah. Come on nen.",
+      "delivery": "goading"
     },
     {
       "character": "Player",
@@ -6372,7 +6878,8 @@
     },
     {
       "character": "Ethereal Perceptive",
-      "line": "Ah new ya wud. Best ya gow back den."
+      "line": "Ah new ya wud. Best ya gow back den.",
+      "delivery": "smug"
     },
     {
       "character": "Ethereal Perceptive",
@@ -6412,7 +6919,8 @@
     },
     {
       "character": "Ethereal Expert",
-      "line": "Fancy a race!?!"
+      "line": "Fancy a race!?!",
+      "delivery": "eager, challenging"
     },
     {
       "character": "Player",
@@ -6428,7 +6936,8 @@
     },
     {
       "character": "Ethereal Expert",
-      "line": "Well, that's life I'm afraid, it's never as easy as you would like, you have to take the path that's dealt!"
+      "line": "Well, that's life I'm afraid, it's never as easy as you would like, you have to take the path that's dealt!",
+      "delivery": "philosophical"
     },
     {
       "character": "Player",
@@ -6444,7 +6953,8 @@
     },
     {
       "character": "Ethereal Expert",
-      "line": "Oh, hello? Looks like you'll probably want to start again."
+      "line": "Oh, hello? Looks like you'll probably want to start again.",
+      "delivery": "mocking"
     },
     {
       "character": "Player",
@@ -6452,11 +6962,13 @@
     },
     {
       "character": "Ethereal Expert",
-      "line": "Woo hoo! Ha ha! You can try again if you want, but you'll never beat me, I'm far too fast!"
+      "line": "Woo hoo! Ha ha! You can try again if you want, but you'll never beat me, I'm far too fast!",
+      "delivery": "boastful, taunting"
     },
     {
       "character": "Player",
-      "line": "Eat my dust!"
+      "line": "Eat my dust!",
+      "delivery": "cocky, competitive"
     },
     {
       "character": "Player",
@@ -6468,11 +6980,13 @@
     },
     {
       "character": "Player",
-      "line": "I won!"
+      "line": "I won!",
+      "delivery": "triumphant"
     },
     {
       "character": "Ethereal Expert",
-      "line": "Noooo! How could you beat me?"
+      "line": "Noooo! How could you beat me?",
+      "delivery": "dismayed, shocked"
     },
     {
       "character": "Ethereal Expert",
@@ -6480,7 +6994,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm just making the most of the abilities I worked hard to develop. That's all!"
+      "line": "I'm just making the most of the abilities I worked hard to develop. That's all!",
+      "delivery": "proud"
     },
     {
       "character": "Ethereal Expert",
@@ -6516,7 +7031,8 @@
     },
     {
       "character": "Ethereal Numerator",
-      "line": "127369186!"
+      "line": "127369186!",
+      "delivery": "emphatic, booming"
     },
     {
       "character": "Ethereal Numerator",
@@ -6524,11 +7040,13 @@
     },
     {
       "character": "Player",
-      "line": "This is too weird. I...caaannooot....uuunnnnderstaaaand...youuuu!"
+      "line": "This is too weird. I...caaannooot....uuunnnnderstaaaand...youuuu!",
+      "delivery": "slurred, confused"
     },
     {
       "character": "Ethereal Numerator",
-      "line": "Oh sorry. I'm not 7676908 used 768 to speaking 1324719 like this. It's not 90181 easy 901823 890 to talk 13127 without 90809 saying 90789 numbers."
+      "line": "Oh sorry. I'm not 7676908 used 768 to speaking 1324719 like this. It's not 90181 easy 901823 890 to talk 13127 without 90809 saying 90789 numbers.",
+      "delivery": "apologetic, stilted"
     },
     {
       "character": "Player",
@@ -6580,7 +7098,8 @@
     },
     {
       "character": "Player",
-      "line": "Phew!"
+      "line": "Phew!",
+      "delivery": "relieved"
     },
     {
       "character": "Ethereal Numerator",
@@ -6588,7 +7107,8 @@
     },
     {
       "character": "Player",
-      "line": "Yeah, yeah. What now?"
+      "line": "Yeah, yeah. What now?",
+      "delivery": "impatient, bored"
     },
     {
       "character": "Ethereal Numerator",
@@ -6612,7 +7132,8 @@
     },
     {
       "character": "Ethereal Mimic",
-      "line": "Follow my lead!"
+      "line": "Follow my lead!",
+      "delivery": "playful, energetic"
     },
     {
       "character": "Player",
@@ -6620,11 +7141,13 @@
     },
     {
       "character": "Ethereal Mimic",
-      "line": "See what you will learn! Tee hee hee."
+      "line": "See what you will learn! Tee hee hee.",
+      "delivery": "giggling, playful"
     },
     {
       "character": "Player",
-      "line": "You're not all there are you?"
+      "line": "You're not all there are you?",
+      "delivery": "bemused"
     },
     {
       "character": "Ethereal Mimic",
@@ -6652,7 +7175,8 @@
     },
     {
       "character": "Ethereal Mimic",
-      "line": "NO no no!"
+      "line": "NO no no!",
+      "delivery": "exasperated"
     },
     {
       "character": "Ethereal Mimic",
@@ -6660,7 +7184,8 @@
     },
     {
       "character": "Ethereal Mimic",
-      "line": "Woo hoo!"
+      "line": "Woo hoo!",
+      "delivery": "excited"
     },
     {
       "character": "Ethereal Mimic",
@@ -6676,11 +7201,13 @@
     },
     {
       "character": "Ethereal Mimic",
-      "line": "You soon picked that up! Can you see how important it is to be able to communicate and relate with others? You can gain a lot of knowledge from it."
+      "line": "You soon picked that up! Can you see how important it is to be able to communicate and relate with others? You can gain a lot of knowledge from it.",
+      "delivery": "encouraging"
     },
     {
       "character": "Player",
-      "line": "I see. There's a lot more to communication than words. Thank you."
+      "line": "I see. There's a lot more to communication than words. Thank you.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Ethereal Mimic",
@@ -6708,15 +7235,18 @@
     },
     {
       "character": "Ethereal Fluke",
-      "line": "Let's have a game, ! It's a game of luck! Or is it..."
+      "line": "Let's have a game, ! It's a game of luck! Or is it...",
+      "delivery": "playful, teasing"
     },
     {
       "character": "Ethereal Fluke",
-      "line": "Hahaha!"
+      "line": "Hahaha!",
+      "delivery": "laughing"
     },
     {
       "character": "Player",
-      "line": "Erm... I'm scared. What?"
+      "line": "Erm... I'm scared. What?",
+      "delivery": "nervous"
     },
     {
       "character": "Ethereal Fluke",
@@ -6796,7 +7326,8 @@
     },
     {
       "character": "Player",
-      "line": "A journey? Don't talk to me about journeys! I'm surprised I have any feet left with all the walking I have to do!"
+      "line": "A journey? Don't talk to me about journeys! I'm surprised I have any feet left with all the walking I have to do!",
+      "delivery": "exasperated, weary"
     },
     {
       "character": "Ethereal Guide",
@@ -6804,7 +7335,8 @@
     },
     {
       "character": "Player",
-      "line": "To be honest, I spend a lot of my time not knowing a single one of those things!"
+      "line": "To be honest, I spend a lot of my time not knowing a single one of those things!",
+      "delivery": "wry"
     },
     {
       "character": "Ethereal Guide",
@@ -6844,7 +7376,8 @@
     },
     {
       "character": "Ethereal Being",
-      "line": "Bingo!"
+      "line": "Bingo!",
+      "delivery": "pleased"
     },
     {
       "character": "Ethereal Being",
@@ -6860,7 +7393,8 @@
     },
     {
       "character": "Ethereal Being",
-      "line": "There is one more challenge you must face. I can't tell you what to expect, you are still being tested."
+      "line": "There is one more challenge you must face. I can't tell you what to expect, you are still being tested.",
+      "delivery": "ominous"
     },
     {
       "character": "Ethereal Being",
@@ -6868,7 +7402,8 @@
     },
     {
       "character": "Player",
-      "line": "Of course. I'm ready."
+      "line": "Of course. I'm ready.",
+      "delivery": "resolute"
     },
     {
       "character": "Player",
@@ -6908,7 +7443,8 @@
     },
     {
       "character": "Player",
-      "line": "I did it! I confronted myself!"
+      "line": "I did it! I confronted myself!",
+      "delivery": "triumphant, relieved"
     },
     {
       "character": "Ethereal Being",
@@ -6916,7 +7452,8 @@
     },
     {
       "character": "Player",
-      "line": "I've done it! I understand now!"
+      "line": "I've done it! I understand now!",
+      "delivery": "elated"
     },
     {
       "character": "Oneiromancer",
@@ -6932,7 +7469,8 @@
     },
     {
       "character": "Oneiromancer",
-      "line": "That's great! I would never have imagined someone from mainland could have had such an open mind to learn such things! I shall spread the word among our people. After this I can't see why we can't start to get"
+      "line": "That's great! I would never have imagined someone from mainland could have had such an open mind to learn such things! I shall spread the word among our people. After this I can't see why we can't start to get",
+      "delivery": "impressed, warm"
     },
     {
       "character": "Oneiromancer",
@@ -6964,15 +7502,18 @@
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "Well if it isn't. I've heard of your exploits in the Lunar Isles!"
+      "line": "Well if it isn't. I've heard of your exploits in the Lunar Isles!",
+      "delivery": "hearty, proud"
     },
     {
       "character": "Player",
-      "line": "Already? News really does travel fast!"
+      "line": "Already? News really does travel fast!",
+      "delivery": "pleasantly surprised"
     },
     {
       "character": "Brundt the Chieftain",
-      "line": "Thank you so very much, I think we can really make progress now."
+      "line": "Thank you so very much, I think we can really make progress now.",
+      "delivery": "grateful, warm"
     },
     {
       "character": "Player",

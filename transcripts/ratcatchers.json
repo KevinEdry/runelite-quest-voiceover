@@ -8,7 +8,8 @@
     },
     {
       "character": "Gertrude",
-      "line": "Oh yes, before I forget - are you still in the adventuring business?"
+      "line": "Oh yes, before I forget - are you still in the adventuring business?",
+      "delivery": "warm, offhand"
     },
     {
       "character": "Player",
@@ -36,7 +37,8 @@
     },
     {
       "character": "Gertrude",
-      "line": "They told me they generally hang about in the sewers below Varrock. I can't stand it down there, or I'd have looked into this ratcatching business myself."
+      "line": "They told me they generally hang about in the sewers below Varrock. I can't stand it down there, or I'd have looked into this ratcatching business myself.",
+      "delivery": "mild distaste"
     },
     {
       "character": "Player",
@@ -44,11 +46,13 @@
     },
     {
       "character": "Gertrude",
-      "line": "I've had to drag Shilop and Wilough out of there more times than I care to count, the little rascals."
+      "line": "I've had to drag Shilop and Wilough out of there more times than I care to count, the little rascals.",
+      "delivery": "exasperated, fond"
     },
     {
       "character": "Gertrude",
-      "line": "I don't know which is harder, raising kids or cats."
+      "line": "I don't know which is harder, raising kids or cats.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -80,11 +84,13 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Who are you?"
+      "line": "Who are you?",
+      "delivery": "suspicious"
     },
     {
       "character": "Phingspet",
-      "line": "And what do you want?"
+      "line": "And what do you want?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
@@ -92,11 +98,13 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Ratcatchers?"
+      "line": "Ratcatchers?",
+      "delivery": "eager"
     },
     {
       "character": "Phingspet",
-      "line": "Oh yes, we know lots about ratcatching."
+      "line": "Oh yes, we know lots about ratcatching.",
+      "delivery": "manic, excited"
     },
     {
       "character": "Grimesquit",
@@ -104,7 +112,8 @@
     },
     {
       "character": "Grimesquit",
-      "line": "These are our trade secrets, you know."
+      "line": "These are our trade secrets, you know.",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
@@ -124,7 +133,8 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Don't be stupid! Can we teach ratcatching?"
+      "line": "Don't be stupid! Can we teach ratcatching?",
+      "delivery": "scolding"
     },
     {
       "character": "Phingspet",
@@ -132,7 +142,8 @@
     },
     {
       "character": "Player",
-      "line": "I can hear you, you know!"
+      "line": "I can hear you, you know!",
+      "delivery": "exasperated"
     },
     {
       "character": "Phingspet",
@@ -140,7 +151,8 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Great idea!"
+      "line": "Great idea!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -148,7 +160,8 @@
     },
     {
       "character": "Grimesquit",
-      "line": "That's no good. How do we know you didn't buy it?"
+      "line": "That's no good. How do we know you didn't buy it?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
@@ -156,11 +169,13 @@
     },
     {
       "character": "Phingspet",
-      "line": "Boo! Bring on the task!"
+      "line": "Boo! Bring on the task!",
+      "delivery": "jeering, excited"
     },
     {
       "character": "Phingspet",
-      "line": "Right, if you catch 8 ratsies with your cat..."
+      "line": "Right, if you catch 8 ratsies with your cat...",
+      "delivery": "gleeful"
     },
     {
       "character": "Grimesquit",
@@ -176,7 +191,8 @@
     },
     {
       "character": "Phingspet",
-      "line": "We'll smell your cat, of course!"
+      "line": "We'll smell your cat, of course!",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Player",
@@ -192,7 +208,8 @@
     },
     {
       "character": "Cat",
-      "line": "I'll live."
+      "line": "I'll live.",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Cat",
@@ -208,11 +225,13 @@
     },
     {
       "character": "Phingspet",
-      "line": "Go on then, go splat them ratsies!"
+      "line": "Go on then, go splat them ratsies!",
+      "delivery": "gleeful"
     },
     {
       "character": "Grimesquit",
-      "line": "Splat 'em! Squash 'em!"
+      "line": "Splat 'em! Squash 'em!",
+      "delivery": "manic, violent glee"
     },
     {
       "character": "Player",
@@ -268,7 +287,8 @@
     },
     {
       "character": "Player",
-      "line": "Good job puss, we really showed those rats what for."
+      "line": "Good job puss, we really showed those rats what for.",
+      "delivery": "pleased"
     },
     {
       "character": "Cat",
@@ -280,7 +300,8 @@
     },
     {
       "character": "Cat",
-      "line": "Speaking of turning faces, we should tell those funny-smelling humans that we're done."
+      "line": "Speaking of turning faces, we should tell those funny-smelling humans that we're done.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -300,23 +321,28 @@
     },
     {
       "character": "Player",
-      "line": "I splatted the ratsies for you."
+      "line": "I splatted the ratsies for you.",
+      "delivery": "mimicking"
     },
     {
       "character": "Phingspet",
-      "line": "Why are you talking like that?"
+      "line": "Why are you talking like that?",
+      "delivery": "offended"
     },
     {
       "character": "Grimesquit",
-      "line": "Are you making fun of us?"
+      "line": "Are you making fun of us?",
+      "delivery": "suspicious, hurt"
     },
     {
       "character": "Player",
-      "line": "Sorry, I just thought... won't happen again."
+      "line": "Sorry, I just thought... won't happen again.",
+      "delivery": "sheepish"
     },
     {
       "character": "Phingspet",
-      "line": "So did you splat them ratsies or what?"
+      "line": "So did you splat them ratsies or what?",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -324,11 +350,13 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Haha, nice!"
+      "line": "Haha, nice!",
+      "delivery": "delighted"
     },
     {
       "character": "Phingspet",
-      "line": "Splat! Splat!"
+      "line": "Splat! Splat!",
+      "delivery": "gleeful"
     },
     {
       "character": "Player",
@@ -344,11 +372,13 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Reminds me of us when we were little."
+      "line": "Reminds me of us when we were little.",
+      "delivery": "fond, nostalgic"
     },
     {
       "character": "Player",
-      "line": "I'm not sure that's a compliment..."
+      "line": "I'm not sure that's a compliment...",
+      "delivery": "dry, uneasy"
     },
     {
       "character": "Grimesquit",
@@ -360,11 +390,13 @@
     },
     {
       "character": "Player",
-      "line": "What? So we've just caught all these rats for nothing?"
+      "line": "What? So we've just caught all these rats for nothing?",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
-      "line": "Isn't there anything you can teach me? I caught a lot of rats, you know..."
+      "line": "Isn't there anything you can teach me? I caught a lot of rats, you know...",
+      "delivery": "pleading"
     },
     {
       "character": "Grimesquit",
@@ -380,7 +412,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh. Just what I wanted."
+      "line": "Oh. Just what I wanted.",
+      "delivery": "dry, sarcastic"
     },
     {
       "character": "Phingspet",
@@ -408,15 +441,18 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Ooh, and he is dazzling!"
+      "line": "Ooh, and he is dazzling!",
+      "delivery": "swooning"
     },
     {
       "character": "Phingspet",
-      "line": "Shut up, Grimesquit!"
+      "line": "Shut up, Grimesquit!",
+      "delivery": "sharp"
     },
     {
       "character": "Grimesquit",
-      "line": "Say hello to Jimmikins from me, won't you?"
+      "line": "Say hello to Jimmikins from me, won't you?",
+      "delivery": "dreamy"
     },
     {
       "character": "Player",
@@ -472,15 +508,18 @@
     },
     {
       "character": "Grimesquit",
-      "line": "Give him a kiss from me!"
+      "line": "Give him a kiss from me!",
+      "delivery": "giddy"
     },
     {
       "character": "Player",
-      "line": "I will absolutely not be doing that."
+      "line": "I will absolutely not be doing that.",
+      "delivery": "flat, firm"
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Ah, you must be. I've been expectorating you."
+      "line": "Ah, you must be. I've been expectorating you.",
+      "delivery": "theatrical, pompous"
     },
     {
       "character": "Player",
@@ -496,11 +535,13 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Well, I could, but I need a little more motivation than that."
+      "line": "Well, I could, but I need a little more motivation than that.",
+      "delivery": "sly"
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "I didn't get this far by giving out help freely to every adventurer who came my way."
+      "line": "I didn't get this far by giving out help freely to every adventurer who came my way.",
+      "delivery": "pompous"
     },
     {
       "character": "Player",
@@ -512,7 +553,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Ah, that's mincemeat to my ears!"
+      "line": "Ah, that's mincemeat to my ears!",
+      "delivery": "delighted, grandiose"
     },
     {
       "character": "Player",
@@ -520,11 +562,13 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "No thank you! Your unrefined caterwauling would only draw attention."
+      "line": "No thank you! Your unrefined caterwauling would only draw attention.",
+      "delivery": "disdainful"
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "How about I test your ratcatching mettle instead?"
+      "line": "How about I test your ratcatching mettle instead?",
+      "delivery": "scheming"
     },
     {
       "character": "Jimmy Dazzler",
@@ -536,7 +580,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "A client of mine, a merchant of some repute, is having a sorbet."
+      "line": "A client of mine, a merchant of some repute, is having a sorbet.",
+      "delivery": "pompous"
     },
     {
       "character": "Player",
@@ -544,7 +589,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "A soy - a fancy party. Don't interrupt me again."
+      "line": "A soy - a fancy party. Don't interrupt me again.",
+      "delivery": "haughty"
     },
     {
       "character": "Jimmy Dazzler",
@@ -556,7 +602,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "No, you fool! A rat problem."
+      "line": "No, you fool! A rat problem.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -564,7 +611,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Ah, but it's not that simple. Here's your first lesson - we ratcatchers must be discreet."
+      "line": "Ah, but it's not that simple. Here's your first lesson - we ratcatchers must be discreet.",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Jimmy Dazzler",
@@ -600,7 +648,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "That's a trade secret, m'afraid."
+      "line": "That's a trade secret, m'afraid.",
+      "delivery": "coy"
     },
     {
       "character": "Player",
@@ -608,7 +657,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Oh my, no. Can you imagine if all the riffraff in Ardougne got wind of this?"
+      "line": "Oh my, no. Can you imagine if all the riffraff in Ardougne got wind of this?",
+      "delivery": "aghast"
     },
     {
       "character": "Jimmy Dazzler",
@@ -628,7 +678,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Of course! Use a cat to catch the rats."
+      "line": "Of course! Use a cat to catch the rats.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -636,7 +687,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Don't look a gilt horse in the mouth!"
+      "line": "Don't look a gilt horse in the mouth!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -644,7 +696,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "I'll gift you no such thing! Now go on, get out of here!"
+      "line": "I'll gift you no such thing! Now go on, get out of here!",
+      "delivery": "flustered, dismissive"
     },
     {
       "character": "Player",
@@ -708,19 +761,23 @@
     },
     {
       "character": "Player",
-      "line": "Good job, Puss, I think that just about wraps things up here."
+      "line": "Good job, Puss, I think that just about wraps things up here.",
+      "delivery": "satisfied"
     },
     {
       "character": "Cat",
-      "line": "Aw, really? I was enjoying that."
+      "line": "Aw, really? I was enjoying that.",
+      "delivery": "disappointed, eager"
     },
     {
       "character": "Cat",
-      "line": "I'm a cold blooded, claw toting, hitkitty."
+      "line": "I'm a cold blooded, claw toting, hitkitty.",
+      "delivery": "menacing, boastful"
     },
     {
       "character": "Cat",
-      "line": "A callous cat."
+      "line": "A callous cat.",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
@@ -728,15 +785,18 @@
     },
     {
       "character": "Cat",
-      "line": "I have many dark sides."
+      "line": "I have many dark sides.",
+      "delivery": "ominous"
     },
     {
       "character": "Cat",
-      "line": "Well, we had better get out of here. Let's do it quietly."
+      "line": "Well, we had better get out of here. Let's do it quietly.",
+      "delivery": "hushed"
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "Ah, aren't you just the ticket?"
+      "line": "Ah, aren't you just the ticket?",
+      "delivery": "pleased"
     },
     {
       "character": "Player",
@@ -744,7 +804,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "A job well done. Confabulations!"
+      "line": "A job well done. Confabulations!",
+      "delivery": "grandiose"
     },
     {
       "character": "Player",
@@ -764,11 +825,13 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "It's a great place for training kittens. Just look at Bones here!"
+      "line": "It's a great place for training kittens. Just look at Bones here!",
+      "delivery": "proud"
     },
     {
       "character": "Bones",
-      "line": "I think of nothing but murder all day!"
+      "line": "I think of nothing but murder all day!",
+      "delivery": "unhinged, gleeful"
     },
     {
       "character": "Player",
@@ -812,7 +875,8 @@
     },
     {
       "character": "Jimmy Dazzler",
-      "line": "I'd have thought it was self-exploratory. Here, have a manual."
+      "line": "I'd have thought it was self-exploratory. Here, have a manual.",
+      "delivery": "haughty"
     },
     {
       "character": "Jimmy Dazzler",
@@ -824,7 +888,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Depends who's asking. What do you want?"
+      "line": "Depends who's asking. What do you want?",
+      "delivery": "gruff, guarded"
     },
     {
       "character": "Player",
@@ -832,7 +897,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "I expect he wants me to do that for free, does he?"
+      "line": "I expect he wants me to do that for free, does he?",
+      "delivery": "cynical"
     },
     {
       "character": "Player",
@@ -840,7 +906,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Forget it."
+      "line": "Forget it.",
+      "delivery": "flat, dismissive"
     },
     {
       "character": "Player",
@@ -848,7 +915,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "I'm too busy to babysit you and your moggy."
+      "line": "I'm too busy to babysit you and your moggy.",
+      "delivery": "gruff"
     },
     {
       "character": "Player",
@@ -864,19 +932,23 @@
     },
     {
       "character": "Player",
-      "line": "Well I could be your apprentice! I've already got hands-on experience."
+      "line": "Well I could be your apprentice! I've already got hands-on experience.",
+      "delivery": "eager"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Oh yes? What sort of experience?"
+      "line": "Oh yes? What sort of experience?",
+      "delivery": "skeptical"
     },
     {
       "character": "Player",
-      "line": "I helped the Grime Sisters catch loads of rats in the sewers, and I cleared out a whole mansion in Ardougne for Jimmy Dazzler."
+      "line": "I helped the Grime Sisters catch loads of rats in the sewers, and I cleared out a whole mansion in Ardougne for Jimmy Dazzler.",
+      "delivery": "boastful"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "I bet you did. Typical Jimmy, leaving the hard work to everyone else."
+      "line": "I bet you did. Typical Jimmy, leaving the hard work to everyone else.",
+      "delivery": "wry, disdainful"
     },
     {
       "character": "Player",
@@ -884,7 +956,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Oh, alright then. But you'd better not give me or Pox any trouble!"
+      "line": "Oh, alright then. But you'd better not give me or Pox any trouble!",
+      "delivery": "grudging, stern"
     },
     {
       "character": "Player",
@@ -892,7 +965,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "I'd better not regret this..."
+      "line": "I'd better not regret this...",
+      "delivery": "muttering"
     },
     {
       "character": "Hooknosed Jack",
@@ -908,7 +982,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Are you daft? You need rat poison to kill rats!"
+      "line": "Are you daft? You need rat poison to kill rats!",
+      "delivery": "incredulous"
     },
     {
       "character": "Hooknosed Jack",
@@ -928,7 +1003,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Honestly, kids these days..."
+      "line": "Honestly, kids these days...",
+      "delivery": "exasperated"
     },
     {
       "character": "Hooknosed Jack",
@@ -996,7 +1072,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "You're pulling my leg!"
+      "line": "You're pulling my leg!",
+      "delivery": "disbelieving"
     },
     {
       "character": "Player",
@@ -1004,7 +1081,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Yes, you! You think I can't tell you're lying? Now get back to the warehouse and kill those rats!"
+      "line": "Yes, you! You think I can't tell you're lying? Now get back to the warehouse and kill those rats!",
+      "delivery": "angry"
     },
     {
       "character": "Player",
@@ -1032,7 +1110,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Not right now,."
+      "line": "Not right now,.",
+      "delivery": "distracted, curt"
     },
     {
       "character": "Player",
@@ -1040,35 +1119,43 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Can't you see I'm upset?"
+      "line": "Can't you see I'm upset?",
+      "delivery": "distraught"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "It's my cat, Pox. She's half dead, bless her."
+      "line": "It's my cat, Pox. She's half dead, bless her.",
+      "delivery": "grief-stricken"
     },
     {
       "character": "Player",
-      "line": "Oh no! What happened?"
+      "line": "Oh no! What happened?",
+      "delivery": "alarmed"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "They found her at the warehouse you were working at. She must have eaten some of the rats you poisoned."
+      "line": "They found her at the warehouse you were working at. She must have eaten some of the rats you poisoned.",
+      "delivery": "sombre"
     },
     {
       "character": "Player",
-      "line": "Oh no..."
+      "line": "Oh no...",
+      "delivery": "guilty, dismayed"
     },
     {
       "character": "Player",
-      "line": "Can I help? I feel somewhat responsible..."
+      "line": "Can I help? I feel somewhat responsible...",
+      "delivery": "guilty"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "That's kind of you,."
+      "line": "That's kind of you,.",
+      "delivery": "softened"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "There's an apothecary here in town, he could help. Tell him that the poison was made from red spiders eggs and kwuarm. He should know what to do. Go quickly."
+      "line": "There's an apothecary here in town, he could help. Tell him that the poison was made from red spiders eggs and kwuarm. He should know what to do. Go quickly.",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -1080,7 +1167,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "I am the Apothecary. I brew potions. Do you need anything specific?"
+      "line": "I am the Apothecary. I brew potions. Do you need anything specific?",
+      "delivery": "professional"
     },
     {
       "character": "Player",
@@ -1088,7 +1176,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "As I said before, I'm the apothecary not the vet."
+      "line": "As I said before, I'm the apothecary not the vet.",
+      "delivery": "dry, weary"
     },
     {
       "character": "Player",
@@ -1096,7 +1185,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "Of course I do! What kind of poison do you need help with?"
+      "line": "Of course I do! What kind of poison do you need help with?",
+      "delivery": "confident"
     },
     {
       "character": "Player",
@@ -1112,11 +1202,13 @@
     },
     {
       "character": "Apothecary",
-      "line": "Not Pox! I remember when she was a kitten... hang on, I have no time for dilly dallying."
+      "line": "Not Pox! I remember when she was a kitten... hang on, I have no time for dilly dallying.",
+      "delivery": "startled, urgent"
     },
     {
       "character": "Apothecary",
-      "line": "I know just the thing to help Pox out."
+      "line": "I know just the thing to help Pox out.",
+      "delivery": "confident"
     },
     {
       "character": "Player",
@@ -1128,7 +1220,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "Quick, get this to Jack. If I know him, he wouldn't have sent someone else to do this if Pox wasn't seriously ill."
+      "line": "Quick, get this to Jack. If I know him, he wouldn't have sent someone else to do this if Pox wasn't seriously ill.",
+      "delivery": "urgent"
     },
     {
       "character": "Apothecary",
@@ -1136,11 +1229,13 @@
     },
     {
       "character": "Apothecary",
-      "line": "What are you hanging around here for? You've got the anti-poison, so go give it to Jack. Quickly!"
+      "line": "What are you hanging around here for? You've got the anti-poison, so go give it to Jack. Quickly!",
+      "delivery": "urgent, impatient"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Have you got the anti-poison?"
+      "line": "Have you got the anti-poison?",
+      "delivery": "anxious"
     },
     {
       "character": "Player",
@@ -1148,15 +1243,18 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Thank you. Thank you so much."
+      "line": "Thank you. Thank you so much.",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",
-      "line": "No worries there, I'd be sorry to see poor Pox come to harm."
+      "line": "No worries there, I'd be sorry to see poor Pox come to harm.",
+      "delivery": "warm"
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Well, thanks to you, she'll live to see another day."
+      "line": "Well, thanks to you, she'll live to see another day.",
+      "delivery": "grateful"
     },
     {
       "character": "Hooknosed Jack",
@@ -1176,7 +1274,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "You did, but one rat survived... the biggest, nastiest one of the lot."
+      "line": "You did, but one rat survived... the biggest, nastiest one of the lot.",
+      "delivery": "grave"
     },
     {
       "character": "Player",
@@ -1192,7 +1291,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "I really underestimated you,. Best of luck."
+      "line": "I really underestimated you,. Best of luck.",
+      "delivery": "respectful"
     },
     {
       "character": "Hooknosed Jack",
@@ -1204,7 +1304,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Look, you did me and Pox a big favour, but that's not an excuse to slack off."
+      "line": "Look, you did me and Pox a big favour, but that's not an excuse to slack off.",
+      "delivery": "stern"
     },
     {
       "character": "Player",
@@ -1216,23 +1317,28 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Oi! You can't distract me like that. Get on with you, and get rid of that rat!"
+      "line": "Oi! You can't distract me like that. Get on with you, and get rid of that rat!",
+      "delivery": "gruff"
     },
     {
       "character": "Player",
-      "line": "Be careful in there, cat!"
+      "line": "Be careful in there, cat!",
+      "delivery": "anxious"
     },
     {
       "character": "Cat",
-      "line": "Hisss!"
+      "line": "Hisss!",
+      "delivery": "aggressive"
     },
     {
       "character": "King rat",
-      "line": "Pfssst!"
+      "line": "Pfssst!",
+      "delivery": "defiant, snarling"
     },
     {
       "character": "Player",
-      "line": "Go get that nasty rat, don't hold back!"
+      "line": "Go get that nasty rat, don't hold back!",
+      "delivery": "urging"
     },
     {
       "character": "Hooknosed Jack",
@@ -1240,7 +1346,8 @@
     },
     {
       "character": "Player",
-      "line": "Just barely! I was getting worried for my cat, but we pulled through."
+      "line": "Just barely! I was getting worried for my cat, but we pulled through.",
+      "delivery": "relieved"
     },
     {
       "character": "Hooknosed Jack",
@@ -1252,7 +1359,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Well, imagine that. You two must have a great bond. Perhaps I can show you a thing or two after all."
+      "line": "Well, imagine that. You two must have a great bond. Perhaps I can show you a thing or two after all.",
+      "delivery": "impressed, warm"
     },
     {
       "character": "Hooknosed Jack",
@@ -1264,7 +1372,8 @@
     },
     {
       "character": "Hooknosed Jack",
-      "line": "Just you look after it."
+      "line": "Just you look after it.",
+      "delivery": "gruff, caring"
     },
     {
       "character": "Hooknosed Jack",
@@ -1276,7 +1385,8 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Isn't it obvious?"
+      "line": "Isn't it obvious?",
+      "delivery": "gruff"
     },
     {
       "character": "Player",
@@ -1284,11 +1394,13 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Bluaaghhaha! Ahem. Sorry."
+      "line": "Bluaaghhaha! Ahem. Sorry.",
+      "delivery": "coughing fit"
     },
     {
       "character": "Smokin' Joe",
-      "line": "I'm trying to smoke these pesky rats out. Ahem-hem-hem."
+      "line": "I'm trying to smoke these pesky rats out. Ahem-hem-hem.",
+      "delivery": "wheezy, coughing"
     },
     {
       "character": "Player",
@@ -1296,11 +1408,13 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "I'll - ugh - I'll be fine, youngin'. My lungs just aren't up for ratcatchin' like they used to be."
+      "line": "I'll - ugh - I'll be fine, youngin'. My lungs just aren't up for ratcatchin' like they used to be.",
+      "delivery": "wheezy, strained"
     },
     {
       "character": "Smokin' Joe",
-      "line": "Bluaaghhaha!"
+      "line": "Bluaaghhaha!",
+      "delivery": "coughing fit"
     },
     {
       "character": "Player",
@@ -1316,11 +1430,13 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Bluaaaghhaha!"
+      "line": "Bluaaaghhaha!",
+      "delivery": "coughing fit"
     },
     {
       "character": "Smokin' Joe",
-      "line": "-kind of you, youngin'."
+      "line": "-kind of you, youngin'.",
+      "delivery": "wheezy, warm"
     },
     {
       "character": "Player",
@@ -1328,7 +1444,8 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Years of blowin' smoke into rat holes, youngin'."
+      "line": "Years of blowin' smoke into rat holes, youngin'.",
+      "delivery": "rueful, gravelly"
     },
     {
       "character": "Player",
@@ -1348,7 +1465,8 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Blimey, that's my old crew! How are they all?"
+      "line": "Blimey, that's my old crew! How are they all?",
+      "delivery": "surprised, nostalgic"
     },
     {
       "character": "Player",
@@ -1364,11 +1482,13 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "bluaaghhaha..."
+      "line": "bluaaghhaha...",
+      "delivery": "coughing fit"
     },
     {
       "character": "Smokin' Joe",
-      "line": "simple. Take this pot, light the contents, and blow the smoke into the hole."
+      "line": "simple. Take this pot, light the contents, and blow the smoke into the hole.",
+      "delivery": "wheezy"
     },
     {
       "character": "Player",
@@ -1380,11 +1500,13 @@
     },
     {
       "character": "Player",
-      "line": "It's a bit... phlegmy..."
+      "line": "It's a bit... phlegmy...",
+      "delivery": "disgusted, delicate"
     },
     {
       "character": "Smokin' Joe",
-      "line": "You'd better make your own then. A-hem-hem."
+      "line": "You'd better make your own then. A-hem-hem.",
+      "delivery": "coughing, gruff"
     },
     {
       "character": "Smokin' Joe",
@@ -1408,11 +1530,13 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Aheeh - hoo."
+      "line": "Aheeh - hoo.",
+      "delivery": "coughing"
     },
     {
       "character": "Smokin' Joe",
-      "line": "Better with you helpin' me out, youngin'."
+      "line": "Better with you helpin' me out, youngin'.",
+      "delivery": "warm, wheezy"
     },
     {
       "character": "Smokin' Joe",
@@ -1432,7 +1556,8 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Bluaaaghhaha! Hurk-!"
+      "line": "Bluaaaghhaha! Hurk-!",
+      "delivery": "violent coughing fit"
     },
     {
       "character": "Player",
@@ -1444,7 +1569,8 @@
     },
     {
       "character": "Cat",
-      "line": "Miaaaaow!"
+      "line": "Miaaaaow!",
+      "delivery": "insistent"
     },
     {
       "character": "Player",
@@ -1452,7 +1578,8 @@
     },
     {
       "character": "Cat",
-      "line": "Hey, talk to me."
+      "line": "Hey, talk to me.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -1460,11 +1587,13 @@
     },
     {
       "character": "Cat",
-      "line": "Look, I know you're having fun, but you're doing this all wrong."
+      "line": "Look, I know you're having fun, but you're doing this all wrong.",
+      "delivery": "dry, blunt"
     },
     {
       "character": "Player",
-      "line": "Well then smarty paws, what should I be doing?"
+      "line": "Well then smarty paws, what should I be doing?",
+      "delivery": "sarcastic"
     },
     {
       "character": "Cat",
@@ -1480,7 +1609,8 @@
     },
     {
       "character": "Cat",
-      "line": "Listen, why don't you leave the rat-catching to the expert? Tell me when you're going to start the fire and I'll run and catch the rats."
+      "line": "Listen, why don't you leave the rat-catching to the expert? Tell me when you're going to start the fire and I'll run and catch the rats.",
+      "delivery": "smug"
     },
     {
       "character": "Player",
@@ -1492,7 +1622,8 @@
     },
     {
       "character": "Cat",
-      "line": "Exterminate! Exterminate!"
+      "line": "Exterminate! Exterminate!",
+      "delivery": "manic, menacing"
     },
     {
       "character": "Cat",
@@ -1504,7 +1635,8 @@
     },
     {
       "character": "Cat",
-      "line": "Mua-ha-ha!"
+      "line": "Mua-ha-ha!",
+      "delivery": "villainous cackle"
     },
     {
       "character": "Player",
@@ -1520,7 +1652,8 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Well good - ahem - good show."
+      "line": "Well good - ahem - good show.",
+      "delivery": "wheezy, pleased"
     },
     {
       "character": "Smokin' Joe",
@@ -1564,7 +1697,8 @@
     },
     {
       "character": "Smokin' Joe",
-      "line": "Down the stairs to the basement of the 'Laughing Miner'. Get yourself a drink, too, you've earned it."
+      "line": "Down the stairs to the basement of the 'Laughing Miner'. Get yourself a drink, too, you've earned it.",
+      "delivery": "warm"
     },
     {
       "character": "The Face",
@@ -1576,7 +1710,8 @@
     },
     {
       "character": "The Face",
-      "line": "Boss wants to talk to you. She's downstairs in the pits."
+      "line": "Boss wants to talk to you. She's downstairs in the pits.",
+      "delivery": "curt, cold"
     },
     {
       "character": "Player",
@@ -1584,7 +1719,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "Ah, we meet at last. My fellow ratcatchers tell me you're quite the talent."
+      "line": "Ah, we meet at last. My fellow ratcatchers tell me you're quite the talent.",
+      "delivery": "smooth, confident"
     },
     {
       "character": "Player",
@@ -1592,7 +1728,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "Ah, modesty. A trait seldom displayed by adventurers like yourself."
+      "line": "Ah, modesty. A trait seldom displayed by adventurers like yourself.",
+      "delivery": "wry, poetic"
     },
     {
       "character": "Felkrash",
@@ -1604,7 +1741,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "Epic poems aren't usually commissioned by the shy and retiring."
+      "line": "Epic poems aren't usually commissioned by the shy and retiring.",
+      "delivery": "dry, poetic"
     },
     {
       "character": "Player",
@@ -1620,11 +1758,13 @@
     },
     {
       "character": "Felkrash",
-      "line": "Ah, ah, ah - not so fast."
+      "line": "Ah, ah, ah - not so fast.",
+      "delivery": "teasing"
     },
     {
       "character": "Player",
-      "line": "Let me guess... you want me to catch some rats for you first?"
+      "line": "Let me guess... you want me to catch some rats for you first?",
+      "delivery": "knowing, weary"
     },
     {
       "character": "Felkrash",
@@ -1636,15 +1776,18 @@
     },
     {
       "character": "Felkrash",
-      "line": "Nothing too difficult. Just rid the port of every single rat... at once."
+      "line": "Nothing too difficult. Just rid the port of every single rat... at once.",
+      "delivery": "casual, understated"
     },
     {
       "character": "Player",
-      "line": "At once?!"
+      "line": "At once?!",
+      "delivery": "incredulous"
     },
     {
       "character": "Felkrash",
-      "line": "Yep. I expect to see all the rats in Port Sarim dead in one, decisive action."
+      "line": "Yep. I expect to see all the rats in Port Sarim dead in one, decisive action.",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Player",
@@ -1652,7 +1795,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "Deadly!"
+      "line": "Deadly!",
+      "delivery": "cheerful, deadpan"
     },
     {
       "character": "Player",
@@ -1660,7 +1804,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "I want to write a new poem."
+      "line": "I want to write a new poem.",
+      "delivery": "wistful"
     },
     {
       "character": "Player",
@@ -1668,11 +1813,13 @@
     },
     {
       "character": "Felkrash",
-      "line": "No, silly. A poem about the art of ratcatching."
+      "line": "No, silly. A poem about the art of ratcatching.",
+      "delivery": "amused"
     },
     {
       "character": "Felkrash",
-      "line": "Poetry might be my bread and butter, but catching rats is my real passion."
+      "line": "Poetry might be my bread and butter, but catching rats is my real passion.",
+      "delivery": "fond, poetic"
     },
     {
       "character": "Player",
@@ -1688,7 +1835,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "Besides, it's not difficult. I myself performed the very same feat just a few years ago."
+      "line": "Besides, it's not difficult. I myself performed the very same feat just a few years ago.",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
@@ -1696,7 +1844,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "Ha! Nice try. You'll have to figure that out for yourself."
+      "line": "Ha! Nice try. You'll have to figure that out for yourself.",
+      "delivery": "sly"
     },
     {
       "character": "Player",
@@ -1720,7 +1869,8 @@
     },
     {
       "character": "The Face",
-      "line": "Oh. It's you again."
+      "line": "Oh. It's you again.",
+      "delivery": "cold, dismissive"
     },
     {
       "character": "The Face",
@@ -1732,27 +1882,33 @@
     },
     {
       "character": "The Face",
-      "line": "Stop right there. You'll get not hints out of me."
+      "line": "Stop right there. You'll get not hints out of me.",
+      "delivery": "firm, cold"
     },
     {
       "character": "Player",
-      "line": "You know, you're very pretty..."
+      "line": "You know, you're very pretty...",
+      "delivery": "flattering, sly"
     },
     {
       "character": "The Face",
-      "line": "Ha! That's a good one."
+      "line": "Ha! That's a good one.",
+      "delivery": "scornful"
     },
     {
       "character": "The Face",
-      "line": "I hope you're better at ratcatching than lying."
+      "line": "I hope you're better at ratcatching than lying.",
+      "delivery": "cutting"
     },
     {
       "character": "Player",
-      "line": "That's a powerful-looking cat you have there."
+      "line": "That's a powerful-looking cat you have there.",
+      "delivery": "flattering"
     },
     {
       "character": "The Face",
-      "line": "Bellemorde? Beautiful, isn't she?"
+      "line": "Bellemorde? Beautiful, isn't she?",
+      "delivery": "softening, proud"
     },
     {
       "character": "Player",
@@ -1768,15 +1924,18 @@
     },
     {
       "character": "The Face",
-      "line": "Oh yes! There was this one time she helped Felkrash wipe out all the rats in town by -"
+      "line": "Oh yes! There was this one time she helped Felkrash wipe out all the rats in town by -",
+      "delivery": "eager, chatty"
     },
     {
       "character": "Bellemorde",
-      "line": "Hiss!"
+      "line": "Hiss!",
+      "delivery": "warning hiss"
     },
     {
       "character": "The Face",
-      "line": "Oh, I see. Nice try, but you'll have to be cleverer than that."
+      "line": "Oh, I see. Nice try, but you'll have to be cleverer than that.",
+      "delivery": "shrewd"
     },
     {
       "character": "Player",
@@ -1796,11 +1955,13 @@
     },
     {
       "character": "Player",
-      "line": "In comparison, Felkrash was just... disappointing."
+      "line": "In comparison, Felkrash was just... disappointing.",
+      "delivery": "goading"
     },
     {
       "character": "The Face",
-      "line": "How dare you! Felkrash is the greatest ratcatcher Gielinor's ever seen!"
+      "line": "How dare you! Felkrash is the greatest ratcatcher Gielinor's ever seen!",
+      "delivery": "outraged"
     },
     {
       "character": "Player",
@@ -1808,7 +1969,8 @@
     },
     {
       "character": "The Face",
-      "line": "I'll have you know she once killed all the rats in Port Sarim with just one attack!"
+      "line": "I'll have you know she once killed all the rats in Port Sarim with just one attack!",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
@@ -1816,19 +1978,23 @@
     },
     {
       "character": "The Face",
-      "line": "It's true! I saw it happen. She used a magic flute to charm the rats into the sea!"
+      "line": "It's true! I saw it happen. She used a magic flute to charm the rats into the sea!",
+      "delivery": "defensive, blurting"
     },
     {
       "character": "The Face",
-      "line": "Wait... I uh, I shouldn't have said that."
+      "line": "Wait... I uh, I shouldn't have said that.",
+      "delivery": "realizing, panicked"
     },
     {
       "character": "Player",
-      "line": "Don't worry, I won't tell Felkrash you snitched."
+      "line": "Don't worry, I won't tell Felkrash you snitched.",
+      "delivery": "reassuring, sly"
     },
     {
       "character": "The Face",
-      "line": "You'd better not!"
+      "line": "You'd better not!",
+      "delivery": "anxious, threatening"
     },
     {
       "character": "Player",
@@ -1848,19 +2014,23 @@
     },
     {
       "character": "The Face",
-      "line": "I shouldn't have told you that story. Shame on you for coaxing it out of me."
+      "line": "I shouldn't have told you that story. Shame on you for coaxing it out of me.",
+      "delivery": "reproachful"
     },
     {
       "character": "Player",
-      "line": "If it makes you feel better, I lie to a lot of people."
+      "line": "If it makes you feel better, I lie to a lot of people.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "I think I know how to carry out your task."
+      "line": "I think I know how to carry out your task.",
+      "delivery": "confident"
     },
     {
       "character": "Felkrash",
-      "line": "Oh yes? Has The Face been telling tales again?"
+      "line": "Oh yes? Has The Face been telling tales again?",
+      "delivery": "knowing, sly"
     },
     {
       "character": "Player",
@@ -1880,7 +2050,8 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "That depends. How much are you willing to pay?"
+      "line": "That depends. How much are you willing to pay?",
+      "delivery": "shrewd, greedy"
     },
     {
       "character": "Player",
@@ -1892,11 +2063,13 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "Felkrash the Bard? Pah!"
+      "line": "Felkrash the Bard? Pah!",
+      "delivery": "scornful"
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "I taught her all she knows about animal charming, and then she used my knowledge to kill!"
+      "line": "I taught her all she knows about animal charming, and then she used my knowledge to kill!",
+      "delivery": "bitter"
     },
     {
       "character": "Player",
@@ -1904,15 +2077,18 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "Music should never be used to kill."
+      "line": "Music should never be used to kill.",
+      "delivery": "solemn"
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "When I first met Felkrash we sang about love, not war."
+      "line": "When I first met Felkrash we sang about love, not war.",
+      "delivery": "wistful"
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "Oh, things were a lot better in those days."
+      "line": "Oh, things were a lot better in those days.",
+      "delivery": "nostalgic, melancholy"
     },
     {
       "character": "Player",
@@ -1956,7 +2132,8 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "Nope."
+      "line": "Nope.",
+      "delivery": "flat"
     },
     {
       "character": "Player",
@@ -1988,7 +2165,8 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "Now we're talking."
+      "line": "Now we're talking.",
+      "delivery": "greedy, interested"
     },
     {
       "character": "Player",
@@ -2004,7 +2182,8 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "You're a resourceful looking adventurer. I'm sure you'll figure something out."
+      "line": "You're a resourceful looking adventurer. I'm sure you'll figure something out.",
+      "delivery": "smooth"
     },
     {
       "character": "Player",
@@ -2020,7 +2199,8 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "Yes... that sounds fair..."
+      "line": "Yes... that sounds fair...",
+      "delivery": "greedy, considering"
     },
     {
       "character": "Ali the Snake Charmer",
@@ -2036,7 +2216,8 @@
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "What? I'm offering something invaluable, and you'll quibble over a couple of coins?"
+      "line": "What? I'm offering something invaluable, and you'll quibble over a couple of coins?",
+      "delivery": "offended"
     },
     {
       "character": "Player",
@@ -2080,11 +2261,13 @@
     },
     {
       "character": "Player",
-      "line": "What if I said I'd kill you?"
+      "line": "What if I said I'd kill you?",
+      "delivery": "menacing, testing"
     },
     {
       "character": "Ali the Snake Charmer",
-      "line": "If you killed me, you'd never learn my technique."
+      "line": "If you killed me, you'd never learn my technique.",
+      "delivery": "calm, unbothered"
     },
     {
       "character": "Player",
@@ -2148,7 +2331,8 @@
     },
     {
       "character": "The Face",
-      "line": "That was an amazing performance! I've only seen one like it... as you know."
+      "line": "That was an amazing performance! I've only seen one like it... as you know.",
+      "delivery": "impressed, conspiratorial"
     },
     {
       "character": "Player",
@@ -2156,7 +2340,8 @@
     },
     {
       "character": "The Face",
-      "line": "And it had better stay that way!"
+      "line": "And it had better stay that way!",
+      "delivery": "warning"
     },
     {
       "character": "Player",
@@ -2164,15 +2349,18 @@
     },
     {
       "character": "Player",
-      "line": "Ha! I did it. Did you see?"
+      "line": "Ha! I did it. Did you see?",
+      "delivery": "triumphant"
     },
     {
       "character": "Felkrash",
-      "line": "I did indeed! A performance for the ages."
+      "line": "I did indeed! A performance for the ages.",
+      "delivery": "delighted, grand"
     },
     {
       "character": "Felkrash",
-      "line": "Now that you're a real ratcatcher, I'd be happy to train that cat of yours."
+      "line": "Now that you're a real ratcatcher, I'd be happy to train that cat of yours.",
+      "delivery": "warm"
     },
     {
       "character": "Player",
@@ -2184,7 +2372,8 @@
     },
     {
       "character": "Felkrash",
-      "line": "A heroic cat like yours needs a heroic name, don't you think?"
+      "line": "A heroic cat like yours needs a heroic name, don't you think?",
+      "delivery": "poetic, warm"
     },
     {
       "character": "Felkrash",
@@ -2192,7 +2381,8 @@
     },
     {
       "character": "Cat",
-      "line": "Hey, you finally got around to naming me."
+      "line": "Hey, you finally got around to naming me.",
+      "delivery": "dry, wry"
     },
     {
       "character": "Player",

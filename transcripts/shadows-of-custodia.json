@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Player",
-      "line": "Hmm... That's quite a few missing people... Looks like some of these have been here for a while."
+      "line": "Hmm... That's quite a few missing people... Looks like some of these have been here for a while.",
+      "delivery": "pensive"
     },
     {
       "character": "Player",
@@ -32,7 +33,8 @@
     },
     {
       "character": "Marcus",
-      "line": "Only what I've heard around the place. That funny guy by the sea keeps suggesting they're being taken in the night, which is absurd really."
+      "line": "Only what I've heard around the place. That funny guy by the sea keeps suggesting they're being taken in the night, which is absurd really.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -40,7 +42,8 @@
     },
     {
       "character": "Marcus",
-      "line": "He's always going on about strange people coming in the night, but no one would dare do that with the ents around. It's a load of rubbish."
+      "line": "He's always going on about strange people coming in the night, but no one would dare do that with the ents around. It's a load of rubbish.",
+      "delivery": "scoffing, dismissive"
     },
     {
       "character": "Player",
@@ -64,7 +67,8 @@
     },
     {
       "character": "Marcus",
-      "line": "Like what? Murder? I'm not sure who would want to kill folk around here. We're a tight community."
+      "line": "Like what? Murder? I'm not sure who would want to kill folk around here. We're a tight community.",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -76,7 +80,8 @@
     },
     {
       "character": "Marcus",
-      "line": "Not really. I'm sure if you keep asking around you'll find someone who can help you. Just don't waste your time on that funny guy by the sea..."
+      "line": "Not really. I'm sure if you keep asking around you'll find someone who can help you. Just don't waste your time on that funny guy by the sea...",
+      "delivery": "dismissive"
     },
     {
       "character": "Bartender",
@@ -132,7 +137,8 @@
     },
     {
       "character": "Ictus",
-      "line": "Not often someone comes out to speak to me. What do you want?"
+      "line": "Not often someone comes out to speak to me. What do you want?",
+      "delivery": "wary, gruff"
     },
     {
       "character": "Player",
@@ -140,7 +146,8 @@
     },
     {
       "character": "Ictus",
-      "line": "Oh, yes! Yes indeed! They were taken by the night people!"
+      "line": "Oh, yes! Yes indeed! They were taken by the night people!",
+      "delivery": "manic, eager"
     },
     {
       "character": "Player",
@@ -148,7 +155,8 @@
     },
     {
       "character": "Ictus",
-      "line": "Yes! I hear them in the dark. They think they're quiet, but not to me! I can hear them scrape against the wooden walls!"
+      "line": "Yes! I hear them in the dark. They think they're quiet, but not to me! I can hear them scrape against the wooden walls!",
+      "delivery": "paranoid, intense"
     },
     {
       "character": "Player",
@@ -156,7 +164,8 @@
     },
     {
       "character": "Ictus",
-      "line": "Does a dog walk on two legs?"
+      "line": "Does a dog walk on two legs?",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -172,7 +181,8 @@
     },
     {
       "character": "Ictus",
-      "line": "Oh, I see what you're doing! You're just another who wants to laugh at me! You'll all see soon enough!"
+      "line": "Oh, I see what you're doing! You're just another who wants to laugh at me! You'll all see soon enough!",
+      "delivery": "paranoid, accusatory"
     },
     {
       "character": "Player",
@@ -180,11 +190,13 @@
     },
     {
       "character": "Ictus",
-      "line": "That's right! Be gone with you!"
+      "line": "That's right! Be gone with you!",
+      "delivery": "shouting"
     },
     {
       "character": "Ictus",
-      "line": "You again? Come to laugh at me once more? I know the night people are real! You'll find out soon enough!"
+      "line": "You again? Come to laugh at me once more? I know the night people are real! You'll find out soon enough!",
+      "delivery": "paranoid, defensive"
     },
     {
       "character": "Player",
@@ -196,7 +208,8 @@
     },
     {
       "character": "Shopkeeper",
-      "line": "Ah, yes... It's a sad day when a town doesn't worry about its missing children..."
+      "line": "Ah, yes... It's a sad day when a town doesn't worry about its missing children...",
+      "delivery": "sorrowful"
     },
     {
       "character": "Player",
@@ -228,7 +241,8 @@
     },
     {
       "character": "Shopkeeper",
-      "line": "I think we could be doing more. Something is happening and it doesn't feel right. I know I'm not the only one who feels this way."
+      "line": "I think we could be doing more. Something is happening and it doesn't feel right. I know I'm not the only one who feels this way.",
+      "delivery": "earnest, concerned"
     },
     {
       "character": "Player",
@@ -300,7 +314,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "Turn around. Walk out."
+      "line": "Turn around. Walk out.",
+      "delivery": "cold, guarded"
     },
     {
       "character": "Player",
@@ -308,23 +323,28 @@
     },
     {
       "character": "Francis",
-      "line": "Please... Nobody's looking into anything. Just leave us."
+      "line": "Please... Nobody's looking into anything. Just leave us.",
+      "delivery": "weary, pleading"
     },
     {
       "character": "Player",
-      "line": "But I'm trying to find the missing people!"
+      "line": "But I'm trying to find the missing people!",
+      "delivery": "insistent"
     },
     {
       "character": "Aemilia",
-      "line": "Prove it! What do you know?"
+      "line": "Prove it! What do you know?",
+      "delivery": "sharp, challenging"
     },
     {
       "character": "Player",
-      "line": "Er..."
+      "line": "Er...",
+      "delivery": "flustered"
     },
     {
       "character": "Aemilia",
-      "line": "Exactly! Now, go!"
+      "line": "Exactly! Now, go!",
+      "delivery": "sharp, dismissive"
     },
     {
       "character": "Player",
@@ -336,7 +356,8 @@
     },
     {
       "character": "Francis",
-      "line": "You... You'll find our sons?"
+      "line": "You... You'll find our sons?",
+      "delivery": "hopeful, fragile"
     },
     {
       "character": "Player",
@@ -344,7 +365,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "Well... I suppose you do at least seem to somewhat care."
+      "line": "Well... I suppose you do at least seem to somewhat care.",
+      "delivery": "softening, guarded"
     },
     {
       "character": "Francis",
@@ -356,7 +378,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "That's the thing... They just seemed to vanish! One moment they were playing upstairs, but the next they'd gone."
+      "line": "That's the thing... They just seemed to vanish! One moment they were playing upstairs, but the next they'd gone.",
+      "delivery": "distressed"
     },
     {
       "character": "Player",
@@ -372,7 +395,8 @@
     },
     {
       "character": "Francis",
-      "line": "Yes. Their normal path takes them right past our house, but the night the boys disappeared, they took a different route. It's like they were avoiding something..."
+      "line": "Yes. Their normal path takes them right past our house, but the night the boys disappeared, they took a different route. It's like they were avoiding something...",
+      "delivery": "unsettled"
     },
     {
       "character": "Player",
@@ -388,7 +412,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "You again? We already told you to go away!"
+      "line": "You again? We already told you to go away!",
+      "delivery": "hostile"
     },
     {
       "character": "Player",
@@ -404,7 +429,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "Please, help us find our sons."
+      "line": "Please, help us find our sons.",
+      "delivery": "pleading"
     },
     {
       "character": "Player",
@@ -440,7 +466,8 @@
     },
     {
       "character": "Player",
-      "line": "That's odd... There are some scratches going up the wall, along with a strange stick red substance. It's not blood... What is it?"
+      "line": "That's odd... There are some scratches going up the wall, along with a strange stick red substance. It's not blood... What is it?",
+      "delivery": "puzzled, uneasy"
     },
     {
       "character": "Player",
@@ -452,7 +479,8 @@
     },
     {
       "character": "Player",
-      "line": "Interesting... I should see if this is from one of our missing people!"
+      "line": "Interesting... I should see if this is from one of our missing people!",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -468,7 +496,8 @@
     },
     {
       "character": "Player",
-      "line": "It could be evidence of something happening here... Surely it wouldn't be ethical to do this?"
+      "line": "It could be evidence of something happening here... Surely it wouldn't be ethical to do this?",
+      "delivery": "conflicted"
     },
     {
       "character": "Player",
@@ -484,7 +513,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "Yes, Etz does... What does it mean?"
+      "line": "Yes, Etz does... What does it mean?",
+      "delivery": "anxious"
     },
     {
       "character": "Player",
@@ -496,11 +526,13 @@
     },
     {
       "character": "Player",
-      "line": "Up towards the mountains north west of here. It might be dangerous, but I think I can explore further."
+      "line": "Up towards the mountains north west of here. It might be dangerous, but I think I can explore further.",
+      "delivery": "resolute"
     },
     {
       "character": "Aemilia",
-      "line": "If you're willing to, it would mean everything to us. You're the only one who's actually cared enough to find anything!"
+      "line": "If you're willing to, it would mean everything to us. You're the only one who's actually cared enough to find anything!",
+      "delivery": "emotional, grateful"
     },
     {
       "character": "Player",
@@ -512,23 +544,28 @@
     },
     {
       "character": "Francis",
-      "line": "Thank you for helping us. No one else seems to care..."
+      "line": "Thank you for helping us. No one else seems to care...",
+      "delivery": "weary gratitude"
     },
     {
       "character": "Player",
-      "line": "Are you okay? Can you walk?"
+      "line": "Are you okay? Can you walk?",
+      "delivery": "urgent, concerned"
     },
     {
       "character": "Injured boy",
-      "line": "I think so... I'm not sure if Etz can though..."
+      "line": "I think so... I'm not sure if Etz can though...",
+      "delivery": "weak, shaken"
     },
     {
       "character": "Player",
-      "line": "That's okay. I should be able to carry him. Now, let's get out of here..."
+      "line": "That's okay. I should be able to carry him. Now, let's get out of here...",
+      "delivery": "reassuring"
     },
     {
       "character": "Aemilia",
-      "line": "I can't believe you found them!"
+      "line": "I can't believe you found them!",
+      "delivery": "overjoyed, tearful"
     },
     {
       "character": "Player",
@@ -536,7 +573,8 @@
     },
     {
       "character": "Francis",
-      "line": "Probably using the survival skills I taught them! That's my boys!"
+      "line": "Probably using the survival skills I taught them! That's my boys!",
+      "delivery": "proud, relieved"
     },
     {
       "character": "Player",
@@ -560,7 +598,8 @@
     },
     {
       "character": "Aemilia",
-      "line": "Well, they weren't the only ones to disappear. What if you're right? What if there are more people up there? And what if whatever took them comes back?"
+      "line": "Well, they weren't the only ones to disappear. What if you're right? What if there are more people up there? And what if whatever took them comes back?",
+      "delivery": "fearful"
     },
     {
       "character": "Player",
@@ -680,7 +719,8 @@
     },
     {
       "character": "Captain Ariadna",
-      "line": "Ah, wonderful. This is just what we need."
+      "line": "Ah, wonderful. This is just what we need.",
+      "delivery": "dry, sardonic"
     },
     {
       "character": "Player",
@@ -692,7 +732,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm sure I can step in as your fletcher! New bows, was it?"
+      "line": "I'm sure I can step in as your fletcher! New bows, was it?",
+      "delivery": "eager, upbeat"
     },
     {
       "character": "Captain Ariadna",
@@ -744,7 +785,8 @@
     },
     {
       "character": "Player",
-      "line": "Right... Not quite the solution I was after, but it's a start. I guess I'd better go check in with those boys and see if I can find out more about how they ended up in that cave."
+      "line": "Right... Not quite the solution I was after, but it's a start. I guess I'd better go check in with those boys and see if I can find out more about how they ended up in that cave.",
+      "delivery": "disappointed"
     },
     {
       "character": "Captain Ariadna",
@@ -760,7 +802,8 @@
     },
     {
       "character": "Marcus",
-      "line": "Ah, it's you. I hear you're still looking into the case of those missing people. Must say, you're the first person in a while to actually stick to it."
+      "line": "Ah, it's you. I hear you're still looking into the case of those missing people. Must say, you're the first person in a while to actually stick to it.",
+      "delivery": "grudging respect"
     },
     {
       "character": "Player",
@@ -772,7 +815,8 @@
     },
     {
       "character": "Shas",
-      "line": "You're the one that saved us. Thank you."
+      "line": "You're the one that saved us. Thank you.",
+      "delivery": "quiet, grateful"
     },
     {
       "character": "Player",
@@ -788,7 +832,8 @@
     },
     {
       "character": "Etz",
-      "line": "Yes! He makes bows for the guards. We'd see him sometimes when dad would go with him to the pub, but he wasn't in the pub! He was in the cave!"
+      "line": "Yes! He makes bows for the guards. We'd see him sometimes when dad would go with him to the pub, but he wasn't in the pub! He was in the cave!",
+      "delivery": "excitable, earnest"
     },
     {
       "character": "Player",
@@ -796,15 +841,18 @@
     },
     {
       "character": "Shas",
-      "line": "He was deeper inside. Those... things... they dragged him away!"
+      "line": "He was deeper inside. Those... things... they dragged him away!",
+      "delivery": "frightened"
     },
     {
       "character": "Player",
-      "line": "This isn't good. I need to get back there!"
+      "line": "This isn't good. I need to get back there!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Etz",
-      "line": "Please... find Antos."
+      "line": "Please... find Antos.",
+      "delivery": "pleading"
     },
     {
       "character": "Shas",
@@ -812,7 +860,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm going to head back there right now!"
+      "line": "I'm going to head back there right now!",
+      "delivery": "urgent, determined"
     },
     {
       "character": "Aemilia",
@@ -824,11 +873,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes, but I need to get back to the cave. Apparently someone called Antos is still in there!"
+      "line": "Yes, but I need to get back to the cave. Apparently someone called Antos is still in there!",
+      "delivery": "urgent"
     },
     {
       "character": "Francis",
-      "line": "Antos is up there? You'd better go and find him, iknami!"
+      "line": "Antos is up there? You'd better go and find him, iknami!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Captain Ariadna",
@@ -840,7 +891,8 @@
     },
     {
       "character": "Player",
-      "line": "Yes, but I also found out someone called Antos is still in that cave! I need to go and find him!"
+      "line": "Yes, but I also found out someone called Antos is still in that cave! I need to go and find him!",
+      "delivery": "urgent"
     },
     {
       "character": "Captain Ariadna",
@@ -848,7 +900,8 @@
     },
     {
       "character": "Player",
-      "line": "We don't have time! I'm heading up there now!"
+      "line": "We don't have time! I'm heading up there now!",
+      "delivery": "urgent, forceful"
     },
     {
       "character": "Captain Ariadna",
@@ -856,23 +909,28 @@
     },
     {
       "character": "Player",
-      "line": "It's that or he dies!"
+      "line": "It's that or he dies!",
+      "delivery": "intense, forceful"
     },
     {
       "character": "Captain Ariadna",
-      "line": "You're mad, traveller! Good luck up there."
+      "line": "You're mad, traveller! Good luck up there.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "Antos? Are you okay?"
+      "line": "Antos? Are you okay?",
+      "delivery": "cautious, concerned"
     },
     {
       "character": "Antos",
-      "line": "Behind... you..."
+      "line": "Behind... you...",
+      "delivery": "weak, strained"
     },
     {
       "character": "Antos",
-      "line": "Have they gone?"
+      "line": "Have they gone?",
+      "delivery": "weak, fearful"
     },
     {
       "character": "Player",
@@ -880,7 +938,8 @@
     },
     {
       "character": "Antos",
-      "line": "Thank you, iknami. I thought I could find out where people were going... No one else seemed to care... I managed to track those boys here, but then those things..."
+      "line": "Thank you, iknami. I thought I could find out where people were going... No one else seemed to care... I managed to track those boys here, but then those things...",
+      "delivery": "exhausted, faint"
     },
     {
       "character": "Player",
@@ -888,11 +947,13 @@
     },
     {
       "character": "Antos",
-      "line": "That's good... but everyone else... Look what they did to them..."
+      "line": "That's good... but everyone else... Look what they did to them...",
+      "delivery": "horrified, weak"
     },
     {
       "character": "Player",
-      "line": "I'm sorry, Antos. We can't help them now, but at least you and the boys are safe. Come on, let's get you home, before more of those things arrive..."
+      "line": "I'm sorry, Antos. We can't help them now, but at least you and the boys are safe. Come on, let's get you home, before more of those things arrive...",
+      "delivery": "somber, urgent"
     },
     {
       "character": "Captain Ariadna",
@@ -908,11 +969,13 @@
     },
     {
       "character": "Player",
-      "line": "No. At least, no one alive, that is."
+      "line": "No. At least, no one alive, that is.",
+      "delivery": "grim, somber"
     },
     {
       "character": "Captain Ariadna",
-      "line": "That's... unfortunate. Still, from what you've said, I suppose we should be thankful that you found anyone still breathing."
+      "line": "That's... unfortunate. Still, from what you've said, I suppose we should be thankful that you found anyone still breathing.",
+      "delivery": "somber"
     },
     {
       "character": "Captain Ariadna",
@@ -968,7 +1031,8 @@
     },
     {
       "character": "Francis",
-      "line": "Tetamo! You are too humble, friend. Without you, our boys would be dead. What you did means everything to us."
+      "line": "Tetamo! You are too humble, friend. Without you, our boys would be dead. What you did means everything to us.",
+      "delivery": "warm, emphatic"
     },
     {
       "character": "Player",
@@ -996,7 +1060,8 @@
     },
     {
       "character": "Etz",
-      "line": "You're our hero!"
+      "line": "You're our hero!",
+      "delivery": "excited, admiring"
     },
     {
       "character": "Player",
@@ -1012,7 +1077,8 @@
     },
     {
       "character": "Ictus",
-      "line": "You found those people who went missing! Did you see them? Did you see the night people?"
+      "line": "You found those people who went missing! Did you see them? Did you see the night people?",
+      "delivery": "manic, eager"
     },
     {
       "character": "Player",
@@ -1020,11 +1086,13 @@
     },
     {
       "character": "Ictus",
-      "line": "But they're real! They're actually real! No one believed me, but I knew they were real!"
+      "line": "But they're real! They're actually real! No one believed me, but I knew they were real!",
+      "delivery": "triumphant, manic"
     },
     {
       "character": "Player",
-      "line": "Well, congratulations I guess..."
+      "line": "Well, congratulations I guess...",
+      "delivery": "bemused, dry"
     }
   ],
   "characters": [

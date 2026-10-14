@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Gossip",
-      "line": "Oh, I remember you. You're the one that discovered Lord Sinclair's murderer. Well, I can tell you, strange things are afoot once again."
+      "line": "Oh, I remember you. You're the one that discovered Lord Sinclair's murderer. Well, I can tell you, strange things are afoot once again.",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
@@ -12,19 +13,23 @@
     },
     {
       "character": "Gossip",
-      "line": "Well, you didn't hear it from me, but I've heard the Sinclair family have vamoosed! Just up and left the mansion."
+      "line": "Well, you didn't hear it from me, but I've heard the Sinclair family have vamoosed! Just up and left the mansion.",
+      "delivery": "hushed, gossipy"
     },
     {
       "character": "Player",
-      "line": "You mean they let the murderer get away?"
+      "line": "You mean they let the murderer get away?",
+      "delivery": "alarmed"
     },
     {
       "character": "Gossip",
-      "line": "Of course not! Anna's safely locked in the Seers' Village jail. She'll be going to trial soon, so I've heard."
+      "line": "Of course not! Anna's safely locked in the Seers' Village jail. She'll be going to trial soon, so I've heard.",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
-      "line": "Anna? Is that who they arrested? I thought...hmm, never mind."
+      "line": "Anna? Is that who they arrested? I thought...hmm, never mind.",
+      "delivery": "puzzled"
     },
     {
       "character": "Gossip",
@@ -40,19 +45,23 @@
     },
     {
       "character": "Gossip",
-      "line": "Well, it wouldn't be suspicious at all, but King Arthur has also disappeared."
+      "line": "Well, it wouldn't be suspicious at all, but King Arthur has also disappeared.",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Gossip",
-      "line": "No one has seen him or the knights in quite a while. Quite a coincidence, don't you think?"
+      "line": "No one has seen him or the knights in quite a while. Quite a coincidence, don't you think?",
+      "delivery": "insinuating"
     },
     {
       "character": "Player",
-      "line": "How curious. Maybe I should investigate it."
+      "line": "How curious. Maybe I should investigate it.",
+      "delivery": "intrigued"
     },
     {
       "character": "Gossip",
-      "line": "You didn't hear it from me, but I believe that guard in the garden is also investigating it. He might be able to tell you more."
+      "line": "You didn't hear it from me, but I believe that guard in the garden is also investigating it. He might be able to tell you more.",
+      "delivery": "hushed"
     },
     {
       "character": "Player",
@@ -64,7 +73,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Have you spoken to the guard by the mansion? He won't tell me much, he called me a gossip - the nerve - but he might be willing to speak to you."
+      "line": "Have you spoken to the guard by the mansion? He won't tell me much, he called me a gossip - the nerve - but he might be willing to speak to you.",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -72,7 +82,8 @@
     },
     {
       "character": "Pierre",
-      "line": "Have you seen that dog? It's a nasty piece of work. Even I don't like going near it."
+      "line": "Have you seen that dog? It's a nasty piece of work. Even I don't like going near it.",
+      "delivery": "wary, uneasy"
     },
     {
       "character": "Stanford",
@@ -88,7 +99,8 @@
     },
     {
       "character": "Guard",
-      "line": "Finally, that man serves a purpose. I'm glad to have your help. I'm baffled again and my hands are tied."
+      "line": "Finally, that man serves a purpose. I'm glad to have your help. I'm baffled again and my hands are tied.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -96,7 +108,8 @@
     },
     {
       "character": "Guard",
-      "line": "The Sinclairs have disappeared, though I'm not sorry to see them go, but what worries me is the disappearance of King Arthur and his knights around the same time."
+      "line": "The Sinclairs have disappeared, though I'm not sorry to see them go, but what worries me is the disappearance of King Arthur and his knights around the same time.",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
@@ -108,7 +121,8 @@
     },
     {
       "character": "Guard",
-      "line": "moved the family to this mansion. I suspect the murder of old Sinclair was just the first step in a deeper plot to retake their 'birthright'."
+      "line": "moved the family to this mansion. I suspect the murder of old Sinclair was just the first step in a deeper plot to retake their 'birthright'.",
+      "delivery": "grave, suspicious"
     },
     {
       "character": "Player",
@@ -116,19 +130,23 @@
     },
     {
       "character": "Guard",
-      "line": "That's the problem. The Seers' Village council has forbidden the guards from breaking into Camelot or the Sinclair Mansion for further investigation."
+      "line": "That's the problem. The Seers' Village council has forbidden the guards from breaking into Camelot or the Sinclair Mansion for further investigation.",
+      "delivery": "frustrated"
     },
     {
       "character": "Guard",
-      "line": "They claim it's a breach of privacy or something like that. My suspicions mean nothing without proof to back them up, but I can't get proof without losing my job."
+      "line": "They claim it's a breach of privacy or something like that. My suspicions mean nothing without proof to back them up, but I can't get proof without losing my job.",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
-      "line": "Which is why you're happy to see me, right? A rogue party could break into the mansion and investigate further, without the fear of losing their job. Am I right?"
+      "line": "Which is why you're happy to see me, right? A rogue party could break into the mansion and investigate further, without the fear of losing their job. Am I right?",
+      "delivery": "knowing"
     },
     {
       "character": "Guard",
-      "line": "Exactly! I'm sure you'll manage to find a way into the house."
+      "line": "Exactly! I'm sure you'll manage to find a way into the house.",
+      "delivery": "encouraging"
     },
     {
       "character": "Pierre",
@@ -140,7 +158,8 @@
     },
     {
       "character": "Pierre",
-      "line": "I'm not meant to talk to anyone outside the family. On pain of death."
+      "line": "I'm not meant to talk to anyone outside the family. On pain of death.",
+      "delivery": "wary, grim"
     },
     {
       "character": "Player",
@@ -160,19 +179,23 @@
     },
     {
       "character": "Player",
-      "line": "But you're willing to speak to me?"
+      "line": "But you're willing to speak to me?",
+      "delivery": "surprised"
     },
     {
       "character": "Stanford",
-      "line": "Didn't say I was going to obey them, did I?"
+      "line": "Didn't say I was going to obey them, did I?",
+      "delivery": "wry, defiant"
     },
     {
       "character": "Gossip",
-      "line": "Soooooo? What did the guard have to say?"
+      "line": "Soooooo? What did the guard have to say?",
+      "delivery": "eager, prying"
     },
     {
       "character": "Player",
-      "line": "Promise you won't tell?"
+      "line": "Promise you won't tell?",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Gossip",
@@ -184,19 +207,23 @@
     },
     {
       "character": "Player",
-      "line": "He said..."
+      "line": "He said...",
+      "delivery": "hesitant"
     },
     {
       "character": "Player",
-      "line": "that you were a gossip and I shouldn't divulge privileged information."
+      "line": "that you were a gossip and I shouldn't divulge privileged information.",
+      "delivery": "deadpan"
     },
     {
       "character": "Hobbes",
-      "line": "What are you doing here? I thought the house was locked up tight."
+      "line": "What are you doing here? I thought the house was locked up tight.",
+      "delivery": "startled, stern"
     },
     {
       "character": "Player",
-      "line": "Oh, it is, except for that broken window... Very convenient."
+      "line": "Oh, it is, except for that broken window... Very convenient.",
+      "delivery": "sly"
     },
     {
       "character": "Player",
@@ -204,19 +231,23 @@
     },
     {
       "character": "Hobbes",
-      "line": "I'm under strict orders not to speak to anyone not of the Sinclair family."
+      "line": "I'm under strict orders not to speak to anyone not of the Sinclair family.",
+      "delivery": "stiff, formal"
     },
     {
       "character": "Hobbes",
-      "line": "I was told if I left the house that I would be killed!"
+      "line": "I was told if I left the house that I would be killed!",
+      "delivery": "fearful"
     },
     {
       "character": "Player",
-      "line": "I think you need to look for a new job. Your employers are a bit scary."
+      "line": "I think you need to look for a new job. Your employers are a bit scary.",
+      "delivery": "dry"
     },
     {
       "character": "Louisa",
-      "line": "What are you doing in here? I didn't think anyone could enter or leave this place."
+      "line": "What are you doing in here? I didn't think anyone could enter or leave this place.",
+      "delivery": "startled"
     },
     {
       "character": "Player",
@@ -224,7 +255,8 @@
     },
     {
       "character": "Louisa",
-      "line": "We were told a curse had been placed on us. If we left the mansion we'd be struck down in an instant."
+      "line": "We were told a curse had been placed on us. If we left the mansion we'd be struck down in an instant.",
+      "delivery": "uneasy"
     },
     {
       "character": "Player",
@@ -232,7 +264,8 @@
     },
     {
       "character": "Mary",
-      "line": "Who...? Oh, I remember you! You were asking all those questions about Lord Sinclair's murder. You had all sorts of evid-whats-its."
+      "line": "Who...? Oh, I remember you! You were asking all those questions about Lord Sinclair's murder. You had all sorts of evid-whats-its.",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
@@ -240,7 +273,8 @@
     },
     {
       "character": "Mary",
-      "line": "I don't know. They got really secretive after Lord Sinclair was killed and then suddenly left. That's all I know."
+      "line": "I don't know. They got really secretive after Lord Sinclair was killed and then suddenly left. That's all I know.",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
@@ -248,19 +282,23 @@
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "You aren't here to murder us in our sleep are you?"
+      "line": "You aren't here to murder us in our sleep are you?",
+      "delivery": "anxious, wary"
     },
     {
       "character": "Player",
-      "line": "Well, I'd not be doing a very good job of it, if I was, considering you're not asleep."
+      "line": "Well, I'd not be doing a very good job of it, if I was, considering you're not asleep.",
+      "delivery": "dry, sarcastic"
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "So, you are here to kill us!"
+      "line": "So, you are here to kill us!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
-      "line": "Uh, no. I'm just browsing."
+      "line": "Uh, no. I'm just browsing.",
+      "delivery": "deadpan"
     },
     {
       "character": "Mary/Donovan/Louisa/Hobbes/Pierre/Stanford",
@@ -276,11 +314,13 @@
     },
     {
       "character": "Guard",
-      "line": "A form? What does this prove?"
+      "line": "A form? What does this prove?",
+      "delivery": "skeptical"
     },
     {
       "character": "Player",
-      "line": "Don't you see? The Sinclairs have left for good. They premeditated their departure from the mansion."
+      "line": "Don't you see? The Sinclairs have left for good. They premeditated their departure from the mansion.",
+      "delivery": "insistent"
     },
     {
       "character": "Guard",
@@ -292,7 +332,8 @@
     },
     {
       "character": "Player",
-      "line": "Errr, I seem to have left it somewhere."
+      "line": "Errr, I seem to have left it somewhere.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -300,11 +341,13 @@
     },
     {
       "character": "Guard",
-      "line": "Aha! They've gone to the desert. They're meeting up with a camel."
+      "line": "Aha! They've gone to the desert. They're meeting up with a camel.",
+      "delivery": "confident, clueless"
     },
     {
       "character": "Player",
-      "line": "No...It's not camel, like the animal. The note isn't whole, they were writing the word Camelot. They were meeting at Camelot, this is our evidence to connect the Sinclairs to King Arthur."
+      "line": "No...It's not camel, like the animal. The note isn't whole, they were writing the word Camelot. They were meeting at Camelot, this is our evidence to connect the Sinclairs to King Arthur.",
+      "delivery": "patient, exasperated"
     },
     {
       "character": "Guard",
@@ -328,7 +371,8 @@
     },
     {
       "character": "Guard",
-      "line": "Oh right! With this evidence and the note you brought me, we know they had intentions to do harm to King Arthur."
+      "line": "Oh right! With this evidence and the note you brought me, we know they had intentions to do harm to King Arthur.",
+      "delivery": "excited"
     },
     {
       "character": "Guard",
@@ -344,35 +388,43 @@
     },
     {
       "character": "Guard",
-      "line": "Oh the Seers' Village council convenes in a month or so, I'll present it then. No doubt they'll want a few days to review the evidence."
+      "line": "Oh the Seers' Village council convenes in a month or so, I'll present it then. No doubt they'll want a few days to review the evidence.",
+      "delivery": "casual"
     },
     {
       "character": "Guard",
-      "line": "We'll go sometime after that...if none of the other guards are on holiday. There are only four of us, ya know."
+      "line": "We'll go sometime after that...if none of the other guards are on holiday. There are only four of us, ya know.",
+      "delivery": "nonchalant"
     },
     {
       "character": "Player",
-      "line": "WHAT?"
+      "line": "WHAT?",
+      "delivery": "incredulous, shouting"
     },
     {
       "character": "Player",
-      "line": "A month or more? King Arthur could be in grave danger. Morgan Le Faye is involved and she is not one to be trifled with. One of the Sinclairs has already committed murder, who's to say another won't?"
+      "line": "A month or more? King Arthur could be in grave danger. Morgan Le Faye is involved and she is not one to be trifled with. One of the Sinclairs has already committed murder, who's to say another won't?",
+      "delivery": "urgent, alarmed"
     },
     {
       "character": "Player",
-      "line": "And you're going to wait a MONTH?"
+      "line": "And you're going to wait a MONTH?",
+      "delivery": "incredulous, exasperated"
     },
     {
       "character": "Guard",
-      "line": "I have to follow procedure, my hands are tied."
+      "line": "I have to follow procedure, my hands are tied.",
+      "delivery": "resigned"
     },
     {
       "character": "Guard",
-      "line": "However, were a rogue adventurer to take the matter in to their own hands..."
+      "line": "However, were a rogue adventurer to take the matter in to their own hands...",
+      "delivery": "sly, leading"
     },
     {
       "character": "Player",
-      "line": "Aye, what then?"
+      "line": "Aye, what then?",
+      "delivery": "intrigued"
     },
     {
       "character": "Guard",
@@ -380,11 +432,13 @@
     },
     {
       "character": "Player",
-      "line": "That's all the advice you can give?"
+      "line": "That's all the advice you can give?",
+      "delivery": "unimpressed"
     },
     {
       "character": "Guard",
-      "line": "Well, often the best historians are the town gossips. I'd start there. Good luck, brave adventurer!"
+      "line": "Well, often the best historians are the town gossips. I'd start there. Good luck, brave adventurer!",
+      "delivery": "encouraging"
     },
     {
       "character": "Player",
@@ -404,7 +458,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Hmph. I don't see why I should tell you anything."
+      "line": "Hmph. I don't see why I should tell you anything.",
+      "delivery": "offended, curt"
     },
     {
       "character": "Player",
@@ -412,15 +467,18 @@
     },
     {
       "character": "Gossip",
-      "line": "Perhaps if you had been less rude to me, I would have been willing to tell you."
+      "line": "Perhaps if you had been less rude to me, I would have been willing to tell you.",
+      "delivery": "haughty"
     },
     {
       "character": "Player",
-      "line": "I'm sorry I was rude. You are a vital part of this investigation. Unless you tell me about the Sinclairs, I won't be able to continue."
+      "line": "I'm sorry I was rude. You are a vital part of this investigation. Unless you tell me about the Sinclairs, I won't be able to continue.",
+      "delivery": "placating"
     },
     {
       "character": "Gossip",
-      "line": "Vital part, you say? So, I'll get credit for assistance? Well...I do know quite a bit about their history. I suppose I can't hold up an investigation as important as this. What do you want to know?"
+      "line": "Vital part, you say? So, I'll get credit for assistance? Well...I do know quite a bit about their history. I suppose I can't hold up an investigation as important as this. What do you want to know?",
+      "delivery": "flattered, mollified"
     },
     {
       "character": "Player",
@@ -432,11 +490,13 @@
     },
     {
       "character": "Gossip",
-      "line": "Old Lord Sinclair was a well respected man this side of White Wolf. He was great friends with King Ulthas and did many good works for the kingdom."
+      "line": "Old Lord Sinclair was a well respected man this side of White Wolf. He was great friends with King Ulthas and did many good works for the kingdom.",
+      "delivery": "fond, respectful"
     },
     {
       "character": "Gossip",
-      "line": "His children on the other hand were spoiled and horrid. They cared for no one but themselves and gave themselves such aires. Each had their own vice, but I didn't expect any of them would be driven to murder!"
+      "line": "His children on the other hand were spoiled and horrid. They cared for no one but themselves and gave themselves such aires. Each had their own vice, but I didn't expect any of them would be driven to murder!",
+      "delivery": "disdainful"
     },
     {
       "character": "Player",
@@ -444,7 +504,8 @@
     },
     {
       "character": "Gossip",
-      "line": "They've been living very quietly, a nice change from the norm. But almost too quietly. I always thought they'd get into more trouble. No good will come from them, let me tell you!"
+      "line": "They've been living very quietly, a nice change from the norm. But almost too quietly. I always thought they'd get into more trouble. No good will come from them, let me tell you!",
+      "delivery": "ominous, gossipy"
     },
     {
       "character": "Player",
@@ -472,7 +533,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Well, you should know best... Anna killed her father. Poor man."
+      "line": "Well, you should know best... Anna killed her father. Poor man.",
+      "delivery": "mournful"
     },
     {
       "character": "Player",
@@ -480,7 +542,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Anna? The guards are keeping her in the jail in the courthouse in Seers' Village. I hear she's been acting like a royal pain."
+      "line": "Anna? The guards are keeping her in the jail in the courthouse in Seers' Village. I hear she's been acting like a royal pain.",
+      "delivery": "disapproving"
     },
     {
       "character": "Player",
@@ -488,7 +551,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Reasoned with? She killed her own father!"
+      "line": "Reasoned with? She killed her own father!",
+      "delivery": "incredulous"
     },
     {
       "character": "Gossip",
@@ -496,7 +560,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Still, I go and visit her at the Seers' Village courthouse sometimes to try and keep her spirits up."
+      "line": "Still, I go and visit her at the Seers' Village courthouse sometimes to try and keep her spirits up.",
+      "delivery": "sympathetic"
     },
     {
       "character": "Player",
@@ -504,7 +569,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Well, I'm not one to gossip, but as it's for your investigation... What would you like to know?"
+      "line": "Well, I'm not one to gossip, but as it's for your investigation... What would you like to know?",
+      "delivery": "coy, ironic"
     },
     {
       "character": "Player",
@@ -520,7 +586,8 @@
     },
     {
       "character": "Pierre",
-      "line": "Nothing."
+      "line": "Nothing.",
+      "delivery": "curt, dismissive"
     },
     {
       "character": "Player",
@@ -528,7 +595,8 @@
     },
     {
       "character": "Pierre",
-      "line": "What? I'm no gossip; I've got nothing to say about it."
+      "line": "What? I'm no gossip; I've got nothing to say about it.",
+      "delivery": "defensive"
     },
     {
       "character": "Player",
@@ -536,7 +604,8 @@
     },
     {
       "character": "Stanford",
-      "line": "Why do you want to know about her?"
+      "line": "Why do you want to know about her?",
+      "delivery": "guarded, wary"
     },
     {
       "character": "Player",
@@ -552,11 +621,13 @@
     },
     {
       "character": "Stanford",
-      "line": "Sorry, you still here? I started thinking about turnips."
+      "line": "Sorry, you still here? I started thinking about turnips.",
+      "delivery": "distracted, evasive"
     },
     {
       "character": "Hobbes",
-      "line": "Anna? She was a spoiled brat, that's for sure."
+      "line": "Anna? She was a spoiled brat, that's for sure.",
+      "delivery": "disdainful"
     },
     {
       "character": "Player",
@@ -572,15 +643,18 @@
     },
     {
       "character": "Player",
-      "line": "Because she may be responsible for murder!"
+      "line": "Because she may be responsible for murder!",
+      "delivery": "emphatic"
     },
     {
       "character": "Louisa",
-      "line": "Oh yes. Well, I can't say I ever liked Anna. She was always chasing after some boy or other."
+      "line": "Oh yes. Well, I can't say I ever liked Anna. She was always chasing after some boy or other.",
+      "delivery": "disapproving"
     },
     {
       "character": "Mary",
-      "line": "Anna? I don't know very much."
+      "line": "Anna? I don't know very much.",
+      "delivery": "timid"
     },
     {
       "character": "Player",
@@ -588,7 +662,8 @@
     },
     {
       "character": "Mary",
-      "line": "No, I don't know anything like that. I kept my head down and did my work."
+      "line": "No, I don't know anything like that. I kept my head down and did my work.",
+      "delivery": "nervous, evasive"
     },
     {
       "character": "Donovan the Family Handyman",
@@ -604,7 +679,8 @@
     },
     {
       "character": "Guard",
-      "line": "That Sinclair woman is such a pain! She keeps demanding gourmet meals and ridiculous things like silk sheets."
+      "line": "That Sinclair woman is such a pain! She keeps demanding gourmet meals and ridiculous things like silk sheets.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -612,11 +688,13 @@
     },
     {
       "character": "Guard",
-      "line": "Go ahead. It means she won't be demanding things from me."
+      "line": "Go ahead. It means she won't be demanding things from me.",
+      "delivery": "relieved"
     },
     {
       "character": "Guard",
-      "line": "Mother said to join the guards, see the world! What do I end up doing? Guarding some stuck-up brat in a backwater village full of hippies."
+      "line": "Mother said to join the guards, see the world! What do I end up doing? Guarding some stuck-up brat in a backwater village full of hippies.",
+      "delivery": "bitter, grumbling"
     },
     {
       "character": "Player",
@@ -632,15 +710,18 @@
     },
     {
       "character": "Anna",
-      "line": "Hmmm...yes, you were that nosy person asking all those questions about daddy's murder."
+      "line": "Hmmm...yes, you were that nosy person asking all those questions about daddy's murder.",
+      "delivery": "contemptuous"
     },
     {
       "character": "Player",
-      "line": "So he's 'daddy' now is he? If he was so dear to you why did you kill him?"
+      "line": "So he's 'daddy' now is he? If he was so dear to you why did you kill him?",
+      "delivery": "accusatory, pointed"
     },
     {
       "character": "Anna",
-      "line": "I didn't! No one will believe me. It was my brother. He set me up."
+      "line": "I didn't! No one will believe me. It was my brother. He set me up.",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Player",
@@ -648,7 +729,8 @@
     },
     {
       "character": "Anna",
-      "line": "It's forged! I swear, I never touched that dagger or poisoned my father."
+      "line": "It's forged! I swear, I never touched that dagger or poisoned my father.",
+      "delivery": "indignant, insistent"
     },
     {
       "character": "Player",
@@ -656,19 +738,23 @@
     },
     {
       "character": "Anna",
-      "line": "How should I know? I've been locked up here since you stuck your nose into our family's business."
+      "line": "How should I know? I've been locked up here since you stuck your nose into our family's business.",
+      "delivery": "bitter, accusing"
     },
     {
       "character": "Player",
-      "line": "Well, I'll be off then. Have fun spending the rest of your life in jail."
+      "line": "Well, I'll be off then. Have fun spending the rest of your life in jail.",
+      "delivery": "taunting"
     },
     {
       "character": "Anna",
-      "line": "Wait!"
+      "line": "Wait!",
+      "delivery": "desperate, urgent"
     },
     {
       "character": "Anna",
-      "line": "I... I might know how to find them...but I need a favour from you in return."
+      "line": "I... I might know how to find them...but I need a favour from you in return.",
+      "delivery": "scheming, careful"
     },
     {
       "character": "Player",
@@ -676,39 +762,48 @@
     },
     {
       "character": "Anna",
-      "line": "I need a defence lawyer. None of the ones around here will represent me, they all think I'm guilty."
+      "line": "I need a defence lawyer. None of the ones around here will represent me, they all think I'm guilty.",
+      "delivery": "pleading"
     },
     {
       "character": "Player",
-      "line": "Maybe it's because you ARE guilty. Your sibling offered hard proof you did it!"
+      "line": "Maybe it's because you ARE guilty. Your sibling offered hard proof you did it!",
+      "delivery": "pointed"
     },
     {
       "character": "Anna",
-      "line": "No he didn't! He just said he saw me in the room. Why does everyone believe him?"
+      "line": "No he didn't! He just said he saw me in the room. Why does everyone believe him?",
+      "delivery": "frustrated, pleading"
     },
     {
       "character": "Anna",
-      "line": "Can't you see he framed me? I was the scapegoat so they could all inherit their fortunes and live the good life."
+      "line": "Can't you see he framed me? I was the scapegoat so they could all inherit their fortunes and live the good life.",
+      "delivery": "desperate"
     },
     {
       "character": "Player",
-      "line": "Why should I believe you? As far as I know you did kill your father."
+      "line": "Why should I believe you? As far as I know you did kill your father.",
+      "delivery": "skeptical"
     },
     {
       "character": "Anna",
-      "line": "I don't care if you don't believe me. I know I'm innocent...but I'm also the only one that can show you how to get into Camelot. There's a secret passage that I discovered as a child when we lived there."
+      "line": "I don't care if you don't believe me. I know I'm innocent...but I'm also the only one that can show you how to get into Camelot. There's a secret passage that I discovered as a child when we lived there.",
+      "delivery": "defiant, sly"
     },
     {
       "character": "Player",
-      "line": "So, if I agree to get you a 'not guilty' verdict at trial, you promise to tell me how to get into this secret passage that will lead me straight into Camelot?"
+      "line": "So, if I agree to get you a 'not guilty' verdict at trial, you promise to tell me how to get into this secret passage that will lead me straight into Camelot?",
+      "delivery": "calculating"
     },
     {
       "character": "Anna",
-      "line": "Yes! Exactly. So, what do you say?"
+      "line": "Yes! Exactly. So, what do you say?",
+      "delivery": "eager"
     },
     {
       "character": "Player",
-      "line": "Okay, I guess I don't have much of a choice. I'll go start gathering evidence."
+      "line": "Okay, I guess I don't have much of a choice. I'll go start gathering evidence.",
+      "delivery": "reluctant"
     },
     {
       "character": "Anna",
@@ -724,7 +819,8 @@
     },
     {
       "character": "Player",
-      "line": "Of what, your guilt?"
+      "line": "Of what, your guilt?",
+      "delivery": "dry, sarcastic"
     },
     {
       "character": "Anna",
@@ -740,7 +836,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm working on it. It's not exactly easy to unprove something that's true."
+      "line": "I'm working on it. It's not exactly easy to unprove something that's true.",
+      "delivery": "wry, weary"
     },
     {
       "character": "Player",
@@ -756,15 +853,18 @@
     },
     {
       "character": "Gossip",
-      "line": "I hear you're the defence lawyer for Anna, now."
+      "line": "I hear you're the defence lawyer for Anna, now.",
+      "delivery": "knowing"
     },
     {
       "character": "Player",
-      "line": "How can you possibly know that already?"
+      "line": "How can you possibly know that already?",
+      "delivery": "exasperated"
     },
     {
       "character": "Gossip",
-      "line": "I'm the town gossip, I'm supposed to know this stuff. Are you preparing for the trial?"
+      "line": "I'm the town gossip, I'm supposed to know this stuff. Are you preparing for the trial?",
+      "delivery": "proud, matter-of-fact"
     },
     {
       "character": "Player",
@@ -796,19 +896,23 @@
     },
     {
       "character": "Guard",
-      "line": "Ha, ha, ha. That's a good one. Whoo, I needed a laugh."
+      "line": "Ha, ha, ha. That's a good one. Whoo, I needed a laugh.",
+      "delivery": "laughing"
     },
     {
       "character": "Player",
-      "line": "Err, I'm not joking. I have to prove she is innocent."
+      "line": "Err, I'm not joking. I have to prove she is innocent.",
+      "delivery": "sheepish"
     },
     {
       "character": "Guard",
-      "line": "WHAT?"
+      "line": "WHAT?",
+      "delivery": "shocked, shouting"
     },
     {
       "character": "Guard",
-      "line": "But the proof against her is conclusive. Someone saw her tamper with Sinclair's dinner!"
+      "line": "But the proof against her is conclusive. Someone saw her tamper with Sinclair's dinner!",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -820,7 +924,8 @@
     },
     {
       "character": "Guard",
-      "line": "This is a sad, sad day. I can't stop you from doing it, but I wish with all my heart you wouldn't. You'll be aiding a murderer."
+      "line": "This is a sad, sad day. I can't stop you from doing it, but I wish with all my heart you wouldn't. You'll be aiding a murderer.",
+      "delivery": "disappointed, grave"
     },
     {
       "character": "Player",
@@ -828,11 +933,13 @@
     },
     {
       "character": "Pierre",
-      "line": "Dang, that's too bad for you. Isn't it a bit of conflict of interest, considering you were part of the investigation that proved she was guilty?"
+      "line": "Dang, that's too bad for you. Isn't it a bit of conflict of interest, considering you were part of the investigation that proved she was guilty?",
+      "delivery": "wry"
     },
     {
       "character": "Player",
-      "line": "Uh, anyways, I need to ask you some questions."
+      "line": "Uh, anyways, I need to ask you some questions.",
+      "delivery": "awkward"
     },
     {
       "character": "Player",
@@ -868,7 +975,8 @@
     },
     {
       "character": "Player",
-      "line": "Err, I seem to have forgotten the thread I was going to show you. I'll need to get it from Anna Sinclair at the jail."
+      "line": "Err, I seem to have forgotten the thread I was going to show you. I'll need to get it from Anna Sinclair at the jail.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -900,7 +1008,8 @@
     },
     {
       "character": "Pierre",
-      "line": "Each of the Sinclair kids did. They all had chores they were meant to do. I had a chat with that salesman. Whoo, you any idea how strong that stuff was? Just a small amount would be enough to kill a cow."
+      "line": "Each of the Sinclair kids did. They all had chores they were meant to do. I had a chat with that salesman. Whoo, you any idea how strong that stuff was? Just a small amount would be enough to kill a cow.",
+      "delivery": "animated"
     },
     {
       "character": "Player",
@@ -912,11 +1021,13 @@
     },
     {
       "character": "Player",
-      "line": "That means someone could have used a small amount to frame Anna and still have done their chore. That's great news."
+      "line": "That means someone could have used a small amount to frame Anna and still have done their chore. That's great news.",
+      "delivery": "pleased, eager"
     },
     {
       "character": "Stanford",
-      "line": "Why in Gielinor would you want to do that? That's a lost cause if I ever heard one."
+      "line": "Why in Gielinor would you want to do that? That's a lost cause if I ever heard one.",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -984,11 +1095,13 @@
     },
     {
       "character": "Player",
-      "line": "Oh dear. That's not good."
+      "line": "Oh dear. That's not good.",
+      "delivery": "dismayed"
     },
     {
       "character": "Hobbes",
-      "line": "Didn't you already ask me questions about this? You were investigating the case and got all that evidence. Besides, Anna was proven guilty - by one of her own siblings."
+      "line": "Didn't you already ask me questions about this? You were investigating the case and got all that evidence. Besides, Anna was proven guilty - by one of her own siblings.",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -1012,11 +1125,13 @@
     },
     {
       "character": "Hobbes",
-      "line": "Well, now that you have me thinking about it, I believe I saw David handle it once. I'm not really sure what he was doing with it, but I do remember him looking at it."
+      "line": "Well, now that you have me thinking about it, I believe I saw David handle it once. I'm not really sure what he was doing with it, but I do remember him looking at it.",
+      "delivery": "thoughtful, recalling"
     },
     {
       "character": "Player",
-      "line": "That's wonderful? Why didn't you mention it before? It means it could have been planted to make it seem like Anna did it."
+      "line": "That's wonderful? Why didn't you mention it before? It means it could have been planted to make it seem like Anna did it.",
+      "delivery": "excited"
     },
     {
       "character": "Hobbes",
@@ -1068,11 +1183,13 @@
     },
     {
       "character": "Louisa",
-      "line": "But now that you mention it, I do remember seeing Anna Sinclair hanging about the kitchen earlier that day. She looked a bit shifty."
+      "line": "But now that you mention it, I do remember seeing Anna Sinclair hanging about the kitchen earlier that day. She looked a bit shifty.",
+      "delivery": "recalling, suspicious"
     },
     {
       "character": "Player",
-      "line": "Hmm, right. That doesn't bode well."
+      "line": "Hmm, right. That doesn't bode well.",
+      "delivery": "dismayed"
     },
     {
       "character": "Louisa",
@@ -1084,7 +1201,8 @@
     },
     {
       "character": "Louisa",
-      "line": "Stuck her tongue out at me and wandered away. Useless girl."
+      "line": "Stuck her tongue out at me and wandered away. Useless girl.",
+      "delivery": "contemptuous"
     },
     {
       "character": "Player",
@@ -1124,27 +1242,33 @@
     },
     {
       "character": "Mary",
-      "line": "I don't like talking about that night. I still have nightmares about it."
+      "line": "I don't like talking about that night. I still have nightmares about it.",
+      "delivery": "haunted, timid"
     },
     {
       "character": "Player",
-      "line": "I'm sorry to put you through it again, but I really have to get some answers."
+      "line": "I'm sorry to put you through it again, but I really have to get some answers.",
+      "delivery": "gentle"
     },
     {
       "character": "Mary",
-      "line": "What an awful night. It started out normally, I was in the kitchen with Hobbes and Louisa, helping with dinner. They gave me Lord Sinclair's meal. I went to deliver it and I found him..."
+      "line": "What an awful night. It started out normally, I was in the kitchen with Hobbes and Louisa, helping with dinner. They gave me Lord Sinclair's meal. I went to deliver it and I found him...",
+      "delivery": "distressed, trembling"
     },
     {
       "character": "Player",
-      "line": "There, there. I don't need you to tell me any more of that. What about on the way to the study? Did you see Anna?"
+      "line": "There, there. I don't need you to tell me any more of that. What about on the way to the study? Did you see Anna?",
+      "delivery": "soothing"
     },
     {
       "character": "Mary",
-      "line": "No, I didn't pass Anna, I'm sure of that. I think I passed one of the other young Sinclairs though. A man."
+      "line": "No, I didn't pass Anna, I'm sure of that. I think I passed one of the other young Sinclairs though. A man.",
+      "delivery": "recalling"
     },
     {
       "character": "Player",
-      "line": "Really? So, you can't place Anna at the murder scene, but there was a man there? David, Bob or Frank?"
+      "line": "Really? So, you can't place Anna at the murder scene, but there was a man there? David, Bob or Frank?",
+      "delivery": "eager"
     },
     {
       "character": "Mary",
@@ -1152,7 +1276,8 @@
     },
     {
       "character": "Player",
-      "line": "That's great news."
+      "line": "That's great news.",
+      "delivery": "pleased"
     },
     {
       "character": "Mary",
@@ -1220,7 +1345,8 @@
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "But she was proven guilty! There was even evidence."
+      "line": "But she was proven guilty! There was even evidence.",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
@@ -1252,11 +1378,13 @@
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "Hmm, I seem to remember her looking at it a few days before the murder."
+      "line": "Hmm, I seem to remember her looking at it a few days before the murder.",
+      "delivery": "recalling"
     },
     {
       "character": "Player",
-      "line": "Really? That's not good. Not good at all."
+      "line": "Really? That's not good. Not good at all.",
+      "delivery": "dismayed"
     },
     {
       "character": "Donovan the Family Handyman",
@@ -1284,7 +1412,8 @@
     },
     {
       "character": "The judge",
-      "line": "This court is now in session."
+      "line": "This court is now in session.",
+      "delivery": "authoritative"
     },
     {
       "character": "The judge",
@@ -1316,11 +1445,13 @@
     },
     {
       "character": "Prosecutor",
-      "line": "Members of the jury, I am going to present you with evidence that decisively proves Anna Sinclair is a murderer."
+      "line": "Members of the jury, I am going to present you with evidence that decisively proves Anna Sinclair is a murderer.",
+      "delivery": "accusatory, commanding"
     },
     {
       "character": "Prosecutor",
-      "line": "First, the dagger. The dagger was found stabbed into Lord Sinclair's body; it has the fingerprints of Anna Sinclair all over it."
+      "line": "First, the dagger. The dagger was found stabbed into Lord Sinclair's body; it has the fingerprints of Anna Sinclair all over it.",
+      "delivery": "emphatic"
     },
     {
       "character": "Prosecutor",
@@ -1328,7 +1459,8 @@
     },
     {
       "character": "Prosecutor",
-      "line": "Last, but certainly not least, the poison that actually killed Lord Sinclair; it was found at the scene of the crime and had been bought by the defendant. Members of the jury, this woman is guilty."
+      "line": "Last, but certainly not least, the poison that actually killed Lord Sinclair; it was found at the scene of the crime and had been bought by the defendant. Members of the jury, this woman is guilty.",
+      "delivery": "damning, emphatic"
     },
     {
       "character": "The judge",
@@ -1384,7 +1516,8 @@
     },
     {
       "character": "Hobbes",
-      "line": "Well, now that you have me thinking about it, I believe I saw Frank handle it once. I'm not really sure what he was doing with it, but I do remember him looking at it."
+      "line": "Well, now that you have me thinking about it, I believe I saw Frank handle it once. I'm not really sure what he was doing with it, but I do remember him looking at it.",
+      "delivery": "recalling"
     },
     {
       "character": "Player",
@@ -1396,15 +1529,18 @@
     },
     {
       "character": "Player",
-      "line": "Not only has a person other than my client been identified handling the weapon, but the dagger was within easy access to anyone in the household."
+      "line": "Not only has a person other than my client been identified handling the weapon, but the dagger was within easy access to anyone in the household.",
+      "delivery": "confident, lawyerly"
     },
     {
       "character": "Player",
-      "line": "My client's fingerprints could have been planted on it by another party."
+      "line": "My client's fingerprints could have been planted on it by another party.",
+      "delivery": "emphatic"
     },
     {
       "character": "The judge",
-      "line": "Order! ORDER!"
+      "line": "Order! ORDER!",
+      "delivery": "shouting, commanding"
     },
     {
       "character": "Donovan",
@@ -1428,7 +1564,8 @@
     },
     {
       "character": "Player",
-      "line": "Then this thread could have come from either of Anna or David's clothes, and they had many of this colour. A fact that would be known to anyone of the household."
+      "line": "Then this thread could have come from either of Anna or David's clothes, and they had many of this colour. A fact that would be known to anyone of the household.",
+      "delivery": "lawyerly"
     },
     {
       "character": "Donovan",
@@ -1436,7 +1573,8 @@
     },
     {
       "character": "Player",
-      "line": "Then the thread could have been planted by someone else to throw suspicion on my client. I think we can all see this thread is very questionable evidence."
+      "line": "Then the thread could have been planted by someone else to throw suspicion on my client. I think we can all see this thread is very questionable evidence.",
+      "delivery": "confident, lawyerly"
     },
     {
       "character": "Pierre",
@@ -1444,7 +1582,8 @@
     },
     {
       "character": "Pierre",
-      "line": "Each of the Sinclair kids did; they all had chores they were meant to do. I had a chat with that salesman. Whoo-boy, you any idea how strong that stuff was? Just a small amount would be enough to kill a cow."
+      "line": "Each of the Sinclair kids did; they all had chores they were meant to do. I had a chat with that salesman. Whoo-boy, you any idea how strong that stuff was? Just a small amount would be enough to kill a cow.",
+      "delivery": "animated"
     },
     {
       "character": "Player",
@@ -1456,7 +1595,8 @@
     },
     {
       "character": "Player",
-      "line": "Therefore, any one of the Sinclairs who bought poison could have done their chore and poisoned Lord Sinclair as well. Just because my client was too lazy to do her chore doesn't mean she poisoned Lord Sinclair."
+      "line": "Therefore, any one of the Sinclairs who bought poison could have done their chore and poisoned Lord Sinclair as well. Just because my client was too lazy to do her chore doesn't mean she poisoned Lord Sinclair.",
+      "delivery": "triumphant"
     },
     {
       "character": "Mary",
@@ -1480,11 +1620,13 @@
     },
     {
       "character": "Player",
-      "line": "Indeed. Well, if my client can't be placed at the murder scene, and there is evidence that a man was there, I think it casts a great deal of doubt on the case."
+      "line": "Indeed. Well, if my client can't be placed at the murder scene, and there is evidence that a man was there, I think it casts a great deal of doubt on the case.",
+      "delivery": "confident, lawyerly"
     },
     {
       "character": "The judge",
-      "line": "I believe we've heard enough."
+      "line": "I believe we've heard enough.",
+      "delivery": "authoritative"
     },
     {
       "character": "The judge",
@@ -1492,19 +1634,23 @@
     },
     {
       "character": "The judge",
-      "line": "Very well. Anna Sinclair, you are hereby declared 'not guilty' by a jury of your peers. You are free to go."
+      "line": "Very well. Anna Sinclair, you are hereby declared 'not guilty' by a jury of your peers. You are free to go.",
+      "delivery": "solemn, authoritative"
     },
     {
       "character": "Anna",
-      "line": "I can't believe you did it. I'm free!"
+      "line": "I can't believe you did it. I'm free!",
+      "delivery": "elated"
     },
     {
       "character": "Player",
-      "line": "Yes, but what about our deal?"
+      "line": "Yes, but what about our deal?",
+      "delivery": "insistent"
     },
     {
       "character": "Anna",
-      "line": "Shhh. Don't talk about that here! The guards are going to take me back to my cell for paperwork. Meet me there and I'll explain how to get into Camelot."
+      "line": "Shhh. Don't talk about that here! The guards are going to take me back to my cell for paperwork. Meet me there and I'll explain how to get into Camelot.",
+      "delivery": "hushed, urgent"
     },
     {
       "character": "Player",
@@ -1516,15 +1662,18 @@
     },
     {
       "character": "Prosecutor",
-      "line": "Balloons we can handle, it's when those dancing knights show up that it gets troublesome."
+      "line": "Balloons we can handle, it's when those dancing knights show up that it gets troublesome.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
-      "line": "Well, being an attorney was an interesting experience."
+      "line": "Well, being an attorney was an interesting experience.",
+      "delivery": "wry"
     },
     {
       "character": "Prosecutor",
-      "line": "Those were some dirty tricks you played. Your so- called 'proof' doesn't hold up under any scrutiny."
+      "line": "Those were some dirty tricks you played. Your so- called 'proof' doesn't hold up under any scrutiny.",
+      "delivery": "bitter, accusing"
     },
     {
       "character": "Player",
@@ -1532,7 +1681,8 @@
     },
     {
       "character": "Prosecutor",
-      "line": "You've let a cold-blooded murderer go free. I hope the guilt eats away at you."
+      "line": "You've let a cold-blooded murderer go free. I hope the guilt eats away at you.",
+      "delivery": "bitter, cold"
     },
     {
       "character": "The judge",
@@ -1556,15 +1706,18 @@
     },
     {
       "character": "Anna",
-      "line": "I can't believe such an incompetent fool as you managed to prove me innocent."
+      "line": "I can't believe such an incompetent fool as you managed to prove me innocent.",
+      "delivery": "smug, contemptuous"
     },
     {
       "character": "Player",
-      "line": "You need to hold up your end of the bargain. Tell me how to get into Camelot or I go back to the judge and tell him I have doubts about your innocence."
+      "line": "You need to hold up your end of the bargain. Tell me how to get into Camelot or I go back to the judge and tell him I have doubts about your innocence.",
+      "delivery": "threatening, firm"
     },
     {
       "character": "Anna",
-      "line": "You are demanding for a peasant, aren't you. Walk around the edge of Camelot towards the back of the castle. From the hedges, you should be able to see the garden temple. There's a statue back there, if you pull"
+      "line": "You are demanding for a peasant, aren't you. Walk around the edge of Camelot towards the back of the castle. From the hedges, you should be able to see the garden temple. There's a statue back there, if you pull",
+      "delivery": "haughty, condescending"
     },
     {
       "character": "Anna",
@@ -1576,11 +1729,13 @@
     },
     {
       "character": "Anna",
-      "line": "I have to sign some paper work before I can leave here. Besides, the last thing I want to do is go hang out with my family. I'm sure you can manage this on your own."
+      "line": "I have to sign some paper work before I can leave here. Besides, the last thing I want to do is go hang out with my family. I'm sure you can manage this on your own.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
-      "line": "Riiight."
+      "line": "Riiight.",
+      "delivery": "suspicious, dry"
     },
     {
       "character": "Player",
@@ -1596,11 +1751,13 @@
     },
     {
       "character": "Anna",
-      "line": "You see, I told you that adventurer would turn up. He believed my every word."
+      "line": "You see, I told you that adventurer would turn up. He believed my every word.",
+      "delivery": "smug, triumphant"
     },
     {
       "character": "David",
-      "line": "Well done, sibling. I knew you'd manage to get a 'not guilty' verdict, but to lure this cretin here as well..."
+      "line": "Well done, sibling. I knew you'd manage to get a 'not guilty' verdict, but to lure this cretin here as well...",
+      "delivery": "arrogant, pleased"
     },
     {
       "character": "David",
@@ -1608,43 +1765,53 @@
     },
     {
       "character": "Anna",
-      "line": "Why thank you. What are we going to do with him now?"
+      "line": "Why thank you. What are we going to do with him now?",
+      "delivery": "gloating"
     },
     {
       "character": "Anna",
-      "line": "Enough! I'm sick of having to listen to your drivel."
+      "line": "Enough! I'm sick of having to listen to your drivel.",
+      "delivery": "sharp, irritated"
     },
     {
       "character": "Anna",
-      "line": "Do you think 'she' would want to see him?"
+      "line": "Do you think 'she' would want to see him?",
+      "delivery": "scheming"
     },
     {
       "character": "David",
-      "line": "Most definitely. Have someone go and fetch her."
+      "line": "Most definitely. Have someone go and fetch her.",
+      "delivery": "commanding"
     },
     {
       "character": "Morgan Le Faye",
-      "line": "I hear you have something of interest to me."
+      "line": "I hear you have something of interest to me.",
+      "delivery": "cold, cunning"
     },
     {
       "character": "Anna",
-      "line": "Yes, my lady. The meddling adventurer who helped King Arthur in the past."
+      "line": "Yes, my lady. The meddling adventurer who helped King Arthur in the past.",
+      "delivery": "deferential"
     },
     {
       "character": "Player",
-      "line": "I knew it. I knew Morgan Le Faye had to be involved. Where is King Arthur and his knights? What have you done with them?"
+      "line": "I knew it. I knew Morgan Le Faye had to be involved. Where is King Arthur and his knights? What have you done with them?",
+      "delivery": "defiant, demanding"
     },
     {
       "character": "Morgan Le Faye",
-      "line": "Oh, they are quite safe. You'll be seeing them soon, although not Arthur. He's a bit...busy at the moment."
+      "line": "Oh, they are quite safe. You'll be seeing them soon, although not Arthur. He's a bit...busy at the moment.",
+      "delivery": "menacing, mocking"
     },
     {
       "character": "Player",
-      "line": "I'll foil your plans Morgan, just like I always do. I won't let you win. Good alwa-"
+      "line": "I'll foil your plans Morgan, just like I always do. I won't let you win. Good alwa-",
+      "delivery": "defiant, heroic"
     },
     {
       "character": "Morgan Le Faye",
-      "line": "I'm tired of this."
+      "line": "I'm tired of this.",
+      "delivery": "cold, dismissive"
     },
     {
       "character": "Player",
@@ -1656,11 +1823,13 @@
     },
     {
       "character": "Sir Bedivere",
-      "line": "We are true knights who fight for honour. Those Black Knights didn't fight fair, so we were unprepared. Most unchivalrous of them."
+      "line": "We are true knights who fight for honour. Those Black Knights didn't fight fair, so we were unprepared. Most unchivalrous of them.",
+      "delivery": "proud, indignant"
     },
     {
       "character": "Sir Gawain",
-      "line": "Isn't it terrible what happened to King Arthur? He was turned to stone before my eyes! I have failed him, I am not worthy of being his knight. To allow such lowlifes to take Camelot right from under our noses... It's unforgivable."
+      "line": "Isn't it terrible what happened to King Arthur? He was turned to stone before my eyes! I have failed him, I am not worthy of being his knight. To allow such lowlifes to take Camelot right from under our noses... It's unforgivable.",
+      "delivery": "anguished, ashamed"
     },
     {
       "character": "Player",
@@ -1668,31 +1837,38 @@
     },
     {
       "character": "Sir Kay",
-      "line": "I will wreak havoc upon those worthless Sinclairs. Betraying their father's wishes like that, it's despicable."
+      "line": "I will wreak havoc upon those worthless Sinclairs. Betraying their father's wishes like that, it's despicable.",
+      "delivery": "angry, vengeful"
     },
     {
       "character": "Sir Lancelot",
-      "line": "I could have taken all of them on! Those Black Knights wouldn't stand a chance against me, the greatest knight in the land."
+      "line": "I could have taken all of them on! Those Black Knights wouldn't stand a chance against me, the greatest knight in the land.",
+      "delivery": "boastful, arrogant"
     },
     {
       "character": "Player",
-      "line": "Then why are you in this jail?"
+      "line": "Then why are you in this jail?",
+      "delivery": "dry, skeptical"
     },
     {
       "character": "Sir Lancelot",
-      "line": "They attacked while I was in the bath. What was I to do?"
+      "line": "They attacked while I was in the bath. What was I to do?",
+      "delivery": "defensive, indignant"
     },
     {
       "character": "Sir Lancelot",
-      "line": "Hey, are you laughing at me, the greatest knight in the land?"
+      "line": "Hey, are you laughing at me, the greatest knight in the land?",
+      "delivery": "offended, indignant"
     },
     {
       "character": "Player",
-      "line": "Huh, oh no. I wouldn't laugh at the greatest knight in the land."
+      "line": "Huh, oh no. I wouldn't laugh at the greatest knight in the land.",
+      "delivery": "sarcastic, placating"
     },
     {
       "character": "Sir Lucan",
-      "line": "Please, don't ask me any questions. I am still too upset from our defeat at the hands of those treacherous Sinclairs."
+      "line": "Please, don't ask me any questions. I am still too upset from our defeat at the hands of those treacherous Sinclairs.",
+      "delivery": "mournful"
     },
     {
       "character": "Sir Pelleas",
@@ -1700,19 +1876,23 @@
     },
     {
       "character": "Merlin",
-      "line": "Oh dear, did Morgan capture you too?"
+      "line": "Oh dear, did Morgan capture you too?",
+      "delivery": "weary, dismayed"
     },
     {
       "character": "Player",
-      "line": "Err, no. It was all part of my brilliant plan. I allowed her to capture me so I could find out where she was keeping all of you."
+      "line": "Err, no. It was all part of my brilliant plan. I allowed her to capture me so I could find out where she was keeping all of you.",
+      "delivery": "boastful, bluffing"
     },
     {
       "character": "Merlin",
-      "line": "Eh, is that so? Very clever. Now that you've found us, what is your plan, oh brilliant leader?"
+      "line": "Eh, is that so? Very clever. Now that you've found us, what is your plan, oh brilliant leader?",
+      "delivery": "dry, sarcastic"
     },
     {
       "character": "Player",
-      "line": "Hey, why do I have to do all the thinking here? You're the brilliant wizard."
+      "line": "Hey, why do I have to do all the thinking here? You're the brilliant wizard.",
+      "delivery": "indignant"
     },
     {
       "character": "Merlin",
@@ -1724,7 +1904,8 @@
     },
     {
       "character": "Merlin",
-      "line": "As the final blow to our morale, Morgan turned Arthur into a granite statue before our very eyes. He was taken away by the Black Knights, for what purposes I know not."
+      "line": "As the final blow to our morale, Morgan turned Arthur into a granite statue before our very eyes. He was taken away by the Black Knights, for what purposes I know not.",
+      "delivery": "grave, sorrowful"
     },
     {
       "character": "Player",
@@ -1744,15 +1925,18 @@
     },
     {
       "character": "Merlin",
-      "line": "The Sinclairs stole our home, but Morgan struck the greater blow by stealing the Holy Grail, Arthur's most prized possession."
+      "line": "The Sinclairs stole our home, but Morgan struck the greater blow by stealing the Holy Grail, Arthur's most prized possession.",
+      "delivery": "grave"
     },
     {
       "character": "Player",
-      "line": "So what's the plan of escape? Are you going to teleport us all away? Turn us into fish and swim to sea?"
+      "line": "So what's the plan of escape? Are you going to teleport us all away? Turn us into fish and swim to sea?",
+      "delivery": "hopeful, playful"
     },
     {
       "character": "Merlin",
-      "line": "During the battle at Camelot, Morgan cast a spell against me which appears to have stripped me of my powers. I must admit, the loss of my magic has left me befuddled, making it difficult to create a plan."
+      "line": "During the battle at Camelot, Morgan cast a spell against me which appears to have stripped me of my powers. I must admit, the loss of my magic has left me befuddled, making it difficult to create a plan.",
+      "delivery": "troubled, humbled"
     },
     {
       "character": "Player",
@@ -1772,15 +1956,18 @@
     },
     {
       "character": "Merlin",
-      "line": "I think I could reclaim Camelot from the Sinclairs on my own."
+      "line": "I think I could reclaim Camelot from the Sinclairs on my own.",
+      "delivery": "confident"
     },
     {
       "character": "Player",
-      "line": "How do you plan to do that? You couldn't even defend it from them."
+      "line": "How do you plan to do that? You couldn't even defend it from them.",
+      "delivery": "skeptical, blunt"
     },
     {
       "character": "Merlin",
-      "line": "They don't know I've lost my magic. Besides, I've got a few tricks up my sleeves. For all their snobberies, they're still just spoiled brats. It shouldn't be difficult, but time is of the essence. I need you to break me out"
+      "line": "They don't know I've lost my magic. Besides, I've got a few tricks up my sleeves. For all their snobberies, they're still just spoiled brats. It shouldn't be difficult, but time is of the essence. I need you to break me out",
+      "delivery": "sly, confident"
     },
     {
       "character": "Merlin",
@@ -1800,7 +1987,8 @@
     },
     {
       "character": "Merlin",
-      "line": "Morgan always keeps things of power near her. So the Grail will be somewhere in Keep Le Faye. However, it will most likely be disguised and booby-trapped. Morgan has a thing about transmogrifying."
+      "line": "Morgan always keeps things of power near her. So the Grail will be somewhere in Keep Le Faye. However, it will most likely be disguised and booby-trapped. Morgan has a thing about transmogrifying.",
+      "delivery": "wry, knowing"
     },
     {
       "character": "Player",
@@ -1812,19 +2000,23 @@
     },
     {
       "character": "Player",
-      "line": "So, I need to break eight knights out of jail? That could be troublesome."
+      "line": "So, I need to break eight knights out of jail? That could be troublesome.",
+      "delivery": "daunted"
     },
     {
       "character": "Merlin",
-      "line": "Often the most complicated things have the simplest answers. Try leaving through the door."
+      "line": "Often the most complicated things have the simplest answers. Try leaving through the door.",
+      "delivery": "sagely, dry"
     },
     {
       "character": "Player",
-      "line": "But it's locked."
+      "line": "But it's locked.",
+      "delivery": "deadpan"
     },
     {
       "character": "Merlin",
-      "line": "When has that ever stopped an intrepid adventurer such as yourself?"
+      "line": "When has that ever stopped an intrepid adventurer such as yourself?",
+      "delivery": "wry, encouraging"
     },
     {
       "character": "Player",
@@ -1844,7 +2036,8 @@
     },
     {
       "character": "Merlin",
-      "line": "I have no idea."
+      "line": "I have no idea.",
+      "delivery": "flat, blunt"
     },
     {
       "character": "Merlin",
@@ -1860,7 +2053,8 @@
     },
     {
       "character": "Sir Lancelot",
-      "line": "No, but when we do, I'm going to make those Black Knights black and blue all over."
+      "line": "No, but when we do, I'm going to make those Black Knights black and blue all over.",
+      "delivery": "vengeful, boastful"
     },
     {
       "character": "Player",
@@ -1868,7 +2062,8 @@
     },
     {
       "character": "Sir Palomedes",
-      "line": "You usually leave rooms through doors, but this one is locked."
+      "line": "You usually leave rooms through doors, but this one is locked.",
+      "delivery": "dry, unhelpful"
     },
     {
       "character": "Player",
@@ -1880,7 +2075,8 @@
     },
     {
       "character": "Sir Tristram",
-      "line": "I have great faith that you will lead us to victory. But first we must win the battle, then worry about the war. If you require my assistance in escaping from this wretched cell, please tell me."
+      "line": "I have great faith that you will lead us to victory. But first we must win the battle, then worry about the war. If you require my assistance in escaping from this wretched cell, please tell me.",
+      "delivery": "earnest, devoted"
     },
     {
       "character": "Player",
@@ -1892,7 +2088,8 @@
     },
     {
       "character": "Sir Lucan",
-      "line": "Please, no questions. I am in mourning for our King."
+      "line": "Please, no questions. I am in mourning for our King.",
+      "delivery": "mournful"
     },
     {
       "character": "Player",
@@ -1912,15 +2109,18 @@
     },
     {
       "character": "Player",
-      "line": "We don't have a ladder...but we do have a lot of knights."
+      "line": "We don't have a ladder...but we do have a lot of knights.",
+      "delivery": "scheming, bright"
     },
     {
       "character": "Player",
-      "line": "Hey guys! I've got an idea..."
+      "line": "Hey guys! I've got an idea...",
+      "delivery": "excited"
     },
     {
       "character": "Player",
-      "line": "Hey guys, do you think you could lift me out too? I need to run some errands. I'll come back and free you all as soon as I can!"
+      "line": "Hey guys, do you think you could lift me out too? I need to run some errands. I'll come back and free you all as soon as I can!",
+      "delivery": "pleading, hopeful"
     },
     {
       "character": "Sir Lancelot",
@@ -1932,7 +2132,8 @@
     },
     {
       "character": "Player",
-      "line": "Pie? How very useful to our cause."
+      "line": "Pie? How very useful to our cause.",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Sir Pelleas",
@@ -1952,7 +2153,8 @@
     },
     {
       "character": "Player",
-      "line": "Gee, thanks. You've contributed so much to my plan."
+      "line": "Gee, thanks. You've contributed so much to my plan.",
+      "delivery": "sarcastic"
     },
     {
       "character": "Sir Palomedes",
@@ -1964,7 +2166,8 @@
     },
     {
       "character": "Sir Palomedes",
-      "line": "I'm sorry, I don't have any pockets."
+      "line": "I'm sorry, I don't have any pockets.",
+      "delivery": "deadpan"
     },
     {
       "character": "Sir Lucan",
@@ -2008,31 +2211,38 @@
     },
     {
       "character": "Sir Gawain",
-      "line": "No, my revenge will be my own. You must retrieve the Holy Grail!"
+      "line": "No, my revenge will be my own. You must retrieve the Holy Grail!",
+      "delivery": "determined, fierce"
     },
     {
       "character": "Player",
-      "line": "WHOO! Get 'em! Show no mercy."
+      "line": "WHOO! Get 'em! Show no mercy.",
+      "delivery": "cheering, excited"
     },
     {
       "character": "Sir Kay",
-      "line": "They shall pay for what they have done."
+      "line": "They shall pay for what they have done.",
+      "delivery": "grim, vengeful"
     },
     {
       "character": "Player",
-      "line": "Give me an R. Give me an O. Give me a U..."
+      "line": "Give me an R. Give me an O. Give me a U...",
+      "delivery": "cheering, playful"
     },
     {
       "character": "Sir Bedivere",
-      "line": "In the amount of time it will take you to spell out Round Table Knights, you could have found the Grail."
+      "line": "In the amount of time it will take you to spell out Round Table Knights, you could have found the Grail.",
+      "delivery": "dry, exasperated"
     },
     {
       "character": "Player",
-      "line": "Give him a right hook!"
+      "line": "Give him a right hook!",
+      "delivery": "excited"
     },
     {
       "character": "Sir Lucan",
-      "line": "How would I do that when I'm holding a sword? Leave me to the fighting, you find the Holy Grail!"
+      "line": "How would I do that when I'm holding a sword? Leave me to the fighting, you find the Holy Grail!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -2040,11 +2250,13 @@
     },
     {
       "character": "Sir Pelleas",
-      "line": "Consider it done."
+      "line": "Consider it done.",
+      "delivery": "resolute"
     },
     {
       "character": "Sir Pelleas",
-      "line": "DIE SCUM!"
+      "line": "DIE SCUM!",
+      "delivery": "ferocious, shouting"
     },
     {
       "character": "Player",
@@ -2052,11 +2264,13 @@
     },
     {
       "character": "Sir Lancelot",
-      "line": "How dare you attempt to imprison the greatest knight in the land? Have at thee!"
+      "line": "How dare you attempt to imprison the greatest knight in the land? Have at thee!",
+      "delivery": "furious, boastful"
     },
     {
       "character": "Renegade Knight",
-      "line": "Please! Stop the hurting!"
+      "line": "Please! Stop the hurting!",
+      "delivery": "pleading, pained"
     },
     {
       "character": "Player",
@@ -2064,23 +2278,28 @@
     },
     {
       "character": "Sir Tristram",
-      "line": "What for what?"
+      "line": "What for what?",
+      "delivery": "confused"
     },
     {
       "character": "Sir Lancelot",
-      "line": "I'll make them pay for what they've done to King Arhtur."
+      "line": "I'll make them pay for what they've done to King Arhtur.",
+      "delivery": "vengeful"
     },
     {
       "character": "Sir Palomedes",
-      "line": "I fear we may never escape this dank dungeon."
+      "line": "I fear we may never escape this dank dungeon.",
+      "delivery": "despairing"
     },
     {
       "character": "Sir Pelleas",
-      "line": "How could this have happened to us?"
+      "line": "How could this have happened to us?",
+      "delivery": "despairing"
     },
     {
       "character": "Sir Tristram",
-      "line": "1,001, 1,002, 1,003..."
+      "line": "1,001, 1,002, 1,003...",
+      "delivery": "bored, counting"
     },
     {
       "character": "Sir Lucan",
@@ -2088,15 +2307,18 @@
     },
     {
       "character": "Sir Gawain",
-      "line": "Sad is the day when the Round Table Knights fail their King."
+      "line": "Sad is the day when the Round Table Knights fail their King.",
+      "delivery": "mournful"
     },
     {
       "character": "Sir Kay",
-      "line": "I shall avenge Arthur for this misdeed!"
+      "line": "I shall avenge Arthur for this misdeed!",
+      "delivery": "vengeful"
     },
     {
       "character": "Sir Bedivere",
-      "line": "Let me out! Let me out, I say!"
+      "line": "Let me out! Let me out, I say!",
+      "delivery": "desperate, shouting"
     },
     {
       "character": "Player",
@@ -2104,27 +2326,33 @@
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Hello there. My name is Cromperty. I am a wizard, and an inventor."
+      "line": "Hello there. My name is Cromperty. I am a wizard, and an inventor.",
+      "delivery": "cheerful, eccentric"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "You must be. My good friend Sedridor has told me about you. As both wizard and inventor, he has aided me in my great invention!"
+      "line": "You must be. My good friend Sedridor has told me about you. As both wizard and inventor, he has aided me in my great invention!",
+      "delivery": "excited, eccentric"
     },
     {
       "character": "Player",
-      "line": "Wizard Cromperty! Merlin sent me. King Arthur has been kidnapped and turned into a granite statue."
+      "line": "Wizard Cromperty! Merlin sent me. King Arthur has been kidnapped and turned into a granite statue.",
+      "delivery": "urgent"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Why would he want to be a statue?"
+      "line": "Why would he want to be a statue?",
+      "delivery": "baffled, dotty"
     },
     {
       "character": "Player",
-      "line": "He didn't WANT to be a statue. Morgan Le Faye turned him into one."
+      "line": "He didn't WANT to be a statue. Morgan Le Faye turned him into one.",
+      "delivery": "exasperated"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Oh yes, I see now. Why are you telling me all this?"
+      "line": "Oh yes, I see now. Why are you telling me all this?",
+      "delivery": "confused, dotty"
     },
     {
       "character": "Player",
@@ -2132,19 +2360,23 @@
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Oh, well, I don't know anything about rocks. I'm a teleportation expert, myself. But there was this one time I teleported a girl right into a rock. What a mess that was."
+      "line": "Oh, well, I don't know anything about rocks. I'm a teleportation expert, myself. But there was this one time I teleported a girl right into a rock. What a mess that was.",
+      "delivery": "rambling, eccentric"
     },
     {
       "character": "Player",
-      "line": "Yes, Wizard Cromperty, I remember, I was there."
+      "line": "Yes, Wizard Cromperty, I remember, I was there.",
+      "delivery": "dry"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Oh were you? Of course you were. Well, I suppose being turned into a statue is very similar to being teleported into a rock. Let me see what we'll need."
+      "line": "Oh were you? Of course you were. Well, I suppose being turned into a statue is very similar to being teleported into a rock. Let me see what we'll need.",
+      "delivery": "absent-minded"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "If my calculations are correct, this spell will need a bit more 'oomph' than last time around."
+      "line": "If my calculations are correct, this spell will need a bit more 'oomph' than last time around.",
+      "delivery": "thoughtful, eccentric"
     },
     {
       "character": "Player",
@@ -2172,7 +2404,8 @@
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Oh, it looks like you still have the scroll I gave you."
+      "line": "Oh, it looks like you still have the scroll I gave you.",
+      "delivery": "surprised, dotty"
     },
     {
       "character": "Player",
@@ -2196,7 +2429,8 @@
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Don't underestimate them."
+      "line": "Don't underestimate them.",
+      "delivery": "warning"
     },
     {
       "character": "Player",
@@ -2204,11 +2438,13 @@
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Hmm...I wonder...if you used a magical object that turned you into stone on the statue, would it turn him back to being human? I must research that..."
+      "line": "Hmm...I wonder...if you used a magical object that turned you into stone on the statue, would it turn him back to being human? I must research that...",
+      "delivery": "musing, eccentric"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Oh, are you still here? Go on then, you've got a king to save!"
+      "line": "Oh, are you still here? Go on then, you've got a king to save!",
+      "delivery": "shooing, cheerful"
     },
     {
       "character": "Player",
@@ -2264,7 +2500,8 @@
     },
     {
       "character": "Fortress Guard",
-      "line": "I have no idea, but it's a great victory for Lord Daquarius. To take such a mighty supporter of the White Knights down... Truly brilliant."
+      "line": "I have no idea, but it's a great victory for Lord Daquarius. To take such a mighty supporter of the White Knights down... Truly brilliant.",
+      "delivery": "gloating"
     },
     {
       "character": "Fortress Guard",
@@ -2272,11 +2509,13 @@
     },
     {
       "character": "Player",
-      "line": "Errr, thanks. Why don't you tell me in your own words how glorious you thought our victory was."
+      "line": "Errr, thanks. Why don't you tell me in your own words how glorious you thought our victory was.",
+      "delivery": "bluffing, awkward"
     },
     {
       "character": "Fortress Guard",
-      "line": "Of course. It was so clever of Lord Daquarius to lend our men to Morgan Le Faye in exchange for our prize. We got the better end of the deal, no doubt."
+      "line": "Of course. It was so clever of Lord Daquarius to lend our men to Morgan Le Faye in exchange for our prize. We got the better end of the deal, no doubt.",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
@@ -2292,7 +2531,8 @@
     },
     {
       "character": "King Arthur",
-      "line": "Thank you! I was afraid that would be the end of me."
+      "line": "Thank you! I was afraid that would be the end of me.",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
@@ -2300,11 +2540,13 @@
     },
     {
       "character": "King Arthur",
-      "line": "The Black Knights? I thought Morgan did this to me."
+      "line": "The Black Knights? I thought Morgan did this to me.",
+      "delivery": "confused"
     },
     {
       "character": "Player",
-      "line": "There's no time to explain; here, take this disguise."
+      "line": "There's no time to explain; here, take this disguise.",
+      "delivery": "urgent"
     },
     {
       "character": "King Arthur",
@@ -2324,7 +2566,8 @@
     },
     {
       "character": "King Arthur",
-      "line": "Indeed, thanks to the disguise you gave me. I arrived back just as Merlin had kicked out the Sinclair children. He scared them off with a few puffs of smoke and frogs. He told them if any of them left their house"
+      "line": "Indeed, thanks to the disguise you gave me. I arrived back just as Merlin had kicked out the Sinclair children. He scared them off with a few puffs of smoke and frogs. He told them if any of them left their house",
+      "delivery": "amused, regal"
     },
     {
       "character": "King Arthur",
@@ -2336,11 +2579,13 @@
     },
     {
       "character": "King Arthur",
-      "line": "Indeed. We of the Round Table are greatly indebted to you for all of your help. I wish to reward you for all the help you have given us..."
+      "line": "Indeed. We of the Round Table are greatly indebted to you for all of your help. I wish to reward you for all the help you have given us...",
+      "delivery": "grateful, noble"
     },
     {
       "character": "Gossip",
-      "line": "Do you have any interesting news?"
+      "line": "Do you have any interesting news?",
+      "delivery": "eager, prying"
     },
     {
       "character": "Player",
@@ -2348,7 +2593,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Then what are you standing around for!"
+      "line": "Then what are you standing around for!",
+      "delivery": "curt, dismissive"
     },
     {
       "character": "Guard",
@@ -2356,7 +2602,8 @@
     },
     {
       "character": "King Arthur",
-      "line": "Welcome, brave knight. I am always happy to see you back at my court. Please feel free to roam the castle and make use of the training grounds."
+      "line": "Welcome, brave knight. I am always happy to see you back at my court. Please feel free to roam the castle and make use of the training grounds.",
+      "delivery": "warm, regal"
     },
     {
       "character": "Player",
@@ -2516,7 +2763,8 @@
     },
     {
       "character": "Squire",
-      "line": "Ah, patience is a virtue in knights, my lord. Fight in the training ground and earn your reward to find out!"
+      "line": "Ah, patience is a virtue in knights, my lord. Fight in the training ground and earn your reward to find out!",
+      "delivery": "playful, teasing"
     },
     {
       "character": "Player",
@@ -2536,7 +2784,8 @@
     },
     {
       "character": "Merlin",
-      "line": "Well done, young adventurer. You truly are a worthy knight."
+      "line": "Well done, young adventurer. You truly are a worthy knight.",
+      "delivery": "warm, proud"
     },
     {
       "character": "Player",
@@ -2544,7 +2793,8 @@
     },
     {
       "character": "Merlin",
-      "line": "Excuse me for rushing off like this, but I must get back to my workroom."
+      "line": "Excuse me for rushing off like this, but I must get back to my workroom.",
+      "delivery": "hurried"
     }
   ],
   "characters": [

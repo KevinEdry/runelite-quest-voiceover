@@ -16,7 +16,8 @@
     },
     {
       "character": "Yanni Salika",
-      "line": "Well, if you're bored, you could do me a small favour and nip to see the jungle forester. I need a piece of red mahogany to resurface an antique wardrobe."
+      "line": "Well, if you're bored, you could do me a small favour and nip to see the jungle forester. I need a piece of red mahogany to resurface an antique wardrobe.",
+      "delivery": "friendly, persuasive"
     },
     {
       "character": "Player",
@@ -52,15 +53,18 @@
     },
     {
       "character": "Player",
-      "line": "Nah thanks, I've got bigger fish to fry."
+      "line": "Nah thanks, I've got bigger fish to fry.",
+      "delivery": "dismissive"
     },
     {
       "character": "Yanni Salika",
-      "line": "Fair enough! Hope it all goes well...but, you know, you looked bored so I just thought I'd suggest it."
+      "line": "Fair enough! Hope it all goes well...but, you know, you looked bored so I just thought I'd suggest it.",
+      "delivery": "good-natured, sheepish"
     },
     {
       "character": "Player",
-      "line": "What was I supposed to do again?"
+      "line": "What was I supposed to do again?",
+      "delivery": "sheepish"
     },
     {
       "character": "Yanni Salika",
@@ -72,15 +76,18 @@
     },
     {
       "character": "Yanni Salika",
-      "line": "Tsk....It's only a little job bwana, I ask you to do me one small favour! Go to the jungle forester and get me a piece of red mahogany. It can't be that difficult can it?"
+      "line": "Tsk....It's only a little job bwana, I ask you to do me one small favour! Go to the jungle forester and get me a piece of red mahogany. It can't be that difficult can it?",
+      "delivery": "exasperated, impatient"
     },
     {
       "character": "Player",
-      "line": "This is taking longer than I expected!"
+      "line": "This is taking longer than I expected!",
+      "delivery": "weary"
     },
     {
       "character": "Yanni Salika",
-      "line": "You're telling me bwana, I was supposed to have this wardrobe finished before now! Hurry it up will you, I don't have all day!"
+      "line": "You're telling me bwana, I was supposed to have this wardrobe finished before now! Hurry it up will you, I don't have all day!",
+      "delivery": "impatient, irritated"
     },
     {
       "character": "Player",
@@ -88,15 +95,18 @@
     },
     {
       "character": "Yanni Salika",
-      "line": "Huh! You make it sound like a major undertaking! I should have just done it myself!"
+      "line": "Huh! You make it sound like a major undertaking! I should have just done it myself!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "Everyone is asking me to do them favours now! It seems like I've opened the floodgates!"
+      "line": "Everyone is asking me to do them favours now! It seems like I've opened the floodgates!",
+      "delivery": "exasperated"
     },
     {
       "character": "Yanni Salika",
-      "line": "Well, can't you just do my favour and forget about theirs?"
+      "line": "Well, can't you just do my favour and forget about theirs?",
+      "delivery": "blunt, self-interested"
     },
     {
       "character": "Player",
@@ -140,11 +150,13 @@
     },
     {
       "character": "Player",
-      "line": "What did you want me to do again?"
+      "line": "What did you want me to do again?",
+      "delivery": "sheepish"
     },
     {
       "character": "Jungle forester",
-      "line": "I gave you my blunt axe to give to Captain Shanks. I was hoping that he would be able to pop it into Brian's Axes in Port Sarim to get it sharpened. I do hope nothing bad has happened to my axe, I am very partial"
+      "line": "I gave you my blunt axe to give to Captain Shanks. I was hoping that he would be able to pop it into Brian's Axes in Port Sarim to get it sharpened. I do hope nothing bad has happened to my axe, I am very partial",
+      "delivery": "anxious, fond"
     },
     {
       "character": "Jungle forester",
@@ -152,7 +164,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, yes... okay! No, I'm sure that nothing bad has happened to it. I mean, you gave it to me, I'm really dependable!"
+      "line": "Oh, yes... okay! No, I'm sure that nothing bad has happened to it. I mean, you gave it to me, I'm really dependable!",
+      "delivery": "reassuring, unconvincing"
     },
     {
       "character": "Player",
@@ -176,15 +189,18 @@
     },
     {
       "character": "Jungle forester",
-      "line": "Well, yes, actually. It's my favourite! I've been training with that axe since I started my profession as a jungle forester."
+      "line": "Well, yes, actually. It's my favourite! I've been training with that axe since I started my profession as a jungle forester.",
+      "delivery": "fond, earnest"
     },
     {
       "character": "Player",
-      "line": "I've lost your unsharpened axe, I need a new one."
+      "line": "I've lost your unsharpened axe, I need a new one.",
+      "delivery": "sheepish"
     },
     {
       "character": "Jungle forester",
-      "line": "I know. Another jungle forester found it and returned it to me. Here, take it again and this time don't lose it!"
+      "line": "I know. Another jungle forester found it and returned it to me. Here, take it again and this time don't lose it!",
+      "delivery": "mildly exasperated"
     },
     {
       "character": "Player",
@@ -200,7 +216,8 @@
     },
     {
       "character": "Captain Shanks",
-      "line": "A favour you say...hmmm. What is it?"
+      "line": "A favour you say...hmmm. What is it?",
+      "delivery": "wary"
     },
     {
       "character": "Player",
@@ -208,7 +225,8 @@
     },
     {
       "character": "Captain Shanks",
-      "line": "Darned cheek! I have a tight ship to run, my friend, and I'll thank you to not take advantage of my good generosity. I have a far superior solution to your problem."
+      "line": "Darned cheek! I have a tight ship to run, my friend, and I'll thank you to not take advantage of my good generosity. I have a far superior solution to your problem.",
+      "delivery": "indignant, gruff"
     },
     {
       "character": "Captain Shanks",
@@ -216,15 +234,18 @@
     },
     {
       "character": "Player",
-      "line": "But...I was only meant to do a small favour for Yanni Salika...I don't want to go to Port Sarim!"
+      "line": "But...I was only meant to do a small favour for Yanni Salika...I don't want to go to Port Sarim!",
+      "delivery": "dismayed, whining"
     },
     {
       "character": "Captain Shanks",
-      "line": "Well...the choice is yours! Do like me and never do favours...you'll find yourself in a lot less bother I can assure you!"
+      "line": "Well...the choice is yours! Do like me and never do favours...you'll find yourself in a lot less bother I can assure you!",
+      "delivery": "cynical, gruff"
     },
     {
       "character": "Captain Shanks",
-      "line": "I've said no already...now move along...I have a tight ship to run."
+      "line": "I've said no already...now move along...I have a tight ship to run.",
+      "delivery": "dismissive, impatient"
     },
     {
       "character": "Player",
@@ -236,7 +257,8 @@
     },
     {
       "character": "Player",
-      "line": "You know what! You're absolutely right! I must have dropped it or left it somewhere."
+      "line": "You know what! You're absolutely right! I must have dropped it or left it somewhere.",
+      "delivery": "sheepish"
     },
     {
       "character": "Brian",
@@ -244,7 +266,8 @@
     },
     {
       "character": "Brian",
-      "line": "You know what, normally I do...but..."
+      "line": "You know what, normally I do...but...",
+      "delivery": "troubled, trailing off"
     },
     {
       "character": "Player",
@@ -252,7 +275,8 @@
     },
     {
       "character": "Brian",
-      "line": "But I'm a bit preoccupied at the moment. I'm worried that my friend is going to spend the rest of the year behind bars!"
+      "line": "But I'm a bit preoccupied at the moment. I'm worried that my friend is going to spend the rest of the year behind bars!",
+      "delivery": "worried, anxious"
     },
     {
       "character": "Player",
@@ -264,7 +288,8 @@
     },
     {
       "character": "Brian",
-      "line": "Except he says he's going to run away to the wilderness if he's found guilty and you know what blood-hungry scum inhabit those realms."
+      "line": "Except he says he's going to run away to the wilderness if he's found guilty and you know what blood-hungry scum inhabit those realms.",
+      "delivery": "fearful"
     },
     {
       "character": "Player",
@@ -272,11 +297,13 @@
     },
     {
       "character": "Brian",
-      "line": "Well, I'd like to. I really would, but I wouldn't be able to concentrate while worrying about my friend so much. I tell you what. If you could do me just one small favour, I promise to help you!"
+      "line": "Well, I'd like to. I really would, but I wouldn't be able to concentrate while worrying about my friend so much. I tell you what. If you could do me just one small favour, I promise to help you!",
+      "delivery": "pleading, hopeful"
     },
     {
       "character": "Player",
-      "line": "Oh, so you want a favour doing as well?"
+      "line": "Oh, so you want a favour doing as well?",
+      "delivery": "wry, resigned"
     },
     {
       "character": "Brian",
@@ -288,15 +315,18 @@
     },
     {
       "character": "Player",
-      "line": "What?"
+      "line": "What?",
+      "delivery": "incredulous"
     },
     {
       "character": "Brian",
-      "line": "Oh, please. It would mean such a lot to me! Just ask Aggie if she'll be a character witness for my friend. She only lives in Draynor Village. It'll only take you a few minutes!"
+      "line": "Oh, please. It would mean such a lot to me! Just ask Aggie if she'll be a character witness for my friend. She only lives in Draynor Village. It'll only take you a few minutes!",
+      "delivery": "pleading"
     },
     {
       "character": "Player",
-      "line": "Ok, ok, I'll do it! I'll go and see Aggie."
+      "line": "Ok, ok, I'll do it! I'll go and see Aggie.",
+      "delivery": "relenting"
     },
     {
       "character": "Brian",
@@ -320,15 +350,18 @@
     },
     {
       "character": "Brian",
-      "line": "Go talk to Aggie and ask her if she'll be a character witness for my friend before he finds himself in jail with less than savoury people...or worse, he runs off to the wilderness!"
+      "line": "Go talk to Aggie and ask her if she'll be a character witness for my friend before he finds himself in jail with less than savoury people...or worse, he runs off to the wilderness!",
+      "delivery": "urgent, anxious"
     },
     {
       "character": "Player",
-      "line": "Oh, right, yes, sorry, I forgot.."
+      "line": "Oh, right, yes, sorry, I forgot..",
+      "delivery": "sheepish"
     },
     {
       "character": "Brian",
-      "line": "So it seems!"
+      "line": "So it seems!",
+      "delivery": "dry"
     },
     {
       "character": "Aggie",
@@ -340,7 +373,8 @@
     },
     {
       "character": "Aggie",
-      "line": "My, you're observant!"
+      "line": "My, you're observant!",
+      "delivery": "dry, sarcastic"
     },
     {
       "character": "Player",
@@ -348,15 +382,18 @@
     },
     {
       "character": "Aggie",
-      "line": "Not at the minute I'm afraid...I'm really worried! My new apprentice 'Jimmy the Chisel' has gone missing!"
+      "line": "Not at the minute I'm afraid...I'm really worried! My new apprentice 'Jimmy the Chisel' has gone missing!",
+      "delivery": "worried"
     },
     {
       "character": "Player",
-      "line": "'Jimmy the Chisel' - what kind of name is that?"
+      "line": "'Jimmy the Chisel' - what kind of name is that?",
+      "delivery": "incredulous, amused"
     },
     {
       "character": "Aggie",
-      "line": "It's sort of like a 'street name'...it's a new fad...perhaps you've seen it around? Anyway, it's not his name I'm concerned with, it's his whereabouts that worries me!"
+      "line": "It's sort of like a 'street name'...it's a new fad...perhaps you've seen it around? Anyway, it's not his name I'm concerned with, it's his whereabouts that worries me!",
+      "delivery": "fretful"
     },
     {
       "character": "Player",
@@ -380,15 +417,18 @@
     },
     {
       "character": "Player",
-      "line": "Let me guess, you're going to ask me to do you a favour?"
+      "line": "Let me guess, you're going to ask me to do you a favour?",
+      "delivery": "wry, knowing"
     },
     {
       "character": "Aggie",
-      "line": "Would you my dear, it would only be a small favour...one small favour, that's all I ask."
+      "line": "Would you my dear, it would only be a small favour...one small favour, that's all I ask.",
+      "delivery": "coaxing"
     },
     {
       "character": "Player",
-      "line": "Hmm, I seem to have heard that one before. Go on then, what do you want me to do?"
+      "line": "Hmm, I seem to have heard that one before. Go on then, what do you want me to do?",
+      "delivery": "resigned, wry"
     },
     {
       "character": "Aggie",
@@ -396,15 +436,18 @@
     },
     {
       "character": "Player",
-      "line": "No way...I've had enough of doing favours for people."
+      "line": "No way...I've had enough of doing favours for people.",
+      "delivery": "fed up"
     },
     {
       "character": "Aggie",
-      "line": "Why you big meanie! He could be dead for all you know!"
+      "line": "Why you big meanie! He could be dead for all you know!",
+      "delivery": "indignant, scolding"
     },
     {
       "character": "Player",
-      "line": "Oh, Ok, I'll see if I can find Jimmy."
+      "line": "Oh, Ok, I'll see if I can find Jimmy.",
+      "delivery": "relenting"
     },
     {
       "character": "Aggie",
@@ -416,7 +459,8 @@
     },
     {
       "character": "Aggie",
-      "line": "Well, I had hoped that you would go and look for 'Jimmy the Chisel'...but it looks like you've had other 'more important' things to do!"
+      "line": "Well, I had hoped that you would go and look for 'Jimmy the Chisel'...but it looks like you've had other 'more important' things to do!",
+      "delivery": "sarcastic, curt"
     },
     {
       "character": "Player",
@@ -432,15 +476,18 @@
     },
     {
       "character": "Aggie",
-      "line": "Oh, I don't know, you mumbled something about 'witnesses', I just can't think straight worrying so much about that poor little Jimmy."
+      "line": "Oh, I don't know, you mumbled something about 'witnesses', I just can't think straight worrying so much about that poor little Jimmy.",
+      "delivery": "distracted, fretful"
     },
     {
       "character": "Aggie",
-      "line": "He could be lying somewhere in a pool of his blood, crying out for help...oooh, it's too much for me to bear."
+      "line": "He could be lying somewhere in a pool of his blood, crying out for help...oooh, it's too much for me to bear.",
+      "delivery": "melodramatic, distressed"
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Welcome...to our organisation...ours is a fight for humanity in all its shapes and forms...and to rid mankind of the monsters that exist in our world. We have no quarrel with a fellow."
+      "line": "Welcome...to our organisation...ours is a fight for humanity in all its shapes and forms...and to rid mankind of the monsters that exist in our world. We have no quarrel with a fellow.",
+      "delivery": "grandiose, formal"
     },
     {
       "character": "Player",
@@ -448,15 +495,18 @@
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Ah yes, he'll be joining our ranks very soon, I feel. He's still quite young and strong, but he will see the error of his ways before too long."
+      "line": "Ah yes, he'll be joining our ranks very soon, I feel. He's still quite young and strong, but he will see the error of his ways before too long.",
+      "delivery": "smug, measured"
     },
     {
       "character": "Player",
-      "line": "Huh, it sounds like you're forcing him to join you"
+      "line": "Huh, it sounds like you're forcing him to join you",
+      "delivery": "suspicious, accusatory"
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Not at all...he just needs some time to think about things...we've given him all the time he needs in the cage back there."
+      "line": "Not at all...he just needs some time to think about things...we've given him all the time he needs in the cage back there.",
+      "delivery": "sinister, bland"
     },
     {
       "character": "Player",
@@ -468,11 +518,13 @@
     },
     {
       "character": "Player",
-      "line": "And I suppose you need me to do you a favour?"
+      "line": "And I suppose you need me to do you a favour?",
+      "delivery": "resigned, deadpan"
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Well, actually, now that you mention it...it would be a real help to us if you could organise some chickens in exchange for young Jimmy's release."
+      "line": "Well, actually, now that you mention it...it would be a real help to us if you could organise some chickens in exchange for young Jimmy's release.",
+      "delivery": "oily, opportunistic"
     },
     {
       "character": "Player",
@@ -484,11 +536,13 @@
     },
     {
       "character": "Player",
-      "line": "No way...go do your own dirty work!"
+      "line": "No way...go do your own dirty work!",
+      "delivery": "defiant"
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Now, now, I'm a little disappointed in you! Can't you see that this is merely a business transaction?"
+      "line": "Now, now, I'm a little disappointed in you! Can't you see that this is merely a business transaction?",
+      "delivery": "condescending, chiding"
     },
     {
       "character": "Johanhus Ulsbrecht",
@@ -512,7 +566,8 @@
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Oh for the love of Saradomin...it's not too difficult! Go to Brother Fred and ask him to supply a month's worth of chickens in return for Brother Jimmy's freedom!"
+      "line": "Oh for the love of Saradomin...it's not too difficult! Go to Brother Fred and ask him to supply a month's worth of chickens in return for Brother Jimmy's freedom!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -520,7 +575,8 @@
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Yes, of course....why didn't you ask earlier? Is that all you wanted? Huh!"
+      "line": "Yes, of course....why didn't you ask earlier? Is that all you wanted? Huh!",
+      "delivery": "exasperated, dismissive"
     },
     {
       "character": "Johanhus Ulsbrecht",
@@ -532,7 +588,8 @@
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Go get them then!"
+      "line": "Go get them then!",
+      "delivery": "curt"
     },
     {
       "character": "Player",
@@ -540,11 +597,13 @@
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "That's a shame, because Brother Jimmy is getting older every day! His employer isn't going to be too pleased if you don't do something soon."
+      "line": "That's a shame, because Brother Jimmy is getting older every day! His employer isn't going to be too pleased if you don't do something soon.",
+      "delivery": "veiled threat"
     },
     {
       "character": "Fred the Farmer",
-      "line": "What are you doing on my land?"
+      "line": "What are you doing on my land?",
+      "delivery": "suspicious, gruff"
     },
     {
       "character": "Player",
@@ -560,7 +619,8 @@
     },
     {
       "character": "Fred the Farmer",
-      "line": "Oh dear, oh dear, this is terrible. Terrible!"
+      "line": "Oh dear, oh dear, this is terrible. Terrible!",
+      "delivery": "panicked, flustered"
     },
     {
       "character": "Player",
@@ -568,7 +628,8 @@
     },
     {
       "character": "Fred the Farmer",
-      "line": "I've no idea what to do!"
+      "line": "I've no idea what to do!",
+      "delivery": "panicked"
     },
     {
       "character": "Player",
@@ -608,7 +669,8 @@
     },
     {
       "character": "Seth Groats",
-      "line": "Hello there stranger, what's the meaning of this intrusion? A farmer's hovel is his castle!"
+      "line": "Hello there stranger, what's the meaning of this intrusion? A farmer's hovel is his castle!",
+      "delivery": "gruff, territorial"
     },
     {
       "character": "Player",
@@ -620,11 +682,13 @@
     },
     {
       "character": "Seth Groats",
-      "line": "A month's supply eh! Well, I was going to take them to market and just concentrate on the cows, but I reckon that little Jimmy's neck is worth a few scrawny chickens, don't you?"
+      "line": "A month's supply eh! Well, I was going to take them to market and just concentrate on the cows, but I reckon that little Jimmy's neck is worth a few scrawny chickens, don't you?",
+      "delivery": "gruff, good-humoured"
     },
     {
       "character": "Player",
-      "line": "That's exactly what I said..."
+      "line": "That's exactly what I said...",
+      "delivery": "dry"
     },
     {
       "character": "Seth Groats",
@@ -644,7 +708,8 @@
     },
     {
       "character": "Player",
-      "line": "I had a feeling you might!"
+      "line": "I had a feeling you might!",
+      "delivery": "wry, resigned"
     },
     {
       "character": "Seth Groats",
@@ -652,7 +717,8 @@
     },
     {
       "character": "Player",
-      "line": "No way, I'm fed up with this wild goose chase!"
+      "line": "No way, I'm fed up with this wild goose chase!",
+      "delivery": "fed up, frustrated"
     },
     {
       "character": "Seth Groats",
@@ -660,15 +726,18 @@
     },
     {
       "character": "Seth Groats",
-      "line": "Poor old Jimmy, locked in that cage..."
+      "line": "Poor old Jimmy, locked in that cage...",
+      "delivery": "guilt-tripping, mournful"
     },
     {
       "character": "Seth Groats",
-      "line": "Forever!"
+      "line": "Forever!",
+      "delivery": "dramatic, ominous"
     },
     {
       "character": "Player",
-      "line": "Oh, ok! I guess it's not that much further to Varrock!"
+      "line": "Oh, ok! I guess it's not that much further to Varrock!",
+      "delivery": "relenting, weary"
     },
     {
       "character": "Seth Groats",
@@ -720,7 +789,8 @@
     },
     {
       "character": "Horvik",
-      "line": "Ok then! Great...tell me a little more about these chicken cages... Cough Cough Cough!"
+      "line": "Ok then! Great...tell me a little more about these chicken cages... Cough Cough Cough!",
+      "delivery": "cheerful, then coughing"
     },
     {
       "character": "Player",
@@ -728,7 +798,8 @@
     },
     {
       "character": "Horvik",
-      "line": "No, I'm not actually, I'm quite ill!"
+      "line": "No, I'm not actually, I'm quite ill!",
+      "delivery": "weak, ailing"
     },
     {
       "character": "Player",
@@ -736,11 +807,13 @@
     },
     {
       "character": "Horvik",
-      "line": "I'm sorry, but the most I can manage today is simple trading...however, if I was to get some medicine say, I could be persuaded to do you a small favour!"
+      "line": "I'm sorry, but the most I can manage today is simple trading...however, if I was to get some medicine say, I could be persuaded to do you a small favour!",
+      "delivery": "wheedling, ailing"
     },
     {
       "character": "Player",
-      "line": "Oh I see, you need me to do you a favour?"
+      "line": "Oh I see, you need me to do you a favour?",
+      "delivery": "deadpan, resigned"
     },
     {
       "character": "Horvik",
@@ -748,7 +821,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, no not another favour...I just can't do another one!"
+      "line": "Oh, no not another favour...I just can't do another one!",
+      "delivery": "exasperated, despairing"
     },
     {
       "character": "Horvik",
@@ -800,7 +874,8 @@
     },
     {
       "character": "Player",
-      "line": "Wow, that was surprisingly easy! Fantastic, thanks very much."
+      "line": "Wow, that was surprisingly easy! Fantastic, thanks very much.",
+      "delivery": "pleasantly surprised, relieved"
     },
     {
       "character": "Apothecary",
@@ -824,7 +899,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "Oh blimey...I've dropped the pot and smashed it!"
+      "line": "Oh blimey...I've dropped the pot and smashed it!",
+      "delivery": "dismayed, flustered"
     },
     {
       "character": "Player",
@@ -832,7 +908,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "Oh no, you don't understand. They're ruined. They're supposed to be kept in an airtight container and this was my last one."
+      "line": "Oh no, you don't understand. They're ruined. They're supposed to be kept in an airtight container and this was my last one.",
+      "delivery": "apologetic, dismayed"
     },
     {
       "character": "Apothecary",
@@ -840,7 +917,8 @@
     },
     {
       "character": "Player",
-      "line": "I just knew this wasn't going to be easy! So you can't get any more breathing salts?"
+      "line": "I just knew this wasn't going to be easy! So you can't get any more breathing salts?",
+      "delivery": "exasperated, weary"
     },
     {
       "character": "Apothecary",
@@ -864,11 +942,13 @@
     },
     {
       "character": "Player",
-      "line": "Oh, no way am I going to the Barbarian Village."
+      "line": "Oh, no way am I going to the Barbarian Village.",
+      "delivery": "reluctant"
     },
     {
       "character": "Apothecary",
-      "line": "I understand...they're all barbarians over there."
+      "line": "I understand...they're all barbarians over there.",
+      "delivery": "wry, matter-of-fact"
     },
     {
       "character": "Player",
@@ -892,7 +972,8 @@
     },
     {
       "character": "Player",
-      "line": "I've lost that herbal tincture you gave me!"
+      "line": "I've lost that herbal tincture you gave me!",
+      "delivery": "sheepish"
     },
     {
       "character": "Apothecary",
@@ -912,11 +993,13 @@
     },
     {
       "character": "Player",
-      "line": "Hey there...I need an airtight pot just as soon as you can make one!"
+      "line": "Hey there...I need an airtight pot just as soon as you can make one!",
+      "delivery": "demanding, brisk"
     },
     {
       "character": "Tassie Slipcast",
-      "line": "I beg your pardon!"
+      "line": "I beg your pardon!",
+      "delivery": "affronted"
     },
     {
       "character": "Player",
@@ -924,15 +1007,18 @@
     },
     {
       "character": "Tassie Slipcast",
-      "line": "Who on earth do you think you are coming in here demanding an airtight pot...Can't you see that I have my own worries to think about?"
+      "line": "Who on earth do you think you are coming in here demanding an airtight pot...Can't you see that I have my own worries to think about?",
+      "delivery": "indignant, stressed"
     },
     {
       "character": "Player",
-      "line": "Oh, sorry, I didn't think...what's the problem?"
+      "line": "Oh, sorry, I didn't think...what's the problem?",
+      "delivery": "chastened, apologetic"
     },
     {
       "character": "Tassie Slipcast",
-      "line": "Well, if you must know, I'm working all the hours that Saradomin sends, I have to in order to make enough money to pay that loan shark Hammerspike!"
+      "line": "Well, if you must know, I'm working all the hours that Saradomin sends, I have to in order to make enough money to pay that loan shark Hammerspike!",
+      "delivery": "weary, stressed"
     },
     {
       "character": "Player",
@@ -944,7 +1030,8 @@
     },
     {
       "character": "Tassie Slipcast",
-      "line": "I'm working as hard as I can but I'll never pay the loan off at this rate!"
+      "line": "I'm working as hard as I can but I'll never pay the loan off at this rate!",
+      "delivery": "despairing"
     },
     {
       "character": "Player",
@@ -960,7 +1047,8 @@
     },
     {
       "character": "Player",
-      "line": "Ok, I'll deal with Hammerspike!"
+      "line": "Ok, I'll deal with Hammerspike!",
+      "delivery": "determined"
     },
     {
       "character": "Tassie Slipcast",
@@ -972,15 +1060,18 @@
     },
     {
       "character": "Tassie Slipcast",
-      "line": "Well, that would be really great...I just hope he doesn't grind you into flour to make his bread, he's one of the most ruthless gangsters in the area."
+      "line": "Well, that would be really great...I just hope he doesn't grind you into flour to make his bread, he's one of the most ruthless gangsters in the area.",
+      "delivery": "worried, warning"
     },
     {
       "character": "Tassie Slipcast",
-      "line": "Beware, his guards are incredibly loyal, they'll slit their own throats to protect him!"
+      "line": "Beware, his guards are incredibly loyal, they'll slit their own throats to protect him!",
+      "delivery": "grave, warning"
     },
     {
       "character": "Player",
-      "line": "That's not a pretty picture you're painting, but don't worry, I'll be careful. Now, where do I find this Hammerspike?"
+      "line": "That's not a pretty picture you're painting, but don't worry, I'll be careful. Now, where do I find this Hammerspike?",
+      "delivery": "wry, confident"
     },
     {
       "character": "Tassie Slipcast",
@@ -1012,7 +1103,8 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "And who da heck are you?"
+      "line": "And who da heck are you?",
+      "delivery": "gruff, aggressive"
     },
     {
       "character": "Player",
@@ -1020,11 +1112,13 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "And what if it is? Tassie got into an arrangement that is mutually beneficial, as far as I understood it, she was happy with the deal."
+      "line": "And what if it is? Tassie got into an arrangement that is mutually beneficial, as far as I understood it, she was happy with the deal.",
+      "delivery": "defensive, menacing"
     },
     {
       "character": "Player",
-      "line": "Well, I've come to change the deal!"
+      "line": "Well, I've come to change the deal!",
+      "delivery": "bold, confident"
     },
     {
       "character": "Hammerspike Stoutbeard",
@@ -1032,7 +1126,8 @@
     },
     {
       "character": "Player",
-      "line": "Er...er...not exactly...why can't you just leave her alone? I mean, make a nice gesture, I'm asking out as a favour...please?"
+      "line": "Er...er...not exactly...why can't you just leave her alone? I mean, make a nice gesture, I'm asking out as a favour...please?",
+      "delivery": "flustered, pleading"
     },
     {
       "character": "Player",
@@ -1040,11 +1135,13 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Where would I be if I just left all of my 'customers' alone? Some people just need an extra 'encouragement' to make the best out of life...I'm just helping them along."
+      "line": "Where would I be if I just left all of my 'customers' alone? Some people just need an extra 'encouragement' to make the best out of life...I'm just helping them along.",
+      "delivery": "menacing, cynical"
     },
     {
       "character": "Player",
-      "line": "Oh, come on...do something nice for a Tassie. Think about how hard she's working!"
+      "line": "Oh, come on...do something nice for a Tassie. Think about how hard she's working!",
+      "delivery": "cajoling"
     },
     {
       "character": "Hammerspike Stoutbeard",
@@ -1056,7 +1153,8 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "And I guess I am quite stressed about things, what with so much to think about recently."
+      "line": "And I guess I am quite stressed about things, what with so much to think about recently.",
+      "delivery": "softening, reflective"
     },
     {
       "character": "Player",
@@ -1064,7 +1162,8 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Hmm, yes, yes you're right...I did want to do something, something I noticed recently, but you'll laugh if I tell you...nah, it's silly."
+      "line": "Hmm, yes, yes you're right...I did want to do something, something I noticed recently, but you'll laugh if I tell you...nah, it's silly.",
+      "delivery": "sheepish, hesitant"
     },
     {
       "character": "Player",
@@ -1072,11 +1171,13 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Well, I was just thinking the other day that I'm feeling sort of unfulfilled in my life."
+      "line": "Well, I was just thinking the other day that I'm feeling sort of unfulfilled in my life.",
+      "delivery": "wistful, reflective"
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "I'd like to get rid of all this anger and frustration that my current lifestyle brings and do something relaxing...like those druids, I mean, all day sitting around, looking at herbs and wearing robes and stuff."
+      "line": "I'd like to get rid of all this anger and frustration that my current lifestyle brings and do something relaxing...like those druids, I mean, all day sitting around, looking at herbs and wearing robes and stuff.",
+      "delivery": "wistful, dreamy"
     },
     {
       "character": "Player",
@@ -1084,15 +1185,18 @@
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Yeah, yeah, I really want to be a druid...so...go and see the druid leader, I think Sanfew is his name, and persuade him to take me as an initiate. Do me this one small favour and I'll leave Tassie alone."
+      "line": "Yeah, yeah, I really want to be a druid...so...go and see the druid leader, I think Sanfew is his name, and persuade him to take me as an initiate. Do me this one small favour and I'll leave Tassie alone.",
+      "delivery": "earnest, eager"
     },
     {
       "character": "Player",
-      "line": "I don't think they take dwarven gangsters as initiates."
+      "line": "I don't think they take dwarven gangsters as initiates.",
+      "delivery": "skeptical, dry"
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Whatever...I guess Tassie's gonna be working hard for a bit longer yet then!"
+      "line": "Whatever...I guess Tassie's gonna be working hard for a bit longer yet then!",
+      "delivery": "dismissive, menacing"
     },
     {
       "character": "Player",
@@ -1144,7 +1248,8 @@
     },
     {
       "character": "Sanfew",
-      "line": "Dwarves? Well now, that's a mighty interesting question... Just because we haven't before, doesn't mean to say that we shouldn't."
+      "line": "Dwarves? Well now, that's a mighty interesting question... Just because we haven't before, doesn't mean to say that we shouldn't.",
+      "delivery": "thoughtful, measured"
     },
     {
       "character": "Player",
@@ -1152,15 +1257,18 @@
     },
     {
       "character": "Sanfew",
-      "line": "Oh yes? Well, that's interesting. Let me think for a moment. Hmmm... yes, actually, I don't mind taking him on, so long as you can do me just one small favour. Well, two actually."
+      "line": "Oh yes? Well, that's interesting. Let me think for a moment. Hmmm... yes, actually, I don't mind taking him on, so long as you can do me just one small favour. Well, two actually.",
+      "delivery": "sly, measured"
     },
     {
       "character": "Player",
-      "line": "Not you as well?"
+      "line": "Not you as well?",
+      "delivery": "exasperated, dismayed"
     },
     {
       "character": "Sanfew",
-      "line": "Stop interrupting me. I haven't told you about these favours!"
+      "line": "Stop interrupting me. I haven't told you about these favours!",
+      "delivery": "stern"
     },
     {
       "character": "Sanfew",
@@ -1180,11 +1288,13 @@
     },
     {
       "character": "Player",
-      "line": "Are you mad?"
+      "line": "Are you mad?",
+      "delivery": "incredulous"
     },
     {
       "character": "Sanfew",
-      "line": "Well, perhaps a bit... but it's never stopped you doing things for me before."
+      "line": "Well, perhaps a bit... but it's never stopped you doing things for me before.",
+      "delivery": "dry, wry"
     },
     {
       "character": "Player",
@@ -1228,11 +1338,13 @@
     },
     {
       "character": "Player",
-      "line": "But I can drink it though."
+      "line": "But I can drink it though.",
+      "delivery": "insistent, childlike"
     },
     {
       "character": "Sanfew",
-      "line": "Yes, but you'll have to make another one for the gnome."
+      "line": "Yes, but you'll have to make another one for the gnome.",
+      "delivery": "patient, slightly exasperated"
     },
     {
       "character": "Player",
@@ -1268,7 +1380,8 @@
     },
     {
       "character": "Captain Bleemadge",
-      "line": "Brrr, blimey it's cold up here! Wish I had something nice to drink to chase away these chills!"
+      "line": "Brrr, blimey it's cold up here! Wish I had something nice to drink to chase away these chills!",
+      "delivery": "shivering, cheerful"
     },
     {
       "character": "Player",
@@ -1276,11 +1389,13 @@
     },
     {
       "character": "Captain Bleemadge",
-      "line": "Ohhh! Many thanks! Brrr, blimey it's cold up here!"
+      "line": "Ohhh! Many thanks! Brrr, blimey it's cold up here!",
+      "delivery": "grateful, shivering"
     },
     {
       "character": "Captain Bleemadge",
-      "line": "Blimey, it was certainly jolly decent of that old stick Sanfew to get you to make me a cup of herbal tea. Wow! It really does chase away the chills!"
+      "line": "Blimey, it was certainly jolly decent of that old stick Sanfew to get you to make me a cup of herbal tea. Wow! It really does chase away the chills!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
@@ -1288,7 +1403,8 @@
     },
     {
       "character": "Captain Bleemadge",
-      "line": "Ogres!"
+      "line": "Ogres!",
+      "delivery": "startled, alarmed"
     },
     {
       "character": "Captain Bleemadge",
@@ -1296,7 +1412,8 @@
     },
     {
       "character": "Player",
-      "line": "More like 'super-over-grown-gnomes' if you ask me! Or 'overgrown humans'!"
+      "line": "More like 'super-over-grown-gnomes' if you ask me! Or 'overgrown humans'!",
+      "delivery": "amused, playful"
     },
     {
       "character": "Captain Bleemadge",
@@ -1332,11 +1449,13 @@
     },
     {
       "character": "Player",
-      "line": "TRASH? What the demonikin are you talking about? Why do I have to get it?"
+      "line": "TRASH? What the demonikin are you talking about? Why do I have to get it?",
+      "delivery": "baffled, indignant"
     },
     {
       "character": "Captain Bleemadge",
-      "line": "I'm talking about the next generation of lightweight ropes. Triple Redundant Aero Super Hawser...T.R.A.S.H.! I'll transport your yakking druid if you can get me some T.R.A.S.H!"
+      "line": "I'm talking about the next generation of lightweight ropes. Triple Redundant Aero Super Hawser...T.R.A.S.H.! I'll transport your yakking druid if you can get me some T.R.A.S.H!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Captain Bleemadge",
@@ -1368,7 +1487,8 @@
     },
     {
       "character": "Player",
-      "line": "Great! So I get to talk T.R.A.S.H with shopkeepers!"
+      "line": "Great! So I get to talk T.R.A.S.H with shopkeepers!",
+      "delivery": "sarcastic, amused"
     },
     {
       "character": "Player",
@@ -1408,7 +1528,8 @@
     },
     {
       "character": "Player",
-      "line": "I need to talk T.R.A.S.H. to you."
+      "line": "I need to talk T.R.A.S.H. to you.",
+      "delivery": "dryly amused"
     },
     {
       "character": "Arhein",
@@ -1420,7 +1541,8 @@
     },
     {
       "character": "Arhein",
-      "line": "Well, I've done a lot of research into Triple Redundant Aero Super Hawsers and it seems to have paid off, but answer me this one question. Why are you asking me this rather than the Gnome?"
+      "line": "Well, I've done a lot of research into Triple Redundant Aero Super Hawsers and it seems to have paid off, but answer me this one question. Why are you asking me this rather than the Gnome?",
+      "delivery": "shrewd, probing"
     },
     {
       "character": "Player",
@@ -1428,11 +1550,13 @@
     },
     {
       "character": "Arhein",
-      "line": "Hmm, really, is that so? Well, I do have some Triple Redundant Aero Super Hawser and I'll let you have some if you do me just one small favour."
+      "line": "Hmm, really, is that so? Well, I do have some Triple Redundant Aero Super Hawser and I'll let you have some if you do me just one small favour.",
+      "delivery": "sly, businesslike"
     },
     {
       "character": "Player",
-      "line": "How totally unpredictable!"
+      "line": "How totally unpredictable!",
+      "delivery": "sarcastic, deadpan"
     },
     {
       "character": "Arhein",
@@ -1460,7 +1584,8 @@
     },
     {
       "character": "Player",
-      "line": "No way...I've had enough of this wild goose chase."
+      "line": "No way...I've had enough of this wild goose chase.",
+      "delivery": "fed up"
     },
     {
       "character": "Player",
@@ -1476,23 +1601,28 @@
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Hmm, somehow I knew you were going to ask me that...strange...life is so predictable when you have the power of foresight."
+      "line": "Hmm, somehow I knew you were going to ask me that...strange...life is so predictable when you have the power of foresight.",
+      "delivery": "smug, mystical"
     },
     {
       "character": "Player",
-      "line": "Great! So I can assume you've been really pro-active and compiled an up-to-date one for me?"
+      "line": "Great! So I can assume you've been really pro-active and compiled an up-to-date one for me?",
+      "delivery": "hopeful, sarcastic"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Alas my presumptuous friend, the power of foresight and the impulse to act is quite similar to the interplay between intelligence and wisdom."
+      "line": "Alas my presumptuous friend, the power of foresight and the impulse to act is quite similar to the interplay between intelligence and wisdom.",
+      "delivery": "pompous, rambling"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "One might have intelligence enough to realise that cakes are bad for us, but we may not have the wisdom to stop cramming that delicious-looking fatty cream cake into our salivating mouth."
+      "line": "One might have intelligence enough to realise that cakes are bad for us, but we may not have the wisdom to stop cramming that delicious-looking fatty cream cake into our salivating mouth.",
+      "delivery": "rambling, pretentious"
     },
     {
       "character": "Player",
-      "line": "So, in your case, you have the power of foresight, but you're too lazy to act on it?"
+      "line": "So, in your case, you have the power of foresight, but you're too lazy to act on it?",
+      "delivery": "dry, cutting"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -1552,7 +1682,8 @@
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Do you think you could do me a small favour? Check around the vicinity. The impressions are coming from a south westerly direction."
+      "line": "Do you think you could do me a small favour? Check around the vicinity. The impressions are coming from a south westerly direction.",
+      "delivery": "pleading, vague"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -1560,15 +1691,18 @@
     },
     {
       "character": "Player",
-      "line": "So, let me get this right. You want me to start poking my nose into a lot of caves where some creatures might be?"
+      "line": "So, let me get this right. You want me to start poking my nose into a lot of caves where some creatures might be?",
+      "delivery": "incredulous, sarcastic"
     },
     {
       "character": "Player",
-      "line": "Risking my neck for some tomboy who thinks she's got what it takes to be a real adventurer?"
+      "line": "Risking my neck for some tomboy who thinks she's got what it takes to be a real adventurer?",
+      "delivery": "indignant, sarcastic"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Well, I wouldn't have put it quite that way..."
+      "line": "Well, I wouldn't have put it quite that way...",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -1580,7 +1714,8 @@
     },
     {
       "character": "Player",
-      "line": "No, sorry, I can't do it right now. Or maybe ever!"
+      "line": "No, sorry, I can't do it right now. Or maybe ever!",
+      "delivery": "emphatic, fed up"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -1604,31 +1739,38 @@
     },
     {
       "character": "Player",
-      "line": "I need to talk to you about a girl stuck in some rock!"
+      "line": "I need to talk to you about a girl stuck in some rock!",
+      "delivery": "urgent"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Eh!"
+      "line": "Eh!",
+      "delivery": "startled"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "What? I have no clue what you're talking about! Now, please excuse me! I need to get back to my experiments!"
+      "line": "What? I have no clue what you're talking about! Now, please excuse me! I need to get back to my experiments!",
+      "delivery": "dismissive, distracted"
     },
     {
       "character": "Player",
-      "line": "Hey! Not so fast! I've seen a young girl encased in rock, a note in her belt led me to you."
+      "line": "Hey! Not so fast! I've seen a young girl encased in rock, a note in her belt led me to you.",
+      "delivery": "insistent, urgent"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Oh dear, it's such a bother getting them back out of the rock walls and I do loathe the trip to Port Khazard for the components."
+      "line": "Oh dear, it's such a bother getting them back out of the rock walls and I do loathe the trip to Port Khazard for the components.",
+      "delivery": "nonchalant, callous"
     },
     {
       "character": "Player",
-      "line": "What the demonikin are you talking about?"
+      "line": "What the demonikin are you talking about?",
+      "delivery": "bewildered"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Well, it's not the first time someone's been teleported into a rock face, just the slightest miscalculation and bang...they're in the wall!"
+      "line": "Well, it's not the first time someone's been teleported into a rock face, just the slightest miscalculation and bang...they're in the wall!",
+      "delivery": "matter-of-fact, breezy"
     },
     {
       "character": "Wizard Cromperty",
@@ -1644,7 +1786,8 @@
     },
     {
       "character": "Player",
-      "line": "No way am I going to Port Khazard for you!"
+      "line": "No way am I going to Port Khazard for you!",
+      "delivery": "defiant"
     },
     {
       "character": "Wizard Cromperty",
@@ -1652,11 +1795,13 @@
     },
     {
       "character": "Player",
-      "line": "Oh! Ok, one more 'small favour' isn't going to kill me...I hope!"
+      "line": "Oh! Ok, one more 'small favour' isn't going to kill me...I hope!",
+      "delivery": "resigned, wry"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Waaahaaay! Great! I'd never suspect you'd be so helpful!"
+      "line": "Waaahaaay! Great! I'd never suspect you'd be so helpful!",
+      "delivery": "delighted, surprised"
     },
     {
       "character": "Wizard Cromperty",
@@ -1668,11 +1813,13 @@
     },
     {
       "character": "Player",
-      "line": "What? Are you saying I have to travel a thousand miles?"
+      "line": "What? Are you saying I have to travel a thousand miles?",
+      "delivery": "alarmed, incredulous"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Of course not...you silly...just...you know...the sooner you start the sooner you can get back...that's all I was saying."
+      "line": "Of course not...you silly...just...you know...the sooner you start the sooner you can get back...that's all I was saying.",
+      "delivery": "amused, patronising"
     },
     {
       "character": "Wizard Cromperty",
@@ -1700,19 +1847,23 @@
     },
     {
       "character": "Tindel Marchant",
-      "line": "Yes, iron oxide is more commonly referred to as rust. As for a price, hmmm...well...let me think now...I could give it to you for the price of..."
+      "line": "Yes, iron oxide is more commonly referred to as rust. As for a price, hmmm...well...let me think now...I could give it to you for the price of...",
+      "delivery": "sly, leading"
     },
     {
       "character": "Tindel Marchant",
-      "line": "One small favour!"
+      "line": "One small favour!",
+      "delivery": "cheerful, inevitable"
     },
     {
       "character": "Player",
-      "line": "Groan!!!"
+      "line": "Groan!!!",
+      "delivery": "despairing, exasperated"
     },
     {
       "character": "Tindel Marchant",
-      "line": "I need a nice mattress to sleep on! I haven't had a decent night's sleep in an ice-age...could you take this stodgy mattress down to Rantz in the ogre area and ask him to fill it with prime chompy bird feathers please?"
+      "line": "I need a nice mattress to sleep on! I haven't had a decent night's sleep in an ice-age...could you take this stodgy mattress down to Rantz in the ogre area and ask him to fill it with prime chompy bird feathers please?",
+      "delivery": "weary, hopeful"
     },
     {
       "character": "Player",
@@ -1720,7 +1871,8 @@
     },
     {
       "character": "Player",
-      "line": "You want me to traipse ALL the way down past the ogre city with some flea infested mattress, to some hermit ogre, who can't shoot a chompy bird to save his life, so that you'll give me a pot of rust?"
+      "line": "You want me to traipse ALL the way down past the ogre city with some flea infested mattress, to some hermit ogre, who can't shoot a chompy bird to save his life, so that you'll give me a pot of rust?",
+      "delivery": "incredulous, exasperated"
     },
     {
       "character": "Tindel Marchant",
@@ -1756,7 +1908,8 @@
     },
     {
       "character": "Tindel Marchant",
-      "line": "Yes, but I had to pay for this myself so you'd better pay me for losing my last one...it cost 100 gold!"
+      "line": "Yes, but I had to pay for this myself so you'd better pay me for losing my last one...it cost 100 gold!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -1768,7 +1921,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm not paying you 100 coins for that stinky mattress."
+      "line": "I'm not paying you 100 coins for that stinky mattress.",
+      "delivery": "indignant"
     },
     {
       "character": "Tindel Marchant",
@@ -1776,27 +1930,33 @@
     },
     {
       "character": "Player",
-      "line": "Okay, then I won't."
+      "line": "Okay, then I won't.",
+      "delivery": "stubborn, curt"
     },
     {
       "character": "Tindel Marchant",
-      "line": "Good!"
+      "line": "Good!",
+      "delivery": "curt"
     },
     {
       "character": "Player",
-      "line": "Great!"
+      "line": "Great!",
+      "delivery": "curt, sarcastic"
     },
     {
       "character": "Tindel Marchant",
-      "line": "Get out!"
+      "line": "Get out!",
+      "delivery": "angry, shouting"
     },
     {
       "character": "Player",
-      "line": "GLADLY!"
+      "line": "GLADLY!",
+      "delivery": "shouting, defiant"
     },
     {
       "character": "Tindel Marchant",
-      "line": "Grrrr!"
+      "line": "Grrrr!",
+      "delivery": "seething"
     },
     {
       "character": "Player",
@@ -1804,7 +1964,8 @@
     },
     {
       "character": "Rantz",
-      "line": "You's creature shuvs flapper sack in rantz face, making rantz very upset"
+      "line": "You's creature shuvs flapper sack in rantz face, making rantz very upset",
+      "delivery": "grumpy, offended"
     },
     {
       "character": "Player",
@@ -1812,7 +1973,8 @@
     },
     {
       "character": "Rantz",
-      "line": "Der's no flappers to get cos da little guy scares dem away wiv his banging. He's making da man flapper 'come-down-place' and it's takin' ages and ages."
+      "line": "Der's no flappers to get cos da little guy scares dem away wiv his banging. He's making da man flapper 'come-down-place' and it's takin' ages and ages.",
+      "delivery": "grumpy, complaining"
     },
     {
       "character": "Rantz",
@@ -1848,7 +2010,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Hello! Don't get in the way around here, we've got a lot of work to do!"
+      "line": "Hello! Don't get in the way around here, we've got a lot of work to do!",
+      "delivery": "brisk, dismissive"
     },
     {
       "character": "Player",
@@ -1856,7 +2019,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Well, it's quite exciting... we're extending the glider network to include the Feldip Hills so that people can come and look at these curious ogres."
+      "line": "Well, it's quite exciting... we're extending the glider network to include the Feldip Hills so that people can come and look at these curious ogres.",
+      "delivery": "enthusiastic, proud"
     },
     {
       "character": "Gnormadium Avlafrim",
@@ -1868,7 +2032,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Well, people will be able to visit this area, once construction has finished, by using the most advanced network of glider routes in the whole of Gielinor... in fact, the only network of glider routes!"
+      "line": "Well, people will be able to visit this area, once construction has finished, by using the most advanced network of glider routes in the whole of Gielinor... in fact, the only network of glider routes!",
+      "delivery": "boastful"
     },
     {
       "character": "Player",
@@ -1876,7 +2041,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Not really, I'm afraid, it's probably all far too technical for someone like you."
+      "line": "Not really, I'm afraid, it's probably all far too technical for someone like you.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
@@ -1884,7 +2050,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Rantz? *gulp* Well, that would be nice actually! We are having some problems with getting the landing lights to work... do you think you could take a look at them?"
+      "line": "Rantz? *gulp* Well, that would be nice actually! We are having some problems with getting the landing lights to work... do you think you could take a look at them?",
+      "delivery": "nervous, accommodating"
     },
     {
       "character": "Gnormadium Avlafrim",
@@ -1908,7 +2075,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Yes, I expected it might be a bit too complex for you. We Gnomes lead the way with technical things like this - world leaders, you might say."
+      "line": "Yes, I expected it might be a bit too complex for you. We Gnomes lead the way with technical things like this - world leaders, you might say.",
+      "delivery": "smug, boastful"
     },
     {
       "character": "Player",
@@ -1916,7 +2084,8 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Go and take a look at those landing lights and see if you can get them to work, would you? They've been as dull as an ogre conversation since we started working here."
+      "line": "Go and take a look at those landing lights and see if you can get them to work, would you? They've been as dull as an ogre conversation since we started working here.",
+      "delivery": "dryly witty"
     },
     {
       "character": "Gnormadium Avlafrim",
@@ -1984,11 +2153,13 @@
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "Hmm. That seems a tad unlikely to me, but let's flick the switch here and see, shall we?!"
+      "line": "Hmm. That seems a tad unlikely to me, but let's flick the switch here and see, shall we?!",
+      "delivery": "skeptical, condescending"
     },
     {
       "character": "Gnormadium Avlafrim",
-      "line": "I don't believe it - you fixed it! Well done, well done... We can pack up now and leave these ogres in peace."
+      "line": "I don't believe it - you fixed it! Well done, well done... We can pack up now and leave these ogres in peace.",
+      "delivery": "astonished, pleased"
     },
     {
       "character": "Player",
@@ -2076,7 +2247,8 @@
     },
     {
       "character": "Player",
-      "line": "No way am I paying 200 coins for a bottle of rust!"
+      "line": "No way am I paying 200 coins for a bottle of rust!",
+      "delivery": "indignant"
     },
     {
       "character": "Tindel Marchant",
@@ -2092,7 +2264,8 @@
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Just cast this in the room, it should have her out of that rock in a jiffy! Good luck with your exploits...now, where was I with that wranklin severance device..."
+      "line": "Just cast this in the room, it should have her out of that rock in a jiffy! Good luck with your exploits...now, where was I with that wranklin severance device...",
+      "delivery": "breezy, distracted"
     },
     {
       "character": "Player",
@@ -2112,11 +2285,13 @@
     },
     {
       "character": "Player",
-      "line": "No way...I'm cleaning up your mess, you should be grateful!"
+      "line": "No way...I'm cleaning up your mess, you should be grateful!",
+      "delivery": "indignant"
     },
     {
       "character": "Wizard Cromperty",
-      "line": "Well, I did give you the last one for free...you're not getting another one for free, even if it is my mess that you're trying to clear up! You shouldn't be so careless to leave things lying around!"
+      "line": "Well, I did give you the last one for free...you're not getting another one for free, even if it is my mess that you're trying to clear up! You shouldn't be so careless to leave things lying around!",
+      "delivery": "indignant, scolding"
     },
     {
       "character": "Player",
@@ -2128,31 +2303,38 @@
     },
     {
       "character": "Player",
-      "line": "Grrrrr!"
+      "line": "Grrrrr!",
+      "delivery": "seething"
     },
     {
       "character": "Player",
-      "line": "Whoooah! That was a bit of a misfire."
+      "line": "Whoooah! That was a bit of a misfire.",
+      "delivery": "startled, alarmed"
     },
     {
       "character": "Player",
-      "line": "And this doesn't look good!"
+      "line": "And this doesn't look good!",
+      "delivery": "worried, apprehensive"
     },
     {
       "character": "Petra Fiyed",
-      "line": "Oh thank goodness you released me...how long have I been stuck in that gloomy wall?"
+      "line": "Oh thank goodness you released me...how long have I been stuck in that gloomy wall?",
+      "delivery": "relieved, disoriented"
     },
     {
       "character": "Player",
-      "line": "Oh, not so long...I don't think..."
+      "line": "Oh, not so long...I don't think...",
+      "delivery": "evasive, awkward"
     },
     {
       "character": "Player",
-      "line": "I mean...that is... I'm not so sure...at all...in fact."
+      "line": "I mean...that is... I'm not so sure...at all...in fact.",
+      "delivery": "flustered, evasive"
     },
     {
       "character": "Petra Fiyed",
-      "line": "Well, at least I'm ok...thanks to you! Last time I get involved with that Cromperty lunatic...in fact I have some words to say to that man!"
+      "line": "Well, at least I'm ok...thanks to you! Last time I get involved with that Cromperty lunatic...in fact I have some words to say to that man!",
+      "delivery": "indignant, spirited"
     },
     {
       "character": "Player",
@@ -2172,7 +2354,8 @@
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Hi there, yes she has actually! Well done, you're a true hero!"
+      "line": "Hi there, yes she has actually! Well done, you're a true hero!",
+      "delivery": "pleased, grateful"
     },
     {
       "character": "Player",
@@ -2180,15 +2363,18 @@
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "I wish I could but it's just been so difficult to get a clear image of the future at the moment. You know...we're all so relieved that Petra has returned and all that."
+      "line": "I wish I could but it's just been so difficult to get a clear image of the future at the moment. You know...we're all so relieved that Petra has returned and all that.",
+      "delivery": "evasive, apologetic"
     },
     {
       "character": "Player",
-      "line": "Listen you...just give me the blooming weather report!"
+      "line": "Listen you...just give me the blooming weather report!",
+      "delivery": "frustrated, demanding"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Er...no. I can't, I told you, I can't get a clear picture. Nope, sorry, the conditions are just not quite right."
+      "line": "Er...no. I can't, I told you, I can't get a clear picture. Nope, sorry, the conditions are just not quite right.",
+      "delivery": "evasive, nervous"
     },
     {
       "character": "Player",
@@ -2200,7 +2386,8 @@
     },
     {
       "character": "Player",
-      "line": "I've done my part of the deal, now hand over that weather report."
+      "line": "I've done my part of the deal, now hand over that weather report.",
+      "delivery": "firm, impatient"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -2208,11 +2395,13 @@
     },
     {
       "character": "Player",
-      "line": "I'll run you through if you don't give me that weather report."
+      "line": "I'll run you through if you don't give me that weather report.",
+      "delivery": "threatening, menacing"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Well, that's not very nice...I mean, I'm a nice guy and I thought you were nice too! Why would you want to run me through? I mean, it's only a weather report."
+      "line": "Well, that's not very nice...I mean, I'm a nice guy and I thought you were nice too! Why would you want to run me through? I mean, it's only a weather report.",
+      "delivery": "alarmed, wounded"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -2220,11 +2409,13 @@
     },
     {
       "character": "Player",
-      "line": "You're making me angry! I did you a favour, now pay up!"
+      "line": "You're making me angry! I did you a favour, now pay up!",
+      "delivery": "angry"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "I'm not making you angry, you're doing all that on your own! I just don't have a weather report to give you!"
+      "line": "I'm not making you angry, you're doing all that on your own! I just don't have a weather report to give you!",
+      "delivery": "defensive, exasperated"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -2252,19 +2443,23 @@
     },
     {
       "character": "Player",
-      "line": "You're talking about a weather vane aren't you?"
+      "line": "You're talking about a weather vane aren't you?",
+      "delivery": "shrewd, accusing"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Er...maybe...I may be talking about that..."
+      "line": "Er...maybe...I may be talking about that...",
+      "delivery": "evasive, caught out"
     },
     {
       "character": "Player",
-      "line": "You can't predict the weather because your weather vane is broken...that's it isn't it? Holy Saradomin breath....you can't even predict the weather, you need a weather vane!"
+      "line": "You can't predict the weather because your weather vane is broken...that's it isn't it? Holy Saradomin breath....you can't even predict the weather, you need a weather vane!",
+      "delivery": "incredulous, mocking"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Erm, well....err...."
+      "line": "Erm, well....err....",
+      "delivery": "flustered, caught out"
     },
     {
       "character": "Player",
@@ -2284,7 +2479,8 @@
     },
     {
       "character": "Player",
-      "line": "Just show me it!"
+      "line": "Just show me it!",
+      "delivery": "impatient, commanding"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
@@ -2296,7 +2492,8 @@
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Since when has any Seer ever given you a straight answer...the power of knowing the future and the visions we see have to be wrapped in allegory so that the truth can slowly be accepted by the listener."
+      "line": "Since when has any Seer ever given you a straight answer...the power of knowing the future and the visions we see have to be wrapped in allegory so that the truth can slowly be accepted by the listener.",
+      "delivery": "lofty, evasive"
     },
     {
       "character": "Player",
@@ -2328,19 +2525,23 @@
     },
     {
       "character": "Player",
-      "line": "No, sorry, it doesn't help at all, I need a weather report and I need it now...so hand it over!"
+      "line": "No, sorry, it doesn't help at all, I need a weather report and I need it now...so hand it over!",
+      "delivery": "demanding, frustrated"
     },
     {
       "character": "Player",
-      "line": "You're just a fake...you can't predict the weather!"
+      "line": "You're just a fake...you can't predict the weather!",
+      "delivery": "accusing, scornful"
     },
     {
       "character": "Phantuwti Fanstuwi Farsight",
-      "line": "Why...how dare you...I've never been so insulted in my life."
+      "line": "Why...how dare you...I've never been so insulted in my life.",
+      "delivery": "affronted, indignant"
     },
     {
       "character": "Player",
-      "line": "You should get out more!"
+      "line": "You should get out more!",
+      "delivery": "mocking, dry"
     },
     {
       "character": "Player",
@@ -2388,7 +2589,8 @@
     },
     {
       "character": "Captain Bleemadge",
-      "line": "Oh, yes, thanks...I've already installed it. I should go like the wind now! Tell Sanfew, that yakking old druid, I'll be happy to take him to the ogre area now...and yourself of course if you should like to go."
+      "line": "Oh, yes, thanks...I've already installed it. I should go like the wind now! Tell Sanfew, that yakking old druid, I'll be happy to take him to the ogre area now...and yourself of course if you should like to go.",
+      "delivery": "cheerful, excited"
     },
     {
       "character": "Player",
@@ -2412,19 +2614,23 @@
     },
     {
       "character": "Player",
-      "line": "Yep and with good news...your life is about to change for the better. I've persuaded Sanfew to take you in as an initiate!"
+      "line": "Yep and with good news...your life is about to change for the better. I've persuaded Sanfew to take you in as an initiate!",
+      "delivery": "pleased, triumphant"
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Ha, ha ha ha! How funny is that! I've gone and changed my mind now! I've decided that I make a far better gangster than I ever would a druid!"
+      "line": "Ha, ha ha ha! How funny is that! I've gone and changed my mind now! I've decided that I make a far better gangster than I ever would a druid!",
+      "delivery": "mocking, gleeful"
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "My men are going to deal with you!"
+      "line": "My men are going to deal with you!",
+      "delivery": "threatening, shouting"
     },
     {
       "character": "Hammerspike Stoutbeard",
-      "line": "Well...sure if you're not full of surprises then...I guess I'll have to either hire more men to try and kill you or forget Tassie's loan."
+      "line": "Well...sure if you're not full of surprises then...I guess I'll have to either hire more men to try and kill you or forget Tassie's loan.",
+      "delivery": "grudging, menacing"
     },
     {
       "character": "Player",
@@ -2436,7 +2642,8 @@
     },
     {
       "character": "Player",
-      "line": "I'll be ready for you whenever you want to take a shot Hammerspike...I'm not afraid of you! You're just a bully who can't fight his own battles."
+      "line": "I'll be ready for you whenever you want to take a shot Hammerspike...I'm not afraid of you! You're just a bully who can't fight his own battles.",
+      "delivery": "defiant, taunting"
     },
     {
       "character": "Player",
@@ -2444,7 +2651,8 @@
     },
     {
       "character": "Tassie Slipcast",
-      "line": "Really! Fantastic! Oh, I'm so grateful! Thanks so much! How ever can I repay you?"
+      "line": "Really! Fantastic! Oh, I'm so grateful! Thanks so much! How ever can I repay you?",
+      "delivery": "overjoyed, grateful"
     },
     {
       "character": "Player",
@@ -2452,7 +2660,8 @@
     },
     {
       "character": "Tassie Slipcast",
-      "line": "I'll do better than that! I'll show you how to make an airtight pot! First of all, you'll need some clay...here's some I have spare!"
+      "line": "I'll do better than that! I'll show you how to make an airtight pot! First of all, you'll need some clay...here's some I have spare!",
+      "delivery": "generous, enthusiastic"
     },
     {
       "character": "Tassie Slipcast",
@@ -2472,7 +2681,8 @@
     },
     {
       "character": "Apothecary",
-      "line": "Huzzah! You have an airtight pot! Wonderful! Ok, let me get some breathing salts into this thing for you!"
+      "line": "Huzzah! You have an airtight pot! Wonderful! Ok, let me get some breathing salts into this thing for you!",
+      "delivery": "delighted"
     },
     {
       "character": "Apothecary",
@@ -2492,7 +2702,8 @@
     },
     {
       "character": "Horvik",
-      "line": "Well that's no good, I need the tincture as well!"
+      "line": "Well that's no good, I need the tincture as well!",
+      "delivery": "gruff, impatient"
     },
     {
       "character": "Horvik",
@@ -2588,7 +2799,8 @@
     },
     {
       "character": "Fred the Farmer",
-      "line": "Oh, that's wonderful...many thanks for your help...just wonderful."
+      "line": "Oh, that's wonderful...many thanks for your help...just wonderful.",
+      "delivery": "relieved, grateful"
     },
     {
       "character": "Player",
@@ -2596,7 +2808,8 @@
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Hmmm. Congratulations on your achievement, your help will ensure the success of our venture and we can surely take our efforts forwards. Tell me, won't you consider joining our calling?"
+      "line": "Hmmm. Congratulations on your achievement, your help will ensure the success of our venture and we can surely take our efforts forwards. Tell me, won't you consider joining our calling?",
+      "delivery": "formal, recruiting"
     },
     {
       "character": "Player",
@@ -2608,19 +2821,23 @@
     },
     {
       "character": "Player",
-      "line": "Hold on! Aren't you forgetting something?"
+      "line": "Hold on! Aren't you forgetting something?",
+      "delivery": "pointed, impatient"
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "What? Sorry? Please calm down!"
+      "line": "What? Sorry? Please calm down!",
+      "delivery": "startled, placating"
     },
     {
       "character": "Player",
-      "line": "You said that you would release Jimmy! Are you going to keep to your word or am I going to have to get angry?"
+      "line": "You said that you would release Jimmy! Are you going to keep to your word or am I going to have to get angry?",
+      "delivery": "threatening, demanding"
     },
     {
       "character": "Johanhus Ulsbrecht",
-      "line": "Oh my dear friend...please...there's no need to get so upset...of course we're going to release Jimmy. Oh dear, you do take things a bit seriously don't you?"
+      "line": "Oh my dear friend...please...there's no need to get so upset...of course we're going to release Jimmy. Oh dear, you do take things a bit seriously don't you?",
+      "delivery": "placating, condescending"
     },
     {
       "character": "Player",
@@ -2632,7 +2849,8 @@
     },
     {
       "character": "Player",
-      "line": "Very well...but if you're lying, I'll be back and I won't be happy!"
+      "line": "Very well...but if you're lying, I'll be back and I won't be happy!",
+      "delivery": "warning, menacing"
     },
     {
       "character": "Player",
@@ -2640,7 +2858,8 @@
     },
     {
       "character": "Aggie",
-      "line": "Yes! He's just returned! I'll happily be a character witness for Brian now! Please let him know that I'll help his friend however I can."
+      "line": "Yes! He's just returned! I'll happily be a character witness for Brian now! Please let him know that I'll help his friend however I can.",
+      "delivery": "relieved, delighted"
     },
     {
       "character": "Player",
@@ -2648,7 +2867,8 @@
     },
     {
       "character": "Brian",
-      "line": "Well, I wish I could be more happy, but I've just had some bad news."
+      "line": "Well, I wish I could be more happy, but I've just had some bad news.",
+      "delivery": "downcast, troubled"
     },
     {
       "character": "Player",
@@ -2656,11 +2876,13 @@
     },
     {
       "character": "Brian",
-      "line": "Well, it seems that my friend was even more desperate than I had originally realised. He's gone to hide away from the authorities in the wilderness...what a lunatic!"
+      "line": "Well, it seems that my friend was even more desperate than I had originally realised. He's gone to hide away from the authorities in the wilderness...what a lunatic!",
+      "delivery": "exasperated, worried"
     },
     {
       "character": "Brian",
-      "line": "I've heard that he's wandered into the lava maze in the most dangerous part of the wilderness!"
+      "line": "I've heard that he's wandered into the lava maze in the most dangerous part of the wilderness!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -2668,19 +2890,23 @@
     },
     {
       "character": "Brian",
-      "line": "Well, I was wondering if you could do me just one small favour? Please could you go and fetch him back again for me?"
+      "line": "Well, I was wondering if you could do me just one small favour? Please could you go and fetch him back again for me?",
+      "delivery": "hesitant, pleading"
     },
     {
       "character": "Player",
-      "line": "You have got to be kidding!"
+      "line": "You have got to be kidding!",
+      "delivery": "incredulous, exasperated"
     },
     {
       "character": "Brian",
-      "line": "Well....yes...I was....actually!"
+      "line": "Well....yes...I was....actually!",
+      "delivery": "sheepish, teasing"
     },
     {
       "character": "Brian",
-      "line": "Here you go, here's your axe! And very many thanks for your help and a good laugh! You should have seen your face! Oh what a picture!"
+      "line": "Here you go, here's your axe! And very many thanks for your help and a good laugh! You should have seen your face! Oh what a picture!",
+      "delivery": "laughing, teasing"
     },
     {
       "character": "Player",
@@ -2704,19 +2930,23 @@
     },
     {
       "character": "Player",
-      "line": "Yep, here it is... at long last!"
+      "line": "Yep, here it is... at long last!",
+      "delivery": "weary, relieved"
     },
     {
       "character": "Jungle forester",
-      "line": "Yeah, you've been a while... I mean, I could have just gone and done it myself! It probably wouldn't have taken so long."
+      "line": "Yeah, you've been a while... I mean, I could have just gone and done it myself! It probably wouldn't have taken so long.",
+      "delivery": "unimpressed, blunt"
     },
     {
       "character": "Player",
-      "line": "Why you ungrateful..."
+      "line": "Why you ungrateful...",
+      "delivery": "indignant, seething"
     },
     {
       "character": "Jungle forester",
-      "line": "Hang on a minute... there's no need to get so angry. Here's that red mahogany you wanted."
+      "line": "Hang on a minute... there's no need to get so angry. Here's that red mahogany you wanted.",
+      "delivery": "placating"
     },
     {
       "character": "Jungle forester",
@@ -2760,43 +2990,53 @@
     },
     {
       "character": "Yanni Salika",
-      "line": "Well, that's absolutely wonderful my friend! Many thanks!"
+      "line": "Well, that's absolutely wonderful my friend! Many thanks!",
+      "delivery": "delighted, hearty"
     },
     {
       "character": "Player",
-      "line": "Wait, that's it?"
+      "line": "Wait, that's it?",
+      "delivery": "incredulous, deflated"
     },
     {
       "character": "Yanni Salika",
-      "line": "Well...what were you expecting? I mean, it took you so long I could have gone and got it myself!"
+      "line": "Well...what were you expecting? I mean, it took you so long I could have gone and got it myself!",
+      "delivery": "nonchalant, blunt"
     },
     {
       "character": "Player",
-      "line": "What! I've traipsed halfway around Gielinor..."
+      "line": "What! I've traipsed halfway around Gielinor...",
+      "delivery": "indignant, outraged"
     },
     {
       "character": "Player",
-      "line": "I've negociated with fanatics, dwarven gangsters and arrogant gnomes."
+      "line": "I've negociated with fanatics, dwarven gangsters and arrogant gnomes.",
+      "delivery": "ranting, indignant"
     },
     {
       "character": "Player",
-      "line": "I've fixed ancient weather vanes and gnomish landing lights and fought supernatural rock monsters..."
+      "line": "I've fixed ancient weather vanes and gnomish landing lights and fought supernatural rock monsters...",
+      "delivery": "ranting, exasperated"
     },
     {
       "character": "Player",
-      "line": "I've filled stodgy mattresses with feathers, made pot lids to help cure an ailing metal-smith...and that's all the thanks I get? 'Thanks!'"
+      "line": "I've filled stodgy mattresses with feathers, made pot lids to help cure an ailing metal-smith...and that's all the thanks I get? 'Thanks!'",
+      "delivery": "furious, incredulous"
     },
     {
       "character": "Yanni Salika",
-      "line": "Well, you didn't have to go to so much trouble..."
+      "line": "Well, you didn't have to go to so much trouble...",
+      "delivery": "blithe, dismissive"
     },
     {
       "character": "Player",
-      "line": "Raarrrhhhh!"
+      "line": "Raarrrhhhh!",
+      "delivery": "screaming, enraged"
     },
     {
       "character": "Yanni Salika",
-      "line": "Look, I can see that you're quite upset about this...so here, have this."
+      "line": "Look, I can see that you're quite upset about this...so here, have this.",
+      "delivery": "placating"
     },
     {
       "character": "Player",
@@ -2804,11 +3044,13 @@
     },
     {
       "character": "Yanni Salika",
-      "line": "It's a key ring, you can store some of your most valuable keys on it...helps to keep things organised!"
+      "line": "It's a key ring, you can store some of your most valuable keys on it...helps to keep things organised!",
+      "delivery": "cheerful, oblivious"
     },
     {
       "character": "Player",
-      "line": "A key ring? That's it?"
+      "line": "A key ring? That's it?",
+      "delivery": "deflated, incredulous"
     },
     {
       "character": "Yanni Salika",
@@ -2816,11 +3058,13 @@
     },
     {
       "character": "Player",
-      "line": "Groan! Yeah, so did everyone else!"
+      "line": "Groan! Yeah, so did everyone else!",
+      "delivery": "exasperated, weary"
     },
     {
       "character": "Yanni Salika",
-      "line": "Oh....ok, I guess I could offer you these lamps...I'm not sure what they're worth, but you can have them."
+      "line": "Oh....ok, I guess I could offer you these lamps...I'm not sure what they're worth, but you can have them.",
+      "delivery": "conceding, sheepish"
     }
   ],
   "characters": [

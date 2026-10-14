@@ -12,7 +12,8 @@
     },
     {
       "character": "Legends' Guard",
-      "line": "This is the Legends' Guild!"
+      "line": "This is the Legends' Guild!",
+      "delivery": "proud"
     },
     {
       "character": "Legends' Guard",
@@ -44,7 +45,8 @@
     },
     {
       "character": "Legends' Guard",
-      "line": "Good Luck!"
+      "line": "Good Luck!",
+      "delivery": "cheerful"
     },
     {
       "character": "Player",
@@ -56,7 +58,8 @@
     },
     {
       "character": "Legends' Guard",
-      "line": "Well, to be honest, I'm not really sure. You'll need to talk to Grand Vizier Erkle to find that out."
+      "line": "Well, to be honest, I'm not really sure. You'll need to talk to Grand Vizier Erkle to find that out.",
+      "delivery": "candid"
     },
     {
       "character": "Player",
@@ -88,7 +91,8 @@
     },
     {
       "character": "Legends' Guard",
-      "line": "I'm very sorry but you need to complete more quests before you can go on this quest. Additionally you need to gain more quest points. They don't call it the Legends Guild for nothing you know!"
+      "line": "I'm very sorry but you need to complete more quests before you can go on this quest. Additionally you need to gain more quest points. They don't call it the Legends Guild for nothing you know!",
+      "delivery": "apologetic, firm"
     },
     {
       "character": "Player",
@@ -124,7 +128,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Good day to you, adventurer! No doubt you are keen to become a member of the Legends' Guild?"
+      "line": "Good day to you, adventurer! No doubt you are keen to become a member of the Legends' Guild?",
+      "delivery": "warm, authoritative"
     },
     {
       "character": "Player",
@@ -148,7 +153,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Excellent!"
+      "line": "Excellent!",
+      "delivery": "delighted"
     },
     {
       "character": "Radimus Erkle",
@@ -176,11 +182,13 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Finally, whatever token of friendship you bring back must be fit to display in our hall. I'll know if it's some cheap knock-off, and I will not be best pleased."
+      "line": "Finally, whatever token of friendship you bring back must be fit to display in our hall. I'll know if it's some cheap knock-off, and I will not be best pleased.",
+      "delivery": "stern, warning"
     },
     {
       "character": "Radimus Erkle",
-      "line": "All that aside, I wish you the very best of luck!"
+      "line": "All that aside, I wish you the very best of luck!",
+      "delivery": "encouraging"
     },
     {
       "character": "Player",
@@ -216,7 +224,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Taken one too many hits to the noggin, have you? Here's what I want you to do."
+      "line": "Taken one too many hits to the noggin, have you? Here's what I want you to do.",
+      "delivery": "dry amusement"
     },
     {
       "character": "Radimus Erkle",
@@ -240,15 +249,18 @@
     },
     {
       "character": "Player",
-      "line": "Terrible, I lost my map of the Kharazi Jungle."
+      "line": "Terrible, I lost my map of the Kharazi Jungle.",
+      "delivery": "sheepish"
     },
     {
       "character": "Radimus Erkle",
-      "line": "Oh dear! Well, luckily one of those friendly foresters sent me a copy. But I'll need to charge you a fee of 30 Gold Pieces. The cost of postage these days is horrendous..."
+      "line": "Oh dear! Well, luckily one of those friendly foresters sent me a copy. But I'll need to charge you a fee of 30 Gold Pieces. The cost of postage these days is horrendous...",
+      "delivery": "exasperated"
     },
     {
       "character": "Radimus Erkle",
-      "line": "It looks as though you don't have the funds for it at the moment. How irritating..."
+      "line": "It looks as though you don't have the funds for it at the moment. How irritating...",
+      "delivery": "irritated"
     },
     {
       "character": "Radimus Erkle",
@@ -260,7 +272,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Right then. Please don't lose this one."
+      "line": "Right then. Please don't lose this one.",
+      "delivery": "wry warning"
     },
     {
       "character": "Player",
@@ -268,7 +281,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Well, that's your decision, of course.. but you won't be able to complete the quest without it. Now, if you'll excuse me, I have other business to attend to."
+      "line": "Well, that's your decision, of course.. but you won't be able to complete the quest without it. Now, if you'll excuse me, I have other business to attend to.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -284,11 +298,13 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Well, get some more! Have a little initiative, would you?"
+      "line": "Well, get some more! Have a little initiative, would you?",
+      "delivery": "exasperated"
     },
     {
       "character": "Radimus Erkle",
-      "line": "It's hardly legendary to fail a quest because you can't find a little bit of burnt wood!"
+      "line": "It's hardly legendary to fail a quest because you can't find a little bit of burnt wood!",
+      "delivery": "scornful"
     },
     {
       "character": "Player",
@@ -296,7 +312,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "It's hardly legendary to fail a quest because you can't find some papyrus!"
+      "line": "It's hardly legendary to fail a quest because you can't find some papyrus!",
+      "delivery": "scornful"
     },
     {
       "character": "Player",
@@ -304,7 +321,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Excellent! Does this mean you have a suitable gift from the Kharazi? Becoming a legend is more than just fighting you know. It also requires some careful diplomacy and problem solving skills."
+      "line": "Excellent! Does this mean you have a suitable gift from the Kharazi? Becoming a legend is more than just fighting you know. It also requires some careful diplomacy and problem solving skills.",
+      "delivery": "pleased"
     },
     {
       "character": "Radimus Erkle",
@@ -316,7 +334,8 @@
     },
     {
       "character": "Jungle forester",
-      "line": "Hello friend. You're a long way from Lumbridge!"
+      "line": "Hello friend. You're a long way from Lumbridge!",
+      "delivery": "friendly, surprised"
     },
     {
       "character": "Player",
@@ -324,19 +343,23 @@
     },
     {
       "character": "Jungle forester",
-      "line": "Well, I don't recommend just walking in! The last guy I saw try that barely escaped with his life."
+      "line": "Well, I don't recommend just walking in! The last guy I saw try that barely escaped with his life.",
+      "delivery": "cautionary"
     },
     {
       "character": "Jungle forester",
-      "line": "Apparently he was on a mission to map the area. How foolish is that?"
+      "line": "Apparently he was on a mission to map the area. How foolish is that?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
-      "line": "Actually, I plan to map the jungle myself."
+      "line": "Actually, I plan to map the jungle myself.",
+      "delivery": "dry"
     },
     {
       "character": "Jungle forester",
-      "line": "Oh. Oops. Sorry if I sounded rude, it just seems like a really bad idea."
+      "line": "Oh. Oops. Sorry if I sounded rude, it just seems like a really bad idea.",
+      "delivery": "embarrassed"
     },
     {
       "character": "Jungle forester",
@@ -344,7 +367,8 @@
     },
     {
       "character": "Jungle forester",
-      "line": "Best of luck though... Guthix knows, you'll need it."
+      "line": "Best of luck though... Guthix knows, you'll need it.",
+      "delivery": "wry, ominous"
     },
     {
       "character": "Player",
@@ -356,11 +380,13 @@
     },
     {
       "character": "Player",
-      "line": "Are you calling me foolish?"
+      "line": "Are you calling me foolish?",
+      "delivery": "indignant"
     },
     {
       "character": "Jungle forester",
-      "line": "Er... maybe? I'll just be on my way..."
+      "line": "Er... maybe? I'll just be on my way...",
+      "delivery": "nervous, retreating"
     },
     {
       "character": "Player",
@@ -380,7 +406,8 @@
     },
     {
       "character": "Jungle forester",
-      "line": "Oh yes, I've met loads of them! Lovely lot. I haven't seen many about recently, though."
+      "line": "Oh yes, I've met loads of them! Lovely lot. I haven't seen many about recently, though.",
+      "delivery": "warm, enthusiastic"
     },
     {
       "character": "Jungle forester",
@@ -392,7 +419,8 @@
     },
     {
       "character": "Jungle forester",
-      "line": "I wish I did! But I just have the one, and I've grown fond of it. Besides, I might need it if I ever get lost in the jungle."
+      "line": "I wish I did! But I just have the one, and I've grown fond of it. Besides, I might need it if I ever get lost in the jungle.",
+      "delivery": "wistful"
     },
     {
       "character": "Player",
@@ -416,7 +444,8 @@
     },
     {
       "character": "Jungle forester",
-      "line": "This is an impressive map! I'm amazed, it's just great! Do you mind if I make a copy of it? I'll give you my Bullroarer in return."
+      "line": "This is an impressive map! I'm amazed, it's just great! Do you mind if I make a copy of it? I'll give you my Bullroarer in return.",
+      "delivery": "amazed, excited"
     },
     {
       "character": "Player",
@@ -456,7 +485,8 @@
     },
     {
       "character": "Jungle forester",
-      "line": "This is a great map, thanks for letting me have a copy! I'm excited to explore more of the jungle."
+      "line": "This is a great map, thanks for letting me have a copy! I'm excited to explore more of the jungle.",
+      "delivery": "excited"
     },
     {
       "character": "Jungle forester",
@@ -468,7 +498,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Greetings, Bwana. Why do you make such strange sounds and disturb the peace of the jungle?"
+      "line": "Greetings, Bwana. Why do you make such strange sounds and disturb the peace of the jungle?",
+      "delivery": "wary, formal"
     },
     {
       "character": "Player",
@@ -476,7 +507,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Well, it worked! I am Gujuo, proud member of the Kharazi tribe. What did you want to talk about, Bwana?"
+      "line": "Well, it worked! I am Gujuo, proud member of the Kharazi tribe. What did you want to talk about, Bwana?",
+      "delivery": "warm, proud"
     },
     {
       "character": "Player",
@@ -484,11 +516,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "Very good, Bwana... this is indeed a friendly gesture. However, you've come at a bad time."
+      "line": "Very good, Bwana... this is indeed a friendly gesture. However, you've come at a bad time.",
+      "delivery": "concerned"
     },
     {
       "character": "Gujuo",
-      "line": "My people are scattered and in hiding."
+      "line": "My people are scattered and in hiding.",
+      "delivery": "somber"
     },
     {
       "character": "Player",
@@ -496,11 +530,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "We normally meet regularly around our tribe's totem pole. Unfortunately, ours has been polluted by an evil spirit, and now we are all afraid to approach it."
+      "line": "We normally meet regularly around our tribe's totem pole. Unfortunately, ours has been polluted by an evil spirit, and now we are all afraid to approach it.",
+      "delivery": "fearful, somber"
     },
     {
       "character": "Gujuo",
-      "line": "We send our shaman, Ungadulu, to confront the spirit... but he has not returned."
+      "line": "We send our shaman, Ungadulu, to confront the spirit... but he has not returned.",
+      "delivery": "worried"
     },
     {
       "character": "Player",
@@ -528,7 +564,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "You mean it? That would be wonderful, Bwana! He was last seen in the northwestern part of the Kharazi Jungle, near the great cliffs. Look there, and you will see three rocks that form a triangle."
+      "line": "You mean it? That would be wonderful, Bwana! He was last seen in the northwestern part of the Kharazi Jungle, near the great cliffs. Look there, and you will see three rocks that form a triangle.",
+      "delivery": "hopeful, grateful"
     },
     {
       "character": "Gujuo",
@@ -544,11 +581,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "That's okay, Bwana. Ungadulu has probably been torn apart by wild beasts, or driven mad by spirits... there's no point searching for him now."
+      "line": "That's okay, Bwana. Ungadulu has probably been torn apart by wild beasts, or driven mad by spirits... there's no point searching for him now.",
+      "delivery": "grim, resigned"
     },
     {
       "character": "Gujuo",
-      "line": "If my people survive this calamity, it will be a miracle..."
+      "line": "If my people survive this calamity, it will be a miracle...",
+      "delivery": "despairing"
     },
     {
       "character": "Player",
@@ -616,11 +655,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "I am tired, Bwana, I must go and rest..."
+      "line": "I am tired, Bwana, I must go and rest...",
+      "delivery": "weary"
     },
     {
       "character": "Ungadulu",
-      "line": "Please, come no closer! The flames will incinerate you."
+      "line": "Please, come no closer! The flames will incinerate you.",
+      "delivery": "frantic, warning"
     },
     {
       "character": "Player",
@@ -628,15 +669,18 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Please, don't try-"
+      "line": "Please, don't try-",
+      "delivery": "pleading"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Yes, douse the flames with water... pure water..."
+      "line": "Yes, douse the flames with water... pure water...",
+      "delivery": "sinister, whispering"
     },
     {
       "character": "Ungadulu",
-      "line": "Please, leave now! Don't listen... I beg you, leave now, and do not return!"
+      "line": "Please, leave now! Don't listen... I beg you, leave now, and do not return!",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Player",
@@ -644,39 +688,48 @@
     },
     {
       "character": "Ungadulu",
-      "line": "No... I will not tell you!"
+      "line": "No... I will not tell you!",
+      "delivery": "defiant, strained"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "...from the sacred pool, in the lands above... hurry and release me..."
+      "line": "...from the sacred pool, in the lands above... hurry and release me...",
+      "delivery": "seductive, whispering"
     },
     {
       "character": "Ungadulu",
-      "line": "N-no! Please, Bwana, just leave while you still can!"
+      "line": "N-no! Please, Bwana, just leave while you still can!",
+      "delivery": "terrified, pleading"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Hurry, Vacu, the heat of these flames is killing me... ha ha ha!"
+      "line": "Hurry, Vacu, the heat of these flames is killing me... ha ha ha!",
+      "delivery": "menacing, taunting"
     },
     {
       "character": "Ungadulu",
-      "line": "I am Ungadulu, shaman of the Kharazi tribe."
+      "line": "I am Ungadulu, shaman of the Kharazi tribe.",
+      "delivery": "weary, strained"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Bring me pure water! Douse the flames, lest ye -"
+      "line": "Bring me pure water! Douse the flames, lest ye -",
+      "delivery": "commanding, sinister"
     },
     {
       "character": "Ungadulu",
-      "line": "Please, Bwana, don't listen to me! Run, tell my people I am lost..."
+      "line": "Please, Bwana, don't listen to me! Run, tell my people I am lost...",
+      "delivery": "desperate"
     },
     {
       "character": "Player",
-      "line": "Ungadulu looks a little strange."
+      "line": "Ungadulu looks a little strange.",
+      "delivery": "uneasy"
     },
     {
       "character": "Gujuo",
-      "line": "Be wary, Bwana. The jungle is full of strange and powerful spirits. You may have been tricked..."
+      "line": "Be wary, Bwana. The jungle is full of strange and powerful spirits. You may have been tricked...",
+      "delivery": "cautioning"
     },
     {
       "character": "Player",
@@ -700,7 +753,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "These spirits are full of tricks. Take nothing as it first appears."
+      "line": "These spirits are full of tricks. Take nothing as it first appears.",
+      "delivery": "ominous, warning"
     },
     {
       "character": "Player",
@@ -720,7 +774,8 @@
     },
     {
       "character": "Player",
-      "line": "Hmm... I think I might have seen one of those patterns recently."
+      "line": "Hmm... I think I might have seen one of those patterns recently.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -728,7 +783,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "I wish I could help, but I'm as confused as you. Normally I'd call upon Ungadulu to solve a mystery like this... but he's part of the puzzle!"
+      "line": "I wish I could help, but I'm as confused as you. Normally I'd call upon Ungadulu to solve a mystery like this... but he's part of the puzzle!",
+      "delivery": "troubled"
     },
     {
       "character": "Player",
@@ -736,11 +792,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "This all sounds very odd. You're not possessed, are you Bwana?"
+      "line": "This all sounds very odd. You're not possessed, are you Bwana?",
+      "delivery": "wary"
     },
     {
       "character": "Player",
-      "line": "I don't think so. I need the water to help Ungadulu!"
+      "line": "I don't think so. I need the water to help Ungadulu!",
+      "delivery": "earnest, urgent"
     },
     {
       "character": "Gujuo",
@@ -768,7 +826,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "But be careful. This metal can influence people in strange ways. Fall under its power, and you will think of nothing else for the rest of your days, no matter how much of it you find."
+      "line": "But be careful. This metal can influence people in strange ways. Fall under its power, and you will think of nothing else for the rest of your days, no matter how much of it you find.",
+      "delivery": "cautioning"
     },
     {
       "character": "Gujuo",
@@ -804,7 +863,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "It seems that Ungadulu has started to lose his senses. In the days of our forefathers, the 'Vacu' were shamans who could summon powerful, wise spirits."
+      "line": "It seems that Ungadulu has started to lose his senses. In the days of our forefathers, the 'Vacu' were shamans who could summon powerful, wise spirits.",
+      "delivery": "worried"
     },
     {
       "character": "Gujuo",
@@ -812,11 +872,13 @@
     },
     {
       "character": "Player",
-      "line": "How terrible..."
+      "line": "How terrible...",
+      "delivery": "dismayed"
     },
     {
       "character": "Gujuo",
-      "line": "Indeed. Every Kharazi child knows not to mess with evil spirits. What has our shaman gotten himself into?"
+      "line": "Indeed. Every Kharazi child knows not to mess with evil spirits. What has our shaman gotten himself into?",
+      "delivery": "grave, worried"
     },
     {
       "character": "Gujuo",
@@ -824,11 +886,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "Greetings, Bwana. Ah, I see you have the golden bowl! Would you like me to bless it for you?"
+      "line": "Greetings, Bwana. Ah, I see you have the golden bowl! Would you like me to bless it for you?",
+      "delivery": "pleased"
     },
     {
       "character": "Gujuo",
-      "line": "Bwana... your faith is not strong enough to bless this vessel."
+      "line": "Bwana... your faith is not strong enough to bless this vessel.",
+      "delivery": "disappointed, gentle"
     },
     {
       "character": "Gujuo",
@@ -836,7 +900,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Well done, Bwana! This is a fine vessel for the sacred water. Shall I show you how to bless it?"
+      "line": "Well done, Bwana! This is a fine vessel for the sacred water. Shall I show you how to bless it?",
+      "delivery": "warm, pleased"
     },
     {
       "character": "Player",
@@ -852,35 +917,43 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Please, just run..."
+      "line": "Please, just run...",
+      "delivery": "weak, pleading"
     },
     {
       "character": "Ungadulu",
-      "line": "Go... go now...!"
+      "line": "Go... go now...!",
+      "delivery": "urgent, straining"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Welcome Vacu, to eternal..."
+      "line": "Welcome Vacu, to eternal...",
+      "delivery": "sinister, drawling"
     },
     {
       "character": "Ungadulu",
-      "line": "Run, Bwana! Stay away from here!"
+      "line": "Run, Bwana! Stay away from here!",
+      "delivery": "frantic"
     },
     {
       "character": "Ungadulu",
-      "line": "Thank you, Bwana! You have released me from the demon's grasp, but only for a short while! You must seek out the Book of Binding - it's hidden in these caves somewhere!."
+      "line": "Thank you, Bwana! You have released me from the demon's grasp, but only for a short while! You must seek out the Book of Binding - it's hidden in these caves somewhere!.",
+      "delivery": "relieved, urgent"
     },
     {
       "character": "Ungadulu",
-      "line": "There are many trials you must pass... but please, you're my only hope of escape!"
+      "line": "There are many trials you must pass... but please, you're my only hope of escape!",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Foolish Vacu... come for me again and thou shalt taste more of my power!"
+      "line": "Foolish Vacu... come for me again and thou shalt taste more of my power!",
+      "delivery": "menacing, threatening"
     },
     {
       "character": "Player",
-      "line": "Easy as pie..."
+      "line": "Easy as pie...",
+      "delivery": "cocky, dry"
     },
     {
       "character": "Gujuo",
@@ -892,7 +965,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "That sounds odd. Perhaps our shaman has lost his mind. My apologies, Bwana, it seems that I've sent you on a fool's errand. Unless..."
+      "line": "That sounds odd. Perhaps our shaman has lost his mind. My apologies, Bwana, it seems that I've sent you on a fool's errand. Unless...",
+      "delivery": "troubled"
     },
     {
       "character": "Player",
@@ -948,23 +1022,28 @@
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Vile serpent, thou wilt pay for that!"
+      "line": "Vile serpent, thou wilt pay for that!",
+      "delivery": "furious, snarling"
     },
     {
       "character": "Ungadulu",
-      "line": "...What, what happened? Why am I all wet?"
+      "line": "...What, what happened? Why am I all wet?",
+      "delivery": "dazed, confused"
     },
     {
       "character": "Ungadulu (possessed)",
-      "line": "Curse you... foul intruder... wretched Vacu! Thy meddling ways hath brought thee to thy doom!"
+      "line": "Curse you... foul intruder... wretched Vacu! Thy meddling ways hath brought thee to thy doom!",
+      "delivery": "enraged, menacing"
     },
     {
       "character": "Ungadulu",
-      "line": "I hope that teaches you to respect your elders!"
+      "line": "I hope that teaches you to respect your elders!",
+      "delivery": "spirited"
     },
     {
       "character": "Ungadulu",
-      "line": "Bwana, you've saved me from the demon Nezikchened! How can I ever repay this favour?"
+      "line": "Bwana, you've saved me from the demon Nezikchened! How can I ever repay this favour?",
+      "delivery": "grateful, relieved"
     },
     {
       "character": "Player",
@@ -972,7 +1051,8 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Yommi tree seeds? To grow a new totem? Then Nezikchened's influence has spread further than I thought..."
+      "line": "Yommi tree seeds? To grow a new totem? Then Nezikchened's influence has spread further than I thought...",
+      "delivery": "troubled"
     },
     {
       "character": "Ungadulu",
@@ -980,7 +1060,8 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Here you are, take these with my gratitude. You'll need to soak them in sacred water to germinate them before planting them."
+      "line": "Here you are, take these with my gratitude. You'll need to soak them in sacred water to germinate them before planting them.",
+      "delivery": "warm, grateful"
     },
     {
       "character": "Player",
@@ -1048,7 +1129,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "A demon? You are truly brave, Bwana. Well done, and thank you for freeing our shaman."
+      "line": "A demon? You are truly brave, Bwana. Well done, and thank you for freeing our shaman.",
+      "delivery": "impressed, grateful"
     },
     {
       "character": "Player",
@@ -1072,7 +1154,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Thank you for releasing Ungadulu! My fellow Kharazi and I feel much safer now that our shaman is back. Is the Yommi tree growing well?"
+      "line": "Thank you for releasing Ungadulu! My fellow Kharazi and I feel much safer now that our shaman is back. Is the Yommi tree growing well?",
+      "delivery": "grateful, relieved"
     },
     {
       "character": "Player",
@@ -1124,11 +1207,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "Oh, Bwana, it is a terrible place. Be thankful you don't have to go there."
+      "line": "Oh, Bwana, it is a terrible place. Be thankful you don't have to go there.",
+      "delivery": "grim"
     },
     {
       "character": "Gujuo",
-      "line": "Bwana, you cannot be thinking of travelling to the source!"
+      "line": "Bwana, you cannot be thinking of travelling to the source!",
+      "delivery": "alarmed"
     },
     {
       "character": "Gujuo",
@@ -1136,7 +1221,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Deep in the caves where you found Ungadulu is a terrible place, guarded by the angry spirits of the undead."
+      "line": "Deep in the caves where you found Ungadulu is a terrible place, guarded by the angry spirits of the undead.",
+      "delivery": "ominous"
     },
     {
       "character": "Gujuo",
@@ -1144,11 +1230,13 @@
     },
     {
       "character": "Gujuo",
-      "line": "The first to die was a powerful sorcerer, and his strange magic lingers in the cave. Now all who venture near are struck by terror, and cannot proceed."
+      "line": "The first to die was a powerful sorcerer, and his strange magic lingers in the cave. Now all who venture near are struck by terror, and cannot proceed.",
+      "delivery": "grave, ominous"
     },
     {
       "character": "Gujuo",
-      "line": "With all my heart, Bwana, nothing could convince me to go near such a place."
+      "line": "With all my heart, Bwana, nothing could convince me to go near such a place.",
+      "delivery": "fearful, earnest"
     },
     {
       "character": "Player",
@@ -1156,15 +1244,18 @@
     },
     {
       "character": "Gujuo",
-      "line": "That's sensible of you, Bwana. It would be a waste of a perfectly fine life. We will just have to restore the totem some other way... or else leave our home forever..."
+      "line": "That's sensible of you, Bwana. It would be a waste of a perfectly fine life. We will just have to restore the totem some other way... or else leave our home forever...",
+      "delivery": "relieved, somber"
     },
     {
       "character": "Player",
-      "line": "If I looked for the source, could you help me?"
+      "line": "If I looked for the source, could you help me?",
+      "delivery": "resolute"
     },
     {
       "character": "Gujuo",
-      "line": "If you're determined to find the source, I will help as much as I can. First, you must overcome the curse of fear that blocks the cave."
+      "line": "If you're determined to find the source, I will help as much as I can. First, you must overcome the curse of fear that blocks the cave.",
+      "delivery": "resolute, concerned"
     },
     {
       "character": "Gujuo",
@@ -1200,11 +1291,13 @@
     },
     {
       "character": "Player",
-      "line": "Will I really need this Potion? I'm already pretty brave."
+      "line": "Will I really need this Potion? I'm already pretty brave.",
+      "delivery": "boastful"
     },
     {
       "character": "Gujuo",
-      "line": "The caves are protected by a supernatural curse which would leave even the bravest adventurer a trembling wreck."
+      "line": "The caves are protected by a supernatural curse which would leave even the bravest adventurer a trembling wreck.",
+      "delivery": "grave, warning"
     },
     {
       "character": "Gujuo",
@@ -1212,7 +1305,8 @@
     },
     {
       "character": "Player",
-      "line": "I searched the caves thoroughly and didn't find any sacred water..."
+      "line": "I searched the caves thoroughly and didn't find any sacred water...",
+      "delivery": "frustrated"
     },
     {
       "character": "Gujuo",
@@ -1220,7 +1314,8 @@
     },
     {
       "character": "Player",
-      "line": "The Yommi tree died."
+      "line": "The Yommi tree died.",
+      "delivery": "dismayed"
     },
     {
       "character": "Gujuo",
@@ -1256,7 +1351,8 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Beware though - the caves are deeply cursed, and should you fall, your spirit will be trapped within the caves forever, sworn to protect their secret."
+      "line": "Beware though - the caves are deeply cursed, and should you fall, your spirit will be trapped within the caves forever, sworn to protect their secret.",
+      "delivery": "ominous, warning"
     },
     {
       "character": "Player",
@@ -1268,11 +1364,13 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Something terrible must have happened to them, because they never returned."
+      "line": "Something terrible must have happened to them, because they never returned.",
+      "delivery": "somber"
     },
     {
       "character": "Ungadulu",
-      "line": "They say the spirits of those poor adventurers linger still, cursed to protect the water even in undeath... forever..."
+      "line": "They say the spirits of those poor adventurers linger still, cursed to protect the water even in undeath... forever...",
+      "delivery": "haunting, ominous"
     },
     {
       "character": "Player",
@@ -1284,39 +1382,48 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Take better care of these, please. They're very rare."
+      "line": "Take better care of these, please. They're very rare.",
+      "delivery": "mildly stern"
     },
     {
       "character": "Player",
-      "line": "No! It's too scary!"
+      "line": "No! It's too scary!",
+      "delivery": "frightened"
     },
     {
       "character": "Player",
-      "line": "Something funny's going on in these caves... I wonder if the Kharazi can help me get past this?"
+      "line": "Something funny's going on in these caves... I wonder if the Kharazi can help me get past this?",
+      "delivery": "uneasy"
     },
     {
       "character": "Viyeldi",
-      "line": "Beware, adventurer. You are brave, but braver folk than you have fallen in pursuit of the sacred water."
+      "line": "Beware, adventurer. You are brave, but braver folk than you have fallen in pursuit of the sacred water.",
+      "delivery": "cryptic, grave"
     },
     {
       "character": "Viyeldi",
-      "line": "Perilous dangers do await thee, Tojalon, Senay and Devere make three. None hold malice but will test your might, pray you do not lose these fights."
+      "line": "Perilous dangers do await thee, Tojalon, Senay and Devere make three. None hold malice but will test your might, pray you do not lose these fights.",
+      "delivery": "cryptic, prophetic"
     },
     {
       "character": "Viyeldi",
-      "line": "If, however, you win this day, take heart that see the spring you may."
+      "line": "If, however, you win this day, take heart that see the spring you may.",
+      "delivery": "prophetic"
     },
     {
       "character": "Viyeldi",
-      "line": "Through Dragon's eye will you gain new heart. Heed these words, else swiftly depart."
+      "line": "Through Dragon's eye will you gain new heart. Heed these words, else swiftly depart.",
+      "delivery": "prophetic, solemn"
     },
     {
       "character": "Viyeldi",
-      "line": "Adventurer, I am already deceased, and therefore impervious to your attacks. Still, I can tell when I'm not wanted..."
+      "line": "Adventurer, I am already deceased, and therefore impervious to your attacks. Still, I can tell when I'm not wanted...",
+      "delivery": "dry amusement"
     },
     {
       "character": "Ranalph Devere",
-      "line": "You have proved yourself worthy of this prize."
+      "line": "You have proved yourself worthy of this prize.",
+      "delivery": "solemn, spectral"
     },
     {
       "character": "Ranalph Devere",
@@ -1324,7 +1431,8 @@
     },
     {
       "character": "Irvig Senay",
-      "line": "I am humbled by your honourable deeds."
+      "line": "I am humbled by your honourable deeds.",
+      "delivery": "solemn, spectral"
     },
     {
       "character": "Irvig Senay",
@@ -1332,7 +1440,8 @@
     },
     {
       "character": "San Tojalon",
-      "line": "You have proved yourself an honourable foe."
+      "line": "You have proved yourself an honourable foe.",
+      "delivery": "dignified, spectral"
     },
     {
       "character": "San Tojalon",
@@ -1340,15 +1449,18 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "Who disturbs the rocks of Zekin?"
+      "line": "Who disturbs the rocks of Zekin?",
+      "delivery": "menacing, echoing"
     },
     {
       "character": "Player",
-      "line": "Er... me?"
+      "line": "Er... me?",
+      "delivery": "sheepish, nervous"
     },
     {
       "character": "Echned Zekin",
-      "line": "So, you desire the sacred water that flows here?"
+      "line": "So, you desire the sacred water that flows here?",
+      "delivery": "sly"
     },
     {
       "character": "Player",
@@ -1356,15 +1468,18 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "The water babbles so loudly and I am already so tortured. I cannot abide the sound, so I have stoppered the streams. Care you not for my torment and pain?"
+      "line": "The water babbles so loudly and I am already so tortured. I cannot abide the sound, so I have stoppered the streams. Care you not for my torment and pain?",
+      "delivery": "pained, false sorrow"
     },
     {
       "character": "Player",
-      "line": "Not really, I just wondered if I could push that big rock."
+      "line": "Not really, I just wondered if I could push that big rock.",
+      "delivery": "casual, nonchalant"
     },
     {
       "character": "Echned Zekin",
-      "line": "The rock must remain! I placed it there to stop the sound of the water's babbling. The noise troubles my soul and I seek a little rest... rest from this terrible torture..."
+      "line": "The rock must remain! I placed it there to stop the sound of the water's babbling. The noise troubles my soul and I seek a little rest... rest from this terrible torture...",
+      "delivery": "agitated, pained"
     },
     {
       "character": "Player",
@@ -1372,11 +1487,13 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "I was robbed of my life by a cruel man named Viyeldi. For centuries I have searched for him, so I might enact my vengeance."
+      "line": "I was robbed of my life by a cruel man named Viyeldi. For centuries I have searched for him, so I might enact my vengeance.",
+      "delivery": "bitter, sorrowful"
     },
     {
       "character": "Echned Zekin",
-      "line": "But, oh! Tragedy of tragedies, while searching for the source of the sacred water, his spirit became trapped! Now he is neither living nor dead, and I will never be released from my torment."
+      "line": "But, oh! Tragedy of tragedies, while searching for the source of the sacred water, his spirit became trapped! Now he is neither living nor dead, and I will never be released from my torment.",
+      "delivery": "mournful, theatrical"
     },
     {
       "character": "Player",
@@ -1388,19 +1505,23 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "My spirit burns with the need for revenge. While that fiend yet lives, I cannot rest. If you seek the sacred water, you must ensure he meets his end."
+      "line": "My spirit burns with the need for revenge. While that fiend yet lives, I cannot rest. If you seek the sacred water, you must ensure he meets his end.",
+      "delivery": "seething"
     },
     {
       "character": "Echned Zekin",
-      "line": "If you refuse, then I swear, the sacred water shall never flow again! Will you put an end to Viyeldi for me?"
+      "line": "If you refuse, then I swear, the sacred water shall never flow again! Will you put an end to Viyeldi for me?",
+      "delivery": "menacing, imploring"
     },
     {
       "character": "Player",
-      "line": "I'll do what I must to get the water."
+      "line": "I'll do what I must to get the water.",
+      "delivery": "resolute, grim"
     },
     {
       "character": "Echned Zekin",
-      "line": "Destroy Viyeldi, and the sacred water is yours. But beware, for this is no simple task."
+      "line": "Destroy Viyeldi, and the sacred water is yours. But beware, for this is no simple task.",
+      "delivery": "sinister"
     },
     {
       "character": "Echned Zekin",
@@ -1412,7 +1533,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "Use this dagger to slay the fiendish Viyeldi, and bring it back to me once he is dead... for good, this time."
+      "line": "Use this dagger to slay the fiendish Viyeldi, and bring it back to me once he is dead... for good, this time.",
+      "delivery": "insistent, sinister"
     },
     {
       "character": "Player",
@@ -1420,7 +1542,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "You've made the right decision. Soon, the sacred water will be yours. Bring the dagger back to me when you have completed your task."
+      "line": "You've made the right decision. Soon, the sacred water will be yours. Bring the dagger back to me when you have completed your task.",
+      "delivery": "pleased, sly"
     },
     {
       "character": "Player",
@@ -1428,15 +1551,18 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "That's your decision. Are you sure you don't need the sacred water, though? Deny me, and it will forever be out of your reach..."
+      "line": "That's your decision. Are you sure you don't need the sacred water, though? Deny me, and it will forever be out of your reach...",
+      "delivery": "coaxing, menacing"
     },
     {
       "character": "Player",
-      "line": "No, I won't take someone's life for you."
+      "line": "No, I won't take someone's life for you.",
+      "delivery": "firm, principled"
     },
     {
       "character": "Echned Zekin",
-      "line": "A noble sentiment, but Viyeldi is not alive! He is merely a vessel for the sacred water's power."
+      "line": "A noble sentiment, but Viyeldi is not alive! He is merely a vessel for the sacred water's power.",
+      "delivery": "persuasive"
     },
     {
       "character": "Echned Zekin",
@@ -1448,7 +1574,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "First, you must help me. Revenge is the only thing that keeps my spirit in this place."
+      "line": "First, you must help me. Revenge is the only thing that keeps my spirit in this place.",
+      "delivery": "bitter"
     },
     {
       "character": "Echned Zekin",
@@ -1460,7 +1587,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "I am Echned Zekin, and I seek peace from my eternal torture..."
+      "line": "I am Echned Zekin, and I seek peace from my eternal torture...",
+      "delivery": "mournful, false sorrow"
     },
     {
       "character": "Player",
@@ -1468,7 +1596,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "I am long since dead and buried, lost in the passages of time. My kin have departed and I am forgotten by all who knew me... so it is unlikely that you were one of them. I am but a poor tortured soul, trying to get"
+      "line": "I am long since dead and buried, lost in the passages of time. My kin have departed and I am forgotten by all who knew me... so it is unlikely that you were one of them. I am but a poor tortured soul, trying to get",
+      "delivery": "sorrowful"
     },
     {
       "character": "Echned Zekin",
@@ -1476,11 +1605,13 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "Why do you return when your task is still incomplete?"
+      "line": "Why do you return when your task is still incomplete?",
+      "delivery": "impatient, menacing"
     },
     {
       "character": "Player",
-      "line": "Who am I supposed to kill again?"
+      "line": "Who am I supposed to kill again?",
+      "delivery": "sheepish, dry"
     },
     {
       "character": "Echned Zekin",
@@ -1492,11 +1623,13 @@
     },
     {
       "character": "Player",
-      "line": "Er, I've had second thoughts."
+      "line": "Er, I've had second thoughts.",
+      "delivery": "hesitant"
     },
     {
       "character": "Echned Zekin",
-      "line": "It is too late for second thoughts... do as you promised and return to me, with haste! Viyeldi's presence torments me so..."
+      "line": "It is too late for second thoughts... do as you promised and return to me, with haste! Viyeldi's presence torments me so...",
+      "delivery": "commanding, menacing"
     },
     {
       "character": "Player",
@@ -1516,7 +1649,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "Very well, I respect your decision - but I cannot allow you to access the sacred water while my tormentor lives."
+      "line": "Very well, I respect your decision - but I cannot allow you to access the sacred water while my tormentor lives.",
+      "delivery": "cold"
     },
     {
       "character": "Player",
@@ -1584,11 +1718,13 @@
     },
     {
       "character": "Player",
-      "line": "I have killed Viyeldi!"
+      "line": "I have killed Viyeldi!",
+      "delivery": "proud"
     },
     {
       "character": "Ungadulu",
-      "line": "Why would you do that?!"
+      "line": "Why would you do that?!",
+      "delivery": "alarmed, aghast"
     },
     {
       "character": "Player",
@@ -1596,11 +1732,13 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Bwana, I'm afraid this spirit has tricked you! Viyeldi was the spirit of a powerful sorcerer, who controlled the spirits of those bound to the sacred water."
+      "line": "Bwana, I'm afraid this spirit has tricked you! Viyeldi was the spirit of a powerful sorcerer, who controlled the spirits of those bound to the sacred water.",
+      "delivery": "grave, urgent"
     },
     {
       "character": "Ungadulu",
-      "line": "If he is truly dead, then those spirits are now free to be controlled by other, far worse forces - that lying spirit is probably one of them."
+      "line": "If he is truly dead, then those spirits are now free to be controlled by other, far worse forces - that lying spirit is probably one of them.",
+      "delivery": "foreboding"
     },
     {
       "character": "Player",
@@ -1620,7 +1758,8 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Goodness! That sounds like a fiendish spirit indeed. You're better off banishing it - I have a spell that will do the trick."
+      "line": "Goodness! That sounds like a fiendish spirit indeed. You're better off banishing it - I have a spell that will do the trick.",
+      "delivery": "concerned"
     },
     {
       "character": "Ungadulu",
@@ -1640,11 +1779,13 @@
     },
     {
       "character": "Ungadulu",
-      "line": "This dagger has been made for one purpose only... thank goodness you brought it to me."
+      "line": "This dagger has been made for one purpose only... thank goodness you brought it to me.",
+      "delivery": "relieved, grave"
     },
     {
       "character": "Ungadulu",
-      "line": "Now we can turn the tables! I can make you a spell with this item which will force the spirit to reveal its true self. Once activated, you will be able to attack it like any normal creature."
+      "line": "Now we can turn the tables! I can make you a spell with this item which will force the spirit to reveal its true self. Once activated, you will be able to attack it like any normal creature.",
+      "delivery": "determined, encouraging"
     },
     {
       "character": "Ungadulu",
@@ -1652,7 +1793,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "You seem filled with determination. Have you slain Viyeldi? Give me the dagger, quickly!"
+      "line": "You seem filled with determination. Have you slain Viyeldi? Give me the dagger, quickly!",
+      "delivery": "eager, greedy"
     },
     {
       "character": "Player",
@@ -1660,7 +1802,8 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "Bring it to me with all haste, or feel my wrath!"
+      "line": "Bring it to me with all haste, or feel my wrath!",
+      "delivery": "threatening"
     },
     {
       "character": "Player",
@@ -1668,23 +1811,28 @@
     },
     {
       "character": "Echned Zekin",
-      "line": "Go now and slay him, as you agreed. Unless you'd like me to take vengeance on you, instead?"
+      "line": "Go now and slay him, as you agreed. Unless you'd like me to take vengeance on you, instead?",
+      "delivery": "menacing, threatening"
     },
     {
       "character": "Player",
-      "line": "I have something else in mind!"
+      "line": "I have something else in mind!",
+      "delivery": "defiant"
     },
     {
       "character": "Echned Zekin",
-      "line": "Worthless Vacu! How dare you lie to me! Go and slay Viyeldi, as you promised, or I will lay upon you all the pain and torment I have endured these long years!"
+      "line": "Worthless Vacu! How dare you lie to me! Go and slay Viyeldi, as you promised, or I will lay upon you all the pain and torment I have endured these long years!",
+      "delivery": "enraged, snarling"
     },
     {
       "character": "Echned Zekin",
-      "line": "Aha, I see you have completed your task. I'll take that dagger from you now."
+      "line": "Aha, I see you have completed your task. I'll take that dagger from you now.",
+      "delivery": "gloating"
     },
     {
       "character": "Echned Zekin",
-      "line": "Ahhhhh, yes... I feel my power returning. Now, to deal with thee..."
+      "line": "Ahhhhh, yes... I feel my power returning. Now, to deal with thee...",
+      "delivery": "sinister, triumphant"
     },
     {
       "character": "Ungadulu",
@@ -1696,11 +1844,13 @@
     },
     {
       "character": "Player",
-      "line": "Well, actually, it wasn't a spirit at all - it was Nezikchened!"
+      "line": "Well, actually, it wasn't a spirit at all - it was Nezikchened!",
+      "delivery": "stunned"
     },
     {
       "character": "Ungadulu",
-      "line": "Nezikchened returned? And you defeated him a second time? You truly are a legend, Bwana."
+      "line": "Nezikchened returned? And you defeated him a second time? You truly are a legend, Bwana.",
+      "delivery": "astonished, admiring"
     },
     {
       "character": "Ungadulu",
@@ -1720,11 +1870,13 @@
     },
     {
       "character": "Ungadulu",
-      "line": "Let us hope we've seen the last of Nezikchened... who knows what he might try next?"
+      "line": "Let us hope we've seen the last of Nezikchened... who knows what he might try next?",
+      "delivery": "wary, ominous"
     },
     {
       "character": "Gujuo",
-      "line": "Bwana! You're alive! I'm pleased to see you."
+      "line": "Bwana! You're alive! I'm pleased to see you.",
+      "delivery": "joyful, relieved"
     },
     {
       "character": "Gujuo",
@@ -1736,15 +1888,18 @@
     },
     {
       "character": "Gujuo",
-      "line": "You are truly a brave warrior, Bwana. Now your Yommi tree can grow to be just as strong as you are - and we'll have a new totem pole in no time."
+      "line": "You are truly a brave warrior, Bwana. Now your Yommi tree can grow to be just as strong as you are - and we'll have a new totem pole in no time.",
+      "delivery": "admiring, warm"
     },
     {
       "character": "Player",
-      "line": "I defeated the demon - for good this time!"
+      "line": "I defeated the demon - for good this time!",
+      "delivery": "triumphant"
     },
     {
       "character": "Gujuo",
-      "line": "Can it be true? My people and I have noticed a difference in the jungle. The trees seem to sing again, the air tastes fresh and cool... and we have you to thank."
+      "line": "Can it be true? My people and I have noticed a difference in the jungle. The trees seem to sing again, the air tastes fresh and cool... and we have you to thank.",
+      "delivery": "wondering, moved"
     },
     {
       "character": "Player",
@@ -1812,7 +1967,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Greetings, Bwana! I can tell you've already placed the totem. The jungle feels alive again, and my people can finally gather without being bothered by evil spirits."
+      "line": "Greetings, Bwana! I can tell you've already placed the totem. The jungle feels alive again, and my people can finally gather without being bothered by evil spirits.",
+      "delivery": "joyful"
     },
     {
       "character": "Gujuo",
@@ -1820,7 +1976,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Please accept this token of our friendship."
+      "line": "Please accept this token of our friendship.",
+      "delivery": "warm, heartfelt"
     },
     {
       "character": "Gujuo",
@@ -1860,7 +2017,8 @@
     },
     {
       "character": "Gujuo",
-      "line": "Lost it? That totem pole was a sign of our friendship, Bwana..."
+      "line": "Lost it? That totem pole was a sign of our friendship, Bwana...",
+      "delivery": "disappointed"
     },
     {
       "character": "Gujuo",
@@ -1868,19 +2026,23 @@
     },
     {
       "character": "Ungadulu",
-      "line": "You have done well, Bwana, to have succeeded where so many others have failed. You are a true legend."
+      "line": "You have done well, Bwana, to have succeeded where so many others have failed. You are a true legend.",
+      "delivery": "proud, warm"
     },
     {
       "character": "Radimus Erkle",
-      "line": "Well, it looks as if you have something interesting there. Let's have a look!"
+      "line": "Well, it looks as if you have something interesting there. Let's have a look!",
+      "delivery": "intrigued"
     },
     {
       "character": "Radimus Erkle",
-      "line": "This is truly amazing..."
+      "line": "This is truly amazing...",
+      "delivery": "awed"
     },
     {
       "character": "Radimus Erkle",
-      "line": "This totem pole will take pride of place in the Legends' Guild, as a reminder of your quest. The legends of the future will surely be inspired by such a feat of craftsmanship."
+      "line": "This totem pole will take pride of place in the Legends' Guild, as a reminder of your quest. The legends of the future will surely be inspired by such a feat of craftsmanship.",
+      "delivery": "impressed, grand"
     },
     {
       "character": "Radimus Erkle",
@@ -1888,7 +2050,8 @@
     },
     {
       "character": "Radimus Erkle",
-      "line": "Congratulations, welcome to the Legends' Guild. Please, go through to the main Legends' Guild building, and I will join you shortly."
+      "line": "Congratulations, welcome to the Legends' Guild. Please, go through to the main Legends' Guild building, and I will join you shortly.",
+      "delivery": "warm, congratulatory"
     },
     {
       "character": "Radimus Erkle",
