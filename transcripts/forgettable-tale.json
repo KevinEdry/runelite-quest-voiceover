@@ -20,7 +20,8 @@
     },
     {
       "character": "Player",
-      "line": "Er, that's a bit of a random suggestion. Why would I go on a fishing contest?"
+      "line": "Er, that's a bit of a random suggestion. Why would I go on a fishing contest?",
+      "delivery": "puzzled"
     },
     {
       "character": "Commander Veldaban",
@@ -32,7 +33,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "Ah, you see, the trophy is made of pure gold. And these dwarves in particular love gold."
+      "line": "Ah, you see, the trophy is made of pure gold. And these dwarves in particular love gold.",
+      "delivery": "wry, conspiratorial"
     },
     {
       "character": "Player",
@@ -44,23 +46,28 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "! Have you heard?"
+      "line": "! Have you heard?",
+      "delivery": "urgent, excited"
     },
     {
       "character": "Player",
-      "line": "You mean, half the world has suddenly become a sailor?"
+      "line": "You mean, half the world has suddenly become a sailor?",
+      "delivery": "dry sarcasm"
     },
     {
       "character": "Commander Veldaban",
-      "line": "No, not that. It's the Red Axe!"
+      "line": "No, not that. It's the Red Axe!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
-      "line": "What have those grumpy little guys done now?"
+      "line": "What have those grumpy little guys done now?",
+      "delivery": "dismissive, wry"
     },
     {
       "character": "Commander Veldaban",
-      "line": "They've left the city! They were already boycotting the trade floor, but now they've completely left the city."
+      "line": "They've left the city! They were already boycotting the trade floor, but now they've completely left the city.",
+      "delivery": "grave, emphatic"
     },
     {
       "character": "Player",
@@ -88,7 +95,8 @@
     },
     {
       "character": "Player",
-      "line": "Are you asking me to... spy on them? Isn't that treason?"
+      "line": "Are you asking me to... spy on them? Isn't that treason?",
+      "delivery": "nervous, incredulous"
     },
     {
       "character": "Commander Veldaban",
@@ -112,11 +120,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes, I do believe I have. Smashed glasses, wrecked house? Poor personal hygiene standards? Brother or cousin to that other drunken dwarf?"
+      "line": "Yes, I do believe I have. Smashed glasses, wrecked house? Poor personal hygiene standards? Brother or cousin to that other drunken dwarf?",
+      "delivery": "wry disgust"
     },
     {
       "character": "Commander Veldaban",
-      "line": "That's him, poor fellow. He didn't always used to be like that."
+      "line": "That's him, poor fellow. He didn't always used to be like that.",
+      "delivery": "sympathetic"
     },
     {
       "character": "Player",
@@ -132,7 +142,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "In any case, he's a bit of a drunk these days. Well, when I say a bit, he's actually smashed all the time."
+      "line": "In any case, he's a bit of a drunk these days. Well, when I say a bit, he's actually smashed all the time.",
+      "delivery": "dry amusement"
     },
     {
       "character": "Commander Veldaban",
@@ -140,7 +151,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "Problem is, no one believes him. Everyone thinks he's completely mad. And perhaps they're right."
+      "line": "Problem is, no one believes him. Everyone thinks he's completely mad. And perhaps they're right.",
+      "delivery": "resigned"
     },
     {
       "character": "Commander Veldaban",
@@ -148,19 +160,23 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "What do you say then, ? Do you want to help the Black Guard with this?"
+      "line": "What do you say then, ? Do you want to help the Black Guard with this?",
+      "delivery": "earnest"
     },
     {
       "character": "Player",
-      "line": "Sounds like just the job for me!"
+      "line": "Sounds like just the job for me!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Excellent, good luck to you in your quest! May Guthix protect you!"
+      "line": "Excellent, good luck to you in your quest! May Guthix protect you!",
+      "delivery": "warm, rousing"
     },
     {
       "character": "Player",
-      "line": "Well, here I am... at the drunken dwarf's relative's residence, who is also drunken. I wonder what drunken tales he can tell me."
+      "line": "Well, here I am... at the drunken dwarf's relative's residence, who is also drunken. I wonder what drunken tales he can tell me.",
+      "delivery": "wry, musing"
     },
     {
       "character": "Player",
@@ -168,7 +184,8 @@
     },
     {
       "character": "Player",
-      "line": "Although I wish they would try to stay away from me too..."
+      "line": "Although I wish they would try to stay away from me too...",
+      "delivery": "wry, weary"
     },
     {
       "character": "Commander Veldaban",
@@ -196,7 +213,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "THE RED AXE WILL COME FOR YOU!"
+      "line": "THE RED AXE WILL COME FOR YOU!",
+      "delivery": "shouting, paranoid"
     },
     {
       "character": "Player",
@@ -204,15 +222,18 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "I don't know... I c-c-c-can't think shtraight when I'm *hic* sober."
+      "line": "I don't know... I c-c-c-can't think shtraight when I'm *hic* sober.",
+      "delivery": "slurred, rambling"
     },
     {
       "character": "Player",
-      "line": "You don't look very sober to me!"
+      "line": "You don't look very sober to me!",
+      "delivery": "dry"
     },
     {
       "character": "Drunken Dwarf",
-      "line": "DON'T contradict me! Or I won't tell you about ehm... about the... whatever it is you wanted to know."
+      "line": "DON'T contradict me! Or I won't tell you about ehm... about the... whatever it is you wanted to know.",
+      "delivery": "belligerent, drunk"
     },
     {
       "character": "Player",
@@ -220,7 +241,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "I'll shtop, right after you get me shome of the good shtuff!"
+      "line": "I'll shtop, right after you get me shome of the good shtuff!",
+      "delivery": "drunk, wheedling"
     },
     {
       "character": "Drunken Dwarf",
@@ -232,7 +254,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "What wash that? *hic* No no no, this ish noooooo good! I want some of the REALLY good stuff."
+      "line": "What wash that? *hic* No no no, this ish noooooo good! I want some of the REALLY good stuff.",
+      "delivery": "drunk, petulant"
     },
     {
       "character": "Player",
@@ -240,7 +263,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "Some of them original Kelda Stout! Ash blue ash the river! Ash strong ash ole Dondakan's rock. Ash foul tasting ash ash."
+      "line": "Some of them original Kelda Stout! Ash blue ash the river! Ash strong ash ole Dondakan's rock. Ash foul tasting ash ash.",
+      "delivery": "drunk, wistful"
     },
     {
       "character": "Player",
@@ -256,11 +280,13 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "You silly human! Silly shilly silly *hic* hman. You need FOUR seeds, and grow them into hops."
+      "line": "You silly human! Silly shilly silly *hic* hman. You need FOUR seeds, and grow them into hops.",
+      "delivery": "drunk, mocking"
     },
     {
       "character": "Drunken Dwarf",
-      "line": "Hop hop hop! *hic*"
+      "line": "Hop hop hop! *hic*",
+      "delivery": "drunk, giddy"
     },
     {
       "character": "Player",
@@ -272,7 +298,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "Drinking buddies. Yes, find me some drinking buddies. No, find the other seeds. Yes."
+      "line": "Drinking buddies. Yes, find me some drinking buddies. No, find the other seeds. Yes.",
+      "delivery": "drunk, muddled"
     },
     {
       "character": "Player",
@@ -300,7 +327,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "It'sh the pub to the... er. North. No, shouth. South."
+      "line": "It'sh the pub to the... er. North. No, shouth. South.",
+      "delivery": "drunk, confused"
     },
     {
       "character": "Drunken Dwarf",
@@ -324,7 +352,8 @@
     },
     {
       "character": "Barmaid",
-      "line": "Welcome to the Laughing Miner pub, human traveller."
+      "line": "Welcome to the Laughing Miner pub, human traveller.",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",
@@ -344,7 +373,8 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "Help, from me? You musht be more drunk than I am."
+      "line": "Help, from me? You musht be more drunk than I am.",
+      "delivery": "drunk, scoffing"
     },
     {
       "character": "Player",
@@ -352,7 +382,8 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "Mmmm, beer."
+      "line": "Mmmm, beer.",
+      "delivery": "drunk, longing"
     },
     {
       "character": "Player",
@@ -368,7 +399,8 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "I might... oh yeah, I jusht might have a sheed like that."
+      "line": "I might... oh yeah, I jusht might have a sheed like that.",
+      "delivery": "drunk, sly"
     },
     {
       "character": "Player",
@@ -376,7 +408,8 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "No."
+      "line": "No.",
+      "delivery": "flat, blunt"
     },
     {
       "character": "Player",
@@ -384,11 +417,13 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "Lemme think... oh yesh. Get me...."
+      "line": "Lemme think... oh yesh. Get me....",
+      "delivery": "drunk, scheming"
     },
     {
       "character": "Player",
-      "line": "What?? Where am I going to get that!"
+      "line": "What?? Where am I going to get that!",
+      "delivery": "exasperated"
     },
     {
       "character": "Rowdy dwarf",
@@ -416,7 +451,8 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "Well, I've got a Kelda hop seed right here! Pashed down generation after generation in my family..."
+      "line": "Well, I've got a Kelda hop seed right here! Pashed down generation after generation in my family...",
+      "delivery": "drunk, grandiose"
     },
     {
       "character": "Player",
@@ -424,19 +460,23 @@
     },
     {
       "character": "Rowdy dwarf",
-      "line": "Nah, I'm just kidding! Here, have the seed, you won't catch me farming in shome dirt patch anyway!"
+      "line": "Nah, I'm just kidding! Here, have the seed, you won't catch me farming in shome dirt patch anyway!",
+      "delivery": "drunk, teasing"
     },
     {
       "character": "Player",
-      "line": "I suppose you wouldn't ever have a proper job or do some decent hard work, no."
+      "line": "I suppose you wouldn't ever have a proper job or do some decent hard work, no.",
+      "delivery": "snide, muttering"
     },
     {
       "character": "Rowdy dwarf",
-      "line": "What wash that?"
+      "line": "What wash that?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "Nothing..."
+      "line": "Nothing...",
+      "delivery": "evasive, innocent"
     },
     {
       "character": "Player",
@@ -452,11 +492,13 @@
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "Oh, we've got an expert here! Kelda shtout is delishious!"
+      "line": "Oh, we've got an expert here! Kelda shtout is delishious!",
+      "delivery": "drunk, enthusiastic"
     },
     {
       "character": "Player",
-      "line": "It sounds ghastly to me. But I want to brew some to help out, errr, a friend of mine."
+      "line": "It sounds ghastly to me. But I want to brew some to help out, errr, a friend of mine.",
+      "delivery": "distaste"
     },
     {
       "character": "Khorvak, a dwarven engineer",
@@ -464,7 +506,8 @@
     },
     {
       "character": "Player",
-      "line": "Borrow?? How can I borrow a seed? I can hardly give it back once I've grown it."
+      "line": "Borrow?? How can I borrow a seed? I can hardly give it back once I've grown it.",
+      "delivery": "incredulous"
     },
     {
       "character": "Khorvak, a dwarven engineer",
@@ -476,7 +519,8 @@
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "Ah, err, are you offering?"
+      "line": "Ah, err, are you offering?",
+      "delivery": "drunk, hopeful"
     },
     {
       "character": "Player",
@@ -484,7 +528,8 @@
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "I've never ashked you for a drink in my life!"
+      "line": "I've never ashked you for a drink in my life!",
+      "delivery": "drunk, indignant"
     },
     {
       "character": "Player",
@@ -496,7 +541,8 @@
     },
     {
       "character": "Player",
-      "line": "That's not the point!"
+      "line": "That's not the point!",
+      "delivery": "frustrated"
     },
     {
       "character": "Khorvak, a dwarven engineer",
@@ -512,7 +558,8 @@
     },
     {
       "character": "Player",
-      "line": "Now do you want it or not? I'm not asking you again!"
+      "line": "Now do you want it or not? I'm not asking you again!",
+      "delivery": "impatient, firm"
     },
     {
       "character": "Khorvak, a dwarven engineer",
@@ -520,19 +567,23 @@
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "Hmm, that shtout was delicious... here, have my invaluable Kelda hop sheed now, it wash my lasht one."
+      "line": "Hmm, that shtout was delicious... here, have my invaluable Kelda hop sheed now, it wash my lasht one.",
+      "delivery": "drunk, satisfied"
     },
     {
       "character": "Player",
-      "line": "Er, well, I was going to offer you a dwarven stout, but I seem to have left it in my other pants."
+      "line": "Er, well, I was going to offer you a dwarven stout, but I seem to have left it in my other pants.",
+      "delivery": "sheepish, fibbing"
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "Haha, you make me laugh human!"
+      "line": "Haha, you make me laugh human!",
+      "delivery": "drunk, jovial"
     },
     {
       "character": "Player",
-      "line": "Shtouts are just on the table over there, help yourshelf!"
+      "line": "Shtouts are just on the table over there, help yourshelf!",
+      "delivery": "playful"
     },
     {
       "character": "Player",
@@ -544,7 +595,8 @@
     },
     {
       "character": "Player",
-      "line": "Of course, of course! After I've grown my Kelda seeds into hops, then harvested the hops and brewed my Kelda stout... sure, I'll give you back your seed!"
+      "line": "Of course, of course! After I've grown my Kelda seeds into hops, then harvested the hops and brewed my Kelda stout... sure, I'll give you back your seed!",
+      "delivery": "glib, reassuring"
     },
     {
       "character": "Khorvak, a dwarven engineer",
@@ -556,7 +608,8 @@
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "Hey, err... wait... wait a second! Hey, wait!"
+      "line": "Hey, err... wait... wait a second! Hey, wait!",
+      "delivery": "drunk, alarmed"
     },
     {
       "character": "Player",
@@ -564,7 +617,8 @@
     },
     {
       "character": "Khorvak, a dwarven engineer",
-      "line": "How are you goin' to give me back my sheed once you've made the Kelda stout? You'll be too drunk to find your way back here!"
+      "line": "How are you goin' to give me back my sheed once you've made the Kelda stout? You'll be too drunk to find your way back here!",
+      "delivery": "drunk, suspicious"
     },
     {
       "character": "Player",
@@ -584,7 +638,8 @@
     },
     {
       "character": "Barman",
-      "line": "We don't serve that sort of brew here, this is a high class establishment!"
+      "line": "We don't serve that sort of brew here, this is a high class establishment!",
+      "delivery": "snobbish, affronted"
     },
     {
       "character": "Player",
@@ -596,7 +651,8 @@
     },
     {
       "character": "Barman",
-      "line": "But I doubt it. Kelda stout is very rare these days. Fortunately."
+      "line": "But I doubt it. Kelda stout is very rare these days. Fortunately.",
+      "delivery": "disdainful"
     },
     {
       "character": "Player",
@@ -604,7 +660,8 @@
     },
     {
       "character": "Gauss",
-      "line": "A good day to you, sir!"
+      "line": "A good day to you, sir!",
+      "delivery": "cheerful, hearty"
     },
     {
       "character": "Player",
@@ -640,15 +697,18 @@
     },
     {
       "character": "Gauss",
-      "line": "Have a toast to our good health with me and I'll tell you!"
+      "line": "Have a toast to our good health with me and I'll tell you!",
+      "delivery": "jovial, inviting"
     },
     {
       "character": "Player",
-      "line": "Drinking is bad for you, but I'll make an exception this time."
+      "line": "Drinking is bad for you, but I'll make an exception this time.",
+      "delivery": "wry"
     },
     {
       "character": "Gauss",
-      "line": "Hurrah for the human!"
+      "line": "Hurrah for the human!",
+      "delivery": "boisterous"
     },
     {
       "character": "Player",
@@ -660,7 +720,8 @@
     },
     {
       "character": "Gauss",
-      "line": "That was fun! Here, I've got one Kelda seed left. A sociable chap like you is more than welcome to it."
+      "line": "That was fun! Here, I've got one Kelda seed left. A sociable chap like you is more than welcome to it.",
+      "delivery": "merry, generous"
     },
     {
       "character": "Player",
@@ -696,7 +757,8 @@
     },
     {
       "character": "Rind the gardener",
-      "line": "Marvelous, those seeds are quite rare don't you know!"
+      "line": "Marvelous, those seeds are quite rare don't you know!",
+      "delivery": "delighted"
     },
     {
       "character": "Rind the gardener",
@@ -748,7 +810,8 @@
     },
     {
       "character": "Player",
-      "line": "Do I have to do that? I just want to grow my hops and get on with my quest for Veldaban."
+      "line": "Do I have to do that? I just want to grow my hops and get on with my quest for Veldaban.",
+      "delivery": "impatient, grumbling"
     },
     {
       "character": "Rind the gardener",
@@ -768,7 +831,8 @@
     },
     {
       "character": "Player",
-      "line": "I'd rather just sit here and stare at this patch, thanks."
+      "line": "I'd rather just sit here and stare at this patch, thanks.",
+      "delivery": "wry, lazy"
     },
     {
       "character": "Rind the gardener",
@@ -800,11 +864,13 @@
     },
     {
       "character": "Player",
-      "line": "No, sorry, I lost your letter."
+      "line": "No, sorry, I lost your letter.",
+      "delivery": "sheepish"
     },
     {
       "character": "Rind the gardener",
-      "line": "That's a little clumsy, ! Here, I've got a copy, please deliver this one instead."
+      "line": "That's a little clumsy, ! Here, I've got a copy, please deliver this one instead.",
+      "delivery": "mildly chiding"
     },
     {
       "character": "Player",
@@ -836,7 +902,8 @@
     },
     {
       "character": "Rind the gardener",
-      "line": "Wonderful, that's just wonderful! Here, have these two seeds as a reward. They may not be Kelda hop seeds, but you should be able to grow a decent amount of herbs with them."
+      "line": "Wonderful, that's just wonderful! Here, have these two seeds as a reward. They may not be Kelda hop seeds, but you should be able to grow a decent amount of herbs with them.",
+      "delivery": "delighted, generous"
     },
     {
       "character": "Rind the gardener",
@@ -852,7 +919,8 @@
     },
     {
       "character": "Rind the gardener",
-      "line": "Haha, it doesn't quite work like that, I'm afraid!"
+      "line": "Haha, it doesn't quite work like that, I'm afraid!",
+      "delivery": "amused"
     },
     {
       "character": "Rind the gardener",
@@ -888,7 +956,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "I want my Kelda shtout!"
+      "line": "I want my Kelda shtout!",
+      "delivery": "drunk, whining"
     },
     {
       "character": "Player",
@@ -900,15 +969,18 @@
     },
     {
       "character": "Rind the gardener",
-      "line": "Just have patience, my young friend! Have a wander around town, see if anyone has jobs for you!"
+      "line": "Just have patience, my young friend! Have a wander around town, see if anyone has jobs for you!",
+      "delivery": "patient, kindly"
     },
     {
       "character": "Player",
-      "line": "I'm just so angry, my hops aren't fermenting at all. I want my Kelda stout!"
+      "line": "I'm just so angry, my hops aren't fermenting at all. I want my Kelda stout!",
+      "delivery": "angry, frustrated"
     },
     {
       "character": "Rind the gardener",
-      "line": "Now now, my young human friend! Are you sure about that?"
+      "line": "Now now, my young human friend! Are you sure about that?",
+      "delivery": "soothing"
     },
     {
       "character": "Rind the gardener",
@@ -916,7 +988,8 @@
     },
     {
       "character": "Player",
-      "line": "This stout seems absolutely vile and disgusting. Besides, I'm supposed to bring it to my drunken, kebab obsessed friend."
+      "line": "This stout seems absolutely vile and disgusting. Besides, I'm supposed to bring it to my drunken, kebab obsessed friend.",
+      "delivery": "disgusted"
     },
     {
       "character": "Player",
@@ -932,7 +1005,8 @@
     },
     {
       "character": "Barmaid",
-      "line": "Here, I found a little left over Kelda stout, just enough for a glass. Take it."
+      "line": "Here, I found a little left over Kelda stout, just enough for a glass. Take it.",
+      "delivery": "kindly, generous"
     },
     {
       "character": "Player",
@@ -960,15 +1034,18 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "Well hurry up! I'm dying of thirsht!"
+      "line": "Well hurry up! I'm dying of thirsht!",
+      "delivery": "drunk, impatient"
     },
     {
       "character": "Player",
-      "line": "I've got some Kelda stout right here. I just brewed it in the Laughing Miner!"
+      "line": "I've got some Kelda stout right here. I just brewed it in the Laughing Miner!",
+      "delivery": "triumphant"
     },
     {
       "character": "Drunken Dwarf",
-      "line": "Now there'sh a good human, gimme that!"
+      "line": "Now there'sh a good human, gimme that!",
+      "delivery": "drunk, greedy"
     },
     {
       "character": "Player",
@@ -976,7 +1053,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "You want to hear about the Red Kebabsh or what? I mean... the Red Axe."
+      "line": "You want to hear about the Red Kebabsh or what? I mean... the Red Axe.",
+      "delivery": "drunk, muddled"
     },
     {
       "character": "Player",
@@ -984,11 +1062,13 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "Ooooh, THAT'sh the good shtuff!"
+      "line": "Ooooh, THAT'sh the good shtuff!",
+      "delivery": "drunk, blissful"
     },
     {
       "character": "Drunken Dwarf",
-      "line": "The Red Axe? You want to know about them, do you? Then let me tell you my tale. It is long and quite unforgettable..."
+      "line": "The Red Axe? You want to know about them, do you? Then let me tell you my tale. It is long and quite unforgettable...",
+      "delivery": "drunk, grandiose"
     },
     {
       "character": "Drunken Dwarf",
@@ -996,7 +1076,8 @@
     },
     {
       "character": "Player",
-      "line": "The what? The Magenta Accordion? That's not a mining company!"
+      "line": "The what? The Magenta Accordion? That's not a mining company!",
+      "delivery": "incredulous"
     },
     {
       "character": "Drunken Dwarf",
@@ -1004,7 +1085,8 @@
     },
     {
       "character": "Player",
-      "line": "Alright, if you say so..."
+      "line": "Alright, if you say so...",
+      "delivery": "skeptical, humoring"
     },
     {
       "character": "Drunken Dwarf",
@@ -1020,7 +1102,8 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "...and then I nearly fell into the Abyss! But I..."
+      "line": "...and then I nearly fell into the Abyss! But I...",
+      "delivery": "drunk, dramatic"
     },
     {
       "character": "Drunken Dwarf",
@@ -1032,19 +1115,23 @@
     },
     {
       "character": "Drunken Dwarf",
-      "line": "...and I don't really remember anything after that. People think I'm a drunken fool."
+      "line": "...and I don't really remember anything after that. People think I'm a drunken fool.",
+      "delivery": "drunk, mournful"
     },
     {
       "character": "Player",
-      "line": "That was very interesting! I'll ignore that part with the pink dragons though..."
+      "line": "That was very interesting! I'll ignore that part with the pink dragons though...",
+      "delivery": "bemused, humoring"
     },
     {
       "character": "Player",
-      "line": "But I shall investigate that tunnel immediately! South of the cart station, just south of the carts to White Wolf mountain?"
+      "line": "But I shall investigate that tunnel immediately! South of the cart station, just south of the carts to White Wolf mountain?",
+      "delivery": "determined, excited"
     },
     {
       "character": "Drunken Dwarf",
-      "line": "If you shay sho... I just want to smash up shome shtuff now."
+      "line": "If you shay sho... I just want to smash up shome shtuff now.",
+      "delivery": "drunk, belligerent"
     },
     {
       "character": "Drunken Dwarf",
@@ -1052,11 +1139,13 @@
     },
     {
       "character": "Player",
-      "line": "But that tale you told me!"
+      "line": "But that tale you told me!",
+      "delivery": "exasperated"
     },
     {
       "character": "Drunken Dwarf",
-      "line": "I don't know what you're *hic* talking 'bout."
+      "line": "I don't know what you're *hic* talking 'bout.",
+      "delivery": "drunk, oblivious"
     },
     {
       "character": "Player",
@@ -1100,7 +1189,8 @@
     },
     {
       "character": "Player",
-      "line": "At least tell me who can, please?"
+      "line": "At least tell me who can, please?",
+      "delivery": "pleading, exasperated"
     },
     {
       "character": "Cart conductor",
@@ -1124,7 +1214,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Hello ! Have you seen the statue? It looks beautiful! It's a pity it's been overshadowed by the departure of the Red Axe."
+      "line": "Hello ! Have you seen the statue? It looks beautiful! It's a pity it's been overshadowed by the departure of the Red Axe.",
+      "delivery": "cheerful, wistful"
     },
     {
       "character": "Player",
@@ -1132,7 +1223,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Ah, and what would be lurking behind this particular tunnel?"
+      "line": "Ah, and what would be lurking behind this particular tunnel?",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -1140,11 +1232,13 @@
     },
     {
       "character": "[company name] Director",
-      "line": "The Red Axe!"
+      "line": "The Red Axe!",
+      "delivery": "alarmed, emphatic"
     },
     {
       "character": "[company name] Director",
-      "line": "This is indeed an important issue. They've gone too far this time. A major company willingly leaving the Consortium has never happened before."
+      "line": "This is indeed an important issue. They've gone too far this time. A major company willingly leaving the Consortium has never happened before.",
+      "delivery": "grave, indignant"
     },
     {
       "character": "Player",
@@ -1152,7 +1246,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Forthwith, forthwith! I'll order the removal at once!"
+      "line": "Forthwith, forthwith! I'll order the removal at once!",
+      "delivery": "decisive, energetic"
     },
     {
       "character": "Player",
@@ -1188,19 +1283,23 @@
     },
     {
       "character": "Ogre shaman",
-      "line": "Me dead human!"
+      "line": "Me dead human!",
+      "delivery": "menacing, eager"
     },
     {
       "character": "Red Axe Director",
-      "line": "No, not yet. He may still prove useful to us."
+      "line": "No, not yet. He may still prove useful to us.",
+      "delivery": "cold, calculating"
     },
     {
       "character": "Red Axe Henchman",
-      "line": "My axe on his head would be more useful!"
+      "line": "My axe on his head would be more useful!",
+      "delivery": "bloodthirsty"
     },
     {
       "character": "Red Axe Director",
-      "line": "Forget about the human and the statue for now. Our experiments are more important."
+      "line": "Forget about the human and the statue for now. Our experiments are more important.",
+      "delivery": "commanding, cold"
     },
     {
       "character": "Red Axe Henchman",
@@ -1216,23 +1315,28 @@
     },
     {
       "character": "Red Axe Henchman",
-      "line": "Our slaves are too weak, it will never work."
+      "line": "Our slaves are too weak, it will never work.",
+      "delivery": "gruff, doubtful"
     },
     {
       "character": "Red Axe Director",
-      "line": "Yes, things would have been so much easier with the statue."
+      "line": "Yes, things would have been so much easier with the statue.",
+      "delivery": "rueful, scheming"
     },
     {
       "character": "Red Axe Henchman",
-      "line": "It was a great plan! Sabotaging the base of the statue and bribing that boatman to crash into it!"
+      "line": "It was a great plan! Sabotaging the base of the statue and bribing that boatman to crash into it!",
+      "delivery": "boastful, gleeful"
     },
     {
       "character": "Red Axe Director",
-      "line": "And we would have gotten away with it too, if it wasn't for that pesky human."
+      "line": "And we would have gotten away with it too, if it wasn't for that pesky human.",
+      "delivery": "bitter, resentful"
     },
     {
       "character": "Player",
-      "line": "Pesky human, huh? Well, I think I have enough info now. I'd better explore the rest of these mines."
+      "line": "Pesky human, huh? Well, I think I have enough info now. I'd better explore the rest of these mines.",
+      "delivery": "wry, smug"
     },
     {
       "character": "Player",
@@ -1248,15 +1352,18 @@
     },
     {
       "character": "Player",
-      "line": "Statistical data, salary structures, shopping lists... no, I don't think there's anything interesting here."
+      "line": "Statistical data, salary structures, shopping lists... no, I don't think there's anything interesting here.",
+      "delivery": "bored, muttering"
     },
     {
       "character": "Player",
-      "line": "What the Guthix is this? Another chasm? And even more tracks!"
+      "line": "What the Guthix is this? Another chasm? And even more tracks!",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "There's the Red Axe director again!"
+      "line": "There's the Red Axe director again!",
+      "delivery": "alert, hushed"
     },
     {
       "character": "Red Axe Director",
@@ -1264,11 +1371,13 @@
     },
     {
       "character": "Colonel Grimsson",
-      "line": "The test subjects are still alive, director. They will suffice as soldiers."
+      "line": "The test subjects are still alive, director. They will suffice as soldiers.",
+      "delivery": "harsh, clipped"
     },
     {
       "character": "Red Axe Director",
-      "line": "Excellent! We are improving. Laneel!"
+      "line": "Excellent! We are improving. Laneel!",
+      "delivery": "gleeful, commanding"
     },
     {
       "character": "Red Axe Director",
@@ -1284,27 +1393,33 @@
     },
     {
       "character": "Red Axe Director",
-      "line": "Behold the power of Zamorak!"
+      "line": "Behold the power of Zamorak!",
+      "delivery": "theatrical, triumphant"
     },
     {
       "character": "Player",
-      "line": "Chaos dwarves!!!"
+      "line": "Chaos dwarves!!!",
+      "delivery": "shocked, horrified"
     },
     {
       "character": "Player",
-      "line": "I must tell Veldaban!!!"
+      "line": "I must tell Veldaban!!!",
+      "delivery": "urgent, alarmed"
     },
     {
       "character": "Grunsh",
-      "line": "Lookings likes we's finding da spying creatures'ies!"
+      "line": "Lookings likes we's finding da spying creatures'ies!",
+      "delivery": "menacing, slow"
     },
     {
       "character": "Player",
-      "line": "Nooooooo!"
+      "line": "Nooooooo!",
+      "delivery": "shouting, terrified"
     },
     {
       "character": "Player",
-      "line": "Er, what? Where am I? Errrrr... I must tell Veldaban... something. Yes... ehm. I don't remember what though. Errr..."
+      "line": "Er, what? Where am I? Errrrr... I must tell Veldaban... something. Yes... ehm. I don't remember what though. Errr...",
+      "delivery": "dazed, confused"
     },
     {
       "character": "Player",
@@ -1316,15 +1431,18 @@
     },
     {
       "character": "Player",
-      "line": "I must tell you about... about..."
+      "line": "I must tell you about... about...",
+      "delivery": "struggling to recall"
     },
     {
       "character": "Player",
-      "line": "...about my incredible craving for a kebab. Mmm, kebabs. A kebab and a beer, that sounds great right now."
+      "line": "...about my incredible craving for a kebab. Mmm, kebabs. A kebab and a beer, that sounds great right now.",
+      "delivery": "dreamy, distracted"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Errr, are you alright? Don't you have any important information about the Red Axe?"
+      "line": "Errr, are you alright? Don't you have any important information about the Red Axe?",
+      "delivery": "concerned, puzzled"
     },
     {
       "character": "Player",
@@ -1332,11 +1450,13 @@
     },
     {
       "character": "Player",
-      "line": "Watch out kebabs, I come for you!"
+      "line": "Watch out kebabs, I come for you!",
+      "delivery": "manic, giddy"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Poor, I think you've been bewitched."
+      "line": "Poor, I think you've been bewitched.",
+      "delivery": "pitying"
     },
     {
       "character": "Commander Veldaban",
@@ -1344,7 +1464,8 @@
     },
     {
       "character": "Player",
-      "line": "Yes... yes... Red... ehm. Red..."
+      "line": "Yes... yes... Red... ehm. Red...",
+      "delivery": "foggy, struggling"
     },
     {
       "character": "Player",
@@ -1352,11 +1473,13 @@
     },
     {
       "character": "Player",
-      "line": "I will feast on kebabs and beer! Ahahaha!"
+      "line": "I will feast on kebabs and beer! Ahahaha!",
+      "delivery": "manic, laughing"
     },
     {
       "character": "Player",
-      "line": "I knew it were you matey! 'Ere, have some of the good stuff!"
+      "line": "I knew it were you matey! 'Ere, have some of the good stuff!",
+      "delivery": "drunk, jovial"
     },
     {
       "character": "Drunken Dwarf",
@@ -1372,11 +1495,13 @@
     },
     {
       "character": "Gauss",
-      "line": "Haha, kebabs!"
+      "line": "Haha, kebabs!",
+      "delivery": "drunk, laughing"
     },
     {
       "character": "Player",
-      "line": "Right, these kebabsh, right? *hic* A whole g-g-group of kebabs came marching in! I'm telling you! Marching in line!"
+      "line": "Right, these kebabsh, right? *hic* A whole g-g-group of kebabs came marching in! I'm telling you! Marching in line!",
+      "delivery": "drunk, animated"
     },
     {
       "character": "Player",
@@ -1384,11 +1509,13 @@
     },
     {
       "character": "Player",
-      "line": "Then I'll have another drink!"
+      "line": "Then I'll have another drink!",
+      "delivery": "drunk, triumphant"
     },
     {
       "character": "Colonel Grimsson",
-      "line": "Ha, the spell has worked its magic again."
+      "line": "Ha, the spell has worked its magic again.",
+      "delivery": "cruel, satisfied"
     },
     {
       "character": "Colonel Grimsson",
@@ -1400,11 +1527,13 @@
     },
     {
       "character": "Player",
-      "line": "I think... I think I must have. It's so hard to remember."
+      "line": "I think... I think I must have. It's so hard to remember.",
+      "delivery": "foggy, uncertain"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Please, try to!"
+      "line": "Please, try to!",
+      "delivery": "urgent, imploring"
     },
     {
       "character": "Player",
@@ -1412,15 +1541,18 @@
     },
     {
       "character": "Player",
-      "line": "I don't know, I think something terrible has happened, but everyone seems to think I'm an idiot for some reason..."
+      "line": "I don't know, I think something terrible has happened, but everyone seems to think I'm an idiot for some reason...",
+      "delivery": "troubled, frustrated"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Don't worry, I believe you. You must have been put under a spell of some sort to make you forget."
+      "line": "Don't worry, I believe you. You must have been put under a spell of some sort to make you forget.",
+      "delivery": "reassuring, grave"
     },
     {
       "character": "Commander Veldaban",
-      "line": "I suppose we'll just have to wait and see what happens."
+      "line": "I suppose we'll just have to wait and see what happens.",
+      "delivery": "resigned, ominous"
     }
   ],
   "characters": [

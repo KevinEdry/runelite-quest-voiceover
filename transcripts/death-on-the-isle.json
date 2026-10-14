@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Patzi",
-      "line": "Good day! I don't suppose I could trouble you for the briefest of moments?"
+      "line": "Good day! I don't suppose I could trouble you for the briefest of moments?",
+      "delivery": "charming, theatrical"
     },
     {
       "character": "Player",
@@ -12,7 +13,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Ah, on second thoughts, you may not be cut out for this job."
+      "line": "Ah, on second thoughts, you may not be cut out for this job.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -24,7 +26,8 @@
     },
     {
       "character": "Player",
-      "line": "Well, just as long as I get to actually enjo-"
+      "line": "Well, just as long as I get to actually enjo-",
+      "delivery": "eager, cut off"
     },
     {
       "character": "Patzi",
@@ -40,11 +43,13 @@
     },
     {
       "character": "Patzi",
-      "line": "Alas, I am, quite unfortunately, not rich in money. What I do possess is a certain wealth..."
+      "line": "Alas, I am, quite unfortunately, not rich in money. What I do possess is a certain wealth...",
+      "delivery": "theatrical, wistful"
     },
     {
       "character": "Patzi",
-      "line": "... of talent! For you see I am... an actor! Patzi the Grand, they'll call me... eventually."
+      "line": "... of talent! For you see I am... an actor! Patzi the Grand, they'll call me... eventually.",
+      "delivery": "grandiose"
     },
     {
       "character": "Player",
@@ -64,7 +69,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Wonderful!"
+      "line": "Wonderful!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
@@ -72,7 +78,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Well, that's complicated..."
+      "line": "Well, that's complicated...",
+      "delivery": "evasive"
     },
     {
       "character": "Player",
@@ -80,7 +87,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Sometimes a man has to follow his heart... and a second hand invitation saying there's a party at Villa Lucens tonight."
+      "line": "Sometimes a man has to follow his heart... and a second hand invitation saying there's a party at Villa Lucens tonight.",
+      "delivery": "wistful, theatrical"
     },
     {
       "character": "Player",
@@ -88,7 +96,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Yes! The villa is home to an almighty patron of the arts! He even has his own theatre atop the cliffs behind the villa! In fact, the whole reason for this party is because he's showing his new play!"
+      "line": "Yes! The villa is home to an almighty patron of the arts! He even has his own theatre atop the cliffs behind the villa! In fact, the whole reason for this party is because he's showing his new play!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -116,7 +125,8 @@
     },
     {
       "character": "Adala",
-      "line": "I'm not going to say no to going to a fancy party, even as the help."
+      "line": "I'm not going to say no to going to a fancy party, even as the help.",
+      "delivery": "dry amusement"
     },
     {
       "character": "Patzi",
@@ -132,11 +142,13 @@
     },
     {
       "character": "Player",
-      "line": "Right... So I don't actually get to enjoy the party at all, do I?"
+      "line": "Right... So I don't actually get to enjoy the party at all, do I?",
+      "delivery": "resigned, dry"
     },
     {
       "character": "Patzi",
-      "line": "Oh I'm sure you will. You'll just have to act a little here and there!"
+      "line": "Oh I'm sure you will. You'll just have to act a little here and there!",
+      "delivery": "breezy"
     },
     {
       "character": "Player",
@@ -156,7 +168,8 @@
     },
     {
       "character": "Player",
-      "line": "Are you suggesting I steal one?"
+      "line": "Are you suggesting I steal one?",
+      "delivery": "incredulous"
     },
     {
       "character": "Adala",
@@ -164,7 +177,8 @@
     },
     {
       "character": "Player",
-      "line": "And I'm sure whoever I take it from will be overjoyed to have had someone else wearing their uniform."
+      "line": "And I'm sure whoever I take it from will be overjoyed to have had someone else wearing their uniform.",
+      "delivery": "sarcastic"
     },
     {
       "character": "Patzi",
@@ -188,7 +202,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Quite unfortunate. In that case, please make sure to keep an eye out for me at your local theatre. I'll be a star soon!"
+      "line": "Quite unfortunate. In that case, please make sure to keep an eye out for me at your local theatre. I'll be a star soon!",
+      "delivery": "grandiose, hopeful"
     },
     {
       "character": "Patzi",
@@ -216,7 +231,8 @@
     },
     {
       "character": "Adala",
-      "line": "I believe so. Once you get there, you should keep an eye out for any guards. Wouldn't want you to get arrested before the party starts!"
+      "line": "I believe so. Once you get there, you should keep an eye out for any guards. Wouldn't want you to get arrested before the party starts!",
+      "delivery": "casual, sly"
     },
     {
       "character": "Player",
@@ -228,7 +244,8 @@
     },
     {
       "character": "Wandering Guard",
-      "line": "I definitely wouldn't recommend it."
+      "line": "I definitely wouldn't recommend it.",
+      "delivery": "gruff, deadpan"
     },
     {
       "character": "Adala",
@@ -244,11 +261,13 @@
     },
     {
       "character": "Player",
-      "line": "Lucky indeed. It's almost like you were specifically looking for them?"
+      "line": "Lucky indeed. It's almost like you were specifically looking for them?",
+      "delivery": "suspicious"
     },
     {
       "character": "Adala",
-      "line": "Just good fortune. Now, I ought to get a move on getting this bag inside."
+      "line": "Just good fortune. Now, I ought to get a move on getting this bag inside.",
+      "delivery": "breezy, deflecting"
     },
     {
       "character": "Patzi",
@@ -272,11 +291,13 @@
     },
     {
       "character": "Player",
-      "line": "Don't tell me..."
+      "line": "Don't tell me...",
+      "delivery": "dread"
     },
     {
       "character": "Patzi",
-      "line": "You'll have to go in through the staff entrance, unfortunately. I can't be seen entering with the help."
+      "line": "You'll have to go in through the staff entrance, unfortunately. I can't be seen entering with the help.",
+      "delivery": "haughty"
     },
     {
       "character": "Player",
@@ -284,7 +305,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Sorry, just getting into character."
+      "line": "Sorry, just getting into character.",
+      "delivery": "sheepish"
     },
     {
       "character": "Patzi",
@@ -308,7 +330,8 @@
     },
     {
       "character": "Villa Guard",
-      "line": "Sorry, entry here is for guests only."
+      "line": "Sorry, entry here is for guests only.",
+      "delivery": "firm, formal"
     },
     {
       "character": "Player",
@@ -324,7 +347,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "Not without a uniform you're not."
+      "line": "Not without a uniform you're not.",
+      "delivery": "firm"
     },
     {
       "character": "Head Butler",
@@ -336,7 +360,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "A hold up? Nothing bad I hope? I've known people to have problems with their employers before. Is yours treating you well?"
+      "line": "A hold up? Nothing bad I hope? I've known people to have problems with their employers before. Is yours treating you well?",
+      "delivery": "concerned"
     },
     {
       "character": "Player",
@@ -344,7 +369,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "Tetamo! Oh dear, oh dear. Are you part of a union?"
+      "line": "Tetamo! Oh dear, oh dear. Are you part of a union?",
+      "delivery": "alarmed, earnest"
     },
     {
       "character": "Player",
@@ -352,7 +378,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "We have a fantastic one here on Aldarin, if you're interested. I can't say discussions are effective, but sometimes the wealthy do come to the table!"
+      "line": "We have a fantastic one here on Aldarin, if you're interested. I can't say discussions are effective, but sometimes the wealthy do come to the table!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Player",
@@ -440,11 +467,13 @@
     },
     {
       "character": "Patzi",
-      "line": "You made it in, and don't you look the part! Magnificent!"
+      "line": "You made it in, and don't you look the part! Magnificent!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
-      "line": "I feel like a court jester..."
+      "line": "I feel like a court jester...",
+      "delivery": "glum, dry"
     },
     {
       "character": "Player",
@@ -456,7 +485,8 @@
     },
     {
       "character": "Player",
-      "line": "Hang on, I'm meant to be an anonymous butler. How do you expect me to get to know people for you?"
+      "line": "Hang on, I'm meant to be an anonymous butler. How do you expect me to get to know people for you?",
+      "delivery": "exasperated"
     },
     {
       "character": "Patzi",
@@ -464,7 +494,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay... Anything else I can do for you, especially things you could easily do for yourself?"
+      "line": "Okay... Anything else I can do for you, especially things you could easily do for yourself?",
+      "delivery": "dry, sarcastic"
     },
     {
       "character": "Patzi",
@@ -480,7 +511,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "So, this is grand isn't it?"
+      "line": "So, this is grand isn't it?",
+      "delivery": "proud, warm"
     },
     {
       "character": "Player",
@@ -496,7 +528,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "Yes, that slightly pompous fellow that hasn't introduced himself to anyone yet. The fact that he's here means he must have gained an invitation, though I don't know how..."
+      "line": "Yes, that slightly pompous fellow that hasn't introduced himself to anyone yet. The fact that he's here means he must have gained an invitation, though I don't know how...",
+      "delivery": "mildly disdainful"
     },
     {
       "character": "Player",
@@ -508,11 +541,13 @@
     },
     {
       "character": "Player",
-      "line": "Oh good, because it's actually him who I'm here with. He was very keen to meet you, even though he didn't actually know your name..."
+      "line": "Oh good, because it's actually him who I'm here with. He was very keen to meet you, even though he didn't actually know your name...",
+      "delivery": "awkward"
     },
     {
       "character": "Constantinius",
-      "line": "I can't believe it! How could he not even know the name of his gracious host?"
+      "line": "I can't believe it! How could he not even know the name of his gracious host?",
+      "delivery": "affronted"
     },
     {
       "character": "Player",
@@ -520,7 +555,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "He's an actor you say? Ah, now that explains why he was so eager to be here. Well, if he's good, this might be his lucky day. I, Constantinius, am in the market for a new actor to sponsor."
+      "line": "He's an actor you say? Ah, now that explains why he was so eager to be here. Well, if he's good, this might be his lucky day. I, Constantinius, am in the market for a new actor to sponsor.",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -528,7 +564,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "Well, you know actors. Very profitable once they're popular. I like to... make investments."
+      "line": "Well, you know actors. Very profitable once they're popular. I like to... make investments.",
+      "delivery": "sly"
     },
     {
       "character": "Constantinius",
@@ -564,11 +601,13 @@
     },
     {
       "character": "Player",
-      "line": "And you're definitely okay with me and my... we'll call him my employer, I guess. You're definitely okay with us being here?"
+      "line": "And you're definitely okay with me and my... we'll call him my employer, I guess. You're definitely okay with us being here?",
+      "delivery": "hesitant"
     },
     {
       "character": "Constantinius",
-      "line": "Well, we sadly had a few who couldn't attend this time, so I'm actually quite glad you're here. Still, I wouldn't mind knowing how your employer managed to acquire an invitation..."
+      "line": "Well, we sadly had a few who couldn't attend this time, so I'm actually quite glad you're here. Still, I wouldn't mind knowing how your employer managed to acquire an invitation...",
+      "delivery": "curious, probing"
     },
     {
       "character": "Player",
@@ -584,7 +623,8 @@
     },
     {
       "character": "Cozyac",
-      "line": "Sir? I thought I'd left that behind when I retired. Please, call me Cozyac."
+      "line": "Sir? I thought I'd left that behind when I retired. Please, call me Cozyac.",
+      "delivery": "genial, warm"
     },
     {
       "character": "Player",
@@ -592,7 +632,8 @@
     },
     {
       "character": "Cozyac",
-      "line": "I seem to remember one of the rules of this party was that the staff were to remain anonymous."
+      "line": "I seem to remember one of the rules of this party was that the staff were to remain anonymous.",
+      "delivery": "gentle amusement"
     },
     {
       "character": "Player",
@@ -600,7 +641,8 @@
     },
     {
       "character": "Cozyac",
-      "line": "I am, yes. Though I am far more excited for tonight's performance. Constantinius says he's hired some of the finest actors for this one!"
+      "line": "I am, yes. Though I am far more excited for tonight's performance. Constantinius says he's hired some of the finest actors for this one!",
+      "delivery": "warm, eager"
     },
     {
       "character": "Player",
@@ -608,7 +650,8 @@
     },
     {
       "character": "Cozyac",
-      "line": "Absolutely! Though I'm starting to feel myself in need of another drink. I don't suppose you could sort that when you have a moment?"
+      "line": "Absolutely! Though I'm starting to feel myself in need of another drink. I don't suppose you could sort that when you have a moment?",
+      "delivery": "genial"
     },
     {
       "character": "Player",
@@ -616,7 +659,8 @@
     },
     {
       "character": "Pavo",
-      "line": "Excuse me! You there!"
+      "line": "Excuse me! You there!",
+      "delivery": "slurred, demanding"
     },
     {
       "character": "Player",
@@ -624,7 +668,8 @@
     },
     {
       "character": "Pavo",
-      "line": "I could do with... another drink."
+      "line": "I could do with... another drink.",
+      "delivery": "slurred"
     },
     {
       "character": "Player",
@@ -632,11 +677,13 @@
     },
     {
       "character": "Pavo",
-      "line": "Alcoholic? I'll have you know that I, Pavo, am most certainly not an alcoholic. Now scram."
+      "line": "Alcoholic? I'll have you know that I, Pavo, am most certainly not an alcoholic. Now scram.",
+      "delivery": "indignant, slurred"
     },
     {
       "character": "Pavo",
-      "line": "Did you get that drink I asked for?"
+      "line": "Did you get that drink I asked for?",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -644,7 +691,8 @@
     },
     {
       "character": "Pavo",
-      "line": "That's my mistake. I'll take some wine... Preferably a barrel of it."
+      "line": "That's my mistake. I'll take some wine... Preferably a barrel of it.",
+      "delivery": "slurred, eager"
     },
     {
       "character": "Player",
@@ -652,7 +700,8 @@
     },
     {
       "character": "Xocotla",
-      "line": "Nilsal to you as well. You seem different to the other staff here. First time?"
+      "line": "Nilsal to you as well. You seem different to the other staff here. First time?",
+      "delivery": "observant"
     },
     {
       "character": "Player",
@@ -660,7 +709,8 @@
     },
     {
       "character": "Xocotla",
-      "line": "You see similar things on boats. People look a bit wobbly until they settle."
+      "line": "You see similar things on boats. People look a bit wobbly until they settle.",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Player",
@@ -676,7 +726,8 @@
     },
     {
       "character": "Xocotla",
-      "line": "I run something of a shipping company. If you need it moving, Xocotla's Got Ya!"
+      "line": "I run something of a shipping company. If you need it moving, Xocotla's Got Ya!",
+      "delivery": "businesslike"
     },
     {
       "character": "Player",
@@ -688,7 +739,8 @@
     },
     {
       "character": "Xocotla",
-      "line": "I'd have preferred not to talk about work, but I suppose you do seem friendly enough."
+      "line": "I'd have preferred not to talk about work, but I suppose you do seem friendly enough.",
+      "delivery": "reluctant"
     },
     {
       "character": "Player",
@@ -700,7 +752,8 @@
     },
     {
       "character": "Xocotla",
-      "line": "Swiftness and discretion are valuable to us, if you catch my drift."
+      "line": "Swiftness and discretion are valuable to us, if you catch my drift.",
+      "delivery": "knowing, low"
     },
     {
       "character": "Patzi",
@@ -712,7 +765,8 @@
     },
     {
       "character": "Player",
-      "line": "Pavo, the drunk one over there. I'm not sure there's much to them other than their love of drinking."
+      "line": "Pavo, the drunk one over there. I'm not sure there's much to them other than their love of drinking.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -724,7 +778,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Pfft, invited? I have an invitation and I can act like I belong here! He'll never know!"
+      "line": "Pfft, invited? I have an invitation and I can act like I belong here! He'll never know!",
+      "delivery": "cocky"
     },
     {
       "character": "Player",
@@ -732,7 +787,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Ah..."
+      "line": "Ah...",
+      "delivery": "deflated"
     },
     {
       "character": "Player",
@@ -740,7 +796,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Sponsoring... me? How marvellous! Oh I think I should have a drink to celebrate! Could you be a dear and go into the wine cellar for me?"
+      "line": "Sponsoring... me? How marvellous! Oh I think I should have a drink to celebrate! Could you be a dear and go into the wine cellar for me?",
+      "delivery": "elated"
     },
     {
       "character": "Player",
@@ -748,7 +805,8 @@
     },
     {
       "character": "Patzi",
-      "line": "Whilst that sounds lovely, I've heard there's some Principum Red down there! It's not produced any more so is rather hard to find, but our generous host seems happy enough to share."
+      "line": "Whilst that sounds lovely, I've heard there's some Principum Red down there! It's not produced any more so is rather hard to find, but our generous host seems happy enough to share.",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -768,7 +826,8 @@
     },
     {
       "character": "Player",
-      "line": "'Cupboard, keep out!' Why does it say keep out?"
+      "line": "'Cupboard, keep out!' Why does it say keep out?",
+      "delivery": "curious, wary"
     },
     {
       "character": "Player",
@@ -776,7 +835,8 @@
     },
     {
       "character": "Player",
-      "line": "Pri...pum Re..."
+      "line": "Pri...pum Re...",
+      "delivery": "squinting, mumbling"
     },
     {
       "character": "Player",
@@ -784,7 +844,8 @@
     },
     {
       "character": "Player",
-      "line": "What... Oh, that's going to stain isn't it..."
+      "line": "What... Oh, that's going to stain isn't it...",
+      "delivery": "dismayed"
     },
     {
       "character": "Player",
@@ -792,11 +853,13 @@
     },
     {
       "character": "Player",
-      "line": "I guess I shouldn't leave without investigating that noise."
+      "line": "I guess I shouldn't leave without investigating that noise.",
+      "delivery": "wary"
     },
     {
       "character": "Player",
-      "line": "Is everything okay?"
+      "line": "Is everything okay?",
+      "delivery": "cautious"
     },
     {
       "character": "Player",
@@ -808,19 +871,23 @@
     },
     {
       "character": "Stradius",
-      "line": "You there! Don't move!"
+      "line": "You there! Don't move!",
+      "delivery": "shouting, commanding"
     },
     {
       "character": "Player",
-      "line": "What the..."
+      "line": "What the...",
+      "delivery": "startled"
     },
     {
       "character": "Hutza",
-      "line": "You're coming with us."
+      "line": "You're coming with us.",
+      "delivery": "firm, authoritative"
     },
     {
       "character": "Stradius",
-      "line": "It's always the butler, isn't it."
+      "line": "It's always the butler, isn't it.",
+      "delivery": "dry, knowing"
     },
     {
       "character": "Hutza",
@@ -832,11 +899,13 @@
     },
     {
       "character": "Stradius",
-      "line": "Murder!"
+      "line": "Murder!",
+      "delivery": "blurting, dramatic"
     },
     {
       "character": "Hutza",
-      "line": "Stradius!"
+      "line": "Stradius!",
+      "delivery": "scolding"
     },
     {
       "character": "Stradius",
@@ -844,23 +913,28 @@
     },
     {
       "character": "Hutza",
-      "line": "It was my turn to level the accusation at a suspect..."
+      "line": "It was my turn to level the accusation at a suspect...",
+      "delivery": "annoyed"
     },
     {
       "character": "Stradius",
-      "line": "How often do we get to handle a murder?"
+      "line": "How often do we get to handle a murder?",
+      "delivery": "excited"
     },
     {
       "character": "Hutza",
-      "line": "You have to respect the systems we have, Stradius!"
+      "line": "You have to respect the systems we have, Stradius!",
+      "delivery": "stern"
     },
     {
       "character": "Player",
-      "line": "I'm still here, in case you forgot?"
+      "line": "I'm still here, in case you forgot?",
+      "delivery": "dry, deadpan"
     },
     {
       "character": "Hutza",
-      "line": "So, murder. Interesting choice at a party full of wealthy people, wouldn't you say?"
+      "line": "So, murder. Interesting choice at a party full of wealthy people, wouldn't you say?",
+      "delivery": "analytical, pointed"
     },
     {
       "character": "Stradius",
@@ -868,7 +942,8 @@
     },
     {
       "character": "Player",
-      "line": "But I didn't kill anyone?"
+      "line": "But I didn't kill anyone?",
+      "delivery": "protesting"
     },
     {
       "character": "Stradius",
@@ -880,7 +955,8 @@
     },
     {
       "character": "Player",
-      "line": "Bloodstains?"
+      "line": "Bloodstains?",
+      "delivery": "alarmed"
     },
     {
       "character": "Hutza",
@@ -888,19 +964,23 @@
     },
     {
       "character": "Player",
-      "line": "You found me in a wine cellar and you won't even consider that it might be wine?"
+      "line": "You found me in a wine cellar and you won't even consider that it might be wine?",
+      "delivery": "exasperated"
     },
     {
       "character": "Stradius",
-      "line": "I suppose I could try tasting it..."
+      "line": "I suppose I could try tasting it...",
+      "delivery": "musing"
     },
     {
       "character": "Hutza",
-      "line": "Stradius! What if it's blood?"
+      "line": "Stradius! What if it's blood?",
+      "delivery": "alarmed"
     },
     {
       "character": "Stradius",
-      "line": "Well, then it won't taste like wine, will it?"
+      "line": "Well, then it won't taste like wine, will it?",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Hutza",
@@ -908,11 +988,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm just going to go..."
+      "line": "I'm just going to go...",
+      "delivery": "edging away"
     },
     {
       "character": "Stradius",
-      "line": "Oh no you won't! You're going to wait right there and answer some questions!"
+      "line": "Oh no you won't! You're going to wait right there and answer some questions!",
+      "delivery": "commanding"
     },
     {
       "character": "Player",
@@ -932,7 +1014,8 @@
     },
     {
       "character": "Player",
-      "line": "I was looking for a wine. Principum Red? Patzi sent me to get some for him to drink. I just happened to hear a commotion and thought someone may have been hurt."
+      "line": "I was looking for a wine. Principum Red? Patzi sent me to get some for him to drink. I just happened to hear a commotion and thought someone may have been hurt.",
+      "delivery": "earnest, explaining"
     },
     {
       "character": "Stradius",
@@ -940,11 +1023,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes!"
+      "line": "Yes!",
+      "delivery": "emphatic"
     },
     {
       "character": "Stradius",
-      "line": "Honestly, I'm sold."
+      "line": "Honestly, I'm sold.",
+      "delivery": "earnest, convinced"
     },
     {
       "character": "Hutza",
@@ -956,7 +1041,8 @@
     },
     {
       "character": "Stradius",
-      "line": "I'm afraid we can't just let you go. Not without an investigation."
+      "line": "I'm afraid we can't just let you go. Not without an investigation.",
+      "delivery": "apologetic"
     },
     {
       "character": "Hutza",
@@ -972,7 +1058,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay... Well, much like I didn't kill that man, I suppose I don't want to hurt your careers. Maybe I could catch the killer!"
+      "line": "Okay... Well, much like I didn't kill that man, I suppose I don't want to hurt your careers. Maybe I could catch the killer!",
+      "delivery": "hopeful, scheming"
     },
     {
       "character": "Hutza",
@@ -988,11 +1075,13 @@
     },
     {
       "character": "Player",
-      "line": "But I'm not even a butler! I got hired to act like one!"
+      "line": "But I'm not even a butler! I got hired to act like one!",
+      "delivery": "frustrated"
     },
     {
       "character": "Hutza",
-      "line": "Right, now I have to put murder back on the table! Who are you?"
+      "line": "Right, now I have to put murder back on the table! Who are you?",
+      "delivery": "suspicious, sharp"
     },
     {
       "character": "Player",
@@ -1016,11 +1105,13 @@
     },
     {
       "character": "Player",
-      "line": "You mean she was only accounted for after the murder took place?"
+      "line": "You mean she was only accounted for after the murder took place?",
+      "delivery": "suspicious"
     },
     {
       "character": "Stradius",
-      "line": "Why do I get the feeling we're not doing a good job of actually investigating this?"
+      "line": "Why do I get the feeling we're not doing a good job of actually investigating this?",
+      "delivery": "sheepish"
     },
     {
       "character": "Hutza",
@@ -1040,7 +1131,8 @@
     },
     {
       "character": "Hutza",
-      "line": "I agree, but we're not actually very qualified for this. We normally just guard drunk people, not solve murders!"
+      "line": "I agree, but we're not actually very qualified for this. We normally just guard drunk people, not solve murders!",
+      "delivery": "candid, exasperated"
     },
     {
       "character": "Stradius",
@@ -1052,11 +1144,13 @@
     },
     {
       "character": "Player",
-      "line": "I... promise not to flee the scene?"
+      "line": "I... promise not to flee the scene?",
+      "delivery": "reluctant, wry"
     },
     {
       "character": "Stradius",
-      "line": "Perfect! Shall we get to investigating then?"
+      "line": "Perfect! Shall we get to investigating then?",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -1076,7 +1170,8 @@
     },
     {
       "character": "Hutza",
-      "line": "And where do you think you're going?"
+      "line": "And where do you think you're going?",
+      "delivery": "stern"
     },
     {
       "character": "Player",
@@ -1108,23 +1203,28 @@
     },
     {
       "character": "Stradius",
-      "line": "You will probably be dead by then though..."
+      "line": "You will probably be dead by then though...",
+      "delivery": "casual, grim"
     },
     {
       "character": "Hutza",
-      "line": "On the bright side, it would prove your innocence."
+      "line": "On the bright side, it would prove your innocence.",
+      "delivery": "dry"
     },
     {
       "character": "Patzi",
-      "line": "Oh, this is exciting isn't it!"
+      "line": "Oh, this is exciting isn't it!",
+      "delivery": "giddy, oblivious"
     },
     {
       "character": "Player",
-      "line": "I got arrested for murder because you sent me into that cellar!"
+      "line": "I got arrested for murder because you sent me into that cellar!",
+      "delivery": "accusatory, exasperated"
     },
     {
       "character": "Patzi",
-      "line": "Did you at least manage to find what I sent you down there for?"
+      "line": "Did you at least manage to find what I sent you down there for?",
+      "delivery": "oblivious"
     },
     {
       "character": "Player",
@@ -1140,11 +1240,13 @@
     },
     {
       "character": "Patzi",
-      "line": "It's a shame we're locked down up here. I'd love to try it! I came so close too, if it weren't for that actor..."
+      "line": "It's a shame we're locked down up here. I'd love to try it! I came so close too, if it weren't for that actor...",
+      "delivery": "lamenting"
     },
     {
       "character": "Player",
-      "line": "Are you blaming Livius for his own murder?"
+      "line": "Are you blaming Livius for his own murder?",
+      "delivery": "incredulous"
     },
     {
       "character": "Patzi",
@@ -1152,7 +1254,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "Oh poor Livius! Where am I to find another actor of his calibre?"
+      "line": "Oh poor Livius! Where am I to find another actor of his calibre?",
+      "delivery": "mournful, dramatic"
     },
     {
       "character": "Player",
@@ -1164,7 +1267,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "I can only hope his understudy is capable of filling the gap that's going to be left. Livius always kept her in the shadows, though he did say that she was nearly ready for a leading role of her own..."
+      "line": "I can only hope his understudy is capable of filling the gap that's going to be left. Livius always kept her in the shadows, though he did say that she was nearly ready for a leading role of her own...",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -1188,11 +1292,13 @@
     },
     {
       "character": "Cozyac",
-      "line": "I'm an older man. I need a good early night to keep myself going. I am partial to a puzzle though, so solving this crime could keep me up all night!"
+      "line": "I'm an older man. I need a good early night to keep myself going. I am partial to a puzzle though, so solving this crime could keep me up all night!",
+      "delivery": "genial, intrigued"
     },
     {
       "character": "Pavo",
-      "line": "You know, it's a surprisingly sobering moment when someone's murdered beneath your feet."
+      "line": "You know, it's a surprisingly sobering moment when someone's murdered beneath your feet.",
+      "delivery": "subdued, slurred"
     },
     {
       "character": "Player",
@@ -1200,7 +1306,8 @@
     },
     {
       "character": "Pavo",
-      "line": "We were once drinking fellows. The things I've seen him drink without even breaking a sweat..."
+      "line": "We were once drinking fellows. The things I've seen him drink without even breaking a sweat...",
+      "delivery": "wistful, slurred"
     },
     {
       "character": "Player",
@@ -1208,7 +1315,8 @@
     },
     {
       "character": "Pavo",
-      "line": "I don't remember... It seems likely that I would've though. He never liked to prepare for a performance without at least a small drink."
+      "line": "I don't remember... It seems likely that I would've though. He never liked to prepare for a performance without at least a small drink.",
+      "delivery": "hazy"
     },
     {
       "character": "Player",
@@ -1224,7 +1332,8 @@
     },
     {
       "character": "Pavo",
-      "line": "I'd like to think that I would remember something so terrible happening in front of my eyes."
+      "line": "I'd like to think that I would remember something so terrible happening in front of my eyes.",
+      "delivery": "defensive"
     },
     {
       "character": "Player",
@@ -1232,11 +1341,13 @@
     },
     {
       "character": "Pavo",
-      "line": "Oh, that's a good point... In that case, I don't know..."
+      "line": "Oh, that's a good point... In that case, I don't know...",
+      "delivery": "befuddled"
     },
     {
       "character": "Xocotla",
-      "line": "Quite an unfortunate turn of events, isn't it?"
+      "line": "Quite an unfortunate turn of events, isn't it?",
+      "delivery": "detached"
     },
     {
       "character": "Player",
@@ -1244,15 +1355,18 @@
     },
     {
       "character": "Xocotla",
-      "line": "Well, I believe the play was actually intended to be a comedy. I'm hopeful they have an understudy who can fill in for today."
+      "line": "Well, I believe the play was actually intended to be a comedy. I'm hopeful they have an understudy who can fill in for today.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "The play's still going ahead? Are we just going to ignore that a man was murdered?"
+      "line": "The play's still going ahead? Are we just going to ignore that a man was murdered?",
+      "delivery": "incredulous"
     },
     {
       "character": "Xocotla",
-      "line": "I'd rather not think about it, personally."
+      "line": "I'd rather not think about it, personally.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -1260,7 +1374,8 @@
     },
     {
       "character": "Xocotla",
-      "line": "Would he have reason to have been?"
+      "line": "Would he have reason to have been?",
+      "delivery": "guarded"
     },
     {
       "character": "Player",
@@ -1272,7 +1387,8 @@
     },
     {
       "character": "Player",
-      "line": "Why would Constantinius keep a broken stool around... Unless it was only just broken?"
+      "line": "Why would Constantinius keep a broken stool around... Unless it was only just broken?",
+      "delivery": "thinking aloud"
     },
     {
       "character": "Player",
@@ -1284,7 +1400,8 @@
     },
     {
       "character": "Player",
-      "line": "A few cuts and scrapes... No stab wound... Poison perhaps?"
+      "line": "A few cuts and scrapes... No stab wound... Poison perhaps?",
+      "delivery": "pondering"
     },
     {
       "character": "Player",
@@ -1292,7 +1409,8 @@
     },
     {
       "character": "Player",
-      "line": "It looks like someone's dropped this. I wonder if there was a fight?"
+      "line": "It looks like someone's dropped this. I wonder if there was a fight?",
+      "delivery": "curious"
     },
     {
       "character": "Player",
@@ -1300,7 +1418,8 @@
     },
     {
       "character": "Player",
-      "line": "I wonder why this jug's been tucked away in the corner... Was someone trying to hide it?"
+      "line": "I wonder why this jug's been tucked away in the corner... Was someone trying to hide it?",
+      "delivery": "suspicious"
     },
     {
       "character": "Hutza",
@@ -1324,11 +1443,13 @@
     },
     {
       "character": "Stradius",
-      "line": "What if they hired someone to do it for them?"
+      "line": "What if they hired someone to do it for them?",
+      "delivery": "eager"
     },
     {
       "character": "Hutza",
-      "line": "Stradius... That's actually a good point."
+      "line": "Stradius... That's actually a good point.",
+      "delivery": "surprised"
     },
     {
       "character": "Player",
@@ -1344,11 +1465,13 @@
     },
     {
       "character": "Stradius",
-      "line": "Have we been keeping tabs on all the butlers? What if one's escaped! The killer might already be in the wind!"
+      "line": "Have we been keeping tabs on all the butlers? What if one's escaped! The killer might already be in the wind!",
+      "delivery": "panicked"
     },
     {
       "character": "Hutza",
-      "line": "Both of you are missing that there's no window in which they could've left that cellar."
+      "line": "Both of you are missing that there's no window in which they could've left that cellar.",
+      "delivery": "flat, patient"
     },
     {
       "character": "Stradius",
@@ -1360,11 +1483,13 @@
     },
     {
       "character": "Player",
-      "line": "I could try stealing from the suspects? Perhaps one of them will be carrying something incriminating."
+      "line": "I could try stealing from the suspects? Perhaps one of them will be carrying something incriminating.",
+      "delivery": "sly, conspiratorial"
     },
     {
       "character": "Stradius",
-      "line": "You probably shouldn't mention that in front of us."
+      "line": "You probably shouldn't mention that in front of us.",
+      "delivery": "awkward"
     },
     {
       "character": "Hutza",
@@ -1372,11 +1497,13 @@
     },
     {
       "character": "Stradius",
-      "line": "Hutza!"
+      "line": "Hutza!",
+      "delivery": "scandalized"
     },
     {
       "character": "Player",
-      "line": "I'll be subtle."
+      "line": "I'll be subtle.",
+      "delivery": "sly"
     },
     {
       "character": "Hutza",
@@ -1404,7 +1531,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, I'm so clumsy! Are you okay?"
+      "line": "Oh, I'm so clumsy! Are you okay?",
+      "delivery": "feigned innocence"
     },
     {
       "character": "Player",
@@ -1424,7 +1552,8 @@
     },
     {
       "character": "Player",
-      "line": "I've had a little look through some pockets. I think all of the guests might be lying."
+      "line": "I've had a little look through some pockets. I think all of the guests might be lying.",
+      "delivery": "low, conspiratorial"
     },
     {
       "character": "Stradius",
@@ -1440,7 +1569,8 @@
     },
     {
       "character": "Hutza",
-      "line": "Interesting... What about these labels?"
+      "line": "Interesting... What about these labels?",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -1456,11 +1586,13 @@
     },
     {
       "character": "Stradius",
-      "line": "Perhaps one of them is responsible... or indeed both of them."
+      "line": "Perhaps one of them is responsible... or indeed both of them.",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "It's possible I suppose, but Patzi doesn't seem capable of pulling this off."
+      "line": "It's possible I suppose, but Patzi doesn't seem capable of pulling this off.",
+      "delivery": "wry"
     },
     {
       "character": "Hutza",
@@ -1468,7 +1600,8 @@
     },
     {
       "character": "Player",
-      "line": "We could get them all together. Put pressure on them with some accusations and see who breaks?"
+      "line": "We could get them all together. Put pressure on them with some accusations and see who breaks?",
+      "delivery": "scheming"
     },
     {
       "character": "Stradius",
@@ -1492,7 +1625,8 @@
     },
     {
       "character": "Stradius",
-      "line": "Perfect! Let's get everyone upstairs!"
+      "line": "Perfect! Let's get everyone upstairs!",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -1516,7 +1650,8 @@
     },
     {
       "character": "Player",
-      "line": "Constantinius, you knew Livius well, didn't you?"
+      "line": "Constantinius, you knew Livius well, didn't you?",
+      "delivery": "probing"
     },
     {
       "character": "Constantinius",
@@ -1532,11 +1667,13 @@
     },
     {
       "character": "Player",
-      "line": "So you'd almost benefit from him being out of the way, letting you find someone new to sponsor?"
+      "line": "So you'd almost benefit from him being out of the way, letting you find someone new to sponsor?",
+      "delivery": "pointed"
     },
     {
       "character": "Constantinius",
-      "line": "The thought has crossed my mind, but he was still profitable, and it's not like I couldn't just sponsor a second actor in addition to him anyway."
+      "line": "The thought has crossed my mind, but he was still profitable, and it's not like I couldn't just sponsor a second actor in addition to him anyway.",
+      "delivery": "calm, measured"
     },
     {
       "character": "Player",
@@ -1556,11 +1693,13 @@
     },
     {
       "character": "Player",
-      "line": "Constantinius! I believe you were responsible for the murder of Livius. He was getting too expensive to sponsor and you needed him gone!"
+      "line": "Constantinius! I believe you were responsible for the murder of Livius. He was getting too expensive to sponsor and you needed him gone!",
+      "delivery": "accusatory, dramatic"
     },
     {
       "character": "Constantinius",
-      "line": "I wasn't tied to him... If I'd wanted to stop sponsoring him, I'd have just done that. There would have been no need to kill him..."
+      "line": "I wasn't tied to him... If I'd wanted to stop sponsoring him, I'd have just done that. There would have been no need to kill him...",
+      "delivery": "calm, reasoning"
     },
     {
       "character": "Player",
@@ -1568,7 +1707,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "I can't deny that it has very much enhanced the event, but do you think I'd have someone killed just for a social function?"
+      "line": "I can't deny that it has very much enhanced the event, but do you think I'd have someone killed just for a social function?",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -1576,7 +1716,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "You're the one accusing me,. You should know."
+      "line": "You're the one accusing me,. You should know.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -1588,27 +1729,33 @@
     },
     {
       "character": "Player",
-      "line": "Indeed I have. Just keeping you on your toes. As you were."
+      "line": "Indeed I have. Just keeping you on your toes. As you were.",
+      "delivery": "bluffing, breezy"
     },
     {
       "character": "Player",
-      "line": "Cozyac, did you not claim to have never interacted with Livius?"
+      "line": "Cozyac, did you not claim to have never interacted with Livius?",
+      "delivery": "probing"
     },
     {
       "character": "Cozyac",
-      "line": "I did, and I shall stand by that claim! Why are you the one making these accusations anyway? You were the one down there with him! Besides, you're just a butler!"
+      "line": "I did, and I shall stand by that claim! Why are you the one making these accusations anyway? You were the one down there with him! Besides, you're just a butler!",
+      "delivery": "indignant, defensive"
     },
     {
       "character": "Player",
-      "line": "Stradius, the note!"
+      "line": "Stradius, the note!",
+      "delivery": "dramatic, calling out"
     },
     {
       "character": "Player",
-      "line": "A note written by yourself for Livius. Seems you weren't very happy with him..."
+      "line": "A note written by yourself for Livius. Seems you weren't very happy with him...",
+      "delivery": "pointed, knowing"
     },
     {
       "character": "Cozyac",
-      "line": "How did you..."
+      "line": "How did you...",
+      "delivery": "caught off guard"
     },
     {
       "character": "Player",
@@ -1616,7 +1763,8 @@
     },
     {
       "character": "Cozyac",
-      "line": "Not one I would have killed him over! He owed me some money and wasn't paying up. I just needed to put some pressure on him."
+      "line": "Not one I would have killed him over! He owed me some money and wasn't paying up. I just needed to put some pressure on him.",
+      "delivery": "defensive"
     },
     {
       "character": "Player",
@@ -1628,11 +1776,13 @@
     },
     {
       "character": "Player",
-      "line": "Cozyac! I believe you were responsible for the murder of Livius. He owed you a debt and was refusing to pay!"
+      "line": "Cozyac! I believe you were responsible for the murder of Livius. He owed you a debt and was refusing to pay!",
+      "delivery": "accusatory, dramatic"
     },
     {
       "character": "Cozyac",
-      "line": "Why? Why kill someone over a debt? A dead man can't repay me, so I'd have needed to actually reclaim the money before killing him, at which point I'd have no reason to kill him anyway!"
+      "line": "Why? Why kill someone over a debt? A dead man can't repay me, so I'd have needed to actually reclaim the money before killing him, at which point I'd have no reason to kill him anyway!",
+      "delivery": "exasperated"
     },
     {
       "character": "Hutza",
@@ -1644,7 +1794,8 @@
     },
     {
       "character": "Player",
-      "line": "Pavo, you and Livius were drinking partners, weren't you?"
+      "line": "Pavo, you and Livius were drinking partners, weren't you?",
+      "delivery": "probing"
     },
     {
       "character": "Pavo",
@@ -1668,11 +1819,13 @@
     },
     {
       "character": "Player",
-      "line": "Your flask, huh..."
+      "line": "Your flask, huh...",
+      "delivery": "suspicious, knowing"
     },
     {
       "character": "Player",
-      "line": "Stradius, the flask!"
+      "line": "Stradius, the flask!",
+      "delivery": "dramatic, calling out"
     },
     {
       "character": "Player",
@@ -1684,11 +1837,13 @@
     },
     {
       "character": "Player",
-      "line": "If you were letting Livius drink from your flask, it wouldn't have been hard for you to poison him, would it?"
+      "line": "If you were letting Livius drink from your flask, it wouldn't have been hard for you to poison him, would it?",
+      "delivery": "pointed"
     },
     {
       "character": "Pavo",
-      "line": "But why would I poison a friend?"
+      "line": "But why would I poison a friend?",
+      "delivery": "wounded, slurred"
     },
     {
       "character": "Player",
@@ -1700,11 +1855,13 @@
     },
     {
       "character": "Player",
-      "line": "Pavo! I believe you were responsible for the murder of Livius. You poisoned him when you let him drink from your flask!"
+      "line": "Pavo! I believe you were responsible for the murder of Livius. You poisoned him when you let him drink from your flask!",
+      "delivery": "accusatory, dramatic"
     },
     {
       "character": "Pavo",
-      "line": "I would never do something like that! You have no proof!"
+      "line": "I would never do something like that! You have no proof!",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -1712,11 +1869,13 @@
     },
     {
       "character": "Pavo",
-      "line": "Wait, there's still some left?"
+      "line": "Wait, there's still some left?",
+      "delivery": "eager"
     },
     {
       "character": "Player",
-      "line": "Oh... Well, I guess it's not poison then. Thanks for... helping to sort that one."
+      "line": "Oh... Well, I guess it's not poison then. Thanks for... helping to sort that one.",
+      "delivery": "deflated, awkward"
     },
     {
       "character": "Pavo",
@@ -1724,7 +1883,8 @@
     },
     {
       "character": "Player",
-      "line": "Xocotla, you've never had any dealings with Livius, have you?"
+      "line": "Xocotla, you've never had any dealings with Livius, have you?",
+      "delivery": "probing"
     },
     {
       "character": "Xocotla",
@@ -1740,7 +1900,8 @@
     },
     {
       "character": "Player",
-      "line": "Stradius, the contract!"
+      "line": "Stradius, the contract!",
+      "delivery": "dramatic, calling out"
     },
     {
       "character": "Player",
@@ -1752,11 +1913,13 @@
     },
     {
       "character": "Player",
-      "line": "Good eye. Interesting how you yourself seemed to not be aware of it, especially given it was you who was carrying it."
+      "line": "Good eye. Interesting how you yourself seemed to not be aware of it, especially given it was you who was carrying it.",
+      "delivery": "sly, sarcastic"
     },
     {
       "character": "Xocotla",
-      "line": "Alright, fine. Livius had recently contracted us to help him move some of his belongings around. He's been doing well for himself and was moving into a larger property."
+      "line": "Alright, fine. Livius had recently contracted us to help him move some of his belongings around. He's been doing well for himself and was moving into a larger property.",
+      "delivery": "conceding, flat"
     },
     {
       "character": "Xocotla",
@@ -1772,11 +1935,13 @@
     },
     {
       "character": "Player",
-      "line": "Xocotla! I believe you were responsible for the murder of Livius. You pretended you didn't know him, but you lied!"
+      "line": "Xocotla! I believe you were responsible for the murder of Livius. You pretended you didn't know him, but you lied!",
+      "delivery": "accusatory, dramatic"
     },
     {
       "character": "Xocotla",
-      "line": "Yes... It may surprise you to know that I didn't want to be associated with a murder victim whilst an investigation was ongoing!"
+      "line": "Yes... It may surprise you to know that I didn't want to be associated with a murder victim whilst an investigation was ongoing!",
+      "delivery": "dry, defensive"
     },
     {
       "character": "Hutza",
@@ -1788,11 +1953,13 @@
     },
     {
       "character": "Player",
-      "line": "Patzi, Adala. The two of you weren't even invited to this party..."
+      "line": "Patzi, Adala. The two of you weren't even invited to this party...",
+      "delivery": "pointed"
     },
     {
       "character": "Adala",
-      "line": "Nor were you..."
+      "line": "Nor were you...",
+      "delivery": "sharp, deflecting"
     },
     {
       "character": "Player",
@@ -1804,11 +1971,13 @@
     },
     {
       "character": "Player",
-      "line": "You already knew that Constantinius was thinking about sponsoring a new actor. Perhaps you decided to speed things along a bit by removing the competition."
+      "line": "You already knew that Constantinius was thinking about sponsoring a new actor. Perhaps you decided to speed things along a bit by removing the competition.",
+      "delivery": "pointed, accusatory"
     },
     {
       "character": "Patzi",
-      "line": "But why would I need to remove the competition if he was already open to sponsoring me anyway? That doesn't make sense..."
+      "line": "But why would I need to remove the competition if he was already open to sponsoring me anyway? That doesn't make sense...",
+      "delivery": "flustered"
     },
     {
       "character": "Player",
@@ -1820,7 +1989,8 @@
     },
     {
       "character": "Player",
-      "line": "Exactly!"
+      "line": "Exactly!",
+      "delivery": "triumphant"
     },
     {
       "character": "Adala",
@@ -1828,15 +1998,18 @@
     },
     {
       "character": "Player",
-      "line": "Sending me down there made me look guilty! A perfect way of drawing attention away from the true culprit."
+      "line": "Sending me down there made me look guilty! A perfect way of drawing attention away from the true culprit.",
+      "delivery": "dramatic, triumphant"
     },
     {
       "character": "Adala",
-      "line": "But... that would be a terrible plan. You were here with us..."
+      "line": "But... that would be a terrible plan. You were here with us...",
+      "delivery": "flat, unimpressed"
     },
     {
       "character": "Player",
-      "line": "Which leads me on to you, Adala. Patzi was accounted for when the murder took place, but you were not. Care to tell us what you were up to?"
+      "line": "Which leads me on to you, Adala. Patzi was accounted for when the murder took place, but you were not. Care to tell us what you were up to?",
+      "delivery": "pointed"
     },
     {
       "character": "Adala",
@@ -1856,11 +2029,13 @@
     },
     {
       "character": "Adala",
-      "line": "Where are you going with this?"
+      "line": "Where are you going with this?",
+      "delivery": "guarded, wary"
     },
     {
       "character": "Player",
-      "line": "Stradius, the labels!"
+      "line": "Stradius, the labels!",
+      "delivery": "dramatic, calling out"
     },
     {
       "character": "Player",
@@ -1868,11 +2043,13 @@
     },
     {
       "character": "Adala",
-      "line": "I just found them on the floor. It's bad manners not to pick up litter."
+      "line": "I just found them on the floor. It's bad manners not to pick up litter.",
+      "delivery": "breezy, deflecting"
     },
     {
       "character": "Player",
-      "line": "What a convenient excuse..."
+      "line": "What a convenient excuse...",
+      "delivery": "skeptical, dry"
     },
     {
       "character": "Player",
@@ -1880,11 +2057,13 @@
     },
     {
       "character": "Player",
-      "line": "Patzi! I believe you were responsible for the murder of Livius. You wanted him out of the way so you could take his place!"
+      "line": "Patzi! I believe you were responsible for the murder of Livius. You wanted him out of the way so you could take his place!",
+      "delivery": "accusatory, dramatic"
     },
     {
       "character": "Patzi",
-      "line": "But why? Constantinius was open to sponsoring me anyway. I didn't need to kill anyone..."
+      "line": "But why? Constantinius was open to sponsoring me anyway. I didn't need to kill anyone...",
+      "delivery": "protesting"
     },
     {
       "character": "Hutza",
@@ -1896,15 +2075,18 @@
     },
     {
       "character": "Player",
-      "line": "Adala! I believe you were responsible for the murder of Livius. All the evidence is pointing at you!"
+      "line": "Adala! I believe you were responsible for the murder of Livius. All the evidence is pointing at you!",
+      "delivery": "accusatory, dramatic"
     },
     {
       "character": "Player",
-      "line": "You were the only person missing at the time of the murder, and despite your claims, we have clear evidence you were in that cellar!"
+      "line": "You were the only person missing at the time of the murder, and despite your claims, we have clear evidence you were in that cellar!",
+      "delivery": "triumphant, pointed"
     },
     {
       "character": "Adala",
-      "line": "Alright, fine. I admit I was in the cellar."
+      "line": "Alright, fine. I admit I was in the cellar.",
+      "delivery": "conceding"
     },
     {
       "character": "Patzi",
@@ -1912,27 +2094,33 @@
     },
     {
       "character": "Adala",
-      "line": "The Principum Red, you fool. I could retire on the value of that wine. All I had to do was get out of here with it."
+      "line": "The Principum Red, you fool. I could retire on the value of that wine. All I had to do was get out of here with it.",
+      "delivery": "contemptuous, candid"
     },
     {
       "character": "Constantinius",
-      "line": "My wine!"
+      "line": "My wine!",
+      "delivery": "outraged"
     },
     {
       "character": "Patzi",
-      "line": "You used me..."
+      "line": "You used me...",
+      "delivery": "betrayed, crushed"
     },
     {
       "character": "Adala",
-      "line": "And I probably would've got away with it too, if it wasn't for this precocious butler turned investigator you hired!"
+      "line": "And I probably would've got away with it too, if it wasn't for this precocious butler turned investigator you hired!",
+      "delivery": "bitter"
     },
     {
       "character": "Player",
-      "line": "What happened Adala? Did Livius interrupt your plan? Did he need to be silenced?"
+      "line": "What happened Adala? Did Livius interrupt your plan? Did he need to be silenced?",
+      "delivery": "pressing, suspicious"
     },
     {
       "character": "Adala",
-      "line": "Murder! What a ridiculous assertion! I may be a thief, but I'd never kill someone!"
+      "line": "Murder! What a ridiculous assertion! I may be a thief, but I'd never kill someone!",
+      "delivery": "indignant"
     },
     {
       "character": "Patzi",
@@ -1940,15 +2128,18 @@
     },
     {
       "character": "Player",
-      "line": "Alright, I yield! You win!"
+      "line": "Alright, I yield! You win!",
+      "delivery": "conceding, strained"
     },
     {
       "character": "Adala",
-      "line": "I could've killed you, but I'm not that kind of person, just like how I didn't kill Livius."
+      "line": "I could've killed you, but I'm not that kind of person, just like how I didn't kill Livius.",
+      "delivery": "defiant"
     },
     {
       "character": "Adala",
-      "line": "Stop! You're too good for me! You win!"
+      "line": "Stop! You're too good for me! You win!",
+      "delivery": "defeated, breathless"
     },
     {
       "character": "Player",
@@ -1956,7 +2147,8 @@
     },
     {
       "character": "Adala",
-      "line": "I promise I didn't do it! I'm just a thief! I wasn't even strong enough to defeat you. How could I have killed Livius?"
+      "line": "I promise I didn't do it! I'm just a thief! I wasn't even strong enough to defeat you. How could I have killed Livius?",
+      "delivery": "pleading"
     },
     {
       "character": "Stradius",
@@ -1964,15 +2156,18 @@
     },
     {
       "character": "Hutza",
-      "line": "Come with us, Adala. You can have fun contemplating your crimes from your new cell..."
+      "line": "Come with us, Adala. You can have fun contemplating your crimes from your new cell...",
+      "delivery": "wry, firm"
     },
     {
       "character": "Constantinius",
-      "line": "Does this mean we can get on with tonight's play?"
+      "line": "Does this mean we can get on with tonight's play?",
+      "delivery": "eager, oblivious"
     },
     {
       "character": "Player",
-      "line": "You still want to go ahead with the play? You don't even have a lead actor anymore!"
+      "line": "You still want to go ahead with the play? You don't even have a lead actor anymore!",
+      "delivery": "incredulous"
     },
     {
       "character": "Constantinius",
@@ -1984,7 +2179,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "Well, you've been doing a wonderful job so far, so I'm sure if the villain is still loose, you'll catch them."
+      "line": "Well, you've been doing a wonderful job so far, so I'm sure if the villain is still loose, you'll catch them.",
+      "delivery": "breezy"
     },
     {
       "character": "Hutza",
@@ -1992,7 +2188,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "That's not a problem. You can easily keep everyone in the theatre. The only place they'd be able to run to from there is straight off the cliff!"
+      "line": "That's not a problem. You can easily keep everyone in the theatre. The only place they'd be able to run to from there is straight off the cliff!",
+      "delivery": "cheerful, morbid"
     },
     {
       "character": "Hutza",
@@ -2000,7 +2197,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "It's settled then! We will proceed with the play! While we do that, if the killer is still at large, the ever capable here will ensure they are dealt with!"
+      "line": "It's settled then! We will proceed with the play! While we do that, if the killer is still at large, the ever capable here will ensure they are dealt with!",
+      "delivery": "grand, decisive"
     },
     {
       "character": "Player",
@@ -2008,7 +2206,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "Oh, no, you can't come with us. I don't want your investigation disrupting things. You'll need to stay out of sight. Why don't you take the back way?"
+      "line": "Oh, no, you can't come with us. I don't want your investigation disrupting things. You'll need to stay out of sight. Why don't you take the back way?",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -2016,7 +2215,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "Yes! It's not been used in a while, so it's a little bit precarious these days, but I'm sure you'll manage."
+      "line": "Yes! It's not been used in a while, so it's a little bit precarious these days, but I'm sure you'll manage.",
+      "delivery": "airy, dismissive"
     },
     {
       "character": "Player",
@@ -2044,7 +2244,8 @@
     },
     {
       "character": "Stradius",
-      "line": "Well... we don't really have one, but the play is about to start and we still might have a killer on the loose."
+      "line": "Well... we don't really have one, but the play is about to start and we still might have a killer on the loose.",
+      "delivery": "sheepish, worried"
     },
     {
       "character": "Player",
@@ -2076,7 +2277,8 @@
     },
     {
       "character": "Stradius",
-      "line": "Keep at it! I'm sure you can solve this one!"
+      "line": "Keep at it! I'm sure you can solve this one!",
+      "delivery": "encouraging"
     },
     {
       "character": "Player",
@@ -2092,7 +2294,8 @@
     },
     {
       "character": "Costumer",
-      "line": "If you think I have any actual control in here, you'd be sorely mistaken. I don't think anyone could keep these actors in line. They're a... dramatic bunch."
+      "line": "If you think I have any actual control in here, you'd be sorely mistaken. I don't think anyone could keep these actors in line. They're a... dramatic bunch.",
+      "delivery": "weary, dry"
     },
     {
       "character": "Player",
@@ -2124,7 +2327,8 @@
     },
     {
       "character": "Costumer",
-      "line": "There's four of them in total... Well... was four I should say."
+      "line": "There's four of them in total... Well... was four I should say.",
+      "delivery": "grim, dry"
     },
     {
       "character": "Costumer",
@@ -2152,7 +2356,8 @@
     },
     {
       "character": "Costumer",
-      "line": "I don't think so. I suppose I do get quite engrossed in my work sometimes, so it's not impossible. But I'm sure I'd have spotted someone going up the stairs..."
+      "line": "I don't think so. I suppose I do get quite engrossed in my work sometimes, so it's not impossible. But I'm sure I'd have spotted someone going up the stairs...",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -2176,7 +2381,8 @@
     },
     {
       "character": "Costumer",
-      "line": "No, none of her characters have any interaction with wine..."
+      "line": "No, none of her characters have any interaction with wine...",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
@@ -2188,7 +2394,8 @@
     },
     {
       "character": "Player",
-      "line": "Interesting..."
+      "line": "Interesting...",
+      "delivery": "intrigued, knowing"
     },
     {
       "character": "Player",
@@ -2196,7 +2403,8 @@
     },
     {
       "character": "Costumer",
-      "line": "A passage? I had no idea, but I suppose it's not too suprising."
+      "line": "A passage? I had no idea, but I suppose it's not too suprising.",
+      "delivery": "mildly surprised"
     },
     {
       "character": "Player",
@@ -2232,7 +2440,8 @@
     },
     {
       "character": "Stradius",
-      "line": "Yes, we need to confront the killer! Who was it, ?"
+      "line": "Yes, we need to confront the killer! Who was it, ?",
+      "delivery": "eager, urgent"
     },
     {
       "character": "Player",
@@ -2308,7 +2517,8 @@
     },
     {
       "character": "Player",
-      "line": "I think you're right actually. Ignore me."
+      "line": "I think you're right actually. Ignore me.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -2324,7 +2534,8 @@
     },
     {
       "character": "Player",
-      "line": "Er... No."
+      "line": "Er... No.",
+      "delivery": "sheepish"
     },
     {
       "character": "Hutza",
@@ -2372,15 +2583,18 @@
     },
     {
       "character": "Player",
-      "line": "I'd say eighty, maybe ninety percent sure."
+      "line": "I'd say eighty, maybe ninety percent sure.",
+      "delivery": "hedging, wry"
     },
     {
       "character": "Hutza",
-      "line": "Well I suppose that will have to be enough. You've not taken us down too many wrong paths today..."
+      "line": "Well I suppose that will have to be enough. You've not taken us down too many wrong paths today...",
+      "delivery": "dry"
     },
     {
       "character": "Stradius",
-      "line": "Except for the whole fake butler act."
+      "line": "Except for the whole fake butler act.",
+      "delivery": "deadpan"
     },
     {
       "character": "Hutza",
@@ -2392,15 +2606,18 @@
     },
     {
       "character": "Hutza",
-      "line": "Constantinius would kill us if we stopped the performance."
+      "line": "Constantinius would kill us if we stopped the performance.",
+      "delivery": "wry"
     },
     {
       "character": "Stradius",
-      "line": "And then we'd have another murder mystery on our hands..."
+      "line": "And then we'd have another murder mystery on our hands...",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
-      "line": "Well then we'll have to just speed things along a bit. I'm going out there!"
+      "line": "Well then we'll have to just speed things along a bit. I'm going out there!",
+      "delivery": "determined"
     },
     {
       "character": "Player",
@@ -2420,7 +2637,8 @@
     },
     {
       "character": "Player",
-      "line": "Er... I don't know."
+      "line": "Er... I don't know.",
+      "delivery": "sheepish"
     },
     {
       "character": "Hutza",
@@ -2472,23 +2690,28 @@
     },
     {
       "character": "Player",
-      "line": "Livius."
+      "line": "Livius.",
+      "delivery": "deadpan"
     },
     {
       "character": "Stradius",
-      "line": "You think Livius killed himself?"
+      "line": "You think Livius killed himself?",
+      "delivery": "incredulous"
     },
     {
       "character": "Player",
-      "line": "Well it's the last thing anyone would expect."
+      "line": "Well it's the last thing anyone would expect.",
+      "delivery": "deadpan"
     },
     {
       "character": "Hutza",
-      "line": "It's the last thing anyone would expect because it obviously didn't happen! Let's try considering some more plausible candidates."
+      "line": "It's the last thing anyone would expect because it obviously didn't happen! Let's try considering some more plausible candidates.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "You two."
+      "line": "You two.",
+      "delivery": "cheeky"
     },
     {
       "character": "Stradius",
@@ -2496,27 +2719,33 @@
     },
     {
       "character": "Hutza",
-      "line": "Of course it wasn't us! Stop messing around, !"
+      "line": "Of course it wasn't us! Stop messing around, !",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "Me."
+      "line": "Me.",
+      "delivery": "deadpan"
     },
     {
       "character": "Stradius",
-      "line": "You?! Goodness, it's the crime of the century! Right, come with us!"
+      "line": "You?! Goodness, it's the crime of the century! Right, come with us!",
+      "delivery": "alarmed, overeager"
     },
     {
       "character": "Player",
-      "line": "Wait! I was joking!"
+      "line": "Wait! I was joking!",
+      "delivery": "panicked"
     },
     {
       "character": "Hutza",
-      "line": "Stop playing around, ! We have a killer to deal with!"
+      "line": "Stop playing around, ! We have a killer to deal with!",
+      "delivery": "stern"
     },
     {
       "character": "Player",
-      "line": "The dog."
+      "line": "The dog.",
+      "delivery": "deadpan"
     },
     {
       "character": "Hutza",
@@ -2524,15 +2753,18 @@
     },
     {
       "character": "Stradius",
-      "line": "Never underestimate a dog, Hutza."
+      "line": "Never underestimate a dog, Hutza.",
+      "delivery": "earnest, deadpan"
     },
     {
       "character": "Hutza",
-      "line": "Okay, but even if the dog did have the means, it didn't have the opportunity, not to mention motive..."
+      "line": "Okay, but even if the dog did have the means, it didn't have the opportunity, not to mention motive...",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
-      "line": "Okay, fine, not the dog."
+      "line": "Okay, fine, not the dog.",
+      "delivery": "relenting"
     },
     {
       "character": "Player",
@@ -2556,7 +2788,8 @@
     },
     {
       "character": "Hutza",
-      "line": "Break a leg out there!"
+      "line": "Break a leg out there!",
+      "delivery": "encouraging"
     },
     {
       "character": "Player",
@@ -2564,59 +2797,73 @@
     },
     {
       "character": "Hutza",
-      "line": "Go and get her!"
+      "line": "Go and get her!",
+      "delivery": "urgent"
     },
     {
       "character": "Villa Guard",
-      "line": "Shouldn't you be on stage?"
+      "line": "Shouldn't you be on stage?",
+      "delivery": "confused"
     },
     {
       "character": "Naiatli",
-      "line": "At last, the vile villain shows themselves!"
+      "line": "At last, the vile villain shows themselves!",
+      "delivery": "theatrical, booming"
     },
     {
       "character": "Player",
-      "line": "Villain? The only villain here is you, murderer!"
+      "line": "Villain? The only villain here is you, murderer!",
+      "delivery": "dramatic, accusatory"
     },
     {
       "character": "Naiatli",
-      "line": "I am no murderer! What vexatious allegations you come at me with!"
+      "line": "I am no murderer! What vexatious allegations you come at me with!",
+      "delivery": "theatrical, indignant"
     },
     {
       "character": "Cozyac",
-      "line": "I'm not sure about this new character. Are they even in costume?"
+      "line": "I'm not sure about this new character. Are they even in costume?",
+      "delivery": "confused, muttering"
     },
     {
       "character": "Player",
-      "line": "Do not pretend you don't know! Your lies are at an end!"
+      "line": "Do not pretend you don't know! Your lies are at an end!",
+      "delivery": "dramatic, booming"
     },
     {
       "character": "Constantinius",
-      "line": "I don't think this was in the original script..."
+      "line": "I don't think this was in the original script...",
+      "delivery": "puzzled, muttering"
     },
     {
       "character": "Naiatli",
-      "line": "I've overcome so much! I won't fall at this last hurdle!"
+      "line": "I've overcome so much! I won't fall at this last hurdle!",
+      "delivery": "theatrical, defiant"
     },
     {
       "character": "Player",
-      "line": "Lay down your arms! Your heroic deeds are fabrications!"
+      "line": "Lay down your arms! Your heroic deeds are fabrications!",
+      "delivery": "dramatic, commanding"
     },
     {
       "character": "Naiatli",
-      "line": "Never! Now swing at me!"
+      "line": "Never! Now swing at me!",
+      "delivery": "theatrical, fierce"
     },
     {
       "character": "Naiatli",
-      "line": "Argh! You're stronger than I thought... I need to regroup!"
+      "line": "Argh! You're stronger than I thought... I need to regroup!",
+      "delivery": "theatrical, strained"
     },
     {
       "character": "Player",
-      "line": "Face me!"
+      "line": "Face me!",
+      "delivery": "shouting"
     },
     {
       "character": "Naiatli",
-      "line": "Ha! You've stepped into my trap."
+      "line": "Ha! You've stepped into my trap.",
+      "delivery": "theatrical, gloating"
     },
     {
       "character": "Player",
@@ -2624,55 +2871,68 @@
     },
     {
       "character": "Naiatli",
-      "line": "How could you be this powerful?"
+      "line": "How could you be this powerful?",
+      "delivery": "theatrical, dismay"
     },
     {
       "character": "Player",
-      "line": "It's all part of my grand plan. I grow stronger with every passing moment!"
+      "line": "It's all part of my grand plan. I grow stronger with every passing moment!",
+      "delivery": "hammy, booming"
     },
     {
       "character": "Naiatli",
-      "line": "I can't keep up with this!"
+      "line": "I can't keep up with this!",
+      "delivery": "theatrical, panting"
     },
     {
       "character": "Player",
-      "line": "Then flee again, ignoble hero!"
+      "line": "Then flee again, ignoble hero!",
+      "delivery": "taunting, dramatic"
     },
     {
       "character": "Naiatli",
-      "line": "I must make my last stand... Could you find it in your heart to stay your hand?"
+      "line": "I must make my last stand... Could you find it in your heart to stay your hand?",
+      "delivery": "theatrical, pleading"
     },
     {
       "character": "Player",
-      "line": "And let you live to foil my plans another day? I'm afraid that's not the game we play!"
+      "line": "And let you live to foil my plans another day? I'm afraid that's not the game we play!",
+      "delivery": "villainous, dramatic"
     },
     {
       "character": "Naiatli",
-      "line": "And so I take my leave from this mortal coil!"
+      "line": "And so I take my leave from this mortal coil!",
+      "delivery": "theatrical, dying"
     },
     {
       "character": "Constantinius",
-      "line": "Bravo!"
+      "line": "Bravo!",
+      "delivery": "delighted, applauding"
     },
     {
       "character": "Pavo",
-      "line": "Well that was a twist, wasn't it?"
+      "line": "Well that was a twist, wasn't it?",
+      "delivery": "slurred, amused"
     },
     {
       "character": "Player",
-      "line": "Naiatli, I know you killed Livius. Why?"
+      "line": "Naiatli, I know you killed Livius. Why?",
+      "delivery": "quiet, earnest"
     },
     {
       "character": "Naiatli",
-      "line": "I've been stuck in the shadow of that man for too long. He wouldn't even let me fill another role..."
+      "line": "I've been stuck in the shadow of that man for too long. He wouldn't even let me fill another role...",
+      "delivery": "bitter, resentful"
     },
     {
       "character": "Player",
-      "line": "Murder is a bit far though. Could you not have just... lightly poisoned him?"
+      "line": "Murder is a bit far though. Could you not have just... lightly poisoned him?",
+      "delivery": "incredulous"
     },
     {
       "character": "Naiatli",
-      "line": "You don't understand... I never poisoned him... I just tripped him. All I wanted was to put him out of action. A small injury would've been enough for him to not perform this evening..."
+      "line": "You don't understand... I never poisoned him... I just tripped him. All I wanted was to put him out of action. A small injury would've been enough for him to not perform this evening...",
+      "delivery": "distressed, remorseful"
     },
     {
       "character": "Player",
@@ -2680,15 +2940,18 @@
     },
     {
       "character": "Naiatli",
-      "line": "He'd had so much to drink. He fell harder than expected, and he wouldn't get up... I fled... I never wanted him to..."
+      "line": "He'd had so much to drink. He fell harder than expected, and he wouldn't get up... I fled... I never wanted him to...",
+      "delivery": "anguished, trembling"
     },
     {
       "character": "Player",
-      "line": "Oh, Naiatli... Come on, let's get you to the guards."
+      "line": "Oh, Naiatli... Come on, let's get you to the guards.",
+      "delivery": "gentle, subdued"
     },
     {
       "character": "Player",
-      "line": "Stradius, Hutza, it's been a surprising pleasure working with you to solve this case."
+      "line": "Stradius, Hutza, it's been a surprising pleasure working with you to solve this case.",
+      "delivery": "warm, sincere"
     },
     {
       "character": "Stradius",
@@ -2696,11 +2959,13 @@
     },
     {
       "character": "Hutza",
-      "line": ", you've done well. I'd like to apologise for our hasty arrest earlier. Your commitment to helping us has been commendable."
+      "line": ", you've done well. I'd like to apologise for our hasty arrest earlier. Your commitment to helping us has been commendable.",
+      "delivery": "sincere"
     },
     {
       "character": "Stradius",
-      "line": "To be fair to us, you did seem like the perfect suspect."
+      "line": "To be fair to us, you did seem like the perfect suspect.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -2724,15 +2989,18 @@
     },
     {
       "character": "Patzi",
-      "line": "No thanks to you! This was meant to be a big moment for me, and you totally upstaged me!"
+      "line": "No thanks to you! This was meant to be a big moment for me, and you totally upstaged me!",
+      "delivery": "indignant, dramatic"
     },
     {
       "character": "Player",
-      "line": "Are you angry at me for getting involved in all of this? Did you forget that it was you that hired me?"
+      "line": "Are you angry at me for getting involved in all of this? Did you forget that it was you that hired me?",
+      "delivery": "exasperated"
     },
     {
       "character": "Patzi",
-      "line": "I hired you to make me look better!"
+      "line": "I hired you to make me look better!",
+      "delivery": "petulant"
     },
     {
       "character": "Player",
@@ -2744,19 +3012,23 @@
     },
     {
       "character": "Player",
-      "line": "So how about that payment you promised?"
+      "line": "So how about that payment you promised?",
+      "delivery": "pointed, expectant"
     },
     {
       "character": "Patzi",
-      "line": "Ah... Well... You see..."
+      "line": "Ah... Well... You see...",
+      "delivery": "evasive, sheepish"
     },
     {
       "character": "Player",
-      "line": "Yes, I thought as much."
+      "line": "Yes, I thought as much.",
+      "delivery": "resigned, dry"
     },
     {
       "character": "Constantinius",
-      "line": "Well, I never imagined you'd be quite the actor!"
+      "line": "Well, I never imagined you'd be quite the actor!",
+      "delivery": "impressed, warm"
     },
     {
       "character": "Player",
@@ -2764,7 +3036,8 @@
     },
     {
       "character": "Constantinius",
-      "line": "I don't suppose you'd like to be acting here in the future? To be honest, I'd prefer you to that odd fellow that brought you to my door."
+      "line": "I don't suppose you'd like to be acting here in the future? To be honest, I'd prefer you to that odd fellow that brought you to my door.",
+      "delivery": "warm, inviting"
     },
     {
       "character": "Player",
@@ -2776,11 +3049,13 @@
     },
     {
       "character": "Constantinius",
-      "line": "Anyway, do feel free to wander around the villa whenever you fancy. I don't recommend drinking from the wine fountain though."
+      "line": "Anyway, do feel free to wander around the villa whenever you fancy. I don't recommend drinking from the wine fountain though.",
+      "delivery": "wry"
     },
     {
       "character": "Costumer",
-      "line": "You were very brave for going on stage to confront a killer. Looks like you did well to get her to surrender without damaging her costume."
+      "line": "You were very brave for going on stage to confront a killer. Looks like you did well to get her to surrender without damaging her costume.",
+      "delivery": "approving, warm"
     },
     {
       "character": "Player",
@@ -2788,7 +3063,8 @@
     },
     {
       "character": "Costumer",
-      "line": "Why thank you! I credit my needles for the good work."
+      "line": "Why thank you! I credit my needles for the good work.",
+      "delivery": "pleased"
     },
     {
       "character": "Player",
@@ -2804,7 +3080,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "After all that, are you sure I can't convince you to join the union?"
+      "line": "After all that, are you sure I can't convince you to join the union?",
+      "delivery": "earnest, hopeful"
     },
     {
       "character": "Player",
@@ -2812,7 +3089,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "Kuani! I'll need to run and grab my forms, but if you wait there just a moment..."
+      "line": "Kuani! I'll need to run and grab my forms, but if you wait there just a moment...",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -2828,7 +3106,8 @@
     },
     {
       "character": "Head Butler",
-      "line": "You're certain you don't want to join the union as well?"
+      "line": "You're certain you don't want to join the union as well?",
+      "delivery": "hopeful"
     },
     {
       "character": "Player",
@@ -2872,7 +3151,8 @@
     },
     {
       "character": "Player",
-      "line": "I wonder what this opens..."
+      "line": "I wonder what this opens...",
+      "delivery": "curious"
     },
     {
       "character": "Player",
@@ -2880,7 +3160,8 @@
     },
     {
       "character": "Player",
-      "line": "*Gulp*"
+      "line": "*Gulp*",
+      "delivery": "nervous"
     }
   ],
   "characters": [

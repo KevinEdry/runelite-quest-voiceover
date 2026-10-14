@@ -4,15 +4,18 @@
   "lines": [
     {
       "character": "Hobbes",
-      "line": "This is private property! Please leave!"
+      "line": "This is private property! Please leave!",
+      "delivery": "indignant, curt"
     },
     {
       "character": "Louisa",
-      "line": "I'm far too upset to talk to random people right now."
+      "line": "I'm far too upset to talk to random people right now.",
+      "delivery": "distraught"
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "I have no interest in talking to gawkers."
+      "line": "I have no interest in talking to gawkers.",
+      "delivery": "weary, dismissive"
     },
     {
       "character": "Pierre",
@@ -20,7 +23,8 @@
     },
     {
       "character": "Stanford",
-      "line": "Have you no shame? We are all grieving at the moment."
+      "line": "Have you no shame? We are all grieving at the moment.",
+      "delivery": "reproachful"
     },
     {
       "character": "Player",
@@ -28,7 +32,8 @@
     },
     {
       "character": "Guard",
-      "line": "Oh, it's terrible! Lord Sinclair has been murdered and we don't have any clues as to who or why. We're totally baffled!"
+      "line": "Oh, it's terrible! Lord Sinclair has been murdered and we don't have any clues as to who or why. We're totally baffled!",
+      "delivery": "distressed, overwhelmed"
     },
     {
       "character": "Guard",
@@ -48,15 +53,18 @@
     },
     {
       "character": "Guard",
-      "line": "Look around and investigate who might be responsible. The Sarge said every murder leaves clues to who done it, but frankly we're out of our depth here."
+      "line": "Look around and investigate who might be responsible. The Sarge said every murder leaves clues to who done it, but frankly we're out of our depth here.",
+      "delivery": "weary, candid"
     },
     {
       "character": "Player",
-      "line": "You should do your own dirty work."
+      "line": "You should do your own dirty work.",
+      "delivery": "scornful"
     },
     {
       "character": "Guard",
-      "line": "Get lost then, this is private property!...Unless you'd like to be taken in for questioning yourself?"
+      "line": "Get lost then, this is private property!...Unless you'd like to be taken in for questioning yourself?",
+      "delivery": "irritated, threatening"
     },
     {
       "character": "Player",
@@ -64,19 +72,23 @@
     },
     {
       "character": "Guard",
-      "line": "Well, it's all very mysterious. Mary, the maid, found the body in the study next to his bedroom on the east wing of the ground floor."
+      "line": "Well, it's all very mysterious. Mary, the maid, found the body in the study next to his bedroom on the east wing of the ground floor.",
+      "delivery": "grim"
     },
     {
       "character": "Guard",
-      "line": "The door was found locked from the inside, and he seemed to have been stabbed, but there was an odd smell in the room. Frankly, I'm stumped."
+      "line": "The door was found locked from the inside, and he seemed to have been stabbed, but there was an odd smell in the room. Frankly, I'm stumped.",
+      "delivery": "baffled"
     },
     {
       "character": "Player",
-      "line": "I know who did it!"
+      "line": "I know who did it!",
+      "delivery": "confident"
     },
     {
       "character": "Guard",
-      "line": "Really? That was quick work! Who?"
+      "line": "Really? That was quick work! Who?",
+      "delivery": "surprised"
     },
     {
       "character": "Player",
@@ -100,11 +112,13 @@
     },
     {
       "character": "Guard",
-      "line": "I hope you have proof to that effect. We have to arrest someone for this and it seems to me that only the actual murderer would gain by falsely accusing someone."
+      "line": "I hope you have proof to that effect. We have to arrest someone for this and it seems to me that only the actual murderer would gain by falsely accusing someone.",
+      "delivery": "skeptical"
     },
     {
       "character": "Guard",
-      "line": "Although having said that the butler is kind of shifty looking..."
+      "line": "Although having said that the butler is kind of shifty looking...",
+      "delivery": "wry, musing"
     },
     {
       "character": "Player",
@@ -124,15 +138,18 @@
     },
     {
       "character": "Guard",
-      "line": "You DO have evidence of their crime, right?"
+      "line": "You DO have evidence of their crime, right?",
+      "delivery": "pointed"
     },
     {
       "character": "Player",
-      "line": "Uh...."
+      "line": "Uh....",
+      "delivery": "sheepish, hesitant"
     },
     {
       "character": "Guard",
-      "line": "Tch. You wouldn't last a day in the guards with sloppy thinking like that. Come see me when you have some proof of your accusations."
+      "line": "Tch. You wouldn't last a day in the guards with sloppy thinking like that. Come see me when you have some proof of your accusations.",
+      "delivery": "scornful"
     },
     {
       "character": "Player",
@@ -152,7 +169,8 @@
     },
     {
       "character": "Anna",
-      "line": "Oh really? What do you want to know then?"
+      "line": "Oh really? What do you want to know then?",
+      "delivery": "cold, dismissive"
     },
     {
       "character": "Player",
@@ -160,7 +178,8 @@
     },
     {
       "character": "Anna",
-      "line": "It was clearly an intruder."
+      "line": "It was clearly an intruder.",
+      "delivery": "dismissive"
     },
     {
       "character": "Player",
@@ -168,7 +187,8 @@
     },
     {
       "character": "Anna",
-      "line": "It was one of our lazy servants then."
+      "line": "It was one of our lazy servants then.",
+      "delivery": "contemptuous"
     },
     {
       "character": "Player",
@@ -176,7 +196,8 @@
     },
     {
       "character": "Anna",
-      "line": "In the library. No one else was there so you'll just have to take my word for it."
+      "line": "In the library. No one else was there so you'll just have to take my word for it.",
+      "delivery": "cold, defensive"
     },
     {
       "character": "Player",
@@ -188,11 +209,13 @@
     },
     {
       "character": "Bob",
-      "line": "I suppose I had better talk to you then."
+      "line": "I suppose I had better talk to you then.",
+      "delivery": "reluctant, aloof"
     },
     {
       "character": "Bob",
-      "line": "I don't really care as long as no one thinks it's me. Maybe it was that strange poison seller who headed towards the seers village."
+      "line": "I don't really care as long as no one thinks it's me. Maybe it was that strange poison seller who headed towards the seers village.",
+      "delivery": "indifferent"
     },
     {
       "character": "Bob",
@@ -204,11 +227,13 @@
     },
     {
       "character": "Bob",
-      "line": "No. But I was."
+      "line": "No. But I was.",
+      "delivery": "clipped"
     },
     {
       "character": "Bob",
-      "line": "It's some thread. great clue. No, really."
+      "line": "It's some thread. great clue. No, really.",
+      "delivery": "sarcastic, dry"
     },
     {
       "character": "Carol",
@@ -216,23 +241,28 @@
     },
     {
       "character": "Carol",
-      "line": "I don't know. I think it's very convenient that you have arrived here so soon after it happened. Maybe it was you."
+      "line": "I don't know. I think it's very convenient that you have arrived here so soon after it happened. Maybe it was you.",
+      "delivery": "suspicious, accusatory"
     },
     {
       "character": "Carol",
-      "line": "Why? Are you accusing me of something? You seem to have a very high opinion of yourself I was in my room if you must know, alone."
+      "line": "Why? Are you accusing me of something? You seem to have a very high opinion of yourself I was in my room if you must know, alone.",
+      "delivery": "defensive, indignant"
     },
     {
       "character": "Carol",
-      "line": "It's some thread. Sorry, do you have a point here? Or do you just enjoy wasting peoples time?"
+      "line": "It's some thread. Sorry, do you have a point here? Or do you just enjoy wasting peoples time?",
+      "delivery": "irritable, sarcastic"
     },
     {
       "character": "David",
-      "line": "And? Make this quick, I have better things to do than be interrogated by halfwits all day."
+      "line": "And? Make this quick, I have better things to do than be interrogated by halfwits all day.",
+      "delivery": "contemptuous, impatient"
     },
     {
       "character": "David",
-      "line": "I don't really know or care. Frankly, the old man deserved to die."
+      "line": "I don't really know or care. Frankly, the old man deserved to die.",
+      "delivery": "cold, callous"
     },
     {
       "character": "David",
@@ -240,19 +270,23 @@
     },
     {
       "character": "David",
-      "line": "That is none of your business. Are we finished now, or are you just going to stand there irritating me with your idiotic questions all day?"
+      "line": "That is none of your business. Are we finished now, or are you just going to stand there irritating me with your idiotic questions all day?",
+      "delivery": "irritated, contemptuous"
     },
     {
       "character": "David",
-      "line": "No. Can I go yet? Your face irritates me."
+      "line": "No. Can I go yet? Your face irritates me.",
+      "delivery": "contemptuous"
     },
     {
       "character": "Elizabeth",
-      "line": "What's so important you need to bother me with then?"
+      "line": "What's so important you need to bother me with then?",
+      "delivery": "haughty, impatient"
     },
     {
       "character": "Elizabeth",
-      "line": "Could have been anyone. The old man was an idiot. He's been asking for it for years."
+      "line": "Could have been anyone. The old man was an idiot. He's been asking for it for years.",
+      "delivery": "disdainful"
     },
     {
       "character": "Elizabeth",
@@ -264,11 +298,13 @@
     },
     {
       "character": "Elizabeth",
-      "line": "Not really. I don't have to justify myself to the likes of you, you know. I know the King personally you know. Now are we finished here?"
+      "line": "Not really. I don't have to justify myself to the likes of you, you know. I know the King personally you know. Now are we finished here?",
+      "delivery": "haughty, condescending"
     },
     {
       "character": "Elizabeth",
-      "line": "It's some thread. You're not very good at this whole investigation thing are you?"
+      "line": "It's some thread. You're not very good at this whole investigation thing are you?",
+      "delivery": "condescending"
     },
     {
       "character": "Frank",
@@ -276,7 +312,8 @@
     },
     {
       "character": "Frank",
-      "line": "...And can you spare me any money? I'm a little short..."
+      "line": "...And can you spare me any money? I'm a little short...",
+      "delivery": "pleading, wheedling"
     },
     {
       "character": "Frank",
@@ -284,7 +321,8 @@
     },
     {
       "character": "Frank",
-      "line": "You don't know how long it takes an inheritance to come through do you? I could really use that money pretty soon..."
+      "line": "You don't know how long it takes an inheritance to come through do you? I could really use that money pretty soon...",
+      "delivery": "anxious"
     },
     {
       "character": "Frank",
@@ -292,11 +330,13 @@
     },
     {
       "character": "Frank",
-      "line": "Could you spare me a few coins? I'll be able to pay you double tomorrow it's just there's this poker night tonight in town..."
+      "line": "Could you spare me a few coins? I'll be able to pay you double tomorrow it's just there's this poker night tonight in town...",
+      "delivery": "wheedling, eager"
     },
     {
       "character": "Frank",
-      "line": "It looks like thread to me, but I'm not exactly an expert. Is it worth something? Can I have it? Actually, can you spare me a few gold?"
+      "line": "It looks like thread to me, but I'm not exactly an expert. Is it worth something? Can I have it? Actually, can you spare me a few gold?",
+      "delivery": "pleading"
     },
     {
       "character": "Donovan the Family Handyman",
@@ -308,7 +348,8 @@
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "Oh... I really couldn't say. I wouldn't really want to point any fingers at anybody. If I had to make a guess I'd have to say it was probably Bob though."
+      "line": "Oh... I really couldn't say. I wouldn't really want to point any fingers at anybody. If I had to make a guess I'd have to say it was probably Bob though.",
+      "delivery": "hesitant, reluctant"
     },
     {
       "character": "Donovan the Family Handyman",
@@ -320,7 +361,8 @@
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "Me? I was sound asleep here in the servants Quarters. It's very hard work as a handyman around here, There's always something to do!"
+      "line": "Me? I was sound asleep here in the servants Quarters. It's very hard work as a handyman around here, There's always something to do!",
+      "delivery": "weary"
     },
     {
       "character": "Player",
@@ -336,7 +378,8 @@
     },
     {
       "character": "Donovan the Family Handyman",
-      "line": "Now you mention it, no. It is odd I didn't hear anything like that. But I do sleep very soundly as I said and wouldn't necessarily have heard it if there was any such noise."
+      "line": "Now you mention it, no. It is odd I didn't hear anything like that. But I do sleep very soundly as I said and wouldn't necessarily have heard it if there was any such noise.",
+      "delivery": "musing"
     },
     {
       "character": "Player",
@@ -344,7 +387,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Murder is it? Well, I'm not really surprised..."
+      "line": "Murder is it? Well, I'm not really surprised...",
+      "delivery": "conspiratorial, knowing"
     },
     {
       "character": "Player",
@@ -368,7 +412,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Yes. You could say that. Not that I'm one to gossip."
+      "line": "Yes. You could say that. Not that I'm one to gossip.",
+      "delivery": "knowing, wry"
     },
     {
       "character": "Player",
@@ -388,7 +433,8 @@
     },
     {
       "character": "Gossip",
-      "line": "His sons eh? They all have their own skeletons in their cupboards. You'll have to be more specific. Who are you interested in exactly?"
+      "line": "His sons eh? They all have their own skeletons in their cupboards. You'll have to be more specific. Who are you interested in exactly?",
+      "delivery": "intriguing, teasing"
     },
     {
       "character": "Player",
@@ -396,7 +442,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Bob is an odd character indeed... I'm not one to gossip, but I heard Bob is addicted to Tea. He can't make"
+      "line": "Bob is an odd character indeed... I'm not one to gossip, but I heard Bob is addicted to Tea. He can't make",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Gossip",
@@ -404,7 +451,8 @@
     },
     {
       "character": "Gossip",
-      "line": "You might not think that's such a big thing, but he has spent thousands of gold to feed his habit!"
+      "line": "You might not think that's such a big thing, but he has spent thousands of gold to feed his habit!",
+      "delivery": "scandalized"
     },
     {
       "character": "Gossip",
@@ -412,7 +460,8 @@
     },
     {
       "character": "Gossip",
-      "line": "If his father ever found out, he would be in so much trouble... he might even get disowned!"
+      "line": "If his father ever found out, he would be in so much trouble... he might even get disowned!",
+      "delivery": "hushed, gleeful"
     },
     {
       "character": "Player",
@@ -420,7 +469,8 @@
     },
     {
       "character": "Gossip",
-      "line": "David... oh David... not many people know this, but David really has an anger problem. He's always screaming and shouting"
+      "line": "David... oh David... not many people know this, but David really has an anger problem. He's always screaming and shouting",
+      "delivery": "confiding"
     },
     {
       "character": "Gossip",
@@ -432,7 +482,8 @@
     },
     {
       "character": "Gossip",
-      "line": "kick him out of the house, as some of the servants have been there longer than he has, and he definitely has no right to treat them like he does... but I'm not one to gossip about people."
+      "line": "kick him out of the house, as some of the servants have been there longer than he has, and he definitely has no right to treat them like he does... but I'm not one to gossip about people.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -440,7 +491,8 @@
     },
     {
       "character": "Gossip",
-      "line": "I'm not one to talk ill of people behind their back, but Frank is a real piece of work. He is an absolutely terrible gambler... he can't pass 2 dogs in the street without putting a bet on which one will bark first!"
+      "line": "I'm not one to talk ill of people behind their back, but Frank is a real piece of work. He is an absolutely terrible gambler... he can't pass 2 dogs in the street without putting a bet on which one will bark first!",
+      "delivery": "amused, scandalized"
     },
     {
       "character": "Gossip",
@@ -456,7 +508,8 @@
     },
     {
       "character": "Gossip",
-      "line": "His daughters eh? They're all nasty pieces of work. which of them specifically did you want to know about?"
+      "line": "His daughters eh? They're all nasty pieces of work. which of them specifically did you want to know about?",
+      "delivery": "relishing"
     },
     {
       "character": "Player",
@@ -464,11 +517,13 @@
     },
     {
       "character": "Gossip",
-      "line": "Anna... ah yes... Anna has 2 great loves:"
+      "line": "Anna... ah yes... Anna has 2 great loves:",
+      "delivery": "teasing"
     },
     {
       "character": "Gossip",
-      "line": "Sewing and gardening. But one thing she has kept secret is that she once had an affair with Stanford the gardener, and tried to get him fired when they broke up,"
+      "line": "Sewing and gardening. But one thing she has kept secret is that she once had an affair with Stanford the gardener, and tried to get him fired when they broke up,",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Gossip",
@@ -480,7 +535,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Oh Carol... she is such a fool. You didn't hear this from me, but I heard a while ago she was conned out of a lot of money by a travelling salesman who sold her a box full"
+      "line": "Oh Carol... she is such a fool. You didn't hear this from me, but I heard a while ago she was conned out of a lot of money by a travelling salesman who sold her a box full",
+      "delivery": "mocking, amused"
     },
     {
       "character": "Gossip",
@@ -496,7 +552,8 @@
     },
     {
       "character": "Gossip",
-      "line": "Elizabeth? Elizabeth has a strange problem... She cannot help herself, but is always stealing small objects - it's pretty sad that she is rich enough to afford to buy things, but would rather steal them instead."
+      "line": "Elizabeth? Elizabeth has a strange problem... She cannot help herself, but is always stealing small objects - it's pretty sad that she is rich enough to afford to buy things, but would rather steal them instead.",
+      "delivery": "confiding"
     },
     {
       "character": "Gossip",
@@ -504,19 +561,23 @@
     },
     {
       "character": "Gossip",
-      "line": "He was devastated when it was lost, and cried for a week thinking he had lost it!"
+      "line": "He was devastated when it was lost, and cried for a week thinking he had lost it!",
+      "delivery": "sympathetic"
     },
     {
       "character": "Gossip",
-      "line": "If he ever found out that it was her who had stolen it he would go absolutely mental, maybe even disowning her!"
+      "line": "If he ever found out that it was her who had stolen it he would go absolutely mental, maybe even disowning her!",
+      "delivery": "gleeful"
     },
     {
       "character": "Gossip",
-      "line": "Well, I guess it could have been an intruder, but with that big guard dog of theirs I seriously doubt it. I suspect it was someone closer to home..."
+      "line": "Well, I guess it could have been an intruder, but with that big guard dog of theirs I seriously doubt it. I suspect it was someone closer to home...",
+      "delivery": "knowing, suggestive"
     },
     {
       "character": "Gossip",
-      "line": "Especially as I heard that the poison salesman in the Seers' village made a big sale to one of the family the other day."
+      "line": "Especially as I heard that the poison salesman in the Seers' village made a big sale to one of the family the other day.",
+      "delivery": "pointed"
     },
     {
       "character": "Player",
@@ -524,11 +585,13 @@
     },
     {
       "character": "Gossip",
-      "line": "And I think you've been reading too many cheap detective novels. Hobbes is kind of uptight, but his loyalty to old Lord Sinclair is beyond question."
+      "line": "And I think you've been reading too many cheap detective novels. Hobbes is kind of uptight, but his loyalty to old Lord Sinclair is beyond question.",
+      "delivery": "wry, dismissive"
     },
     {
       "character": "Player",
-      "line": "I am so confused about who did it..."
+      "line": "I am so confused about who did it...",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
@@ -548,7 +611,8 @@
     },
     {
       "character": "Hobbes",
-      "line": "Well, in my considered opinion it must be David. The man is nothing more than a bully And I happen to know that poor Lord Sinclair and David had a massive argument in the living"
+      "line": "Well, in my considered opinion it must be David. The man is nothing more than a bully And I happen to know that poor Lord Sinclair and David had a massive argument in the living",
+      "delivery": "disapproving, formal"
     },
     {
       "character": "Hobbes",
@@ -556,7 +620,8 @@
     },
     {
       "character": "Hobbes",
-      "line": "'I am going to kill you!' as well. I think he should be the prime suspect. He has a nasty temper that one."
+      "line": "'I am going to kill you!' as well. I think he should be the prime suspect. He has a nasty temper that one.",
+      "delivery": "grave, pointed"
     },
     {
       "character": "Hobbes",
@@ -580,7 +645,8 @@
     },
     {
       "character": "Hobbes",
-      "line": "You know, now you come to mention it I don't believe I did. I suppose that is Proof enough that it could not have been an intruder who is responsible."
+      "line": "You know, now you come to mention it I don't believe I did. I suppose that is Proof enough that it could not have been an intruder who is responsible.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Louisa",
@@ -588,7 +654,8 @@
     },
     {
       "character": "Louisa",
-      "line": "Elizabeth."
+      "line": "Elizabeth.",
+      "delivery": "blunt, certain"
     },
     {
       "character": "Louisa",
@@ -596,11 +663,13 @@
     },
     {
       "character": "Louisa",
-      "line": "You could hear their argument from Lumbridge!"
+      "line": "You could hear their argument from Lumbridge!",
+      "delivery": "exclaiming"
     },
     {
       "character": "Louisa",
-      "line": "I was right here with Hobbes and Mary. You can't suspect me surely!"
+      "line": "I was right here with Hobbes and Mary. You can't suspect me surely!",
+      "delivery": "flustered"
     },
     {
       "character": "Louisa",
@@ -620,7 +689,8 @@
     },
     {
       "character": "Louisa",
-      "line": "No, I didn't. If you don't have anything else to ask can You go and leave me alone now? I have a lot of cooking to do for this evening."
+      "line": "No, I didn't. If you don't have anything else to ask can You go and leave me alone now? I have a lot of cooking to do for this evening.",
+      "delivery": "harried, dismissive"
     },
     {
       "character": "Mary",
@@ -628,15 +698,18 @@
     },
     {
       "character": "Mary",
-      "line": "Oh I don't know... Frank was acting kind of funny... After that big argument him and the Lord had the other day by the beehive... so"
+      "line": "Oh I don't know... Frank was acting kind of funny... After that big argument him and the Lord had the other day by the beehive... so",
+      "delivery": "nervous, hesitant"
     },
     {
       "character": "Mary",
-      "line": "I guess maybe him... but it's really scary to think someone here might have been responsible. I actually hope it was a burglar..."
+      "line": "I guess maybe him... but it's really scary to think someone here might have been responsible. I actually hope it was a burglar...",
+      "delivery": "frightened"
     },
     {
       "character": "Mary",
-      "line": "I was with Hobbes and Louisa in the Kitchen helping to prepare Lord Sinclair's meal, and then when I took it to his study... I saw... oh, it was horrible... he was...."
+      "line": "I was with Hobbes and Louisa in the Kitchen helping to prepare Lord Sinclair's meal, and then when I took it to his study... I saw... oh, it was horrible... he was....",
+      "delivery": "trembling, distressed"
     },
     {
       "character": "Mary",
@@ -692,11 +765,13 @@
     },
     {
       "character": "Stanford",
-      "line": "It was Anna. She is seriously unbalanced. She trashed the garden once then tried to blame it on me! I bet it was her. It's just the kind of thing she'd do!"
+      "line": "It was Anna. She is seriously unbalanced. She trashed the garden once then tried to blame it on me! I bet it was her. It's just the kind of thing she'd do!",
+      "delivery": "bitter, accusatory"
     },
     {
       "character": "Stanford",
-      "line": "She really hates me and was arguing with Lord Sinclair about trashing the garden a few days ago."
+      "line": "She really hates me and was arguing with Lord Sinclair about trashing the garden a few days ago.",
+      "delivery": "resentful"
     },
     {
       "character": "Stanford",
@@ -724,7 +799,8 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "There was a murder at the Sinclair House??? That's terrible! And I was only there the other day too! They bought the last of my Patented Multi Purpose Poison!"
+      "line": "There was a murder at the Sinclair House??? That's terrible! And I was only there the other day too! They bought the last of my Patented Multi Purpose Poison!",
+      "delivery": "shocked, excitable"
     },
     {
       "character": "Player",
@@ -732,23 +808,28 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "Aaaaah... a miracle of modern apothecaries!"
+      "line": "Aaaaah... a miracle of modern apothecaries!",
+      "delivery": "rapturous, theatrical"
     },
     {
       "character": "Poison Salesman",
-      "line": "This exclusive concoction has been tested on all known forms of life and been proven to kill them all in varying dilutions from cockroaches to king dragons!"
+      "line": "This exclusive concoction has been tested on all known forms of life and been proven to kill them all in varying dilutions from cockroaches to king dragons!",
+      "delivery": "enthusiastic, boastful"
     },
     {
       "character": "Poison Salesman",
-      "line": "So incredibly versatile, it can be used as pest control, a cleansing agent, drain cleaner, metal polish and washes whiter than white,"
+      "line": "So incredibly versatile, it can be used as pest control, a cleansing agent, drain cleaner, metal polish and washes whiter than white,",
+      "delivery": "fast-talking"
     },
     {
       "character": "Poison Salesman",
-      "line": "all with our uniquely fragrant concoction that is immediately recognisable across the land as Peter Potter's Patented Poison potion!!!"
+      "line": "all with our uniquely fragrant concoction that is immediately recognisable across the land as Peter Potter's Patented Poison potion!!!",
+      "delivery": "triumphant, theatrical"
     },
     {
       "character": "Poison Salesman",
-      "line": "I'd love to sell you some but I've sold out recently. That's just how good it is! Three hundred and twenty eight people in this area alone cannot be wrong!"
+      "line": "I'd love to sell you some but I've sold out recently. That's just how good it is! Three hundred and twenty eight people in this area alone cannot be wrong!",
+      "delivery": "boastful"
     },
     {
       "character": "Poison Salesman",
@@ -760,11 +841,13 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "Perhaps I can take your name and add it to our mailing list of poison users? We will only send you information related to the use of poison and other Peter Potter Products!"
+      "line": "Perhaps I can take your name and add it to our mailing list of poison users? We will only send you information related to the use of poison and other Peter Potter Products!",
+      "delivery": "eager"
     },
     {
       "character": "Player",
-      "line": "Uh... no, it's ok. Really."
+      "line": "Uh... no, it's ok. Really.",
+      "delivery": "awkward, deflecting"
     },
     {
       "character": "Player",
@@ -776,7 +859,8 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "Anna, Bob, Carol, David, Elizabeth and Frank all bought a bottle! In fact they bought the last of my supplies!"
+      "line": "Anna, Bob, Carol, David, Elizabeth and Frank all bought a bottle! In fact they bought the last of my supplies!",
+      "delivery": "proud, excitable"
     },
     {
       "character": "Poison Salesman",
@@ -812,11 +896,13 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "Hmmm... yes, that smells exactly like my Patented Multi Purpose Poison, but I don't see how it could be. It quite clearly says on the label of all bottles"
+      "line": "Hmmm... yes, that smells exactly like my Patented Multi Purpose Poison, but I don't see how it could be. It quite clearly says on the label of all bottles",
+      "delivery": "puzzled"
     },
     {
       "character": "Poison Salesman",
-      "line": "'Not to be taken internally - EXTREMELY POISONOUS'."
+      "line": "'Not to be taken internally - EXTREMELY POISONOUS'.",
+      "delivery": "emphatic"
     },
     {
       "character": "Player",
@@ -824,7 +910,8 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "Yes... I suppose that could have happened..."
+      "line": "Yes... I suppose that could have happened...",
+      "delivery": "reluctant realization"
     },
     {
       "character": "Player",
@@ -832,19 +919,23 @@
     },
     {
       "character": "Anna",
-      "line": "That useless Gardener Stanford has let his compost heap fester. It's an eyesore to the garden! So I bought some poison from a travelling salesman so that I could kill off some of the wildlife living in it."
+      "line": "That useless Gardener Stanford has let his compost heap fester. It's an eyesore to the garden! So I bought some poison from a travelling salesman so that I could kill off some of the wildlife living in it.",
+      "delivery": "disdainful"
     },
     {
       "character": "Bob",
-      "line": "What's it to you anyway?"
+      "line": "What's it to you anyway?",
+      "delivery": "defensive, curt"
     },
     {
       "character": "Bob",
-      "line": "If you absolutely must know, we had a problem with the beehive in the garden, and as all of our servants are so pathetically useless, I decided I would deal with it myself. So I did."
+      "line": "If you absolutely must know, we had a problem with the beehive in the garden, and as all of our servants are so pathetically useless, I decided I would deal with it myself. So I did.",
+      "delivery": "contemptuous"
     },
     {
       "character": "Carol",
-      "line": "I don't see what on earth it has to do with you, but the drain outside was"
+      "line": "I don't see what on earth it has to do with you, but the drain outside was",
+      "delivery": "irritable"
     },
     {
       "character": "Carol",
@@ -852,15 +943,18 @@
     },
     {
       "character": "David",
-      "line": "There was a nest of spiders upstairs between the two servants' quarters. Obviously I had to kill them before our pathetic servants whined at my father some more."
+      "line": "There was a nest of spiders upstairs between the two servants' quarters. Obviously I had to kill them before our pathetic servants whined at my father some more.",
+      "delivery": "contemptuous"
     },
     {
       "character": "David",
-      "line": "Honestly, it's like they expect to be treated like royalty! If I had my way I would fire the whole workshy lot of them!"
+      "line": "Honestly, it's like they expect to be treated like royalty! If I had my way I would fire the whole workshy lot of them!",
+      "delivery": "angry, ranting"
     },
     {
       "character": "Elizabeth",
-      "line": "There was a nest of mosquitos under the fountain in the garden, which I killed with poison the other day. You can see for yourself if you're capable of managing that, which I somehow doubt."
+      "line": "There was a nest of mosquitos under the fountain in the garden, which I killed with poison the other day. You can see for yourself if you're capable of managing that, which I somehow doubt.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
@@ -868,15 +962,18 @@
     },
     {
       "character": "Elizabeth",
-      "line": "Doesn't everyone?"
+      "line": "Doesn't everyone?",
+      "delivery": "dry"
     },
     {
       "character": "Frank",
-      "line": "Would you like to buy some? I'm kind of strapped for cash right now, I'll sell it to you cheap, it's hardly been used at all."
+      "line": "Would you like to buy some? I'm kind of strapped for cash right now, I'll sell it to you cheap, it's hardly been used at all.",
+      "delivery": "wheedling"
     },
     {
       "character": "Frank",
-      "line": "I just used a bit to clean that family crest outside up a bit. Do you think I can get much money For the family crest, actually? It's cleaned up a bit now."
+      "line": "I just used a bit to clean that family crest outside up a bit. Do you think I can get much money For the family crest, actually? It's cleaned up a bit now.",
+      "delivery": "scheming, eager"
     },
     {
       "character": "Player",
@@ -932,7 +1029,8 @@
     },
     {
       "character": "Pierre",
-      "line": "He made a big deal about it to Mary the Maid, calling her useless and incompetent. I felt quite sorry for her actually. You'd really have to ask him though."
+      "line": "He made a big deal about it to Mary the Maid, calling her useless and incompetent. I felt quite sorry for her actually. You'd really have to ask him though.",
+      "delivery": "sympathetic"
     },
     {
       "character": "Stanford",
@@ -944,7 +1042,8 @@
     },
     {
       "character": "Player",
-      "line": "I have proof that it wasn't any of the servants!"
+      "line": "I have proof that it wasn't any of the servants!",
+      "delivery": "confident"
     },
     {
       "character": "Player",
@@ -960,7 +1059,8 @@
     },
     {
       "character": "Guard",
-      "line": "Oh really? How did you get that?"
+      "line": "Oh really? How did you get that?",
+      "delivery": "intrigued"
     },
     {
       "character": "Player",
@@ -984,11 +1084,13 @@
     },
     {
       "character": "Guard",
-      "line": "Hmm. That's some good detective work there. We need more evidence before we can close the case though. Keep up the good work!"
+      "line": "Hmm. That's some good detective work there. We need more evidence before we can close the case though. Keep up the good work!",
+      "delivery": "encouraging"
     },
     {
       "character": "Player",
-      "line": "I have the finger prints of the culprit!"
+      "line": "I have the finger prints of the culprit!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
@@ -1016,7 +1118,8 @@
     },
     {
       "character": "Guard",
-      "line": "... I'm impressed. How on earth did you think of something like that? I've never heard of such a technique for finding criminals before!"
+      "line": "... I'm impressed. How on earth did you think of something like that? I've never heard of such a technique for finding criminals before!",
+      "delivery": "amazed, impressed"
     },
     {
       "character": "Guard",
@@ -1024,7 +1127,8 @@
     },
     {
       "character": "Player",
-      "line": "I have conclusive proof who the killer was."
+      "line": "I have conclusive proof who the killer was.",
+      "delivery": "confident, triumphant"
     },
     {
       "character": "Guard",
@@ -1032,7 +1136,8 @@
     },
     {
       "character": "Player",
-      "line": "I don't think it was an intruder, and I don't think Lord Sinclair was killed by being stabbed."
+      "line": "I don't think it was an intruder, and I don't think Lord Sinclair was killed by being stabbed.",
+      "delivery": "measured, confident"
     },
     {
       "character": "Guard",
@@ -1044,7 +1149,8 @@
     },
     {
       "character": "Player",
-      "line": "Nobody heard any signs of a struggle either. I think the knife was there to throw suspicion away from the real culprit."
+      "line": "Nobody heard any signs of a struggle either. I think the knife was there to throw suspicion away from the real culprit.",
+      "delivery": "triumphant"
     },
     {
       "character": "Guard",
@@ -1056,11 +1162,13 @@
     },
     {
       "character": "Guard",
-      "line": "Excellent work - have you considered a career as a detective? But I'm afraid it's still not quite enough..."
+      "line": "Excellent work - have you considered a career as a detective? But I'm afraid it's still not quite enough...",
+      "delivery": "impressed"
     },
     {
       "character": "Guard",
-      "line": "Yes. There's no doubt about it. It must have been Anna who killed her father. All of the guards must congratulate you on your excellent work in helping us to solve this case."
+      "line": "Yes. There's no doubt about it. It must have been Anna who killed her father. All of the guards must congratulate you on your excellent work in helping us to solve this case.",
+      "delivery": "triumphant, conclusive"
     },
     {
       "character": "Guard",
@@ -1108,7 +1216,8 @@
     },
     {
       "character": "Anna",
-      "line": "Apparently you aren't as stupid as you look."
+      "line": "Apparently you aren't as stupid as you look.",
+      "delivery": "grudging, dismissive"
     },
     {
       "character": "Bob",
@@ -1152,7 +1261,8 @@
     },
     {
       "character": "Poison Salesman",
-      "line": "I hear you're pretty smart to have solved the Sinclair Murder!"
+      "line": "I hear you're pretty smart to have solved the Sinclair Murder!",
+      "delivery": "cheerful, impressed"
     }
   ],
   "characters": [

@@ -4,7 +4,8 @@
   "lines": [
     {
       "character": "Dwarven Boatman",
-      "line": "Ho there, human!"
+      "line": "Ho there, human!",
+      "delivery": "hearty, welcoming"
     },
     {
       "character": "Player",
@@ -20,7 +21,8 @@
     },
     {
       "character": "Dwarven Boatman",
-      "line": "No no, that's what the ferryman is for! I'm going to Keldagrim, my home!"
+      "line": "No no, that's what the ferryman is for! I'm going to Keldagrim, my home!",
+      "delivery": "cheerful, proud"
     },
     {
       "character": "Player",
@@ -28,11 +30,13 @@
     },
     {
       "character": "Dwarven Boatman",
-      "line": "For a human like you, I can do it for free!"
+      "line": "For a human like you, I can do it for free!",
+      "delivery": "generous, cheerful"
     },
     {
       "character": "Player",
-      "line": "That's a deal!"
+      "line": "That's a deal!",
+      "delivery": "pleased"
     },
     {
       "character": "Dwarven Boatman",
@@ -52,11 +56,13 @@
     },
     {
       "character": "Dwarven Boatman",
-      "line": "Look, there's the statue of King Alvis, guarding the entrance to Keldagrim!"
+      "line": "Look, there's the statue of King Alvis, guarding the entrance to Keldagrim!",
+      "delivery": "proud, enthusiastic"
     },
     {
       "character": "Player",
-      "line": "Amazing! And we're going to go straight past it?"
+      "line": "Amazing! And we're going to go straight past it?",
+      "delivery": "awed"
     },
     {
       "character": "Dwarven Boatman",
@@ -64,43 +70,53 @@
     },
     {
       "character": "Dwarven Boatman",
-      "line": "Er, hold on! There's something wrong!"
+      "line": "Er, hold on! There's something wrong!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Both",
-      "line": "Aaargh!"
+      "line": "Aaargh!",
+      "delivery": "shouting, panicked"
     },
     {
       "character": "Black Guard Berserker",
-      "line": "Halt! By order of the Black Guard, you are under arrest!"
+      "line": "Halt! By order of the Black Guard, you are under arrest!",
+      "delivery": "shouting, commanding"
     },
     {
       "character": "Player",
-      "line": "What?? I didn't do anything! It wasn't me!"
+      "line": "What?? I didn't do anything! It wasn't me!",
+      "delivery": "panicked, defensive"
     },
     {
       "character": "Black Guard Berserker",
-      "line": "Come with us, human! Commander Veldaban wants a word with you!"
+      "line": "Come with us, human! Commander Veldaban wants a word with you!",
+      "delivery": "gruff, commanding"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Identify yourself, human!"
+      "line": "Identify yourself, human!",
+      "delivery": "stern, commanding"
     },
     {
       "character": "Player",
-      "line": "I err, I'm. I was told I was under arrest. I had a little accident on the way in here."
+      "line": "I err, I'm. I was told I was under arrest. I had a little accident on the way in here.",
+      "delivery": "nervous, stammering"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Ah, so you're the one who knocked over the statue of our glorious king!"
+      "line": "Ah, so you're the one who knocked over the statue of our glorious king!",
+      "delivery": "knowing, wry"
     },
     {
       "character": "Player",
-      "line": "I suppose so... I mean, I didn't do it on purpose or anything..."
+      "line": "I suppose so... I mean, I didn't do it on purpose or anything...",
+      "delivery": "sheepish"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Ah, don't worry about it!"
+      "line": "Ah, don't worry about it!",
+      "delivery": "reassuring, warm"
     },
     {
       "character": "Commander Veldaban",
@@ -120,7 +136,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "Ah, so you are the one! I heard you banished a demon by defeating its avatar, most impressive."
+      "line": "Ah, so you are the one! I heard you banished a demon by defeating its avatar, most impressive.",
+      "delivery": "impressed"
     },
     {
       "character": "Player",
@@ -128,7 +145,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "Ah, he is forever trying to break open that rock of his, until his death I sometimes think."
+      "line": "Ah, he is forever trying to break open that rock of his, until his death I sometimes think.",
+      "delivery": "wry, weary"
     },
     {
       "character": "Player",
@@ -136,15 +154,18 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "Perhaps, human, perhaps... but if even our multicannon does not dent it, what chance is there really?"
+      "line": "Perhaps, human, perhaps... but if even our multicannon does not dent it, what chance is there really?",
+      "delivery": "doubtful"
     },
     {
       "character": "Player",
-      "line": "Well, ehm... nice to meet you, Veldaban."
+      "line": "Well, ehm... nice to meet you, Veldaban.",
+      "delivery": "awkward"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Now listen carefully. I have a task for you."
+      "line": "Now listen carefully. I have a task for you.",
+      "delivery": "serious"
     },
     {
       "character": "Commander Veldaban",
@@ -156,11 +177,13 @@
     },
     {
       "character": "Player",
-      "line": "No, I can't be bothered."
+      "line": "No, I can't be bothered.",
+      "delivery": "dismissive"
     },
     {
       "character": "Commander Veldaban",
-      "line": "You destroy our statue and you cannot be bothered to help rebuild it? By Guthix, you are rude... even for a human!"
+      "line": "You destroy our statue and you cannot be bothered to help rebuild it? By Guthix, you are rude... even for a human!",
+      "delivery": "indignant, angry"
     },
     {
       "character": "Player",
@@ -168,7 +191,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "You are a good human,."
+      "line": "You are a good human,.",
+      "delivery": "approving, warm"
     },
     {
       "character": "Commander Veldaban",
@@ -176,7 +200,8 @@
     },
     {
       "character": "Player",
-      "line": "To be honest I'm not much of a sculptor myself."
+      "line": "To be honest I'm not much of a sculptor myself.",
+      "delivery": "wry"
     },
     {
       "character": "Commander Veldaban",
@@ -212,7 +237,8 @@
     },
     {
       "character": "Player",
-      "line": "I haven't really done much yet..."
+      "line": "I haven't really done much yet...",
+      "delivery": "sheepish"
     },
     {
       "character": "Commander Veldaban",
@@ -224,11 +250,13 @@
     },
     {
       "character": "Riki the sculptor's model",
-      "line": "Talk... to Blasidar."
+      "line": "Talk... to Blasidar.",
+      "delivery": "exhausted, monotone"
     },
     {
       "character": "Player",
-      "line": "What? No, I was wondering if you could help me."
+      "line": "What? No, I was wondering if you could help me.",
+      "delivery": "confused"
     },
     {
       "character": "Player",
@@ -240,7 +268,8 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Why, yes, yes, that I am!"
+      "line": "Why, yes, yes, that I am!",
+      "delivery": "proud, enthusiastic"
     },
     {
       "character": "Player",
@@ -248,7 +277,8 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Oh, I don't need an assistant sculptor, really, I can do just fine on my own."
+      "line": "Oh, I don't need an assistant sculptor, really, I can do just fine on my own.",
+      "delivery": "flustered"
     },
     {
       "character": "Player",
@@ -260,7 +290,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm not a model!"
+      "line": "I'm not a model!",
+      "delivery": "exasperated"
     },
     {
       "character": "Blasidar the sculptor",
@@ -272,7 +303,8 @@
     },
     {
       "character": "Player",
-      "line": "Ehm, right, okay."
+      "line": "Ehm, right, okay.",
+      "delivery": "hesitant"
     },
     {
       "character": "Player",
@@ -284,19 +316,23 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "But the statue itself has broken into a million pieces... and we dwarves aren't very good painters, you know, so we don't have any paintings of it either."
+      "line": "But the statue itself has broken into a million pieces... and we dwarves aren't very good painters, you know, so we don't have any paintings of it either.",
+      "delivery": "rueful"
     },
     {
       "character": "Player",
-      "line": "Not a very artistic race, then, are you?"
+      "line": "Not a very artistic race, then, are you?",
+      "delivery": "teasing"
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "No, that's not what I said, I said we're not very good painters."
+      "line": "No, that's not what I said, I said we're not very good painters.",
+      "delivery": "defensive"
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "We're excellent with, for example, stone. Oh yes, quite good if I say so myself."
+      "line": "We're excellent with, for example, stone. Oh yes, quite good if I say so myself.",
+      "delivery": "proud"
     },
     {
       "character": "Blasidar the sculptor",
@@ -308,11 +344,13 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "How rude is that? I don't think the Black Guard will be very pleased with you!"
+      "line": "How rude is that? I don't think the Black Guard will be very pleased with you!",
+      "delivery": "indignant"
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Excellent, excellent! Now what I need is the following..."
+      "line": "Excellent, excellent! Now what I need is the following...",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Blasidar the sculptor",
@@ -324,7 +362,8 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Also, I need a battleaxe. Now this is particularly important. You are in luck, however, as I believe King Alvis' original axe still survives."
+      "line": "Also, I need a battleaxe. Now this is particularly important. You are in luck, however, as I believe King Alvis' original axe still survives.",
+      "delivery": "emphatic"
     },
     {
       "character": "Player",
@@ -336,11 +375,13 @@
     },
     {
       "character": "Player",
-      "line": "But... wait, wait, how am I supposed to find all this?"
+      "line": "But... wait, wait, how am I supposed to find all this?",
+      "delivery": "bewildered"
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "I don't know! You're supposed to find that out for me!"
+      "line": "I don't know! You're supposed to find that out for me!",
+      "delivery": "exasperated"
     },
     {
       "character": "Blasidar the sculptor",
@@ -352,7 +393,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "Welcome to my clothes stall, can I help you with anything?"
+      "line": "Welcome to my clothes stall, can I help you with anything?",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",
@@ -368,7 +410,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "Oh dear, that statue is in a terrible mess, isn't it?"
+      "line": "Oh dear, that statue is in a terrible mess, isn't it?",
+      "delivery": "dismayed"
     },
     {
       "character": "Vermundi",
@@ -380,7 +423,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "Oh no, no, I can't quite recall what the clothes looked like. But I know someone who can!"
+      "line": "Oh no, no, I can't quite recall what the clothes looked like. But I know someone who can!",
+      "delivery": "helpful"
     },
     {
       "character": "Player",
@@ -412,7 +456,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "Sounds like a fun little thing to do!"
+      "line": "Sounds like a fun little thing to do!",
+      "delivery": "cheerful"
     },
     {
       "character": "Player",
@@ -448,7 +493,8 @@
     },
     {
       "character": "Librarian",
-      "line": "Let me think... I believe it is on the top shelf of one of the bookcases in the library, because it is such an old book."
+      "line": "Let me think... I believe it is on the top shelf of one of the bookcases in the library, because it is such an old book.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -456,7 +502,8 @@
     },
     {
       "character": "Librarian",
-      "line": "I don't remember, sorry. You will have to try several bookcases. You will probably need the ladders, tall a human though you are."
+      "line": "I don't remember, sorry. You will have to try several bookcases. You will probably need the ladders, tall a human though you are.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -464,7 +511,8 @@
     },
     {
       "character": "Player",
-      "line": "Bah. Annoying dwarven ladders, they're much too flimsy."
+      "line": "Bah. Annoying dwarven ladders, they're much too flimsy.",
+      "delivery": "annoyed, grumbling"
     },
     {
       "character": "Player",
@@ -484,7 +532,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "A book, how wonderful!"
+      "line": "A book, how wonderful!",
+      "delivery": "delighted"
     },
     {
       "character": "Player",
@@ -500,7 +549,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "I only have one small problem, you see... I've run out of fuel for my spinning machine."
+      "line": "I only have one small problem, you see... I've run out of fuel for my spinning machine.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -568,7 +618,8 @@
     },
     {
       "character": "Player",
-      "line": "What, after all that work?"
+      "line": "What, after all that work?",
+      "delivery": "indignant"
     },
     {
       "character": "Vermundi",
@@ -576,7 +627,8 @@
     },
     {
       "character": "Player",
-      "line": "I'll pay, I'll pay."
+      "line": "I'll pay, I'll pay.",
+      "delivery": "resigned"
     },
     {
       "character": "Vermundi",
@@ -584,7 +636,8 @@
     },
     {
       "character": "Vermundi",
-      "line": "There we go! And look how beautiful these clothes look!"
+      "line": "There we go! And look how beautiful these clothes look!",
+      "delivery": "proud, delighted"
     },
     {
       "character": "Player",
@@ -592,11 +645,13 @@
     },
     {
       "character": "Player",
-      "line": "I won't pay, that's outrageous!"
+      "line": "I won't pay, that's outrageous!",
+      "delivery": "indignant"
     },
     {
       "character": "Vermundi",
-      "line": "I'm sorry you feel that way, I was looking forward to making these clothes."
+      "line": "I'm sorry you feel that way, I was looking forward to making these clothes.",
+      "delivery": "disappointed"
     },
     {
       "character": "Player",
@@ -616,7 +671,8 @@
     },
     {
       "character": "Player",
-      "line": "The best you have! Boots fit for a king!"
+      "line": "The best you have! Boots fit for a king!",
+      "delivery": "grand, emphatic"
     },
     {
       "character": "Saro",
@@ -624,7 +680,8 @@
     },
     {
       "character": "Saro",
-      "line": "Or rather, I had. I'm afraid I sold them, come to think of it."
+      "line": "Or rather, I had. I'm afraid I sold them, come to think of it.",
+      "delivery": "sheepish"
     },
     {
       "character": "Player",
@@ -636,11 +693,13 @@
     },
     {
       "character": "Player",
-      "line": "Please, tell me! Who did you sell the boots to?"
+      "line": "Please, tell me! Who did you sell the boots to?",
+      "delivery": "pleading, urgent"
     },
     {
       "character": "Saro",
-      "line": "Old chap here in the west part of town, his name is Dromund. He's quite well known, not only for his wealth, but also for his... pecularities."
+      "line": "Old chap here in the west part of town, his name is Dromund. He's quite well known, not only for his wealth, but also for his... pecularities.",
+      "delivery": "gossipy"
     },
     {
       "character": "Player",
@@ -652,7 +711,8 @@
     },
     {
       "character": "Saro",
-      "line": "And if you're going to try to get the boots off him, good luck. You'll need it."
+      "line": "And if you're going to try to get the boots off him, good luck. You'll need it.",
+      "delivery": "wry, ominous"
     },
     {
       "character": "Player",
@@ -668,15 +728,18 @@
     },
     {
       "character": "Dromund",
-      "line": "You're trespassing, get out!"
+      "line": "You're trespassing, get out!",
+      "delivery": "hostile, shouting"
     },
     {
       "character": "Player",
-      "line": "Calm down! I just want to ask you a few questions."
+      "line": "Calm down! I just want to ask you a few questions.",
+      "delivery": "placating"
     },
     {
       "character": "Dromund",
-      "line": "Are you with the Black Guard or something?"
+      "line": "Are you with the Black Guard or something?",
+      "delivery": "paranoid, suspicious"
     },
     {
       "character": "Dromund",
@@ -692,7 +755,8 @@
     },
     {
       "character": "Dromund",
-      "line": "Right, and nice they look too on my display tables."
+      "line": "Right, and nice they look too on my display tables.",
+      "delivery": "possessive, smug"
     },
     {
       "character": "Player",
@@ -700,11 +764,13 @@
     },
     {
       "character": "Dromund",
-      "line": "Good one, human!"
+      "line": "Good one, human!",
+      "delivery": "scoffing"
     },
     {
       "character": "Dromund",
-      "line": "They're mine and the last thing I'll do is part with them!"
+      "line": "They're mine and the last thing I'll do is part with them!",
+      "delivery": "possessive, adamant"
     },
     {
       "character": "Player",
@@ -712,7 +778,8 @@
     },
     {
       "character": "Dromund",
-      "line": "Get out you pesky human! The boots are mine and you're not having them!"
+      "line": "Get out you pesky human! The boots are mine and you're not having them!",
+      "delivery": "angry, shouting"
     },
     {
       "character": "Player",
@@ -720,31 +787,38 @@
     },
     {
       "character": "Dromund",
-      "line": "Get out of here before I get one of my servants to throw you out!"
+      "line": "Get out of here before I get one of my servants to throw you out!",
+      "delivery": "threatening"
     },
     {
       "character": "Dromund",
-      "line": "What are you doing there?!"
+      "line": "What are you doing there?!",
+      "delivery": "alarmed, suspicious"
     },
     {
       "character": "Player",
-      "line": "Nothing..."
+      "line": "Nothing...",
+      "delivery": "feigned innocence"
     },
     {
       "character": "Cat",
-      "line": "Get your hands off that, you dirty human!"
+      "line": "Get your hands off that, you dirty human!",
+      "delivery": "hissing, territorial"
     },
     {
       "character": "Dromund",
-      "line": "Stay away from there! Who do you think you are, coming into my house like that?"
+      "line": "Stay away from there! Who do you think you are, coming into my house like that?",
+      "delivery": "angry"
     },
     {
       "character": "Dromund",
-      "line": "What are you doing, casting spells in my house? Get out!"
+      "line": "What are you doing, casting spells in my house? Get out!",
+      "delivery": "outraged"
     },
     {
       "character": "Dromund",
-      "line": "Hey! Is there someone at my window?"
+      "line": "Hey! Is there someone at my window?",
+      "delivery": "suspicious"
     },
     {
       "character": "Dromund",
@@ -776,11 +850,13 @@
     },
     {
       "character": "Santiri",
-      "line": "The King's axe!"
+      "line": "The King's axe!",
+      "delivery": "surprised"
     },
     {
       "character": "Santiri",
-      "line": "What would a human want with it?"
+      "line": "What would a human want with it?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
@@ -792,7 +868,8 @@
     },
     {
       "character": "Santiri",
-      "line": "Not that I'm entirely sure that it was merely an accident, of course."
+      "line": "Not that I'm entirely sure that it was merely an accident, of course.",
+      "delivery": "insinuating"
     },
     {
       "character": "Player",
@@ -800,19 +877,23 @@
     },
     {
       "character": "Santiri",
-      "line": "I'm not entirely sure what I mean, human. But the axe, you say, what exactly did you need it for?"
+      "line": "I'm not entirely sure what I mean, human. But the axe, you say, what exactly did you need it for?",
+      "delivery": "evasive"
     },
     {
       "character": "Player",
-      "line": "Just give me the axe already, I know you have it!"
+      "line": "Just give me the axe already, I know you have it!",
+      "delivery": "demanding"
     },
     {
       "character": "Santiri",
-      "line": "I'll give it to you, embedded into your head!"
+      "line": "I'll give it to you, embedded into your head!",
+      "delivery": "angry, threatening"
     },
     {
       "character": "Player",
-      "line": "I've had just about enough of this! Goodbye!"
+      "line": "I've had just about enough of this! Goodbye!",
+      "delivery": "fed up"
     },
     {
       "character": "Player",
@@ -824,7 +905,8 @@
     },
     {
       "character": "Santiri",
-      "line": "It's been in my family's care for a few generations now, after it has been lost for a long time."
+      "line": "It's been in my family's care for a few generations now, after it has been lost for a long time.",
+      "delivery": "proud"
     },
     {
       "character": "Player",
@@ -840,7 +922,8 @@
     },
     {
       "character": "Santiri",
-      "line": "There is not much left of it, to be honest. The blade has almost completely rusted away, and the sapphires on the hilt were either stolen or were washed away by the river before it was found."
+      "line": "There is not much left of it, to be honest. The blade has almost completely rusted away, and the sapphires on the hilt were either stolen or were washed away by the river before it was found.",
+      "delivery": "rueful"
     },
     {
       "character": "Santiri",
@@ -856,7 +939,8 @@
     },
     {
       "character": "Player",
-      "line": "This is tedious, I've lost interest."
+      "line": "This is tedious, I've lost interest.",
+      "delivery": "bored"
     },
     {
       "character": "Santiri",
@@ -868,11 +952,13 @@
     },
     {
       "character": "Santiri",
-      "line": "On your own? I doubt it. The sapphires, perhaps, if you are a skilled enough crafter. But the blade..."
+      "line": "On your own? I doubt it. The sapphires, perhaps, if you are a skilled enough crafter. But the blade...",
+      "delivery": "doubtful"
     },
     {
       "character": "Santiri",
-      "line": "Your feeble smithing skills will be of no use. No, you will need expert help on this."
+      "line": "Your feeble smithing skills will be of no use. No, you will need expert help on this.",
+      "delivery": "dismissive"
     },
     {
       "character": "Santiri",
@@ -884,11 +970,13 @@
     },
     {
       "character": "Santiri",
-      "line": "Clearly you are a master smith, perhaps one of the best human smiths in all of Gielinor. Yet this is beyond even you."
+      "line": "Clearly you are a master smith, perhaps one of the best human smiths in all of Gielinor. Yet this is beyond even you.",
+      "delivery": "impressed"
     },
     {
       "character": "Santiri",
-      "line": "What you need is the skills of an Imcando dwarf... but they must all be dead by now."
+      "line": "What you need is the skills of an Imcando dwarf... but they must all be dead by now.",
+      "delivery": "wistful"
     },
     {
       "character": "Player",
@@ -908,7 +996,8 @@
     },
     {
       "character": "Player",
-      "line": "Oh, I know where I can find an Imcando dwarf!"
+      "line": "Oh, I know where I can find an Imcando dwarf!",
+      "delivery": "excited"
     },
     {
       "character": "Player",
@@ -916,7 +1005,8 @@
     },
     {
       "character": "Santiri",
-      "line": "Really? That is amazing news."
+      "line": "Really? That is amazing news.",
+      "delivery": "delighted, surprised"
     },
     {
       "character": "Player",
@@ -928,11 +1018,13 @@
     },
     {
       "character": "Santiri",
-      "line": "I will entrust you with King Alvis' battleaxe, then, human."
+      "line": "I will entrust you with King Alvis' battleaxe, then, human.",
+      "delivery": "solemn"
     },
     {
       "character": "Santiri",
-      "line": "Help to restore it to its former glory!"
+      "line": "Help to restore it to its former glory!",
+      "delivery": "earnest"
     },
     {
       "character": "Santiri",
@@ -940,15 +1032,18 @@
     },
     {
       "character": "Player",
-      "line": "Thank you. I will not disappoint you."
+      "line": "Thank you. I will not disappoint you.",
+      "delivery": "earnest"
     },
     {
       "character": "Player",
-      "line": "I don't really care for it after all."
+      "line": "I don't really care for it after all.",
+      "delivery": "dismissive"
     },
     {
       "character": "Santiri",
-      "line": "Then stop wasting my time."
+      "line": "Then stop wasting my time.",
+      "delivery": "annoyed, curt"
     },
     {
       "character": "Santiri",
@@ -956,11 +1051,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes, but I was just wondering what I should be doing with this piece of junk."
+      "line": "Yes, but I was just wondering what I should be doing with this piece of junk.",
+      "delivery": "dismissive"
     },
     {
       "character": "Santiri",
-      "line": "Piece of junk??"
+      "line": "Piece of junk??",
+      "delivery": "offended, incredulous"
     },
     {
       "character": "Santiri",
@@ -968,19 +1065,23 @@
     },
     {
       "character": "Player",
-      "line": "Oh yes, of course, that's what I was going to do!"
+      "line": "Oh yes, of course, that's what I was going to do!",
+      "delivery": "sheepish, covering"
     },
     {
       "character": "Player",
-      "line": "I... sort of... ehm..."
+      "line": "I... sort of... ehm...",
+      "delivery": "stammering, guilty"
     },
     {
       "character": "Player",
-      "line": "Look, I lost it!"
+      "line": "Look, I lost it!",
+      "delivery": "confessing, sheepish"
     },
     {
       "character": "Santiri",
-      "line": "At least you are honest, human."
+      "line": "At least you are honest, human.",
+      "delivery": "resigned"
     },
     {
       "character": "Santiri",
@@ -988,11 +1089,13 @@
     },
     {
       "character": "Santiri",
-      "line": "Be careful with it this time, alright?"
+      "line": "Be careful with it this time, alright?",
+      "delivery": "stern"
     },
     {
       "character": "Player",
-      "line": "Yes, and I've crafted some sapphires on the hilt, look!"
+      "line": "Yes, and I've crafted some sapphires on the hilt, look!",
+      "delivery": "proud"
     },
     {
       "character": "Santiri",
@@ -1000,11 +1103,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes, and I got Thurgo the Imcando dwarf to fix it up nice and proper! Look!"
+      "line": "Yes, and I got Thurgo the Imcando dwarf to fix it up nice and proper! Look!",
+      "delivery": "proud, excited"
     },
     {
       "character": "Santiri",
-      "line": "Oh, that's beautiful! All it needs now is three sapphires crafted onto the hilt."
+      "line": "Oh, that's beautiful! All it needs now is three sapphires crafted onto the hilt.",
+      "delivery": "admiring"
     },
     {
       "character": "Player",
@@ -1012,7 +1117,8 @@
     },
     {
       "character": "Santiri",
-      "line": "That is amazing! Absolutely astounding work!"
+      "line": "That is amazing! Absolutely astounding work!",
+      "delivery": "amazed, delighted"
     },
     {
       "character": "Santiri",
@@ -1052,7 +1158,8 @@
     },
     {
       "character": "Librarian",
-      "line": "Ah, I'm afraid I can't help you here, Keldagrim lost contact with that particular tribe of dwarves a long time ago."
+      "line": "Ah, I'm afraid I can't help you here, Keldagrim lost contact with that particular tribe of dwarves a long time ago.",
+      "delivery": "apologetic"
     },
     {
       "character": "Player",
@@ -1088,7 +1195,8 @@
     },
     {
       "character": "Reldo",
-      "line": "Unfortunately, about a century ago, the once thriving group was wiped out during the barbarian invasions of that time."
+      "line": "Unfortunately, about a century ago, the once thriving group was wiped out during the barbarian invasions of that time.",
+      "delivery": "somber"
     },
     {
       "character": "Reldo",
@@ -1096,11 +1204,13 @@
     },
     {
       "character": "Reldo",
-      "line": "However, I have heard tales of their love for redberry pie. Perhaps one of those could convince one to reveal their true heritage."
+      "line": "However, I have heard tales of their love for redberry pie. Perhaps one of those could convince one to reveal their true heritage.",
+      "delivery": "knowing"
     },
     {
       "character": "Player",
-      "line": "So I just go around offering random dwarves redberry pie?"
+      "line": "So I just go around offering random dwarves redberry pie?",
+      "delivery": "skeptical"
     },
     {
       "character": "Reldo",
@@ -1112,7 +1222,8 @@
     },
     {
       "character": "Thurgo",
-      "line": "No. I don't do that anymore. I'm getting old."
+      "line": "No. I don't do that anymore. I'm getting old.",
+      "delivery": "weary, grumbling"
     },
     {
       "character": "Thurgo",
@@ -1124,11 +1235,13 @@
     },
     {
       "character": "Thurgo",
-      "line": "I'd never say no to a redberry pie! We Imcando dwarves love them - they're GREAT!"
+      "line": "I'd never say no to a redberry pie! We Imcando dwarves love them - they're GREAT!",
+      "delivery": "enthusiastic, eager"
     },
     {
       "character": "Thurgo",
-      "line": "By Guthix! THAT was good pie! Anyone who makes pie like THAT has got to be alright!"
+      "line": "By Guthix! THAT was good pie! Anyone who makes pie like THAT has got to be alright!",
+      "delivery": "delighted, hearty"
     },
     {
       "character": "Thurgo",
@@ -1144,11 +1257,13 @@
     },
     {
       "character": "Player",
-      "line": "It was given to me by someone in Keldagrim. I prefer not to say any more than that."
+      "line": "It was given to me by someone in Keldagrim. I prefer not to say any more than that.",
+      "delivery": "guarded"
     },
     {
       "character": "Thurgo",
-      "line": "Ah, Keldagrim. We have not been there for a long time."
+      "line": "Ah, Keldagrim. We have not been there for a long time.",
+      "delivery": "wistful, nostalgic"
     },
     {
       "character": "Player",
@@ -1156,7 +1271,8 @@
     },
     {
       "character": "Thurgo",
-      "line": "Never mind."
+      "line": "Never mind.",
+      "delivery": "guarded, closed off"
     },
     {
       "character": "Thurgo",
@@ -1216,7 +1332,8 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Excellent, excellent! Go and give them to Riki over there so I can start my work on the base of the statue!"
+      "line": "Excellent, excellent! Go and give them to Riki over there so I can start my work on the base of the statue!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Blasidar the sculptor",
@@ -1248,7 +1365,8 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Look a little harder please!"
+      "line": "Look a little harder please!",
+      "delivery": "impatient"
     },
     {
       "character": "Player",
@@ -1256,11 +1374,13 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "What, that old thing? Is that a piece of rubbish you found in the garbage?"
+      "line": "What, that old thing? Is that a piece of rubbish you found in the garbage?",
+      "delivery": "incredulous, disdainful"
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "It looks so brittle it might well fall apart at any moment. I can't base my statue on that!"
+      "line": "It looks so brittle it might well fall apart at any moment. I can't base my statue on that!",
+      "delivery": "dismayed"
     },
     {
       "character": "Blasidar the sculptor",
@@ -1292,7 +1412,8 @@
     },
     {
       "character": "Riki the sculptor's model",
-      "line": "Thank... you."
+      "line": "Thank... you.",
+      "delivery": "exhausted, monotone"
     },
     {
       "character": "Player",
@@ -1316,7 +1437,8 @@
     },
     {
       "character": "Riki the sculptor's model",
-      "line": "Yes... I do."
+      "line": "Yes... I do.",
+      "delivery": "deadpan, exhausted"
     },
     {
       "character": "Player",
@@ -1328,7 +1450,8 @@
     },
     {
       "character": "Riki the sculptor's model",
-      "line": "No... it isn't."
+      "line": "No... it isn't.",
+      "delivery": "monotone, exhausted"
     },
     {
       "character": "Player",
@@ -1336,7 +1459,8 @@
     },
     {
       "character": "Player",
-      "line": "It's very tiring trying to talk to you, you know?"
+      "line": "It's very tiring trying to talk to you, you know?",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -1352,7 +1476,8 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Oh no, no no, apparantly the Consortium has decided that crowns are out of fashion. As well as kings. Well, kings have been out of fashion here for hundreds of years."
+      "line": "Oh no, no no, apparantly the Consortium has decided that crowns are out of fashion. As well as kings. Well, kings have been out of fashion here for hundreds of years.",
+      "delivery": "airy, musing"
     },
     {
       "character": "Player",
@@ -1360,15 +1485,18 @@
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "I don't think they've quite made a decision on that. You see, I think each of the directors of the Consortium fancies their own face on top of the statue."
+      "line": "I don't think they've quite made a decision on that. You see, I think each of the directors of the Consortium fancies their own face on top of the statue.",
+      "delivery": "wry, gossipy"
     },
     {
       "character": "Player",
-      "line": "What? But I thought the whole point was that it would look like king what's-his-face?"
+      "line": "What? But I thought the whole point was that it would look like king what's-his-face?",
+      "delivery": "exasperated"
     },
     {
       "character": "Blasidar the sculptor",
-      "line": "Yes, the Consortium can be a little fickle like that, unfortunately."
+      "line": "Yes, the Consortium can be a little fickle like that, unfortunately.",
+      "delivery": "rueful"
     },
     {
       "character": "Blasidar the sculptor",
@@ -1396,11 +1524,13 @@
     },
     {
       "character": "Player",
-      "line": "I'm glad I don't have to talk to you anymore!"
+      "line": "I'm glad I don't have to talk to you anymore!",
+      "delivery": "relieved, snarky"
     },
     {
       "character": "Riki the sculptor's model",
-      "line": "Hrm."
+      "line": "Hrm.",
+      "delivery": "flat, monotone"
     },
     {
       "character": "[company name] Secretary",
@@ -1452,7 +1582,8 @@
     },
     {
       "character": "Purple Pewter Secretary",
-      "line": "Oh, by the way, I really like that outfit of yours!"
+      "line": "Oh, by the way, I really like that outfit of yours!",
+      "delivery": "cheerful, complimentary"
     },
     {
       "character": "Player",
@@ -1580,11 +1711,13 @@
     },
     {
       "character": "[company name] Secretary",
-      "line": "That does not reflect well on you."
+      "line": "That does not reflect well on you.",
+      "delivery": "disapproving, cold"
     },
     {
       "character": "[company name] Secretary",
-      "line": "Please, it would be appreciated if you made up your mind before you ask. I'm very busy you know."
+      "line": "Please, it would be appreciated if you made up your mind before you ask. I'm very busy you know.",
+      "delivery": "testy"
     },
     {
       "character": "[company name] Secretary",
@@ -1600,11 +1733,13 @@
     },
     {
       "character": "[company name] Secretary",
-      "line": "Please, in that case, you're wasting my time."
+      "line": "Please, in that case, you're wasting my time.",
+      "delivery": "curt, annoyed"
     },
     {
       "character": "[company name] Secretary",
-      "line": "Oh. Didn't know you were the type to refuse work."
+      "line": "Oh. Didn't know you were the type to refuse work.",
+      "delivery": "surprised, disapproving"
     },
     {
       "character": "[company name] Secretary",
@@ -1628,7 +1763,8 @@
     },
     {
       "character": "[company name] Secretary",
-      "line": "And I would grant you such a request, why?"
+      "line": "And I would grant you such a request, why?",
+      "delivery": "haughty"
     },
     {
       "character": "[company name] Secretary",
@@ -1636,19 +1772,23 @@
     },
     {
       "character": "[company name] Secretary",
-      "line": "I don't see any reason to grant such a privilege to a lowly worker. No, first you must prove yourself."
+      "line": "I don't see any reason to grant such a privilege to a lowly worker. No, first you must prove yourself.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
-      "line": "But you don't understand. I've come from Blasidar the sculptor."
+      "line": "But you don't understand. I've come from Blasidar the sculptor.",
+      "delivery": "insistent"
     },
     {
       "character": "[company name] Secretary",
-      "line": "Blasidar does not command the."
+      "line": "Blasidar does not command the.",
+      "delivery": "curt"
     },
     {
       "character": "Player",
-      "line": "But... Commander Veldaban of the Black Guard has instructed me to do this!"
+      "line": "But... Commander Veldaban of the Black Guard has instructed me to do this!",
+      "delivery": "insistent, pleading"
     },
     {
       "character": "[company name] Secretary",
@@ -1692,11 +1832,13 @@
     },
     {
       "character": "Player",
-      "line": "I've completed your task! Here is your ore!"
+      "line": "I've completed your task! Here is your ore!",
+      "delivery": "eager"
     },
     {
       "character": "[company name] Secretary",
-      "line": "And not a minute too late as well. Well done."
+      "line": "And not a minute too late as well. Well done.",
+      "delivery": "approving"
     },
     {
       "character": "[company name] Secretary",
@@ -1744,7 +1886,8 @@
     },
     {
       "character": "Red Axe Secretary",
-      "line": "Don't bother me!"
+      "line": "Don't bother me!",
+      "delivery": "hostile, curt"
     },
     {
       "character": "Player",
@@ -1760,7 +1903,8 @@
     },
     {
       "character": "Brown Engine Secretary",
-      "line": "The Brown Engine. We are one of the eight major mining companies, but our standard is higher than that of all the others."
+      "line": "The Brown Engine. We are one of the eight major mining companies, but our standard is higher than that of all the others.",
+      "delivery": "snobbish, proud"
     },
     {
       "character": "Player",
@@ -1768,7 +1912,8 @@
     },
     {
       "character": "Brown Engine Secretary",
-      "line": "Our policy is strictly gentlemen only, you see."
+      "line": "Our policy is strictly gentlemen only, you see.",
+      "delivery": "prim, condescending"
     },
     {
       "character": "Player",
@@ -1780,11 +1925,13 @@
     },
     {
       "character": "Brown Engine Secretary",
-      "line": "Oh, my dear, please don't take it personally."
+      "line": "Oh, my dear, please don't take it personally.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
-      "line": "Don't patronise me. I've had enough of this."
+      "line": "Don't patronise me. I've had enough of this.",
+      "delivery": "indignant, offended"
     },
     {
       "character": "Brown Engine Secretary",
@@ -1792,7 +1939,8 @@
     },
     {
       "character": "Player",
-      "line": "How rude."
+      "line": "How rude.",
+      "delivery": "offended, curt"
     },
     {
       "character": "Yellow Fortune Secretary",
@@ -1800,15 +1948,18 @@
     },
     {
       "character": "Yellow Fortune Secretary",
-      "line": "The Yellow Fortune! We are the grandest of the mining companies that make up the Consortium!"
+      "line": "The Yellow Fortune! We are the grandest of the mining companies that make up the Consortium!",
+      "delivery": "proud, boastful"
     },
     {
       "character": "Yellow Fortune Secretary",
-      "line": "Why, because men are not allowed to work in our company, of course!"
+      "line": "Why, because men are not allowed to work in our company, of course!",
+      "delivery": "haughty"
     },
     {
       "character": "Player",
-      "line": "Ha, I see what you mean!"
+      "line": "Ha, I see what you mean!",
+      "delivery": "amused"
     },
     {
       "character": "Player",
@@ -1816,11 +1967,13 @@
     },
     {
       "character": "Yellow Fortune Secretary",
-      "line": "We simply consider men to be weak and inferior."
+      "line": "We simply consider men to be weak and inferior.",
+      "delivery": "dismissive, haughty"
     },
     {
       "character": "Player",
-      "line": "I think I'd better go now, I don't like being insulted."
+      "line": "I think I'd better go now, I don't like being insulted.",
+      "delivery": "offended"
     },
     {
       "character": "Yellow Fortune Secretary",
@@ -1836,11 +1989,13 @@
     },
     {
       "character": "Player",
-      "line": "You shouldn't say such things to people."
+      "line": "You shouldn't say such things to people.",
+      "delivery": "reproachful"
     },
     {
       "character": "[company name] Director",
-      "line": "How did you get in here? I don't have time to talk to you!"
+      "line": "How did you get in here? I don't have time to talk to you!",
+      "delivery": "annoyed, dismissive"
     },
     {
       "character": "[company name] Director",
@@ -1884,7 +2039,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "! I've been hearing great things about you!"
+      "line": "! I've been hearing great things about you!",
+      "delivery": "warm, pleased"
     },
     {
       "character": "[company name] Director",
@@ -1948,7 +2104,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Hmm, interesting, a human joining the."
+      "line": "Hmm, interesting, a human joining the.",
+      "delivery": "intrigued, musing"
     },
     {
       "character": "[company name] Director",
@@ -1964,7 +2121,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "It is agreed then! You are now a 'trusted associate' of the. Welcome!"
+      "line": "It is agreed then! You are now a 'trusted associate' of the. Welcome!",
+      "delivery": "warm, welcoming"
     },
     {
       "character": "Player",
@@ -1984,7 +2142,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Hurry then, I don't have time for all this."
+      "line": "Hurry then, I don't have time for all this.",
+      "delivery": "impatient"
     },
     {
       "character": "[company name] Director",
@@ -2048,7 +2207,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "I don't understand, I thought you were a loyal follower?"
+      "line": "I don't understand, I thought you were a loyal follower?",
+      "delivery": "hurt, confused"
     },
     {
       "character": "[company name] Director",
@@ -2076,7 +2236,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Oh yes, Hreidmar suggested that it should be one of us. The Era of Kings is long gone, after all. Now the Consortium provides peace and above all prosperity... so the statue should reflect this."
+      "line": "Oh yes, Hreidmar suggested that it should be one of us. The Era of Kings is long gone, after all. Now the Consortium provides peace and above all prosperity... so the statue should reflect this.",
+      "delivery": "musing, grand"
     },
     {
       "character": "Player",
@@ -2084,7 +2245,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "He is the Director of the Red Axe. Ha, that old fool quite fancies his own head up on that statue, he thinks he can get away with that just because his company is one of the largest in the Consortium."
+      "line": "He is the Director of the Red Axe. Ha, that old fool quite fancies his own head up on that statue, he thinks he can get away with that just because his company is one of the largest in the Consortium.",
+      "delivery": "scornful, mocking"
     },
     {
       "character": "Player",
@@ -2092,7 +2254,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Certainly not!"
+      "line": "Certainly not!",
+      "delivery": "emphatic, indignant"
     },
     {
       "character": "[company name] Director",
@@ -2104,7 +2267,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Ah, would you now, would you?"
+      "line": "Ah, would you now, would you?",
+      "delivery": "intrigued, scheming"
     },
     {
       "character": "[company name] Director",
@@ -2112,7 +2276,8 @@
     },
     {
       "character": "Player",
-      "line": "What if I were?"
+      "line": "What if I were?",
+      "delivery": "sly"
     },
     {
       "character": "[company name] Director",
@@ -2120,7 +2285,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Yes, that might certainly change things..."
+      "line": "Yes, that might certainly change things...",
+      "delivery": "scheming, musing"
     },
     {
       "character": "[company name] Director",
@@ -2132,11 +2298,13 @@
     },
     {
       "character": "[company name] Director",
-      "line": "We wait until the most opportune moment for you to show your support. Yes, you must really come along to one of our meetings."
+      "line": "We wait until the most opportune moment for you to show your support. Yes, you must really come along to one of our meetings.",
+      "delivery": "conspiratorial"
     },
     {
       "character": "Player",
-      "line": "Now you're really losing me... what meetings?"
+      "line": "Now you're really losing me... what meetings?",
+      "delivery": "confused"
     },
     {
       "character": "[company name] Director",
@@ -2148,11 +2316,13 @@
     },
     {
       "character": "Player",
-      "line": "Yes! Long live the !"
+      "line": "Yes! Long live the !",
+      "delivery": "enthusiastic, rousing"
     },
     {
       "character": "[company name] Director",
-      "line": "Hurrah!"
+      "line": "Hurrah!",
+      "delivery": "jubilant"
     },
     {
       "character": "Player",
@@ -2164,7 +2334,8 @@
     },
     {
       "character": "Player",
-      "line": "I hope you lot figure it out soon. This little job is starting to tire me out."
+      "line": "I hope you lot figure it out soon. This little job is starting to tire me out.",
+      "delivery": "weary, exasperated"
     },
     {
       "character": "[company name] Director",
@@ -2172,7 +2343,8 @@
     },
     {
       "character": "Player",
-      "line": "Just my luck."
+      "line": "Just my luck.",
+      "delivery": "sardonic"
     },
     {
       "character": "Player",
@@ -2204,7 +2376,8 @@
     },
     {
       "character": "[company name] Director",
-      "line": "Guthix be praised!"
+      "line": "Guthix be praised!",
+      "delivery": "jubilant"
     },
     {
       "character": "[company name] Director",
@@ -2216,11 +2389,13 @@
     },
     {
       "character": "Red Axe Director",
-      "line": "I am conducting a meeting here, begone!"
+      "line": "I am conducting a meeting here, begone!",
+      "delivery": "menacing, commanding"
     },
     {
       "character": "Brown Engine Director",
-      "line": "Hello, are you trying to get in touch with your female side?"
+      "line": "Hello, are you trying to get in touch with your female side?",
+      "delivery": "mocking, condescending"
     },
     {
       "character": "Brown Engine Director",
@@ -2228,7 +2403,8 @@
     },
     {
       "character": "Yellow Fortune Director",
-      "line": "You are looking more and more like a male these days,... be careful now!"
+      "line": "You are looking more and more like a male these days,... be careful now!",
+      "delivery": "haughty, teasing"
     },
     {
       "character": "Yellow Fortune Director",
@@ -2244,7 +2420,8 @@
     },
     {
       "character": "Commander Veldaban",
-      "line": "Then perhaps they can finally end their impasse! Well, let's go to the meeting then!"
+      "line": "Then perhaps they can finally end their impasse! Well, let's go to the meeting then!",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -2280,7 +2457,8 @@
     },
     {
       "character": "Player",
-      "line": "I do NOT want to attend, I don't have time to waste."
+      "line": "I do NOT want to attend, I don't have time to waste.",
+      "delivery": "firm, emphatic"
     },
     {
       "character": "Commander Veldaban",
@@ -2308,35 +2486,43 @@
     },
     {
       "character": "Brown Engine Director",
-      "line": "Clearly it is I who is most suitable."
+      "line": "Clearly it is I who is most suitable.",
+      "delivery": "pompous, self-assured"
     },
     {
       "character": "Yellow Fortune Director",
-      "line": "You? How preposterous! Evidently, it should be my head atop that statue!"
+      "line": "You? How preposterous! Evidently, it should be my head atop that statue!",
+      "delivery": "indignant, haughty"
     },
     {
       "character": "Silver Cog Director",
-      "line": "Surely, your claim to the statue can be no better than anyone else's?"
+      "line": "Surely, your claim to the statue can be no better than anyone else's?",
+      "delivery": "pointed, challenging"
     },
     {
       "character": "Red Axe Director",
-      "line": "Enough of this, everyone! This bickering is pointless."
+      "line": "Enough of this, everyone! This bickering is pointless.",
+      "delivery": "commanding, impatient"
     },
     {
       "character": "Red Axe Director",
-      "line": "The Red Axe is the largest and wealthiest mining company, we have all rights here!"
+      "line": "The Red Axe is the largest and wealthiest mining company, we have all rights here!",
+      "delivery": "arrogant, booming"
     },
     {
       "character": "White Chisel Director",
-      "line": "The fact that The Red Axe does its accounting behind closed doors makes that claim quite dubious!"
+      "line": "The fact that The Red Axe does its accounting behind closed doors makes that claim quite dubious!",
+      "delivery": "confrontational, accusatory"
     },
     {
       "character": "Blue Opal Director",
-      "line": "We are not assembled here to squabble over accounting details or the economic state of the Consortium."
+      "line": "We are not assembled here to squabble over accounting details or the economic state of the Consortium.",
+      "delivery": "measured, diplomatic"
     },
     {
       "character": "White Chisel Director",
-      "line": "Dondakan's breaking of his rock, and the finding of his gold, has laid doubt to that claim!"
+      "line": "Dondakan's breaking of his rock, and the finding of his gold, has laid doubt to that claim!",
+      "delivery": "pointed, assertive"
     },
     {
       "character": "Blue Opal Director",
@@ -2344,19 +2530,23 @@
     },
     {
       "character": "Green Gemstone Director",
-      "line": "Perhaps, then, we should choose a director for the statue at random?"
+      "line": "Perhaps, then, we should choose a director for the statue at random?",
+      "delivery": "pragmatic, reasonable"
     },
     {
       "character": "Red Axe Director",
-      "line": "No! I will go on top of that statue! I proposed this in the first place!"
+      "line": "No! I will go on top of that statue! I proposed this in the first place!",
+      "delivery": "furious, insistent"
     },
     {
       "character": "Commander Veldaban",
-      "line": "Veldaban, Commander of the Black Guard in Keldagrim, presenting himself to the Consortium with a guest."
+      "line": "Veldaban, Commander of the Black Guard in Keldagrim, presenting himself to the Consortium with a guest.",
+      "delivery": "formal, announcing"
     },
     {
       "character": "Red Axe Director",
-      "line": "A human, at a Consortium meeting? What is this?"
+      "line": "A human, at a Consortium meeting? What is this?",
+      "delivery": "indignant, incredulous"
     },
     {
       "character": "Commander Veldaban",
@@ -2364,19 +2554,23 @@
     },
     {
       "character": "Purple Pewter Director",
-      "line": "Well then... instead of flipping a coin, why don't we let the human decide?"
+      "line": "Well then... instead of flipping a coin, why don't we let the human decide?",
+      "delivery": "amused, scheming"
     },
     {
       "character": "Brown Engine Director",
-      "line": "Amusing, I accept!"
+      "line": "Amusing, I accept!",
+      "delivery": "amused"
     },
     {
       "character": "Red Axe Director",
-      "line": "This is outrageous! I'm warning you, The Red Axe will boycott the Trade Octagon!"
+      "line": "This is outrageous! I'm warning you, The Red Axe will boycott the Trade Octagon!",
+      "delivery": "furious, threatening"
     },
     {
       "character": "Yellow Fortune Director",
-      "line": "Stop your hollow threats and let the human speak."
+      "line": "Stop your hollow threats and let the human speak.",
+      "delivery": "firm, dismissive"
     },
     {
       "character": "Commander Veldaban",
@@ -2384,23 +2578,28 @@
     },
     {
       "character": "Player",
-      "line": "I choose..."
+      "line": "I choose...",
+      "delivery": "dramatic, suspenseful"
     },
     {
       "character": "Player",
-      "line": "The !"
+      "line": "The !",
+      "delivery": "bold, declarative"
     },
     {
       "character": "Red Axe Director",
-      "line": "You'll regret this, all of you!"
+      "line": "You'll regret this, all of you!",
+      "delivery": "furious, menacing"
     },
     {
       "character": "Yellow Fortune Director",
-      "line": "A male? How preposterous!"
+      "line": "A male? How preposterous!",
+      "delivery": "indignant, scandalized"
     },
     {
       "character": "Silver Cog Director",
-      "line": "But the statue is clearly male! It can't have a female head!"
+      "line": "But the statue is clearly male! It can't have a female head!",
+      "delivery": "protesting, exasperated"
     }
   ],
   "characters": [

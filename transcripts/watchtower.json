@@ -8,7 +8,8 @@
     },
     {
       "character": "Tower guard",
-      "line": "We are the tower guards – our business is our own!"
+      "line": "We are the tower guards – our business is our own!",
+      "delivery": "firm, territorial"
     },
     {
       "character": "Tower guard",
@@ -40,7 +41,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Oh my, oh my! What does it all matter in the end, anyway?"
+      "line": "Oh my, oh my! What does it all matter in the end, anyway?",
+      "delivery": "flustered, despairing"
     },
     {
       "character": "Player",
@@ -48,7 +50,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Oh dear, oh dear. Darn and drat!"
+      "line": "Oh dear, oh dear. Darn and drat!",
+      "delivery": "flustered, exasperated"
     },
     {
       "character": "Watchtower Wizard",
@@ -76,7 +79,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "The crystals! The crystals have been taken!"
+      "line": "The crystals! The crystals have been taken!",
+      "delivery": "alarmed, urgent"
     },
     {
       "character": "Player",
@@ -84,15 +88,18 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Stolen!"
+      "line": "Stolen!",
+      "delivery": "distressed"
     },
     {
       "character": "Player",
-      "line": "Stolen?"
+      "line": "Stolen?",
+      "delivery": "incredulous"
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Yes, yes! Do I have to repeat myself?"
+      "line": "Yes, yes! Do I have to repeat myself?",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -100,7 +107,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Help? Oh wonderful, dear traveller!"
+      "line": "Help? Oh wonderful, dear traveller!",
+      "delivery": "relieved, delighted"
     },
     {
       "character": "Watchtower Wizard",
@@ -132,7 +140,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "That's typical, nowadays. It's left to us wizards to do all the work."
+      "line": "That's typical, nowadays. It's left to us wizards to do all the work.",
+      "delivery": "bitter, resentful"
     },
     {
       "character": "Player",
@@ -140,7 +149,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Hmph! Suit yourself."
+      "line": "Hmph! Suit yourself.",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -148,11 +158,13 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Complaining? Complaining!"
+      "line": "Complaining? Complaining!",
+      "delivery": "affronted"
     },
     {
       "character": "Watchtower Wizard",
-      "line": "What folks these days don't realise is that if it weren't for us wizards, this entire world would be overrun with every creature you could possibly imagine. And some you couldn't even conceive of!"
+      "line": "What folks these days don't realise is that if it weren't for us wizards, this entire world would be overrun with every creature you could possibly imagine. And some you couldn't even conceive of!",
+      "delivery": "impassioned"
     },
     {
       "character": "Player",
@@ -168,7 +180,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Oh dear, oh dear, there must be something, somewhere..."
+      "line": "Oh dear, oh dear, there must be something, somewhere...",
+      "delivery": "fretting"
     },
     {
       "character": "Player",
@@ -188,7 +201,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Interesting, very interesting."
+      "line": "Interesting, very interesting.",
+      "delivery": "intrigued"
     },
     {
       "character": "Watchtower Wizard",
@@ -196,7 +210,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Of course! They belong to a skavid!"
+      "line": "Of course! They belong to a skavid!",
+      "delivery": "sudden realization"
     },
     {
       "character": "Player",
@@ -252,7 +267,8 @@
     },
     {
       "character": "Player",
-      "line": "That sounds scary..."
+      "line": "That sounds scary...",
+      "delivery": "apprehensive"
     },
     {
       "character": "Watchtower Wizard",
@@ -276,11 +292,13 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Won't bother? Won't bother!"
+      "line": "Won't bother? Won't bother!",
+      "delivery": "affronted"
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Perhaps this quest is too hard for you?"
+      "line": "Perhaps this quest is too hard for you?",
+      "delivery": "goading"
     },
     {
       "character": "Player",
@@ -356,7 +374,8 @@
     },
     {
       "character": "Toban",
-      "line": "Hahaha! You'll never get in there."
+      "line": "Hahaha! You'll never get in there.",
+      "delivery": "mocking laughter"
     },
     {
       "character": "Player",
@@ -364,7 +383,8 @@
     },
     {
       "character": "Toban",
-      "line": "Bold words for a t'ing so small."
+      "line": "Bold words for a t'ing so small.",
+      "delivery": "condescending"
     },
     {
       "character": "Player",
@@ -372,19 +392,23 @@
     },
     {
       "character": "Toban",
-      "line": "Hahaha! This creature t'inks it can help me! I would eat you now, but for your puny size."
+      "line": "Hahaha! This creature t'inks it can help me! I would eat you now, but for your puny size.",
+      "delivery": "cruel amusement"
     },
     {
       "character": "Toban",
-      "line": "Prove to me your might: bring me the bones of an adult dragon to chew on, and I'll eat them, not you."
+      "line": "Prove to me your might: bring me the bones of an adult dragon to chew on, and I'll eat them, not you.",
+      "delivery": "commanding"
     },
     {
       "character": "Player",
-      "line": "Die, creature!"
+      "line": "Die, creature!",
+      "delivery": "aggressive, shouting"
     },
     {
       "character": "Toban",
-      "line": "Hahaha! It t'inks it's a match for Toban, does it?"
+      "line": "Hahaha! It t'inks it's a match for Toban, does it?",
+      "delivery": "mocking"
     },
     {
       "character": "Toban",
@@ -400,11 +424,13 @@
     },
     {
       "character": "Player",
-      "line": "When I say I will get something, I get it!"
+      "line": "When I say I will get something, I get it!",
+      "delivery": "firm, defiant"
     },
     {
       "character": "Toban",
-      "line": "Hahaha! Small t'ing has done it. Toban is glad - take this..."
+      "line": "Hahaha! Small t'ing has done it. Toban is glad - take this...",
+      "delivery": "pleased, booming"
     },
     {
       "character": "Toban",
@@ -424,7 +450,8 @@
     },
     {
       "character": "Toban",
-      "line": "Small t'ing, you lie to me! I always says that small t'ings are big trouble."
+      "line": "Small t'ing, you lie to me! I always says that small t'ings are big trouble.",
+      "delivery": "angry, accusing"
     },
     {
       "character": "Player",
@@ -456,11 +483,13 @@
     },
     {
       "character": "Player",
-      "line": "I have come to kill you!"
+      "line": "I have come to kill you!",
+      "delivery": "aggressive"
     },
     {
       "character": "Og",
-      "line": "Kill me, eh? You shall be crushed. Guards!"
+      "line": "Kill me, eh? You shall be crushed. Guards!",
+      "delivery": "enraged, shouting"
     },
     {
       "character": "Og",
@@ -468,7 +497,8 @@
     },
     {
       "character": "Og",
-      "line": "Well, well, the little t'ing has got it! Take dis to show little t'ing is a friend to da ogres. Hahahahaha!"
+      "line": "Well, well, the little t'ing has got it! Take dis to show little t'ing is a friend to da ogres. Hahahahaha!",
+      "delivery": "gloating"
     },
     {
       "character": "Player",
@@ -476,7 +506,8 @@
     },
     {
       "character": "Og",
-      "line": "No you don't! If you want to impress me, get da gold I asked for!"
+      "line": "No you don't! If you want to impress me, get da gold I asked for!",
+      "delivery": "scornful"
     },
     {
       "character": "Player",
@@ -484,7 +515,8 @@
     },
     {
       "character": "Og",
-      "line": "Don't come back until you have it, unless you wanna be on tonight's menu!"
+      "line": "Don't come back until you have it, unless you wanna be on tonight's menu!",
+      "delivery": "threatening"
     },
     {
       "character": "Player",
@@ -492,7 +524,8 @@
     },
     {
       "character": "Og",
-      "line": "Stoopid! Take another and don't lose it!"
+      "line": "Stoopid! Take another and don't lose it!",
+      "delivery": "contemptuous"
     },
     {
       "character": "Og",
@@ -504,7 +537,8 @@
     },
     {
       "character": "Og",
-      "line": "Stoopid!"
+      "line": "Stoopid!",
+      "delivery": "contemptuous"
     },
     {
       "character": "Og",
@@ -528,15 +562,18 @@
     },
     {
       "character": "Og",
-      "line": "Are you blind? I can see you got it even from here!"
+      "line": "Are you blind? I can see you got it even from here!",
+      "delivery": "incredulous, scornful"
     },
     {
       "character": "Og",
-      "line": "Grrr, why do I bother? It's a good job I got another part."
+      "line": "Grrr, why do I bother? It's a good job I got another part.",
+      "delivery": "grumbling, exasperated"
     },
     {
       "character": "Grew",
-      "line": "What do you want, little morsel? You would look good on my plate!"
+      "line": "What do you want, little morsel? You would look good on my plate!",
+      "delivery": "menacing, hungry"
     },
     {
       "character": "Player",
@@ -544,7 +581,8 @@
     },
     {
       "character": "Grew",
-      "line": "Hah! I should eat you instead!"
+      "line": "Hah! I should eat you instead!",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
@@ -564,7 +602,8 @@
     },
     {
       "character": "Grew",
-      "line": "If you t'ink you're tough, find Gorad, my enemy to the south-east, and knock one of his teeth out! Heheheheh!"
+      "line": "If you t'ink you're tough, find Gorad, my enemy to the south-east, and knock one of his teeth out! Heheheheh!",
+      "delivery": "scheming, gleeful"
     },
     {
       "character": "Player",
@@ -584,7 +623,8 @@
     },
     {
       "character": "Grew",
-      "line": "Morsel, you dare to return without the tooth! Either you are stoopid, or wants to be eaten!"
+      "line": "Morsel, you dare to return without the tooth! Either you are stoopid, or wants to be eaten!",
+      "delivery": "angry, threatening"
     },
     {
       "character": "Player",
@@ -592,15 +632,18 @@
     },
     {
       "character": "Grew",
-      "line": "That'll annoy Gorad lots! Heheheheh! Here's a token of my gratitude: some old gem I stole from Gorad, and an old part of a statue."
+      "line": "That'll annoy Gorad lots! Heheheheh! Here's a token of my gratitude: some old gem I stole from Gorad, and an old part of a statue.",
+      "delivery": "gleeful, cruel"
     },
     {
       "character": "Player",
-      "line": "I've come to knock your teeth out!"
+      "line": "I've come to knock your teeth out!",
+      "delivery": "aggressive"
     },
     {
       "character": "Gorad",
-      "line": "You shut your face! I smack you till you dead and sorry!"
+      "line": "You shut your face! I smack you till you dead and sorry!",
+      "delivery": "furious, aggressive"
     },
     {
       "character": "Grew",
@@ -612,7 +655,8 @@
     },
     {
       "character": "Grew",
-      "line": "I have nothing left for you but the cooking pot!"
+      "line": "I have nothing left for you but the cooking pot!",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
@@ -636,7 +680,8 @@
     },
     {
       "character": "Grew",
-      "line": "How dare you lie to me morsel! I will grind you up for my bread!"
+      "line": "How dare you lie to me morsel! I will grind you up for my bread!",
+      "delivery": "furious, threatening"
     },
     {
       "character": "Grew",
@@ -700,11 +745,13 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Have you gone mad? I can see you have it with you!"
+      "line": "Have you gone mad? I can see you have it with you!",
+      "delivery": "incredulous"
     },
     {
       "character": "Watchtower Wizard",
-      "line": "What? Lost the relic? How careless! It's a good job I copied its design, then! You can take this copy instead - it's just as good."
+      "line": "What? Lost the relic? How careless! It's a good job I copied its design, then! You can take this copy instead - it's just as good.",
+      "delivery": "exasperated"
     },
     {
       "character": "Watchtower Wizard",
@@ -740,11 +787,13 @@
     },
     {
       "character": "Player",
-      "line": "I've made it into the ogre city!"
+      "line": "I've made it into the ogre city!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
-      "line": "It's like talking to a broken record."
+      "line": "It's like talking to a broken record.",
+      "delivery": "dry, exasperated"
     },
     {
       "character": "Watchtower Wizard",
@@ -752,7 +801,8 @@
     },
     {
       "character": "Player",
-      "line": "I have gained entry to the city!"
+      "line": "I have gained entry to the city!",
+      "delivery": "proud"
     },
     {
       "character": "Watchtower Wizard",
@@ -772,7 +822,8 @@
     },
     {
       "character": "Ogre guard",
-      "line": "Oi! Where do you think you are going? You are for the cooking pot!"
+      "line": "Oi! Where do you think you are going? You are for the cooking pot!",
+      "delivery": "threatening"
     },
     {
       "character": "Player",
@@ -796,7 +847,8 @@
     },
     {
       "character": "Ogre guard",
-      "line": "You can help by being tonight's dinner, or you can go away. Now, which shall it be?"
+      "line": "You can help by being tonight's dinner, or you can go away. Now, which shall it be?",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
@@ -808,7 +860,8 @@
     },
     {
       "character": "Ogre guard",
-      "line": "Grrrrr!"
+      "line": "Grrrrr!",
+      "delivery": "growling, hostile"
     },
     {
       "character": "Player",
@@ -828,7 +881,8 @@
     },
     {
       "character": "Ogre guard",
-      "line": "Well, well, look at this. My favourite: rock cake! Okay, we will let it through."
+      "line": "Well, well, look at this. My favourite: rock cake! Okay, we will let it through.",
+      "delivery": "pleased, greedy"
     },
     {
       "character": "Ogre guard",
@@ -856,11 +910,13 @@
     },
     {
       "character": "Ogre guard",
-      "line": "And where is your money? Grrrr! Do you want to get hurt or something?"
+      "line": "And where is your money? Grrrr! Do you want to get hurt or something?",
+      "delivery": "impatient, threatening"
     },
     {
       "character": "Player",
-      "line": "Phew! I just made it."
+      "line": "Phew! I just made it.",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
@@ -888,7 +944,8 @@
     },
     {
       "character": "City guard",
-      "line": "I would like to see you try!"
+      "line": "I would like to see you try!",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
@@ -896,7 +953,8 @@
     },
     {
       "character": "City guard",
-      "line": "Is that so... You humour me small t'ing. Answer this riddle and I will help you..."
+      "line": "Is that so... You humour me small t'ing. Answer this riddle and I will help you...",
+      "delivery": "condescending"
     },
     {
       "character": "City guard",
@@ -920,7 +978,8 @@
     },
     {
       "character": "City guard",
-      "line": "Hur, hur, hur... I see you haven't worked it out yet. Keep trying, imp."
+      "line": "Hur, hur, hur... I see you haven't worked it out yet. Keep trying, imp.",
+      "delivery": "mocking laughter"
     },
     {
       "character": "Player",
@@ -940,7 +999,8 @@
     },
     {
       "character": "City guard",
-      "line": "Hur, hur. The imp has done it! This is what you be needing..."
+      "line": "Hur, hur. The imp has done it! This is what you be needing...",
+      "delivery": "amused, surprised"
     },
     {
       "character": "City guard",
@@ -968,7 +1028,8 @@
     },
     {
       "character": "City guard",
-      "line": "Grr! Think you are a comedian, eh? Get lost!"
+      "line": "Grr! Think you are a comedian, eh? Get lost!",
+      "delivery": "irritated"
     },
     {
       "character": "Player",
@@ -992,7 +1053,8 @@
     },
     {
       "character": "Player",
-      "line": "I'm glad that was easier on the way back!"
+      "line": "I'm glad that was easier on the way back!",
+      "delivery": "relieved"
     },
     {
       "character": "Player",
@@ -1000,7 +1062,8 @@
     },
     {
       "character": "Wizard",
-      "line": "Oh, really? I'm quite an expert on skavids."
+      "line": "Oh, really? I'm quite an expert on skavids.",
+      "delivery": "mock-serious"
     },
     {
       "character": "Player",
@@ -1008,7 +1071,8 @@
     },
     {
       "character": "Wizard",
-      "line": "Only joking!"
+      "line": "Only joking!",
+      "delivery": "flippant, dismissive"
     },
     {
       "character": "Player",
@@ -1024,7 +1088,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "My, my. A wordsmith as well as a hero."
+      "line": "My, my. A wordsmith as well as a hero.",
+      "delivery": "impressed, amused"
     },
     {
       "character": "Player",
@@ -1060,15 +1125,18 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "And don't forget to look out for the dragons!"
+      "line": "And don't forget to look out for the dragons!",
+      "delivery": "casual afterthought"
     },
     {
       "character": "Player",
-      "line": "The WHAT?"
+      "line": "The WHAT?",
+      "delivery": "alarmed, incredulous"
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Dragons."
+      "line": "Dragons.",
+      "delivery": "matter-of-fact"
     },
     {
       "character": "Watchtower Wizard",
@@ -1080,7 +1148,8 @@
     },
     {
       "character": "Player",
-      "line": "Great..."
+      "line": "Great...",
+      "delivery": "sarcastic, dismayed"
     },
     {
       "character": "Player",
@@ -1092,19 +1161,23 @@
     },
     {
       "character": "Scared skavid",
-      "line": "Tanath cur, tanath cur!"
+      "line": "Tanath cur, tanath cur!",
+      "delivery": "terrified"
     },
     {
       "character": "Scared skavid",
-      "line": "Don't hurt me, don't hurt me!"
+      "line": "Don't hurt me, don't hurt me!",
+      "delivery": "terrified, pleading"
     },
     {
       "character": "Player",
-      "line": "Stop moaning, creature. I know about you skavids - you serve those monsters, the ogres."
+      "line": "Stop moaning, creature. I know about you skavids - you serve those monsters, the ogres.",
+      "delivery": "stern, intimidating"
     },
     {
       "character": "Scared skavid",
-      "line": "Please don't touch me!"
+      "line": "Please don't touch me!",
+      "delivery": "pleading, trembling"
     },
     {
       "character": "Player",
@@ -1112,7 +1185,8 @@
     },
     {
       "character": "Scared skavid",
-      "line": "I don't have anything; please believe me!"
+      "line": "I don't have anything; please believe me!",
+      "delivery": "desperate, pleading"
     },
     {
       "character": "Player",
@@ -1120,27 +1194,33 @@
     },
     {
       "character": "Scared skavid",
-      "line": "I'm begging your kindness; I don't have it!"
+      "line": "I'm begging your kindness; I don't have it!",
+      "delivery": "desperate, begging"
     },
     {
       "character": "Player",
-      "line": "I don't believe you, hand it over!"
+      "line": "I don't believe you, hand it over!",
+      "delivery": "demanding, threatening"
     },
     {
       "character": "Scared skavid",
-      "line": "Ahhhhh, help!"
+      "line": "Ahhhhh, help!",
+      "delivery": "screaming, terrified"
     },
     {
       "character": "Player",
-      "line": "Oh great, I'm not getting anywhere."
+      "line": "Oh great, I'm not getting anywhere.",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
-      "line": "Okay, okay, I'm not going to hurt you."
+      "line": "Okay, okay, I'm not going to hurt you.",
+      "delivery": "soothing, reassuring"
     },
     {
       "character": "Scared skavid",
-      "line": "Thank you, kind."
+      "line": "Thank you, kind.",
+      "delivery": "relieved, meek"
     },
     {
       "character": "Scared skavid",
@@ -1224,11 +1304,13 @@
     },
     {
       "character": "Mad skavid",
-      "line": "Hehe! So you speak a little skavid, eh? I'll give you a prize for that!"
+      "line": "Hehe! So you speak a little skavid, eh? I'll give you a prize for that!",
+      "delivery": "manic, giddy"
     },
     {
       "character": "Mad skavid",
-      "line": "The others are with the shamans in the enclave - you'll never get them back. They hid one in the sacred rock! Nothing can touch it now."
+      "line": "The others are with the shamans in the enclave - you'll never get them back. They hid one in the sacred rock! Nothing can touch it now.",
+      "delivery": "ranting, erratic"
     },
     {
       "character": "Mad skavid",
@@ -1268,11 +1350,13 @@
     },
     {
       "character": "Wizard",
-      "line": "What was that?"
+      "line": "What was that?",
+      "delivery": "suspicious"
     },
     {
       "character": "Player",
-      "line": "Nothing."
+      "line": "Nothing.",
+      "delivery": "innocent, covering"
     },
     {
       "character": "Watchtower Wizard",
@@ -1324,7 +1408,8 @@
     },
     {
       "character": "Enclave guard",
-      "line": "Oh you do, do you? How about 'no'?"
+      "line": "Oh you do, do you? How about 'no'?",
+      "delivery": "sarcastic, hostile"
     },
     {
       "character": "Player",
@@ -1332,19 +1417,23 @@
     },
     {
       "character": "Enclave guard",
-      "line": "You dare mock me, creature!"
+      "line": "You dare mock me, creature!",
+      "delivery": "enraged"
     },
     {
       "character": "Enclave guard",
-      "line": "What is this? Arrrrgh! I cannot stand this plant! Argh, it burns! It burns!"
+      "line": "What is this? Arrrrgh! I cannot stand this plant! Argh, it burns! It burns!",
+      "delivery": "screaming, agony"
     },
     {
       "character": "Ogre chieftain",
-      "line": "Grrr! Go away from me, vermin!"
+      "line": "Grrr! Go away from me, vermin!",
+      "delivery": "aggressive, dismissive"
     },
     {
       "character": "Ogre shaman",
-      "line": "Grr! How dare you talk to us. We will destroy you!"
+      "line": "Grr! How dare you talk to us. We will destroy you!",
+      "delivery": "menacing, arrogant"
     },
     {
       "character": "Player",
@@ -1364,7 +1453,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Be very careful how you mix it as it is extremely volatile. Mixing ingredients of this type in the wrong order can cause explosions!"
+      "line": "Be very careful how you mix it as it is extremely volatile. Mixing ingredients of this type in the wrong order can cause explosions!",
+      "delivery": "warning, grave"
     },
     {
       "character": "Watchtower Wizard",
@@ -1436,7 +1526,8 @@
     },
     {
       "character": "Wizard",
-      "line": "Nope. Try the Watchtower Wizard."
+      "line": "Nope. Try the Watchtower Wizard.",
+      "delivery": "dismissive, flat"
     },
     {
       "character": "Player",
@@ -1484,7 +1575,8 @@
     },
     {
       "character": "Player",
-      "line": "Indeed it did! I wiped out those ogre shamans!"
+      "line": "Indeed it did! I wiped out those ogre shamans!",
+      "delivery": "triumphant"
     },
     {
       "character": "Player",
@@ -1524,7 +1616,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Magnificent! At last you've brought all the crystals."
+      "line": "Magnificent! At last you've brought all the crystals.",
+      "delivery": "elated"
     },
     {
       "character": "Watchtower Wizard",
@@ -1548,11 +1641,13 @@
     },
     {
       "character": "Wizard",
-      "line": "Seriously, he's the one in charge here."
+      "line": "Seriously, he's the one in charge here.",
+      "delivery": "deadpan"
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Marvellous! It works! The town will now be safe. Take these coins as a token of my gratitude. Also, let me improve your Magic level."
+      "line": "Marvellous! It works! The town will now be safe. Take these coins as a token of my gratitude. Also, let me improve your Magic level.",
+      "delivery": "jubilant"
     },
     {
       "character": "Watchtower Wizard",
@@ -1580,7 +1675,8 @@
     },
     {
       "character": "Watchtower Wizard",
-      "line": "Ho, ho, ho! A comedian to the finish. There it is, in your backpack!"
+      "line": "Ho, ho, ho! A comedian to the finish. There it is, in your backpack!",
+      "delivery": "amused, jolly"
     },
     {
       "character": "Player",

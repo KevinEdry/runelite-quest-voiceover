@@ -12,7 +12,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Father should make a full recovery, though given that his would-be killers are still out there, that's not anywhere near as much comfort as it should be."
+      "line": "Father should make a full recovery, though given that his would-be killers are still out there, that's not anywhere near as much comfort as it should be.",
+      "delivery": "weary, troubled"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -28,7 +29,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "We're going to go... undercover!"
+      "line": "We're going to go... undercover!",
+      "delivery": "excited, conspiratorial"
     },
     {
       "character": "Player",
@@ -36,11 +38,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "The Twilight Emissaries of course! If they are the ones responsible for what is now two attempts on my father's life, their deaths will be swift and brutal."
+      "line": "The Twilight Emissaries of course! If they are the ones responsible for what is now two attempts on my father's life, their deaths will be swift and brutal.",
+      "delivery": "intense, menacing"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "However, given we're somewhat civilised people, we can't exactly start executing cultists without definitive proof. How do we get that? By joining up of course!"
+      "line": "However, given we're somewhat civilised people, we can't exactly start executing cultists without definitive proof. How do we get that? By joining up of course!",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -48,19 +52,23 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Exactly! Quite a clever plan, if I do say so myself."
+      "line": "Exactly! Quite a clever plan, if I do say so myself.",
+      "delivery": "self-satisfied"
     },
     {
       "character": "Player",
-      "line": "Right..."
+      "line": "Right...",
+      "delivery": "dry, skeptical"
     },
     {
       "character": "Guard",
-      "line": "Prepare for the arrival of Queen Zyanyi Arkan!"
+      "line": "Prepare for the arrival of Queen Zyanyi Arkan!",
+      "delivery": "booming, formal"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Ah... This should be fun."
+      "line": "Ah... This should be fun.",
+      "delivery": "wry, apprehensive"
     },
     {
       "character": "Player",
@@ -76,11 +84,13 @@
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "As I stand here, the healers toil to save the life of the Teokan of Ralos."
+      "line": "As I stand here, the healers toil to save the life of the Teokan of Ralos.",
+      "delivery": "cold, grave"
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "Why?"
+      "line": "Why?",
+      "delivery": "sharp, demanding"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -88,7 +98,8 @@
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "So you would blame him?"
+      "line": "So you would blame him?",
+      "delivery": "icy"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -96,11 +107,13 @@
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "Then take responsibility. You were charged with rooting out those who would plot against us. You failed. Why?"
+      "line": "Then take responsibility. You were charged with rooting out those who would plot against us. You failed. Why?",
+      "delivery": "stern, cutting"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "With respect, progress has been made. We believe the Twilight Emissaries to be responsible, but we need to obtain proof before we can act."
+      "line": "With respect, progress has been made. We believe the Twilight Emissaries to be responsible, but we need to obtain proof before we can act.",
+      "delivery": "measured, defensive"
     },
     {
       "character": "Queen Zyanyi Arkan",
@@ -116,23 +129,28 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "This is a task of upmost importance. I intend to lead the infiltration myself."
+      "line": "This is a task of upmost importance. I intend to lead the infiltration myself.",
+      "delivery": "resolute"
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "So you would chase glory like it is gold to be hoarded? You are the heir to Varlamore. It is not your place."
+      "line": "So you would chase glory like it is gold to be hoarded? You are the heir to Varlamore. It is not your place.",
+      "delivery": "scornful, imperious"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "In Varlamore we lead from the front!"
+      "line": "In Varlamore we lead from the front!",
+      "delivery": "defiant"
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "You do not lead at all, boy! You command the Knights of Varlamore. Use them!"
+      "line": "You do not lead at all, boy! You command the Knights of Varlamore. Use them!",
+      "delivery": "furious, commanding"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "I cannot trust them. We have been infiltrated and our enemies now sit beside us."
+      "line": "I cannot trust them. We have been infiltrated and our enemies now sit beside us.",
+      "delivery": "grave, low"
     },
     {
       "character": "Queen Zyanyi Arkan",
@@ -152,7 +170,8 @@
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "Then all the more reason that you exclude yourself. Determine who you can trust and send them on this mission of yours."
+      "line": "Then all the more reason that you exclude yourself. Determine who you can trust and send them on this mission of yours.",
+      "delivery": "firm, commanding"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -160,19 +179,23 @@
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "Then you have failed as a leader."
+      "line": "Then you have failed as a leader.",
+      "delivery": "cold, final"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Mother..."
+      "line": "Mother...",
+      "delivery": "pleading"
     },
     {
       "character": "Queen Zyanyi Arkan",
-      "line": "Now go. You have work to do. I don't expect you to fail me again."
+      "line": "Now go. You have work to do. I don't expect you to fail me again.",
+      "delivery": "imperious, cold"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Yes, my Queen. May the sun light your way."
+      "line": "Yes, my Queen. May the sun light your way.",
+      "delivery": "subdued, deferential"
     },
     {
       "character": "Player",
@@ -180,7 +203,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "It would seem I won't be able to join you on this mission, iknami. Still, I have no doubt you will be successful all the same."
+      "line": "It would seem I won't be able to join you on this mission, iknami. Still, I have no doubt you will be successful all the same.",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
@@ -196,7 +220,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "One of the only people left that I can trust. They'll fill you in on the details of how you'll infiltrate the Emissaries. Good luck,. May the sun light your way."
+      "line": "One of the only people left that I can trust. They'll fill you in on the details of how you'll infiltrate the Emissaries. Good luck,. May the sun light your way.",
+      "delivery": "earnest"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -256,19 +281,23 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Rise and shine!"
+      "line": "Rise and shine!",
+      "delivery": "cheery, playful"
     },
     {
       "character": "Player",
-      "line": "Itzla? Is that you? What are you doing here?"
+      "line": "Itzla? Is that you? What are you doing here?",
+      "delivery": "startled"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Isn't it obvious? I'm your contact!"
+      "line": "Isn't it obvious? I'm your contact!",
+      "delivery": "gleeful"
     },
     {
       "character": "Player",
-      "line": "But... no?"
+      "line": "But... no?",
+      "delivery": "bewildered"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -280,15 +309,18 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well that's why I've covered my face of course. Simple!"
+      "line": "Well that's why I've covered my face of course. Simple!",
+      "delivery": "breezy, flippant"
     },
     {
       "character": "Player",
-      "line": "This seems like a bad idea..."
+      "line": "This seems like a bad idea...",
+      "delivery": "wary"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "You may well be right, iknami, but that is a bridge we will cross, and then quite possibly burn, when we get to it."
+      "line": "You may well be right, iknami, but that is a bridge we will cross, and then quite possibly burn, when we get to it.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -296,7 +328,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "I can see you're still not convinced, so let me be frank. I wasn't lying when I spoke to mother. The number of people we can trust is concerningly low."
+      "line": "I can see you're still not convinced, so let me be frank. I wasn't lying when I spoke to mother. The number of people we can trust is concerningly low.",
+      "delivery": "earnest"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -312,7 +345,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "The irony is, my friend, that as an outsider, you're actually far more trustworthy than any Varlamorian now. You almost certainly can't be part of this conspiracy."
+      "line": "The irony is, my friend, that as an outsider, you're actually far more trustworthy than any Varlamorian now. You almost certainly can't be part of this conspiracy.",
+      "delivery": "wry, sincere"
     },
     {
       "character": "Player",
@@ -348,7 +382,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Exactly. It is... unfortunate. The War of Betrayal was over a lifetime ago, but many still feel the impacts, especially in this part of the kingdom."
+      "line": "Exactly. It is... unfortunate. The War of Betrayal was over a lifetime ago, but many still feel the impacts, especially in this part of the kingdom.",
+      "delivery": "reflective, somber"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -356,7 +391,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Anyway, it's not something to dwell on now. Let us get back to the more pressing matter of joining a dangerous cult."
+      "line": "Anyway, it's not something to dwell on now. Let us get back to the more pressing matter of joining a dangerous cult.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -372,7 +408,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "That's parents for you. Do as I say, but not as I do. She was never afraid to get her own hands dirty. Did you know that before she was even my age, she became a champion in the Colosseum?"
+      "line": "That's parents for you. Do as I say, but not as I do. She was never afraid to get her own hands dirty. Did you know that before she was even my age, she became a champion in the Colosseum?",
+      "delivery": "wry"
     },
     {
       "character": "Player",
@@ -380,7 +417,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "I suspect you are right, but I would prefer to learn from my own mistakes. Every ruler must forge their own path. The people will never follow a leader who cannot stand alone."
+      "line": "I suspect you are right, but I would prefer to learn from my own mistakes. Every ruler must forge their own path. The people will never follow a leader who cannot stand alone.",
+      "delivery": "thoughtful"
     },
     {
       "character": "Player",
@@ -388,11 +426,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Fear not, iknami. I am confident that you will probably survive this mission."
+      "line": "Fear not, iknami. I am confident that you will probably survive this mission.",
+      "delivery": "teasing, dry"
     },
     {
       "character": "Player",
-      "line": "That's good, I think..."
+      "line": "That's good, I think...",
+      "delivery": "uncertain"
     },
     {
       "character": "Player",
@@ -432,7 +472,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "By the end of the war, I think he'd ended up killing more of his own family members than he left alive. Amazing what paranoia will do to a man."
+      "line": "By the end of the war, I think he'd ended up killing more of his own family members than he left alive. Amazing what paranoia will do to a man.",
+      "delivery": "grim"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -444,7 +485,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "The same thing we do to all traitors in Varlamore."
+      "line": "The same thing we do to all traitors in Varlamore.",
+      "delivery": "cold, flat"
     },
     {
       "character": "Player",
@@ -456,7 +498,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Still, safer is not safe, especially if we do have traitors in our midst. At any moment we risk someone showing some basic competence and actually managing to kill him properly."
+      "line": "Still, safer is not safe, especially if we do have traitors in our midst. At any moment we risk someone showing some basic competence and actually managing to kill him properly.",
+      "delivery": "dry, grim"
     },
     {
       "character": "Player",
@@ -464,7 +507,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "All I'm saying is that if I'd have been the one trying to assassinate my father, I'd probably have done a half- decent job."
+      "line": "All I'm saying is that if I'd have been the one trying to assassinate my father, I'd probably have done a half- decent job.",
+      "delivery": "darkly amused"
     },
     {
       "character": "Player",
@@ -480,7 +524,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "So you challenge me, iknami? I'm wounded. However, as I said before, I do not feel we can trust many people while we have potential traitors around us."
+      "line": "So you challenge me, iknami? I'm wounded. However, as I said before, I do not feel we can trust many people while we have potential traitors around us.",
+      "delivery": "mock-wounded"
     },
     {
       "character": "Player",
@@ -488,7 +533,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "We do not need to do this dance,. I understand that where you come from, there is a certain art to holding a conversation. We do not bother with that here. You may be direct."
+      "line": "We do not need to do this dance,. I understand that where you come from, there is a certain art to holding a conversation. We do not bother with that here. You may be direct.",
+      "delivery": "candid"
     },
     {
       "character": "Player",
@@ -504,7 +550,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Second, I suppose I feel a certain level of responsibility. My father was attacked on my watch. When someone falters, it is their duty to fix it, especially when they hold a position like mine."
+      "line": "Second, I suppose I feel a certain level of responsibility. My father was attacked on my watch. When someone falters, it is their duty to fix it, especially when they hold a position like mine.",
+      "delivery": "earnest"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -512,7 +559,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Finally, Servius is my father. Our relationship is not a simple one, but he is my father all the same. I would see to it personally that his attackers face justice."
+      "line": "Finally, Servius is my father. Our relationship is not a simple one, but he is my father all the same. I would see to it personally that his attackers face justice.",
+      "delivery": "quiet, resolute"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -520,7 +568,8 @@
     },
     {
       "character": "Player",
-      "line": "It does. Thank you, Itzla."
+      "line": "It does. Thank you, Itzla.",
+      "delivery": "sincere"
     },
     {
       "character": "Player",
@@ -560,7 +609,8 @@
     },
     {
       "character": "Player",
-      "line": "Are you sure? I do also quite like death."
+      "line": "Are you sure? I do also quite like death.",
+      "delivery": "sly, coy"
     },
     {
       "character": "Shopkeeper",
@@ -568,11 +618,13 @@
     },
     {
       "character": "Player",
-      "line": "You know, end of the world, holy fire, final dawns, that sort of thing."
+      "line": "You know, end of the world, holy fire, final dawns, that sort of thing.",
+      "delivery": "casual, leading"
     },
     {
       "character": "Shopkeeper",
-      "line": "Are you a fool? Keep your voice down!"
+      "line": "Are you a fool? Keep your voice down!",
+      "delivery": "alarmed, hushed"
     },
     {
       "character": "Player",
@@ -580,7 +632,8 @@
     },
     {
       "character": "Shopkeeper",
-      "line": "You want to join the Emissaries?"
+      "line": "You want to join the Emissaries?",
+      "delivery": "wary, low"
     },
     {
       "character": "Player",
@@ -592,7 +645,8 @@
     },
     {
       "character": "Player",
-      "line": "Fine by me. I love tests!"
+      "line": "Fine by me. I love tests!",
+      "delivery": "breezy, eager"
     },
     {
       "character": "Shopkeeper",
@@ -600,7 +654,8 @@
     },
     {
       "character": "Player",
-      "line": "Okay, not quite as fun, but I'm still up for it."
+      "line": "Okay, not quite as fun, but I'm still up for it.",
+      "delivery": "wry"
     },
     {
       "character": "Shopkeeper",
@@ -616,7 +671,8 @@
     },
     {
       "character": "Shopkeeper",
-      "line": "I already told you to keep your voice down! Fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both."
+      "line": "I already told you to keep your voice down! Fetch your friend and then head east to the Twilight Temple. I will send word for them to expect you both.",
+      "delivery": "exasperated, hushed"
     },
     {
       "character": "Player",
@@ -628,7 +684,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Kuani! Let us not waste any time then. I will meet you at the Twilight Temple. You'll find it east of here, on the other side of the Proudspire."
+      "line": "Kuani! Let us not waste any time then. I will meet you at the Twilight Temple. You'll find it east of here, on the other side of the Proudspire.",
+      "delivery": "eager"
     },
     {
       "character": "Player",
@@ -644,7 +701,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Itzlan."
+      "line": "Itzlan.",
+      "delivery": "deadpan"
     },
     {
       "character": "Player",
@@ -668,7 +726,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Unlikely, but it would be interesting to know why they woke up one day and decided their calling in life was to join a cult."
+      "line": "Unlikely, but it would be interesting to know why they woke up one day and decided their calling in life was to join a cult.",
+      "delivery": "dry"
     },
     {
       "character": "Player",
@@ -724,7 +783,8 @@
     },
     {
       "character": "Nova",
-      "line": "Greetings, iknami. It's good to see so many who are willing to contribute to the Final Dawn. The word of the Augur has changed everything. The time to act is now."
+      "line": "Greetings, iknami. It's good to see so many who are willing to contribute to the Final Dawn. The word of the Augur has changed everything. The time to act is now.",
+      "delivery": "intense, fervent"
     },
     {
       "character": "Player",
@@ -732,7 +792,8 @@
     },
     {
       "character": "Nova",
-      "line": "You have not heard? She is the one who now leads the Emissaries. She has taken this once helpless collective and turned them into the ones who will guide us all to Mokhaiotl."
+      "line": "You have not heard? She is the one who now leads the Emissaries. She has taken this once helpless collective and turned them into the ones who will guide us all to Mokhaiotl.",
+      "delivery": "reverent"
     },
     {
       "character": "Player",
@@ -744,7 +805,8 @@
     },
     {
       "character": "Nova",
-      "line": "Now though, she has changed everything. Now it is my duty to rejoin their ranks so that we may bring about the Final Dawn."
+      "line": "Now though, she has changed everything. Now it is my duty to rejoin their ranks so that we may bring about the Final Dawn.",
+      "delivery": "fervent"
     },
     {
       "character": "Player",
@@ -756,7 +818,8 @@
     },
     {
       "character": "Caritta",
-      "line": "Hello! You're not from around here, are you? It's exciting to see that even people from outside of Varlamore are looking to join the Emissaries!"
+      "line": "Hello! You're not from around here, are you? It's exciting to see that even people from outside of Varlamore are looking to join the Emissaries!",
+      "delivery": "bright, enthusiastic"
     },
     {
       "character": "Player",
@@ -764,7 +827,8 @@
     },
     {
       "character": "Caritta",
-      "line": "Well it's our duty of course! The Church of Ralos has become lost, but the Emissaries know the truth. Ximoua will not come to be unless we make it so!"
+      "line": "Well it's our duty of course! The Church of Ralos has become lost, but the Emissaries know the truth. Ximoua will not come to be unless we make it so!",
+      "delivery": "eager, fervent"
     },
     {
       "character": "Player",
@@ -772,7 +836,8 @@
     },
     {
       "character": "Caritta",
-      "line": "End? Ximoua is no end! It is the beginning! We will all come together as one and bring about a new world! I can't wait!"
+      "line": "End? Ximoua is no end! It is the beginning! We will all come together as one and bring about a new world! I can't wait!",
+      "delivery": "ecstatic"
     },
     {
       "character": "Player",
@@ -788,7 +853,8 @@
     },
     {
       "character": "Felius",
-      "line": "Leave me be. I am not here to make friends."
+      "line": "Leave me be. I am not here to make friends.",
+      "delivery": "cold, curt"
     },
     {
       "character": "Player",
@@ -796,7 +862,8 @@
     },
     {
       "character": "Sergius",
-      "line": "I'm not sure I should be here. Maybe all this was a bad idea."
+      "line": "I'm not sure I should be here. Maybe all this was a bad idea.",
+      "delivery": "anxious, hesitant"
     },
     {
       "character": "Player",
@@ -804,7 +871,8 @@
     },
     {
       "character": "Sergius",
-      "line": "I want to help... I want to believe... I really do! It's just all so intimidating..."
+      "line": "I want to help... I want to believe... I really do! It's just all so intimidating...",
+      "delivery": "nervous, overwhelmed"
     },
     {
       "character": "Player",
@@ -828,7 +896,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Metzli?"
+      "line": "Metzli?",
+      "delivery": "surprised"
     },
     {
       "character": "Player",
@@ -872,11 +941,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well I'd love to know how they plan on reaching the centre of the world. I can't imagine it's the kind of place that you can just stroll on down to."
+      "line": "Well I'd love to know how they plan on reaching the centre of the world. I can't imagine it's the kind of place that you can just stroll on down to.",
+      "delivery": "dry, skeptical"
     },
     {
       "character": "Forebearer Janus",
-      "line": "Itzlan.. It is time for you to prove your worth. Enter the tower when you're ready."
+      "line": "Itzlan.. It is time for you to prove your worth. Enter the tower when you're ready.",
+      "delivery": "solemn, authoritative"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -900,11 +971,13 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "Good. Allow me to welcome you to the Tower of Ascension. You are here because you hope to be welcomed into our family. We hope to welcome you as well, but alas, not all can be deemed worthy."
+      "line": "Good. Allow me to welcome you to the Tower of Ascension. You are here because you hope to be welcomed into our family. We hope to welcome you as well, but alas, not all can be deemed worthy.",
+      "delivery": "ceremonial, solemn"
     },
     {
       "character": "Forebearer Janus",
-      "line": "Here, in the Tower of Ascension, you will demonstrate your intellect, strength, loyalty and ability to sacrifice. In doing so, you will prove your worth to Ralos and Ranul."
+      "line": "Here, in the Tower of Ascension, you will demonstrate your intellect, strength, loyalty and ability to sacrifice. In doing so, you will prove your worth to Ralos and Ranul.",
+      "delivery": "ritualistic, grave"
     },
     {
       "character": "Forebearer Janus",
@@ -912,7 +985,8 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "Hey you! You're not allowed up there."
+      "line": "Hey you! You're not allowed up there.",
+      "delivery": "sharp, scolding"
     },
     {
       "character": "Forebearer Janus",
@@ -924,11 +998,13 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "Hey! You haven't been given permission to open that!"
+      "line": "Hey! You haven't been given permission to open that!",
+      "delivery": "sharp, scolding"
     },
     {
       "character": "Forebearer Janus",
-      "line": "Welcome to your first trial. The aim is simple: Speak the correct pass phrase to me and you will be allowed to proceed. Let the trial begin!"
+      "line": "Welcome to your first trial. The aim is simple: Speak the correct pass phrase to me and you will be allowed to proceed. Let the trial begin!",
+      "delivery": "ceremonial"
     },
     {
       "character": "Forebearer Janus",
@@ -1132,7 +1208,8 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "Survive."
+      "line": "Survive.",
+      "delivery": "ominous, flat"
     },
     {
       "character": "Player",
@@ -1140,19 +1217,23 @@
     },
     {
       "character": "Emissary Ascended",
-      "line": "I don't know if you'll ever figure this one out!"
+      "line": "I don't know if you'll ever figure this one out!",
+      "delivery": "taunting"
     },
     {
       "character": "Emissary Ascended",
-      "line": "Struggling? I've seen a lot of people fail to work this one out."
+      "line": "Struggling? I've seen a lot of people fail to work this one out.",
+      "delivery": "condescending, smug"
     },
     {
       "character": "Emissary Ascended",
-      "line": "Do you think you've got the intellect to complete this one?"
+      "line": "Do you think you've got the intellect to complete this one?",
+      "delivery": "mocking"
     },
     {
       "character": "Emissary Ascended",
-      "line": "I admit, that was pretty fast. Still, it will take more than that for you to prove your worth."
+      "line": "I admit, that was pretty fast. Still, it will take more than that for you to prove your worth.",
+      "delivery": "grudging"
     },
     {
       "character": "Forebearer Janus",
@@ -1208,11 +1289,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "I think it's time for a fight! This one should be fun!"
+      "line": "I think it's time for a fight! This one should be fun!",
+      "delivery": "eager, gleeful"
     },
     {
       "character": "Forebearer Janus",
-      "line": "An unfortunate fate for your companion on your last attempt. Do you want to try again?"
+      "line": "An unfortunate fate for your companion on your last attempt. Do you want to try again?",
+      "delivery": "cool, detached"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1220,7 +1303,8 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "Welcome to your third trial. Before you stand some recently initiated acolytes. However, it seems one of them was not as loyal to our cause as first believed."
+      "line": "Welcome to your third trial. Before you stand some recently initiated acolytes. However, it seems one of them was not as loyal to our cause as first believed.",
+      "delivery": "solemn"
     },
     {
       "character": "Forebearer Janus",
@@ -1260,7 +1344,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Shouldn't have joined a crazy murder cult then. Or if they really were committed to joining a crazy murder cult, they should have at least made sure they were actually good at it!"
+      "line": "Shouldn't have joined a crazy murder cult then. Or if they really were committed to joining a crazy murder cult, they should have at least made sure they were actually good at it!",
+      "delivery": "sardonic"
     },
     {
       "character": "Player",
@@ -1268,7 +1353,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "No."
+      "line": "No.",
+      "delivery": "flat, blunt"
     },
     {
       "character": "Player",
@@ -1320,7 +1406,8 @@
     },
     {
       "character": "Tenoch",
-      "line": "To do my duty, of course. Ralos and Ranul wish us to bring about the end of this world. Only then will we see the birth of a new one."
+      "line": "To do my duty, of course. Ralos and Ranul wish us to bring about the end of this world. Only then will we see the birth of a new one.",
+      "delivery": "earnest, devout"
     },
     {
       "character": "Tenoch",
@@ -1348,7 +1435,8 @@
     },
     {
       "character": "Silia",
-      "line": "I always knew people were wrong about me. I knew I would serve a higher purpose. I never cared what it was. I only cared that in doing so, I would be serving the will of Ralos."
+      "line": "I always knew people were wrong about me. I knew I would serve a higher purpose. I never cared what it was. I only cared that in doing so, I would be serving the will of Ralos.",
+      "delivery": "proud, assured"
     },
     {
       "character": "Silia",
@@ -1368,7 +1456,8 @@
     },
     {
       "character": "Adrius",
-      "line": "To be honest, I wasn't too sure about joining at first. My friend convinced me though. Here we're part of something bigger than ourselves."
+      "line": "To be honest, I wasn't too sure about joining at first. My friend convinced me though. Here we're part of something bigger than ourselves.",
+      "delivery": "uncertain, hesitant"
     },
     {
       "character": "Adrius",
@@ -1388,7 +1477,8 @@
     },
     {
       "character": "Eleuia",
-      "line": "I wished to see my god in mortal form and serve his will. In return for my service, the Emissaries promised me they could grant that wish."
+      "line": "I wished to see my god in mortal form and serve his will. In return for my service, the Emissaries promised me they could grant that wish.",
+      "delivery": "reverent, devout"
     },
     {
       "character": "Eleuia",
@@ -1416,11 +1506,13 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "I'm afraid you have made the wrong choice. Let's try this again..."
+      "line": "I'm afraid you have made the wrong choice. Let's try this again...",
+      "delivery": "cool"
     },
     {
       "character": "Forebearer Janus",
-      "line": "Nicely done. was indeed the traitor. You have both done well, but I wonder how well you will work together in the final trial..."
+      "line": "Nicely done. was indeed the traitor. You have both done well, but I wonder how well you will work together in the final trial...",
+      "delivery": "approving, ominous"
     },
     {
       "character": "Forebearer Janus",
@@ -1436,7 +1528,8 @@
     },
     {
       "character": "Innocent member",
-      "line": "Hey! No need for that. You found the failure among us already."
+      "line": "Hey! No need for that. You found the failure among us already.",
+      "delivery": "indignant"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1448,31 +1541,38 @@
     },
     {
       "character": "Forebearer Janus",
-      "line": "Face your opponent."
+      "line": "Face your opponent.",
+      "delivery": "grave, commanding"
     },
     {
       "character": "Player",
-      "line": "Wait..."
+      "line": "Wait...",
+      "delivery": "alarmed"
     },
     {
       "character": "Forebearer Janus",
-      "line": "An Emissary must be prepared to sacrifice anything and everything. Only through sacrifice will we deliver Twilight's Promise. Only through sacrifice will we achieve the Final Dawn."
+      "line": "An Emissary must be prepared to sacrifice anything and everything. Only through sacrifice will we deliver Twilight's Promise. Only through sacrifice will we achieve the Final Dawn.",
+      "delivery": "zealous, grave"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well, you heard the man,. Shall we dance?"
+      "line": "Well, you heard the man,. Shall we dance?",
+      "delivery": "playful, bold"
     },
     {
       "character": "Player",
-      "line": "I'm not sure if you should be so..."
+      "line": "I'm not sure if you should be so...",
+      "delivery": "apprehensive"
     },
     {
       "character": "Forebearer Janus",
-      "line": "Ready yourselves! May the best warrior win!"
+      "line": "Ready yourselves! May the best warrior win!",
+      "delivery": "commanding, booming"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "I yield!"
+      "line": "I yield!",
+      "delivery": "hasty, comedic"
     },
     {
       "character": "Forebearer Janus",
@@ -1484,7 +1584,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well that was fun!"
+      "line": "Well that was fun!",
+      "delivery": "cheery"
     },
     {
       "character": "Player",
@@ -1492,11 +1593,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Don't be like that! Surely you must admit you enjoyed it a bit as well?"
+      "line": "Don't be like that! Surely you must admit you enjoyed it a bit as well?",
+      "delivery": "playful"
     },
     {
       "character": "Player",
-      "line": "I suppose I liked the part where I beat you."
+      "line": "I suppose I liked the part where I beat you.",
+      "delivery": "smug, teasing"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1532,7 +1635,8 @@
     },
     {
       "character": "Forebearer Fides",
-      "line": "Welcome, friends. You chosen few stand here because you have proven yourselves to be worthy. Here, you will not just find a home, you will find a family. Together, this family will bring about the Final Dawn."
+      "line": "Welcome, friends. You chosen few stand here because you have proven yourselves to be worthy. Here, you will not just find a home, you will find a family. Together, this family will bring about the Final Dawn.",
+      "delivery": "warm, rehearsed"
     },
     {
       "character": "Forebearer Fides",
@@ -1540,15 +1644,18 @@
     },
     {
       "character": "Augur Metzli",
-      "line": "This morning, you were nothing more than ants, scrambling to find purpose amongst the dirt. Now though... now you have achieved ascension."
+      "line": "This morning, you were nothing more than ants, scrambling to find purpose amongst the dirt. Now though... now you have achieved ascension.",
+      "delivery": "commanding, grandiose"
     },
     {
       "character": "Augur Metzli",
-      "line": "Once, I was just the same. Like so many of you, I started my life with nothing. I would wake each morning and pray that I would find enough food to last through the day."
+      "line": "Once, I was just the same. Like so many of you, I started my life with nothing. I would wake each morning and pray that I would find enough food to last through the day.",
+      "delivery": "intimate, sympathetic"
     },
     {
       "character": "Augur Metzli",
-      "line": "All the while, those above me treated me worse than a common criminal. I was a villain to them! Why? Simply because they were born with privilege, and I was not."
+      "line": "All the while, those above me treated me worse than a common criminal. I was a villain to them! Why? Simply because they were born with privilege, and I was not.",
+      "delivery": "bitter, impassioned"
     },
     {
       "character": "Augur Metzli",
@@ -1560,7 +1667,8 @@
     },
     {
       "character": "Augur Metzli",
-      "line": "But the day came when I finally saw my purpose, for I was blessed with a vision, granted to me by Ralos and Ranul themselves! I will share now with you what they shared with me."
+      "line": "But the day came when I finally saw my purpose, for I was blessed with a vision, granted to me by Ralos and Ranul themselves! I will share now with you what they shared with me.",
+      "delivery": "fervent, rapturous"
     },
     {
       "character": "Augur Metzli",
@@ -1568,15 +1676,18 @@
     },
     {
       "character": "Augur Metzli",
-      "line": "To most, they were children like any other, but I was shown the truth of their birth, for as the sun and moon combined, Ralos and Ranul were born in mortal forms!"
+      "line": "To most, they were children like any other, but I was shown the truth of their birth, for as the sun and moon combined, Ralos and Ranul were born in mortal forms!",
+      "delivery": "zealous, awestruck"
     },
     {
       "character": "Augur Metzli",
-      "line": "Now, they seek Mokhaiotl. There, they will unite us all as one, and a new world will be born. My purpose, which I now share with you, is to lead them there."
+      "line": "Now, they seek Mokhaiotl. There, they will unite us all as one, and a new world will be born. My purpose, which I now share with you, is to lead them there.",
+      "delivery": "resolute, fervent"
     },
     {
       "character": "Augur Metzli",
-      "line": "Blasphemy! Deceit! That is what people cry when they hear the truth. The Church of Ralos teaches that our work is false, and our royal leaders lap up their every word!"
+      "line": "Blasphemy! Deceit! That is what people cry when they hear the truth. The Church of Ralos teaches that our work is false, and our royal leaders lap up their every word!",
+      "delivery": "impassioned, indignant"
     },
     {
       "character": "Augur Metzli",
@@ -1584,19 +1695,23 @@
     },
     {
       "character": "Augur Metzli",
-      "line": "But you have all been chosen. You have all achieved ascension. I know that you are among the few who will understand. You are among the few who can see the truth!"
+      "line": "But you have all been chosen. You have all achieved ascension. I know that you are among the few who will understand. You are among the few who can see the truth!",
+      "delivery": "rousing, fervent"
     },
     {
       "character": "Augur Metzli",
-      "line": "And see it you will! You do not need to take the word of a mere herald. Instead, bask in the glory of our gods reborn!"
+      "line": "And see it you will! You do not need to take the word of a mere herald. Instead, bask in the glory of our gods reborn!",
+      "delivery": "triumphant, fervent"
     },
     {
       "character": "Augur Metzli",
-      "line": "You may recognise these faces as Ennius and Furia Tullus, but now I give you the truth. Before you stand our gods! Ralos and Ranul!"
+      "line": "You may recognise these faces as Ennius and Furia Tullus, but now I give you the truth. Before you stand our gods! Ralos and Ranul!",
+      "delivery": "grandiose, zealous"
     },
     {
       "character": "Augur Metzli",
-      "line": "Together, we will accompany them on their glorious journey! We will guide them to Mokhaiotl and bring about the Final Dawn! This is our purpose! This is our destiny! This is Twilight's Promise!"
+      "line": "Together, we will accompany them on their glorious journey! We will guide them to Mokhaiotl and bring about the Final Dawn! This is our purpose! This is our destiny! This is Twilight's Promise!",
+      "delivery": "climactic, rapturous"
     },
     {
       "character": "Augur Metzli",
@@ -1608,7 +1723,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well that was a level of insanity that even I wasn't ready for."
+      "line": "Well that was a level of insanity that even I wasn't ready for.",
+      "delivery": "dry, stunned"
     },
     {
       "character": "Player",
@@ -1616,11 +1732,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Like I say, complete insanity! Metzli has twisted the minds of everyone here. They eagerly lap up her outlandish claims without ever stopping to consider how ludicrous they are."
+      "line": "Like I say, complete insanity! Metzli has twisted the minds of everyone here. They eagerly lap up her outlandish claims without ever stopping to consider how ludicrous they are.",
+      "delivery": "exasperated"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "In some ways, I pity them, but alas, there is only one cure for this sort of thing. This cult must be eradicated, especially Metzli, Furia and Ennius."
+      "line": "In some ways, I pity them, but alas, there is only one cure for this sort of thing. This cult must be eradicated, especially Metzli, Furia and Ennius.",
+      "delivery": "grim, resolute"
     },
     {
       "character": "Player",
@@ -1644,7 +1762,8 @@
     },
     {
       "character": "Player",
-      "line": "Should we not leave? We know the cult is guilty now, and we know Metzli, Furia and Ennius are part of it. We have everything we need."
+      "line": "Should we not leave? We know the cult is guilty now, and we know Metzli, Furia and Ennius are part of it. We have everything we need.",
+      "delivery": "urgent, wary"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1656,11 +1775,13 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well it would be the last thing they'd expect."
+      "line": "Well it would be the last thing they'd expect.",
+      "delivery": "wry"
     },
     {
       "character": "Player",
-      "line": "Oh boy..."
+      "line": "Oh boy...",
+      "delivery": "resigned, wry"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1676,7 +1797,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Thank you! We're absolutely ecstatic to be here and we're ready to serve!"
+      "line": "Thank you! We're absolutely ecstatic to be here and we're ready to serve!",
+      "delivery": "exaggerated, feigned"
     },
     {
       "character": "Forebearer Fides",
@@ -1732,7 +1854,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "How are you with a pickaxe, iknami? I must confess, my own skills with one are rather poor."
+      "line": "How are you with a pickaxe, iknami? I must confess, my own skills with one are rather poor.",
+      "delivery": "sheepish, wry"
     },
     {
       "character": "Player",
@@ -1748,7 +1871,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Oh I see! You win one fight and you start thinking you're something special."
+      "line": "Oh I see! You win one fight and you start thinking you're something special.",
+      "delivery": "mock-indignant"
     },
     {
       "character": "Player",
@@ -1756,27 +1880,33 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well then a bit of mining shouldn't be any issue for you then. Get to it!"
+      "line": "Well then a bit of mining shouldn't be any issue for you then. Get to it!",
+      "delivery": "playful"
     },
     {
       "character": "Forebearer Vulcan",
-      "line": "Excellent work! Ralos and Ranul have blessed us on this day!"
+      "line": "Excellent work! Ralos and Ranul have blessed us on this day!",
+      "delivery": "triumphant, fervent"
     },
     {
       "character": "Emissary Acolyte",
-      "line": "What's going on?!"
+      "line": "What's going on?!",
+      "delivery": "panicked"
     },
     {
       "character": "Emissary Acolyte",
-      "line": "Nagua! Run!"
+      "line": "Nagua! Run!",
+      "delivery": "terrified, shouting"
     },
     {
       "character": "Player",
-      "line": "Itzla! Are you okay?"
+      "line": "Itzla! Are you okay?",
+      "delivery": "worried, urgent"
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Well... I'm alive, which I must be honest, I wasn't really expecting after that!"
+      "line": "Well... I'm alive, which I must be honest, I wasn't really expecting after that!",
+      "delivery": "shaken, relieved"
     },
     {
       "character": "Player",
@@ -1784,7 +1914,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Nor can I. I think we're just going to have to press on and hope that we can meet up again further ahead."
+      "line": "Nor can I. I think we're just going to have to press on and hope that we can meet up again further ahead.",
+      "delivery": "steadying"
     },
     {
       "character": "Player",
@@ -1800,7 +1931,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Than I shall meet you up ahead. Good luck!"
+      "line": "Than I shall meet you up ahead. Good luck!",
+      "delivery": "encouraging"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1920,7 +2052,8 @@
     },
     {
       "character": "Prince Itzla Arkan",
-      "line": "Help me kill this thing, would you?"
+      "line": "Help me kill this thing, would you?",
+      "delivery": "urgent"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1928,7 +2061,8 @@
     },
     {
       "character": "Amoxliatl",
-      "line": "Humans... You stand before Amoxliatl. State your intent."
+      "line": "Humans... You stand before Amoxliatl. State your intent.",
+      "delivery": "cold, imperious"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1936,7 +2070,8 @@
     },
     {
       "character": "Amoxliatl",
-      "line": "A greeting is not a statement of intent. State your intent."
+      "line": "A greeting is not a statement of intent. State your intent.",
+      "delivery": "cold, flat"
     },
     {
       "character": "Player",
@@ -1944,7 +2079,8 @@
     },
     {
       "character": "Amoxliatl",
-      "line": "Your statement lacks specificity. Clarify. What information?"
+      "line": "Your statement lacks specificity. Clarify. What information?",
+      "delivery": "clinical, cold"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1952,7 +2088,8 @@
     },
     {
       "character": "Amoxliatl",
-      "line": "Mokhaiotl? The Tlati archive? That place is not for your kind. You misused the gifts you were granted. You are unworthy."
+      "line": "Mokhaiotl? The Tlati archive? That place is not for your kind. You misused the gifts you were granted. You are unworthy.",
+      "delivery": "disdainful, cold"
     },
     {
       "character": "Prince Itzla Arkan",
@@ -1968,31 +2105,38 @@
     },
     {
       "character": "Ennius Tullus",
-      "line": "Allow me to deal with this nuisance, Augur. The fire of Ralos is within me. He can be the first to bask in it."
+      "line": "Allow me to deal with this nuisance, Augur. The fire of Ralos is within me. He can be the first to bask in it.",
+      "delivery": "arrogant, zealous"
     },
     {
       "character": "Furia Tullus",
-      "line": "Save your fury, brother. This one is unworthy of it."
+      "line": "Save your fury, brother. This one is unworthy of it.",
+      "delivery": "cold, dismissive"
     },
     {
       "character": "Amoxliatl",
-      "line": "Human arrogance. Here in Tapoyauik, I decide who is worthy."
+      "line": "Human arrogance. Here in Tapoyauik, I decide who is worthy.",
+      "delivery": "icy, authoritative"
     },
     {
       "character": "Ennius Tullus",
-      "line": "Silence, nagua! Do you not know who stands before you?"
+      "line": "Silence, nagua! Do you not know who stands before you?",
+      "delivery": "imperious, furious"
     },
     {
       "character": "Amoxliatl",
-      "line": "You? You are nothing. You defile this place. Now face the consequences."
+      "line": "You? You are nothing. You defile this place. Now face the consequences.",
+      "delivery": "menacing, cold"
     },
     {
       "character": "Augur Metzli",
-      "line": "There is nothing more for us here. If the nagua wants blood, our friend here will provide plenty..."
+      "line": "There is nothing more for us here. If the nagua wants blood, our friend here will provide plenty...",
+      "delivery": "cold, menacing"
     },
     {
       "character": "Amoxliatl",
-      "line": "You have been abandoned."
+      "line": "You have been abandoned.",
+      "delivery": "ominous, cold"
     },
     {
       "character": "Player",
@@ -2000,11 +2144,13 @@
     },
     {
       "character": "Amoxliatl",
-      "line": "After them? No. You will not be going anywhere..."
+      "line": "After them? No. You will not be going anywhere...",
+      "delivery": "menacing"
     },
     {
       "character": "Player",
-      "line": "I'd better get to Fortis and let them know what happened!"
+      "line": "I'd better get to Fortis and let them know what happened!",
+      "delivery": "urgent"
     },
     {
       "character": "Player",
@@ -2012,7 +2158,8 @@
     },
     {
       "character": "Servius, Teokan of Ralos",
-      "line": "Ah, nilsal, my child. It is good to see you."
+      "line": "Ah, nilsal, my child. It is good to see you.",
+      "delivery": "warm, paternal"
     },
     {
       "character": "Player",
@@ -2020,11 +2167,13 @@
     },
     {
       "character": "Servius, Teokan of Ralos",
-      "line": "Ralos still has need of me, my child. I will not bow down to a mere knife wound."
+      "line": "Ralos still has need of me, my child. I will not bow down to a mere knife wound.",
+      "delivery": "dignified, resolute"
     },
     {
       "character": "Player",
-      "line": "Well I'm glad to see you're doing well, but I'm afraid I have some bad news. Itzla has been captured!"
+      "line": "Well I'm glad to see you're doing well, but I'm afraid I have some bad news. Itzla has been captured!",
+      "delivery": "urgent, worried"
     },
     {
       "character": "Servius, Teokan of Ralos",
@@ -2036,7 +2185,8 @@
     },
     {
       "character": "Servius, Teokan of Ralos",
-      "line": "Blasphemy and betrayal in equal measure! They will all burn in the light of Ralos for this! And you say they have captured the Prince as well?"
+      "line": "Blasphemy and betrayal in equal measure! They will all burn in the light of Ralos for this! And you say they have captured the Prince as well?",
+      "delivery": "righteous, impassioned"
     },
     {
       "character": "Player",
@@ -2052,7 +2202,8 @@
     },
     {
       "character": "Servius, Teokan of Ralos",
-      "line": "Mokhaiotl is not a place that can be reached! These fools are truly lost!"
+      "line": "Mokhaiotl is not a place that can be reached! These fools are truly lost!",
+      "delivery": "emphatic, grave"
     },
     {
       "character": "Player",
@@ -2064,7 +2215,8 @@
     },
     {
       "character": "Servius, Teokan of Ralos",
-      "line": "I would suggest you make yourself scarce. The Queen will not take kindly to this development. I would hate for you to face her fire, my child."
+      "line": "I would suggest you make yourself scarce. The Queen will not take kindly to this development. I would hate for you to face her fire, my child.",
+      "delivery": "cautionary, gentle"
     },
     {
       "character": "Player",
@@ -2080,7 +2232,8 @@
     },
     {
       "character": "Servius, Teokan of Ralos",
-      "line": "Timoiva, my child, and may the sun light your way."
+      "line": "Timoiva, my child, and may the sun light your way.",
+      "delivery": "warm, blessing"
     }
   ],
   "characters": [

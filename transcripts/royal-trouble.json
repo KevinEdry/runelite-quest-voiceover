@@ -8,7 +8,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "That fool Sigrid! What does she think she's doing?"
+      "line": "That fool Sigrid! What does she think she's doing?",
+      "delivery": "irritated, muttering"
     },
     {
       "character": "Player",
@@ -16,7 +17,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Ah,. I apologise, but I'm rather busy at the moment."
+      "line": "Ah,. I apologise, but I'm rather busy at the moment.",
+      "delivery": "distracted"
     },
     {
       "character": "Player",
@@ -24,7 +26,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "I'm busy,. You'd better talk to Ghrim."
+      "line": "I'm busy,. You'd better talk to Ghrim.",
+      "delivery": "curt, dismissive"
     },
     {
       "character": "Player",
@@ -32,7 +35,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Vargas, you irritating fool. 'Warmongering harpy', indeed!"
+      "line": "Vargas, you irritating fool. 'Warmongering harpy', indeed!",
+      "delivery": "seething, muttering"
     },
     {
       "character": "Player",
@@ -40,7 +44,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Oh, I apologise. I was merely thinking out loud."
+      "line": "Oh, I apologise. I was merely thinking out loud.",
+      "delivery": "composed"
     },
     {
       "character": "Player",
@@ -48,7 +53,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "It could be better. Now, if you don't mind, I'm rather busy."
+      "line": "It could be better. Now, if you don't mind, I'm rather busy.",
+      "delivery": "clipped, dismissive"
     },
     {
       "character": "Player",
@@ -56,7 +62,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "Greetings, Your Royal Highness."
+      "line": "Greetings, Your Royal Highness.",
+      "delivery": "formal, stern"
     },
     {
       "character": "Player",
@@ -68,7 +75,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "Such as the predicament we are now in."
+      "line": "Such as the predicament we are now in.",
+      "delivery": "grave"
     },
     {
       "character": "Player",
@@ -84,7 +92,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "You see, the people are worried that war will break out again."
+      "line": "You see, the people are worried that war will break out again.",
+      "delivery": "grave, concerned"
     },
     {
       "character": "Advisor Ghrim",
@@ -104,7 +113,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "The two of them have been writing letters to each other, threatening to raise armies and declare war on each other once more!"
+      "line": "The two of them have been writing letters to each other, threatening to raise armies and declare war on each other once more!",
+      "delivery": "grave"
     },
     {
       "character": "Player",
@@ -112,7 +122,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "Your Royal Highness, I suggest that you deal with this matter and reconcile the two of them again. Such a quarrel is not good for Miscellania."
+      "line": "Your Royal Highness, I suggest that you deal with this matter and reconcile the two of them again. Such a quarrel is not good for Miscellania.",
+      "delivery": "earnest, formal"
     },
     {
       "character": "Player",
@@ -140,7 +151,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "You are the regent of this kingdom, Your Royal Highness. I would urge you to reconsider."
+      "line": "You are the regent of this kingdom, Your Royal Highness. I would urge you to reconsider.",
+      "delivery": "firm, insistent"
     },
     {
       "character": "Advisor Ghrim",
@@ -148,7 +160,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "I'm sorry, but I'm very busy. Talk to my son and daughter if Ghrim can't help you."
+      "line": "I'm sorry, but I'm very busy. Talk to my son and daughter if Ghrim can't help you.",
+      "delivery": "distracted, dismissive"
     },
     {
       "character": "Advisor Ghrim",
@@ -200,7 +213,8 @@
     },
     {
       "character": "Prince Brand",
-      "line": "It's terrible, my dear! My father's been arguing with the Queen of Etceteria, and has managed to start a war again."
+      "line": "It's terrible, my dear! My father's been arguing with the Queen of Etceteria, and has managed to start a war again.",
+      "delivery": "dismayed"
     },
     {
       "character": "Prince Brand",
@@ -220,15 +234,18 @@
     },
     {
       "character": "Princess Astrid",
-      "line": "We can't have him declaring war all the time. Even if it would give us a chance to show off our military might."
+      "line": "We can't have him declaring war all the time. Even if it would give us a chance to show off our military might.",
+      "delivery": "confident"
     },
     {
       "character": "Princess Astrid",
-      "line": "And I could finally show him that archery isn't a cowardly skill. If only we had an army, we could prove ourselves against the Etceterians."
+      "line": "And I could finally show him that archery isn't a cowardly skill. If only we had an army, we could prove ourselves against the Etceterians.",
+      "delivery": "eager, competitive"
     },
     {
       "character": "Prince Brand",
-      "line": "Astrid, I have an even better idea."
+      "line": "Astrid, I have an even better idea.",
+      "delivery": "excited"
     },
     {
       "character": "Princess Astrid",
@@ -236,15 +253,18 @@
     },
     {
       "character": "Prince Brand",
-      "line": "I think we should persuade our father and Queen Sigrid to marry!"
+      "line": "I think we should persuade our father and Queen Sigrid to marry!",
+      "delivery": "delighted, grand"
     },
     {
       "character": "Princess Astrid",
-      "line": "...What are you talking about, Brand?"
+      "line": "...What are you talking about, Brand?",
+      "delivery": "incredulous"
     },
     {
       "character": "Prince Brand",
-      "line": "Think of the poetic irony of the situation!"
+      "line": "Think of the poetic irony of the situation!",
+      "delivery": "rapturous"
     },
     {
       "character": "Prince Brand",
@@ -252,15 +272,18 @@
     },
     {
       "character": "Prince Brand",
-      "line": "'Today is a happy day, we are getting married,"
+      "line": "'Today is a happy day, we are getting married,",
+      "delivery": "singing"
     },
     {
       "character": "Prince Brand",
-      "line": "Our national anthems are wonderful, won't you sing this song?'"
+      "line": "Our national anthems are wonderful, won't you sing this song?'",
+      "delivery": "singing"
     },
     {
       "character": "Player",
-      "line": "I'm not sure that's such a good idea..."
+      "line": "I'm not sure that's such a good idea...",
+      "delivery": "doubtful"
     },
     {
       "character": "Prince Brand",
@@ -268,7 +291,8 @@
     },
     {
       "character": "Princess Astrid",
-      "line": "I quite agree!"
+      "line": "I quite agree!",
+      "delivery": "enthusiastic"
     },
     {
       "character": "Prince Brand",
@@ -288,7 +312,8 @@
     },
     {
       "character": "Player",
-      "line": "That doesn't always work..."
+      "line": "That doesn't always work...",
+      "delivery": "skeptical"
     },
     {
       "character": "Princess Astrid",
@@ -304,7 +329,8 @@
     },
     {
       "character": "Player",
-      "line": "I'll give it a try. But they'll still be angry with each other, so I don't think it'll work."
+      "line": "I'll give it a try. But they'll still be angry with each other, so I don't think it'll work.",
+      "delivery": "reluctant"
     },
     {
       "character": "Prince Brand",
@@ -360,7 +386,8 @@
     },
     {
       "character": "Princess Astrid",
-      "line": "Though his ideas can sometimes be a little... strange."
+      "line": "Though his ideas can sometimes be a little... strange.",
+      "delivery": "wry, under breath"
     },
     {
       "character": "Prince Brand",
@@ -388,7 +415,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "What is it? You'll have to excuse me, I'm quite busy..."
+      "line": "What is it? You'll have to excuse me, I'm quite busy...",
+      "delivery": "distracted"
     },
     {
       "character": "Player",
@@ -432,7 +460,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Well, yes. Of course, Sigrid was the one who insulted me first."
+      "line": "Well, yes. Of course, Sigrid was the one who insulted me first.",
+      "delivery": "defensive"
     },
     {
       "character": "King Vargas",
@@ -548,11 +577,13 @@
     },
     {
       "character": "King Vargas",
-      "line": "What?"
+      "line": "What?",
+      "delivery": "startled"
     },
     {
       "character": "King Vargas",
-      "line": "So, Sigrid's planning to invade, is she?"
+      "line": "So, Sigrid's planning to invade, is she?",
+      "delivery": "suspicious, rising anger"
     },
     {
       "character": "King Vargas",
@@ -560,7 +591,8 @@
     },
     {
       "character": "King Vargas",
-      "line": ", go and talk to Sigrid and ask her what she thinks she's doing."
+      "line": ", go and talk to Sigrid and ask her what she thinks she's doing.",
+      "delivery": "commanding"
     },
     {
       "character": "King Vargas",
@@ -576,7 +608,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Incompetent! I'll give him 'incompetent'..."
+      "line": "Incompetent! I'll give him 'incompetent'...",
+      "delivery": "furious, muttering"
     },
     {
       "character": "Queen Sigrid",
@@ -592,7 +625,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "That idiot Vargas has decided to take a hand in ruling Miscellania, even though he'd handed it over to you, and now he's declared war on Etceteria again!"
+      "line": "That idiot Vargas has decided to take a hand in ruling Miscellania, even though he'd handed it over to you, and now he's declared war on Etceteria again!",
+      "delivery": "indignant"
     },
     {
       "character": "Queen Sigrid",
@@ -600,7 +634,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Even so, that doesn't excuse what he did to my citizens!"
+      "line": "Even so, that doesn't excuse what he did to my citizens!",
+      "delivery": "angry"
     },
     {
       "character": "Player",
@@ -628,7 +663,8 @@
     },
     {
       "character": "Player",
-      "line": "Of course not, it's not my fault."
+      "line": "Of course not, it's not my fault.",
+      "delivery": "defensive"
     },
     {
       "character": "Queen Sigrid",
@@ -640,7 +676,8 @@
     },
     {
       "character": "Player",
-      "line": "I suppose you're right..."
+      "line": "I suppose you're right...",
+      "delivery": "resigned"
     },
     {
       "character": "Player",
@@ -668,11 +705,13 @@
     },
     {
       "character": "Matilda",
-      "line": "When I told them to leave, they came back the next day and stole my hat!"
+      "line": "When I told them to leave, they came back the next day and stole my hat!",
+      "delivery": "indignant"
     },
     {
       "character": "Matilda",
-      "line": "It was a wonderful hat. Mithril-reinforced, you see, and with a special splitbark brim to keep the sun off."
+      "line": "It was a wonderful hat. Mithril-reinforced, you see, and with a special splitbark brim to keep the sun off.",
+      "delivery": "proud, wistful"
     },
     {
       "character": "Matilda",
@@ -692,7 +731,8 @@
     },
     {
       "character": "Helga",
-      "line": "I'm surprised you didn't know about your own soldiers demanding tribute from us."
+      "line": "I'm surprised you didn't know about your own soldiers demanding tribute from us.",
+      "delivery": "indignant"
     },
     {
       "character": "Helga",
@@ -704,7 +744,8 @@
     },
     {
       "character": "Helga",
-      "line": "And what am I going to use as a fruit bowl in the meantime?"
+      "line": "And what am I going to use as a fruit bowl in the meantime?",
+      "delivery": "exasperated"
     },
     {
       "character": "Helga",
@@ -716,7 +757,8 @@
     },
     {
       "character": "Ashild",
-      "line": "Curse those Miscellanian soldiers!"
+      "line": "Curse those Miscellanian soldiers!",
+      "delivery": "frustrated, angry"
     },
     {
       "character": "Ashild",
@@ -728,7 +770,8 @@
     },
     {
       "character": "Ashild",
-      "line": "Please, find my tools again, so I can get back to work."
+      "line": "Please, find my tools again, so I can get back to work.",
+      "delivery": "pleading"
     },
     {
       "character": "Moldof",
@@ -772,7 +815,8 @@
     },
     {
       "character": "Arnor",
-      "line": "...but when I woke up the next morning, they'd stolen my sword!"
+      "line": "...but when I woke up the next morning, they'd stolen my sword!",
+      "delivery": "indignant"
     },
     {
       "character": "Arnor",
@@ -800,7 +844,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Just as I suspected! Vargas, you treacherous snake!"
+      "line": "Just as I suspected! Vargas, you treacherous snake!",
+      "delivery": "triumphant, venomous"
     },
     {
       "character": "Player",
@@ -808,23 +853,28 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "What?"
+      "line": "What?",
+      "delivery": "startled"
     },
     {
       "character": "Queen Sigrid",
-      "line": "Now I see his plan! Vargas isn't content with simply arguing; he wants to start a war even if it means swindling his own citizens!"
+      "line": "Now I see his plan! Vargas isn't content with simply arguing; he wants to start a war even if it means swindling his own citizens!",
+      "delivery": "indignant, scheming"
     },
     {
       "character": "Player",
-      "line": "Your Majest-"
+      "line": "Your Majest-",
+      "delivery": "cut off mid-word"
     },
     {
       "character": "Queen Sigrid",
-      "line": "Etceterian army? There hasn't been one for centuries! These Miscellanian soldiers of his must have disguised themselves."
+      "line": "Etceterian army? There hasn't been one for centuries! These Miscellanian soldiers of his must have disguised themselves.",
+      "delivery": "scornful"
     },
     {
       "character": "Player",
-      "line": "If I may-"
+      "line": "If I may-",
+      "delivery": "cut off mid-word"
     },
     {
       "character": "Queen Sigrid",
@@ -876,7 +926,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "I see. Sigrid thinks that now I've recognised Etceteria as a sovereign nation, I'll just roll over and play dead when she tries to invade, does she?"
+      "line": "I see. Sigrid thinks that now I've recognised Etceteria as a sovereign nation, I'll just roll over and play dead when she tries to invade, does she?",
+      "delivery": "indignant"
     },
     {
       "character": "Player",
@@ -884,7 +935,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "And she's even started spreading rumours among her own citizens! Are there no depths to which she won't sink?"
+      "line": "And she's even started spreading rumours among her own citizens! Are there no depths to which she won't sink?",
+      "delivery": "outraged"
     },
     {
       "character": "King Vargas",
@@ -892,7 +944,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Which makes it all the worse, as otherwise I'd be able to invade Etceteria to save the citizens from Sigrid's depravity."
+      "line": "Which makes it all the worse, as otherwise I'd be able to invade Etceteria to save the citizens from Sigrid's depravity.",
+      "delivery": "frustrated"
     },
     {
       "character": "Player",
@@ -928,7 +981,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "I'm not sure what you're implying, Your Royal Highness."
+      "line": "I'm not sure what you're implying, Your Royal Highness.",
+      "delivery": "stiff, affronted"
     },
     {
       "character": "Player",
@@ -936,7 +990,8 @@
     },
     {
       "character": "Advisor Ghrim",
-      "line": "Ah, of course."
+      "line": "Ah, of course.",
+      "delivery": "composed"
     },
     {
       "character": "Advisor Ghrim",
@@ -976,7 +1031,8 @@
     },
     {
       "character": "Sailor",
-      "line": "Well, I don't know of any suspicious people... Advisor Ghrim can be rather paranoid about these things sometimes."
+      "line": "Well, I don't know of any suspicious people... Advisor Ghrim can be rather paranoid about these things sometimes.",
+      "delivery": "casual"
     },
     {
       "character": "Player",
@@ -1004,7 +1060,8 @@
     },
     {
       "character": "Sailor",
-      "line": "They've not been used to keep prisoners for a long time. But since the war ended, we've had more people visiting the island."
+      "line": "They've not been used to keep prisoners for a long time. But since the war ended, we've had more people visiting the island.",
+      "delivery": "informative"
     },
     {
       "character": "Sailor",
@@ -1036,7 +1093,8 @@
     },
     {
       "character": "Guard",
-      "line": "Sorry, but nobody's allowed down there by order of the King."
+      "line": "Sorry, but nobody's allowed down there by order of the King.",
+      "delivery": "firm, dutiful"
     },
     {
       "character": "Player",
@@ -1044,11 +1102,13 @@
     },
     {
       "character": "Guard",
-      "line": "You're the Regent? Well, I didn't vote for you."
+      "line": "You're the Regent? Well, I didn't vote for you.",
+      "delivery": "skeptical, dry"
     },
     {
       "character": "Guard",
-      "line": "Sorry, 'Regent', nobody can go into the dungeons without the King's say-so."
+      "line": "Sorry, 'Regent', nobody can go into the dungeons without the King's say-so.",
+      "delivery": "skeptical"
     },
     {
       "character": "Player",
@@ -1068,7 +1128,8 @@
     },
     {
       "character": "Player",
-      "line": "Does he have to shout it from the battlements, or something like that?"
+      "line": "Does he have to shout it from the battlements, or something like that?",
+      "delivery": "sarcastic"
     },
     {
       "character": "Guard",
@@ -1120,7 +1181,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Perhaps they are monsters, waiting to devour unwary Miscellanians..."
+      "line": "Perhaps they are monsters, waiting to devour unwary Miscellanians...",
+      "delivery": "ominous"
     },
     {
       "character": "King Vargas",
@@ -1184,11 +1246,13 @@
     },
     {
       "character": "Guard",
-      "line": "Try not to be eaten by monsters."
+      "line": "Try not to be eaten by monsters.",
+      "delivery": "dry"
     },
     {
       "character": "Halla",
-      "line": "Welcome to Miscellania's first clothing store! We sell clothing made especially for Fremenniks and Dwarves."
+      "line": "Welcome to Miscellania's first clothing store! We sell clothing made especially for Fremenniks and Dwarves.",
+      "delivery": "cheerful, welcoming"
     },
     {
       "character": "Halla",
@@ -1204,7 +1268,8 @@
     },
     {
       "character": "Halla",
-      "line": "I don't like these rumours I've heard about the other caves, though."
+      "line": "I don't like these rumours I've heard about the other caves, though.",
+      "delivery": "uneasy"
     },
     {
       "character": "Player",
@@ -1228,7 +1293,8 @@
     },
     {
       "character": "Osvald",
-      "line": "I'm worried about the stories I've heard about monsters, though."
+      "line": "I'm worried about the stories I've heard about monsters, though.",
+      "delivery": "worried"
     },
     {
       "character": "Player",
@@ -1236,7 +1302,8 @@
     },
     {
       "character": "Osvald",
-      "line": "I heard that one of the dwarves saw monsters in the other caves!"
+      "line": "I heard that one of the dwarves saw monsters in the other caves!",
+      "delivery": "alarmed"
     },
     {
       "character": "Osvald",
@@ -1280,7 +1347,8 @@
     },
     {
       "character": "Runa",
-      "line": "One of them's been in here all day, and only bought one pint."
+      "line": "One of them's been in here all day, and only bought one pint.",
+      "delivery": "exasperated"
     },
     {
       "character": "Runa",
@@ -1308,7 +1376,8 @@
     },
     {
       "character": "Alviss",
-      "line": "I heard that Donal went exploring in the caves, and saw a huge monster."
+      "line": "I heard that Donal went exploring in the caves, and saw a huge monster.",
+      "delivery": "hushed, uneasy"
     },
     {
       "character": "Alviss",
@@ -1340,7 +1409,8 @@
     },
     {
       "character": "Fullangr",
-      "line": "I'm not scared of monsters - I won't let them stop me from digging!"
+      "line": "I'm not scared of monsters - I won't let them stop me from digging!",
+      "delivery": "fearless, determined"
     },
     {
       "character": "Jari",
@@ -1356,7 +1426,8 @@
     },
     {
       "character": "Jari",
-      "line": "I heard there were monsters in the other caves, though. I don't really want to meet them."
+      "line": "I heard there were monsters in the other caves, though. I don't really want to meet them.",
+      "delivery": "nervous"
     },
     {
       "character": "Jari",
@@ -1440,7 +1511,8 @@
     },
     {
       "character": "Donal",
-      "line": "What do you want?"
+      "line": "What do you want?",
+      "delivery": "wary"
     },
     {
       "character": "Player",
@@ -1452,7 +1524,8 @@
     },
     {
       "character": "Donal",
-      "line": "...though I don't really want to start digging again."
+      "line": "...though I don't really want to start digging again.",
+      "delivery": "anxious"
     },
     {
       "character": "Player",
@@ -1460,11 +1533,13 @@
     },
     {
       "character": "Donal",
-      "line": "Not with monsters like that one in those caves."
+      "line": "Not with monsters like that one in those caves.",
+      "delivery": "frightened"
     },
     {
       "character": "Donal",
-      "line": "It had huge teeth and flaming red eyes, and was almost the size of the tunnel!"
+      "line": "It had huge teeth and flaming red eyes, and was almost the size of the tunnel!",
+      "delivery": "frightened, awed"
     },
     {
       "character": "Donal",
@@ -1488,7 +1563,8 @@
     },
     {
       "character": "Player",
-      "line": "Of course. Dealing with monsters is what I do best!"
+      "line": "Of course. Dealing with monsters is what I do best!",
+      "delivery": "confident"
     },
     {
       "character": "Donal",
@@ -1548,11 +1624,13 @@
     },
     {
       "character": "Donal",
-      "line": "That's what I thought, until I saw the sheer size of it. This thing probably MADE the tunnels!"
+      "line": "That's what I thought, until I saw the sheer size of it. This thing probably MADE the tunnels!",
+      "delivery": "fearful"
     },
     {
       "character": "Player",
-      "line": "And you're sending me in to deal with it alone?"
+      "line": "And you're sending me in to deal with it alone?",
+      "delivery": "incredulous"
     },
     {
       "character": "Donal",
@@ -1560,7 +1638,8 @@
     },
     {
       "character": "Donal",
-      "line": "So what are you worried about? You probably eat monsters like that for breakfast!"
+      "line": "So what are you worried about? You probably eat monsters like that for breakfast!",
+      "delivery": "nervously flattering"
     },
     {
       "character": "Player",
@@ -1584,7 +1663,8 @@
     },
     {
       "character": "Donal",
-      "line": "Rock falls and so on are fine, but sea monsters in caves - never!"
+      "line": "Rock falls and so on are fine, but sea monsters in caves - never!",
+      "delivery": "adamant, shaken"
     },
     {
       "character": "Player",
@@ -1604,15 +1684,18 @@
     },
     {
       "character": "Armod",
-      "line": "What do we do now?"
+      "line": "What do we do now?",
+      "delivery": "worried"
     },
     {
       "character": "Armod",
-      "line": "If you hadn't got drunk in that inn, Signy, we could have stayed there for longer."
+      "line": "If you hadn't got drunk in that inn, Signy, we could have stayed there for longer.",
+      "delivery": "accusatory"
     },
     {
       "character": "Signy",
-      "line": "It wasn't just me who got drunk. You looked like you were about to puke all over the barmaid."
+      "line": "It wasn't just me who got drunk. You looked like you were about to puke all over the barmaid.",
+      "delivery": "defiant"
     },
     {
       "character": "Hild",
@@ -1620,7 +1703,8 @@
     },
     {
       "character": "Reinn",
-      "line": "I can't help it, I just have a weak stomach."
+      "line": "I can't help it, I just have a weak stomach.",
+      "delivery": "whiny"
     },
     {
       "character": "Reinn",
@@ -1628,15 +1712,18 @@
     },
     {
       "character": "Reinn",
-      "line": "We're cold, we're hungry and now we're LOST!"
+      "line": "We're cold, we're hungry and now we're LOST!",
+      "delivery": "whining, miserable"
     },
     {
       "character": "Hild",
-      "line": "We wouldn't have been so cold if Armod had more diary pages he'd let us use!"
+      "line": "We wouldn't have been so cold if Armod had more diary pages he'd let us use!",
+      "delivery": "frustrated"
     },
     {
       "character": "Armod",
-      "line": "Hey! I have to write down what's happened."
+      "line": "Hey! I have to write down what's happened.",
+      "delivery": "defensive"
     },
     {
       "character": "Armod",
@@ -1656,23 +1743,28 @@
     },
     {
       "character": "Armod",
-      "line": "If only my father would come and save us."
+      "line": "If only my father would come and save us.",
+      "delivery": "forlorn"
     },
     {
       "character": "Hild",
-      "line": "If only SOMEONE would come and save us."
+      "line": "If only SOMEONE would come and save us.",
+      "delivery": "exasperated, sarcastic"
     },
     {
       "character": "Armod",
-      "line": "Someone's coming!"
+      "line": "Someone's coming!",
+      "delivery": "alarmed, whispering"
     },
     {
       "character": "Signy",
-      "line": "Quick, let's hide!"
+      "line": "Quick, let's hide!",
+      "delivery": "urgent, whispering"
     },
     {
       "character": "Armod",
-      "line": "What if it's the monster again? What if it's one of the townspeople?"
+      "line": "What if it's the monster again? What if it's one of the townspeople?",
+      "delivery": "panicked"
     },
     {
       "character": "Armod",
@@ -1680,27 +1772,33 @@
     },
     {
       "character": "Armod",
-      "line": "H-hey! Where am I going to hide?"
+      "line": "H-hey! Where am I going to hide?",
+      "delivery": "panicked"
     },
     {
       "character": "Hild",
-      "line": "Shhhh! Just pretend you're part of the scenery, or something!"
+      "line": "Shhhh! Just pretend you're part of the scenery, or something!",
+      "delivery": "hushed, urgent"
     },
     {
       "character": "Reinn",
-      "line": "You're almost smart enough to make a good rock."
+      "line": "You're almost smart enough to make a good rock.",
+      "delivery": "mocking"
     },
     {
       "character": "Armod",
-      "line": "You want me to hit you?"
+      "line": "You want me to hit you?",
+      "delivery": "annoyed"
     },
     {
       "character": "Signy",
-      "line": "Just act normal, Armod! And hurry!"
+      "line": "Just act normal, Armod! And hurry!",
+      "delivery": "urgent, hushed"
     },
     {
       "character": "Armod",
-      "line": "O-okay."
+      "line": "O-okay.",
+      "delivery": "nervous"
     },
     {
       "character": "Player",
@@ -1708,7 +1806,8 @@
     },
     {
       "character": "Armod",
-      "line": "Don't bother me!"
+      "line": "Don't bother me!",
+      "delivery": "defensive"
     },
     {
       "character": "Armod",
@@ -1716,7 +1815,8 @@
     },
     {
       "character": "Armod",
-      "line": "I'm being a rock at the moment."
+      "line": "I'm being a rock at the moment.",
+      "delivery": "unconvincing"
     },
     {
       "character": "Player",
@@ -1732,7 +1832,8 @@
     },
     {
       "character": "Armod",
-      "line": "What? How did you get it? Give it back!"
+      "line": "What? How did you get it? Give it back!",
+      "delivery": "alarmed"
     },
     {
       "character": "Player",
@@ -1740,15 +1841,18 @@
     },
     {
       "character": "Armod",
-      "line": "Why should I tell you? We're going to do really well and show my father that we're true adults!"
+      "line": "Why should I tell you? We're going to do really well and show my father that we're true adults!",
+      "delivery": "defiant"
     },
     {
       "character": "Player",
-      "line": "What, by starting a war?"
+      "line": "What, by starting a war?",
+      "delivery": "pointed"
     },
     {
       "character": "Armod",
-      "line": "What the-"
+      "line": "What the-",
+      "delivery": "startled"
     },
     {
       "character": "Armod",
@@ -1768,15 +1872,18 @@
     },
     {
       "character": "Armod",
-      "line": "You're the REGENT?"
+      "line": "You're the REGENT?",
+      "delivery": "alarmed"
     },
     {
       "character": "Armod",
-      "line": "Um, you four, I think you'd better come out now. We're in big trouble."
+      "line": "Um, you four, I think you'd better come out now. We're in big trouble.",
+      "delivery": "nervous, sheepish"
     },
     {
       "character": "Reinn",
-      "line": "Nice impression of a rock you did there, Armod."
+      "line": "Nice impression of a rock you did there, Armod.",
+      "delivery": "sarcastic"
     },
     {
       "character": "Signy",
@@ -1796,7 +1903,8 @@
     },
     {
       "character": "Beigarth",
-      "line": "Armod, you should have burnt it all."
+      "line": "Armod, you should have burnt it all.",
+      "delivery": "cold, reproachful"
     },
     {
       "character": "Player",
@@ -1804,7 +1912,8 @@
     },
     {
       "character": "Armod",
-      "line": "It was Beigarth's idea, not mine!"
+      "line": "It was Beigarth's idea, not mine!",
+      "delivery": "defensive, blame-shifting"
     },
     {
       "character": "Armod",
@@ -1812,11 +1921,13 @@
     },
     {
       "character": "Reinn",
-      "line": "It would have worked, if it hadn't been for that huge snake!"
+      "line": "It would have worked, if it hadn't been for that huge snake!",
+      "delivery": "aggrieved"
     },
     {
       "character": "Player",
-      "line": "...What huge snake?"
+      "line": "...What huge snake?",
+      "delivery": "wary"
     },
     {
       "character": "Reinn",
@@ -1824,7 +1935,8 @@
     },
     {
       "character": "Reinn",
-      "line": "Everything was going well, until we got back to that place, and a giant sea snake had moved in!"
+      "line": "Everything was going well, until we got back to that place, and a giant sea snake had moved in!",
+      "delivery": "distressed"
     },
     {
       "character": "Reinn",
@@ -1832,7 +1944,8 @@
     },
     {
       "character": "Armod",
-      "line": "I don't care about the plan. If you can get rid of that sea snake, we'll be really grateful to you."
+      "line": "I don't care about the plan. If you can get rid of that sea snake, we'll be really grateful to you.",
+      "delivery": "pleading"
     },
     {
       "character": "Armod",
@@ -1840,7 +1953,8 @@
     },
     {
       "character": "Hild",
-      "line": "I agree with him. I want to go back home."
+      "line": "I agree with him. I want to go back home.",
+      "delivery": "weary"
     },
     {
       "character": "Hild",
@@ -1860,7 +1974,8 @@
     },
     {
       "character": "Armod",
-      "line": "Thank you so much. You've saved us from the brink of death."
+      "line": "Thank you so much. You've saved us from the brink of death.",
+      "delivery": "grateful, relieved"
     },
     {
       "character": "Armod",
@@ -1872,11 +1987,13 @@
     },
     {
       "character": "Armod",
-      "line": "PLEASE don't tell my father how badly we messed up."
+      "line": "PLEASE don't tell my father how badly we messed up.",
+      "delivery": "pleading, desperate"
     },
     {
       "character": "Guard",
-      "line": "Hello down there! Are you all right?"
+      "line": "Hello down there! Are you all right?",
+      "delivery": "calling out"
     },
     {
       "character": "Player",
@@ -1892,7 +2009,8 @@
     },
     {
       "character": "Guard",
-      "line": "I'm surprised you managed to get out of there without breaking any bones."
+      "line": "I'm surprised you managed to get out of there without breaking any bones.",
+      "delivery": "impressed"
     },
     {
       "character": "Guard",
@@ -1908,7 +2026,8 @@
     },
     {
       "character": "Guard",
-      "line": "Seems rather heavy. Take better care of it this time."
+      "line": "Seems rather heavy. Take better care of it this time.",
+      "delivery": "dry"
     },
     {
       "character": "Guard",
@@ -1924,7 +2043,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "If he wants an Etceterian army, then we'll have to raise one!"
+      "line": "If he wants an Etceterian army, then we'll have to raise one!",
+      "delivery": "fierce, resolute"
     },
     {
       "character": "Player",
@@ -1952,7 +2072,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Hmm..."
+      "line": "Hmm...",
+      "delivery": "considering"
     },
     {
       "character": "Queen Sigrid",
@@ -1972,7 +2093,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Finally, a ruler of Miscellania who's willing to do something for his neighbours."
+      "line": "Finally, a ruler of Miscellania who's willing to do something for his neighbours.",
+      "delivery": "approving"
     },
     {
       "character": "Queen Sigrid",
@@ -1984,7 +2106,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "*sigh* Well, if you ask the guard at the entrance to the dungeon, he might have picked it up."
+      "line": "*sigh* Well, if you ask the guard at the entrance to the dungeon, he might have picked it up.",
+      "delivery": "exasperated, sighing"
     },
     {
       "character": "Queen Sigrid",
@@ -2000,7 +2123,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Thank you,. You've shown yourself to be an excellent diplomat and warrior - not a combination that comes naturally to many."
+      "line": "Thank you,. You've shown yourself to be an excellent diplomat and warrior - not a combination that comes naturally to many.",
+      "delivery": "warm, approving"
     },
     {
       "character": "Queen Sigrid",
@@ -2028,7 +2152,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Oh, that's a pity."
+      "line": "Oh, that's a pity.",
+      "delivery": "disappointed"
     },
     {
       "character": "Queen Sigrid",
@@ -2040,7 +2165,8 @@
     },
     {
       "character": "Queen Sigrid",
-      "line": "Very well, I'll write another. Try to take better care of this one."
+      "line": "Very well, I'll write another. Try to take better care of this one.",
+      "delivery": "exasperated"
     },
     {
       "character": "Player",
@@ -2076,7 +2202,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Why didn't they just go through the trials as usual?"
+      "line": "Why didn't they just go through the trials as usual?",
+      "delivery": "puzzled"
     },
     {
       "character": "King Vargas",
@@ -2084,7 +2211,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Still, I can't believe they'd start a war between Miscellania and Etceteria, just to show they were adults..."
+      "line": "Still, I can't believe they'd start a war between Miscellania and Etceteria, just to show they were adults...",
+      "delivery": "incredulous"
     },
     {
       "character": "King Vargas",
@@ -2136,7 +2264,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "You defeated that sea snake? Sigrid seems rather impressed with that."
+      "line": "You defeated that sea snake? Sigrid seems rather impressed with that.",
+      "delivery": "surprised, pleased"
     },
     {
       "character": "King Vargas",
@@ -2148,7 +2277,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Finally... hmm. That's not what I'd have expected from Sigrid."
+      "line": "Finally... hmm. That's not what I'd have expected from Sigrid.",
+      "delivery": "puzzled"
     },
     {
       "character": "Player",
@@ -2156,7 +2286,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "She, erm, says if I weren't a yeti, she might want to get to know me better."
+      "line": "She, erm, says if I weren't a yeti, she might want to get to know me better.",
+      "delivery": "bashful, awkward"
     },
     {
       "character": "King Vargas",
@@ -2164,7 +2295,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "I suppose she has a point there."
+      "line": "I suppose she has a point there.",
+      "delivery": "musing"
     },
     {
       "character": "Player",
@@ -2176,7 +2308,8 @@
     },
     {
       "character": "Player",
-      "line": "Nothing, your Majesty."
+      "line": "Nothing, your Majesty.",
+      "delivery": "evasive"
     },
     {
       "character": "Player",
@@ -2188,7 +2321,8 @@
     },
     {
       "character": "King Vargas",
-      "line": "Though I'd like to tell her I'm sorry for calling her a warmongering harpy."
+      "line": "Though I'd like to tell her I'm sorry for calling her a warmongering harpy.",
+      "delivery": "sheepish"
     },
     {
       "character": "King Vargas",
