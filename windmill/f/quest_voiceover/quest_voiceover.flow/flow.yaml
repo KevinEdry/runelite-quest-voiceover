@@ -210,6 +210,9 @@ value:
           dryRun:
             type: javascript
             expr: flow_input.dryRun
+          characters:
+            type: javascript
+            expr: results.load_transcript.characters
         path: f/quest_voiceover/write_database
     - id: open_pull_requests
       summary: Open PRs to sounds + database

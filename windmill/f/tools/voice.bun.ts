@@ -5,6 +5,7 @@ import { generateDialogHash, removeSpecialCharacters } from "./text";
 export interface CharacterInfo {
   name: string;
   description: string;
+  aliases?: string[];
 }
 
 // Only "generated" voices are created by this pipeline and safe to delete; the rest are
