@@ -1213,7 +1213,7 @@
       "line": "Ah yes, I'm a member now, they must be able to help!"
     },
     {
-      "character": "[company name] Director",
+      "character": "Consortium Director",
       "line": "Hello ! Have you seen the statue? It looks beautiful! It's a pity it's been overshadowed by the departure of the Red Axe.",
       "delivery": "cheerful, wistful"
     },
@@ -1222,7 +1222,7 @@
       "line": "Can you help me with a boarded up tunnel?"
     },
     {
-      "character": "[company name] Director",
+      "character": "Consortium Director",
       "line": "Ah, and what would be lurking behind this particular tunnel?",
       "delivery": "intrigued"
     },
@@ -1231,12 +1231,12 @@
       "line": "I think it leads to something that might be related to the Red Axe."
     },
     {
-      "character": "[company name] Director",
+      "character": "Consortium Director",
       "line": "The Red Axe!",
       "delivery": "alarmed, emphatic"
     },
     {
-      "character": "[company name] Director",
+      "character": "Consortium Director",
       "line": "This is indeed an important issue. They've gone too far this time. A major company willingly leaving the Consortium has never happened before.",
       "delivery": "grave, indignant"
     },
@@ -1245,7 +1245,7 @@
       "line": "Can you help me get the boarding removed then?"
     },
     {
-      "character": "[company name] Director",
+      "character": "Consortium Director",
       "line": "Forthwith, forthwith! I'll order the removal at once!",
       "delivery": "decisive, energetic"
     },
@@ -1629,8 +1629,18 @@
       "description": "Adult male dwarf, Scottish accent, loud slurred and obnoxious tone, a drunk troublemaker who was fired for wearing the wrong hat."
     },
     {
-      "name": "[company name] Director",
-      "description": "Middle-aged male dwarf, Scottish accent, formal and authoritative tone, a Consortium director willing to help investigate the Red Axe situation."
+      "name": "Consortium Director",
+      "description": "Adult male dwarf, gruff Scottish-inspired accent, business-like and self-important tone, a mining company director on the Keldagrim Consortium.",
+      "aliases": [
+        "Green Gemstone Director",
+        "White Chisel Director",
+        "Silver Cog Director",
+        "Brown Engine Director",
+        "Yellow Fortune Director",
+        "Blue Opal Director",
+        "Purple Pewter Director",
+        "Red Axe Director"
+      ]
     }
   ]
 }

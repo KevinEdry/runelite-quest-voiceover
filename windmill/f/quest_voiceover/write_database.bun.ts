@@ -1,6 +1,7 @@
 import * as wmill from "windmill-client";
 import { createGitHubClient } from "../tools/git";
 import { slugifyQuest } from "../tools/text";
+import type { CharacterInfo } from "../tools/voice";
 import type { LineResult } from "../tools/types";
 
 export interface QuestSummary {
@@ -27,11 +28,20 @@ export async function main(
   githubRepo: string,
   featureBranch: string,
   databaseBranch = "database",
-  dryRun = false
+  dryRun = false,
+  characters: CharacterInfo[] = []
 ): Promise<QuestSummary> {
   const completed = results.filter((r) => r?.status === "completed").length;
   const skipped = results.filter((r) => r?.status === "skipped").length;
   const failed = results.filter((r) => r?.status === "failed").length;
+
+  // A canonical character (e.g. "Consortium Director") voices one shared clip, but in-game the
+  // line is spoken by several real NPCs (each company's director). Expanding to the aliases
+  // writes one row per real NPC name, all pointing at that shared clip, so every NPC maps.
+  const aliasesByCharacter = new Map<string, string[]>();
+  for (const character of characters) {
+    if (character.aliases?.length) aliasesByCharacter.set(character.name, character.aliases);
+  }
 
   // Every clip that exists (generated now or skipped because already present) is a row;
   // failed clips have no audio so they are left out. Skipped clips carry their uri, so a
@@ -39,8 +49,11 @@ export async function main(
   const byKey = new Map<string, DialogRow>();
   for (const result of results) {
     if (!result || result.status === "failed" || !result.uri) continue;
-    const row: DialogRow = { quest: questName, character: result.character, text: result.text, uri: result.uri };
-    byKey.set(JSON.stringify([row.character, row.text, row.uri]), row);
+    const names = aliasesByCharacter.get(result.character) ?? [result.character];
+    for (const character of names) {
+      const row: DialogRow = { quest: questName, character, text: result.text, uri: result.uri };
+      byKey.set(JSON.stringify([row.character, row.text, row.uri]), row);
+    }
   }
   const rows = [...byKey.values()].sort(
     (a, b) => a.character.localeCompare(b.character) || a.text.localeCompare(b.text) || a.uri.localeCompare(b.uri)
