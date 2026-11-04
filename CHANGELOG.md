@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.13.0...v1.14.0) (2026-11-04)
+
+
+### Features
+
+* replace jaco with an in-house audio player ([#328](https://github.com/KevinEdry/runelite-quest-voiceover/issues/328)) ([d545a17](https://github.com/KevinEdry/runelite-quest-voiceover/commit/d545a17840740aa8ff42197e58aaedfb958e915f))
+
 ## [1.13.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.12.1...v1.13.0) (2026-07-27)
 
 
