@@ -178,13 +178,7 @@ public class DialogSpeechHighlightHandler {
         }, HIGHLIGHT_POLL_MS, TimeUnit.MILLISECONDS);
     }
 
-    /**
-     * Prefer the player's true position so highlighting tracks the audio (and halts with it while
-     * paused); fall back to elapsed wall-clock before the line opens or once playback has ended.
-     */
     private long resolvePlaybackPosition() {
-        // Word timings are computed against the un-sped audio, so scale elapsed playback back
-        // onto that timeline when the user speeds voiceovers up.
         double speed = activeSpeed;
         long audioPosition = audioManager.getPlaybackPositionMillis();
         if (audioPosition > 0) {

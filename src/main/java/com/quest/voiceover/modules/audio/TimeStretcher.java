@@ -1,10 +1,5 @@
 package com.quest.voiceover.modules.audio;
 
-/**
- * Pitch-preserving time-stretch (WSOLA) for interleaved 16-bit PCM. Speeding a voice line up by
- * dropping samples would raise its pitch; WSOLA instead overlaps waveform-aligned grains so the
- * result plays faster at the original pitch. Constants are tunable by ear.
- */
 public final class TimeStretcher {
 
     private static final double NORMAL_SPEED = 1.0;

@@ -22,10 +22,6 @@ import java.nio.ByteOrder;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Streaming MP3 player built on the JLayer decoder and a javax.sound line, replacing the
- * external jaco-mp3-player so all audio-device usage lives in the plugin's own reviewed code.
- */
 @Slf4j
 public class AudioPlayer {
 
@@ -46,7 +42,6 @@ public class AudioPlayer {
 
     private final OkHttpClient okHttpClient;
 
-    // Each play()/stop() bumps the generation; a worker whose generation is stale exits silently.
     private final AtomicInteger generation = new AtomicInteger();
     private final Object pauseLock = new Object();
 
@@ -114,11 +109,6 @@ public class AudioPlayer {
         return !active;
     }
 
-    /**
-     * Position of the current line in milliseconds, or 0 when nothing is playing. Holds steady
-     * while paused because a starved line renders no further frames, letting callers such as the
-     * speech highlighter follow the true audio rather than a wall-clock estimate.
-     */
     public int getPositionMillis() {
         SourceDataLine currentLine = line;
         if (currentLine == null) {
@@ -143,8 +133,6 @@ public class AudioPlayer {
     }
 
     private void signalStop() {
-        // Only flags are touched here; the worker owns the line and reacts between frames,
-        // so there is no cross-thread contention on the audio device.
         stopRequested = true;
         synchronized (pauseLock) {
             paused = false;
@@ -311,7 +299,6 @@ public class AudioPlayer {
         if (playedToEnd) {
             localLine.drain();
         } else {
-            // Interrupted mid-line: fade the buffered tail to silence so the cut is click-free.
             fadeOut(localLine);
             localLine.flush();
         }
