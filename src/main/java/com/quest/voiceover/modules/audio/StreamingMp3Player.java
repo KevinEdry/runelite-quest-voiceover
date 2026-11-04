@@ -3,8 +3,10 @@ package com.quest.voiceover.modules.audio;
 import javazoom.jl.decoder.Bitstream;
 import javazoom.jl.decoder.Decoder;
 import javazoom.jl.decoder.Header;
+import javazoom.jl.decoder.JavaLayerException;
 import javazoom.jl.decoder.SampleBuffer;
 import lombok.extern.slf4j.Slf4j;
+import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
@@ -13,17 +15,18 @@ import javax.sound.sampled.AudioFormat;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.DataLine;
 import javax.sound.sampled.FloatControl;
+import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.SourceDataLine;
 import java.io.BufferedInputStream;
+import java.io.IOException;
 import java.io.InputStream;
-import java.net.URL;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicInteger;
 
 @Slf4j
-public class AudioPlayer {
+public class StreamingMp3Player {
 
     private static final int BITS_PER_SAMPLE = 16;
     private static final boolean SIGNED = true;
@@ -31,62 +34,39 @@ public class AudioPlayer {
     private static final int MIN_VOLUME = 0;
     private static final int MAX_VOLUME = 100;
     private static final double AMPLITUDE_DECIBEL_FACTOR = 20.0;
-    private static final int MICROS_PER_MILLI = 1000;
     private static final double LINE_BUFFER_SECONDS = 0.1;
     private static final int FADE_OUT_STEPS = 8;
     private static final long FADE_OUT_STEP_MILLIS = 2;
     private static final double NORMAL_SPEED = 1.0;
     private static final int DECODE_INITIAL_CAPACITY = 1 << 18;
-    private static final int BUFFER_GROWTH_FACTOR = 2;
     private static final int WRITE_CHUNK_FRAMES = 1024;
 
     private final OkHttpClient okHttpClient;
+    private final Runnable onPlaybackComplete;
 
     private final AtomicInteger generation = new AtomicInteger();
     private final Object pauseLock = new Object();
 
-    private volatile URL source;
-    private volatile boolean active;
+    private volatile boolean playing;
     private volatile boolean paused;
     private volatile boolean stopRequested;
     private volatile int volumePercent = MAX_VOLUME;
     private volatile double speed = NORMAL_SPEED;
     private volatile SourceDataLine line;
 
-    public AudioPlayer(OkHttpClient okHttpClient) {
+    public StreamingMp3Player(OkHttpClient okHttpClient, Runnable onPlaybackComplete) {
         this.okHttpClient = okHttpClient;
+        this.onPlaybackComplete = onPlaybackComplete;
     }
 
-    public void setSpeed(double speed) {
-        this.speed = speed <= 0 ? NORMAL_SPEED : speed;
-    }
-
-    public void add(URL url) {
-        this.source = url;
-    }
-
-    public void clearPlayList() {
-        this.source = null;
-    }
-
-    public synchronized void play() {
-        if (active && paused) {
-            resumeInternal();
-            return;
-        }
-
-        URL current = source;
-        if (current == null) {
-            return;
-        }
-
+    public synchronized void play(HttpUrl url) {
         signalStop();
         int currentGeneration = generation.incrementAndGet();
         stopRequested = false;
         paused = false;
-        active = true;
+        playing = true;
 
-        Thread worker = new Thread(() -> runPlayback(current, currentGeneration), "quest-voiceover-audio");
+        Thread worker = new Thread(() -> runPlayback(url, currentGeneration), "quest-voiceover-audio");
         worker.setDaemon(true);
         worker.start();
     }
@@ -94,19 +74,33 @@ public class AudioPlayer {
     public synchronized void stop() {
         signalStop();
         generation.incrementAndGet();
-        active = false;
+        playing = false;
         paused = false;
     }
 
-    public void pause() {
-        if (!active || paused) {
+    public synchronized void pause() {
+        if (!playing || paused) {
             return;
         }
         paused = true;
     }
 
-    public boolean isStopped() {
-        return !active;
+    public synchronized void resume() {
+        if (!playing || !paused) {
+            return;
+        }
+        synchronized (pauseLock) {
+            paused = false;
+            pauseLock.notifyAll();
+        }
+    }
+
+    public boolean isPlaying() {
+        return playing;
+    }
+
+    public boolean isPaused() {
+        return paused;
     }
 
     public int getPositionMillis() {
@@ -114,7 +108,7 @@ public class AudioPlayer {
         if (currentLine == null) {
             return 0;
         }
-        return (int) (currentLine.getMicrosecondPosition() / MICROS_PER_MILLI);
+        return (int) (currentLine.getMicrosecondPosition() / 1000);
     }
 
     public void setVolume(int volume) {
@@ -125,11 +119,8 @@ public class AudioPlayer {
         }
     }
 
-    private void resumeInternal() {
-        synchronized (pauseLock) {
-            paused = false;
-            pauseLock.notifyAll();
-        }
+    public void setSpeed(double speed) {
+        this.speed = speed <= 0 ? NORMAL_SPEED : speed;
     }
 
     private void signalStop() {
@@ -140,7 +131,7 @@ public class AudioPlayer {
         }
     }
 
-    private void runPlayback(URL url, int myGeneration) {
+    private void runPlayback(HttpUrl url, int myGeneration) {
         Request request = new Request.Builder().url(url).build();
         try (Response response = okHttpClient.newCall(request).execute()) {
             if (!response.isSuccessful() || response.body() == null) {
@@ -148,18 +139,23 @@ public class AudioPlayer {
                 return;
             }
             playFromStream(response.body().byteStream(), url, myGeneration);
-        } catch (Exception exception) {
+        } catch (IOException | JavaLayerException | LineUnavailableException | RuntimeException exception) {
             log.error("Failed to play audio: {}", url, exception);
         } finally {
             synchronized (this) {
                 if (isCurrent(myGeneration)) {
-                    active = false;
+                    playing = false;
+                    paused = false;
+                    if (onPlaybackComplete != null) {
+                        onPlaybackComplete.run();
+                    }
                 }
             }
         }
     }
 
-    private void playFromStream(InputStream rawInput, URL url, int myGeneration) throws Exception {
+    private void playFromStream(InputStream rawInput, HttpUrl url, int myGeneration)
+        throws IOException, JavaLayerException, LineUnavailableException {
         double currentSpeed = speed;
         PlaybackResult result = PlaybackResult.NONE;
 
@@ -181,7 +177,8 @@ public class AudioPlayer {
         }
     }
 
-    private PlaybackResult playStreaming(Bitstream bitstream, Decoder decoder, int myGeneration) throws Exception {
+    private PlaybackResult playStreaming(Bitstream bitstream, Decoder decoder, int myGeneration)
+        throws JavaLayerException, LineUnavailableException {
         SourceDataLine localLine = null;
 
         try {
@@ -206,7 +203,7 @@ public class AudioPlayer {
                 localLine.write(pcm, 0, pcm.length);
                 bitstream.closeFrame();
             }
-        } catch (Exception exception) {
+        } catch (JavaLayerException | LineUnavailableException | RuntimeException exception) {
             finishLine(localLine, false);
             throw exception;
         }
@@ -214,7 +211,8 @@ public class AudioPlayer {
         return new PlaybackResult(localLine, localLine != null && isCurrent(myGeneration));
     }
 
-    private PlaybackResult playStretched(Bitstream bitstream, Decoder decoder, int myGeneration, double currentSpeed) throws Exception {
+    private PlaybackResult playStretched(Bitstream bitstream, Decoder decoder, int myGeneration, double currentSpeed)
+        throws JavaLayerException, LineUnavailableException {
         DecodedAudio decoded = decodeAll(bitstream, decoder, myGeneration);
         if (decoded == null || !isCurrent(myGeneration)) {
             return PlaybackResult.NONE;
@@ -226,13 +224,13 @@ public class AudioPlayer {
         try {
             boolean playedToEnd = writeSamples(localLine, stretched, decoded.channels, myGeneration);
             return new PlaybackResult(localLine, playedToEnd);
-        } catch (Exception exception) {
+        } catch (RuntimeException exception) {
             finishLine(localLine, false);
             throw exception;
         }
     }
 
-    private DecodedAudio decodeAll(Bitstream bitstream, Decoder decoder, int myGeneration) throws Exception {
+    private DecodedAudio decodeAll(Bitstream bitstream, Decoder decoder, int myGeneration) throws JavaLayerException {
         short[] samples = new short[DECODE_INITIAL_CAPACITY];
         int sampleCount = 0;
         int sampleRate = 0;
@@ -252,7 +250,7 @@ public class AudioPlayer {
 
             int length = buffer.getBufferLength();
             if (sampleCount + length > samples.length) {
-                samples = Arrays.copyOf(samples, Math.max(samples.length * BUFFER_GROWTH_FACTOR, sampleCount + length));
+                samples = Arrays.copyOf(samples, Math.max(samples.length * 2, sampleCount + length));
             }
             System.arraycopy(buffer.getBuffer(), 0, samples, sampleCount, length);
             sampleCount += length;
@@ -284,9 +282,11 @@ public class AudioPlayer {
         return true;
     }
 
-    private SourceDataLine startLine(int sampleRate, int channels) throws Exception {
+    private SourceDataLine startLine(int sampleRate, int channels) throws LineUnavailableException {
         SourceDataLine sourceLine = openLine(sampleRate, channels);
-        line = sourceLine;
+        synchronized (this) {
+            line = sourceLine;
+        }
         applyGain(sourceLine, volumePercent);
         sourceLine.start();
         return sourceLine;
@@ -304,8 +304,10 @@ public class AudioPlayer {
         }
         localLine.stop();
         localLine.close();
-        if (line == localLine) {
-            line = null;
+        synchronized (this) {
+            if (line == localLine) {
+                line = null;
+            }
         }
     }
 
@@ -346,7 +348,7 @@ public class AudioPlayer {
         }
     }
 
-    private SourceDataLine openLine(int sampleRate, int channels) throws Exception {
+    private SourceDataLine openLine(int sampleRate, int channels) throws LineUnavailableException {
         AudioFormat format = new AudioFormat(sampleRate, BITS_PER_SAMPLE, channels, SIGNED, BIG_ENDIAN);
         DataLine.Info info = new DataLine.Info(SourceDataLine.class, format);
         SourceDataLine sourceLine = (SourceDataLine) AudioSystem.getLine(info);

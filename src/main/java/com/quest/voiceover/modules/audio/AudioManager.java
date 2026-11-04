@@ -1,8 +1,10 @@
 package com.quest.voiceover.modules.audio;
 
+import com.quest.voiceover.Constants;
 import com.quest.voiceover.QuestVoiceoverConfig;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.Client;
+import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
 
 import javax.inject.Inject;
@@ -21,25 +23,21 @@ public class AudioManager {
     private Client client;
 
     @Inject
-    private OkHttpClient okHttpClient;
-
-    @Inject
     private AudioDuckingManager audioDuckingManager;
 
     @Inject
     private AudioQueueManager audioQueueManager;
 
-    private AudioPlayerManager audioPlayer;
+    private final StreamingMp3Player audioPlayer;
     private int playbackStartTick;
 
-    private void initializePlayerIfNeeded() {
-        if (audioPlayer == null) {
-            audioPlayer = new AudioPlayerManager(this::onPlaybackComplete, okHttpClient);
-        }
+    @Inject
+    private AudioManager(OkHttpClient okHttpClient) {
+        this.audioPlayer = new StreamingMp3Player(okHttpClient, this::onPlaybackComplete);
     }
 
     public int getPlaybackPositionMillis() {
-        return audioPlayer == null ? 0 : audioPlayer.getPositionMillis();
+        return audioPlayer.getPositionMillis();
     }
 
     public void play(String fileName, String questName, String characterName) {
@@ -47,8 +45,6 @@ public class AudioManager {
             log.warn("Attempted to play null or empty fileName");
             return;
         }
-
-        initializePlayerIfNeeded();
 
         if (shouldQueueAdditionalLines() && isPlaying()) {
             audioQueueManager.add(fileName, questName, characterName);
@@ -59,33 +55,26 @@ public class AudioManager {
         audioQueueManager.setCurrentlyPlaying(fileName, questName, characterName);
 
         playbackStartTick = client.getTickCount();
-        audioDuckingManager.duck();
 
-        applyVolume();
-        applySpeed();
-        audioPlayer.play(fileName);
+        startPlayback(fileName);
+        audioDuckingManager.duck();
     }
 
     public void pause() {
-        initializePlayerIfNeeded();
         audioPlayer.pause();
         log.info("Audio paused");
     }
 
     public void resume() {
-        initializePlayerIfNeeded();
         audioPlayer.resume();
         log.info("Audio resumed");
     }
 
     public boolean isPaused() {
-        return audioPlayer != null && audioPlayer.isPaused();
+        return audioPlayer.isPaused();
     }
 
     public void setVolume(int volume) {
-        if (audioPlayer == null) {
-            return;
-        }
         audioPlayer.setVolume(volume);
     }
 
@@ -127,11 +116,7 @@ public class AudioManager {
 
     public void stopAll() {
         audioQueueManager.clear();
-
-        if (audioPlayer != null) {
-            audioPlayer.stop();
-        }
-
+        audioPlayer.stop();
         audioDuckingManager.restore();
     }
 
@@ -148,15 +133,11 @@ public class AudioManager {
 
         log.info("Skipping to next: {}", next.getFileName());
         audioQueueManager.setCurrentlyPlaying(next.getFileName(), next.getQuestName(), next.getCharacterName());
-        applyVolume();
-        applySpeed();
-        audioPlayer.play(next.getFileName());
+        startPlayback(next.getFileName());
     }
 
     public boolean isPlaying() {
-        boolean playerActive = audioPlayer != null && audioPlayer.isPlaying();
-        boolean hasQueue = !audioQueueManager.isEmpty();
-        return playerActive || hasQueue;
+        return audioPlayer.isPlaying() || !audioQueueManager.isEmpty();
     }
 
     private void onPlaybackComplete() {
@@ -168,17 +149,19 @@ public class AudioManager {
 
         log.info("Playing next from queue: {}", next.getFileName());
         audioQueueManager.setCurrentlyPlaying(next.getFileName(), next.getQuestName(), next.getCharacterName());
-        applyVolume();
-        applySpeed();
-        audioPlayer.play(next.getFileName());
+        startPlayback(next.getFileName());
     }
 
-    private void applyVolume() {
-        int volume = config.mute() ? 0 : config.volume();
-        audioPlayer.setVolume(volume);
-    }
-
-    private void applySpeed() {
+    private void startPlayback(String fileName) {
+        audioPlayer.setVolume(config.mute() ? 0 : config.volume());
         audioPlayer.setSpeed(config.playbackSpeed().getMultiplier());
+        audioPlayer.play(soundUrl(fileName));
+        log.info("Playing audio: {}", fileName);
+    }
+
+    private HttpUrl soundUrl(String fileName) {
+        return Constants.RAW_GITHUB_SOUND_BRANCH_URL.newBuilder()
+            .addPathSegment(fileName)
+            .build();
     }
 }

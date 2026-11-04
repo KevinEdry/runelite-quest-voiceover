@@ -14,7 +14,7 @@ public class AudioQueueManager {
     private final Queue<QueuedAudio> queue = new ConcurrentLinkedQueue<>();
 
     @Getter
-    private QueuedAudio currentlyPlaying;
+    private volatile QueuedAudio currentlyPlaying;
 
     public void add(String fileName, String questName, String characterName) {
         QueuedAudio item = new QueuedAudio(fileName, questName, characterName);
