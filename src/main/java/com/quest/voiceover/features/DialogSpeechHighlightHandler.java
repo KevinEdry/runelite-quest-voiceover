@@ -19,8 +19,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -52,11 +52,12 @@ public class DialogSpeechHighlightHandler {
     @Inject
     private AudioManager audioManager;
 
-    private String originalText;
-    private List<WordPosition> wordPositions;
+    private volatile String originalText;
+    private volatile List<WordPosition> wordPositions;
     private volatile int currentWordIndex;
+    private volatile double activeSpeed = 1.0;
     private long playbackStartWallClock;
-    private final List<ScheduledFuture<?>> scheduledTasks = new ArrayList<>();
+    private final AtomicInteger highlightGeneration = new AtomicInteger();
 
     public void startAsync(String audioUri, String dialogText) {
         if (!config.speechHighlighting()) {
@@ -98,29 +99,23 @@ public class DialogSpeechHighlightHandler {
     }
 
     private void start(String dialogText, long durationMs) {
-        stop();
+        int generation = highlightGeneration.incrementAndGet();
 
         originalText = dialogText;
         wordPositions = parseWordPositions(dialogText);
         currentWordIndex = 0;
+        activeSpeed = config.playbackSpeed().getMultiplier();
 
         if (wordPositions.isEmpty()) {
             return;
         }
 
         long effectiveDuration = durationMs > 0 ? durationMs : calculateFallbackDuration();
-        scheduleWordHighlights(effectiveDuration);
+        scheduleWordHighlights(effectiveDuration, generation);
     }
 
     public void stop() {
-        for (ScheduledFuture<?> task : scheduledTasks) {
-            task.cancel(false);
-        }
-        reset();
-    }
-
-    private void reset() {
-        scheduledTasks.clear();
+        highlightGeneration.incrementAndGet();
         originalText = null;
         wordPositions = null;
         currentWordIndex = 0;
@@ -145,10 +140,10 @@ public class DialogSpeechHighlightHandler {
         return positions;
     }
 
-    private void scheduleWordHighlights(long totalDurationMs) {
+    private void scheduleWordHighlights(long totalDurationMs, int generation) {
         long[] wordStartTimes = computeWordStartTimes(totalDurationMs);
         playbackStartWallClock = System.currentTimeMillis();
-        pollHighlight(wordStartTimes);
+        pollHighlight(wordStartTimes, generation);
     }
 
     private long[] computeWordStartTimes(long totalDurationMs) {
@@ -164,8 +159,12 @@ public class DialogSpeechHighlightHandler {
         return startTimes;
     }
 
-    private void pollHighlight(long[] wordStartTimes) {
-        ScheduledFuture<?> task = executor.schedule(() -> {
+    private void pollHighlight(long[] wordStartTimes, int generation) {
+        executor.schedule(() -> {
+            if (generation != highlightGeneration.get()) {
+                return;
+            }
+
             long position = resolvePlaybackPosition();
             int wordsStarted = countWordsStarted(wordStartTimes, position);
 
@@ -174,10 +173,9 @@ public class DialogSpeechHighlightHandler {
             }
 
             if (currentWordIndex < wordStartTimes.length) {
-                pollHighlight(wordStartTimes);
+                pollHighlight(wordStartTimes, generation);
             }
         }, HIGHLIGHT_POLL_MS, TimeUnit.MILLISECONDS);
-        scheduledTasks.add(task);
     }
 
     /**
@@ -187,7 +185,7 @@ public class DialogSpeechHighlightHandler {
     private long resolvePlaybackPosition() {
         // Word timings are computed against the un-sped audio, so scale elapsed playback back
         // onto that timeline when the user speeds voiceovers up.
-        double speed = config.playbackSpeed().getMultiplier();
+        double speed = activeSpeed;
         long audioPosition = audioManager.getPlaybackPositionMillis();
         if (audioPosition > 0) {
             return (long) (audioPosition * speed);
@@ -204,12 +202,14 @@ public class DialogSpeechHighlightHandler {
     }
 
     private void highlightUpToWord(int wordIndex) {
-        if (wordPositions == null || originalText == null) {
+        List<WordPosition> positions = wordPositions;
+        String text = originalText;
+        if (positions == null || text == null) {
             return;
         }
 
         currentWordIndex = wordIndex;
-        String highlightedText = buildHighlightedText();
+        String highlightedText = buildHighlightedText(positions, text, wordIndex);
         clientThread.invokeLater(() -> dialogManager.setDialogText(highlightedText));
     }
 
@@ -230,16 +230,16 @@ public class DialogSpeechHighlightHandler {
         return (long) ((wordPositions.size() / FALLBACK_WORDS_PER_SECOND) * 1000);
     }
 
-    private String buildHighlightedText() {
-        if (currentWordIndex <= 0 || wordPositions.isEmpty()) {
-            return originalText;
+    private String buildHighlightedText(List<WordPosition> positions, String text, int wordIndex) {
+        if (wordIndex <= 0 || positions.isEmpty()) {
+            return text;
         }
 
         String colorTag = ColorUtility.toOsrsColorTag(config.speechHighlightColor());
-        int highlightEnd = wordPositions.get(Math.min(currentWordIndex, wordPositions.size()) - 1).end;
+        int highlightEnd = positions.get(Math.min(wordIndex, positions.size()) - 1).end;
 
-        String highlightedPortion = originalText.substring(0, highlightEnd);
-        String remainingPortion = originalText.substring(highlightEnd);
+        String highlightedPortion = text.substring(0, highlightEnd);
+        String remainingPortion = text.substring(highlightEnd);
 
         highlightedPortion = TextUtility.reapplyColorAfterLineBreaks(highlightedPortion, colorTag);
 

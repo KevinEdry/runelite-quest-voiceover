@@ -31,11 +31,12 @@ public final class TimeStretcher {
 
         int analysisHop = Math.max(MIN_ANALYSIS_HOP, (int) Math.round(SYNTHESIS_HOP * speed));
         int maxGrains = (totalFrames - WINDOW_FRAMES) / analysisHop;
-        float[] output = new float[(maxGrains * SYNTHESIS_HOP + WINDOW_FRAMES) * channels];
+        float[] output = new float[((maxGrains + 1) * SYNTHESIS_HOP + WINDOW_FRAMES) * channels];
 
         overlapAdd(output, 0, samples, 0, channels);
         int naturalStart = SYNTHESIS_HOP;
         int lastOutputFrameEnd = WINDOW_FRAMES;
+        int lastGrainStart = 0;
 
         for (int grain = 1; grain <= maxGrains; grain++) {
             int analysisStart = grain * analysisHop;
@@ -47,7 +48,15 @@ public final class TimeStretcher {
             int outputStart = grain * SYNTHESIS_HOP;
             overlapAdd(output, outputStart, samples, grainStart, channels);
             lastOutputFrameEnd = outputStart + WINDOW_FRAMES;
+            lastGrainStart = grainStart;
             naturalStart = grainStart + SYNTHESIS_HOP;
+        }
+
+        int tailGrainStart = totalFrames - WINDOW_FRAMES;
+        if (tailGrainStart > lastGrainStart) {
+            int outputStart = lastOutputFrameEnd - SYNTHESIS_HOP;
+            overlapAdd(output, outputStart, samples, tailGrainStart, channels);
+            lastOutputFrameEnd = outputStart + WINDOW_FRAMES;
         }
 
         return toShorts(output, lastOutputFrameEnd * channels);

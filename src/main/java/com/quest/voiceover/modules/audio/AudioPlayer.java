@@ -159,13 +159,19 @@ public class AudioPlayer {
                 log.warn("Failed to fetch audio {}: HTTP {}", url, response.code());
                 return;
             }
-            playFromStream(response.body().byteStream(), myGeneration);
+            playFromStream(response.body().byteStream(), url, myGeneration);
         } catch (Exception exception) {
             log.error("Failed to play audio: {}", url, exception);
+        } finally {
+            synchronized (this) {
+                if (isCurrent(myGeneration)) {
+                    active = false;
+                }
+            }
         }
     }
 
-    private void playFromStream(InputStream rawInput, int myGeneration) throws Exception {
+    private void playFromStream(InputStream rawInput, URL url, int myGeneration) throws Exception {
         double currentSpeed = speed;
         PlaybackResult result = PlaybackResult.NONE;
 
@@ -178,37 +184,43 @@ public class AudioPlayer {
                 : playStretched(bitstream, decoder, myGeneration, currentSpeed);
 
             bitstream.close();
+
+            if (result.line == null && isCurrent(myGeneration)) {
+                log.warn("No decodable MP3 frames in audio stream {}", url);
+            }
         } finally {
             finishLine(result.line, result.playedToEnd && isCurrent(myGeneration));
-            if (isCurrent(myGeneration)) {
-                active = false;
-            }
         }
     }
 
     private PlaybackResult playStreaming(Bitstream bitstream, Decoder decoder, int myGeneration) throws Exception {
         SourceDataLine localLine = null;
 
-        while (isCurrent(myGeneration)) {
-            Header header = bitstream.readFrame();
-            if (header == null) {
-                break;
+        try {
+            while (isCurrent(myGeneration)) {
+                Header header = bitstream.readFrame();
+                if (header == null) {
+                    break;
+                }
+
+                SampleBuffer samples = (SampleBuffer) decoder.decodeFrame(header, bitstream);
+
+                if (localLine == null) {
+                    localLine = startLine(samples.getSampleFrequency(), samples.getChannelCount());
+                }
+
+                waitWhilePaused(myGeneration);
+                if (!isCurrent(myGeneration)) {
+                    break;
+                }
+
+                byte[] pcm = toLittleEndianBytes(samples.getBuffer(), 0, samples.getBufferLength());
+                localLine.write(pcm, 0, pcm.length);
+                bitstream.closeFrame();
             }
-
-            SampleBuffer samples = (SampleBuffer) decoder.decodeFrame(header, bitstream);
-
-            if (localLine == null) {
-                localLine = startLine(samples.getSampleFrequency(), samples.getChannelCount());
-            }
-
-            waitWhilePaused(myGeneration);
-            if (!isCurrent(myGeneration)) {
-                break;
-            }
-
-            byte[] pcm = toLittleEndianBytes(samples.getBuffer(), 0, samples.getBufferLength());
-            localLine.write(pcm, 0, pcm.length);
-            bitstream.closeFrame();
+        } catch (Exception exception) {
+            finishLine(localLine, false);
+            throw exception;
         }
 
         return new PlaybackResult(localLine, localLine != null && isCurrent(myGeneration));
@@ -223,8 +235,13 @@ public class AudioPlayer {
         short[] stretched = TimeStretcher.stretch(
             decoded.samples, decoded.sampleCount, decoded.channels, currentSpeed);
         SourceDataLine localLine = startLine(decoded.sampleRate, decoded.channels);
-        boolean playedToEnd = writeSamples(localLine, stretched, decoded.channels, myGeneration);
-        return new PlaybackResult(localLine, playedToEnd);
+        try {
+            boolean playedToEnd = writeSamples(localLine, stretched, decoded.channels, myGeneration);
+            return new PlaybackResult(localLine, playedToEnd);
+        } catch (Exception exception) {
+            finishLine(localLine, false);
+            throw exception;
+        }
     }
 
     private DecodedAudio decodeAll(Bitstream bitstream, Decoder decoder, int myGeneration) throws Exception {

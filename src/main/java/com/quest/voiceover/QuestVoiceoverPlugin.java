@@ -110,7 +110,7 @@ public class QuestVoiceoverPlugin extends Plugin {
 
     @Override
     protected void shutDown() throws Exception {
-        audioDuckingManager.restore();
+        audioManager.stopAll();
         databaseManager.closeConnection();
         clientToolbar.removeNavigation(navigationButton);
         overlayManager.remove(voiceoverOverlay);
