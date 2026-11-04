@@ -52,6 +52,26 @@ public interface QuestVoiceoverConfig extends Config
 		}
 	}
 
+	@RequiredArgsConstructor
+	enum PlaybackSpeed
+	{
+		NORMAL(1.0, "1x"),
+		FAST_1_25(1.25, "1.25x"),
+		FAST_1_5(1.5, "1.5x"),
+		FAST_1_75(1.75, "1.75x"),
+		FAST_2(2.0, "2x");
+
+		@Getter
+		private final double multiplier;
+		private final String label;
+
+		@Override
+		public String toString()
+		{
+			return label;
+		}
+	}
+
 	@ConfigSection(
 			name = "Voice",
 			description = "Voice configuration options",
@@ -179,6 +199,18 @@ public interface QuestVoiceoverConfig extends Config
 	default boolean finishLastLine()
 	{
 		return false;
+	}
+
+	@ConfigItem(
+			keyName = "playbackSpeed",
+			name = "Playback Speed",
+			description = "Speed up voiceover playback without changing pitch.",
+			section = audioSettings,
+			position = 17
+	)
+	default PlaybackSpeed playbackSpeed()
+	{
+		return PlaybackSpeed.NORMAL;
 	}
 
 	@ConfigItem(

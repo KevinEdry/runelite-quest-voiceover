@@ -24,7 +24,7 @@ public class AudioDuckingManager {
     private int originalAreaEffectVolume = -1;
     private boolean isDucked = false;
 
-    public void duck() {
+    public synchronized void duck() {
         if (!config.audioDucking() || isDucked) {
             return;
         }
@@ -46,7 +46,7 @@ public class AudioDuckingManager {
         isDucked = true;
     }
 
-    public void restore() {
+    public synchronized void restore() {
         if (!isDucked) {
             return;
         }
