@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.2](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.14.1...v1.14.2) (2026-11-10)
+
+
+### Bug Fixes
+
+* drop the decoder exception's System.err stack-trace printing ([#407](https://github.com/KevinEdry/runelite-quest-voiceover/issues/407)) ([b20ef5a](https://github.com/KevinEdry/runelite-quest-voiceover/commit/b20ef5a38e08650e85972a44a1858bebb92958bb))
+
 ## [1.14.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.14.0...v1.14.1) (2026-11-10)
 
 
