@@ -20,8 +20,6 @@
 
 package com.quest.voiceover.modules.audio.decoder;
 
-import java.io.PrintStream;
-
 
 /**
  * The AudioDecoderException is the base class for all API-level
@@ -55,26 +53,8 @@ public class AudioDecoderException extends Exception
 	
 	public Throwable getException()
 	{
-		return exception;	
+		return exception;
 	}
-	
-	
-	public void printStackTrace()
-	{
-		printStackTrace(System.err);	
-	}
-	
-	public void printStackTrace(PrintStream ps)
-	{
-		if (this.exception==null)
-		{
-			super.printStackTrace(ps);	
-		}
-		else
-		{
-			exception.printStackTrace();
-		}
-	}
-	
-	
+
+
 }
