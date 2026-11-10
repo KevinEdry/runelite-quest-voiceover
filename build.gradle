@@ -22,9 +22,6 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'client', version: runeLiteVersion
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 
-	implementation('com.googlecode.soundlibs:jlayer:1.0.1.4') {
-		exclude group: 'junit'
-	}
 	implementation 'org.xerial:sqlite-jdbc:3.46.0.0'
 }
 
