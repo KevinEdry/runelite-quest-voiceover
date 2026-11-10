@@ -1,10 +1,10 @@
 package com.quest.voiceover.modules.audio;
 
-import javazoom.jl.decoder.Bitstream;
-import javazoom.jl.decoder.Decoder;
-import javazoom.jl.decoder.Header;
-import javazoom.jl.decoder.JavaLayerException;
-import javazoom.jl.decoder.SampleBuffer;
+import com.quest.voiceover.modules.audio.decoder.Bitstream;
+import com.quest.voiceover.modules.audio.decoder.Decoder;
+import com.quest.voiceover.modules.audio.decoder.Header;
+import com.quest.voiceover.modules.audio.decoder.AudioDecoderException;
+import com.quest.voiceover.modules.audio.decoder.SampleBuffer;
 import lombok.extern.slf4j.Slf4j;
 import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
@@ -139,7 +139,7 @@ public class StreamingMp3Player {
                 return;
             }
             playFromStream(response.body().byteStream(), url, myGeneration);
-        } catch (IOException | JavaLayerException | LineUnavailableException | RuntimeException exception) {
+        } catch (IOException | AudioDecoderException | LineUnavailableException | RuntimeException exception) {
             log.error("Failed to play audio: {}", url, exception);
         } finally {
             synchronized (this) {
@@ -155,7 +155,7 @@ public class StreamingMp3Player {
     }
 
     private void playFromStream(InputStream rawInput, HttpUrl url, int myGeneration)
-        throws IOException, JavaLayerException, LineUnavailableException {
+        throws IOException, AudioDecoderException, LineUnavailableException {
         double currentSpeed = speed;
         PlaybackResult result = PlaybackResult.NONE;
 
@@ -178,7 +178,7 @@ public class StreamingMp3Player {
     }
 
     private PlaybackResult playStreaming(Bitstream bitstream, Decoder decoder, int myGeneration)
-        throws JavaLayerException, LineUnavailableException {
+        throws AudioDecoderException, LineUnavailableException {
         SourceDataLine localLine = null;
 
         try {
@@ -203,7 +203,7 @@ public class StreamingMp3Player {
                 localLine.write(pcm, 0, pcm.length);
                 bitstream.closeFrame();
             }
-        } catch (JavaLayerException | LineUnavailableException | RuntimeException exception) {
+        } catch (AudioDecoderException | LineUnavailableException | RuntimeException exception) {
             finishLine(localLine, false);
             throw exception;
         }
@@ -212,7 +212,7 @@ public class StreamingMp3Player {
     }
 
     private PlaybackResult playStretched(Bitstream bitstream, Decoder decoder, int myGeneration, double currentSpeed)
-        throws JavaLayerException, LineUnavailableException {
+        throws AudioDecoderException, LineUnavailableException {
         DecodedAudio decoded = decodeAll(bitstream, decoder, myGeneration);
         if (decoded == null || !isCurrent(myGeneration)) {
             return PlaybackResult.NONE;
@@ -230,7 +230,7 @@ public class StreamingMp3Player {
         }
     }
 
-    private DecodedAudio decodeAll(Bitstream bitstream, Decoder decoder, int myGeneration) throws JavaLayerException {
+    private DecodedAudio decodeAll(Bitstream bitstream, Decoder decoder, int myGeneration) throws AudioDecoderException {
         short[] samples = new short[DECODE_INITIAL_CAPACITY];
         int sampleCount = 0;
         int sampleRate = 0;
