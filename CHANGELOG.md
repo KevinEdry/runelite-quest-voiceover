@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.14.1](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.14.0...v1.14.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* vendor the MP3 decoder sources ([#405](https://github.com/KevinEdry/runelite-quest-voiceover/issues/405)) ([ae2746b](https://github.com/KevinEdry/runelite-quest-voiceover/commit/ae2746b4418ee4e8c788de35f0f725bd80bb666f))
+
 ## [1.14.0](https://github.com/KevinEdry/runelite-quest-voiceover/compare/v1.13.0...v1.14.0) (2026-11-04)
 
 
